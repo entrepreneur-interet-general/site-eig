@@ -1,65 +1,53 @@
 ---
-layout: blog
+layout: default
 ---
 
-
-<div class='mod modBlogPost big no_bg'>
-  <div class='images'>
-    {% for image in page.images %}
-      <div class='image'><img alt="" src="{{site.url}}/{{image}}" /></div>
-    {% endfor %}
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          {% for image in page.images %}
+            <div class="slide">
+              <img src="{{site.url}}/{{image}}" alt="">
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class='large-4 columns'>
+      <h3>{{page.title}}</h3>
+      <p>
+        {{content}}
+      </p>
+      <ul class='info'>
+        <li>
+          <strong>Année :</strong>
+          {{page.year}}
+        </li>
+        <li>
+          <strong>EIGs :</strong>
+          {{page.eigs}}
+        </li>
+      </ul>
+      <div class='spacing'></div>
+      <a class='button small' href='{{page.website}}'>Visiter le site du défi</a>
+      <div class='spacing'></div>
+      <ul class='info'>
+        <li>
+          <div class='spacing'></div>
+          <a href='' title='previous'>
+            <i class='icon-left-open'></i>
+          </a>
+          <a href='portfolio.html' title='back to work list'>
+            <i class='icon-layout'></i>
+          </a>
+          <a href='' title='next'>
+            <i class='icon-right-open'></i>
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
-  <div class='content'>
-    <p class='info'>
-      <span>{{page.date | date: "%B %d, %Y" }}</span>
-      /
-      <span>
-        by
-        <a href="">{{page.author}}</a>
-      </span>
-      /
-      <span>
-        In
-        {% for cat in page.categories %}
-          <a href="#">{{cat}}</a>
-          {% unless forloop.last %}
-              ,
-          {% endunless %}
-        {% endfor %}
-      </span>
-      /
-      <span>
-        <a href="#">4 commetns</a>
-      </span>
-    </p>
-    <h3><a href="{{page.url}}">{{page.title}}</a></h3>
-    {{content}}
-  </div>
+  <div class='four spacing'></div>
 </div>
-<div class='two spacing'></div>
-<a id='comments'></a>
-{% include comments.html %}
-<div class='four spacing'></div>
-<div id='comment-form'>
-  <h3>Your comment</h3>
-  <form accept-charset='UTF-8' action='#' method='post'>
-    <p class='name'>
-      <label for='name'>Your Name</label>
-      <input class='input-text required' id='name' name='name' type='text'>
-    </p>
-    <p class='email'>
-      <label for='email'>Your Email</label>
-      <input class='input-text required' id='email' name='email' type='text'>
-    </p>
-    <p class='message'>
-      <label for='message'>Your Message</label>
-      <textarea class='required' cols='80' id='message' name='message' rows='5'></textarea>
-    </p>
-    <div class='spacing'></div>
-    <p>
-      <input class='button' type='submit' value='Send Message'>
-    </p>
-  </form>
-</div>
-<div class='four spacing'></div>
-
