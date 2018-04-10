@@ -58,4 +58,4 @@ Le travail de recherche utilisateurs permet ensuite d’adapter sa feuille de ro
 
 **La clef : les données de l’accidentologie en mer**, qui nécessitent d’être standardisées, structurées, afin de fournir une information de qualité. L’accès aux données, leur structuration afin de créer des référentiels et leur ouverture sera abordée lors d’une session « Data » le 5 avril prochain ! A suivre donc…
 
-D’autres méthodes de recherche utilisateurs existent, et pour cela vous pouvez consulter le site [« Comment faire »] (http://comment-faire.modernisation.gouv.fr/) proposé par la Direction interministérielle à la transformation publique, ou encore les [Methods Cards] (https://methods.18f.gov/) de nos cousins américains de l’agence 18 F
+D’autres méthodes de recherche utilisateurs existent, et pour cela vous pouvez consulter le site [« Comment faire »](http://comment-faire.modernisation.gouv.fr/) proposé par la Direction interministérielle à la transformation publique, ou encore les [Methods Cards](https://methods.18f.gov/) de nos cousins américains de l’agence 18 F
