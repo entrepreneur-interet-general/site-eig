@@ -101,68 +101,70 @@ clients:
 
 ---
 
-<div class='advanced mod modDefaultSlider'>
-  <div class='sequence' data-autostop='on' data-timeout='0'>
-    <a class='sequence-prev' href='javascript:void(0);'>
-      <span></span>
-    </a>
-    <a class='sequence-next' href='javascript:void(0);'>
-      <span></span>
-    </a>
-    <ul class='sequence-pagination'>
-      {% for slide in page.slides %}
-        {% if forloop.index == 1 %}
-          <li class='current'></li>
-        {% else %}
-          <li></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-    <ul class='sequence-canvas'>
-      {% for slide in page.slides %}
-        {% if forloop.index == 1 %}
-          {% assign class = "static" %}
-        {% else %}
-          {% assign class = '' %}
-        {% endif %}
+<!-- <div class='advanced mod modDefaultSlider'>
+     <div class='sequence' data-autostop='on' data-timeout='0'>
+     <a class='sequence-prev' href='javascript:void(0);'>
+     <span></span>
+     </a>
+     <a class='sequence-next' href='javascript:void(0);'>
+     <span></span>
+     </a>
+     <ul class='sequence-pagination'>
+     {% for slide in page.slides %}
+     {% if forloop.index == 1 %}
+     <li class='current'></li>
+     {% else %}
+     <li></li>
+     {% endif %}
+     {% endfor %}
+     </ul>
+     <ul class='sequence-canvas'>
+     {% for slide in page.slides %}
+     {% if forloop.index == 1 %}
+     {% assign class = "static" %}
+     {% else %}
+     {% assign class = '' %}
+     {% endif %}
 
-        <li class='frame {{class}}'>
-          <div class='bg' style='background-image: url({{slide.bg}});'></div>
-          {% if slide.infos %}
-            {% for info in slide.infos %}
-              <div class='info{{forloop.index}} {{info.animation}}' style=''>
-                <div class='row'>
-                  <div class='medium-10 large-8 columns'>
-                    <p class='fa fa-check' style='color: #333;'>{{info.text}}</p>
-                    <div class='spacing'></div>
-                  </div>
-                </div>
-              </div>
-            {% endfor %}
-          {% else %}
-            <div class='title {{slide.title.animation}}' style='color: rgb(255, 255, 255);'>
-              <div class='row'>
-                <div class='{{slide.title.class}} columns'>
-                  <h2>{{slide.title.text}}</h2>
-                </div>
-              </div>
-            </div>
-          {% endif %}
-          <div class='buttons-wrapper {{slide.buttons.animation}}' style=''>
-            <div class='row'>
-              <div class='{{slide.buttons.class}} columns'>
-                <div class='two spacing'></div>
-                {% for button in slide.buttons.items %}
-                  <a target="_blank" class='button {{button.class}}' href='{{button.url}}'>{{button.text}}</a>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+     <li class='frame {{class}}'>
+     <div class='bg' style='background-image: url({{slide.bg}});'></div>
+     {% if slide.infos %}
+     {% for info in slide.infos %}
+     <div class='info{{forloop.index}} {{info.animation}}' style=''>
+     <div class='row'>
+     <div class='medium-10 large-8 columns'>
+     <p class='fa fa-check' style='color: #333;'>{{info.text}}</p>
+     <div class='spacing'></div>
+     </div>
+     </div>
+     </div>
+     {% endfor %}
+     {% else %}
+     <div class='title {{slide.title.animation}}' style='color: rgb(255, 255, 255);'>
+     <div class='row'>
+     <div class='{{slide.title.class}} columns'>
+     <h2>{{slide.title.text}}</h2>
+     </div>
+     </div>
+     </div>
+     {% endif %}
+     <div class='buttons-wrapper {{slide.buttons.animation}}' style=''>
+     <div class='row'>
+     <div class='{{slide.buttons.class}} columns'>
+     <div class='two spacing'></div>
+     {% for button in slide.buttons.items %}
+     <a target="_blank" class='button {{button.class}}' href='{{button.url}}'>{{button.text}}</a>
+     {% endfor %}
+     </div>
+     </div>
+     </div>
+     </li>
+     {% endfor %}
+     </ul>
+     </div>
+     </div> -->
+
+
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
