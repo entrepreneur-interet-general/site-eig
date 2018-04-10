@@ -1,6 +1,7 @@
 - name: Accueil
   path: index.html
   section_id: home
+
 - name: Notre histoire
   path: about.html
   section_id: about
@@ -16,16 +17,11 @@
 - name: La communauté
   path: communaute.html
   section_id: communaute
-  # FIXME: pour référence :
-  # children:
-  #   - name: Portfolio
-  #     path: portfolio.html
-  #   - name: Portfolio item
-  #     path: portfolio-item.html
+
+- name: Le blog
+  path: blog/
+  section_id: blog
 
 - name: Nous écrire
   path: contact.html
   section_id: contact
-- name: Le blog
-  path: blog/
-  section_id: blog
