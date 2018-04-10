@@ -8,7 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: etalab
 github_username:  entrepreneur-interet-general
-url: http://localhost:4000
 
 plugins: [jekyll-paginate]
 

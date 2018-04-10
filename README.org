@@ -4,3 +4,5 @@ Site du programme Entrepreneur d'intérêt général en cours de
 préparation.
 
 Le dépôt pour le site actuellement publié est [[https://github.com/entrepreneur-interet-general/blog-eig2][ici]].
+
+Le site test est visible en ligne [[http://site.eig-forever.org/][ici]].
