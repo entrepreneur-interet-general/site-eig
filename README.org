@@ -1,0 +1,6 @@
+#+title: Site Entrepreneur d’intérêt général
+
+Site du programme Entrepreneur d'intérêt général en cours de
+préparation.
+
+Le dépôt pour le site actuellement publié est [[https://github.com/entrepreneur-interet-general/blog-eig2][ici]].
