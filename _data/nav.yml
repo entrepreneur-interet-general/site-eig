@@ -4,7 +4,8 @@
 - name: Notre histoire
   path: about.html
   section_id: about
-- name: Nos réalisations
+
+- name: Nos réalisations # FIXME: à garder ?
   path: services.html
   section_id: services
 
@@ -15,6 +16,7 @@
 - name: La communauté
   path: communaute.html
   section_id: communaute
+  # FIXME: pour référence :
   # children:
   #   - name: Portfolio
   #     path: portfolio.html
