@@ -1,23 +1,29 @@
-- name: Home
+- name: Accueil
   path: index.html
   section_id: home
-- name: About
+- name: Notre histoire
   path: about.html
   section_id: about
-- name: Services
+- name: Nos réalisations
   path: services.html
   section_id: services
-- name: Portfolio
-  path: portfolio.html
-  section_id: portfolio
-  children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio item
-      path: portfolio-item.html
-- name: Contact
+
+- name: Les défis
+  path: defis.html
+  section_id: defis
+
+- name: La communauté
+  path: communaute.html
+  section_id: communaute
+  # children:
+  #   - name: Portfolio
+  #     path: portfolio.html
+  #   - name: Portfolio item
+  #     path: portfolio-item.html
+
+- name: Nous écrire
   path: contact.html
   section_id: contact
-- name: Blog
+- name: Le blog
   path: blog/
   section_id: blog
