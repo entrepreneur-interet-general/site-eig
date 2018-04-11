@@ -13,8 +13,8 @@ section_id: blog
     <div class='content'>
       <p class='info'>
 	<span>
-	{% assign m = page.date | date: "%-m" %}
-	{{ page.date | date: "%d" }}
+	{% assign m = post.date | date: "%-m" %}
+	{{ post.date | date: "%d" }}
 	{% case m %}
 	{% when '1' %}janvier
 	{% when '2' %}février
@@ -29,7 +29,7 @@ section_id: blog
 	{% when '11' %}novembre
 	{% when '12' %}décembre
 	{% endcase %}
-	{{ page.date | date: "%Y" }}
+	{{ post.date | date: "%Y" }}
       </span>
 
         /
