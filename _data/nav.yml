@@ -6,9 +6,9 @@
   path: about.html
   section_id: about
 
-- name: Nos réalisations # FIXME: à garder ?
-  path: services.html
-  section_id: services
+# - name: Nos réalisations # FIXME: à garder ?
+#   path: services.html
+#   section_id: services
 
 - name: Les défis
   path: defis.html

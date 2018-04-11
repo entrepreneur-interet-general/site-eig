@@ -966,9 +966,31 @@ body.screenshot {
   padding: 0 20px;
 }
 
-/* .modBlogPost.big p { */
-/*     font-size: 1.4em; */
-/* } */
+.modBlogPost.big p {
+    font-size: 1.2rem;
+}
+
+.modBlogPost.big ul {
+    font-size: 1.2rem;
+}
+
+.modBlogPost.big ul li {
+    margin-left: 1em;
+}
+
+.modBlogPost.big img {
+    margin: 1em auto 1em;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.modBlogPost.big img + em {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    margin-bottom: 1em;
+}
 
 .modBlogPost.masonry {
   width: 343px;
@@ -2364,13 +2386,13 @@ body.screenshot {
 .modGallery .gallery-nav li {
   float: none;
   display: inline-block;
-  border: 1px solid #bbb;
+  border: 1px solid #8393a7;
   padding: 5px 10px;
   margin-left: 0.5rem;
   margin-bottom: 0.5rem;
 }
 .modGallery .gallery-nav li a {
-  color: #c9d3df;
+  color: #8393a7;
 }
 .modGallery .gallery-nav li.current {
   border: 1px solid #0081d5;
@@ -2505,7 +2527,7 @@ body {
 .modMasonryGallery .gallery-nav li {
   float: none;
   display: inline-block;
-  border: 1px solid #bbb;
+  border: 1px solid #8393a7;
   padding: 5px 10px;
   margin-left: 0.5rem;
   margin-bottom: 0.5rem;
@@ -2643,7 +2665,7 @@ body {
   list-style: none;
 }
 .modPriceBox .info {
-  border-top: 4px solid #bbb;
+  border-top: 4px solid #8393a7;
   padding: 20px 0 0;
 }
 .modPriceBox li {

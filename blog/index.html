@@ -15,12 +15,12 @@ section_id: blog
         <span>{{post.date | date: "%B %d, %Y" }}</span>
         /
         <span>
-          by
+          de
           <a href="">{{post.author}}</a>
         </span>
         /
         <span>
-          In
+          dans
           {% for cat in post.categories %}
             <a href="#">{{cat}}</a>
             {% unless forloop.last %}
@@ -28,23 +28,17 @@ section_id: blog
             {% endunless %}
           {% endfor %}
         </span>
-        /
-        <span>
-          <a href="#">4 commetns</a>
-        </span>
       </p>
       <h3><a href="{{post.url}}">{{post.title}}</a></h3>
       <p>{{post.excerpt}}</p>
       <div class='spacing'></div>
-      <a class="button small" href="{{post.url}}">Read more</a>
+      <a class="button small" href="{{post.url}}">Lire la suite</a>
     </div>
   </div>
   <hr>
   <div class='two spacing'></div>
 {% endfor %}
 
-
 {% include pagination.html root="blog" %}
-
 
 <div class='four spacing'></div>
