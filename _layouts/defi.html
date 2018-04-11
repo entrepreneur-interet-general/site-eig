@@ -8,45 +8,47 @@ layout: default
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           {% for image in page.images %}
-            <div class="slide">
-              <img src="{{site.url}}/{{image}}" alt="">
-            </div>
+          <div class="slide">
+            <img src="{{site.url}}/{{image}}" alt="">
+          </div>
           {% endfor %}
         </div>
       </div>
     </div>
     <div class='large-4 columns'>
-      <h3>{{page.title}}</h3>
-      <p>
-        {{content}}
-      </p>
+      <h3>{{page.titre}}</h3>
       <ul class='info'>
         <li>
           <strong>Année :</strong>
-          {{page.year}}
+          {{page.annees}}
+        </li>
+        <li>
+          <strong>Administration :</strong>
+          {{page.administration}}
+        </li>
+        <li>
+          <strong>Mission :</strong>
+          {{page.mission}}
+        </li>
+        <li>
+          <strong>Type :</strong> <!-- FIXME: type est mauvais -->
+          {{page.type}} 
         </li>
         <li>
           <strong>EIGs :</strong>
-          {{page.eigs}}
+	  {% for eig in page.eigs %}
+	  {{eig}}
+	  {% unless forloop.last %}
+          /
+          {% endunless %}
+	  {% endfor %}
         </li>
       </ul>
+      <p>
+        {{content}}
+      </p>
       <div class='spacing'></div>
-      <a class='button small' href='{{page.website}}'>En savoir plus</a>
-      <div class='spacing'></div>
-      <ul class='info'>
-        <li>
-          <div class='spacing'></div>
-          <a href='' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
-          <a href='portfolio.html' title='back to work list'>
-            <i class='icon-layout'></i>
-          </a>
-          <a href='' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
-        </li>
-      </ul>
+      <a class='button small' href='{{page.site}}'>En savoir plus</a>
     </div>
   </div>
   <div class='four spacing'></div>

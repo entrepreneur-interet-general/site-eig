@@ -5,48 +5,52 @@ layout: default
 <div class='full'>
   <div class='row'>
     <div class='large-8 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          {% for image in page.images %}
-            <div class="slide">
-              <img src="{{site.url}}/{{image}}" alt="">
-            </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    <div class='large-4 columns'>
-      <h3>{{page.title}}</h3>
-      <p>
-        {{content}}
-      </p>
+	<h3>{{page.nom}} <a href="https://twitter.com/{{page.twitter}}">@{{page.twitter}}</a> </h3>
       <ul class='info'>
         <li>
           <strong>Année :</strong>
-          {{page.year}}
+          {{page.annees}}
         </li>
         <li>
-          <strong>EIGs :</strong>
-          {{page.eigs}}
+            <strong>Défi :</strong>
+            {{page.defi}}
+        </li>
+        <li>
+            <strong>Profil :</strong>
+            {{page.profil}}
         </li>
       </ul>
+      <p>
+          {{content}}
+      </p>
       <div class='spacing'></div>
       <a class='button small' href='{{page.website}}'>Site personnel</a>
       <div class='spacing'></div>
-      <ul class='info'>
-        <li>
-          <div class='spacing'></div>
-          <a href='' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
-          <a href='portfolio.html' title='back to work list'>
-            <i class='icon-layout'></i>
-          </a>
-          <a href='' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
-        </li>
-      </ul>
+      <!-- <ul class='info'>
+           <li>
+           <div class='spacing'></div>
+           <a href='' title='previous'>
+           <i class='icon-left-open'></i>
+           </a>
+           <a href='portfolio.html' title='back to work list'>
+           <i class='icon-layout'></i>
+           </a>
+           <a href='' title='next'>
+           <i class='icon-right-open'></i>
+           </a>
+           </li>
+	   </ul> -->
+    </div>
+    <div class='large-4 columns'>
+	<div class='mod modBoxedSlider'>
+            <div class='slides'>
+		{% for image in page.images %}
+		<div class="slide">
+		    <img src="{{site.url}}/{{image}}" alt="">
+		</div>
+		{% endfor %}
+            </div>
+	</div>
     </div>
   </div>
   <div class='four spacing'></div>
