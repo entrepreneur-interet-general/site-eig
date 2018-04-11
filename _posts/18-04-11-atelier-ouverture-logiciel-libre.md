@@ -2,6 +2,7 @@
 layout: post
 modal-id: "« L’ouverture » d’un logiciel libre : retour sur les ateliers du 22 mars (1/3)"
 author: Paul Schmite, équipe EIG
+author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
 twitter: schmitologie
 description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des EIG.  Elle était organisée autour de trois ateliers : l’un sur les questions à se poser pour définir son produit ; l’autre sur la façon d’impliquer les utilisateurs dans sa conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux majeurs du programme EIG étant de permettre le développement, au sein de l’administration, de logiciels libres, ouverts aux contributions extérieures."
 ---

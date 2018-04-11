@@ -2,6 +2,7 @@
 layout: post
 modal-id: "« You are not (always) your user » : partir des utilisateurs pour construire un produit. Retour sur les ateliers du 22 mars (2/3)"
 author: Mathilde Bras, équipe EIG
+author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
 twitter: Mathilde_Bras
 description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source."
 ---

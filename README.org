@@ -55,3 +55,18 @@ suivi d’un ou deux paragraphes de biographie.
 Les images seront de préférence de taille 800x500, ou respecteront ce
 ratio.
 
+* Comment ajouter une entrée de blog ?
+
+Ajouter un fichier en markdown =.md= dans le répertoire =_posts= avec un
+en-tête de cette forme :
+
+: ---
+: layout: post
+: author: Soizic Pénicaud, équipe EIG
+: author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
+: twitter: soizicpenicaud
+: description: "Un résumé de l’entrée de blog"
+: ---
+
+Suivi d’un contenu en markdown.
+

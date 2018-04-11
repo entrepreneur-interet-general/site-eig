@@ -2,6 +2,7 @@
 layout: post
 modal-id: "Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer"
 author: Sophie Miljkovic, équipe EIG
+author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
 twitter: 
 description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier."
 ---

@@ -32,18 +32,10 @@ layout: blog
       /
       <span>
         de
-        <a href="">{{page.author}}</a>
-      </span>
-      /
-      <span>
-        dans
-        {% for cat in page.categories %}
-          <a href="#">{{cat}}</a>
-          {% unless forloop.last %}
-              ,
-          {% endunless %}
-        {% endfor %}
-      </span>
+        <a href="{{page.author_link}}">{{page.author}}</a>
+        <a href="https://twitter.com/{{page.twitter}}"><i class='fa fa-twitter'></i>
+	</a>
+</span>
     </p>
     {{content}}
   </div>
