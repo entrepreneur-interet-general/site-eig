@@ -1,8 +1,57 @@
 #+title: Site Entrepreneur d’intérêt général
 
 Site du programme Entrepreneur d'intérêt général en cours de
-préparation.
+construction.
 
-Le dépôt pour le site actuellement publié est [[https://github.com/entrepreneur-interet-general/blog-eig2][ici]].
+Le dépôt pour le site en ligne actuellement est [[https://github.com/entrepreneur-interet-general/blog-eig2][ici]].
 
 Le site test est visible en ligne [[http://site.eig-forever.org/][ici]].
+
+* Comment ajouter un défi ?
+
+Ajouter un fichier en markdown =.md= dans le répertoire =_defis= avec un
+en-tête de ce format :
+
+: ---
+: layout: defi
+: titre: balisenav
+: site: https://entrepreneur-interet-general.etalab.gouv.fr
+: annees: 2018
+: mission: Faire de belles cartes marines !
+: administration: SHOM
+: type: Datascience
+: eigs:
+:   - Arnaud
+:   - Adrien
+: images:
+:   - /images/@stock/medium-work-1.jpg
+:   - /images/@stock/medium-work-2.jpg
+: ---
+
+suivi d’un ou deux paragraphes de présentation du défi.
+
+Les images seront de préférence de taille 800x500.
+
+* Comment ajouter une personne ?
+
+Ajouter un fichier en markdown =.md= dans le répertoire =_communaute= avec
+un en-tête de cette forme :
+
+: ---
+: layout: personne
+: twitter: etalab
+: nom: Toto
+: site: https://entrepreneur-interet-general.etalab.gouv.fr
+: annees: 2018
+: defi: EIG team
+: profil: Tout !
+: images:
+:   - /images/toto1.jpg
+:   - /images/toto2.jpg
+: ---
+
+suivi d’un ou deux paragraphes de biographie.
+
+Les images seront de préférence de taille 800x500, ou respecteront ce
+ratio.
+
