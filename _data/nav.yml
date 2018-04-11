@@ -1,8 +1,8 @@
-- name: Accueil
-  path: index.html
-  section_id: home
+# - name: Accueil
+#   path: index.html
+#   section_id: home
 
-- name: Notre histoire
+- name: Programme
   path: about.html
   section_id: about
 
@@ -10,18 +10,22 @@
 #   path: services.html
 #   section_id: services
 
-- name: Les défis
+- name: Défis
   path: defis.html
   section_id: defis
 
-- name: La communauté
+- name: Communauté
   path: communaute.html
   section_id: communaute
 
-- name: Le blog
+- name: Blog
   path: blog/
   section_id: blog
 
-- name: Nous écrire
+- name: Agenda
+  path: agenda.html
+  section_id: agenda
+
+- name: Contact
   path: contact.html
   section_id: contact
