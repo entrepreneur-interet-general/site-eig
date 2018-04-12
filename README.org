@@ -9,8 +9,18 @@ Le site test est visible en ligne [[http://site.eig-forever.org/][ici]].
 
 * Comment ajouter une entrée de blog ?
 
-Ajouter un fichier en markdown =.md= dans le répertoire =_posts= avec un
-en-tête de cette forme :
+Ajouter un fichier en markdown =.md= dans le répertoire =_posts=.
+
+Le nom du fichier doit commencer par la date à laquelle l’entrée de
+blog doit être publiée.  Par exemple :
+
+: 2018-02-27-bootcamp-comment-souder-un-collectif-de-talents.md
+
+qui sera publié le 27 février 2018.
+
+Le nom de fichier doit se terminer par =.md=.
+
+Le contenu du fichier doit commencer par un en-tête de cette forme :
 
 : ---
 : layout: post
@@ -20,7 +30,9 @@ en-tête de cette forme :
 : description: "Un résumé de l’entrée de blog"
 : ---
 
-Suivi d’un contenu en markdown.
+suivi d’un contenu rédigé en markdown.
+
+Voici un [[https://openclassrooms.com/courses/redigez-en-markdown][tutoriel]] pour apprendre la syntaxe du markdown.
 
 * Comment ajouter un défi ?
 
