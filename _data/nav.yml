@@ -26,6 +26,10 @@
   path: agenda.html
   section_id: agenda
 
+- name: Presse
+  path: presse.html
+  section_id: contact
+
 - name: Contact
   path: contact.html
   section_id: contact
