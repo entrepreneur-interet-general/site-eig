@@ -1,8 +1,8 @@
 ---
 layout: default
 section_id: communaute
-works:
-  - image: images/@stock/one-page-work-1.jpg
+personnes:
+  - image: images/@stock/another.jpg
     title: Sophie Miljkovic
     link_to: /communaute/2018/sophie.html
     class: 2017
@@ -41,7 +41,7 @@ works:
         </ul>
       </div>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for work in page.works %}
+        {% for work in page.personnes %}
           <li class='{{work.class}}'>
             <a href='{{work.link_to}}'>
               <img alt="" src="{{site.url}}/{{work.image}}" />

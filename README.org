@@ -7,10 +7,26 @@ Le dépôt pour le site en ligne actuellement est [[https://github.com/entrepren
 
 Le site test est visible en ligne [[http://site.eig-forever.org/][ici]].
 
+* Comment ajouter une entrée de blog ?
+
+Ajouter un fichier en markdown =.md= dans le répertoire =_posts= avec un
+en-tête de cette forme :
+
+: ---
+: layout: post
+: author: Soizic Pénicaud, équipe EIG
+: author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
+: twitter: soizicpenicaud
+: description: "Un résumé de l’entrée de blog"
+: ---
+
+Suivi d’un contenu en markdown.
+
 * Comment ajouter un défi ?
 
-Ajouter un fichier en markdown =.md= dans le répertoire =_defis= avec un
-en-tête de ce format :
+Pour ajouter un défi, vous devez modifier le fichier =defis.html= et
+ajouter un fichier au format markdown =.md= dans le répertoire =_defis=
+avec un en-tête de ce format :
 
 : ---
 : layout: defi
@@ -28,14 +44,14 @@ en-tête de ce format :
 :   - /images/@stock/medium-work-2.jpg
 : ---
 
-suivi d’un ou deux paragraphes de présentation du défi.
-
-Les images seront de préférence de taille 800x500.
+Les images proposées dans =defis.html= sont de taille =600x500= et celles
+proposées dans chaque défi de taille =800x500=.
 
 * Comment ajouter une personne ?
 
-Ajouter un fichier en markdown =.md= dans le répertoire =_communaute= avec
-un en-tête de cette forme :
+Pour ajouter une personne, vous devez modifier le fichier
+=communaute.html= et ajouter un fichier au format markdown =.md= dans le
+répertoire =_communaute= avec un en-tête de ce format :
 
 : ---
 : layout: personne
@@ -50,23 +66,7 @@ un en-tête de cette forme :
 :   - /images/toto2.jpg
 : ---
 
-suivi d’un ou deux paragraphes de biographie.
+Les images proposées dans =communaute.html= et dans le fichier de chaque
+personne sont de taille =500x500=.
 
-Les images seront de préférence de taille 800x500, ou respecteront ce
-ratio.
-
-* Comment ajouter une entrée de blog ?
-
-Ajouter un fichier en markdown =.md= dans le répertoire =_posts= avec un
-en-tête de cette forme :
-
-: ---
-: layout: post
-: author: Soizic Pénicaud, équipe EIG
-: author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
-: twitter: soizicpenicaud
-: description: "Un résumé de l’entrée de blog"
-: ---
-
-Suivi d’un contenu en markdown.
 
