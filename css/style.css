@@ -965,6 +965,9 @@ body.screenshot {
 }
 
 .modBlogPost.big img {
+    display: block;
+    width: 40em;
+    max-width: 100%;
     margin: 1em auto 1em;
     -webkit-box-shadow: 0 10px 6px -6px #777;
     -moz-box-shadow: 0 10px 6px -6px #777;
