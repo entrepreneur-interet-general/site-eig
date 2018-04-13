@@ -1,21 +1,22 @@
 ---
 layout: personne
 twitter: etalab
+github: jeanbaptisteassouad
 nom: Jean-Baptiste Assouad
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Archifiltre
+profil: Développeur
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/JeanBaptisteAssouad.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Après avoir obtenu mon diplôme d’ingénieur en robotique de l’École
+Polytechnique Universitaire de la Sorbonne, j’ai travaillé pendant 1
+an et demi pour une jeune startup Belge, Quimesis.  Je suis ensuite
+parti travailler sur mon propre projet entrepreneurial, une
+application web de conception assistée par ordinateur, pendant 1 an.
+
+Je rejoins maintenant le projet ArchiFiltre pour apporter toutes mes
+compétences et expériences.
+

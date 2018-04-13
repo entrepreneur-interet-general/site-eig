@@ -2,7 +2,7 @@
 layout: personne
 twitter: etalab
 nom: Tiphaine Phe-Neau
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+website: none
 annees: 2018
 defi: EIG team
 profil: Tout !

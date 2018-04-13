@@ -2,7 +2,7 @@
 layout: personne
 twitter: etalab
 nom: Julien Naour
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+website: none
 annees: 2018
 defi: EIG team
 profil: Tout !

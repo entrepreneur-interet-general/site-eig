@@ -1,21 +1,22 @@
 ---
 layout: personne
-twitter: etalab
+twitter: manutaust
+github: emmanuelgautier1994
 nom: Emmanuel Gautier
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: ArchiFiltre
+profil: Datascientist
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/EmmanuelGautier.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Je suis né en France avec les ordinateurs personnels, les débuts du
+web et ses moteurs de recherche. J’ai grandi à Istanbul, La Haye puis
+Berne, avec les premiers ADSL, réseaux sociaux, Wikipédia et les
+smartphones. J’ai mûri, de nouveau en France, avec les objets
+connectés, l’explosion de la donnée et de l’intelligence artificielle.
+
+À 23 ans, maintenant ingénieur et data scientist, je suis convaincu
+que le Numérique, utilisé à bon escient, peut créer du bien commun. En
+devenant Entrepreneur d’Intérêt Général, je compte y participer.
