@@ -30,10 +30,12 @@ layout: default
           <strong>Mission :</strong>
           {{page.mission}}
         </li>
+	{% if page.type %}
         <li>
           <strong>Type :</strong> <!-- FIXME: type est mauvais -->
           {{page.type}} 
         </li>
+	{% endif %}
         <li>
           <strong>EIGs :</strong>
 	  {% for eig in page.eigs %}
@@ -48,7 +50,9 @@ layout: default
         {{content}}
       </p>
       <div class='spacing'></div>
+      {% if page.site %}
       <a class='button small' href='{{page.site}}'>En savoir plus</a>
+      {% endif %}
     </div>
   </div>
   <div class='four spacing'></div>

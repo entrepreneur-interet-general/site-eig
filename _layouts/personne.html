@@ -6,12 +6,16 @@ layout: default
   <div class='row'>
     <div class='large-8 columns'>
       <h2>{{page.nom}}
-	  <a href="https://twitter.com/{{page.twitter}}">
-	      <i class='big-social fa fa-twitter'></i>
-	  </a>
-	  <a href="https://github.com/{{page.github}}">
-	      <i class='big-social fa fa-github'></i>
-	  </a>
+	{% if page.twitter %}
+	<a href="https://twitter.com/{{page.twitter}}"> 
+	  <i class='big-social fa fa-twitter'></i>
+	</a>
+	{% endif %}
+	{% if page.github %}
+	<a href="https://github.com/{{page.github}}">
+	  <i class='big-social fa fa-github'></i>
+	</a>
+	{% endif %}
       </h2>
       <ul class='info'>
         <li>
@@ -19,33 +23,35 @@ layout: default
           {{page.annees}}
         </li>
         <li>
-            <strong>Défi :</strong>
-            {{page.defi}}
+          <strong>Défi :</strong>
+          {{page.defi}}
         </li>
+	{% if page.profil %}
         <li>
-            <strong>Profil :</strong>
-            {{page.profil}}
+          <strong>Profil :</strong>
+          {{page.profil}}
         </li>
+	{% endif %}
       </ul>
       <p>
-          {{content}}
+        {{content}}
       </p>
       <div class='spacing'></div>
-      {% unless page.website == "none" %}
+      {% if page.website %}
       <a class='button small' href='{{page.website}}'>Site personnel</a>
-      {% endunless %}
+      {% endif %}
       <div class='spacing'></div>
     </div>
     <div class='large-4 columns'>
-	<div class='mod modBoxedSlider'>
-            <div class='slides'>
-		{% for image in page.images %}
-		<div class="slide">
-		    <img src="{{site.url}}/{{image}}" alt="">
-		</div>
-		{% endfor %}
-            </div>
-	</div>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+	  {% for image in page.images %}
+	  <div class="slide">
+	    <img src="{{site.url}}/{{image}}" alt="">
+	  </div>
+	  {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
   <div class='four spacing'></div>
