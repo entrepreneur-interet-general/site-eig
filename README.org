@@ -67,9 +67,10 @@ répertoire =_communaute= avec un en-tête de ce format :
 
 : ---
 : layout: personne
-: twitter: etalab
+: twitter: compte_twitter
+: github: compte_github
 : nom: Toto
-: site: https://entrepreneur-interet-general.etalab.gouv.fr
+: website: https://site-personnel.org
 : annees: 2018
 : defi: EIG team
 : profil: Tout !

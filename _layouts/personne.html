@@ -5,7 +5,14 @@ layout: default
 <div class='full'>
   <div class='row'>
     <div class='large-8 columns'>
-	<h3>{{page.nom}} <a href="https://twitter.com/{{page.twitter}}"><i class='fa fa-twitter'></i></a> </h3>
+      <h2>{{page.nom}}
+	  <a href="https://twitter.com/{{page.twitter}}">
+	      <i class='big-social fa fa-twitter'></i>
+	  </a>
+	  <a href="https://github.com/{{page.github}}">
+	      <i class='big-social fa fa-github'></i>
+	  </a>
+      </h2>
       <ul class='info'>
         <li>
           <strong>Année :</strong>
@@ -24,7 +31,9 @@ layout: default
           {{content}}
       </p>
       <div class='spacing'></div>
+      {% unless page.website == "none" %}
       <a class='button small' href='{{page.website}}'>Site personnel</a>
+      {% endunless %}
       <div class='spacing'></div>
     </div>
     <div class='large-4 columns'>
