@@ -1,21 +1,18 @@
 ---
 layout: personne
-twitter: etalab
+twitter: 
 nom: Delphine Lê
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Hopkins
+profil: 
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/7_DelphineLE.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Suite à un parcours mixte (dans le privé et le public, en recherche et
+au sein de start-ups), Delphine Lê a rejoint les ministères
+économiques et financiers en tant que data scientist depuis 2015. Au
+cœur de la transformation numérique de son service, elle a participé à
+la mise en place d’un environnement « Big Data » et à la création d’un
+pôle Data Science qu’elle dirige.
