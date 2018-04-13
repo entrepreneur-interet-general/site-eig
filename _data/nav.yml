@@ -1,14 +1,6 @@
-# - name: Accueil
-#   path: index.html
-#   section_id: home
-
 - name: Programme
-  path: about.html
-  section_id: about
-
-# - name: Nos réalisations # FIXME: à garder ?
-#   path: services.html
-#   section_id: services
+  path: programme.html
+  section_id: programme
 
 - name: Défis
   path: defis.html
