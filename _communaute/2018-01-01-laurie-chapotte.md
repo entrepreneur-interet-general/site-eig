@@ -1,21 +1,19 @@
 ---
 layout: personne
-twitter: etalab
+twitter: Lauriechapotte
+github: 
 nom: Laurie Chapotte
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Gobelins
+profil: 
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/LaurieChapotte.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Designer graphique et de service, Laurie Chapotte a d’abord travaillé
+pour le laboratoire de recherche « identités complexes » à
+l’Université de Strasbourg afin de rendre plus compréhensible et
+accessible cette institution complexe. Elle a ensuite développé son
+activité de designer indépendante et conçoit des outils imprimés ou
+numériques visant à faciliter l’accès à l’information.
