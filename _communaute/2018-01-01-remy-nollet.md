@@ -4,7 +4,7 @@ twitter:
 nom: Rémy Nollet
 website: none
 annees: 2018
-defi: EIG team
+defi: Brigade Numérique
 profil:
 images:
   - /img/portfolio/remynollet.jpg
