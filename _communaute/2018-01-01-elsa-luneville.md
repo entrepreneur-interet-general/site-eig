@@ -1,21 +1,24 @@
 ---
 layout: personne
-twitter: etalab
+twitter: 
+github: Elsalune
 nom: Elsa Luneville
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Prédisauvetage
+profil: Datascience
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/ElsaLuneville.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Elsa Lunéville est diplômée de l’IESEG d’un master en économie et elle
+s’est spécialisée par la suite en Data Science en réalisant un master
+au sein du DataScienceTech Institute. Sa passion pour la valorisation
+des données et l’innovation l’ont conduite à évoluer dans des univers
+variés (start-up israélienne, conseil technologique, études marketing)
+sur des problématiques d’amélioration des processus ou de la stratégie
+grâce aux données. Elle a également contribué à sensibiliser ses
+collaborateurs aux bénéfices de la Data Science et souhaite
+aujourd’hui mettre au service du bien commun ses compétences et ses
+idées. C’est pourquoi elle rejoint le ministère de la Transition
+écologique et solidaire sur le défi PrédiSauvetage.
