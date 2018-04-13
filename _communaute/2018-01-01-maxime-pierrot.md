@@ -1,21 +1,18 @@
 ---
 layout: personne
-twitter: etalab
+twitter: mpierrax
+github: pierrax
 nom: Maxime Pierrot
 website: none
 annees: 2018
-defi: EIG team
+defi: DataESR
 profil: Tout !
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/MaximePierrot.jpg
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Entrepreneur et développeur, j'adore les nouveaux challenges. J'ai
+créé Gastronomiz, la première food box en France en 2012. Nous avons
+envoyé 50 000 box en 2 ans. La société a été revendue en 2015. J'ai
+été développeur backend-end, spécialisé en API, pour différentes
+startups en France et en Australie.
