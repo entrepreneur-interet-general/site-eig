@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: @jbledevehat
+twitter: jbledevehat
 github: jbledevehat
 nom: Jean-Baptiste Le Dévéhat
 website: none
