@@ -1,21 +1,21 @@
 ---
 layout: personne
-twitter: etalab
+twitter: ChrisNinucci
+github: chrnin
 nom: Christophe Ninucci
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Signaux Faibles
+profil: Développeur
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/ChristopheNinucci.jpg
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Christophe Ninucci a débuté sa carrière dans le domaine de l'industrie
+agroalimentaire comme administrateur système et réseau. Au cours de
+cette expérience marquée par la forte croissance du groupe et le
+développement de nouveaux outils informatiques, il a acquis des
+compétences en programmation et en base de données qui lui ont permis
+par la suite de développer des applications métiers centrées sur le
+calcul et le croisement de données dans le domaine de l'éclairage
+industriel et de l'assurance.
