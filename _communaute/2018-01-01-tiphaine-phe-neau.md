@@ -1,21 +1,22 @@
 ---
 layout: personne
-twitter: etalab
+twitter: datatiph
+github: tiphaine
 nom: Tiphaine Phe-Neau
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: Prévisecours
+profil: Datascience
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/TiphainePheNeau.png
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Tiphaine est titulaire d'un doctorat en informatique de l'Université
+Pierre et Marie Curie. Après ses études, elle a voulu utiliser ses
+capacités d'abstraction, d'observation et de réalisation pour
+s'attaquer à de nouvelles problématiques en tant que data
+scientist. Elle a travaillé dans des entreprises telles que
+Dailymotion, Clustree ou Saegus sur une grande variété de sujets. En
+tant que data scientist, elle apprécie combiner les connaissances
+métiers avec les aspects techniques pour obtenir des solutions
+efficaces et réalistes.
