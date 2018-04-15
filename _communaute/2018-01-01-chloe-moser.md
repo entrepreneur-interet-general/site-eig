@@ -2,7 +2,7 @@
 layout: personne
 twitter: archivist_chloe
 nom: Chloé Moser
-website: none
+website:
 annees: 2018
 defi: ArchiFiltre
 profil: 

@@ -2,7 +2,7 @@
 layout: personne
 twitter: ClaudioCimelli
 nom: Claudio Cimelli
-website: none
+website:
 annees: 2018
 defi: CoachÉlèves
 profil:

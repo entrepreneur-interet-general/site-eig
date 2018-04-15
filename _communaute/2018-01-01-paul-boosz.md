@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: paulboosz
 nom: Paul Boosz
-website: none
+website:
 annees: 2018
 defi: Hopkins
 profil: Datascience

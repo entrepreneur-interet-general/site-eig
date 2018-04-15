@@ -2,7 +2,7 @@
 layout: personne
 twitter: SamahNLP
 nom: Samah Ghalloussi
-website: none
+website:
 annees: 2018
 defi: Lab Santé
 profil: Datascience

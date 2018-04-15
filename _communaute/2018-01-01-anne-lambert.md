@@ -2,7 +2,7 @@
 layout: personne
 twitter:
 nom: Anne Lambert
-website: none
+website:
 annees: 2018
 defi: ArchiFiltre
 profil: 

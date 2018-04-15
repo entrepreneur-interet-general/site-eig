@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: phileas-condemine
 nom: Phileas Condemine
-website: none
+website:
 annees: 2018
 defi: Lab Santé
 profil: Datascience

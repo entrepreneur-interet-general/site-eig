@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Marielle Chrisment
-website: none
+website:
 annees: 2018
 defi: Brigade Numérique
 profil:

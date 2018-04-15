@@ -3,7 +3,7 @@ layout: personne
 twitter:
 github: jazzypierrot
 nom: Pierre Camilleri
-website: none
+website:
 annees: 2018
 defi: Signaux Faibles
 profil: Datascience

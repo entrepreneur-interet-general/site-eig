@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: jeanbaptisteassouad
 nom: Jean-Baptiste Assouad
-website: none
+website:
 annees: 2018
 defi: Archifiltre
 profil: Développeur

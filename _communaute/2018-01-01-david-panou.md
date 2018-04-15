@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: pandav2
 nom: David Panou
-website: none
+website:
 annees: 2018
 defi: CoachÉlèves
 profil: Datascience

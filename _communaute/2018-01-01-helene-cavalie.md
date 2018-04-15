@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Hélène Cavalié
-website: none
+website:
 annees: 2018
 defi: Gobelins
 profil: 

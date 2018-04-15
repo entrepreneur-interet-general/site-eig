@@ -3,7 +3,7 @@ layout: personne
 twitter: datatiph
 github: tiphaine
 nom: Tiphaine Phe-Neau
-website: none
+website:
 annees: 2018
 defi: Prévisecours
 profil: Datascience

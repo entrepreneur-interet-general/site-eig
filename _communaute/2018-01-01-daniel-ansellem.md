@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Daniel Ansellem
-website: none
+website:
 annees: 2018
 defi: Prévisecours
 profil: 

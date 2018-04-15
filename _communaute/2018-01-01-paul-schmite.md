@@ -3,7 +3,7 @@ layout: personne
 twitter: schmitologie
 github: PaulEtalab
 nom: Paul Schmite
-website: none
+website:
 annees: 2017, 2018
 defi: EIG Node
 profil: 

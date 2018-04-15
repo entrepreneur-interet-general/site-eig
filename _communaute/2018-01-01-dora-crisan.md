@@ -2,7 +2,7 @@
 layout: personne
 twitter: DoraCrisan
 nom: Dora Crisan
-website: none
+website:
 annees: 2018
 defi: Bridage Numérique
 profil: Développeuse

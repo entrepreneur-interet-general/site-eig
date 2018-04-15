@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Stéphanie Schaer
-website: none
+website:
 annees: 2018
 defi: Signaux Faibles
 profil: 

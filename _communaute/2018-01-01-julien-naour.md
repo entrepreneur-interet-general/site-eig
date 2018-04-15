@@ -4,7 +4,7 @@ twitter:
 github: 
 gitlab: jnaour
 nom: Julien Naour
-website: none
+website:
 annees: 2018
 defi: Lab Santé
 profil: Datascience

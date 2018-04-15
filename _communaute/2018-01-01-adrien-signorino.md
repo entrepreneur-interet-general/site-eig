@@ -3,7 +3,7 @@ layout: personne
 twitter: signoOngis
 github: sign0
 nom: Adrien Signorino
-website: none
+website:
 annees: 2018
 defi: B@liseNAV
 profil: Géomatique

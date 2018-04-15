@@ -2,7 +2,7 @@
 layout: personne
 twitter:y_caradec
 nom: Yann Caradec
-website: none
+website:
 annees: 2018
 defi: DataESR
 profil:

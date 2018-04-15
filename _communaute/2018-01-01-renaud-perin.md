@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Renaud Périn
-website: none
+website:
 annees: 2018
 defi: PrédiSauvetage
 profil: 

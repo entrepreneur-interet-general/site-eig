@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: guillim
 nom: Guillaume Lancrenon
-website: none
+website:
 annees: 2018
 defi: Prévisecours
 profil: Développement

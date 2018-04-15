@@ -3,7 +3,7 @@ layout: personne
 twitter: zermelozf
 github: zermelozf
 nom: Arnaud Rachez
-website: none
+website:
 annees: 2018
 defi: CoachÉlèves
 profil: Datascience

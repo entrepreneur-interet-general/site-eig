@@ -3,7 +3,7 @@ layout: personne
 twitter: sa_mous
 github: sammous
 nom: Sami Moustachir
-website: none
+website:
 annees: 2018
 defi: DataESR
 profil: Datascience

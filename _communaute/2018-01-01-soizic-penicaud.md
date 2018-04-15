@@ -2,7 +2,7 @@
 layout: personne
 twitter: soizicpenicaud
 nom: Soizic Pénicaud
-website: none
+website:
 annees: 2018
 defi: EIG Node
 profil: 

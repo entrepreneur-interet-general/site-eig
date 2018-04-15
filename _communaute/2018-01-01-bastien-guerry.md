@@ -4,7 +4,7 @@ twitter: bzg2
 github: bzg
 gitlab: bzg
 nom: Bastien Guerry
-website: none
+website:
 annees: 2017, 2018
 defi: EIG Link
 profil: Développeur

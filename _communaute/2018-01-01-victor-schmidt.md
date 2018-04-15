@@ -3,7 +3,7 @@ layout: personne
 twitter: vict0rsch
 github: vict0rsch
 nom: Victor Schmidt
-website: none
+website:
 annees: 2018
 defi: Hopkins
 profil: Datascience

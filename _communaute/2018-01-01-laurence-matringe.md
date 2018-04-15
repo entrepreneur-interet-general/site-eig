@@ -3,7 +3,7 @@ layout: personne
 twitter: matringel
 github: lamat92
 nom: Laurence Matringe
-website: none
+website:
 annees: 2018
 defi: Prédisauvetage
 profil: 

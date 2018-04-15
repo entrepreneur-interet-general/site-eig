@@ -3,7 +3,7 @@ layout: personne
 twitter: manutaust
 github: emmanuelgautier1994
 nom: Emmanuel Gautier
-website: none
+website:
 annees: 2018
 defi: ArchiFiltre
 profil: Datascientist

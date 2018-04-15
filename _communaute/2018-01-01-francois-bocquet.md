@@ -2,7 +2,7 @@
 layout: personne
 twitter: fbocquet
 nom: François Bocquet
-website: none
+website:
 annees: 2018
 defi: CoachÉlèves
 profil: 

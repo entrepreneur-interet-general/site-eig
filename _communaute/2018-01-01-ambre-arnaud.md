@@ -3,7 +3,7 @@ layout: personne
 twitter: ambreelmee
 github: ambreelmee
 nom: Ambre Arnaud
-website: none
+website:
 annees: 2018
 defi: DataESR
 profil: 

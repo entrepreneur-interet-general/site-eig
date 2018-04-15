@@ -3,7 +3,7 @@ layout: personne
 twitter: mpierrax
 github: pierrax
 nom: Maxime Pierrot
-website: none
+website:
 annees: 2018
 defi: DataESR
 profil: Tout !

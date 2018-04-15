@@ -3,7 +3,7 @@ layout: personne
 twitter: Mathilde_Bras
 github: MathildeBras
 nom: Mathilde Bras
-website: none
+website:
 annees: 2017, 2018
 defi: EIG Node
 profil: 

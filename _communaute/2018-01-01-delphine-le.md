@@ -2,7 +2,7 @@
 layout: personne
 twitter: delphinel
 nom: Delphine Lê
-website: none
+website:
 annees: 2018
 defi: Hopkins
 profil: 

@@ -2,7 +2,7 @@
 layout: personne
 twitter: BenedictePachod
 nom: Bénédicte Pachod
-website: none
+website:
 annees: 2018
 defi: EIG team
 profil: 

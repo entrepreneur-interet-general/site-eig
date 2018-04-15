@@ -3,7 +3,7 @@ layout: personne
 twitter: AntoineAugusti
 github: AntoineAugusti
 nom: Antoine Augusti
-website: none
+website:
 annees: 2018
 defi: Prédisauvetage
 profil: Développement / Datascience

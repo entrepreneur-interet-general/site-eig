@@ -3,7 +3,7 @@ layout: personne
 twitter: ned
 github: nedbaldessin
 nom: Ned Baldessin
-website: none
+website:
 annees: 2018
 defi: Gobelins
 profil: Développement

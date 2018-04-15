@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Éric Le Guen
-website: none
+website:
 annees: 2018
 defi: B@liseNAV
 profil:

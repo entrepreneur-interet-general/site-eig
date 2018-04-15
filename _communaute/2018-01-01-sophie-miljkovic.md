@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Sophie Miljkovic
-website: none
+website:
 annees: 2018
 defi: EIG team
 profil: 

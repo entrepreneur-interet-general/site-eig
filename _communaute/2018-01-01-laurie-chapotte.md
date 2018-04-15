@@ -3,7 +3,7 @@ layout: personne
 twitter: Lauriechapotte
 github: 
 nom: Laurie Chapotte
-website: none
+website:
 annees: 2018
 defi: Gobelins
 profil: 

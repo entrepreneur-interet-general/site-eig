@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: Elsalune
 nom: Elsa Luneville
-website: none
+website:
 annees: 2018
 defi: Prédisauvetage
 profil: Datascience

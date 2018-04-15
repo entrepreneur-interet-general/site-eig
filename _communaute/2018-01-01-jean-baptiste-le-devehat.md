@@ -3,7 +3,7 @@ layout: personne
 twitter: jbledevehat
 github: jbledevehat
 nom: Jean-Baptiste Le Dévéhat
-website: none
+website:
 annees: 2018
 defi: EIG team
 profil: Ergonomie

@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Rémy Nollet
-website: none
+website:
 annees: 2018
 defi: Brigade Numérique
 profil:

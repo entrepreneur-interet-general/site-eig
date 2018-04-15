@@ -3,7 +3,7 @@ layout: personne
 twitter: BGuigal
 github: benoitguigal
 nom: Benoît Guigal
-website: none
+website:
 annees: 2018
 defi: Hopkins
 profil: Data Engineer

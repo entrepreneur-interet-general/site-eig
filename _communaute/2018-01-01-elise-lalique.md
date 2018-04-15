@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 nom: Élise Lalique
-website: none
+website:
 annees: 2018
 defi: SocialConnect
 profil: Design UX

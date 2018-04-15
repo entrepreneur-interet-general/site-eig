@@ -3,7 +3,7 @@ layout: personne
 twitter: ChrisNinucci
 github: chrnin
 nom: Christophe Ninucci
-website: none
+website:
 annees: 2018
 defi: Signaux Faibles
 profil: Développeur
