@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter:y_caradec
+twitter: y_caradec
 nom: Yann Caradec
 website:
 annees: 2018
