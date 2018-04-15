@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter: delphinel
 nom: Delphine Lê
 website: none
 annees: 2018

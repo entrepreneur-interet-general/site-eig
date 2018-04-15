@@ -2,6 +2,7 @@
 layout: personne
 twitter: bzg2
 github: bzg
+gitlab: bzg
 nom: Bastien Guerry
 website: none
 annees: 2017, 2018

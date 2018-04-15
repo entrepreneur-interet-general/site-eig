@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: etalab
+twitter: archivist_chloe
 nom: Chloé Moser
 website: none
 annees: 2018

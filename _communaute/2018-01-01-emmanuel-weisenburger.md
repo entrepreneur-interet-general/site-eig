@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter: weisenburger_e
 nom: Emmanuel Weisenburger
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: DataESR
+profil: 
 images:
   - /img/portfolio/11.dataESR.jpg
 ---

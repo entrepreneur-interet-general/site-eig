@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: etalab
+twitter: 
 nom: Stéphanie Combes
 website: none
 annees: 2018

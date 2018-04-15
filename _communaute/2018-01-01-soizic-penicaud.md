@@ -1,21 +1,13 @@
 ---
 layout: personne
-twitter: etalab
+twitter: soizicpenicaud
 nom: Soizic Pénicaud
 website: none
 annees: 2018
-defi: EIG team
-profil: Tout !
+defi: EIG Node
+profil: 
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/soizic_penicaud.jpg
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Une biographie de Soizic.

@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: etalab
+twitter: 
 nom: Renaud Périn
 website: none
 annees: 2018

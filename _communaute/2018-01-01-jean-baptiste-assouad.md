@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: etalab
+twitter: 
 github: jeanbaptisteassouad
 nom: Jean-Baptiste Assouad
 website: none

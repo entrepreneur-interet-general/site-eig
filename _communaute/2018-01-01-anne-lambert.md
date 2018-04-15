@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: etalab
+twitter:
 nom: Anne Lambert
 website: none
 annees: 2018

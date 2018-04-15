@@ -1,21 +1,14 @@
 ---
 layout: personne
-twitter: etalab
+twitter: Mathilde_Bras
+github: MathildeBras
 nom: Mathilde Bras
 website: none
-annees: 2018
-defi: EIG team
-profil: Tout !
+annees: 2017, 2018
+defi: EIG Node
+profil: 
 images:
-  - /images/@stock/another.jpg
-  - /images/@stock/another.jpg
+  - /img/portfolio/mathilde_bras.jpg
 ---
 
-Une biographie de Sophie.  Une biographie de Sophie.  Une biographie
-de Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.  Une biographie de Sophie.  Une biographie de Sophie.  Une
-biographie de Sophie.  Une biographie de Sophie.  Une biographie de
-Sophie.
+Une biographie de Mathilde.

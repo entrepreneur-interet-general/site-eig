@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+gitlab: jnaour
 nom: Julien Naour
 website: none
 annees: 2018

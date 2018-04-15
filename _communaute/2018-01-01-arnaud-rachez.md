@@ -6,7 +6,7 @@ nom: Arnaud Rachez
 website: none
 annees: 2018
 defi: CoachÉlèves
-profil: Tout !
+profil: Datascience
 images:
   - /img/portfolio/ArnaudRachez.png
 ---

@@ -3,7 +3,7 @@ layout: personne
 twitter: jparis_py
 github: Jpy
 nom: Julien Paris
-website: none
+website: http://www.jpylab.com
 annees: 2018
 defi: SocialConnect
 profil: Développeur

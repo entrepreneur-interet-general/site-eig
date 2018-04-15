@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter: DoraCrisan
 nom: Dora Crisan
 website: none
 annees: 2018
