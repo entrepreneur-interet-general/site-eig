@@ -44,7 +44,7 @@ doit décupler la brigade numérique.
 
 * **Dora Crisan : Développement**
 
-![Photo de Doran Crisan](/img/portfolio/DoraCrisan.png)
+![Photo de Dora Crisan](/img/portfolio/DoraCrisan.png)
 
 Dora est une techno-optimiste, convaincue que les nouvelles
 technologies peuvent avoir un fort impact positif sur l’individu comme
