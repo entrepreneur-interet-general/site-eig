@@ -1,14 +1,21 @@
 ---
 layout: defi
-modal-id: "Brigade Numérique : mettre en place un accueil numérique de la gendarmerie au service des citoyens"
-owner: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
-project-date: Janvier 2018
-img: /img/portfolio/10_brigadenumerique.png
-category: defi
-misc: 'développement web, ergonomie, design UX/UI'
----
-## La problématique
-
+titre: Brigade Numérique
+site: https://entrepreneur-interet-general.etalab.gouv.fr
+annees: 2018
+mission: Mettre en place un accueil numérique de la gendarmerie au service des citoyens
+administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
+type: Développement, ergonomie, design UX/UI
+eigs:
+  - Dora Crisan
+  - Jean-Baptiste Le Dévéhat
+mentors:
+  - Marielle Chrisment
+  - Rémy Nollet
+images:
+  - /img/portfolio/10_brigadenumerique.png
+ ---
+ 
 **La Direction générale de la gendarmerie nationale (DGGN) cherche à
 améliorer la qualité du service public grâce à la création d’un
 accueil numérique**. Celui-ci permettra une plus grande proximité avec
@@ -39,6 +46,8 @@ complémentarité et une continuité sera recherchée entre la proximité
 physique – renforcée par les outils mobiles connectés mis à
 disposition des gendarmes (NEOGEND) – et la proximité numérique que
 doit décupler la brigade numérique.
+
+## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/qlquJhQU0zwK9u)
 
 ## Les 2 EIG
 
@@ -111,6 +120,3 @@ Ingénieur issu de l’école Polytechnique, le lieutenant-colonel Rémy Nollet,
 recherche à l’université de Berkeley, choisit de devenir officier de gendarmerie en 2005. Optant pour une dominante de carrière en sécurité publique générale, il commande durant 3 ans la brigade territoriale de Blanquefort (compagnie de Bordeaux). Pour son premier passage en état-major, il sert à la sous-direction administrative et financière de la DGGN, chargé des réponses aux contrôles de la Cour des comptes. De 2012 à 2016, il commande la compagnie de gendarmerie départementale de Meylan, en charge d’un territoire fortement criminogène autour de Grenoble, et participe en parallèle à la communauté des systèmes d’information métier de la gendarmerie, sous les aspects de conduite du changement et de cohérence des différents SI. Après une formation d’un an à l’école de guerre, il a rejoint le 1er juin 2017 la mission numérique de la gendarmerie nationale.
 
 « _Accueillir des EIG pour notre défi, c'est accélérer notre transformation numérique grâce à des compétences nouvelles et un regard neuf_. »
-
-
-## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/qlquJhQU0zwK9u)
