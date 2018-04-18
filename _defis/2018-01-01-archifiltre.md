@@ -3,12 +3,15 @@ layout: defi
 titre: archifiltre
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
-mission: Assurer la mémoire des politiques sociales en transformant la gestion des archives
+mission: "Assurer la mémoire des politiques sociales en: transformant la gestion des archives"
 administration: Secrétariat général des ministères sociaux
 type: Développement
 eigs:
   - Emmanuel
   - Jean-Baptiste
+mentors: 
+  - Chloé Moser
+  - Anne Lambert
 images:
   - /img/portfolio/9_ARCHEMSE.png
 ---
