@@ -4,7 +4,7 @@ layout: default
 
 <div class='full'>
   <div class='row'>
-    <div class='large-8 columns'>
+    <div class='large-7 columns'>
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           {% for image in page.images %}
@@ -15,7 +15,7 @@ layout: default
         </div>
       </div>
     </div>
-    <div class='large-4 columns'>
+    <div class='large-5 columns'>
       <h3>{{page.titre}}</h3>
       <ul class='info'>
         <li>
@@ -37,22 +37,24 @@ layout: default
         </li>
 	{% endif %}
         <li>
-          <strong>EIGs :</strong>
-	  {% for eig in page.eigs %}
-	  {{eig}}
-	  {% unless forloop.last %}
-          /
-          {% endunless %}
-	  {% endfor %}
+            <strong>EIGs :</strong>
+	    {% for eig in page.eigs %}
+	    {{eig}}
+	    {% unless forloop.last %}
+            /
+            {% endunless %}
+	    {% endfor %}
         </li>
       </ul>
-      <p>
-        {{content}}
-      </p>
       <div class='spacing'></div>
       {% if page.site %}
       <a class='button small' href='{{page.site}}'>En savoir plus</a>
       {% endif %}
+    </div>
+    <div class='large-12 columns'>
+	<p>
+            {{content}}
+	</p>
     </div>
   </div>
   <div class='four spacing'></div>
