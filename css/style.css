@@ -587,15 +587,15 @@ form input.error, form textarea.error {
   background: #ebeff3;
   color: #333;
   text-align: center;
-  font-size: 1.25rem;
-  line-height: 3rem;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
 }
 #footer ul.socials a:hover i {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #0081d5;
+  background: #ff9947;
 }
 #footer input.email-address {
   padding: 5px 15px;
