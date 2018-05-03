@@ -22,6 +22,6 @@
   path: presse.html
   section_id: contact
 
-- name: Contact
-  path: contact.html
+- name: Candidater
+  path: rejoindre.html
   section_id: contact
