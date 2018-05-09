@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Datascientiste
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/LeoBouloc.jpg
 ---
 
 Léo Bouloc grandit en région parisienne. Il est ingénieur de l'ENSTA

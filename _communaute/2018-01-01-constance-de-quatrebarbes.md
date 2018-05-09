@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeuse
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/ConstancedeQuatrebarbes.jpg
 ---
 
 Littéraire de formation, et programmeuse passionnée, elle s’est

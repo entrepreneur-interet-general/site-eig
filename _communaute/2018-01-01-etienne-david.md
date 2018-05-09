@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Datascientiste
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/EtienneDavid.jpg
 ---
 
 Etienne David est ingénieur AgroParisTech et entrepreneur. Spécialisé

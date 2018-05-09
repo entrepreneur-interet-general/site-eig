@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/TristramGrabener.jpg
 ---
 
 Diplômé de l’Institut Mines Télécom en optimisation, il a effectué son

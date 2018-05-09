@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/FredericBardolle.jpg
 ---
 
 Frédéric a passé les 7 dernières années à résoudre des problèmes grâce

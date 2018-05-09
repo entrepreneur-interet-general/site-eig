@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/SebastienCossin.jpg
 ---
 
 Médecin spécialisé en santé publique et en informatique médicale formé

@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/LaurentDupont.png
 ---
 
 Diplômé de l’École Polytechnique (Palaiseau) et du KTH (École

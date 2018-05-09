@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/photo.png
+  - /img/portfolio/MartinGross.jpg
 ---
 
 Ingénieur Supélec (2012), passionné par les problématiques de data (et
