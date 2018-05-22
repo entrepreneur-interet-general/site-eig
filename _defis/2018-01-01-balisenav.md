@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: balisenav
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
 mission: rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM
@@ -15,11 +15,12 @@ mentors:
 images:
   - /images/@stock/medium-work-1.jpg
   - /images/@stock/medium-work-2.jpg
+published: true
 ---
 
 **La signalisation maritime (phares, balisage des côtes), les avis aux navigateurs et les cartes marines sont essentiels pour permettre aux navigateurs de parer les dangers, de déterminer leur route et de se positionner.** Les changements sur la signalisation maritime, planifiés ou fortuits, sont gérés par les services des phares et balises qui transmettent l’information au Shom, chargé de les diffuser.
 
-Toutefois, les délais d’actualisation des cartes sont conséquents, y compris pour les formes numériques des cartes (ENC) dont les données sont parfois saisies à plusieurs reprises. Par ailleurs, la restitution de l’information de balisage via la carte marine (symboles et légendes statiques) exige un certain temps de lecture et d’interprétation par l’usager.
+Toutefois, les délais d’actualisation des cartes sont conséquents, y compris pour les formes numériques des cartes (ENC) dont les données sont parfois saisies à plusieurs reprises. Par ailleurs, la restitution de l’information de balisage via la carte marine (symboles et légendes statiques) exige un _certain temps de lecture et d’interprétation par l’usager._
 
 ## Le défi : faciliter la diffusion et la lisibilité des informations de signalisation maritime
 
