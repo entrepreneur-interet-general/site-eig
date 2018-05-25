@@ -16,35 +16,23 @@ images:
   - /img/portfolio/10_brigadenumerique.png
 ---
  
-**La Direction générale de la gendarmerie nationale (DGGN) cherche à
-améliorer la qualité du service public grâce à la création d’un
-accueil numérique**. Celui-ci permettra une plus grande proximité avec
-le citoyen et une professionnalisation de la gestion de la relation
-usager aux bénéfices de l’usager (contact personnalisé et réponse
-efficace), du gendarme (valorisation de ses interactions) et de la
-gendarmerie (amélioration de son image et de son impact vis-à-vis des
-usagers).
-  
-**La problématique à résoudre consiste à favoriser le contact
-numérique des usagers avec la gendarmerie et de faciliter les
-démarches des citoyens.**
+La mission des gendarmes est complexe : assurer la sécurité dans les
+zones rurales et périurbaines où ils sont parfois loin des citoyens
+qu’ils servent. Or les nouveaux moyens de communication des millenials
+(Twitter, Facebook, chat…) rendent possible une proximité numérique
+entrée dans les usages des citoyens et efficace pour la Gendarmerie
+nationale.
 
-## La solution : intégration de la brigade numérique dans les parcours de l'usager et du gendarme
+La gendarmerie se rapproche donc des Français et lance sa Brigade
+Numérique. Cet accueil numérique doit favoriser le contact avec la
+Gendarmerie nationale et faciliter les démarches des citoyens.
 
-Pour résoudre cette problématique, la DGGN veut mettre en place une
-plateforme numérique de contact multi-canal (réseaux sociaux, chat,
-FAQ,…) accessible sur le site web de la gendarmerie en version web et
-mobile pour mieux informer, guider et orienter les citoyens selon
-leurs besoins. Cet accueil permettra à l’internaute, à terme,
-d’accéder à la gendarmerie sur le site Internet de la gendarmerie et
-les autres sites partenaires comme *service-public.fr* de la même
-façon que le permettent aujourd’hui les appels téléphoniques et
-l’accueil physique dans les brigades de gendarmerie (hors traitement
-des urgences). Ce projet s’inscrit dans une démarche plus globale de
-transformation numérique de la gendarmerie, dans laquelle une
-complémentarité et une continuité sera recherchée entre la proximité
-physique – renforcée par les outils mobiles connectés mis à
-disposition des gendarmes (NEOGEND) – et la proximité numérique que
-doit décupler la brigade numérique.
+Pour cela, Dora et Jean-Baptiste développent deux outils en veillant à
+la fiabilité des infrastructures et des données ainsi qu’à la qualité
+de l’expérience utilisateur :
 
-## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/qlquJhQU0zwK9u)
+- Un outil de prise de rendez-vous en ligne ;
+- Un outil qui recense toutes les gendarmeries ainsi que leurs
+  horaires d’ouverture.
+
+Vous pouvez retrouver leur travail sur github et sur leur site.
