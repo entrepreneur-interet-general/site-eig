@@ -3,7 +3,7 @@ layout: defi
 titre: archifiltre
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
-mission: "Assurer la mémoire des politiques sociales en: transformant la gestion des archives"
+mission: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"
 administration: Secrétariat général des ministères sociaux
 type: Développement
 eigs:
@@ -16,28 +16,21 @@ images:
   - /img/portfolio/9_ARCHEMSE.png
 ---
 
-**Les données produites par les ministères sociaux ont statut
-d’archives publiques.** A ce titre, leur création, leur gestion et
-leur sort final sont soumis à un cadre législatif et réglementaire
-spécifique. Une bonne gestion des archives doit permettre de
-contextualiser l’information, de garder une trace fiable et opposable
-des décisions publiques et de maîtriser les coûts induits par la
-gestion de l’information. La sélection des documents à conserver doit
-s’opérer de façon transparente et prendre en compte des critères
-complémentaires \(cartographie des risques et des processus,
-perspectives / conditions de réutilisation).
+Les archives sont comme un arbre : rassemblées en un endroit, elles
+ont de multiples ramifications qui mènent aux documents que l’on
+recherche. Parfois, elles sont comme un arbre qui n’a pas été
+taillé. Surtout lorsque les quantités de données sont importantes, les
+formats différents et les données elles-mêmes pas structurées.
 
-Or, la généralisation des outils informatiques et la multiplication
-des outils de partage et de stockage contribuent à une multiplication
-des données non structurées, parfois redondantes, dans des formats
-divers à la lisibilité non garantie à long terme.
+Avec Archifiltre, les ministères sociaux ont décidé de faire leur data
+révolution ! Ils veulent ainsi assurer un traitement fiable et pérenne
+de leurs archives - tailler leur arbre en quelque sorte.
 
-**Dans ce cadre, la problématique à résoudre est de permettre aux
-services métiers et à l’administration des archives de disposer des
-informations nécessaires pour mettre en œuvre une sélection de données
-à un niveau macro pour des ensembles volumineux constitués de
-documents aux formats divers (bureautiques, messageries, etc.) et de
-garantir la pérennisation et la fiabilité des documents traités sur le
-long terme.**
+Pour cela, Emmanuel et Jean-Baptiste œuvrent sur deux fronts. Sur le
+premier, ils mettent en œuvre des techniques de big data pour réaliser
+l’évaluation, la sélection et l’échantillonnage des données publiques
+traitées par les ministères sociaux. Sur le second, ils construisent
+une application qui permet d’appréhender une arborescence en entier
+afin de pouvoir y faire un tri éclairé.
 
-[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
+Vous pouvez retrouver leur travail sur github et sur leur site.
