@@ -22,8 +22,8 @@ recherche. Parfois, elles sont comme un arbre qui n’a pas été
 taillé. Surtout lorsque les quantités de données sont importantes, les
 formats différents et les données elles-mêmes pas structurées.
 
-Avec Archifiltre, les ministères sociaux ont décidé de faire leur data
-révolution ! Ils veulent ainsi assurer un traitement fiable et pérenne
+**Avec Archifiltre, les ministères sociaux ont décidé de faire leur data
+révolution !** Ils veulent ainsi assurer un traitement fiable et pérenne
 de leurs archives - tailler leur arbre en quelque sorte.
 
 Pour cela, Emmanuel et Jean-Baptiste œuvrent sur deux fronts. Sur le
