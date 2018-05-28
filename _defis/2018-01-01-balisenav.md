@@ -26,8 +26,8 @@ des phares et balises.  Cependant, la transmission et l’intégration
 des données prennent parfois du temps et les cartes qui en résultent
 peuvent être difficiles à interpréter.
 
-Or, pour le capitaine comme pour le plaisancier – et pour le SHOM !-,
-la sécurité en mer est une priorité.
+**Or, pour le capitaine comme pour le plaisancier – et pour le SHOM !-,
+la sécurité en mer est une priorité.**
 
 Arnaud et Adrien travaillent donc à la fiabilisation des données
 partagées entre les administrations afin de produire une information
@@ -36,4 +36,4 @@ marine mise à jour en temps réel (traitement des données), augmentée
 de contenus d’ouvrages nautiques (accumulation de données) et à la
 symbologie repensée (visualisation des données).
 
-Vous pouvez retrouver leur travail sur github et sur leur site.
+Vous pouvez retrouver leur travail sur github et sur leur [site](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1).
