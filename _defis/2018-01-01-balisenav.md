@@ -36,5 +36,7 @@ marine mise à jour en temps réel (traitement des données), augmentée
 de contenus d’ouvrages nautiques (accumulation de données) et à la
 symbologie repensée (visualisation des données).
 
+
 Vous pouvez retrouver leur travail sur github et sur leur site.
+
 [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1).
