@@ -24,8 +24,8 @@ situation économique, financière et sociale des entreprises et les
 traiter statistiquement avec un algorithme qui déterminera une
 probabilité de défaillance à 12, 18 et 24 mois.
 
-L'analyse prédictive se met donc au service de la santé des
-entreprises françaises !
+**L'analyse prédictive se met donc au service de la santé des
+entreprises françaises !**
 
 Pour y parvenir, Pierre et Christophe travaillent sur deux
 chantiers. D'une part, la mise au point d'un algorithme de détection
@@ -35,3 +35,5 @@ Banque de France etc.). D'autre part, le développement d'un système
 informatique de chargement de données capable de rafraîchir
 régulièrement et automatiquement les données à partir des bases
 opérationnelles.
+
+[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-signaux-faibles/1)
