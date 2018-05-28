@@ -22,9 +22,9 @@ des domaines divers et variés (santé, environnement, emploi…), mais
 force est de constater qu’elles sont rarement connues du grand public
 et qu’elles ne se connaissent pas toujours entre elles.
 
-La mission de Social Connect : mettre en avant et en réseau les
+**La mission de Social Connect : mettre en avant et en réseau les
 innovations sociales pour les faire connaître, les faire grandir, les
-encourager et les pérenniser. 
+encourager et les pérenniser.**
 
 Julien et Élise construisent donc une plateforme web contributive
 recensant les innovations sociales des territoires français. La
@@ -32,3 +32,4 @@ plateforme héberge un méga moteur de recherche qui repose sur un
 travail d’indexation homogénéisé offrant différentes options de
 recherches, libres, semi-guidées et très fines. 
 
+[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-socialconnect/1)
