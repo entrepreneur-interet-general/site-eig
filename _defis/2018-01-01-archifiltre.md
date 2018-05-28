@@ -33,4 +33,5 @@ traitées par les ministères sociaux. Sur le second, ils construisent
 une application qui permet d’appréhender une arborescence en entier
 afin de pouvoir y faire un tri éclairé.
 
-Vous pouvez retrouver leur travail sur github et sur leur site.
+Vous pouvez retrouver leur travail sur [github](https://github.com/jeanbaptisteassouad/cheapExp) et sur leur [site](http://archifiltre.com/).
+[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
