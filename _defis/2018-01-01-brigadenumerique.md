@@ -23,8 +23,8 @@ qu’ils servent. Or les nouveaux moyens de communication des millenials
 entrée dans les usages des citoyens et efficace pour la Gendarmerie
 nationale.
 
-La gendarmerie se rapproche donc des Français et lance sa Brigade
-Numérique. Cet accueil numérique doit favoriser le contact avec la
+**La gendarmerie se rapproche donc des Français et lance sa Brigade
+Numérique.** Cet accueil numérique doit favoriser le contact avec la
 Gendarmerie nationale et faciliter les démarches des citoyens.
 
 Pour cela, Dora et Jean-Baptiste développent deux outils en veillant à
@@ -36,3 +36,4 @@ de l’expérience utilisateur :
   horaires d’ouverture.
 
 Vous pouvez retrouver leur travail sur github et sur leur site.
+[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-brigade-numrique/1)
