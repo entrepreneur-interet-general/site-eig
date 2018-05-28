@@ -23,8 +23,8 @@ mer, tout comme de nombreux autres acteurs du sauvetage en mer,
 produisent des données dont le traitement permettrait d’améliorer la
 connaissance de l’accidentologie en mer.
 
-La mission de Prédisauvetage : mettre le machine learning et les
-algorithmes prédictifs au service des sauveteurs en mers.
+**La mission de Prédisauvetage : mettre le machine learning et les
+algorithmes prédictifs au service des sauveteurs en mers.**
 
 Elsa et Antoine, grâce à la datascience, construisent un outil capable
 d’identifier les profils et situations à l’origine des
@@ -33,6 +33,8 @@ outil à travers la mise en place, la formation et l’animation d’une
 communauté apprenante. Ces deux volets ont pour objectif de définir
 des actions de prévention.
 
-Ce projet s’inspire de celui mis en place par la ville de New York
+_Ce projet s’inspire de celui mis en place par la ville de New York
 pour optimiser l’intervention de ses services d’inspection grâce au
-machine learning.
+machine learning._
+
+[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prdisauvetage-80976654)
