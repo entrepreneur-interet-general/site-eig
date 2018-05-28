@@ -35,5 +35,7 @@ de l’expérience utilisateur :
 - Un outil qui recense toutes les gendarmeries ainsi que leurs
   horaires d’ouverture.
 
+
 Vous pouvez retrouver leur travail sur github et sur leur site.
+
 [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-brigade-numrique/1)
