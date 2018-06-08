@@ -3,7 +3,7 @@ layout: defi
 titre: Brigade Numérique
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
-mission: Mettre en place un accueil numérique de la gendarmerie au service des citoyens
+mission: Moderniser la fonction d'accueil en brigade
 administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
 type: Développement, ergonomie, design UX/UI
 eigs:
@@ -24,16 +24,22 @@ entrée dans les usages des citoyens et efficace pour la Gendarmerie
 nationale.
 
 **La gendarmerie se rapproche donc des Français et lance sa Brigade
-Numérique.** Cet accueil numérique doit favoriser le contact avec la
-Gendarmerie nationale et faciliter les démarches des citoyens.
+Numérique.** 
 
-Pour cela, Dora et Jean-Baptiste développent deux outils en veillant à
-la fiabilité des infrastructures et des données ainsi qu’à la qualité
-de l’expérience utilisateur :
-
-- Un outil de prise de rendez-vous en ligne ;
-- Un outil qui recense toutes les gendarmeries ainsi que leurs
-  horaires d’ouverture.
+Dora et Jean-Baptiste développent des outils qui favorisent le contact 
+avec la Gendarmerie nationale et facilitent les démarches des citoyens 
+auprès les forces de l'ordre. Ce défi place donc l'usager au centre ....., 
+notamment dans la valorisation des données de la gendarmerie et 
+la construction des interfaces des outils qu’ils développent :
+- une application de prise de rendez-vous en ligne avec un gendarme, 
+liée à l'outil de planification de l'activité de la gendarmerie ;
+- un outil qui recense les horaires d’accueil en brigade des unités 
+territoriales ;
+- une base de données centralisée qui recueille les informations sur 
+l’accessibilité des unités de gendarmerie aux personnes à mobilité réduite ;
+- un outil de gestion de communication multicanal utilisé par la 
+Brigade numérique lors de leur contact avec les usagers dont ils font évoluer
+l'ergonomie. 
 
 
 Vous pouvez retrouver leur travail sur github et sur leur site.
