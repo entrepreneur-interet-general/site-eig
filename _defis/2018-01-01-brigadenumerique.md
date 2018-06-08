@@ -3,7 +3,7 @@ layout: defi
 titre: Brigade Numérique
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
-mission: Moderniser la fonction d'accueil en brigade
+mission: Moderniser la fonction d'accueil en brigade pour accompagner les citoyens et les gendarmes
 administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
 type: Développement, ergonomie, design UX/UI
 eigs:
@@ -18,17 +18,17 @@ images:
  
 La mission des gendarmes est complexe : assurer la sécurité dans les
 zones rurales et périurbaines où ils sont parfois loin des citoyens
-qu’ils servent. Or les nouveaux moyens de communication des millenials
-(Twitter, Facebook, chat…) rendent possible une proximité numérique
-entrée dans les usages des citoyens et efficace pour la Gendarmerie
-nationale.
+qu’ils servent. Or l’usage croissant de de nouveaux modes de communication 
+(réseaux sociaux et agents conversationnels) rend possible une nouvelle
+forme de « proximité numérique » avec les citoyens, complémentaire de
+l’accueil physique en gendarmerie.
 
 **La gendarmerie se rapproche donc des Français et lance sa Brigade
 Numérique.** 
 
 Dora et Jean-Baptiste développent des outils qui favorisent le contact 
 avec la Gendarmerie nationale et facilitent les démarches des citoyens 
-auprès les forces de l'ordre. Ce défi place donc l'usager au centre ....., 
+auprès des forces de l'ordre. Ce défi place donc l'usager au centre, 
 notamment dans la valorisation des données de la gendarmerie et 
 la construction des interfaces des outils qu’ils développent :
 - une application de prise de rendez-vous en ligne avec un gendarme, 
