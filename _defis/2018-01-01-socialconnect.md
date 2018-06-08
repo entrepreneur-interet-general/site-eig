@@ -16,20 +16,28 @@ images:
 ---
 
 Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que
-trois parmi une multitude d’initiatives locales nées dans les
-territoires français. Ceux-ci regorgent  d’innovations sociales dans
-des domaines divers et variés (santé, environnement, emploi…), mais
-force est de constater qu’elles sont rarement connues du grand public
-et qu’elles ne se connaissent pas toujours entre elles.
+trois parmi les dizaines de milliers d'initiatives présentes sur les
+territoires français. Ces innovations sociales répondent à de multiples 
+problématiques allant de la santé, à l’environnement en passant par
+l’emploi. Pourtant, ces initiatives ne sont pas toutes bien connues 
+du grand public… et souvent ne se connaissent pas entre elles !
 
 **La mission de Social Connect : mettre en avant et en réseau les
 innovations sociales pour les faire connaître, les faire grandir, les
 encourager et les pérenniser.**
 
-Julien et Élise construisent donc une plateforme web contributive
-recensant les innovations sociales des territoires français. La
-plateforme héberge un méga moteur de recherche qui repose sur un
-travail d’indexation homogénéisé offrant différentes options de
-recherches, libres, semi-guidées et très fines. 
+Élise et Julien construisent une plateforme web qui recense les 
+innovations sociales des territoires français. Cette plateforme propose
+un moteur de recherche pensé pour le grand public afin que les 
+utilisateurs puissent se repérer parmi toutes les initiatives répertoriées. 
+
+Si la proposition paraît simple –une plateforme web- sa mise en œuvre 
+repose sur un travail conséquent en amont. Deux autres outils plus 
+spécialisés sont développés en parallèle : l’un permettant de récupérer 
+des données sur tous les sites partenaires du projet Social Connect 
+(« scrapping » de données), l’autre permettant d’homogénéiser les 
+indexations des innovations sociales. Le design ces trois outils 
+-grand public ou spécialisés- est pensé afin de rendre l’expérience 
+des utilisateurs la plus fluide et simple possible.
 
 [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-socialconnect/1)
