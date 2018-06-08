@@ -4,7 +4,7 @@ titre: CoachEleves
 site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
 mission: >-
-  Améliorer la réussite scolaire et l'orientation avec les données
+  Améliorer la réussite scolaire avec les données
   d'apprentissage
 administration: 'Ministère de l''Éducation Nationale, Direction du numérique pour l''éducation'
 type: Datascience
@@ -19,7 +19,7 @@ images:
 published: true
 ---
 
-Aujourd’hui, quelles que soient les difficultés –ou les ambitions !- d’un élève, celui-ci voit s’offrir à lui toute une gamme d’applications pédagogiques, de sites spécialisés et d’exercices en ligne ciblés. De plus, le suivi des élèves s’étant numérisé, notamment grâce aux ENT, on ne compte plus le nombre de traces numériques qui pourraient se révéler utiles...
+Aujourd’hui, quelles que soient les difficultés –ou les ambitions !- d’un élève, celui-ci voit s’offrir à lui toute une gamme d’applications pédagogiques, de sites spécialisés et d’exercices en ligne ciblés. De plus, le suivi des élèves s’étant numérisé, notamment grâce aux Espaces numériques de travail (ENT), on ne compte plus le nombre de traces numériques qui pourraient se révéler utiles...
 
 **CoachÉlèves ou comment mettre les données au service de l’accompagnement pédagogique des élèves.**
 
