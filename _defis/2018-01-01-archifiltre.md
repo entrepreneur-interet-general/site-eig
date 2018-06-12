@@ -45,5 +45,7 @@ Testez-là sur [archifiltre.com](https://archifiltre.com/) !
 _Pour aller plus loin_
 
 [Leur github](https://github.com/jeanbaptisteassouad/cheapExp) 
-[Leur site](http://archifiltre.com/).
+
+[Leur site](http://archifiltre.com/)
+
 [Le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
