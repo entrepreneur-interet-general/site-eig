@@ -38,7 +38,7 @@ formats de données publiques produits par les
 ministères sociaux et de caractériser les liens entre les 
 différents éléments pour permettre de les traiter.  Sur le second, 
 ils construisent une application  qui permet d’appréhender une 
-arborescence en entier afin de pouvoir y faire un tri éclairé. 
+arborescence en entier afin d'y faire un tri éclairé. 
 Testez-là sur [archifiltre.com](https://archifiltre.com/) !
 
 
