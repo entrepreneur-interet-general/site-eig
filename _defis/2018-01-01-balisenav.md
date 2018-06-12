@@ -44,4 +44,4 @@ Leur github
 
 Leur site
 
-[Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1).
+[Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1)
