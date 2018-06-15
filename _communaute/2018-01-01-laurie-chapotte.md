@@ -8,12 +8,12 @@ annees: 2018
 defi: Gobelins
 profil: 
 images:
-  - /img/portfolio/LaurieChapotte.png
+  - /img/Laurie-Chapotte.png
 ---
 
-Designer graphique et de service, Laurie Chapotte a d’abord travaillé
+« Designer graphique et de service, j'ai d’abord travaillé
 pour le laboratoire de recherche « identités complexes » à
 l’Université de Strasbourg afin de rendre plus compréhensible et
-accessible cette institution complexe. Elle a ensuite développé son
-activité de designer indépendante et conçoit des outils imprimés ou
-numériques visant à faciliter l’accès à l’information.
+accessible cette institution complexe. J'ai ensuite développé mon
+activité de designer indépendante et conçu des outils imprimés ou
+numériques visant à faciliter l’accès à l’information. »
