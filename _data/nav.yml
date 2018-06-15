@@ -14,14 +14,10 @@
   path: blog/
   section_id: blog
 
-- name: Agenda
-  path: agenda.html
-  section_id: agenda
-
 - name: Presse
   path: presse.html
-  section_id: contact
+  section_id: presse
 
-- name: Candidater
-  path: rejoindre.html
-  section_id: contact
+- name: Appel à projets
+  path: actions.html
+  section_id: actions
