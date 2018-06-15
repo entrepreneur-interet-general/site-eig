@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Datascientiste
 images:
-  - /img/Léo-Bouloc.png
+  - /img/Leo-Bouloc.png
 ---
 
 "J'ai grandi en région parisienne. Je suis ingénieur de l'ENSTA
