@@ -11,10 +11,10 @@ images:
   - /img/portfolio/PierreCamilleri.jpg
 ---
 
-Pierre Camilleri est diplômé de l'École polytechnique. Il effectue une
-année à l'École nationale des Ponts et chaussées en spécialité
+« Après avoir obtenu un diplôme de l'École polytechnique, j'ai effectué
+une année à l'École nationale des Ponts et chaussées en spécialité
 Transport, en parallèle du Master Recherche « Transport et Mobilité »
-de l'Université Paris-Est. Il intègre le département Recherche de
-Renault pour son stage de fin d'études, où il poursuit avec une thèse
-CIFRE, dans laquelle il mène une analyse prospective du marché du
-véhicule utilitaire électrique.
+de l'Université Paris-Est. J'ai intégré le département Recherche de
+Renault pour mon stage de fin d'études, où j'ai poursuivi avec une thèse
+CIFRE, dans laquelle j'ai mené une analyse prospective du marché du
+véhicule utilitaire électrique. »
