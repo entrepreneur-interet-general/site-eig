@@ -11,7 +11,7 @@ images:
   - /img/portfolio/AmbreArnaud.jpg
 ---
 
-Diplômée de l'Ecole Centrale Paris, avec une spécialité en
+"Diplômée de l'Ecole Centrale Paris, avec une spécialité en
 informatique et systèmes embarqués, j'ai terminé ma formation en
 effectuant mon stage de fin d'études chez Theodo en tant que
 développeuse web. J'ai également profité d'une année de césure au
@@ -21,4 +21,4 @@ Londres. Intéressée par les problématiques de modernisation du secteur
 public, et notamment l'ouverture et l'exploitation des données, je
 relève le défi DataESR pour mettre mon expérience et mes connaissances
 mais aussi ma nature curieuse et combative au service d'une cause
-utile à la société.
+utile à la société."
