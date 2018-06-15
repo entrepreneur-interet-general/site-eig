@@ -8,12 +8,12 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/FredericBardolle.jpg
+  - /img/Frédéric-Bardolle.png
 ---
 
 "J'ai passé les 7 dernières années à résoudre des problèmes grâce
 aux données.  Suite à mon expérience d'EIG à la Cour des Comptes,
-je travaille à l'Agence du numérique sur la mise en
+j'ai travaillé à l'Agence du numérique sur la mise en
 place de politiques publiques en faveur de l'inclusion numérique. Je suis
 également directeur technique de Data for Good (une communauté de
 volontaires mettant leur talent au profit d'organisations à but non
