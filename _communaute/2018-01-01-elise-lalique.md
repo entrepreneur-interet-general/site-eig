@@ -10,10 +10,10 @@ images:
   - /img/portfolio/EliseLalique.png
 ---
 
-Diplômée d’un Master en Design, Innovation, Société à l’université de
-Nîmes, Elise s’est beaucoup intéressée aux problématiques du
-vieillissement et de la santé. Elle a travaillé un an avec Erasme,
+« Diplômée d’un Master en Design, Innovation, Société à l’université de
+Nîmes, je me suis beaucoup intéressée aux problématiques du
+vieillissement et de la santé. J'ai travaillé un an avec Erasme,
 laboratoire d'innovation ouverte de la Métropole de Lyon, sur le
-projet Host/Idolink un réseau social de proximité pour les personnes
-âgées. Elle a ensuite rejoint en 2016 l’équipe de PwC Experience
-Center en tant qu’UX designer.
+projet Host/Idolink, un réseau social de proximité pour les personnes
+âgées. J'ai ensuite rejoint en 2016 l’équipe de PwC Experience
+Center en tant qu’UX designer. »
