@@ -24,4 +24,4 @@ sur les outils open source pour la recherche, je suis premier salarié
 de Wikimédia France en 2010, puis j'ai contribué à ShareLex, jecode.org et
 aux Hackadons.
 « Entrepreneur d'intérêt général » pour le Ministère de la Culture en
-2017, il s'engage à nouveau dans ce programme en 2018 comme EIG Link."
+2017, je m'engage à nouveau dans ce programme en 2018 comme EIG Link."
