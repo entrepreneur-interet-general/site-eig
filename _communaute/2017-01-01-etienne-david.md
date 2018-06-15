@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Data science
 images:
-  - /img/portfolio/EtienneDavid.png
+  - /img/Etienne-David.png
 ---
 
 " Je suis ingénieur AgroParisTech et entrepreneur. Spécialisé
