@@ -8,7 +8,7 @@ annees: 2018
 defi: Prédisauvetage
 profil: Développement / Datascience
 images:
-  - /img/portfolio/AntoineAugusti.png
+  - /img/Antoine-Augusti.png
 ---
 
 « Je suis titulaire d'un diplôme d'ingénieur en architecture des
