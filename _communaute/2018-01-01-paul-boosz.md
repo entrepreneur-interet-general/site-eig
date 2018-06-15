@@ -8,10 +8,10 @@ annees: 2018
 defi: Hopkins
 profil: Datascience
 images:
-  - /img/portfolio/PaulBoosz.png
+  - /img/Ned-Baldessin.png
 ---
 
-Paul Boosz est ingénieur des Ponts et Chaussées et diplômé d'un master
-d'apprentissage automatique de l'université Paris-Saclay. Il a été
+« Je suis ingénieur des Ponts et Chaussées et diplômé d'un master
+d'apprentissage automatique de l'université Paris-Saclay. J'ai été
 parmi les premiers data scientists de Shift Technology, une startup
-spécialisée dans la détection de fraude à l'assurance.
+spécialisée dans la détection de fraude à l'assurance. »
