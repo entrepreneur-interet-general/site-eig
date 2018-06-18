@@ -11,7 +11,7 @@ eigs:
 mentors: 
   - Emmanuel Bermès
 images:
-  - /img/portfolio/9_ARCHEMSE.png
+  - /img/defis/9_ARCHEMSE.png
 ---
 
 La Bibliothèque nationale de France, c’est une collection de plus de

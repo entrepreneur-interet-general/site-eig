@@ -7,7 +7,7 @@ annees: 2018
 defi: PrédiSauvetage
 profil: 
 images:
-  - /img/portfolio/1_datasauvetage2.jpg
+  - /img/communaute/1_datasauvetage2.jpg
 ---
 
 « Je suis chargé de mission sécurité des navires et analyse

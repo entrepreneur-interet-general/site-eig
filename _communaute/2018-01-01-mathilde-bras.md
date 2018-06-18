@@ -8,7 +8,7 @@ annees: 2017, 2018
 defi: EIG Node
 profil: 
 images:
-  - /img/portfolio/mathilde_bras.jpg
+  - /img/communaute/mathilde_bras.jpg
 ---
 
 Une biographie de Mathilde.

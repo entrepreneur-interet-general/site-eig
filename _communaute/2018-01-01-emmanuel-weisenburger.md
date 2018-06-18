@@ -7,7 +7,7 @@ annees: 2018
 defi: DataESR
 profil: 
 images:
-  - /img/Emmanuel-Weisenburger.png
+  - /img/communaute/Emmanuel-Weisenburger.png
 ---
 
 « Avec Yann Caradec je co-anime le département des

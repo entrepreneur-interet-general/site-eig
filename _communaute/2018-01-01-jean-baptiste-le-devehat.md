@@ -8,7 +8,7 @@ annees: 2018
 defi: EIG team
 profil: Ergonomie
 images:
-  - /img/JeanBaptiste-LeDevehat.png
+  - /img/communaute/JeanBaptiste-LeDevehat.png
 ---
 
 « À l’image de mon expertise en progiciel, je suis un

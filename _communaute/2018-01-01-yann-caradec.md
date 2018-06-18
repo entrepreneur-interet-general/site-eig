@@ -7,7 +7,7 @@ annees: 2018
 defi: DataESR
 profil:
 images:
-  - /img/portfolio/11.dataESR.jpg
+  - /img/communaute/11.dataESR.jpg
 ---
 
 « Avec Emmanuel Weisenburger je co-anime le département des

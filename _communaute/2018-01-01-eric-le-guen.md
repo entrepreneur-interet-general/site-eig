@@ -7,7 +7,7 @@ annees: 2018
 defi: B@liseNAV
 profil:
 images:
-  - /img/portfolio/eric-le-guen.jpg
+  - /img/communaute/eric-le-guen.jpg
 ---
 
 « Depuis 2015, je suis le référent de l’infrastructure de

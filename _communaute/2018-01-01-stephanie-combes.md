@@ -7,7 +7,7 @@ annees: 2018
 defi: Lab Santé
 profil: 
 images:
-  - /img/portfolio/2_photostephaniecombes.png
+  - /img/communaute/2_photostephaniecombes.png
 ---
 
 « Je travaille la donnée depuis 7 ans, données structurées, données

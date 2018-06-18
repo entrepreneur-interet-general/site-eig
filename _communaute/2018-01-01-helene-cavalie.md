@@ -8,7 +8,7 @@ annees: 2018
 defi: Gobelins
 profil: 
 images:
-  - /img/portfolio/3_gobelins.jpg
+  - /img/communaute/3_gobelins.jpg
 ---
 
 « Je suis chartiste et conservateur du Patrimoine. Depuis

@@ -8,7 +8,7 @@ annees: 2018
 defi: Hopkins
 profil: Datascience
 images:
-  - /img/Ned-Baldessin.png
+  - /img/communaute/Ned-Baldessin.png
 ---
 
 « Je suis ingénieur des Ponts et Chaussées et diplômé d'un master

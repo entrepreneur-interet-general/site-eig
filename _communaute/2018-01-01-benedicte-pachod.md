@@ -7,7 +7,7 @@ annees: 2018
 defi: EIG team
 profil: 
 images:
-  - /img/portfolio/8.PACHODBenedicte.jpg
+  - /img/communaute/8.PACHODBenedicte.jpg
 ---
 
 "Engagée dans l’exploration de réponses collectives pour le bien-être

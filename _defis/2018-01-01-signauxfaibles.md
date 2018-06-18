@@ -12,7 +12,7 @@ eigs:
 mentors:
   - Stéphanie Schaer
 images:
-  - /img/portfolio/6_Signauxfaibles.png
+  - /img/defis/6_Signauxfaibles.png
 ---
 
 En France, chaque année, 4 000 PME et ETI font faillite. Mais si leurs

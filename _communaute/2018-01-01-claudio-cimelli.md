@@ -7,7 +7,7 @@ annees: 2018
 defi: CoachÉlèves
 profil:
 images:
-  - /img/portfolio/12.coacheleves.png
+  - /img/communaute/12.coacheleves.png
 ---
 
 « Je suis chef de la mission d’incubation des projets

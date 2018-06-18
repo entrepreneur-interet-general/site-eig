@@ -8,7 +8,7 @@ annees: 2018
 defi: Lab Santé
 profil: Datascience
 images:
-  - /img/portfolio/PhileasCondemine.png
+  - /img/communaute/PhileasCondemine.png
 ---
 
 « J'ai étudié à l'ENSAE la science actuarielle et la science des

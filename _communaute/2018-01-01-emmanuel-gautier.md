@@ -8,7 +8,7 @@ annees: 2018
 defi: ArchiFiltre
 profil: Datascientist
 images:
-  - //img/Emmanuel-Gautier.png
+  - /img/communaute/Emmanuel-Gautier.png
 ---
 
 « Je suis né en France avec les ordinateurs personnels, les débuts du

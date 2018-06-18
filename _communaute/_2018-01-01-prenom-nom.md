@@ -8,7 +8,7 @@ annees: 2018
 defi: nom_defi
 profil: type_profil
 images:
-  - /img/portfolio/photo.png
+  - /img/communaute/photo.png
 ---
 
 Prénom Nom est ...

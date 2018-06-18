@@ -7,7 +7,7 @@ annees: 2018
 defi: CoachÉlèves
 profil: 
 images:
-  - /img/portfolio/12.coacheleves.png
+  - /img/communaute/12.coacheleves.png
 ---
 
 « Je travaille depuis 4 ans à la Direction du numérique

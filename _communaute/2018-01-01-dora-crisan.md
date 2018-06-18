@@ -7,7 +7,7 @@ annees: 2018
 defi: Bridage Numérique
 profil: Développeuse
 images:
-  - /img/Dora-Crisan.png
+  - /img/communaute/Dora-Crisan.png
 ---
 
 « Je suis une techno-optimiste, convaincue que les nouvelles

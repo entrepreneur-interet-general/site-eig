@@ -7,7 +7,7 @@ annees: 2018
 defi: Signaux Faibles
 profil: 
 images:
-  - /img/portfolio/6_Photo-SCHAER-st%C3%A9phanie.jpg
+  - /img/communaute/6_Photo-SCHAER-st%C3%A9phanie.jpg
 ---
 
 « Ingénieure de formation, j'ai été nommée en avril 2014

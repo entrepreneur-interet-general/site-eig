@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Datascientiste
 images:
-  - /img/Marion-Paclot.png
+  - /img/communaute/Marion-Paclot.png
 ---
 
 "Datascientist venue du monde l'économie et passée par le conseil,

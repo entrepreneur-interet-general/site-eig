@@ -13,7 +13,7 @@ mentors:
   - Laurence Matringe
   - Renaud Périn
 images:
-  - /img/portfolio/1_MTES.png
+  - /img/defis/1_MTES.png
 ---
 
 En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été

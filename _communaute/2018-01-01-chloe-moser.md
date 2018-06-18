@@ -7,7 +7,7 @@ annees: 2018
 defi: ArchiFiltre
 profil: 
 images:
-  - /img/portfolio/chloemoser.jpg
+  - /img/communaute/chloemoser.jpg
 ---
 
 « J'ai rejoint le secrétariat général des ministères sociaux en

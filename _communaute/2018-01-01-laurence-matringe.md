@@ -8,7 +8,7 @@ annees: 2018
 defi: Prédisauvetage
 profil: 
 images:
-  - /img/portfolio/1_datasauvetage2.jpg
+  - /img/communaute/1_datasauvetage2.jpg
 ---
 
 « Je suis chargée de mission transformation numérique

@@ -7,7 +7,7 @@ annees: 2018
 defi: Hopkins
 profil: 
 images:
-  - /img/portfolio/7_DelphineLE.png
+  - /img/communaute/7_DelphineLE.png
 ---
 
 « Suite à un parcours mixte (dans le privé et le public, en recherche et

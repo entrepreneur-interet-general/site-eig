@@ -11,7 +11,6 @@ eigs:
 mentors: 
   - Antoine Chèvre
 images:
-  
 ---
 
 Quand l’Agence Française de Développement (AFD) cherche à construire

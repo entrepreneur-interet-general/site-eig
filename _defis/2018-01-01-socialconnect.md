@@ -12,7 +12,7 @@ eigs:
 mentor:
   - Bénédicte Pachod
 images:
-  - /img/portfolio/8_CGET.png
+  - /img/defis/8_CGET.png
 ---
 
 Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que

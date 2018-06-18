@@ -8,7 +8,7 @@ annees: 2018
 defi: Hopkins
 profil: Data Engineer
 images:
-  - /img/Benoit-Guigal.png
+  - /img/communaute/Benoit-Guigal.png
 ---
 
 « Diplômé de l’école des Mines de Paris, j’effectue mon stage de fin

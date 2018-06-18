@@ -9,7 +9,7 @@ annees: 2017, 2018
 defi: EIG Link
 profil: Développeur
 images:
-  - /img/Bastien-Guerry.png
+  - /img/communaute/Bastien-Guerry.png
 ---
 
 "Je suis programmeur indépendant et hacktiviste du libre. Après des 

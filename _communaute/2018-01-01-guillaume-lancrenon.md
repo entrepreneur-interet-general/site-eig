@@ -8,7 +8,7 @@ annees: 2018
 defi: Prévisecours
 profil: Développement
 images:
-  - /img/Guillaume-Lancrenon.png
+  - /img/communaute/Guillaume-Lancrenon.png
 ---
 
 « J'ai débuté comme ingénieur d’exploration sismique

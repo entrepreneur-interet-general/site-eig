@@ -8,7 +8,7 @@ annees: 2018
 defi: Archifiltre
 profil: Développeur
 images:
-  - /img/JeanBaptiste-Assouad.png
+  - /img/communaute/JeanBaptiste-Assouad.png
 ---
 
 « Après avoir obtenu mon diplôme d’ingénieur en robotique de l’École

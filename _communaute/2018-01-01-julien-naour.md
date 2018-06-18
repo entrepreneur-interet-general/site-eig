@@ -9,7 +9,7 @@ annees: 2018
 defi: Lab Santé
 profil: Datascience
 images:
-  - /img/portfolio/JulienNaour.png
+  - /img/communaute/JulienNaour.png
 ---
 
 « Je suis data scientist spécialisé en Big Data et couteau suisse

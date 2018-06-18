@@ -8,7 +8,7 @@ annees: 2018
 defi: CoachÉlèves
 profil: Datascience
 images:
-  - /img/portfolio/DavidPanou.png
+  - /img/communaute/DavidPanou.png
 ---
 
 « Suite à des études d’ingénieur en apprentissage automatique (Arts et

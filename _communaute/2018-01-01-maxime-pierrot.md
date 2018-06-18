@@ -8,7 +8,7 @@ annees: 2018
 defi: DataESR
 profil: Tout !
 images:
-  - /img/Maxime-Pierrot.png
+  - /img/communaute/Maxime-Pierrot.png
 ---
 
 « Entrepreneur et développeur, j'adore les nouveaux challenges. J'ai

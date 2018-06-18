@@ -8,7 +8,7 @@ annees: 2018
 defi: SocialConnect
 profil: Développeur
 images:
-  - /img/portfolio/JulienParis.png
+  - /img/communaute/JulienParis.png
 ---
 
 « Après une formation d'architecte DPLG (Lyon puis Paris-La Villette),

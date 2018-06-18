@@ -8,7 +8,7 @@ annees: 2018
 defi: Hopkins
 profil: Datascience
 images:
-  - /img/portfolio/VictorSchmidt.png
+  - /img/communaute/VictorSchmidt.png
 ---
 
 « Récemment diplômé de l'École polytechnique et du University College

@@ -8,7 +8,7 @@ annees: 2018
 defi: DataESR
 profil: 
 images:
-  - /img/portfolio/AmbreArnaud.jpg
+  - /img/communaute/AmbreArnaud.jpg
 ---
 
 "Diplômée de l'Ecole Centrale Paris, avec une spécialité en

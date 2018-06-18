@@ -7,7 +7,7 @@ annees: 2018
 defi: SocialConnect
 profil: Design UX
 images:
-  - /img/portfolio/EliseLalique.png
+  - /img/communaute/EliseLalique.png
 ---
 
 « Diplômée d’un Master en Design, Innovation, Société à l’université de

@@ -8,7 +8,7 @@ annees: 2018
 defi: Gobelins
 profil: Développement
 images:
-  - /img/Ned-Baldessin.png
+  - /img/communaute/Ned-Baldessin.png
 ---
 
 « Je suis développeur web depuis une quinzaine d'années. J'aime 

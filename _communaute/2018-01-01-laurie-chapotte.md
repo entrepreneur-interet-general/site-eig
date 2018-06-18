@@ -8,7 +8,7 @@ annees: 2018
 defi: Gobelins
 profil: 
 images:
-  - /img/Laurie-Chapotte.png
+  - /img/communaute/Laurie-Chapotte.png
 ---
 
 « Designer graphique et de service, j'ai d’abord travaillé

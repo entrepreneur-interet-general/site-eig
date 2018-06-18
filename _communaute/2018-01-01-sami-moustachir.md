@@ -8,7 +8,7 @@ annees: 2018
 defi: DataESR
 profil: Datascience
 images:
-  - /img/portfolio/SamiMoustachir.png
+  - /img/communaute/SamiMoustachir.png
 ---
 
 « J'ai découvert le monde de l'entrepreneuriat en 2015 où j'ai aidé des

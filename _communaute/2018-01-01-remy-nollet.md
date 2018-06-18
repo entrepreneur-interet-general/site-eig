@@ -7,7 +7,7 @@ annees: 2018
 defi: Brigade Numérique
 profil:
 images:
-  - /img/portfolio/remynollet.jpg
+  - /img/communaute/remynollet.jpg
 ---
 
 « Ingénieur issu de l’école Polytechnique et après avoir effectué 

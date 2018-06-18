@@ -8,7 +8,7 @@ annees: 2018
 defi: Signaux Faibles
 profil: Datascience
 images:
-  - /img/portfolio/PierreCamilleri.jpg
+  - /img/communaute/PierreCamilleri.jpg
 ---
 
 « Après avoir obtenu un diplôme de l'École polytechnique, j'ai effectué

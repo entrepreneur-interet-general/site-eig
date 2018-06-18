@@ -7,7 +7,7 @@ annees: 2018
 defi: Brigade Numérique
 profil:
 images:
-  - /img/portfolio/10.MarielleChrisment.jpg
+  - /img/communaute/10.MarielleChrisment.jpg
 ---
 
 « Officier de gendarmerie, ingénieure et titulaire

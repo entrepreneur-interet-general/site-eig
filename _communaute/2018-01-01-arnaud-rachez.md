@@ -8,7 +8,7 @@ annees: 2018
 defi: CoachÉlèves
 profil: Datascience
 images:
-  - /img/portfolio/ArnaudRachez.png
+  - /img/communaute/ArnaudRachez.png
 ---
 
 "J'ai débuté comme ingénieur spécialisé dans le traitement

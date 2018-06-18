@@ -7,7 +7,7 @@ annees: 2018
 defi: ArchiFiltre
 profil: 
 images:
-  - /img/portfolio/9.AnneLambert.jpg
+  - /img/communaute/9.AnneLambert.jpg
 ---
 
 "J'ai rejoint le secrétariat général des ministères sociaux

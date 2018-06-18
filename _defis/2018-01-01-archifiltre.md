@@ -13,7 +13,7 @@ mentors:
   - Chloé Moser
   - Anne Lambert
 images:
-  - /img/portfolio/9_ARCHEMSE.png
+  - /img/defis/9_ARCHEMSE.png
 ---
 
 Les archives sont comme un arbre : rassemblées en un endroit, 

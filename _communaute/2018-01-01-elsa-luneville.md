@@ -8,7 +8,7 @@ annees: 2018
 defi: Prédisauvetage
 profil: Datascience
 images:
-  - /img/Elsa-Luneville.png
+  - /img/communaute/Elsa-Luneville.png
 ---
 
 « Je suis diplômée de l’IESEG d’un master en économie et je me suis

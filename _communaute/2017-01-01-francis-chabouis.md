@@ -8,7 +8,7 @@ annees: 2017
 defi: 
 profil: Développeur
 images:
-  - /img/portfolio/FrancisChabouis.jpg
+  - /img/communaute/FrancisChabouis.jpg
 ---
 
 "Ingénieur de formation (Centrale Lyon 2006) avec une spécialité en

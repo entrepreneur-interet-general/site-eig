@@ -15,7 +15,7 @@ mentor:
   - Claudio Cimelli
   - François Bocquet
 images:
-  - /img/portfolio/12_CoachElevesAssistProf.png
+  - /img/defis/12_CoachElevesAssistProf.png
 published: true
 ---
 

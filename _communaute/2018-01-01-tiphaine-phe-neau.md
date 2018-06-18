@@ -8,7 +8,7 @@ annees: 2018
 defi: Prévisecours
 profil: Datascience
 images:
-  - /img/Tiphaine-PheNeau.png
+  - /img/communaute/Tiphaine-PheNeau.png
 ---
 
 « Je suis titulaire d'un doctorat en informatique de l'Université

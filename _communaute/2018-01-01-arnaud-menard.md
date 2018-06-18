@@ -7,7 +7,7 @@ annees: 2018
 defi: B@liseNAV
 profil: Géomatique
 images:
-  - /img/Arnaud-Menard.png
+  - /img/communaute/Arnaud-Menard.png
 ---
 
 "Arnaud, 48 ans, entre Paris et Lorient, une fille de 22 ans.Rêvant design, 

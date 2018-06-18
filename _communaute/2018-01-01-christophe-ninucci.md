@@ -8,7 +8,7 @@ annees: 2018
 defi: Signaux Faibles
 profil: Développeur
 images:
-  - /img/Christophe-Ninucci.png
+  - /img/communaute/Christophe-Ninucci.png
 ---
 
 « J'ai débuté ma carrière dans le domaine de l'industrie

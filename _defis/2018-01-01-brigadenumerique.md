@@ -13,7 +13,7 @@ mentors:
   - Marielle Chrisment
   - Rémy Nollet
 images:
-  - /img/portfolio/10_brigadenumerique.png
+  - /img/defis/10_brigadenumerique.png
 ---
  
 La mission des gendarmes est complexe : assurer la sécurité dans les

@@ -8,7 +8,7 @@ annees: 2018
 defi: B@liseNAV
 profil: Géomatique
 images:
-  - /img/portfolio/AdrienSignorino.png
+  - /img/communaute/AdrienSignorino.png
 ---
 
 "Je suis passionné depuis toujours par l'entrepreneuriat,

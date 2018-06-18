@@ -7,7 +7,7 @@ annees: 2018
 defi: Lab Santé
 profil: Datascience
 images:
-  - /img/Samah-Ghalloussi.png
+  - /img/communaute/Samah-Ghalloussi.png
 ---
 
 « Je suis ingénieure spécialisée en Technologies de l'information pour

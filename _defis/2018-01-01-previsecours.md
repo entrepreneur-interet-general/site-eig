@@ -12,7 +12,7 @@ eigs:
 mentor:
   - Daniel Ansellem 
 images:
-  - /img/portfolio/4_Previsecours.png
+  - /img/defis/4_Previsecours.png
 ---
 En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants… 
 

@@ -7,7 +7,7 @@ annees: 2018
 defi: Prévisecours
 profil: 
 images:
-  - /img/Daniel-Ansellem-2.png
+  - /img/communaute/Daniel-Ansellem-2.png
 ---
 
 « J'ai été nommé en Juillet 2016 Administrateur ministériel
