@@ -1,6 +1,15 @@
 - name: Programme
   path: programme.html
   section_id: programme
+  children:
+  - name: Sous-menu 1
+    path: sous-page-1.html
+  - name: Sous-menu 2
+    path: sous-page-2.html
+    
+- name: Défis
+  path: defis.html
+  section_id: defis
 
 - name: Défis
   path: defis.html
