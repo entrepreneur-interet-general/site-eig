@@ -11,10 +11,6 @@
   path: defis.html
   section_id: defis
 
-- name: Défis
-  path: defis.html
-  section_id: defis
-
 - name: Communauté
   path: communaute.html
   section_id: communaute
