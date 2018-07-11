@@ -2411,12 +2411,15 @@ body.screenshot {
   display: block;
   overflow: hidden;
 }
+.modGallery ul.gallery li a img {
+  filter: grayscale(100%);
+}
 .modGallery ul.gallery li a .overlay {
   opacity: 0;
   position: absolute;
   top: 0;
   text-align: center;
-  background: rgba(34, 34, 34, 0.8);
+  background: #d1335b;
   width: 100%;
   height: 100%;
   -moz-transition: all 0.3s linear;
@@ -2438,7 +2441,7 @@ body.screenshot {
   font-size: 0.875rem;
 }
 .modGallery ul.gallery li a:hover .overlay {
-  opacity: 1;
+    opacity: .5;
 }
 .modGallery ul.gallery li a:hover .overlay .thumb-info {
   -moz-transition-duration: 0.4s;
@@ -2455,6 +2458,7 @@ body.screenshot {
   -ms-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+  filter: grayscale(0%);
 }
 .modGallery ul.gallery li.hidden {
   opacity: 0.1;
@@ -2561,7 +2565,7 @@ body {
   position: absolute;
   top: 0;
   text-align: center;
-  background: rgba(34, 34, 34, 0.8);
+  background: #d1335b;
   width: 100%;
   height: 100%;
   -moz-transition: all 0.3s linear;
@@ -2587,7 +2591,7 @@ body {
 }
 .modMasonryGallery ul.gallery li a:hover .overlay {
   overflow: hidden;
-  opacity: 1;
+  opacity: .8;
 }
 .modMasonryGallery ul.gallery li a:hover .overlay .thumb-info {
   -moz-transition-duration: 0.4s;
