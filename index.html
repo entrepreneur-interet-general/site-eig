@@ -14,10 +14,24 @@ boxes:
     title: Branding
     text:
       Placeat vel
+
+milestones:
+- from: 0
+  to: 2
+  title: Promotions</br>Une 3ème en perspective
+- from: 0
+  to: 22
+  title: Défis
+- from: 0
+  to: 39
+  title: Entrepreneur·e·s
+- from: 0
+  to: 24
+  title: Mentors
 ---
 
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
-  <div class='two spacing'></div>
+  <div class='one spacing'></div>
   <div class='mod modCallToAction'>
     <div class='row'>
       <div class='medium-7 large-7 columns'>
@@ -28,26 +42,34 @@ boxes:
       </div>
     </div>
   </div>
-  <div class='spacing'></div>
+  <div class='one spacing'></div>
+</div>
+<div class='one spacing'></div>
+<div>
+    <div class='row'>
+	<div class='large-7 columns'>
+	    <img src="img/accueil-eig2018.jpg" />
+	</div>
+	<div class='large-5 columns'>
+	    <p>Un peu de texte</p>
+	</div>
+    </div>
+</div>
+<div class='one spacing'></div>
+<div class='full parallax' style='background: #f5f5f5;font-size:80%;'>
+    <div class='row'>
+	{% for milestone in page.milestones %}
+	<div class='medium-3 large-3 columns right-border left-border'>
+            <div class='mod modMilestone no-icon'>
+		<strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'>&nbsp;</strong>
+		<span>{{milestone.title}}</span>
+		<div class='spacing'></div>
+            </div>
+	</div>
+	{% endfor %}
+    </div>
+    <div class='four spacing'></div>
 </div>
 
-<div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modBoxedTextSlider'>
-        <div class='boxes'>
-          {% for box in page.boxes %}
-            <div class='box' style=''>
-              <i class='{{box.icon_class}}'></i>
-              <h4>{{box.title}}</h4>
-              <p>{{box.text}}</p>
-            </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class='four spacing'></div>
-</div>
 
 
