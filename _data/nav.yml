@@ -2,27 +2,44 @@
   path: programme.html
   section_id: programme
   children:
-  - name: Sous-menu 1
+  - name: Présentation
     path: sous-page-1.html
-  - name: Sous-menu 2
+  - name: Questions fréquentes
     path: sous-page-2.html
     
-- name: Défis
+- name: Réalisations
   path: defis.html
   section_id: defis
+  children:
+  - name: Les défis
+    path: sous-page-1.html
+  - name: Les outils
+    path: sous-page-2.html
+  - name: Les guides
+    path: sous-page-2.html
 
 - name: Communauté
   path: communaute.html
   section_id: communaute
+  children:
+  - name: Promotions
+    path: sous-page-1.html
+  - name: Événements
+    path: sous-page-2.html
 
 - name: Blog
   path: blog/
   section_id: blog
 
-- name: Presse
+- name: Participer
   path: presse.html
   section_id: presse
+  children:
+  - name: Je suis une administration
+    path: sous-page-1.html
+  - name: Je suis un candidat
+    path: sous-page-2.html
 
-- name: Appel à projets
-  path: actions.html
-  section_id: actions
+# - name: Appel à projets
+#   path: actions.html
+#   section_id: actions
