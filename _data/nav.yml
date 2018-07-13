@@ -1,45 +1,35 @@
 - name: Programme
-  # path: programme.html
-  # section_id: programme
   children:
   - name: Présentation
-    path: sous-page-1.html
+    path: presentation.html
   - name: Questions fréquentes
-    path: sous-page-2.html
+    path: questions-frequentes.html
     
 - name: Réalisations
-  path: defis.html
-  section_id: defis
   children:
   - name: Les défis
-    path: sous-page-1.html
+    path: defis.html
   - name: Les outils
-    path: sous-page-2.html
+    path: outils.html
   - name: Les guides
-    path: sous-page-2.html
+    path: guides.html
 
 - name: Communauté
-  path: communaute.html
   section_id: communaute
   children:
   - name: Promotions
-    path: sous-page-1.html
+    path: promotions.html
   - name: Événements
-    path: sous-page-2.html
+    path: evenements.html
 
 - name: Blog
   path: blog/
   section_id: blog
 
 - name: Participer
-  path: presse.html
-  section_id: presse
   children:
   - name: Je suis une administration
-    path: sous-page-1.html
+    path: candidature-defi.html
   - name: Je suis un candidat
-    path: sous-page-2.html
+    path: candidature-eig.html
 
-# - name: Appel à projets
-#   path: actions.html
-#   section_id: actions
