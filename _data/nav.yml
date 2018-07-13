@@ -1,6 +1,6 @@
 - name: Programme
-  path: programme.html
-  section_id: programme
+  # path: programme.html
+  # section_id: programme
   children:
   - name: Présentation
     path: sous-page-1.html
