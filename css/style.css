@@ -206,9 +206,11 @@ ul.shortcode-list i {
 }
 
 .button.boxed {
-  color: #fff;
-  border: 2px solid #fff;
-  background: none;
+    margin-top: 1.2rem;
+    font-size: 1.2rem;
+    color: #fff;
+    border: 2px solid #fff;
+    background: none;
 }
 
 .button.boxed:hover {
@@ -918,13 +920,13 @@ body.screenshot {
   padding: 50px 40px;
 }
 .modBlogPost.big .info {
-  font-size: 0.78571rem;
-  text-transform: uppercase;
+  /* font-size: 0.78571rem; */
+  /* text-transform: uppercase; */
   letter-spacing: 3px;
-  color: #ccc;
+  color: #333;
 }
 .modBlogPost.big h3 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .modBlogPost.big h3 a {
   color: #333;
@@ -1273,9 +1275,11 @@ body.screenshot {
   margin-bottom: 30px;
 }
 .modCallToAction p {
-  font-size: 1.28571rem;
+  /* font-size: 1.28571rem; */
+  /* font-size: 1.4rem; */
+  font-size: 1.6rem;
   letter-spacing: 1px;
-  font-style: italic;
+  /* font-style: italic; */
   padding-top: 10px;
 }
 
