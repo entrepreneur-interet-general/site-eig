@@ -7,10 +7,10 @@ twitter: bzg2
 description: "Quelles sont les « stacks » des défis EIG ?  Font-ils de « l'agile » ?  Comment sont leurs outils de gestion de projet ?  Où est publié leur code ?  Quels rituels collectifs se mettent en place ?  Quel est le rôle de l'EIG Link ?  Un point technique après deux mois de cette deuxième année EIG."
 ---
 
-**TL;DR**: Les 28 « entrepreneur·es d'intérêt général » ne sont pas
-isolés les uns des autres : ils échangent et font progresser la
-cohérence technique du programme en mettant en place des outils
-mutualisés et des rituels.  Mon défi [EIG
+Les 28 « entrepreneur·es d'intérêt général » ne sont pas isolés les
+uns des autres : ils échangent et font progresser la cohérence
+technique du programme en mettant en place des outils mutualisés et
+des rituels.  Mon défi [EIG
 Link](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/eiglink/)
 a pour mission d'encourager et de pérenniser cette cohésion de groupe
 et cette cohérence technique.  **On avance et ça se voit** !
