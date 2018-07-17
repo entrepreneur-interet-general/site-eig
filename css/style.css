@@ -62,6 +62,14 @@ hr {
   border-left: 1px solid #cfcfcf;
 }
 
+.left-thick-border {
+  border-left: 8px solid #cfcfcf;
+}
+
+.right-thick-border {
+  border-right: 8px solid #cfcfcf;
+}
+
 .spacing {
   height: 20px;
 }
@@ -3556,6 +3564,6 @@ body {
     background-color: #444444;
 }
 
-ul, p {    
+blockquote, ul, p {
     font-size: 1.2rem;
 }
