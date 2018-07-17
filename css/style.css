@@ -3555,3 +3555,7 @@ body {
 .fa-envelope:hover {
     background-color: #444444;
 }
+
+ul, p {    
+    font-size: 1.2rem;
+}
