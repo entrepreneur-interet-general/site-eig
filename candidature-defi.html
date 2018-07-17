@@ -1,7 +1,50 @@
 ---
 layout: default
 section_id: candidature-defi
+testimonials:
+- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
+  author: David White
+  position: Designer at Huglab
+  avatar: images/@stock/author-avatar-1.png
+- text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
+  author: David White
+  position: Designer at Huglab
+  avatar: images/@stock/author-avatar-2.png
+- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
+  author: David White
+  position: Designer at Huglab
+  avatar: images/@stock/author-avatar-3.png
 ---
+<div class='full'>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <p class='centered-text'>
+		<i class='fa fa-quote-left' style='color: #d1335b; font-size: 36px;'></i>
+	    </p>
+	</div>
+    </div>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <div class='mod modTestimonials'>
+		<div class='row'>
+		    <div class='small-12 columns'>
+			<div class='items centered-text'>
+			    {% for t in page.testimonials  %}
+			    <div class='item'>
+				<p class='quote'>{{t.text}}</p>
+				<p class='author'>- {{t.author}}, {{t.position}}</p>
+				<div class='two spacing'></div>
+			    </div>
+			    {% endfor %}
+			</div>
+		    </div>
+		    <div class='spacing'></div>
+		</div>
+	    </div>
+	</div>
+    </div>
+    <div class='four spacing'></div>
+</div>
 
 <div class='full'>
     <div class='row'>

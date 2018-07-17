@@ -35,20 +35,6 @@ milestones:
   to: 21
   title: Articles Published
 
-testimonials:
-- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-1.png
-- text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-2.png
-- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-3.png
-
 clients:
 - images/@stock/client-1.png
 - images/@stock/client-2.png
@@ -56,52 +42,6 @@ clients:
 - images/@stock/client-4.png
 - images/@stock/client-5.png
 - images/@stock/client-6.png
-
-members:
-  - name: Mark Wayne
-    position: founder
-    desc:
-      consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit.
-    avatar: images/@stock/member-1.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-  - name: Kate Holms
-    position: Creative Director
-    desc:
-      consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit.
-    avatar: images/@stock/member-2.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-      - icon_class: fa fa-dribbble
-        url: http://dribbble.com
-  - name: Tom Hason
-    position: Designer
-    desc:
-      consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit.
-    avatar: images/@stock/member-3.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-      - icon_class: fa fa-tumblr
-        url: http://tumblr.com
-  - name: Lily Whrem
-    position: Developer
-    desc:
-      consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit.
-    avatar: images/@stock/member-4.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
 ---
 
 <div class='full'>
@@ -202,37 +142,6 @@ members:
     <div class='two spacing'></div>
 </div>
 
-<div class='full'>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <p class='centered-text'>
-		<i class='fa fa-quote-left' style='color: #d1335b; font-size: 36px;'></i>
-	    </p>
-	</div>
-    </div>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <div class='mod modTestimonials'>
-		<div class='row'>
-		    <div class='small-12 columns'>
-			<div class='items centered-text'>
-			    {% for t in page.testimonials  %}
-			    <div class='item'>
-				<p class='quote'>{{t.text}}</p>
-				<p class='author'>- {{t.author}}, {{t.position}}</p>
-				<div class='two spacing'></div>
-			    </div>
-			    {% endfor %}
-			</div>
-		    </div>
-		    <div class='spacing'></div>
-		</div>
-	    </div>
-	</div>
-    </div>
-    <div class='four spacing'></div>
-</div>
-
 <div class='full parallax' style='background: #f5f5f5'>
     <div class='row'>
 	{% for milestone in page.milestones %}
@@ -313,38 +222,4 @@ members:
     </div>
     <div class='two spacing'></div>
 </div>
-<div class='full'>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <h3>Our team</h3>
-	    <div class='spacing'></div>
-	</div>
-    </div>
-    <div class='row'>
-	{% for member in page.members %}
-	<div class='small-6 medium-3 large-3 columns'>
-            <div class='mod modTeamMember style-2'>
-		<div class='member'>
-		    <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-		    <div class='overlay'>
-			<ul class='socials'>
-			    {% for social in member.socials %}
-			    <li>
-				<a href='{{social.url}}'>
-				    <i class='{{social.icon_class}}'></i>
-				</a>
-			    </li>
-			    {% endfor %}
-			</ul>
-		    </div>
-		</div>
-		<h3>{{member.name}}</h3>
-		<p class='position'>{{member.position}}</p>
-		<p>{{member.desc}}</p>
-		<div class='two spacing'></div>
-            </div>
-	</div>
-	{% endfor %}
-    </div>
-    <div class='three spacing'></div>
-</div>
+
