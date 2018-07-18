@@ -15,80 +15,68 @@ testimonials:
   position: Designer at Huglab
   avatar: images/@stock/author-avatar-3.png
 
-members:
-  - name: Défi 1
-    position: Ministère du machin
-    desc: "Une description super qui peut s'étaler sur quelques lignes mais pas trop: il faudra tester pour la longueur maximale exacte."
-    avatar: images/@stock/member-1.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-  - name: Défi 2
-    position: Ministère du truc
-    desc: Une description du blabla
-    avatar: images/@stock/member-1.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-  - name: Défi 3
-    position: Ministère du bidule
-    desc: Une description de la chose
-    avatar: images/@stock/member-1.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
-  - name: Défi 4
-    position: Ministère du bidule
-    desc: Une description de la chose
-    avatar: images/@stock/member-1.jpg
-    socials:
-      - icon_class: fa fa-twitter
-        url: http://twitter.com
-      - icon_class: fa fa-facebook
-        url: http://facebook.com
+works:
+  - image: /img/defis/balisenav.png
+    title: b@liseNAV
+    link_to: /defis/2018/balisenav.html
+    class: 2018 web
+    desc: Design &amp; Développement
+  - image: /img/defis/archifiltre.png
+    title: Archifiltre
+    link_to: /defis/2018/archifiltre.html
+    class: 2018 data web design
+    desc: Design &amp; Développement
+  - image: /img/defis/brigadenumerique.png
+    title: Brigade Numérique
+    link_to: /defis/2018/brigadenumerique.html
+    class: 2018 data web design
+    desc: Design &amp; Développement
+
 ---
 
 <div class='full'>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <h3>Les défis</h3>
-	    <div class='spacing'></div>
-	</div>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>Tout</a>
+          </li>
+          <li>
+            <a data-cat='2017' href='#'>2017</a>
+          </li>
+          <li>
+            <a data-cat='2018' href='#'>2018</a>
+          </li>
+          <li>
+            <a data-cat='data' href='#'>Data</a>
+          </li>
+          <li>
+            <a data-cat='web' href='#'>Web</a>
+          </li>
+          <li>
+            <a data-cat='design' href='#'>Design</a>
+          </li>
+        </ul>
+      </div>
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+        {% for work in page.works %}
+          <li class='{{work.class}}'>
+            <a href='{{work.link_to}}'>
+              <img alt="" src="{{site.url}}/{{work.image}}" />
+              <div class='overlay' style='background: #ff9947;'>
+                <div class='thumb-info'>
+                  <h3>{{work.title}}</h3>
+                  <p>{{work.desc}}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
-    <div class='row'>
-	{% for member in page.members %}
-	<!-- <div class='small-6 medium-3 large-3 columns'> -->
-	<div class='small-6 medium-4 large-4 columns'>
-	    <div class='mod modTeamMember style-2'>
-		<div class='member'>
-		    <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-		    <div class='overlay'>
-			<ul class='socials'>
-			    {% for social in member.socials %}
-			    <li>
-				<a href='{{social.url}}'>
-				    <i class='{{social.icon_class}}'></i>
-				</a>
-			    </li>
-			    {% endfor %}
-			</ul>
-		    </div>
-		</div>
-		<h3>{{member.name}}</h3>
-		<p class='position'>{{member.position}}</p>
-		<p>{{member.desc}}</p>
-		<div class='two spacing'></div>
-            </div>
-	</div>
-	{% endfor %}
-    </div>
-    <div class='three spacing'></div>
+  </div>
+  <div class='four spacing'></div>
 </div>
 
 <div class='full'>
