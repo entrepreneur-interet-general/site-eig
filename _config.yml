@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Développeur·euse·s, data scientists, designers, agilistes,
   passionné·e·s de numérique et d’action publique.
 # the subpath of your site, e.g. /blog/
-baseurl: "/site-eig/"
+baseurl: ""
 # the base hostname & protocol for your site:
-url: "https://entrepreneur-interet-general.github.io/site-eig/"
+url: ""
 twitter_username: etalab
 github_username:  entrepreneur-interet-general
 

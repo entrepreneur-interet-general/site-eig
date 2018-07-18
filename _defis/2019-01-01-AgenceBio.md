@@ -8,10 +8,10 @@ administration: Agence française pour le développement et la promotion de l’
 type: ??
 eigs:
   - ??
-  -??
+  - ??
 mentors: 
   - ??
-images:
+images: xxx
 ---
 
 L’Agence française pour le développement et la promotion de l’agriculture 
