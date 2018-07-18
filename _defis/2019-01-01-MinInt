@@ -1,0 +1,20 @@
+---
+layout: defi
+titre: MinInt
+site: https://entrepreneur-interet-general.etalab.gouv.fr
+annees: 2019
+mission: "Fiabiliser l’envoi et la régularisation des contraventions à partir de la reconnaissance d’images"
+administration: Ministère de l’Intérieur   
+type: ??
+eigs:
+  - ??
+  -??
+mentors: 
+  - ??
+images:
+---
+
+Le Ministère de l’Intérieur souhaite développer une intelligence 
+artificielle permettant d’associer des photos de contrôles automatisés 
+aux données des immatriculations des véhicules afin de réduire l’envoi 
+d’avis de contraventions aux usagers n’ayant commis aucune infraction.
