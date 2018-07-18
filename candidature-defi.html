@@ -26,37 +26,6 @@ plusieurs de ces administrations, je pense que le succès est évident."
 <div class='full'>
     <div class='row'>
 	<div class='large-12 columns'>
-	    <p class='centered-text'>
-		<i class='fa fa-quote-left' style='color: #d1335b; font-size: 36px;'></i>
-	    </p>
-	</div>
-    </div>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <div class='mod modTestimonials'>
-		<div class='row'>
-		    <div class='small-12 columns'>
-			<div class='items centered-text'>
-			    {% for t in page.testimonials  %}
-			    <div class='item'>
-				<p class='quote'>{{t.text}}</p>
-				<p class='author'>- {{t.author}}, {{t.position}}</p>
-				<div class='two spacing'></div>
-			    </div>
-			    {% endfor %}
-			</div>
-		    </div>
-		    <div class='spacing'></div>
-		</div>
-	    </div>
-	</div>
-    </div>
-    <div class='two spacing'></div>
-</div>
-
-<div class='full'>
-    <div class='row'>
-	<div class='large-12 columns'>
 	    <h2>Vous êtes une administration et souhaitez proposer un défi ?</h2>
 	    
 	    <p>Les défis du programme sont sélectionnés par appel
@@ -92,4 +61,35 @@ plusieurs de ces administrations, je pense que le succès est évident."
 	    </ul>
 	</div>
     </div>
+</div>
+
+<div class='full'>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <p class='centered-text'>
+		<i class='fa fa-quote-left' style='color: #d1335b; font-size: 36px;'></i>
+	    </p>
+	</div>
+    </div>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <div class='mod modTestimonials'>
+		<div class='row'>
+		    <div class='small-12 columns'>
+			<div class='items centered-text'>
+			    {% for t in page.testimonials  %}
+			    <div class='item'>
+				<p class='quote'>{{t.text}}</p>
+				<p class='author'>- {{t.author}}, {{t.position}}</p>
+				<div class='two spacing'></div>
+			    </div>
+			    {% endfor %}
+			</div>
+		    </div>
+		    <div class='spacing'></div>
+		</div>
+	    </div>
+	</div>
+    </div>
+    <div class='two spacing'></div>
 </div>
