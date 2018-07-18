@@ -24,7 +24,6 @@
 
           {% if item.children %}
             <li class="has-dropdown {{active_class}}">
-              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
               <ul class='dropdown'>
                 {% for child in item.children %}
                   <li>
