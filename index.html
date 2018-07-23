@@ -28,6 +28,23 @@ milestones:
 - from: 0
   to: 24
   title: Mentors
+
+services:
+  - icon_class: fa fa-trophy
+    img: /img/eig.png
+    title: Blabla
+    desc:
+      Du blabla
+  - icon_class: fa fa-compass
+    img: /img/eig.png
+    title: Art Direction
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
+  - icon_class: fa fa-star-half-empty
+    img: /img/eig.png
+    title: Branding
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
 ---
 
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
@@ -44,32 +61,52 @@ milestones:
   </div>
   <div class='one spacing'></div>
 </div>
+
 <div class='one spacing'></div>
 <div>
     <div class='row'>
-	<div class='large-7 columns'>
+	<div class='large-12 columns' style='text-align: center'>
 	    <img src="img/accueil-site-EIG.jpg" />
 	</div>
-	<div class='large-5 columns'>
+    </div>
+    <div class='one spacing'></div>
+</div>
 
-	    <p>
-		<em>« Les Entrepreneurs d'intérêt général sont les aiguillons de la transformation numérique de l'État. »</em>
-	    </p>
-
-	    <p style="text-align:right;">&mdash; Henri Verdier, directeur de la DINSIC</p>
-
-	    <p>Le programme Entrepreneur·e
-		d’Intérêt Général a pour objectif d’ouvrir
-		l’administration à des talents du numérique pour
-		résoudre des défis d’intérêt général. Cette rencontre
-		entre administrations aux métiers variés et experts
-		aux multiples compétences résulte en la production de
-		solutions numériques innovantes, la valorisation et
-		l’ouverture de données d’intérêt public et la création
-		d’une communauté numérique d'intérêt général.</p>
+<div class='full no-padding' style='background: #ccc; color: red'>
+    <div class='one spacing'></div>
+    <div class=''>
+	<div class='row'>
+	    <div class='medium-12 large-12 columns' style='text-align: center';>
+	      <a class='boxed button' href='candidature-eig.html'>
+		<strong>Découvrir les défis</strong>
+	      </a>
+	    </div>
 	</div>
     </div>
+    <div class='one spacing'></div>
 </div>
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% for service in page.services %}
+            <div class='box' style='background: #f9f9f9;'>
+              <!-- <i class='{{service.icon_class}}'></i> -->
+	      <img src='{{service.img}}' />
+	      <br/>
+              <h4>{{service.title}}</h4>
+              <p>{{service.desc}}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
 <div class='one spacing'></div>
 <div class='full parallax' style='background: #f5f5f5;font-size:80%;'>
     <div class='row'>

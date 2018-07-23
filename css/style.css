@@ -46,6 +46,10 @@ h3, h4, h5, h6 {
   font-family: "Evolventa", "Trebuchet MS", sans-serif;
 }
 
+h3 {
+    font-size: 1.2rem;
+}
+
 .centered-text {
   text-align: center;
 }
