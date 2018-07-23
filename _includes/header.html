@@ -21,7 +21,9 @@
           {% else %}
             {% assign active_class = "" %}
           {% endif %}
-
+	  {% if forloop.last %}
+	    {% assign active_class = "lastmenu" %}
+          {% endif %}
           {% if item.children %}
             <li class="has-dropdown {{active_class}}">
               <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>

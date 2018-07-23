@@ -1,32 +1,36 @@
-- name: Programme
+- name: Le programme
+  section_id: presentation
+  path: presentation.html
   children:
-  - name: Présentation
-    path: presentation.html
-  - name: Questions fréquentes
-    path: questions-frequentes.html
+  - name: F.A.Q. EIG
+    path: faq-eig.html
+  - name: F.A.Q. Administration
+    path: faq-administrations.html
     
-- name: Réalisations
+- name: Les défis
+  section_id: defis
+  path: defis.html
   children:
-  - name: Les défis
-    path: defis.html
-  - name: Les outils
-    path: outils.html
+  - name: Nos réalisations
+    path: realisations.html
   - name: Les guides
     path: guides.html
 
-- name: Communauté
+- name: La communauté
   section_id: communaute
+  path: communaute.html
   children:
-  - name: Promotions
-    path: promotions.html
   - name: Événements
     path: evenements.html
 
-- name: Blog
+- name: Le blog
+  section_id: blog
   path: blog/
   section_id: blog
 
 - name: Participer
+  section_id: participer
+  path: participer.html
   children:
   - name: Je suis une administration
     path: candidature-defi.html

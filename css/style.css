@@ -3672,3 +3672,7 @@ body {
 blockquote, ul, p {
     font-size: 1.2rem;
 }
+
+.lastmenu {
+    color: red;
+}
