@@ -2433,9 +2433,6 @@ body.screenshot {
   display: block;
   overflow: hidden;
 }
-.modGallery ul.gallery li a img {
-  filter: grayscale(100%);
-}
 .modGallery ul.gallery li a .overlay {
   opacity: 0;
   position: absolute;
@@ -2581,7 +2578,6 @@ body.screenshot {
   -ms-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
-  filter: grayscale(0%);
 }
 .modGalleryDefis ul.gallery li.hidden {
   opacity: 0.1;
