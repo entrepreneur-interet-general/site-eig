@@ -1,3 +1,8 @@
 - question: "Qui peut participer ?"
   reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire, à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidat·es disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
+
+- question: "En quoi un·e EIG est-elle ou il différent·e d’un prestataire ?"
+  reponse: "<p>À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier des charges précis. Elles et ils sont maîtres de leur défi et peuvent proposer des modifications au projet envisagé initialement par les administrations d’accueil, s’il leur semble qu’il existe des manières plus adéquates de résoudre le défi qui leur a été lancé, en terme de technologies ou de livrables. Au cours de leur immersion dans l’administration, les EIG sont amené·es à élaborer une feuille de route sur laquelle elles et ils itèrent avec leurs mentors.</p>"
+  ancre: pas-un-prestataire
+
