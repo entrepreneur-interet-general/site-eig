@@ -1,0 +1,19 @@
+- question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
+  reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes de la promotion 2 étaient constituées de 2 EIG.<p>"
+  ancre: recruter-2-3-eig
+
+- question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon défi ?"
+  reponse: "<p>Vous pouvez en premier lieu prendre contact avec votre DSI.</p><p>Par ailleurs, n’hésitez pas à prendre contact avec nous à l’adresse entrepreneur-interet-general@data.gouv.fr. Nous essayerons autant que possible de vous mettre en contact avec des personnes pouvant vous aider dans votre administration, notamment si celle-ci accueille des EIG de la promotion 2.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, vous aurez la possibilité de repréciser les profils EIG recherchés avant le lancement de l’appel à candidatures.</p>"
+  ancre: definir-les-profils
+
+- question: "Puis-je autofinancer mon défi EIG ?"
+  reponse: "<p>Vous pouvez tout à fait auto-financer votre défi EIG !</p>"
+  ancre:
+
+- question: "À quelles conditions puis-je bénéficier du co-financement par le PIA ?"
+  reponse: "<p>Vous pouvez bénéficier du co-financement par le PIA si le porteur administratif de votre défi est un ministère.</p><p>Le co-financement à hauteur de 30% par l’administration concerne la rémunération des EIG.</p>"
+  ancre:
+
+- question:
+  reponse:
+  ancre:

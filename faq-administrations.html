@@ -6,155 +6,74 @@ section_id: questions-frequentes
 <div class='full'>
     <div class='row'>
 	<div class='large-12 columns'>
-
-	    <!-- <a href="questions-frequentes.html#aap">Lien AAP</a> -->
-	    <a name="aap"></a> 
-
 	    <h2>Questions relatives à l'appel à projets (mai-juillet)</h2>
 
-	    <ul>
-		<li><a href="#recruter-2-ou-3">Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?</a></li>
-		<li><a href="#definir-les-profils">Comment définir les profils d’EIG dont j’ai besoin pour réaliser mon défi ?</a></li>
-		<li>Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?</li>
-		<li>Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?</li>
-	    </ul>
+	    {% for faq in site.data.faq-administrations %}
+	    <a name="{{faq.ancre}}"></a>
+	    <h3>{{faq.question}}</h3>
+	    <div>{{faq.reponse}}</div>
+	    {% endfor %}
 
-	    <a name="recruter-2-ou-3"></a>
-	    <h3>Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?</h3>
+	    <h3>À la charge de qui sont les frais annexes liés à la présence des EIG, de type frais de déplacement ?</h3>
 	    
-	    <p>Cela dépend du périmètre de votre défi et des compétences que vous 
-		recherchez. A noter : dans la plupart des cas, les équipes de
-		la promotion 2 étaient constituées de 2 EIG.</p>
-
-	    <a name="definir-les-profils"></a>
-	    <h3>Je manque de compétences techniques : comment définir les profils
-		d’EIG dont j’ai besoin pour réaliser mon défi ?</h3>
-	    
-	    <p>Vous pouvez en premier lieu prendre contact avec votre DSI.</p>
-	    
-	    <p>Par ailleurs, n’hésitez pas à prendre contact avec nous à
-		l’adresse entrepreneur-interet-general@data.gouv.fr. Nous
-		essayerons autant que possible de vous mettre en contact
-		avec des personnes pouvant vous aider dans votre
-		administration, notamment si celle-ci accueille des EIG de
-		la promotion 2.</p>
-	    
-	    <p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr
-		des compétences recherchées : si votre défi est sélectionné, vous 
-		aurez la possibilité de repréciser les profils EIG recherchés 
-		avant le lancement de l’appel à candidatures.</p>
-	    
-	    <h3>Puis-je autofinancer mon défi EIG ?</h3>
-	    
-	    <p>Vous pouvez tout à fait auto-financer votre défi EIG !</p>
-	    
-	    <h3>À quelles conditions puis-je bénéficier du co-financement par le PIA ?</h3>
-
-	    <p>Vous pouvez bénéficier du co-financement par le PIA si le porteur 
-		administratif de votre défi est un ministère.</p>
-	    
-	    <p>Le co-financement à hauteur de 30% par l’administration concerne 
-		la rémunération des EIG.</p>
-	    
-	    <h3>À la charge de qui sont les frais annexes liés à la présence des EIG, de 
-		type frais de déplacement ?</h3>
-	    
-	    <p>Les autres frais liés à la présence des EIG (notamment les frais de déplacement)
-		sont à la charge de l’administration d’accueil.</p>
+	    <p>Les autres frais liés à la présence des EIG (notamment les frais de déplacement) sont à la charge de l’administration d’accueil.</p>
 	    
 	    <h3>Je suis une collectivité territoriale : comment puis-je financer mon défi EIG ?</h3>
 
 	    <p>La première solution est bien sûr l’autofinancement.</p>
 	    
-	    <p>Afin de bénéficier du co-financement par le PIA, vous devez
-		conclure un partenariat avec un ministère, qui sera alors le
-		porteur administratif du défi.</p>
+	    <p>Afin de bénéficier du co-financement par le PIA, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du défi.</p>
 
 	    <h3>Qui doit effectuer la simulation financière à inclure au dossier de réponse ?</h3>
 	    
 	    <p>Cette simulation est à demander à vos services RH.</p>
 	    
 	    <h3>Je voudrais présenter un défi interministériel : qui indiquer en porteur opérationnel ?</h3>
-	    <p>Nous vous conseillons de choisir un ministère qui sera
-		porteur opérationnel, et d’indiquer le(s) autre(s)
-		administration(s) participante(s) en tant que partenaires,
-		en insistant sur la dimension interministérielle du défi.</p>
+	    
+	    <p>Nous vous conseillons de choisir un ministère qui sera porteur opérationnel, et d’indiquer le(s) autre(s) administration(s) participante(s) en tant que partenaires, en insistant sur la dimension interministérielle du défi.</p>
 	    
 	    <h3>Les EIG peuvent-ils être accueillis dans des locaux hors de Paris ?</h3>
 	    
-	    <p>Tout à fait, c’est d’ailleurs le cas pour deux défis EIG 2 (baliseNAV à 
-		Brest et Signaux Faibles à Dijon).</p>
+	    <p>Tout à fait, c’est d’ailleurs le cas pour deux défis EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon).</p>
 	    
-	    <p>En revanche, nous vous conseillons d’anticiper le fait que
-		les EIG seront amenés à se rendre à Paris deux fois par
-		mois pour les sessions d’accompagnement de la promotion, et
-		que les frais de déplacement sont à la charge de
-		l’administration d’accueil.</p>
+	    <p>En revanche, nous vous conseillons d’anticiper le fait que les EIG seront amenés à se rendre à Paris deux fois par mois pour les sessions d’accompagnement de la promotion, et que les frais de déplacement sont à la charge de l’administration d’accueil.</p>
 	    
 	    <h3>Quel est généralement le profil des mentors opérationnels ? Quel est leur rôle ?</h3>
 	    
-	    <p>Les mentors opérationnels sont en charge de permettre
-		aux EIG de mener au mieux leur défi, en les orientant
-		dans l’administration, en s’assurant qu’ils disposent
-		de toutes les ressources nécessaires (notamment
-		techniques et données), et en facilitant les démarches
-		juridiques et administratives éventuelles.</p>
+	    <p>Les mentors opérationnels sont en charge de permettre aux EIG de mener au mieux leur défi, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et données), et en facilitant les démarches juridiques et administratives éventuelles.</p>
 	    
-	    <p>Ils font également partie du collectif EIG, et assistent
-		aux sessions d’accompagnement.</p>
+	    <p>Ils font également partie du collectif EIG, et assistent aux sessions d’accompagnement.</p>
 	    
-	    <p>En général, les mentors opérationnels ont un profil
-		« métier », et peuvent faire bénéficier les EIG de
-		leur expérience du terrain.</p>
+	    <p>En général, les mentors opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain.</p>
 	    
-	    <p>On attend surtout d’un mentor qu’il soit passionné par
-		le défi EIG qu’il porte.  Le temps hebdomadaire
-		investi dans le défi EIG sera un élément important
-		d’appréciation des défis. En moyenne, les mentors
-		investissent 30 à 40% de leur temps dans leur défi EIG
-		(et certains en investissent 100% !).</p>
+	    <p>On attend surtout d’un mentor qu’il soit passionné par le défi EIG qu’il porte.  Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des défis. En moyenne, les mentors investissent 30 à 40% de leur temps dans leur défi EIG (et certains en investissent 100% !).</p>
 	    
 	    <h3>Les mentors opérationnels assistent-ils aux sessions d’accompagnement ?</h3>
 
-	    <p>Les mentors opérationnels assistent aux sessions
-		d’accompagnement, à un rythme moins soutenu que les
-		EIG (une fois par mois pour le dispositif mis en place
-		lors de la promotion 2, qui sera amené à évoluer).</p>
+	    <p>Les mentors opérationnels assistent aux sessions d’accompagnement, à un rythme moins soutenu que les EIG (une fois par mois pour le dispositif mis en place lors de la promotion 2, qui sera amené à évoluer).</p>
 	    
 	    <h3>Le défi peut-il être encadré par 2 mentors opérationnels ?</h3>
 
-	    <p>Oui, tout à fait ! C’est le cas pour plusieurs défis
-		EIG 2.</p>
+	    <p>Oui, tout à fait ! C’est le cas pour plusieurs défis EIG 2.</p>
 	    
 	    <h3>Quel est le type de contrat des EIG ?</h3>
 	    
-	    <p>Les EIG signent un contrat avec leurs administrations
-		d’accueil (CDD de 10 mois).</p>
+	    <p>Les EIG signent un contrat avec leurs administrations d’accueil (CDD de 10 mois).</p>
 	    
-	    <p>Une réunion d’information sera organisée en novembre
-		2018 avec les services des ressources humaines des
-		administrations d’accueil pour clarifier les aspects
-		administratifs et financiers du programme.</p>
+	    <p>Une réunion d’information sera organisée en novembre 2018 avec les services des ressources humaines des administrations d’accueil pour clarifier les aspects administratifs et financiers du programme.</p>
 	    
-	    <h3>Combien de temps prend la constitution d’un dossier de réponse à 
-		l’appel à candidature ?</h3>
+	    <h3>Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidature ?</h3>
 	    
-	    <p>Le temps de constitution est variable, mais nous avons volontairement
-		limité la longueur du dossier cette année : n’hésitez pas à être 
-		clair et concis !</p>
+	    <p>Le temps de constitution est variable, mais nous avons volontairement limité la longueur du dossier cette année : n’hésitez pas à être clair et concis !</p>
 	    
 	    <h3>En cas de sélection, comment se passe le jury d’admission ?</h3>
 
-	    <p>Les mentors opérationnels des défis présélectionnés
-		seront conviés à pitcher leur défi devant le jury
-		d’admission, notamment en utilisant les slides jointes
-		au dossier de réponse à l’appel à projets (qui peuvent
-		être modifiées entre-temps).</p>
+	    <p>Les mentors opérationnels des défis présélectionnés seront conviés à pitcher leur défi devant le jury d’admission, notamment en utilisant les slides jointes au dossier de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).</p>
 	    
-	    <p>Plus d’informations seront envoyées aux administrations
-		présélectionnées, mi-juin.</p>
+	    <p>Plus d’informations seront envoyées aux administrations présélectionnées, mi-juin.</p>
 	    
 	    <h3>Vous n’avez pas trouvé de réponse à votre question ?</h3>
+		 
 	    <p>Contactez-nous à l'adresse suivante : entrepreneur-interet-general@data.gouv.fr</p>
 	    
 	</div>

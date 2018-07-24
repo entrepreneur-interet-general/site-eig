@@ -1,0 +1,594 @@
+- image: img/communaute/Benoit-Guigal.png
+  title: Benoît Guigal
+  link_to: /communaute/2018/benoit-guigal.html
+  desc: Benoît Guigal
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+
+- image: img/communaute/JeanBaptiste-Assouad.png
+  title: Jean-Baptiste Assouad
+  link_to: /communaute/2018/jean-baptiste-assouad.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Jean-Baptiste Assouad
+
+- image: img/communaute/Sans-photo.png
+  title: Philéas Condemine
+  link_to: /communaute/2018/phileas-condemine.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Phileas Condemine
+
+- image: img/communaute/Sans-photo.png
+  title: Arnaud Rachez
+  link_to: /communaute/2018/arnaud-rachez.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Arnaud Rachez
+
+- image: img/communaute/Elsa-Luneville.png
+  title: Elsa Luneville
+  link_to: /communaute/2018/elsa-luneville.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Elsa Luneville
+
+- image: img/communaute/Constance-Quatrebarbes.png
+  title: Constance de Quatrebarbes
+  link_to: /communaute/2017/constance-de-quatrebarbes.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Constance de Quatrebarbes
+
+- image: img/communaute/Marion-Paclot.png
+  title: Marion Paclot
+  link_to: /communaute/2017/marion-paclot.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Marion Paclot
+
+- image: img/communaute/JulienParis.png
+  title: Julien Paris
+  link_to: /communaute/2018/julien-paris.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Julien Paris
+
+- image: img/communaute/Emmanuel-Gautier.png
+  title: Emmanuel Gautier
+  link_to: /communaute/2018/emmanuel-gautier.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Emmanuel Gautier
+
+- image: img/communaute/Francois-Bocquet.png
+  title: François Bocquet
+  link_to: /communaute/2018/françois-bocquet.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: François Bocquet
+
+- image: img/communaute/Frederic-Bardolle.png
+  title: Frédéric Bardolle
+  link_to: /communaute/2017/frederic-bardolle.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Frédéric Bardolle
+
+- image: img/communaute/9_AnneLambert.jpg
+  title: Anne Lambert
+  link_to: /communaute/2018/anne-lambert.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Anne Lambert
+
+- image: img/communaute/Laurent-Dupont.png
+  title: Laurent Dupont
+  link_to: /communaute/2017/laurent-dupont.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Laurent Dupont
+
+- image: img/communaute/Sans-photo.png
+  title: Chloé Moser
+  link_to: /communaute/2018/chloe-moser.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Chloé Moser
+
+- image: img/communaute/7_DelphineLE.png
+  title: Delphine Lê
+  link_to: /communaute/2018/delphine-le.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Delphine Lê
+
+- image: img/communaute/Sans-photo.png
+  title: Stéphanie Schaer
+  link_to: /communaute/2018/stephanie-schaer.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Stéphanie Schaer
+
+- image: img/communaute/Ned-Baldessin.png
+  title: Ned Baldessin
+  link_to: /communaute/2018/ned-baldessin.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Ned Baldessin
+
+- image: img/communaute/mathilde_bras.jpg
+  title: Mathilde Bras
+  link_to: /communaute/2018/mathilde-bras.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - 2018
+  - mentor
+  desc: Mathilde Bras
+
+- image: img/communaute/Bastien-Guerry.png
+  title: Bastien Guerry
+  link_to: /communaute/2018/bastien-guerry.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - 2018
+  - eig
+  desc: Bastien Guerry
+
+- image: img/communaute/Sans-photo.png
+  title: Élise Lalique
+  link_to: /communaute/2018/elise-lalique.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Élise Lalique
+
+- image: img/communaute/Sans-photo.png
+  title: Laurence Matringe
+  link_to: /communaute/2018/laurence-matringe.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Laurence Matringe
+
+- image: img/communaute/Emmanuel-Weisenburger.png
+  title: Emmanuel Weisenburger
+  link_to: /communaute/2018/emmanuel-weisenburger.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Emmanuel Weisenburger
+
+- image: img/communaute/Daniel-Ansellem-2.png
+  title: Daniel Ansellem
+  link_to: /communaute/2018/daniel-ansellem.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Daniel Ansellem
+
+- image: img/communaute/Paul-Boosz.png
+  title: Paul Boosz
+  link_to: /communaute/2018/paul-boosz.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Paul Boosz
+
+- image: img/communaute/Etienne-David.png
+  title: Etienne David
+  link_to: /communaute/2017/etienne-david.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Etienne David
+
+- image: img/communaute/Sans-photo.png
+  title: Victor Schmidt
+  link_to: /communaute/2018/victor-schmidt.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Victor Schmidt
+
+- image: img/communaute/JulienNaour.png
+  title: Julien Naour
+  link_to: /communaute/2018/julien-naour.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Julien Naour
+
+- image: img/communaute/Sans-photo.png
+  title: Rémy Nollet
+  link_to: /communaute/2018/remy-nollet.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Rémy Nollet
+
+- image: img/communaute/Sebastien-Cossin.png
+  title: Sébastien Cossin
+  link_to: /communaute/2017/sebastien-cossin.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Sébastien Cossin
+
+- image: img/communaute/Tiphaine-PheNeau.png
+  title: Tiphaine Phe-Neau
+  link_to: /communaute/2018/tiphaine-phe-neau.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Tiphaine Phe-Neau
+
+- image: img/communaute/Benedicte-Pachod.png
+  title: Bénédicte Pachod
+  link_to: /communaute/2018/benedicte-pachod.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Bénédicte Pachod
+
+- image: img/communaute/Sans-photo.png
+  title: Sami Moustachir
+  link_to: /communaute/2018/sami-moustachir.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Sami Moustachir
+
+- image: img/communaute/Francis-Chabouis.png
+  title: Francis Chabouis
+  link_to: /communaute/2017/francis-chabouis.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Francis Chabouis
+
+- image: img/communaute/Guillaume-Lancrenon.png
+  title: Guillaume Lancrenon
+  link_to: /communaute/2018/guillaume-lancrenon.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Guillaume Lancrenon
+
+- image: img/communaute/Pierre-Camilleri.png
+  title: Pierre Camilleri
+  link_to: /communaute/2018/pierre-camilleri.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Pierre Camilleri
+
+- image: img/communaute/Martin-Gross.png
+  title: Martin Gross
+  link_to: /communaute/2017/martin-gross.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Martin Gross
+
+- image: img/communaute/Leo-Bouloc.jpg
+  title: Léo Bouloc
+  link_to: /communaute/2017/leo-bouloc.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - eig
+  desc: Léo Bouloc
+
+- image: img/communaute/Soizic-Penicaud.png
+  title: Soizic Pénicaud
+  link_to: /communaute/2018/soizic-penicaud.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - 2018
+  desc: Soizic Pénicaud
+
+- image: img/communaute/Sans-photo.png
+  title: Renaud Périn
+  link_to: /communaute/2018/renaud-perin.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Renaud Périn
+
+- image: img/communaute/Sans-photo.png
+  title: David Panou
+  link_to: /communaute/2018/david-panou.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: David Panou
+
+- image: img/communaute/Sans-photo.png
+  title: Stéphanie Combes
+  link_to: /communaute/2018/stephanie-combes.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Stéphanie Combes
+
+- image: img/communaute/Christophe-Ninucci.png
+  title: Christophe Ninucci
+  link_to: /communaute/2018/christophe-ninucci.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Christophe Ninucci
+
+- image: img/communaute/Maxime-Pierrot.png
+  title: Maxime Pierrot
+  link_to: /communaute/2018/maxime-pierrot.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Maxime Pierrot
+
+- image: img/communaute/Sans-photo.png
+  title: Marielle Chrisment
+  link_to: /communaute/2018/marielle-chrisment.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Marielle Chrisment
+
+- image: img/communaute/JeanBaptiste-LeDevehat.png
+  title: Jean-Baptiste Le Dévéhat
+  link_to: /communaute/2018/jean-baptiste-le-devehat.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Jean-Baptiste Le Dévéhat
+
+- image: img/communaute/Laurie-Chapotte.png
+  title: Laurie Chapotte
+  link_to: /communaute/2018/laurie-chapotte.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Laurie Chapotte
+
+- image: img/communaute/Sans-photo.png
+  title: Claudio Cimelli
+  link_to: /communaute/2018/claudio-cimelli.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Claudio Cimelli
+
+- image: img/communaute/Sans-photo.png
+  title: Sophie Miljkovic
+  link_to: /communaute/2018/sophie-miljkovic.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  desc: Sophie Miljkovic
+
+- image: img/communaute/Antoine-Augusti.png
+  title: Antoine Augusti
+  link_to: /communaute/2018/antoine-augusti.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Antoine Augusti
+
+- image: img/communaute/Sans-photo.png
+  title: Yann Caradec
+  link_to: /communaute/2018/yann-caradec.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - mentor
+  desc: Yann Caradec
+
+- image: img/communaute/Dora-Crisan.png
+  title: Dora Crisan
+  link_to: /communaute/2018/dora-crisan.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Dora Crisan
+
+- image: img/communaute/Samah-Ghalloussi.png
+  title: Samah Ghalloussi
+  link_to: /communaute/2018/samah-ghalloussi.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Samah Ghalloussi
+
+- image: img/communaute/Sans-photo.png
+  title: Ambre Arnaud
+  link_to: /communaute/2018/ambre-arnaud.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2018
+  - eig
+  desc: Ambre Arnaud
+
+- image: img/communaute/Sans-photo.png
+  title: Paul Schmite
+  link_to: /communaute/2018/paul-schmite.html
+  annee: 2018
+  profil: Data Engineer
+  defi: Hopkins
+  class:
+  - 2017
+  - 2018
+  desc: Paul Schmite
