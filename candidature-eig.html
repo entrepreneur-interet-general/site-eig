@@ -1,96 +1,6 @@
 ---
 layout: default
 section_id: candidature-eig
-testimonials:
-- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-1.png
-- text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-2.png
-- text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-  author: David White
-  position: Designer at Huglab
-  avatar: images/@stock/author-avatar-3.png
-
-works:
-- image: /img/defis/balisenav.png
-  title: Améliorer la confiance des consommateurs en détectant des faux avis sur Internet 
-  link_to: /defis/2018/balisenav.html
-  class: 2018 web
-  desc: Design &amp; Développement
-- image: /img/defis/archifiltre.png
-  title: Lutter contre les comportements financiers illicites en construisant des réseaux de connaissance
-  link_to: /defis/2018/archifiltre.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Rendre le droit du travail lisible et accessible en mobilisant l'intelligence artificielle 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Évaluer l'impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Aider les réfugiés dans leurs démarches en créant une plateforme d'information adaptée à la diversité culturelle 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Guider les victimes de préjudices corporels en construisant un référentiel neutre et stable des indemnisations 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Simplifier les démarches des cotisants et construire de nouveaux services à l'aide des données du réseau Urssaf 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Fiabiliser l'envoi et la régularisation des contraventions à partir de la reconnaissance d'images
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Aider les agents en charge de la sécurité maritime à  contrôler des navires professionnels en développant un outil de ciblage 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Ouvrir la jurisprudence en développant des solutions de pseudonymisation fiables des données
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Transformer les méthodes d'une autorité de régulation en mettant la circulation de la donnée au cœur de ses missions 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d'exploration de données 
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
-- image: /img/defis/brigadenumerique.png
-  title: Accompagner le développement d'un collectif numérique d'intérêt général au sein de l'Etat
-  link_to: /defis/2018/brigadenumerique.html
-  class: 2018 data web design
-  desc: Design &amp; Développement
 ---
 
 <div class='full'>
@@ -144,14 +54,14 @@ works:
 	</ul>
       </div>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-	{% for work in page.works %}
-        <li class='{{work.class}}'>
-          <a href='{{work.link_to}}'>
-            <img alt="" src="{{site.url}}/{{work.image}}" />
+	{% for defi in site.data.defis2019 %}
+        <li class='{{defi.class}}'>
+          <a href='{{defi.link_to}}'>
+            <img alt="" src="{{site.url}}/{{defi.image}}" />
             <div class='overlay' style='background: #ff9947;'>
               <div class='thumb-info'>
-		<h3>{{work.title}}</h3>
-		<p>{{work.desc}}</p>
+		<h3>{{defi.title}}</h3>
+		<p>{{defi.desc}}</p>
               </div>
             </div>
           </a>
@@ -190,7 +100,7 @@ works:
 	<div class='row'>
 	  <div class='small-12 columns'>
 	    <div class='items centered-text'>
-	      {% for t in page.testimonials  %}
+	      {% for t in site.data.temoignages  %}
 	      <div class='item'>
 		<p class='quote'>{{t.text}}</p>
 		<p class='author'>- {{t.author}}, {{t.position}}</p>
