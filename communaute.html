@@ -18,19 +18,20 @@ section_id: communaute
           <li><a data-cat='designer' href='#'>Designer</a></li>
         </ul>
       </div>
+
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for work in site.data.personnes %}
+        {% for personne in site.data.personnes %}
         <li class='
-	    {% for single-class in work.class %}
+	    {% for single-class in personne.class %}
 	    {{single-class}}
 	    {% endfor %}
 	    '>
-            <a style='border-radius:50%;' href='{{work.link_to}}'>
-              <img alt="" src="{{site.url}}/{{work.image}}" />
+            <a style='border-radius:50%;' href='{{personne.link_to}}'>
+              <img alt="" src="{{site.url}}/{{personne.image}}" />
               <div class='overlay'>
                 <div class='thumb-info'>
-                  <h3>{{work.title}}</h3>
-                  <p>{{work.desc}}</p>
+                  <h3>{{personne.title}}</h3>
+                  <p>{{personne.desc}}</p>
                 </div>
               </div>
             </a>
