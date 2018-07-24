@@ -4,28 +4,41 @@ section_id: communaute
 ---
 
 <div class='full'>
-    <div class='row'>
-	{% for personne in site.data.personnes %}
-	<div class='medium-6 columns gallery' style="padding: .5em;">
-	    <div class='{% for single-class in personne.class %}
-			{{single-class}}
-			{% endfor %}'>
-		<div class='medium-6 columns'>
-		    <a href='{{personne.link_to}}'>
-			<img style='border-radius:50%;' width="200px" src="{{personne.image}}" />
-		    </a>
-		</div>
-		<div class='medium-6 columns'>
-		    <h3>{{personne.title}}</h3>
-		    <ul>
-			<li>{{personne.profil}}</li>
-			<li>{{personne.defi}}</li>
-			<li>{{personne.annee}}</li>
-		    </ul>
-		</div>
-	    </div>
-	</div>
-	{% endfor %}
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'><a data-cat='all' href='#'>Tout</a></li>
+          <li><a data-cat='2017' href='#'>2017</a></li>
+          <li><a data-cat='2018' href='#'>2018</a></li>
+          <li><a data-cat='eig' href='#'>EIG</a></li>
+          <li><a data-cat='mentor' href='#'>Mentor</a></li>
+          <li><a data-cat='datascientist' href='#'>Datascientist</a></li>
+          <li><a data-cat='webdev' href='#'>Développeur Web</a></li>
+          <li><a data-cat='designer' href='#'>Designer</a></li>
+        </ul>
+      </div>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+        {% for personne in site.data.personnes %}
+        <li class='
+	    {% for single-class in personne.class %}
+	    {{single-class}}
+	    {% endfor %}
+	    '>
+            <a style='border-radius:50%;' href='{{personne.link_to}}'>
+              <img alt="" src="{{site.url}}/{{personne.image}}" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3>{{personne.title}}</h3>
+                  <p>{{personne.desc}}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
-    <div class='three spacing'></div>
+  </div>
+  <div class='four spacing'></div>
 </div>
