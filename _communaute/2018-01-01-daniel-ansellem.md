@@ -17,5 +17,5 @@ Daniel Ansellem est Commissaire Divisionnaire. Nommé administrateur ministérie
 
 _Entré dans la Police Nationale il y a trente ans, il a dirigé plusieurs services de Sécurité Publique et a alterné ces postes opérationnels avec des postes de soutien en rapport avec la transformation numérique de l'administration : chef du service de gestion opérationnelle de la DDSP du Nord, directeur du Centre National de Traitement Automatisé des Infractions à RENNES, pilote du projet "procès verbal électronique", adjoint au chef de la division "Stratégie" de la Mission de Gouvernance Ministérielle des SIC._
 
-_Il a été auditeur de l’Institut des Hautes Études pour la Science et la Technologie.
+_Il a été auditeur de l’Institut des Hautes Études pour la Science et la Technologie._
 _Il est membre du groupe de travail du CIGREF sur l intelligence artificielle et du club des Data Managers._
