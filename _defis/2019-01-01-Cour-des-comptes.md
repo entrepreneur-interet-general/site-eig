@@ -20,7 +20,7 @@ Résumé : La Cour des comptes souhaite développer un outil de rédaction colla
 
 # Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
-## La problématique :
+## La problématique
 
 L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ». Cet article est le fondement des missions des juridictions financières : s’assurer du bon emploi des 1 292 Md € d’argent public, en informer le citoyen. 
 
@@ -35,7 +35,7 @@ Le défi proposé à la troisième promotion EIG :
 
 Ce projet permettra de transformer profondément l’approche des juridictions financières dans l’élaboration de leurs écrits en facilitant la collaboration au sein des équipes et en refondant le processus délibératif. En mettant en commun les demandes formulées aux administrations contrôlées et aux justiciables, la Cour et les CRTC pourront transposer à leurs procédures le principe « dites-le nous une fois ». L’exploration de textes recueillis ou produits et leur croisement avec des corpus externes pourront éclairer le choix des contrôles à lancer en priorité mais aussi aider les magistrats à identifier les positions déjà prises par les juridictions financières (JF) dans le cadre de travaux précédents. Ce projet sera l’occasion d’API-fier les applis « métier » des JF, en vue de leur ouverture à l’extérieur, notamment les applis documentaires.
 
-## Les EIG recherchés : the A-team
+## Les EIG recherché.e.s : the A-team
 Trois profils complémentaires sont recherchés.
 
 ### EIG 1 - Un ou une designer
