@@ -5,6 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
 mission: Repérer et mettre en réseau l'innovation sociale dans les territoires
 administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
+administration-website: https://etalab.gouv.fr
 type: Développement, design UX/UI
 eigs:
   - Elise Lalique

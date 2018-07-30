@@ -5,6 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Mieux informer les citoyens sur l’emploi de l’argent public"
 administration: Cour des comptes
+administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
   - Frédéric Bardolle

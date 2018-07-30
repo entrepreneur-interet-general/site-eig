@@ -5,6 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
 administration: Secrétariat général des ministères sociaux
+administration-website: https://etalab.gouv.fr
 type: Développement, Data science
 eigs:
   - Sébastien Cossin

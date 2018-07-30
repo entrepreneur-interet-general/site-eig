@@ -5,6 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
 administration: Cour des comptes
+administration-website: https://etalab.gouv.fr
 type: ??
 eigs:
   - ??

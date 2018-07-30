@@ -5,6 +5,7 @@ site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
 mission: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM
+administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
   - Arnaud Ménard

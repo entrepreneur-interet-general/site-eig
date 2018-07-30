@@ -5,6 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Informer la prise de décision des agents de l’AFD grâce aux données"
 administration: Agence Française de Développement
+administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
   - Etienne David
