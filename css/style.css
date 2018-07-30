@@ -971,14 +971,6 @@ body.screenshot {
   padding: 0 20px;
 }
 
-.modBlogPost.big p {
-    font-size: 1.2rem;
-}
-
-.modBlogPost.big ul {
-    font-size: 1.2rem;
-}
-
 .modBlogPost.big ul li {
     margin-left: 1em;
 }
@@ -3669,7 +3661,15 @@ body {
     background-color: #444444;
 }
 
+.modBlogPost.big p {
+    font-size: 1.15rem;
+}
+
+.modBlogPost.big ul {
+    font-size: 1.15rem;
+}
+
 blockquote, ul, p {
-    font-size: 1.2rem;
+    font-size: 1.15rem;
 }
 
