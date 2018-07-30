@@ -11,8 +11,9 @@ eigs:
   - développeur ou développeuse
   - datascientist.e
 mentors: 
-  - Olivier Brandouy, Adnène Trojette, Pascal Guy
-images: ![logo Plume](/img/defis/Plume_DL1.png)
+  - Olivier Brandouy, Pascal Guy, Adnène Trojette
+images: 
+  - /img/defis/Plume_DL1.png)
 ---
 
 Résumé : La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
@@ -49,11 +50,24 @@ Il ou elle aura pour mission le développement des différentes briques logiciel
 
 Il ou elle aura pour mission la mise en place des outils de text mining (analyse de grands corpus, parcours de graphes, restitution et visualisation de sens). Elle/il sera notamment responsable de la phase de fouille de texte. Une connaissance des graphes (topologie, dynamique) et une capacité à développer des algorithmes extrayant un sens littéral stabilisé des clusters identifiés dans le graphe sont requises. Un profil avancé en informatique, notamment en parcours de grands graphes et des connaissances en analyse statistique et en IA seraient des plus.
 
-## Léquipe autour des EIG 
+## L'équipe autour des EIG 
 
 L'équipe sera placée auprès du secrétaire général adjoint de la Cour des comptes, directeur du centre d'appui métier, ancien co-pilote du programme des EIG (côté Liberté Living-lab). Elle sera partie intégrante du centre d'appui métier, qui est composé de la direction des systèmes d'information, de la direction de la documentation, du pôle « Données », du pôle « Méthodes » et du pôle « Formation ».
 
 Elle pourra bénéficier de postes de travail portables équipés du système d'exploitation de son choix et avec connexion directe à internet, d'une machine virtuelle sous le système d'exploitation de son choix, de la proximité avec la DSI, notamment la startup d'État qu'elle hébergera à compter de septembre 2018, de l'intégration complète aux communautés « data » et « dev » internes aux JF. De plus, un partenariat avec l’institut des systèmes de complexes de Paris île-de-France pourrait permettre de tester des outils de fouille de texte.
+
+### Olivier Brandouy
+
+Manque PHOTO 500 x 500
+
+Professeur des Universités (finance), Olivier Brandouy est actuellement expert à la Cour des comptes, rattaché au secrétariat général et au centre d’appui métier. Docteur, agrégé d’économie et de gestion, agrégé de sciences de gestion, il a dirigé des équipes de recherche, des diplômes de master et des parcours doctoraux et réalisé une grande partie de ses recherches aux interfaces de l’IA et de la finance (simulations multi-agents notamment). Il a publié de nombreux articles de recherche aux interfaces de l’informatique, fondamentale et appliquée, des systèmes complexes et en finance quantitative. Il développe sous R (économétrie, optimisation, analyse des réseaux) et possède une expertise GNU/Linux.
+
+### Pascal Guy
+
+Manque PHOTO 500 X 500
+
+Directeur des systèmes d’information à la Cour des comptes, Pascal GUY est entouré d’une équipe de 32 collaborateurs, dont six développeurs. Après 15 ans d’expérience dans le privé, dans le secteur des médias, il a rejoint le secteur public pour relever le défi de la numérisation naissante, au Conseil supérieur de l’audiovisuel puis à l’Agence nationale des fréquences. Diplômé d’une maîtrise en génie informatique et d’un Master en management des NTIC de l’Ecole centrale-EM Lyon, adepte des méthodes agiles, il continue à ses heures perdues à faire du développement à titre personnel et récréatif.
+
 
 ### Adnène Trojette
 
