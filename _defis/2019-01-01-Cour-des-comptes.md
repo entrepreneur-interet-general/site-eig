@@ -14,10 +14,42 @@ mentors:
 images: xxx
 ---
 
-La Cour des comptes souhaite développer un outil de rédaction 
-collaborative de ses écrits et réaliser des analyses de données 
-sur les textes utilisés et collectés par les juridictions financières.
-L’objectif sous-jacent : concevoir et présenter des rapports autrement,
-apporter un nouvel éclairage sur les contrôles à lancer en priorité, et
-consolider une doctrine de la Cour sur l’ensemble des politiques publiques
-qu’elle contrôle et évalue depuis sa création.
+Résumé : La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+
+# Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
+
+## La problématique :
+
+L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ». Cet article est le fondement des missions des juridictions financières : s’assurer du bon emploi des 1 292 Md € d’argent public, en informer le citoyen. 
+
+Pour ce faire, comme la plupart des administrations qu’elles contrôlent, la Cour et les chambres régionales et territoriales des comptes (CRTC) produisent des milliers de documents, encore trop souvent imprimés et annotés. Cette méthode, qui répondait parfaitement aux besoins des juridictions financières du XIX<sup>e</sup> siècle et correctement au XX<sup>e</sup> siècle, a trouvé ses limites avec le développement des démarches et des outils numériques de rédaction collaborative.
+
+
+## Le défi : contrôler à l’ère du numérique
+
+Le défi proposé à la troisième promotion EIG : 
+* **imaginer et prototyper la chaîne de conception, de production et de délibération des écrits de la Cour et de CRTC**, voire d’autres services publics, à l’époque des wikis, de Git et de Markdown 
+* **fouiller les corpus de texte collectés ou élaborés par les juridictions financières**. 
+
+Ce projet permettra de transformer profondément l’approche des juridictions financières dans l’élaboration de leurs écrits en facilitant la collaboration au sein des équipes et en refondant le processus délibératif. En mettant en commun les demandes formulées aux administrations contrôlées et aux justiciables, la Cour et les CRTC pourront transposer à leurs procédures le principe « dites-le nous une fois ». L’exploration de textes recueillis ou produits et leur croisement avec des corpus externes pourront éclairer le choix des contrôles à lancer en priorité mais aussi aider les magistrats à identifier les positions déjà prises par les juridictions financières (JF) dans le cadre de travaux précédents. Ce projet sera l’occasion d’API-fier les applis « métier » des JF, en vue de leur ouverture à l’extérieur, notamment les applis documentaires.
+
+## Les EIG recherchés : the A-team
+Trois profils complémentaires sont recherchés.
+
+### EIG 1 - Un ou une designer
+
+Il ou elle aura pour mission le parcours et l’expérience utilisateur. Elle/Il sera notamment responsable de la phase exploratoire. Des expériences en design de services et d'interfaces d'applications numériques (UX/UI) sont préférables.
+
+### EIG 2 - Un développeur ou une développeuse
+
+Il ou elle aura pour mission le développement des différentes briques logicielles comme la rédaction collaborative, la gestion de styles, la gestion de versions concurrentes, etc. Elle/Il sera notamment responsable de la phase de développement. Des compétences en Devops, Python, JS (notamment Angular) et sur Github/Gitlab sont requises. Des expériences de développement d'applications collaboratives, voire d'applications de gestion documentaire, sont appréciées.
+
+### EIG 3 - Un ou une datascientist
+
+Il ou elle aura pour mission la mise en place des outils de text mining (analyse de grands corpus, parcours de graphes, restitution et visualisation de sens). Elle/il sera notamment responsable de la phase de fouille de texte. Une connaissance des graphes (topologie, dynamique) et une capacité à développer des algorithmes extrayant un sens littéral stabilisé des clusters identifiés dans le graphe sont requises. Un profil avancé en informatique, notamment en parcours de grands graphes et des connaissances en analyse statistique et en IA seraient des plus.
+
+### Léquipe autour des EIG 
+
+L'équipe sera placée auprès du secrétaire général adjoint de la Cour des comptes, directeur du centre d'appui métier, ancien co-pilote du programme des EIG (côté Liberté Living-lab). Elle sera partie intégrante du centre d'appui métier, qui est composé de la direction des systèmes d'information, de la direction de la documentation, du pôle « Données », du pôle « Méthodes » et du pôle « Formation ».
+
+Elle pourra bénéficier de postes de travail portables équipés du système d'exploitation de son choix et avec connexion directe à internet, d'une machine virtuelle sous le système d'exploitation de son choix, de la proximité avec la DSI, notamment la startup d'État qu'elle hébergera à compter de septembre 2018, de l'intégration complète aux communautés « data » et « dev » internes aux JF. De plus, un partenariat avec l’institut des systèmes de complexes de Paris île-de-France pourrait permettre de tester des outils de fouille de texte.
