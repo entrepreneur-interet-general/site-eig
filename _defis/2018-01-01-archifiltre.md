@@ -8,11 +8,11 @@ administration: Secrétariat général des ministères sociaux
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Emmanuel Gautier
-  - Jean-Baptiste Assouad
+  - nom: Emmanuel Gautier
+  - nom: Jean-Baptiste Assouad
 mentors: 
-  - Chloé Moser
-  - Anne Lambert
+  - nom: Chloé Moser
+  - nom: Anne Lambert
 images:
   - /img/defis/9_ARCHEMSE.png
 ---

@@ -8,11 +8,11 @@ administration: SHOM
 administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
-  - Arnaud Ménard
-  - Adrien Signorino
+  - nom: Arnaud Ménard
+  - nom: Adrien Signorino
 mentors:
-  - Marielle Chrisment
-  - Rémy Nollet
+  - nom: Marielle Chrisment
+  - nom: Rémy Nollet
 images:
   - /images/@stock/medium-work-1.jpg
   - /images/@stock/medium-work-2.jpg

@@ -8,9 +8,9 @@ administration: Secrétariat général des ministères sociaux
 administration-website: https://etalab.gouv.fr
 type: Développement, Data science
 eigs:
-  - Sébastien Cossin
+  - nom: Sébastien Cossin
 mentors: 
-  - Didier Hève
+  - nom: Didier Hève
 images:
 ---
 

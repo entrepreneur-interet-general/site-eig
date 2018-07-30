@@ -8,11 +8,11 @@ administration: Ministère de la Transition écologique et solidaire, Direction 
 administration-website: https://etalab.gouv.fr
 type: Datascience, ux design, datavisualisation
 eigs:
-  - Elsa Luneville
-  - Antoine Augusti
+  - nom: Elsa Luneville
+  - nom: Antoine Augusti
 mentors:
-  - Laurence Matringe
-  - Renaud Périn
+  - nom: Laurence Matringe
+  - nom: Renaud Périn
 images:
   - /img/defis/1_MTES.png
 ---

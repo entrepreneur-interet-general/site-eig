@@ -8,13 +8,14 @@ administration: Minisère de l'Intérieur, Mission de coordination et d'appui à
 administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
-  - Tiphaine Phe-Neau
-  - Guillaume Lancrenon
+  - nom: Tiphaine Phe-Neau
+  - nom: Guillaume Lancrenon
 mentor:
-  - Daniel Ansellem 
+  - nom: Daniel Ansellem 
 images:
   - /img/defis/4_Previsecours.png
 ---
+
 En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants… 
 
 **Les data se mettent au service des pompiers : elles les aident à mieux anticiper leurs interventions (RH, logistique) grâce à la technologie prédictive.** 

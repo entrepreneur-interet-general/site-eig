@@ -8,11 +8,11 @@ administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Léo Bouloc
-  - Laurent Dupont
+  - nom: Léo Bouloc
+  - nom: Laurent Dupont
 mentors: 
-  - Emmanuel Weisenburger
-  - Yann Caradec
+  - nom: Emmanuel Weisenburger
+  - nom: Yann Caradec
 images:
 ---
 

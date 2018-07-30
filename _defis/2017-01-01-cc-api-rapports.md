@@ -8,9 +8,9 @@ administration: Cour des comptes
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Frédéric Bardolle
+  - nom: Frédéric Bardolle
 mentors: 
-  - Adnène Trojette
+  - nom: Adnène Trojette
 images:
 ---
 

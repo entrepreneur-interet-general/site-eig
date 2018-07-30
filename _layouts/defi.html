@@ -39,7 +39,11 @@ layout: default
         <li>
             <strong>EIGs :</strong>
 	    {% for eig in page.eigs %}
-	    {{eig}}
+	    {% if eig.site %}
+	    <a href='{{eig.site}}'>{{eig.nom}}</a>
+	    {% else %}
+	    {{eig.nom}}
+	    {% endif %}
 	    {% unless forloop.last %}
             /
             {% endunless %}
@@ -48,7 +52,11 @@ layout: default
         <li>
             <strong>Mentors :</strong>
 	    {% for mentor in page.mentors %}
-	    {{mentor}}
+	    {% if mentor.site %}
+	    <a href='{{mentor.site}}'>{{mentor.nom}}</a>
+	    {% else %}
+	    {{mentor.nom}}
+	    {% endif %}
 	    {% unless forloop.last %}
             /
             {% endunless %}

@@ -8,9 +8,11 @@ administration: Agence Française de Développement
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Etienne David
+  - nom: Etienne David
+    site: xxx
 mentors: 
-  - Antoine Chèvre
+  - nom: Antoine Chèvre
+    site: xxx
 images:
 ---
 

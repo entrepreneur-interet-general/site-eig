@@ -8,9 +8,9 @@ administration: Ministère de l'Intérieur
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Martin Gross
+  - nom: Martin Gross
 mentors: 
-  - Daniel Ansellem
+  - nom: Daniel Ansellem
 images:
 ---
 

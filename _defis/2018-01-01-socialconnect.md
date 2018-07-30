@@ -8,10 +8,10 @@ administration: Services du Premier Ministre, Commissariat général à l'égali
 administration-website: https://etalab.gouv.fr
 type: Développement, design UX/UI
 eigs:
-  - Elise Lalique
-  - Julien Paris
+  - nom: Elise Lalique
+  - nom: Julien Paris
 mentor:
-  - Bénédicte Pachod
+  - nom: Bénédicte Pachod
 images:
   - /img/defis/8_CGET.png
 ---

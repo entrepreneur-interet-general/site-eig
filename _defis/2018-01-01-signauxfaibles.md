@@ -8,10 +8,10 @@ administration: Ministère de l'Economie, direction générale des entreprises e
 administration-website: https://etalab.gouv.fr
 type: Datascience, développement
 eigs:
-  - Pierre Camilleri
-  - Christophe Ninucci
+  - nom: Pierre Camilleri
+  - nom: Christophe Ninucci
 mentors:
-  - Stéphanie Schaer
+  - nom: Stéphanie Schaer
 images:
   - /img/defis/6_Signauxfaibles.png
 ---

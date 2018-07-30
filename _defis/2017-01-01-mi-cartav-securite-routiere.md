@@ -8,10 +8,10 @@ administration: Ministère de l'Intérieur
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Francis Chabouis
-  - Tristram Gräbener
+  - nom: Francis Chabouis
+  - nom: Tristram Gräbener
 mentors: 
-  - Daniel Ansellem
+  - nom: Daniel Ansellem
 images:
 ---
 

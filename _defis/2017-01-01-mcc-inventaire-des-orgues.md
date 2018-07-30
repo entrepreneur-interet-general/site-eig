@@ -8,9 +8,9 @@ administration: Ministère de la culture
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Bastien Guerry
+  - nom: Bastien Guerry
 mentors:
-  - Judith Kagan, Marie-Véronique Leroi, Sophie Cueille
+  - nom: Judith Kagan, Marie-Véronique Leroi, Sophie Cueille
 images:
 ---
 

@@ -8,9 +8,9 @@ administration: Bibliothèque nationale de France
 administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
-  - Constance de Quatrebarbes
+  - nom: Constance de Quatrebarbes
 mentors: 
-  - Emmanuel Bermès
+  - nom: Emmanuel Bermès
 images:
   - /img/defis/9_ARCHEMSE.png
 ---

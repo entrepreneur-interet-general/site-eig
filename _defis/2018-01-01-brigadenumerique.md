@@ -8,11 +8,11 @@ administration: Minisère de l'Intérieur, Direction générale de la gendarmeri
 administration-website: https://etalab.gouv.fr
 type: Développement, ergonomie, design UX/UI
 eigs:
-  - Dora Crisan
-  - Jean-Baptiste Le Dévéhat
+  - nom: Dora Crisan
+  - nom: Jean-Baptiste Le Dévéhat
 mentors:
-  - Marielle Chrisment
-  - Rémy Nollet
+  - nom: Marielle Chrisment
+  - nom: Rémy Nollet
 images:
   - /img/defis/10_brigadenumerique.png
 ---

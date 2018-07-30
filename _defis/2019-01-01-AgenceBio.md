@@ -8,10 +8,10 @@ administration: Agence française pour le développement et la promotion de l’
 administration-website: https://etalab.gouv.fr
 type: ??
 eigs:
-  - ??
-  - ??
+  - nom: ??
+  - nom: ??
 mentors: 
-  - ??
+  - nom: ??
 images: xxx
 ---
 

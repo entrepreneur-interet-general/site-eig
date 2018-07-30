@@ -8,10 +8,10 @@ administration: Direction interministérielle et du système d’information et 
 administration-website: https://etalab.gouv.fr
 type: ??
 eigs:
-  - ??
-  - ??
+  - nom: ??
+  - nom: ??
 mentors: 
-  - ??
+  - nom: ??
 images: xxx
 ---
 

@@ -8,9 +8,9 @@ administration: Direction Générale des Finances Publiques
 administration-website: https://etalab.gouv.fr
 type: Data science
 eigs:
-  - Marion Paclot
+  - nom: Marion Paclot
 mentors: 
-  - Philippe Schall
+  - nom: Philippe Schall
 images:
 ---
 

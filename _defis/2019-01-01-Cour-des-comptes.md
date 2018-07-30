@@ -8,11 +8,11 @@ administration: Cour des comptes
 administration-website: https://etalab.gouv.fr
 type: Développement, Datascience & Design
 eigs:
-  - designeur ou designeuse
-  - développeur ou développeuse
-  - datascientist.e
+  - nom: designeur ou designeuse
+  - nom: développeur ou développeuse
+  - nom: datascientist.e
 mentors: 
-  - Olivier Brandouy, Pascal Guy, Adnène Trojette
+  - nom: Olivier Brandouy, Pascal Guy, Adnène Trojette
 images: 
   - /img/defis/Plume_DL1.png
 ---
