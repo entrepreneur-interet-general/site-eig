@@ -5,13 +5,14 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
 administration: Cour des comptes
-type: ??
+type: Développement, Datascience & Design
 eigs:
-  - ??
-  - ??
+  - designeur ou designeuse
+  - développeur ou développeuse
+  - datascientist.e
 mentors: 
-  - ??
-images: xxx
+  - Olivier Brandouy, Adnène Trojette, Pascal Guy
+images: ![logo Plume](/img/defis/Plume_DL1.png)
 ---
 
 Résumé : La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
@@ -48,8 +49,23 @@ Il ou elle aura pour mission le développement des différentes briques logiciel
 
 Il ou elle aura pour mission la mise en place des outils de text mining (analyse de grands corpus, parcours de graphes, restitution et visualisation de sens). Elle/il sera notamment responsable de la phase de fouille de texte. Une connaissance des graphes (topologie, dynamique) et une capacité à développer des algorithmes extrayant un sens littéral stabilisé des clusters identifiés dans le graphe sont requises. Un profil avancé en informatique, notamment en parcours de grands graphes et des connaissances en analyse statistique et en IA seraient des plus.
 
-### Léquipe autour des EIG 
+## Léquipe autour des EIG 
 
 L'équipe sera placée auprès du secrétaire général adjoint de la Cour des comptes, directeur du centre d'appui métier, ancien co-pilote du programme des EIG (côté Liberté Living-lab). Elle sera partie intégrante du centre d'appui métier, qui est composé de la direction des systèmes d'information, de la direction de la documentation, du pôle « Données », du pôle « Méthodes » et du pôle « Formation ».
 
 Elle pourra bénéficier de postes de travail portables équipés du système d'exploitation de son choix et avec connexion directe à internet, d'une machine virtuelle sous le système d'exploitation de son choix, de la proximité avec la DSI, notamment la startup d'État qu'elle hébergera à compter de septembre 2018, de l'intégration complète aux communautés « data » et « dev » internes aux JF. De plus, un partenariat avec l’institut des systèmes de complexes de Paris île-de-France pourrait permettre de tester des outils de fouille de texte.
+
+### Adnène Trojette
+
+![Adnène Trojette, SGA, mentor de haut niveau](/img/communaute/adnene-trojette.jpg)
+
+Secrétaire général adjoint de la Cour des comptes, Mohammed Adnène Trojette
+dirige le centre d’appui métier des juridictions financières qui regroupe la
+direction des systèmes d’information, la direction de la documentation, le pôle
+données, le pôle méthodes et le pôle formation.
+
+Ingénieur en informatique et télécom, ancien de SciencesPo Paris, de l’ENA et
+développeur Debian GNU/Linux, il a remis au Premier ministre en 2013 un rapport
+sur l’ouverture des données publiques. Ancien co-directeur du Liberté
+Living-lab, il a copiloté la première promotion des entrepreneurs d’intérêt
+général et a porté plusieurs projets dans le cadre de Data for good.
