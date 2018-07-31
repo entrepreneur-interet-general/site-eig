@@ -8,6 +8,7 @@ annees: 2019
 defi: Agi'R
 profil: Mentor
 images:
+  - /img/communaute/simon-karleskind.png
 
 ---
 
