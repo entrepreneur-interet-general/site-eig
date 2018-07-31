@@ -64,19 +64,20 @@ piliers:
       L'entrepreneur d'intérêt général ou une personne aux compétences numériques pointues (datascience, développement, design) qui relève le défi.
 
 ---
+
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
-  <div class='one spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-7 large-7 columns'>
-	  <p>Les défis de la 3ème promotion sont en ligne, venez les découvrir !</p>
-      </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
-	<a class='boxed button' href='candidature-eig.html'><strong>Découvrir les défis</strong></a>
-      </div>
+    <div class='one spacing'></div>
+    <div class='mod modCallToAction'>
+	<div class='row'>
+	    <div class='medium-7 large-7 columns'>
+		<p>Les défis de la 3ème promotion sont en ligne, venez les découvrir !</p>
+	    </div>
+	    <div class='medium-5 large-5 columns' style='text-align: right;'>
+		<a class='boxed button' href='candidature-eig.html'><strong>Découvrir les défis</strong></a>
+	    </div>
+	</div>
     </div>
-  </div>
-  <div class='one spacing'></div>
+    <div class='one spacing'></div>
 </div>
 
 <div class='one spacing'></div>
@@ -92,17 +93,17 @@ piliers:
 <div class='full no-padding' style='background: #ccc; color: red'>
     <div class='one spacing'></div>
     <div class='large-12 columns'>
-	    <h2>Nous ouvrons l’administration à des talents du numérique pour résoudre des défis d’intérêt général au sein des ministères.</h2>	    
+	<h2>Nous ouvrons l’administration à des talents du numérique pour résoudre des défis d’intérêt général au sein des ministères.</h2>	    
     </div>
-	<div class='row'>
-	    <div class='medium-12 large-12 columns' style='text-align: center';>
-	      <a class='boxed button' href='participer.html'>
+    <div class='row'>
+	<div class='medium-12 large-12 columns' style='text-align: center';>
+	    <a class='boxed button' href='participer.html'>
 		<strong>Rejoindre le programme</strong>
-	      </a>
-	    </div>
+	    </a>
 	</div>
     </div>
-    <div class='one spacing'></div>
+</div>
+<div class='one spacing'></div>
 </div>
 
 <div class='full'>
@@ -113,18 +114,18 @@ piliers:
     </div>
 </div>
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
-  <div class='one spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-7 large-7 columns'>
-	  <p>Et concrètement, cela fonctionne comment ?</p>
-      </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
-	<a class='boxed button' href='presentation.html'><strong>Découvrir le programme</strong></a>
-      </div>
+    <div class='one spacing'></div>
+    <div class='mod modCallToAction'>
+	<div class='row'>
+	    <div class='medium-7 large-7 columns'>
+		<p>Et concrètement, cela fonctionne comment ?</p>
+	    </div>
+	    <div class='medium-5 large-5 columns' style='text-align: right;'>
+		<a class='boxed button' href='presentation.html'><strong>Découvrir le programme</strong></a>
+	    </div>
+	</div>
     </div>
-  </div>
-  <div class='one spacing'></div>
+    <div class='one spacing'></div>
 </div>
 
 <div class='full'>
@@ -135,62 +136,56 @@ piliers:
     </div>
 </div>
 <div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modBoxedTextSlider'>
-        <div class='boxes'>
-          {% for service in page.services %}
-            <div class='box' style='background: #f9f9f9;'>
-              <!-- <i class='{{service.icon_class}}'></i> -->
-	      <img src='{{service.img}}' />
-	      <br/>
-              <h3>{{service.title}}</h3>
-              <p>{{service.desc}}</p>
-            </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class='four spacing'></div>
-</div>
-
-<div class='full'>
     <div class='row'>
 	<div class='large-12 columns'>
-	    <h2>Un exemple de défi relevé ?</h2>
+	    <div class='mod modBoxedTextSlider'>
+		<div class='boxes'>
+		    {% for service in page.services %}
+		    <div class='box' style='background: #f9f9f9;'>
+			<!-- <i class='{{service.icon_class}}'></i> -->
+			<img src='{{service.img}}' />
+			<br/>
+			<h3>{{service.title}}</h3>
+			<p>{{service.desc}}</p>
+		    </div>
+		    {% endfor %}
+		</div>
+	    </div>
 	</div>
     </div>
+    <div class='four spacing'></div>
 </div>
+
 <div class='row'>
+    <div class='two spacing'></div>
+    <h2>Un exemple de défi relevé ?</h2>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" width="500" height="340" alt="" src="/img/matchID.png" />
+	<img class="fadeinleft" width="500" height="340" alt="" src="/img/matchID.png" />
     </div>
     <div class='medium-6 columns'>
-      <div class='spacing'></div>
-      <h4 style='color: #999'>Défi EIG 2</h4>
-      <h2>Archifiltre</h2>
+	<h4 style='color: #999'>Défi EIG 2</h4>
+	<h2>Archifiltre</h2>
+	<div class='spacing'></div>
+	<p><b>Administration</b> : Secrétariat général des ministères sociaux</p>
+	<p><b>Mission</b>: Assurerla mémoire des politiques sociales en transformant la gestion des archives</p>
+	<p><b>Défi</b>: Les EIG construisent un algorithme qui permet d'identifier tous les types et formats de données publiques produites par les ministères sociaux et de caractériser les liens entre les différents éléments pour pouvoir les traiter. Cet algorithme sert de base à une <a href="https://archifiltre.io/">application</a> que vous pouvez dès à présent tester !
 	    <div class='spacing'></div>
-	    <p><b>Administration</b> : Secrétariat général des ministères sociaux</p>
-	    <p><b>Mission</b>: Assurerla mémoire des politiques sociales en transformant la gestion des archives</p>
-	    <p><b>Défi</b>: Les EIG construisent un algorithme qui permet d'identifier tous les types et formats de données publiques produites par les ministères sociaux et de caractériser les liens entre les différents éléments pour pouvoir les traiter. Cet algorithme sert de base à une <a href="https://archifiltre.io/">application</a> que vous pouvez dès à présent tester !
-      <div class='spacing'></div>
-      <a class='button small' href='https://github.com/matchID-project/'>Découvrir matchID</a>
+	    <a class='button small' href='https://github.com/matchID-project/'>Découvrir matchID</a>
     </div>
-  </div>
+</div>
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
-  <div class='one spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-7 large-7 columns'>
-	  <p>2 ans et déjà 22 défis relevés !</p>
-      </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
-	<a class='boxed button' href='defis.html'><strong>Découvrir tous les défis</strong></a>
-      </div>
+    <div class='one spacing'></div>
+    <div class='mod modCallToAction'>
+	<div class='row'>
+	    <div class='medium-7 large-7 columns'>
+		<p>2 ans et déjà 22 défis relevés !</p>
+	    </div>
+	    <div class='medium-5 large-5 columns' style='text-align: right;'>
+		<a class='boxed button' href='defis.html'><strong>Découvrir tous les défis</strong></a>
+	    </div>
+	</div>
     </div>
-  </div>
-  <div class='one spacing'></div>
+    <div class='one spacing'></div>
 </div>
 
 <div class='full'>
@@ -201,18 +196,18 @@ piliers:
     </div>
 </div>
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
-  <div class='one spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-7 large-7 columns'>
-	  <p>Le programme crée une communauté numérique d'intérêt général</p>
-      </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
-	<a class='boxed button' href='communaute.html'><strong>Découvrir la communauté</strong></a>
-      </div>
+    <div class='one spacing'></div>
+    <div class='mod modCallToAction'>
+	<div class='row'>
+	    <div class='medium-7 large-7 columns'>
+		<p>Le programme crée une communauté numérique d'intérêt général</p>
+	    </div>
+	    <div class='medium-5 large-5 columns' style='text-align: right;'>
+		<a class='boxed button' href='communaute.html'><strong>Découvrir la communauté</strong></a>
+	    </div>
+	</div>
     </div>
-  </div>
-  <div class='one spacing'></div>
+    <div class='one spacing'></div>
 </div>
 
 <div class='one spacing'></div>
@@ -230,6 +225,3 @@ piliers:
     </div>
     <div class='four spacing'></div>
 </div>
-
-
-
