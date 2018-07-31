@@ -116,7 +116,7 @@ piliers:
     <div class='mod modCallToAction'>
 	<div class='row'>
 	    <div class='medium-7 large-7 columns'>
-		<p>Et concrètement, cela fonctionne comment ?</p>
+		<p style="margin-top: .6em;">Et concrètement, cela fonctionne comment ?</p>
 	    </div>
 	    <div class='medium-5 large-5 columns' style='text-align: right;'>
 		<a class='boxed button' href='presentation.html'><strong>Découvrir le programme</strong></a>
@@ -148,27 +148,27 @@ piliers:
 
 <div class='row'>
     <div class='two spacing'></div>
-    <h2>Un exemple de défi relevé ?</h2>
     <div class='medium-6 columns'>
-	<img class="fadeinleft" width="500" height="340" alt="" src="/img/matchID.png" />
+	<img class="fadeinright" width="460" height="340" alt="" src="/img/matchID.png" />
     </div>
     <div class='medium-6 columns'>
-	<h4 style='color: #999'>Défi EIG 2</h4>
-	<h2>Archifiltre</h2>
-	<div class='spacing'></div>
+	<h2>Un exemple de défi relevé ?</h2>
+	<h3>Archifiltre</h3>
 	<p><b>Administration</b> : Secrétariat général des ministères sociaux</p>
-	<p><b>Mission</b>: Assurerla mémoire des politiques sociales en transformant la gestion des archives</p>
-	<p><b>Défi</b>: Les EIG construisent un algorithme qui permet d'identifier tous les types et formats de données publiques produites par les ministères sociaux et de caractériser les liens entre les différents éléments pour pouvoir les traiter. Cet algorithme sert de base à une <a href="https://archifiltre.io/">application</a> que vous pouvez dès à présent tester !
-	    <div class='spacing'></div>
-	    <a class='button small' href='https://github.com/matchID-project/'>Découvrir matchID</a>
+	<p><b>Mission</b>: Assurer la mémoire des politiques sociales en transformant la gestion des archives</p>
+	<p><b>Défi</b>: Les EIG construisent un algorithme pour identifier les types et les formats de données produites par les ministères sociaux afin de caractériser les liens entre les différents éléments pour les traiter. Cet algorithme est mise en oeuvre dans une <a href="https://archifiltre.io/">application</a> que vous pouvez tester !</p>
+	<a class='button small' href='https://github.com/matchID-project/'>Découvrir matchID</a>
     </div>
 </div>
+
+<div class='one spacing'></div>
+
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
     <div class='one spacing'></div>
     <div class='mod modCallToAction'>
 	<div class='row'>
 	    <div class='medium-7 large-7 columns'>
-		<p>2 ans et déjà 22 défis relevés !</p>
+		<p style="margin-top: .6em;">2 ans et déjà 22 défis relevés !</p>
 	    </div>
 	    <div class='medium-5 large-5 columns' style='text-align: right;'>
 		<a class='boxed button' href='defis.html'><strong>Découvrir tous les défis</strong></a>
@@ -181,10 +181,29 @@ piliers:
 <div class='full'>
     <div class='row'>
 	<div class='large-12 columns'>
-	    <h2>Les EIG et les mentors parlent de leur expérience</h2>
+	    <div style="text-align: center;">
+		<h2>Les EIG et les mentors parlent de leur expérience</h2>
+	    </div>
+	    <div class='mod modTestimonials'>
+		<div class='row'>
+		    <div class='small-12 columns'>
+			<div class='items centered-text'>
+			    {% for t in site.data.temoignages  %}
+			    <div class='item'>
+				<p class='quote'>{{t.text}}</p>
+				<p class='author'>- {{t.author}}, {{t.position}}</p>
+				<div class='two spacing'></div>
+			    </div>
+			    {% endfor %}
+			</div>
+		    </div>
+		    <div class='spacing'></div>
+		</div>
+	    </div>
 	</div>
     </div>
 </div>
+
 <div class='full no-padding' style='background: #0081d5; color: #fff'>
     <div class='one spacing'></div>
     <div class='mod modCallToAction'>
