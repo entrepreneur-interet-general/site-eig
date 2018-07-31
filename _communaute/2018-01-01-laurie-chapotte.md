@@ -5,7 +5,7 @@ github:
 nom: Laurie Chapotte
 website:
 annees: 2018
-defi: Gobelins
+defis: Gobelins
 profil: 
 images:
   - /img/communaute/Laurie-Chapotte.png

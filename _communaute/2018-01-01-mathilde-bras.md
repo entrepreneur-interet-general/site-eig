@@ -5,7 +5,7 @@ github: MathildeBras
 nom: Mathilde Bras
 website:
 annees: 2017, 2018
-defi: EIG Node
+defis: EIG Node
 profil: 
 images:
   - /img/communaute/mathilde_bras.jpg

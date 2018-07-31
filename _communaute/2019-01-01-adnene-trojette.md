@@ -5,7 +5,7 @@ github: trojette
 nom: Adnène Trojette
 website:
 annees: 2019
-defi: Plume
+defis: Plume
 profil: Mentor
 images:
   - /img/communaute/adnene-trojette.png

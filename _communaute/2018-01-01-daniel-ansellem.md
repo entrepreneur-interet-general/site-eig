@@ -7,7 +7,7 @@ annees:
   - 2017
   - 2018
   - 2019
-defi: CartAV, MatchID, Prévisecours & IA Flash
+defis: CartAV, MatchID, Prévisecours & IA Flash
 profil: 
 images:
   - /img/communaute/Daniel-Ansellem-2.png

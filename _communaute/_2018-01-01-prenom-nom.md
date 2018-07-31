@@ -5,7 +5,7 @@ github: github_username
 nom: Prénom Nom
 website:
 annees: 2018
-defi: nom_defi
+defis: nom_defi
 profil: type_profil
 images:
   - /img/communaute/photo.png

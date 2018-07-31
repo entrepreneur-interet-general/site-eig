@@ -5,7 +5,7 @@ github: vict0rsch
 nom: Victor Schmidt
 website:
 annees: 2018
-defi: Hopkins
+defis: Hopkins
 profil: Datascience
 images:
   - /img/communaute/VictorSchmidt.png

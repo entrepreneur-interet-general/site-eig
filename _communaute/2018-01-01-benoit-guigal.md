@@ -5,7 +5,7 @@ github: benoitguigal
 nom: Benoît Guigal
 website:
 annees: 2018
-defi: Hopkins
+defis: Hopkins
 profil: Data Engineer
 images:
   - /img/communaute/Benoit-Guigal.png

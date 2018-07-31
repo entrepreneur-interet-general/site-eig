@@ -5,7 +5,7 @@ github:
 nom: Julien Bouquillon
 website:
 annees: 2019
-defi: Code du travail numérique
+defis: Code du travail numérique
 profil: Mentor
 images: 
   - /img/communaute/julien-bouquillon.png

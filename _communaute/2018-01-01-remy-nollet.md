@@ -4,7 +4,7 @@ twitter:
 nom: Rémy Nollet
 website:
 annees: 2018
-defi: Brigade Numérique
+defis: Brigade Numérique
 profil:
 images:
   - /img/communaute/remynollet.jpg

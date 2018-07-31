@@ -5,7 +5,7 @@ github:
 nom: Hélène Cavalié
 website:
 annees: 2018
-defi: Gobelins
+defis: Gobelins
 profil: 
 images:
   - /img/communaute/3_gobelins.jpg

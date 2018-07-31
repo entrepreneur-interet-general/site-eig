@@ -4,7 +4,7 @@ twitter:
 nom: Anne Lambert
 website:
 annees: 2018
-defi: ArchiFiltre
+defis: ArchiFiltre
 profil: 
 images:
   - /img/communaute/9.AnneLambert.jpg

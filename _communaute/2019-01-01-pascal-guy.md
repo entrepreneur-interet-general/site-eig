@@ -5,7 +5,7 @@ github:
 nom: Pascal Guy
 website:
 annees: 2019
-defi: Plume
+defis: Plume
 profil: Mentor
 images:
 

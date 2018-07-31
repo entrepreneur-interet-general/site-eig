@@ -5,7 +5,7 @@ github: Leobouloc
 nom: Léo Bouloc
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Datascientiste
 images:
   - /img/communaute/Leo-Bouloc.png

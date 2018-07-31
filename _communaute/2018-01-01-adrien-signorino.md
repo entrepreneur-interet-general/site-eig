@@ -5,7 +5,7 @@ github: sign0
 nom: Adrien Signorino
 website:
 annees: 2018
-defi: B@liseNAV
+defis: B@liseNAV
 profil: Géomatique
 images:
   - /img/communaute/AdrienSignorino.png

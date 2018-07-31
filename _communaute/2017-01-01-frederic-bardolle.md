@@ -5,7 +5,7 @@ github: seiteta
 nom: Frédéric Bardolle
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Développeur
 images:
   - /img/communaute/Frederic-Bardolle.png

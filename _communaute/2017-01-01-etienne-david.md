@@ -5,7 +5,7 @@ github: EtienneDavid
 nom: Etienne David
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Data science
 images:
   - /img/communaute/Etienne-David.png

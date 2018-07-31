@@ -5,7 +5,7 @@ github: chrnin
 nom: Christophe Ninucci
 website:
 annees: 2018
-defi: Signaux Faibles
+defis: Signaux Faibles
 profil: Développeur
 images:
   - /img/communaute/Christophe-Ninucci.png

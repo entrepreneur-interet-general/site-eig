@@ -4,7 +4,7 @@ twitter: weisenburger_e
 nom: Emmanuel Weisenburger
 website:
 annees: 2018
-defi: DataESR
+defis: DataESR
 profil: 
 images:
   - /img/communaute/Emmanuel-Weisenburger.png

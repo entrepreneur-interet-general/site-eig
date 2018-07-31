@@ -5,7 +5,8 @@ github: Elsalune
 nom: Elsa Luneville
 website:
 annees: 2018
-defi: Prédisauvetage
+defis:
+  - nom: Prédisauvetage
 profil: Datascience
 images:
   - /img/communaute/Elsa-Luneville.png

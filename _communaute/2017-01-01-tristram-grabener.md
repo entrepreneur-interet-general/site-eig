@@ -5,7 +5,7 @@ github: Tristramg
 nom: Tristram Gräbener
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Développeur
 images:
   - /img/communaute/Tristram-Grabener.png

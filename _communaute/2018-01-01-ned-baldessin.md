@@ -5,7 +5,7 @@ github: nedbaldessin
 nom: Ned Baldessin
 website:
 annees: 2018
-defi: Gobelins
+defis: Gobelins
 profil: Développement
 images:
   - /img/communaute/Ned-Baldessin.png

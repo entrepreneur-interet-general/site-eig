@@ -5,7 +5,7 @@ github: tiphaine
 nom: Tiphaine Phe-Neau
 website:
 annees: 2018
-defi: Prévisecours
+defis: Prévisecours
 profil: Datascience
 images:
   - /img/communaute/Tiphaine-PheNeau.png

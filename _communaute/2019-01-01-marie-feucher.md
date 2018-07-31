@@ -5,7 +5,7 @@ github:
 nom: Marie Feucher
 website:
 annees: 2019
-defi: CibNAV
+defis: CibNAV
 profil: Mentor opérationnel
 images:
   - /img/communaute/marie-feucher-2.png

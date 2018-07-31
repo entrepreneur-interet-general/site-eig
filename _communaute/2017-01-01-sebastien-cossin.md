@@ -5,7 +5,7 @@ github: scossin
 nom: Sébastien Cossin
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Développeur
 images:
   - /img/communaute/Sebastien-Cossin.png

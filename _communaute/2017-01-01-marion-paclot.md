@@ -5,7 +5,7 @@ github: marion-paclot
 nom: Marion Paclot
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Datascientiste
 images:
   - /img/communaute/Marion-Paclot.png

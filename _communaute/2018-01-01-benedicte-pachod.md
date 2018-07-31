@@ -4,7 +4,7 @@ twitter: BenedictePachod
 nom: Bénédicte Pachod
 website:
 annees: 2018
-defi: EIG team
+defis: EIG team
 profil: 
 images:
   - /img/communaute/8.PACHODBenedicte.jpg

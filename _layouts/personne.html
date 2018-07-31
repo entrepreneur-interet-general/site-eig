@@ -24,7 +24,9 @@ layout: default
         </li>
         <li>
           <strong>Défi :</strong>
-          {{page.defi}}
+	  {% for defi in page.defis %}
+          <a href='{{defi.site}}'>{{defi.nom}}</a>
+	  {% endfor %}
         </li>
 	{% if page.profil %}
         <li>

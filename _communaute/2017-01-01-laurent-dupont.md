@@ -5,7 +5,7 @@ github: duplau
 nom: Laurent Dupont
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Développeur
 images:
   - /img/communaute/Laurent-Dupont.png

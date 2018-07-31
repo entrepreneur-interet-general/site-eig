@@ -5,7 +5,7 @@ github: fchabouis
 nom: Francis Chabouis
 website:
 annees: 2017
-defi: 
+defis: 
 profil: Développeur
 images:
   - /img/communaute/FrancisChabouis.jpg

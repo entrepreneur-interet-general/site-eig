@@ -5,7 +5,7 @@ github: jbledevehat
 nom: Jean-Baptiste Le Dévéhat
 website:
 annees: 2018
-defi: EIG team
+defis: EIG team
 profil: Ergonomie
 images:
   - /img/communaute/JeanBaptiste-LeDevehat.png

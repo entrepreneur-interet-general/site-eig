@@ -5,7 +5,7 @@ github: jeanbaptisteassouad
 nom: Jean-Baptiste Assouad
 website:
 annees: 2018
-defi: Archifiltre
+defis: Archifiltre
 profil: Développeur
 images:
   - /img/communaute/JeanBaptiste-Assouad.png

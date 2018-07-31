@@ -5,7 +5,7 @@ github: paulboosz
 nom: Paul Boosz
 website:
 annees: 2018
-defi: Hopkins
+defis: Hopkins
 profil: Datascience
 images:
   - /img/communaute/Ned-Baldessin.png

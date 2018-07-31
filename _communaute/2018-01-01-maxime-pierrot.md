@@ -5,7 +5,7 @@ github: pierrax
 nom: Maxime Pierrot
 website:
 annees: 2018
-defi: DataESR
+defis: DataESR
 profil: Tout !
 images:
   - /img/communaute/Maxime-Pierrot.png

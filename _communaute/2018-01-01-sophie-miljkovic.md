@@ -4,7 +4,7 @@ twitter:
 nom: Sophie Miljkovic
 website:
 annees: 2018
-defi: EIG team
+defis: EIG team
 profil: 
 images:
   - /images/@stock/another.jpg

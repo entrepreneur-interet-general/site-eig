@@ -5,7 +5,7 @@ github: jazzypierrot
 nom: Pierre Camilleri
 website:
 annees: 2018
-defi: Signaux Faibles
+defis: Signaux Faibles
 profil: Datascience
 images:
   - /img/communaute/PierreCamilleri.jpg

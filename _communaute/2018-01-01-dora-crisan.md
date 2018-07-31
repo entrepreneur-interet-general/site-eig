@@ -4,7 +4,7 @@ twitter: DoraCrisan
 nom: Dora Crisan
 website:
 annees: 2018
-defi: Bridage Numérique
+defis: Bridage Numérique
 profil: Développeuse
 images:
   - /img/communaute/Dora-Crisan.png

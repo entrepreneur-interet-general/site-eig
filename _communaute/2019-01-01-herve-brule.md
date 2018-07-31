@@ -5,7 +5,7 @@ github:
 nom: Hervé Brulé
 website:
 annees: 2019
-defi: CibNAV
+defis: CibNAV
 profil: Mentor de haut niveau
 images:
   - /img/communaute/herve-brule.png

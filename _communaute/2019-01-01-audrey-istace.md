@@ -5,7 +5,7 @@ github:
 nom: Audrey Istace
 website:
 annees: 2019
-defi: DGCCRF
+defis: DGCCRF
 profil: Mentor
 images:
   - /img/communaute/audrey-istace.png

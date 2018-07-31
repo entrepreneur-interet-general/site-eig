@@ -5,7 +5,7 @@ github: AntoineAugusti
 nom: Antoine Augusti
 website:
 annees: 2018
-defi: Prédisauvetage
+defis: Prédisauvetage
 profil: Développement / Datascience
 images:
   - /img/communaute/Antoine-Augusti.png
