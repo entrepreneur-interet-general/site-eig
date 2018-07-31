@@ -9,9 +9,12 @@ administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
   - nom: Tiphaine Phe-Neau
+    site: /communaute/2018/tiphaine-phe-neau.html
   - nom: Guillaume Lancrenon
-mentor:
-  - nom: Daniel Ansellem 
+    site: /communaute/2018/guillaume-lancrenon.html
+mentors:
+  - nom: Daniel Ansellem
+    site: /communaute/2018/daniel-ansellem.html
 images:
   - /img/defis/4_Previsecours.png
 ---
