@@ -396,17 +396,42 @@ ul.shortcode-list i {
 
 .contain-to-grid.alt .top-bar-section ul li > a {
   color: #333;
-  font-weight: bold;
 }
 .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
   border-top-color: #333;
 }
 .contain-to-grid.alt .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
-  background: #444;
+    background: #f9f9f9;
 }
 .contain-to-grid.alt .top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
-  background: #555;
+    background: #555555;
 }
+
+/* Menu */
+
+.top-bar-section ul li > a {
+  color: #333;
+}
+
+.top-bar-section ul li.lastmenu > a {
+    font-weight: 800;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+    color: #333;
+    background: #f9f9f9;
+}
+.top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
+    color: #333;
+    background: #555555;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover, .contain-to-grid.shadowless .top-bar-section li.active:not(.has-form) a:not(.button) {
+    background: #555555;
+    color: #f9f9f9;
+}
+
+/* Fin modification menu */
 
 .contain-to-grid.transparent {
   -moz-box-shadow: none;
