@@ -7,7 +7,8 @@ website:
 annees: 2019
 defi: Code du travail numérique
 profil: Mentor
-images: xxx
+images: 
+  - /img/communaute/julien-bouquillon.png
 
 ---
 
