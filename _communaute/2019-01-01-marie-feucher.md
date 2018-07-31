@@ -8,7 +8,7 @@ annees: 2019
 defi: CibNAV
 profil: Mentor opérationnel
 images:
-  - /img/communaute/marie-feucher.png
+  - /img/communaute/marie-feucher-2.png
 
 ---
 
