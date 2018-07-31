@@ -15,20 +15,6 @@ boxes:
     text:
       Placeat vel
 
-milestones:
-- from: 0
-  to: 2
-  title: Promotions</br>Une 3ème en perspective
-- from: 0
-  to: 22
-  title: Défis
-- from: 0
-  to: 39
-  title: Entrepreneur·e·s
-- from: 0
-  to: 24
-  title: Mentors
-
 motivations:
   - icon_class: fa fa-adn
     desc: Créer une communauté numérique d'intérêt général qui allie administrations et particuliers.
@@ -215,20 +201,4 @@ piliers:
 	</div>
     </div>
     <div class='one spacing'></div>
-</div>
-
-<div class='one spacing'></div>
-<div class='full parallax' style='background: #f5f5f5;font-size:80%;'>
-    <div class='row'>
-	{% for milestone in page.milestones %}
-	<div class='medium-3 large-3 columns right-border left-border'>
-            <div class='mod modMilestone no-icon'>
-		<strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'>&nbsp;</strong>
-		<span>{{milestone.title}}</span>
-		<div class='spacing'></div>
-            </div>
-	</div>
-	{% endfor %}
-    </div>
-    <div class='four spacing'></div>
 </div>

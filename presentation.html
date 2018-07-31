@@ -1,63 +1,36 @@
 ---
 layout: default
 section_id: presentation
-skills:
-- title: Web Design
-  percent: 84
-- title: Web Development
-  percent: 95
-- title: Site Management
-  percent: 70
-- title: Branding
-  percent: 61
-- title: Branding
-  percent: 61
-- title: Branding
-  percent: 61
-- title: Branding
-  percent: 61
-- title: Branding
-  percent: 61
-- title: Branding
-  percent: 61
-
 milestones:
 - from: 0
-  to: 69
-  title: Projects Completed
+  to: 2
+  title: Promotions</br>Une 3ème en perspective
 - from: 0
-  to: 726
-  title: Cups of coffee offered
+  to: 22
+  title: Défis
 - from: 0
-  to: 59
-  title: Happy clients
+  to: 39
+  title: Entrepreneur·e·s
 - from: 0
-  to: 21
-  title: Articles Published
-
-clients:
-- images/@stock/client-1.png
-- images/@stock/client-2.png
-- images/@stock/client-3.png
-- images/@stock/client-4.png
-- images/@stock/client-5.png
-- images/@stock/client-6.png
+  to: 24
+  title: Mentors
 ---
 
 <div class='full'>
     <div class='row'>
 	<!-- <a href="/img/document.pdf" target="new">Le texte de mon lien</a> -->
 	<div class='large-12 columns'>
-	  <h2>L'ambition du programme Entrepreneur·e d'Intérêt Général</h2>
-	  <div class='one spacing'></div>
+	    <h2>L'ambition du programme Entrepreneur·e d'Intérêt Général</h2>
+	    <div class='one spacing'></div>
 
-	  <p>L’objectif du programme ? Intégrer pour 10 mois des
- 	    profils d’exception dans les administrations pour relever
- 	    des défis numériques grâce aux données publiques.  Comment
- 	    attirer les meilleurs talents du numérique dans les
- 	    administrations et accélérer ainsi leurs projets de
- 	    transformation numérique ?</p>
+	    <p>L’objectif du programme ? Intégrer pour 10 mois des
+ 		profils d’exception dans les administrations pour relever
+ 		des défis numériques grâce aux données publiques.  Comment
+ 		attirer les meilleurs talents du numérique dans les
+ 		administrations et accélérer ainsi leurs projets de
+ 		transformation numérique ?</p>
 
+	    <br/>
       	    <h2>Les étapes du programme Entrepreneur·e d'Intérêt Général</h2>
 	    <div class='two spacing'></div>
       	    <div>
@@ -114,22 +87,7 @@ clients:
 	    <div class='two spacing'></div>
 	</div>
     </div>
-    <div class='three spacing'></div>
-</div>
-
-<div class='full parallax' style='background-image: url(../images/@stock/customers-bg.jpg); color: #fff;'>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <div class='mod modClients' data-slides_to_show='4'>
-		<div class='clients'>
-		    {% for client in page.clients %}
-		    <div><img alt="" src="{{client}}" /></div>
-		    {% endfor %}
-		</div>
-	    </div>
-	</div>
-    </div>
-    <div class='two spacing'></div>
+    <div class='one spacing'></div>
 </div>
 
 <div class='full parallax' style='background: #f5f5f5'>
@@ -145,70 +103,4 @@ clients:
 	{% endfor %}
     </div>
     <div class='four spacing'></div>
-</div>
-
-<div class='full no-padding' style='background: #444; color: #fff'>
-    <div class='two spacing'></div>
-    <div class='mod modCallToAction'>
-	<div class='row'>
-	    <div class='medium-9 large-9 columns'>
-		<p>Like what you see here? Checkout this theme and start to build your site immediately.</p>
-	    </div>
-	    <div class='medium-3 large-3 columns'>
-		<a class='boxed button' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Learn more</a>
-	    </div>
-	</div>
-    </div>
-    <div class='spacing'></div>
-</div>
-
-<div class='full' style='background: #f5f5f5'>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <h3>Our skills</h3>
-	    <div class='spacing'></div>
-	    <div class='mod modBarGraph'>
-		<ul class='bars'>
-		    {% for skill in page.skills %}
-		    <li>
-			<h4 style=''>
-			    {{skill.title}}
-			    <strong>{{skill.percent}}%</strong>
-			</h4>
-			<p class='highlighted' data-percent='{{skill.percent}}'></p>
-		    </li>
-		    {% endfor %}
-		</ul>
-	    </div>
-	</div>
-	<div class='medium-6 columns'>
-	    <h3>The testimonials</h3>
-	    <div class='mod modTestimonials simple'>
-		<div class='row'>
-		    <div class='small-12 columns'>
-			<div class='items'>
-			    {% for t in page.testimonials %}
-			    <div class='item'>
-				<p class='quote'>{{t.text}}</p>
-				<div class='author'>
-				    <p class='author-avatar'>
-					<img alt="" src="{{t.avatar}}" />
-				    </p>
-				    <p class='author-name'>
-					-
-					<strong>
-					    {{t.author}}
-					</strong>
-					, {{t.position}}
-				    </p>
-				</div>
-			    </div>
-			    {% endfor %}
-			</div>
-		    </div>
-		</div>
-	    </div>
-	</div>
-    </div>
-    <div class='two spacing'></div>
 </div>
