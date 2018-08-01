@@ -9,14 +9,17 @@ administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
   - nom: Arnaud Ménard
+	site: /communaute/2018/arnaud-menard.html
   - nom: Adrien Signorino
+	site: /communaute/2018/adrien-signorino.html
 mentors:
   - nom: Marielle Chrisment
+  	site: /communaute/2018/marielle-chrisment.html
   - nom: Rémy Nollet
+  	site: /communaute/2018/remy-nollet.html
 images:
   - /images/@stock/medium-work-1.jpg
   - /images/@stock/medium-work-2.jpg
-published: true
 ---
 
 La mer, une grande étendue bleue capricieuse sur laquelle s’élancent

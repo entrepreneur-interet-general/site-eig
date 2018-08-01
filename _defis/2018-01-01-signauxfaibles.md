@@ -9,9 +9,12 @@ administration-website: https://etalab.gouv.fr
 type: Datascience, développement
 eigs:
   - nom: Pierre Camilleri
+	site: /communaute/2018/pierre-camilleri.html
   - nom: Christophe Ninucci
+	site: /communaute/2018/christophe-ninucci.html
 mentors:
   - nom: Stéphanie Schaer
+	site: /communaute/2018/stephanie-schaer.html
 images:
   - /img/defis/6_Signauxfaibles.png
 ---

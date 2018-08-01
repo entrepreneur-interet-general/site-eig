@@ -9,10 +9,9 @@ administration-website: http://www.afd.fr
 type: Développement
 eigs:
   - nom: Etienne David
-    site: xxx
+    site: /communaute/2017/etienne-david.html
 mentors: 
   - nom: Antoine Chèvre
-    site: xxx
 images:
 ---
 

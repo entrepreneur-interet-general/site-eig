@@ -9,10 +9,14 @@ administration-website: https://etalab.gouv.fr
 type: Développement, ergonomie, design UX/UI
 eigs:
   - nom: Dora Crisan
+  	site: /communaute/2018/dora-crisan.html
   - nom: Jean-Baptiste Le Dévéhat
+	site: /communaute/2018/jean-baptiste-le-devehat.html
 mentors:
   - nom: Marielle Chrisment
+	site: /communaute/2018/marielle-chrisment.html
   - nom: Rémy Nollet
+	site: /communaute/2018/remy-nollet.html
 images:
   - /img/defis/10_brigadenumerique.png
 ---

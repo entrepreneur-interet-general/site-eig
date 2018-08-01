@@ -9,8 +9,10 @@ administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
   - nom: Frédéric Bardolle
+    site: /communaute/2017/frederic-bardolle.html
 mentors: 
   - nom: Adnène Trojette
+    site: /communaute/2017/adnene-trojette.html
 images:
 ---
 

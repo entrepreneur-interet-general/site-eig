@@ -9,8 +9,11 @@ administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
   - nom: Bastien Guerry
+    site: /communaute/2017/bastien-guerry.html
 mentors:
-  - nom: Judith Kagan, Marie-Véronique Leroi, Sophie Cueille
+  - nom: Judith Kagan
+  - nom: Marie-Véronique Leroi
+  - nom: Sophie Cueille
 images:
 ---
 

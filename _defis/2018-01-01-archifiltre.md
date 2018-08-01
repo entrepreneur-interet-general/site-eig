@@ -9,10 +9,14 @@ administration-website: https://etalab.gouv.fr
 type: Développement et datascience
 eigs:
   - nom: Emmanuel Gautier
+	site: /communaute/2018/emmanuel-gautier.html
   - nom: Jean-Baptiste Assouad
+	site: /communaute/2018/jean-baptiste-assouad.html
 mentors: 
   - nom: Chloé Moser
+	site: /communaute/2018/chloe-moser.html
   - nom: Anne Lambert
+	site: /communaute/2018/anne-lambert.html
 images:
   - /img/defis/9_ARCHEMSE.png
 ---

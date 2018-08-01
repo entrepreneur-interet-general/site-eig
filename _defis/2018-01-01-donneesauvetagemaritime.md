@@ -9,10 +9,14 @@ administration-website: https://etalab.gouv.fr
 type: Datascience, ux design, datavisualisation
 eigs:
   - nom: Elsa Luneville
+	site: /communaute/2018/elsa-luneville.html
   - nom: Antoine Augusti
+	site: /communaute/2018/antoine-augusti.html
 mentors:
   - nom: Laurence Matringe
+	site: /communaute/2018/laurence-matringe.html
   - nom: Renaud Périn
+	site: /communaute/2018/renaud-perin.html
 images:
   - /img/defis/1_MTES.png
 ---

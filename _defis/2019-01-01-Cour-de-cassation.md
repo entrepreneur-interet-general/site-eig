@@ -15,9 +15,10 @@ mentors:
 images: xxx
 ---
 
-La Cour de cassation, en lien avec le Ministère de la Justice, souhaite 
-développer et acquérir des techniques de reconnaissance et d’apprentissage
-automatiques de données à pseudonymiser afin de rendre accessibles et 
-réutilisables les décisions de justice. Les résultats de ces travaux 
-pourront largement bénéficier à d’autres types de données et transformer 
-la manière d’écrire, de consolider et de diffuser la jurisprudence.
+La Cour de cassation, en lien avec le Ministère de la Justice,
+souhaite développer et acquérir des techniques de reconnaissance et
+d’apprentissage automatiques de données à pseudonymiser afin de rendre
+accessibles et réutilisables les décisions de justice. Les résultats
+de ces travaux pourront largement bénéficier à d’autres types de
+données et transformer la manière d’écrire, de consolider et de
+diffuser la jurisprudence.

@@ -9,6 +9,7 @@ administration-website: http://www.bnf.fr
 type: Développement
 eigs:
   - nom: Constance de Quatrebarbes
+    site: /communaute/2017/constance-de-quatrebarbes.html
 mentors: 
   - nom: Emmanuel Bermès
 images:

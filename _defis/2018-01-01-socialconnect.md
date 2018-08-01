@@ -9,9 +9,12 @@ administration-website: https://etalab.gouv.fr
 type: Développement, design UX/UI
 eigs:
   - nom: Elise Lalique
+	site: /communaute/2018/elise-lalique.html
   - nom: Julien Paris
+	site: /communaute/2018/julien-paris.html
 mentor:
   - nom: Bénédicte Pachod
+	site: /communaute/2018/benedicte-pachod.html
 images:
   - /img/defis/8_CGET.png
 ---

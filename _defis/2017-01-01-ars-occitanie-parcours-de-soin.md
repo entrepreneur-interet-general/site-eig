@@ -9,6 +9,7 @@ administration-website: https://etalab.gouv.fr
 type: Développement, Data science
 eigs:
   - nom: Sébastien Cossin
+    site: /communaute/2017/sebastien-cossin.html
 mentors: 
   - nom: Didier Hève
 images:

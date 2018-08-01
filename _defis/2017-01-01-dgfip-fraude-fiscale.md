@@ -9,6 +9,7 @@ administration-website: https://portail.dgfip.finances.gouv.fr
 type: Data science
 eigs:
   - nom: Marion Paclot
+    site: /communaute/2017/marion-paclot.html
 mentors: 
   - nom: Philippe Schall
 images:
