@@ -12,12 +12,12 @@ eigs:
   - nom: développeur ou développeuse
   - nom: datascientist.e
 mentors: 
-  - nom: Olivier Brandouy, Pascal Guy, Adnène Trojette
+  - nom: Olivier Brandouy
+  - nom: Pascal Guy
+  - nom: Adnène Trojette
 images: 
-  - /img/defis/Plume_DL1.png
+  - //img/defis/plume-portfolio.png
 ---
-
-Résumé : La Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
 # Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
@@ -53,9 +53,7 @@ Il ou elle aura pour mission la mise en place des outils de text mining (analyse
 
 ## L'équipe autour des EIG 
 
-L'équipe sera placée auprès du secrétaire général adjoint de la Cour des comptes, directeur du centre d'appui métier, ancien co-pilote du programme des EIG (côté Liberté Living-lab). Elle sera partie intégrante du centre d'appui métier, qui est composé de la direction des systèmes d'information, de la direction de la documentation, du pôle « Données », du pôle « Méthodes » et du pôle « Formation ».
-
-Elle pourra bénéficier de postes de travail portables équipés du système d'exploitation de son choix et avec connexion directe à internet, d'une machine virtuelle sous le système d'exploitation de son choix, de la proximité avec la DSI, notamment la startup d'État qu'elle hébergera à compter de septembre 2018, de l'intégration complète aux communautés « data » et « dev » internes aux JF. De plus, un partenariat avec l’institut des systèmes de complexes de Paris île-de-France pourrait permettre de tester des outils de fouille de texte.
+L'équipe sera placée auprès du secrétaire général adjoint de la Cour des comptes, directeur du centre d'appui métier, et sera partie intégrante du centre d'appui métier composé de la direction des systèmes d'information, de la direction de la documentation, du pôle « Données », du pôle « Méthodes » et du pôle « Formation ».
 
 ### Olivier Brandouy
 
