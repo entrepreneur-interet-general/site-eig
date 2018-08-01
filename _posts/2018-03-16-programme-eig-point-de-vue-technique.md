@@ -21,7 +21,7 @@ EIG !  On parle de nos expériences tech lors du bootcamp © Zoe Jung._
 
 # Le bootcamp : un moment de forte cohésion
 
-Soizic Pénicaud (Étalab) l'a très bien raconté dans [cette entrée de
+Soizic Pénicaud (Etalab) l'a très bien raconté dans [cette entrée de
 blog](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/),
 le bootcamp EIG fut un moment important pour la cohésion du groupe :
 nous avons sympathisé et nous avons beaucoup échangé sur tous nos
@@ -32,7 +32,7 @@ découverte des compétences d'un groupe, imaginé par [Sébastien
 Kurt](https://twitter.com/Anachitect)) a donné lieu à un premier
 protoype développé par Philéas Condemine, du défi [Lab
 Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/).
-Paul Schmite d'Étalab a ensuite saisi l'ensemble de ces données et
+Paul Schmite d'Etalab a ensuite saisi l'ensemble de ces données et
 j'ai dans ma TODO liste de proposer une interface web pour les
 explorer de façon interactive.  En attendant, les défis présentent
 leurs outils dans un fichier
@@ -195,14 +195,14 @@ de code.
 
 Au-delà, les EIG de cette deuxième promotion interragissent avec ceux
 de la première et avec les développeurs et les datascientistes
-d'Étalab. C'est par exemple Victor Schmidt du défi
+d'Etalab. C'est par exemple Victor Schmidt du défi
 [Hopkins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/)
 qui fait remonter un souci avec le logo du [site
 EIG](https://entrepreneur-interet-general.etalab.gouv.fr), souci
 auquel répond [Frédéric Bardolle](https://twitter.com/seiteta) de la
 première promotion... ou bien Christophe Ninucci du défi [Signaux
 Faibles](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/)
-qui pose une question à Christian Quest d'Étalab, et leur échange qui
+qui pose une question à Christian Quest d'Etalab, et leur échange qui
 aboutit à la publication d'un [nouveau jeu de
 données](https://www.data.gouv.fr/fr/datasets/historique-des-changements-de-codes-siret/)
 sur https://data.gouv.fr.  Ce sont aussi les EIG qui participent au
@@ -214,7 +214,7 @@ Dévéhat](https://twitter.com/jbledevehat), du défi
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 C'est ce qu'on pourrait appeler le niveau « **EIG²** », quand on
-croise nos ancêtres les EIG 1, nos cousins d'Étalab ou les acteurs de
+croise nos ancêtres les EIG 1, nos cousins d'Etalab ou les acteurs de
 la transformation numérique... comme lorsqu'Emmanuel Gautier, du défi
 [Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/),
 passe un coup de balai après avoir passé la nuit à coder pour [la nuit
