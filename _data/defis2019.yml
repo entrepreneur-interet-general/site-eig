@@ -1,26 +1,26 @@
-- image: /img/defis/balisenav.png
-  title: Améliorer la confiance des consommateurs en détectant des faux avis sur Internet 
+- image: /img/defis/cartobio-portfolio.png
+  title: CartoBio 
   link_to: /defis/2018/balisenav.html
   class: 2018 web
   desc: Design &amp; Développement
 
-- image: /img/defis/archifiltre.png
-  title: Lutter contre les comportements financiers illicites en construisant des réseaux de connaissance
+- image: /img/defis/cibnav-portfolio.png
+  title: CibNAV
   link_to: /defis/2018/archifiltre.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Développement &amp; Datascience
 
-- image: /img/defis/brigadenumerique.png
-  title: Rendre le droit du travail lisible et accessible en mobilisant l'intelligence artificielle 
+- image: /img/defis/iaflash-portfolio.png
+  title: IAflash 
   link_to: /defis/2018/brigadenumerique.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascience
 
-- image: /img/defis/brigadenumerique.png
-  title: Évaluer l'impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous 
+- image: /img/defis/plume-portfolio.png
+  title: Plume 
   link_to: /defis/2018/brigadenumerique.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascienc, Design &amp; Développement
 
 - image: /img/defis/brigadenumerique.png
   title: Aider les réfugiés dans leurs démarches en créant une plateforme d'information adaptée à la diversité culturelle 
