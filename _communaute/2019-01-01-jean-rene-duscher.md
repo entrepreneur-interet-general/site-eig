@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: Code du travail numérique
 profil: Mentor
-images: xx
+images: /img/communaute/photo-duscher-v2.png
 
 ---
 
