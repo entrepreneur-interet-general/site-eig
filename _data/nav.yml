@@ -6,21 +6,23 @@
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
+  - name: Les guides EIG
+    path: guides.html
+  - name: L'équipe EIG
+    path: guides.html
     
 - name: Les défis
   section_id: defis
   path: defis.html
   children:
-  - name: Nos réalisations
+  - name: Les réalisations
     path: realisations.html
-  - name: Les guides
-    path: guides.html
 
 - name: La communauté
   section_id: communaute
   path: communaute.html
   children:
-  - name: Événements
+  - name: Les événements
     path: evenements.html
 
 - name: Le blog
