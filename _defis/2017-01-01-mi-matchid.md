@@ -9,10 +9,10 @@ administration-website: https://etalab.gouv.fr
 type: Développement
 eigs:
   - nom: Martin Gross
-	site: /communaute/2017/martin-gross.html
-mentors: 
+    site: /communaute/2017/martin-gross.html
+mentors:
   - nom: Daniel Ansellem
-	site: /communaute/2018/daniel-ansellem.html
+    site: /communaute/2018/daniel-ansellem.html
 images:
 ---
 

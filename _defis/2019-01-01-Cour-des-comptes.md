@@ -11,14 +11,14 @@ eigs:
   - nom: designeur ou designeuse
   - nom: développeur ou développeuse
   - nom: datascientist.e
-mentors: 
+mentors:
   - nom: Olivier Brandouy
-	site: /communaute/2019/olivier-brandouy.html
+    site: /communaute/2019/olivier-brandouy.html
   - nom: Pascal Guy
-	site: /communaute/2019/pascal-guy.html
+    site: /communaute/2019/pascal-guy.html
   - nom: Adnène Trojette
-	site: /communaute/2018/adnene-trojette.html
-images: 
+    site: /communaute/2018/adnene-trojette.html
+images:
   - //img/defis/plume-portfolio.png
 ---
 
@@ -44,15 +44,15 @@ collaborative.
 
 ### Le défi : contrôler à l’ère du numérique
 
-Le défi proposé à la troisième promotion EIG : 
+Le défi proposé à la troisième promotion EIG :
 
 * **imaginer et prototyper la chaîne de conception, de production et
   de délibération des écrits de la Cour et de CRTC**, voire d’autres
-  services publics, à l’époque des wikis, de Git et de Markdown 
-  
+  services publics, à l’époque des wikis, de Git et de Markdown
+
 * **fouiller les corpus de texte collectés ou élaborés par les
   juridictions financières**.
-  
+
 Ce projet permettra de transformer profondément l’approche des
 juridictions financières dans l’élaboration de leurs écrits en
 facilitant la collaboration au sein des équipes et en refondant le
@@ -100,7 +100,7 @@ requises. Un profil avancé en informatique, notamment en parcours de
 grands graphes et des connaissances en analyse statistique et en IA
 seraient des plus.
 
-## L'équipe autour des EIG 
+## L'équipe autour des EIG
 
 L'équipe sera placée auprès du secrétaire général adjoint de la Cour
 des comptes, directeur du centre d'appui métier, et sera partie

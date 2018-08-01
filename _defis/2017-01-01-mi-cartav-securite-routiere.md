@@ -9,12 +9,12 @@ administration-website: https://www.interieur.gouv.fr
 type: Développement
 eigs:
   - nom: Francis Chabouis
-	site: /communaute/2018/francis-chabouis.html
+    site: /communaute/2018/francis-chabouis.html
   - nom: Tristram Gräbener
-	site: /communaute/2018/tristram-grabener.html
-mentors: 
+    site: /communaute/2018/tristram-grabener.html
+mentors:
   - nom: Daniel Ansellem
-	site: /communaute/2018/daniel-ansellem.html
+    site: /communaute/2018/daniel-ansellem.html
 images:
 ---
 

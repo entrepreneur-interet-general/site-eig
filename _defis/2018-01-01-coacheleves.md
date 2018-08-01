@@ -11,14 +11,14 @@ administration-website: https://etalab.gouv.fr
 type: Datascience
 eigs:
   - nom: David Panou
-	site: /communaute/2018/david-panou.html
+    site: /communaute/2018/david-panou.html
   - nom: Arnaud Rachez
-	site: /communaute/2018/arnaud-rachez.html
+    site: /communaute/2018/arnaud-rachez.html
 mentor:
   - nom: Claudio Cimelli
-	site: /communaute/2018/claudio-cimelli.html
+    site: /communaute/2018/claudio-cimelli.html
   - nom: François Bocquet
-	site: /communaute/2018/francois-bocquet.html
+    site: /communaute/2018/francois-bocquet.html
 images:
   - /img/defis/12_CoachElevesAssistProf.png
 ---
@@ -41,7 +41,7 @@ personnalisé fondé sur les traces numériques laissés par les
 périmètre d’expérimentation pertinent. En parallèle, ils développent
 un outil de cartographie des données sur lequel ils s’appuieront lors
 de la réalisation de l’outil d’accompagnement.
- 
+
  _En savoir plus_
- 
+
  [Le pitch du défi en 4 slides](https://www.slideshare.net/secret/75ef9FN8yeRrYK)
