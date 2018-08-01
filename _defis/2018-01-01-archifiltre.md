@@ -6,7 +6,7 @@ annees: 2018
 mission: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"
 administration: Secrétariat général des ministères sociaux
 administration-website: https://etalab.gouv.fr
-type: Développement
+type: Développement et datascience
 eigs:
   - nom: Emmanuel Gautier
   - nom: Jean-Baptiste Assouad
