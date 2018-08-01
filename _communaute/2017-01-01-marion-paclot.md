@@ -6,6 +6,8 @@ nom: Marion Paclot
 website:
 annees: 2017
 defis: 
+  - nom: DGFiP - Fraude fiscale
+    site: /defis/2017/dgfip-fraude-fiscale.html
 profil: Datascientiste
 images:
   - /img/communaute/Marion-Paclot.png

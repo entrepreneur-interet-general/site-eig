@@ -6,6 +6,8 @@ nom: Frédéric Bardolle
 website:
 annees: 2017
 defis: 
+  - nom: Cour des comptes - une API pour les rapports
+    site: /defis/2017/cc-api-rapports.html
 profil: Développeur
 images:
   - /img/communaute/Frederic-Bardolle.png

@@ -6,6 +6,8 @@ nom: Francis Chabouis
 website:
 annees: 2017
 defis: 
+  - nom: cartAV
+    site: /defis/2017/mi-cartav-securite-routiere.html
 profil: Développeur
 images:
   - /img/communaute/FrancisChabouis.jpg

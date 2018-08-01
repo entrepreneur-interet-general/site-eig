@@ -5,7 +5,9 @@ github: guillim
 nom: Guillaume Lancrenon
 website:
 annees: 2018
-defis: Prévisecours
+defis: 
+  - nom: Prévisecours
+    site: /defis/2018/previsecours.html
 profil: Développement
 images:
   - /img/communaute/Guillaume-Lancrenon.png

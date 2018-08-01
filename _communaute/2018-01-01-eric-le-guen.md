@@ -4,7 +4,9 @@ twitter:
 nom: Éric Le Guen
 website:
 annees: 2018
-defis: B@liseNAV
+defis: 
+  - nom: B@liseNAV
+    site: /defis/2018/balisenav.html
 profil:
 images:
   - /img/communaute/eric-le-guen.jpg

@@ -5,7 +5,9 @@ github: sammous
 nom: Sami Moustachir
 website:
 annees: 2018
-defis: DataESR
+defis: 
+  - nom: DataESR
+    site: /defis/2018/dataesr.html
 profil: Datascience
 images:
   - /img/communaute/SamiMoustachir.png

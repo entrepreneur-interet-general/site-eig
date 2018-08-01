@@ -5,7 +5,9 @@ github: pandav2
 nom: David Panou
 website:
 annees: 2018
-defis: CoachÉlèves
+defis: 
+  - nom: CoachÉlèves
+    site: /defis/2018/coacheleves.html
 profil: Datascience
 images:
   - /img/communaute/DavidPanou.png

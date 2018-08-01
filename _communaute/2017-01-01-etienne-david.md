@@ -6,6 +6,8 @@ nom: Etienne David
 website:
 annees: 2017
 defis: 
+  - nom: AFD - Geodata
+    site: /defis/2017/afd-geodata.html
 profil: Data science
 images:
   - /img/communaute/Etienne-David.png

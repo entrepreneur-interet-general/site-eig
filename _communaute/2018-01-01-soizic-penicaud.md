@@ -4,7 +4,8 @@ twitter: soizicpenicaud
 nom: Soizic Pénicaud
 website:
 annees: 2018
-defis: EIG Node
+defis: 
+  - nom: EIG Node
 profil: 
 images:
   - /img/communaute/soizic_penicaud.jpg

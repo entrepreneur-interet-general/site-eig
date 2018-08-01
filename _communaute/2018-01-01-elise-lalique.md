@@ -4,7 +4,9 @@ twitter:
 nom: Élise Lalique
 website:
 annees: 2018
-defis: SocialConnect
+defis: 
+  - nom: SocialConnect
+    site: /defis/2018/socialconnect.html
 profil: Design UX
 images:
   - /img/communaute/EliseLalique.png

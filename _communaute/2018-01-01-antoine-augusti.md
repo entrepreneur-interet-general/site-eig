@@ -5,7 +5,9 @@ github: AntoineAugusti
 nom: Antoine Augusti
 website:
 annees: 2018
-defis: Prédisauvetage
+defis: 
+  - nom: Prédisauvetage
+    site: /defis/2018/donneesauvetagemaritime.html
 profil: Développement / Datascience
 images:
   - /img/communaute/Antoine-Augusti.png

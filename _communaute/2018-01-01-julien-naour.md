@@ -7,7 +7,9 @@ nom: Julien Naour
 website:
 annees: 2018
 defis: Lab Santé
-profil: Datascience
+profil: 
+  - nom: Datascience
+    site: /defis/2018/datascience.html
 images:
   - /img/communaute/JulienNaour.png
 ---

@@ -6,6 +6,8 @@ nom: Laurent Dupont
 website:
 annees: 2017
 defis: 
+  - nom: MESRI - La machine à données
+    site: /defis/2017/mesri-magical-merge-machine.html
 profil: Développeur
 images:
   - /img/communaute/Laurent-Dupont.png

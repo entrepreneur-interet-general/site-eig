@@ -6,7 +6,9 @@ nom: Jean-Baptiste Le Dévéhat
 website:
 annees: 2018
 defis: EIG team
-profil: Ergonomie
+profil: 
+  - nom: Ergonomie
+    site: /defis/2018/ergonomie.html
 images:
   - /img/communaute/JeanBaptiste-LeDevehat.png
 ---

@@ -4,8 +4,11 @@ twitter: schmitologie
 github: PaulEtalab
 nom: Paul Schmite
 website:
-annees: 2017, 2018
-defis: EIG Node
+annees:
+  - 2017
+  - 2018
+defis: 
+  - nom: EIG Node
 profil: 
 images:
   - /img/communaute/paul_schmite.jpg

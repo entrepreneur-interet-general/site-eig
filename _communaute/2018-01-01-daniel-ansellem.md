@@ -7,7 +7,13 @@ annees:
   - 2017
   - 2018
   - 2019
-defis: CartAV, MatchID, Prévisecours & IA Flash
+defis: 
+  - nom: cartAV
+    site: /defis/2017/mi-cartav-securite-routiere.html
+  - nom: matchID
+    site: /defis/2017/mi-matchid.html
+  - nom: Prévisecours
+    site: /defis/2018/previsecours.html
 profil: 
 images:
   - /img/communaute/Daniel-Ansellem-2.png

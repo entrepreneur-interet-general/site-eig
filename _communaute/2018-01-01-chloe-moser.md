@@ -4,7 +4,9 @@ twitter: archivist_chloe
 nom: Chloé Moser
 website:
 annees: 2018
-defis: ArchiFiltre
+defis: 
+  - nom: ArchiFiltre
+    site: /defis/2018/archifiltre.html
 profil: 
 images:
   - /img/communaute/chloemoser.jpg

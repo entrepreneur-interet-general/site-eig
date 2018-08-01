@@ -4,7 +4,9 @@ twitter: delphinel
 nom: Delphine Lê
 website:
 annees: 2018
-defis: Hopkins
+defis: 
+  - nom: Hopkins
+    site: /defis/2018/hopkins.html
 profil: 
 images:
   - /img/communaute/7_DelphineLE.png

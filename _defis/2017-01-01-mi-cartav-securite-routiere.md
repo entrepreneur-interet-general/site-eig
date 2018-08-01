@@ -5,7 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."
 administration: Ministère de l'Intérieur
-administration-website: https://etalab.gouv.fr
+administration-website: https://www.interieur.gouv.fr
 type: Développement
 eigs:
   - nom: Francis Chabouis

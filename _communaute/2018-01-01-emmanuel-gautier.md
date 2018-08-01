@@ -5,7 +5,9 @@ github: emmanuelgautier1994
 nom: Emmanuel Gautier
 website:
 annees: 2018
-defis: ArchiFiltre
+defis: 
+  - nom: ArchiFiltre
+    site: /defis/2018/archifiltre.html
 profil: Datascientist
 images:
   - /img/communaute/Emmanuel-Gautier.png

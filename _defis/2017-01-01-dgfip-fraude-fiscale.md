@@ -5,7 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Identifier les résidents fiscaux français ayant omis de déclarer des sources de revenus à l’étranger"
 administration: Direction Générale des Finances Publiques
-administration-website: https://etalab.gouv.fr
+administration-website: https://portail.dgfip.finances.gouv.fr
 type: Data science
 eigs:
   - nom: Marion Paclot

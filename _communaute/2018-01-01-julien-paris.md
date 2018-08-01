@@ -5,7 +5,9 @@ github: Jpy
 nom: Julien Paris
 website: http://www.jpylab.com
 annees: 2018
-defis: SocialConnect
+defis: 
+  - nom: SocialConnect
+    site: /defis/2018/socialconnect.html
 profil: Développeur
 images:
   - /img/communaute/JulienParis.png

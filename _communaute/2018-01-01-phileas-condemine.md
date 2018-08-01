@@ -5,7 +5,9 @@ github: phileas-condemine
 nom: Phileas Condemine
 website:
 annees: 2018
-defis: Lab Santé
+defis: 
+  - nom: Lab Santé
+    site: /defis/2018/labsante.html
 profil: Datascience
 images:
   - /img/communaute/PhileasCondemine.png

@@ -4,7 +4,9 @@ twitter:
 nom: Marielle Chrisment
 website:
 annees: 2018
-defis: Brigade Numérique
+defis: 
+  - nom: Brigade Numérique
+    site: /defis/2018/brigadenumerique.html
 profil:
 images:
   - /img/communaute/10.MarielleChrisment.jpg

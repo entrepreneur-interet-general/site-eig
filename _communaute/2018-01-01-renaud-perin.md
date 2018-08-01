@@ -4,7 +4,9 @@ twitter:
 nom: Renaud Périn
 website:
 annees: 2018
-defis: PrédiSauvetage
+defis: 
+  - nom: PrédiSauvetage
+    site: /defis/2018/donneesauvetagemaritime.html
 profil: 
 images:
   - /img/communaute/1_datasauvetage2.jpg

@@ -5,7 +5,9 @@ github: lamat92
 nom: Laurence Matringe
 website:
 annees: 2018
-defis: Prédisauvetage
+defis: 
+  - nom: Prédisauvetage
+    site: /defis/2018/predisauvetage.html
 profil: 
 images:
   - /img/communaute/1_datasauvetage2.jpg

@@ -4,7 +4,9 @@ twitter:
 nom: Stéphanie Schaer
 website:
 annees: 2018
-defis: Signaux Faibles
+defis: 
+  - nom: Signaux Faibles
+    site: /defis/2018/signauxfaibles.html
 profil: 
 images:
   - /img/communaute/6_Photo-SCHAER-st%C3%A9phanie.jpg

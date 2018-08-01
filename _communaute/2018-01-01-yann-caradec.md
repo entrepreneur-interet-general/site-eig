@@ -4,7 +4,9 @@ twitter: y_caradec
 nom: Yann Caradec
 website:
 annees: 2018
-defis: DataESR
+defis: 
+  - nom: DataESR
+    site: /defis/2018/dataesr.html
 profil:
 images:
   - /img/communaute/11.dataESR.jpg

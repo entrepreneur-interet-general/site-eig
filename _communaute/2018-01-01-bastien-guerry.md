@@ -6,7 +6,9 @@ gitlab: bzg
 nom: Bastien Guerry
 website:
 annees: 2017, 2018
-defis: EIG Link
+defis: 
+  - nom: EIG Link
+    site: /defis/2018/eiglink.html
 profil: Développeur
 images:
   - /img/communaute/Bastien-Guerry.png

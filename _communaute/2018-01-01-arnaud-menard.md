@@ -4,7 +4,9 @@ twitter: Nono400
 nom: Arnaud Ménard
 website:
 annees: 2018
-defis: B@liseNAV
+defis: 
+  - nom: B@liseNAV
+    site: /defis/2018/balisenav.html
 profil: Géomatique
 images:
   - /img/communaute/Arnaud-Menard.png

@@ -6,6 +6,8 @@ nom: Léo Bouloc
 website:
 annees: 2017
 defis: 
+  - nom: MESRI - La machine à données
+    site: /defis/2017/mesri-magical-merge-machine.html
 profil: Datascientiste
 images:
   - /img/communaute/Leo-Bouloc.png

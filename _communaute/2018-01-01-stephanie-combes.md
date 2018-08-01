@@ -4,7 +4,9 @@ twitter:
 nom: Stéphanie Combes
 website:
 annees: 2018
-defis: Lab Santé
+defis: 
+  - nom: Lab Santé
+    site: /defis/2018/labsante.html
 profil: 
 images:
   - /img/communaute/2_photostephaniecombes.png

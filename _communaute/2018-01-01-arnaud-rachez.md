@@ -5,7 +5,9 @@ github: zermelozf
 nom: Arnaud Rachez
 website:
 annees: 2018
-defis: CoachÉlèves
+defis: 
+  - nom: CoachÉlèves
+    site: /defis/2018/coacheleves.html
 profil: Datascience
 images:
   - /img/communaute/ArnaudRachez.png
