@@ -8,8 +8,7 @@ annees: 2019
 defis: Code du travail numérique
 profil: Mentor
 images: 
-  - /img/communaute/julien-bouquillon.png
-
+  - /img/communaute/photo-bouquillon-mieux.jpg
 ---
 
 **Julien Bouquillon est responsable technique de l'Incubateur de la DSI des ministères sociaux.**
