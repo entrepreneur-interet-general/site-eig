@@ -19,16 +19,16 @@ images:
   - //img/defis/plume-portfolio.png
 ---
 
-# Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
+## Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
-## La problématique
+### La problématique
 
 L’article 15 de la déclaration des droits de l’Homme et du citoyen dispose que « la société a le droit de demander compte à tout agent public de son administration ». Cet article est le fondement des missions des juridictions financières : s’assurer du bon emploi des 1 292 Md € d’argent public, en informer le citoyen. 
 
 Pour ce faire, comme la plupart des administrations qu’elles contrôlent, la Cour et les chambres régionales et territoriales des comptes (CRTC) produisent des milliers de documents, encore trop souvent imprimés et annotés. Cette méthode, qui répondait parfaitement aux besoins des juridictions financières du XIX<sup>e</sup> siècle et correctement au XX<sup>e</sup> siècle, a trouvé ses limites avec le développement des démarches et des outils numériques de rédaction collaborative.
 
 
-## Le défi : contrôler à l’ère du numérique
+### Le défi : contrôler à l’ère du numérique
 
 Le défi proposé à la troisième promotion EIG : 
 * **imaginer et prototyper la chaîne de conception, de production et de délibération des écrits de la Cour et de CRTC**, voire d’autres services publics, à l’époque des wikis, de Git et de Markdown 
