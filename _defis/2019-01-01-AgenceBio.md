@@ -18,23 +18,23 @@ images: xxx
 
 ## CARTOBIO : Localiser les parcelles bio au service de l’action publique, des territoires et de la simplification
 
-###La problématique 
+### La problématique 
 
 Il n’existe aucune base de données qui permette de suivre les parcelles cultivées en agriculture biologique. Cette problématique a été remontée comme prioritaire par la majorité des acteurs de la BIO car les besoins qui découlent de la visualisation des parcelles BIO sont multiples. Cela permettrait principalement :
 •	d'améliorer et de simplifier des démarches relatives à l’instruction des aides de la politique agricole commune (PAC) et les aller-retours entre les opérateurs, les directions départementales des territoires et les organismes certificateurs ;
 •	d'accompagner les politiques territoriales et environnementales des différents acteurs (SAFER, Agences de l’Eau, collectivités territoriales, parcs naturels, etc..).
 
-###Le défi
+### Le défi
 
 Les données issues du Registre Parcellaire Graphique (RPG) géré dans le cadre des aides PAC, couplées aux données de l’Agence sur les producteurs qui s’engagent en bio, permettraient de simplifier les démarches et d’accompagner les différents acteurs publics ou privés du secteur en attente de soutien dans leurs actions quotidiennes. Cette solution devra être déclinée sur différent canaux de diffusion et avec différents niveaux de confidentialité à la donnée pour répondre aux besoins selon les profils, notamment via des APIs. Ces-cernières permettront également de simplifier et de fiabiliser les contrôles et leur suivi dans le temps.
 
-##2 entrepreneur•e•s recherché•e•s 
+## 2 entrepreneur•e•s recherché•e•s 
 
-###EIG 1 – Un·e géomaticien·nne / BI
+### EIG 1 – Un·e géomaticien·nne / BI
 Compétences principales : SIG (Shapefile, wms/wfs, PostGIS, Geoserver, etc) et modélisation d’une base de données (datawarehousing).
 La connaissance d’un outil de Dataviz est un plus.
 
-###EIG 2 - Un·e développeur·se full stack node JS
+### EIG 2 - Un·e développeur·se full stack node JS
 Compétences principales : expérience en conception d’API REST, maîtrise des méthodes agiles, connaissances en cartographie, JavaScript, SQL.
 
 L’environnement de travail des EIG : postes Windows, un serveur de développement et des licences seront mis à disposition au besoin.
