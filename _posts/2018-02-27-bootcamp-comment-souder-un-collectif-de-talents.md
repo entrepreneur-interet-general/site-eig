@@ -35,7 +35,7 @@ _Mathilde Bras, cheffe de projet EIG, anime un atelier  “cartographie des part
 
 L’interdisciplinarité de la promotion 2 est une force, mais aussi un défi. **La casquette “numérique” des EIG ne les empêche pas d’avoir des parcours et des compétences très différents**. Un data scientist ne fait pas le même métier qu’un développeur ou qu’un designer UX.
 
-L’interdisciplinarité offre donc l’opportunité d’échanger des compétences, mais implique de **s’assurer que tous les membres de la promotion disposent d’un socle d’outils et de connaissances communes pour communiquer et collaborer**. Par exemple, de nombreux outils sont centralisés sur [**Github**](https://github.com/entrepreneur-interet-general) : faire une pull request n’est pas évident pour des personnes n’ayant jamais travaillé dans le milieu du développement !
+L’interdisciplinarité offre donc l’occasion d’échanger des compétences, mais implique de **s’assurer que tous les membres de la promotion disposent d’un socle d’outils et de connaissances communes pour communiquer et collaborer**. Par exemple, de nombreux outils sont centralisés sur [**Github**](https://github.com/entrepreneur-interet-general) : faire une pull request n’est pas évident pour des personnes n’ayant jamais travaillé dans le milieu du développement !
 
 ![De nombreuses personnes s'activent autour d'un tableau blanc recouvert de mots et de dessins.](/img/portfolio/bootcamp/bootcamp2.jpg)
 _Atelier collaboratif inspiré de l'outil [**la bulloterie**](https://twitter.com/la_bulloterie). Les EIG écrivent, sous forme de bulles, les compétences qu’ils veulent acquérir et partager tout au long de l’année. La bulloterie est un projet en CC-by-nc-sa créé par [**Sébastien Kurt**](https://twitter.com/Anachitect), à destination de collectifs et d'association. La documentation complète est disponible [**sur le wiki du projet**](http://wiki.mainstenant.org/wiki/la-bulloterie-presentation)._
@@ -91,7 +91,7 @@ Comme le résume un EIG : _“J'ai terminé la semaine vraiment porté par un é
 _© Liberté Living Lab_
 
 
-Les EIG ont beaucoup apprécié les formats interactifs des ateliers. Nous avons également pu confirmer qu’il était important de créer des opportunités d’interaction et de collaboration entre les 28 EIG et avec leurs mentors, qui sont amenés à travailler dans des administrations différentes au quotidien.
+Les EIG ont beaucoup apprécié les formats interactifs des ateliers. Nous avons également pu confirmer qu’il était important de créer des occasions d’interaction et de collaboration entre les 28 EIG et avec leurs mentors, qui sont amenés à travailler dans des administrations différentes au quotidien.
 
 
 ![Plan d'ensemble d'une quarantaine de personnes autour d'une table, dans une salle de réunion agrémentée de dorures.](/img/portfolio/bootcamp/bootcamp10.jpg)
