@@ -4,7 +4,7 @@ titre: CartoBio
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
-administration: Agence française pour le développement et la promotion de l’agriculture biologique   
+administration: [Agence française pour le développement et la promotion de l’agriculture biologique](http://www.agencebio.org/)   
 administration-website: https://etalab.gouv.fr
 type: ??
 eigs:
@@ -16,7 +16,10 @@ mentors:
 images: xxx
 ---
 
-## CARTOBIO : Localiser les parcelles bio au service de l’action publique, des territoires et de la simplification
+Résumé : l’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio et développer des services (simplifier les instructions des aides, distinguer les parcelles, accompagner les politiques territoriales, etc.).
+
+
+## CartoBIO : Localiser les parcelles bio au service de l’action publique, des territoires et de la simplification
 
 ### La problématique 
 
@@ -62,11 +65,11 @@ Compétences principales : expérience en conception d’API REST,
 maîtrise des méthodes agiles, connaissances en cartographie,
 JavaScript, SQL.
 
-L’environnement de travail des EIG : postes Windows, un serveur de
-développement et des licences seront mis à disposition au besoin.
+_L’environnement de travail des EIG : postes Windows, un serveur de
+développement et des licences seront mis à disposition au besoin_.
 
-Lieu de travail : 6 rue Lavoisier 93100 Montreuil puis 12 Rue Henri
-Rol-Tanguy, 93100 Montreuil
+_Lieu de travail : 6 rue Lavoisier 93100 Montreuil puis 12 Rue Henri
+Rol-Tanguy, 93100 Montreuil_
 
 ## L'équipe autour des EIG
 
