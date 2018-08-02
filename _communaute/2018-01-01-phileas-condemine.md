@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/labsante.html
 profil: Datascience
 images:
-  - /img/communaute/PhileasCondemine.png
+  - /img/communaute/phileas-condemine.png
 ---
 
 « J'ai étudié à l'ENSAE la science actuarielle et la science des
