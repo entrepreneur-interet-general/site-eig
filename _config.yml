@@ -12,7 +12,6 @@ twitter_username: etalab
 github_username:  entrepreneur-interet-general
 
 plugins: [jekyll-paginate]
-gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
