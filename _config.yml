@@ -4,14 +4,15 @@ email: entrepreneur-interet-general@data.gouv.fr
 description: > # this means to ignore newlines until "baseurl:"
   Développeur·euse·s, data scientists, designers, agilistes,
   passionné·e·s de numérique et d’action publique.
-# the subpath of your site, e.g. /blog/
+# The subpath of your site, e.g. /blog/
+# The base hostname & protocol for your site:
 baseurl: ""
-# the base hostname & protocol for your site:
 url: "http://site.eig-forever.org"
 twitter_username: etalab
 github_username:  entrepreneur-interet-general
 
 plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
