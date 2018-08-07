@@ -22,7 +22,7 @@ images:
   - //img/defis/plume-portfolio.png
 ---
 
-Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données (Plume) : la Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+Résumé : la Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
 ## Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
@@ -44,16 +44,17 @@ développement des démarches et des outils numériques de rédaction
 collaborative.
 
 
-### Le défi : développer des outils de rédaction collaborative et d'exploration de données
+### Le défi : développer des outils de rédaction collaborative et d'exploration de données pour transformer les métiers des juridictions financières
 
-Le défi proposé à la troisième promotion EIG :
+Le défi proposé à la troisième promotion EIG est le suivant :
 
 - **imaginer et prototyper la chaîne de conception, de production 
 et de délibération des écrits de la Cour et de CRTC**, voire d’autres
 services publics, à l’époque des wikis, de Git et de Markdown ;
 
 - **fouiller les corpus de texte collectés ou élaborés par les 
-juridictions financières**.
+juridictions financières** pour valoriser la connaissance produite
+par les juridictions financières.
 
 Ce projet permettra de transformer profondément l’approche des
 juridictions financières dans l’élaboration de leurs écrits en
@@ -75,29 +76,32 @@ Trois profils complémentaires sont recherchés.
 
 ### EIG 1 - Un·e designer·euse
 
-Missions principales : le parcours et l’expérience
+**Missions principales** : le parcours et l’expérience
 utilisateur ainsi que la prise en charge de la phase
 exploratoire. 
-Compétences nécessaires : expériences en design de services et d'interfaces
+
+**Compétences nécessaires** : expériences en design de services et d'interfaces
 d'applications numériques (UX/UI).
 
 ### EIG 2 - Un·e développeur·se
 
-Missions principales : développement des différentes briques
+**Missions principales** : développement des différentes briques
 logicielles comme la rédaction collaborative, la gestion de styles, la
 gestion de versions concurrentes... ainsi que la prise en charge  de la phase de développement. 
-Compétences nécessaires : Devops, Python, JS (notamment Angular) et sur Github/Gitlab. Des
+
+**Compétences nécessaires** : Devops, Python, JS (notamment Angular) et sur Github/Gitlab. Des
 expériences de développement d'applications collaboratives, voire
 d'applications de gestion documentaire, seront appréciées.
 
 ### EIG 3 - Un·e datascientist·e
 
-Missions principales : mise en place d'outils de text
+**Missions principales** : mise en place d'outils de text
 mining (analyse de grands corpus, parcours de graphes, restitution et
 visualisation de sens) ainsi que la prise en charge de la phase
 de fouille de texte. 
-Compétences nécessaires : connaissance des graphes (topologie,
-dynamique) et capacité à développer des algorithmes extrayant un
+
+**Compétences nécessaires** : connaissance des graphes (topologie,
+dynamique) et aptitude à développer des algorithmes capable d'extraire un
 sens littéral stabilisé des clusters identifiés dans le graphe sont
 requises. Un profil avancé en informatique, notamment en parcours de
 grands graphes et des connaissances en analyse statistique et en IA
