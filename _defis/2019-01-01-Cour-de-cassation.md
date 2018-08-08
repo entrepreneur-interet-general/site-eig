@@ -23,20 +23,21 @@ Résumé : [la Cour de cassation](https://www.courdecassation.fr/), en lien avec
 
 ### La problématique : rendre les décisions de justice accessibles et réutilisables 
 
-La diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la Loi pour une République numérique. Elle constitue un enjeu essentiel pour l’ensemble des acteurs du droit et de la justice mais également pour tous les citoyens. 
+**Chaque année, près de 3,9 millions de décisions de justice sont rendues chaque année qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 par an sont diffusées en _open data_ et sur le site Légifrance.
 
-**Près de 3,9 millions de décisions de justice sont rendues chaque année et pourraient être susceptibles, à terme, d’être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 par an sont diffusées en open data et sur le site Légifrance.
-
-Le principal obstacle technique à une diffusion plus massive des décisions de justice consiste dans la difficulté des opérations visant à protéger les données personnelles et la vie privée des personnes citées dans ces décisions. **L'enjeu est de « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissances, …) et faciliter ainsi le travail d'enrichissement et de mise à disposition des données.
+Or la diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la [Loi pour une République numérique](https://www.economie.gouv.fr/republique-numerique). Elle constitue un enjeu essentiel d'accès à la jurisprudence -pour les acteurs du droit et de la justice comme pour les citoyens- et de possibilité de réutilisation -notamment pour les entrepreneurs de la _legal tech_.
 
 ### Le défi : développer des solutions fiables de pseudonymisation et d’enrichissement des données 
 
-Le défi consiste à développer des techniques et méthodes de pseudonymisation et d'enrichissement des données des décisions de justice et s'articule selon plusieurs axes : 
+L'obstacle majeure à la diffusion plus massive  des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et la vie privée des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissances, …) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
 
-* **L'amélioration des techniques de reconnaissance automatique** (preuves de concept développés sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) ; 
-* **Le développement d'algorithmes de pseudonymisation automatique des données** : en utilisant des techniques de machine learning et de traitement du langage naturel, développement d'algorithmes visant à limiter le risque de réidentification et le nombre de décision "mal" pseudonymisées ; 
-* **L'enrichissement des données en vue de leur diffusion en open data** ; 
-* **La construction d'outils et d'interfaces** à destination des équipes de la Cour de cassation en charge de la pseudonymisation et de diffusion des décisions de justice. 
+Pour y parvenir, le défi s'articulera autour de plusieurs axes : 
+
+* **l'amélioration des techniques de reconnaissance automatique** (preuves de concept développés sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) ; 
+* **le développement d'algorithmes de pseudonymisation automatique des données** : grâce à des techniques de machine learning et de traitement du langage naturel ;
+* **développement d'algorithmes visant à limiter le risque de réidentification** et le nombre de décision "mal" pseudonymisées ; 
+* **l'enrichissement des données en vue de leur diffusion en open data** grâce à des métadonnées précises et structurées ; 
+* **la construction d'outils et d'interfaces** à destination des équipes de la Cour de cassation en charge de la pseudonymisation et de diffusion des décisions de justice.
 
 Les résultats de ces travaux pourront largement bénéficier à d’autres
 types de données devant être pseudonymisées avant leur diffusion et
@@ -48,27 +49,27 @@ jurisprudence.
 
 ### EIG 1 et EIG 2 - Deux datascientist·e·s
 
-Missions principales : choix, entraînement et paramétrage des
+**Missions principales** : choix, entraînement et paramétrage des
 algorithmes (par exemple : tagger, spaCy,…) pour optimiser les
 résultats attendus (reconnaissance d’éléments identifiants, d’éléments
 sémantiques ou de structure), en premier lieu pour la
 pseudonymisation.
 
-Compétences recherchées : apprentissage automatique (machine learning),
-traitement du langage naturel (natural language processing),
-reconnaissance d’entités nommées (named entity recognition).
+**Compétences recherchées** : apprentissage automatique (_machine learning_),
+traitement du langage naturel (_natural language processing_),
+reconnaissance d’entités nommées (_named entity recognition_).
 
 ### EIG 3 - Un·e développeur·se full stack
 
-Missions principales : selon l’avancement et les développements du
+**Missions principales** : selon l’avancement et les développements du
 projet et les résultats obtenus par les travaux des EIG 1 et 2,
-plusieurs options sont ouvertes (intégration de l’outil de
+plusieurs options sont ouvertes : intégration de l’outil de
 pseudonymisation aux chaînes de traitement de la Cour de cassation,
 interface de contrôle de la pseudonymisation, interface de recherche
 dans les bases de données de jurisprudence pouvant être intégrée au
-site internet de la Cour de cassation…).
+site internet de la Cour de cassation…
 
-Compétences recherchées : front end, back end, admin sys, une
+**Compétences recherchées** : front end, back end, admin sys, une
 connaissance d’Elastic Search est souhaitée.
 
 _L’environnement de travail des EIG : ordinateurs ultra-portables ;
