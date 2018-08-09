@@ -67,8 +67,8 @@ croisement avec des corpus externes pourront éclairer le choix des
 contrôles à lancer en priorité mais aussi aider les magistrats à
 identifier les positions déjà prises par les juridictions financières
 (JF) dans le cadre de travaux précédents. Ce projet sera l’occasion
-d’API-fier les applis « métier » des JF, en vue de leur ouverture à
-l’extérieur, notamment les applis documentaires.
+d’API-fier les applications « métier » des JF, en vue de leur ouverture à
+l’extérieur, notamment les applications documentaires.
 
 ## Les EIG recherché.e.s 
 
