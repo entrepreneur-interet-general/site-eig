@@ -30,16 +30,16 @@ D'autres parties prenantes de l'Agence BIO ont fait remonter leur besoin d'un te
 * **les Sociétés d'Aménagement Foncier et d'Etablissement Rural (SAFER)**, qui souhaitent mieux connaître le foncier agricole pour pouvoir proposer des aménagements territoriaux cohérents ;
 * **des acteurs divers -Agences de l'Eau, collectivités territoriales, parc naturels...**- qui souhaitent définir des politiques territoriales ambitieuses et pertinentes...
 
-### Le défi : proposer des outils d'accès aux données adaptés à chaque partie prenante de l'agriculture biologique
+### Le défi : proposer des outils de mise à disposition des données de l'agriculture biologique
 
 Le défi exploitera les données issues de deux sources :
 * le Registre Parcellaire Graphique (RPG) géré dans le cadre des aides de la Politique agricole commune (PAC)
 * l'Agence BIO ayant à disposition des données sur les producteurs qui s'engagent en bio. 
 
-Les EIG devront proposer des outils d'accès à ces données adaptés aux différentes parties prenantes. Plusieurs solutions sont déjà envisagées :
+Les EIG devront proposer des outils de mise à disposition de ces données adaptés aux besoins des différentes parties prenantes. Plusieurs solutions sont déjà envisagées :
 
 * **une cartographie pour explorer et visualiser les parcelles cultivées en agriculture biologique**, accessible en _open data_ ;
-* **des API** pour diffuser les données pertinentes aux parties prenantes concernées tout en respectant différents niveaux de confidentialité à la donnée.
+* **des API** pour diffuser les données tout en respectant différents niveaux de confidentialité à la donnée.
 
 ## Les EIG recherché.e.s
 
@@ -55,11 +55,11 @@ connaissance d’un outil de Dataviz est un plus.
 maîtrise des méthodes agiles, connaissances en cartographie,
 JavaScript, SQL.
 
-_L’environnement de travail des EIG : postes Windows, un serveur de
-développement et des licences seront mis à disposition au besoin_.
+L’environnement de travail des EIG : postes Windows, un serveur de
+développement et des licences seront mis à disposition au besoin.
 
-_Lieu de travail : 6 rue Lavoisier 93100 Montreuil puis 12 Rue Henri
-Rol-Tanguy, 93100 Montreuil_
+Lieu de travail : 6 rue Lavoisier 93100 Montreuil puis 12 Rue Henri
+Rol-Tanguy, 93100 Montreuil
 
 ## L'équipe autour des EIG
 
