@@ -16,7 +16,7 @@ mentors:
 images: xxx
 ---
 
-Résumé : [l’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO)](http://www.agencebio.org/), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio et développer des services (simplifier les instructions des aides, distinguer les parcelles, accompagner les politiques territoriales, etc.).
+[L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO)](http://www.agencebio.org/), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio et développer des services (simplifier les instructions des aides, distinguer les parcelles, accompagner les politiques territoriales, etc.).
 
 ## CartoBio : faciliter les démarches des acteurs de l'agriculture biologique en mettant à disposition les données pertinentes
 
