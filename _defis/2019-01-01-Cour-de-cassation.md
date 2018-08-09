@@ -16,28 +16,27 @@ mentors:
 images: xxx
 ---
 
-Résumé : [la Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer et acquérir des techniques de reconnaissance et d’apprentissage automatiques de données à pseudonymiser afin de rendre accessibles et réutilisables les décisions de justice. Les résultats de ces travaux pourront largement bénéficier à d’autres types de données et transformer la manière d’écrire, de consolider et de diffuser la jurisprudence.
-
+[La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront la manière d’écrire, de consolider et de diffuser la jurisprudence ; ils pourront largement s'appliquer à d’autres types de données.
 
 ## OpenJustice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
 
 ### La problématique : rendre les décisions de justice accessibles et réutilisables 
 
-**Chaque année, près de 3,9 millions de décisions de justice sont rendues chaque année qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 par an sont diffusées en _open data_ et sur le site Légifrance.
+La diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la [Loi pour une République numérique](https://www.economie.gouv.fr/republique-numerique). De surcroît, elle constitue un enjeu essentiel d'accès à la jurisprudence -pour les acteurs du droit et de la justice comme pour les citoyens- et de possibilité de réutilisation -notamment pour les entrepreneurs de la _legal tech_.
 
-Or la diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la [Loi pour une République numérique](https://www.economie.gouv.fr/republique-numerique). Elle constitue un enjeu essentiel d'accès à la jurisprudence -pour les acteurs du droit et de la justice comme pour les citoyens- et de possibilité de réutilisation -notamment pour les entrepreneurs de la _legal tech_.
+**Chaque année, près de 3,9 millions de décisions de justice sont rendues, qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 sont diffusées en _open data_ et sur le site Légifrance. La cause : chaque décision doit être relue pour s'assurer que toutes les mentions identifiantes ont été anonymisées.
 
 ### Le défi : développer des solutions fiables de pseudonymisation et d’enrichissement des données 
 
-L'obstacle majeure à la diffusion plus massive  des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et la vie privée des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissances, …) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
+L'obstacle majeur à la diffusion plus massive  des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et la vie privée des personnes citées dans ces décisions _(réidentification)_. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance, …) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
 
 Pour y parvenir, le défi s'articulera autour de plusieurs axes : 
 
-* **l'amélioration des techniques de reconnaissance automatique** (preuves de concept développés sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) ; 
+* **l'amélioration des techniques de reconnaissance automatique** (preuves de concept développées sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) _une approche par règles des termes à anonymiser_ ; 
 * **le développement d'algorithmes de pseudonymisation automatique des données** : grâce à des techniques de machine learning et de traitement du langage naturel ;
-* **développement d'algorithmes visant à limiter le risque de réidentification** et le nombre de décision "mal" pseudonymisées ; 
+* **développement d'algorithmes visant à limiter le risque de réidentification** et le nombre de décisions "mal" pseudonymisées ; 
 * **l'enrichissement des données en vue de leur diffusion en open data** grâce à des métadonnées précises et structurées ; 
-* **la construction d'outils et d'interfaces** à destination des équipes de la Cour de cassation en charge de la pseudonymisation et de diffusion des décisions de justice.
+* **la construction d'outils et d'interfaces** à destination des équipes de la Cour de cassation en charge de la pseudonymisation et de la diffusion des décisions de justice.
 
 Les résultats de ces travaux pourront largement bénéficier à d’autres
 types de données devant être pseudonymisées avant leur diffusion et
@@ -63,7 +62,7 @@ reconnaissance d’entités nommées (_named entity recognition_).
 
 **Missions principales** : selon l’avancement et les développements du
 projet et les résultats obtenus par les travaux des EIG 1 et 2,
-plusieurs options sont ouvertes : intégration de l’outil de
+plusieurs options sont envisagées : intégration de l’outil de
 pseudonymisation aux chaînes de traitement de la Cour de cassation,
 interface de contrôle de la pseudonymisation, interface de recherche
 dans les bases de données de jurisprudence pouvant être intégrée au
@@ -97,6 +96,6 @@ associatifs et économiques concernés.
 
 _« La Cour de cassation dispose des deux bases de données nationales de jurisprudence existantes et d’une expertise reconnue en matière de pseudonymisation et de diffusion des décisions de justice. Le dispositif EIG permet de réunir l’ensemble des compétences nécessaires pour offrir un regard neuf sur ces données et mettre en œuvre des techniques de traitement innovantes._
 
-_Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée**, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction. Ils bénéficieront d’une large autonomie pour tenter d’améliorer l’état de l’art et pourront s’appuyer sur une équipe projet diversifiée, intégrant des représentants du ministère de la justice (secrétariat général et direction des services judiciaires)._
+_Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction. Ils bénéficieront d’une large autonomie pour tenter d’améliorer l’état de l’art et pourront s’appuyer sur une équipe projet diversifiée, intégrant des représentants du ministère de la justice (secrétariat général et direction des services judiciaires)._
 
 _Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. Les résultats de ces travaux sont susceptibles d’avoir un impact majeur pour l’institution judiciaire mais également pour toute administration envisageant la diffusion en open data de documents contenant des données personnelles. »_
