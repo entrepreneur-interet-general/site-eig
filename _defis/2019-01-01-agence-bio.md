@@ -26,9 +26,9 @@ Aujourd'hui, lorsqu'un organisme certificateur veut réaliser un contrôle sur u
 
 D'autres parties prenantes de l'Agence BIO ont fait remonter leur besoin d'un tel outil  :
 
-* **les opérateurs et les directions départementales des territoires**, qui souhaitent ainsi simplifier les démarches relatives à l'instruction des aides pour les cultivateurs en agriculture biologique ;
-* **les Sociétés d'Aménagement Foncier et d'Etablissement Rural (SAFER)**, qui souhaitent mieux connaître le foncier agricole pour pouvoir proposer des aménagements territoriaux cohérents ;
-* **des acteurs divers -Agences de l'Eau, collectivités territoriales, parc naturels...**- qui souhaitent définir des politiques territoriales ambitieuses et pertinentes...
+* les opérateurs et les directions départementales des territoires, qui souhaitent ainsi simplifier les démarches relatives à l'instruction des aides pour les cultivateurs en agriculture biologique ;
+* les Sociétés d'Aménagement Foncier et d'Etablissement Rural (SAFER), qui souhaitent mieux connaître le foncier agricole pour pouvoir proposer des aménagements territoriaux cohérents ;
+* des acteurs divers -Agences de l'Eau, collectivités territoriales, parc naturels...- qui souhaitent définir des politiques territoriales ambitieuses et pertinentes...
 
 ### Le défi : proposer des outils de mise à disposition des données de l'agriculture biologique
 
