@@ -22,7 +22,7 @@ images:
   - //img/defis/plume-portfolio.png
 ---
 
-Résumé : la Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+La [Cour des comptes](https://www.ccomptes.fr/en) souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
 ## Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
@@ -95,8 +95,8 @@ d'applications de gestion documentaire, seront appréciées.
 
 ### EIG 3 - Un·e datascientist·e
 
-**Missions principales** : mise en place d'outils de text
-mining (analyse de grands corpus, parcours de graphes, restitution et
+**Missions principales** : mise en place d'outils de _text
+mining_ (analyse de grands corpus, parcours de graphes, restitution et
 visualisation de sens) ainsi que la prise en charge de la phase
 de fouille de texte. 
 
