@@ -28,11 +28,11 @@ La diffusion en _open data_ de l’ensemble des décisions de justice est une ob
 
 ### Le défi : développer des solutions fiables de pseudonymisation et d’enrichissement des données 
 
-L'obstacle majeur à la diffusion plus massive  des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et la vie privée des personnes citées dans ces décisions _(réidentification)_. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance, …) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
+L'obstacle majeur à la diffusion plus massive des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et à éliminer les risques de réidentification des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance, …) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
 
 Pour y parvenir, le défi s'articulera autour de plusieurs axes : 
 
-* **l'amélioration des techniques de reconnaissance automatique** (preuves de concept développées sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) _une approche par règles des termes à anonymiser_ ; 
+* **l'amélioration des techniques de reconnaissance automatique** pour passer d'une approche par règles des termes à anonymiser à une approche par _apprentissage automatique_(preuves de concept développées sur l'identification de la structure des décisions de justice, leur thème et les éléments à occulter) ; 
 * **le développement d'algorithmes de pseudonymisation automatique des données** : grâce à des techniques de machine learning et de traitement du langage naturel ;
 * **développement d'algorithmes visant à limiter le risque de réidentification** et le nombre de décisions "mal" pseudonymisées ; 
 * **l'enrichissement des données en vue de leur diffusion en open data** grâce à des métadonnées précises et structurées ; 
