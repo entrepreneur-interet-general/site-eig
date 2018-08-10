@@ -1,7 +1,9 @@
 - image: /img/defis/balisenav.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
-  class: 2018 web
+  class: 
+  - 2018 
+  - web
   desc: Développement
 
 - image: /img/defis/previsecours.png
