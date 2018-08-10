@@ -8,6 +8,7 @@
   class:
   - 2018
   - eig
+  - datascientist
 
 - image: img/communaute/JeanBaptiste-Assouad.png
   title: Jean-Baptiste Assouad
@@ -18,7 +19,7 @@
   class:
   - 2018
   - eig
-  - 
+  - webdev
   desc: Jean-Baptiste Assouad
 
 - image: img/communaute/Sans-photo.png
@@ -30,7 +31,7 @@
   class:
   - 2018
   - eig
-  - 
+  - datascientist
   desc: Phileas Condemine
 
 - image: img/communaute/Sans-photo.png
@@ -42,7 +43,7 @@
   class:
   - 2018
   - eig
-  - 
+  - datascientist
   desc: Arnaud Rachez
 
 - image: img/communaute/Elsa-Luneville.png
@@ -54,7 +55,7 @@
   class:
   - 2018
   - eig
-  - 
+  - datascientist
   desc: Elsa Luneville
 
 - image: img/communaute/Constance-Quatrebarbes.png
@@ -62,11 +63,11 @@
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   annee: 2018
   profil: Datascience
-  defi: BNF Catalogage
+  defi: BNF - Catalogage
   class:
   - 2017
   - eig
-  - 
+  - datascientist
   desc: Constance de Quatrebarbes
 
 - image: img/communaute/Marion-Paclot.png
@@ -74,11 +75,11 @@
   link_to: /communaute/2017/marion-paclot.html
   annee: 2018
   profil: Datascience
-  defi: DGFIP
+  defi: DGFiP - Fraude fiscale
   class:
   - 2017
   - eig
-  - 
+  - datascientist
   desc: Marion Paclot
 
 - image: img/communaute/JulienParis.png
@@ -90,6 +91,7 @@
   class:
   - 2018
   - eig
+  - webdev
   desc: Julien Paris
 
 - image: img/communaute/Emmanuel-Gautier.png
@@ -101,14 +103,14 @@
   class:
   - 2018
   - eig
-  - 
+  - datascientist
   desc: Emmanuel Gautier
 
 - image: img/communaute/Francois-Bocquet.png
   title: François Bocquet
   link_to: /communaute/2018/françois-bocquet.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: CoachÉlève
   class:
   - 2018
@@ -120,17 +122,18 @@
   link_to: /communaute/2017/frederic-bardolle.html
   annee: 2018
   profil: Développement
-  defi: XXXXXXXXXXXXXXXX
+  defi: CC - API rapports
   class:
   - 2017
   - eig
+  - webdev
   desc: Frédéric Bardolle
 
 - image: img/communaute/9_AnneLambert.jpg
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Archifiltre
   class:
   - 2018
@@ -141,19 +144,19 @@
   title: Laurent Dupont
   link_to: /communaute/2017/laurent-dupont.html
   annee: 2018
-  profil: XXXXXXXXXXX
-  defi: XXXXXXXXXXX
+  profil: Développement
+  defi: MESRI - La machine à données
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Laurent Dupont
 
 - image: img/communaute/Sans-photo.png
   title: Chloé Moser
   link_to: /communaute/2018/chloe-moser.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Archifiltre
   class:
   - 2018
@@ -164,7 +167,7 @@
   title: Delphine Lê
   link_to: /communaute/2018/delphine-le.html
   annee: 2018, 2019
-  profil: 
+  profil: Mentor
   defi: Hopkins
   class:
   - 2018
@@ -176,7 +179,7 @@
   title: Stéphanie Schaer
   link_to: /communaute/2018/stephanie-schaer.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Signaux Faibles
   class:
   - 2018
@@ -192,14 +195,14 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Ned Baldessin
 
 - image: img/communaute/mathilde_bras.jpg
   title: Mathilde Bras
   link_to: /communaute/2018/mathilde-bras.html
   annee: 2017, 2018, 2019
-  profil: 
+  profil: Accompagnement
   defi: Programme EIG
   class:
   - 2017
@@ -213,11 +216,12 @@
   link_to: /communaute/2018/bastien-guerry.html
   annee: 2018
   profil: Développement
-  defi: Inventaire des orgues, EIG Link
+  defi: MCC - Inventaire des orgues, EIG Link
   class:
   - 2017
   - 2018
   - eig
+  - webdev
   desc: Bastien Guerry
 
 - image: img/communaute/Sans-photo.png
@@ -229,25 +233,25 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - designer
   desc: Élise Lalique
 
 - image: img/communaute/Sans-photo.png
   title: Laurence Matringe
   link_to: /communaute/2018/laurence-matringe.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Prédisauvetage
   class:
   - 2018
-  - eig
+  - mentor
   desc: Laurence Matringe
 
 - image: img/communaute/Emmanuel-Weisenburger.png
   title: Emmanuel Weisenburger
   link_to: /communaute/2018/emmanuel-weisenburger.html
   annee: 2018
-  profil:
+  profil: Mentor
   defi: dataESR
   class:
   - 2018
@@ -258,7 +262,7 @@
   title: Daniel Ansellem
   link_to: /communaute/2018/daniel-ansellem.html
   annee: 2017, 2018, 2019
-  profil: 
+  profil: Mentor
   defi: XXXXXXXXXXX
   class:
   - 2017
@@ -276,7 +280,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Paul Boosz
 
 - image: img/communaute/Etienne-David.png
@@ -284,11 +288,11 @@
   link_to: /communaute/2017/etienne-david.html
   annee: 2017
   profil: Développement
-  defi: AFD Geodata
+  defi: AFD - Geodata
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Etienne David
 
 - image: img/communaute/Sans-photo.png
@@ -300,7 +304,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Victor Schmidt
 
 - image: img/communaute/JulienNaour.png
@@ -312,14 +316,14 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Julien Naour
 
 - image: img/communaute/Sans-photo.png
   title: Rémy Nollet
   link_to: /communaute/2018/remy-nollet.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Brigade Numérique
   class:
   - 2018
@@ -335,7 +339,7 @@
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Sébastien Cossin
 
 - image: img/communaute/Tiphaine-PheNeau.png
@@ -347,14 +351,14 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Tiphaine Phe-Neau
 
 - image: img/communaute/Benedicte-Pachod.png
   title: Bénédicte Pachod
   link_to: /communaute/2018/benedicte-pachod.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Social Connect
   class:
   - 2018
@@ -370,7 +374,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Sami Moustachir
 
 - image: img/communaute/Francis-Chabouis.png
@@ -378,11 +382,11 @@
   link_to: /communaute/2017/francis-chabouis.html
   annee: 2017
   profil: Développement
-  defi: cartAV
+  defi: MI - cartAV
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Francis Chabouis
 
 - image: img/communaute/Guillaume-Lancrenon.png
@@ -394,7 +398,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Guillaume Lancrenon
 
 - image: img/communaute/Pierre-Camilleri.png
@@ -406,19 +410,19 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Pierre Camilleri
 
 - image: img/communaute/Martin-Gross.png
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
   annee: 2017
-  profil: Développeur
-  defi: matchID
+  profil: Développement
+  defi: MI - matchID
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Martin Gross
 
 - image: img/communaute/Leo-Bouloc.jpg
@@ -426,11 +430,11 @@
   link_to: /communaute/2017/leo-bouloc.html
   annee: 2017
   profil: Datascience
-  defi: La machine à données
+  defi: MESRI - La machine à données
   class:
   - 2017
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Léo Bouloc
 
 - image: img/communaute/Soizic-Penicaud.png
@@ -438,7 +442,7 @@
   link_to: /communaute/2018/soizic-penicaud.html
   annee: 2017, 2018
   profil: Accompagnement
-  defi: XXXXXXXXXXX
+  defi: Programme EIG
   class:
   - 2017
   - 2018
@@ -448,7 +452,7 @@
   title: Renaud Périn
   link_to: /communaute/2018/renaud-perin.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Prédisauvetage
   class:
   - 2018
@@ -464,14 +468,14 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: David Panou
 
 - image: img/communaute/Sans-photo.png
   title: Stéphanie Combes
   link_to: /communaute/2018/stephanie-combes.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Lab Santé
   class:
   - 2018
@@ -487,7 +491,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Christophe Ninucci
 
 - image: img/communaute/Maxime-Pierrot.png
@@ -499,19 +503,18 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Maxime Pierrot
 
 - image: img/communaute/Sans-photo.png
   title: Marielle Chrisment
   link_to: /communaute/2018/marielle-chrisment.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: Brigade Numérique
   class:
   - 2018
-  - eig
-  - XXXXXXXXXXX
+  - mentor
   desc: Marielle Chrisment
 
 - image: img/communaute/JeanBaptiste-LeDevehat.png
@@ -523,7 +526,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - designer
   desc: Jean-Baptiste Le Dévéhat
 
 - image: img/communaute/Laurie-Chapotte.png
@@ -535,14 +538,14 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - designer
   desc: Laurie Chapotte
 
 - image: img/communaute/Sans-photo.png
   title: Claudio Cimelli
   link_to: /communaute/2018/claudio-cimelli.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: CoachÉlèves
   class:
   - 2018
@@ -554,7 +557,7 @@
   link_to: /communaute/2018/sophie-miljkovic.html
   annee: 2018
   profil: Accompagnement
-  defi: XXXXXXXXXXX
+  defi: Programme EIG
   class:
   - 2018
   desc: Sophie Miljkovic
@@ -564,18 +567,18 @@
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018
   profil: Développement
-  defi: Hopkins
+  defi: Prédisauvetage
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Antoine Augusti
 
 - image: img/communaute/Sans-photo.png
   title: Yann Caradec
   link_to: /communaute/2018/yann-caradec.html
   annee: 2018
-  profil: 
+  profil: Mentor
   defi: dataESR
   class:
   - 2018
@@ -591,7 +594,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Dora Crisan
 
 - image: img/communaute/Samah-Ghalloussi.png
@@ -603,7 +606,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - datascientist
   desc: Samah Ghalloussi
 
 - image: img/communaute/Sans-photo.png
@@ -615,7 +618,7 @@
   class:
   - 2018
   - eig
-  - XXXXXXXXXXX
+  - webdev
   desc: Ambre Arnaud
 
 - image: img/communaute/Sans-photo.png
@@ -623,7 +626,7 @@
   link_to: /communaute/2018/paul-schmite.html
   annee: 2018
   profil: Accompagnement
-  defi: XXXXXXXXXXX
+  defi: Programme EIG
   class:
   - 2017
   - 2018
@@ -634,8 +637,8 @@
   link_to: /communaute/2019/simon-karleskind.html
   desc: Simon Karleskind
   annee: 2019
-  profil: XXXXXXXXXXX
-  defi: "AGI'R"
+  profil: Mentor
+  defi: AGI'R
   class:
   - 2019
   - mentor
