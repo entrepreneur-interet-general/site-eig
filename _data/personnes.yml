@@ -1,3 +1,190 @@
+- image: img/communaute/alain-regnier.png
+  title: Alain Régnier
+  link_to: /communaute/2019/alain-regnier.html
+  annee: 2019
+  profil: Mentor
+  defi: Agi'R
+  class:
+  - 2019
+  - mentor
+  desc: Alain Régnier
+
+- image: img/communaute/audrey-istace.png
+  title: Audrey Istace
+  link_to: /communaute/2019/audrey-istace.html
+  annee: 2019
+  profil: Mentor
+  defi: PolyGraphe
+  class:
+  - 2019
+  - mentor
+  desc: Audrey Istace
+
+- image: img/communaute/herve-brule.png
+  title: Hervé Brulé
+  link_to: /communaute/2019/herve-brule.html
+  annee: 2019
+  profil: Mentor
+  defi: CibNAV
+  class:
+  - 2019
+  - mentor
+  desc: Hervé Brulé
+  
+- image: img/communaute/photo-duscher-v2.png
+  title: Jean-René Duscher
+  link_to: /communaute/2019/jean-rene-duscher.html
+  annee: 2019
+  profil: Mentor
+  defi: Code du travail numérique
+  class:
+  - 2019
+  - mentor
+  desc: Jean-René Duscher
+  
+- image: img/communaute/marie-feucher-2.png
+  title: Marie Feucher
+  link_to: /communaute/2019/marie-feucher.html
+  annee: 2019
+  profil: Mentor
+  defi: CibNAV
+  class:
+  - 2019
+  - mentor
+  desc: Marie Feucher
+  
+- image: img/communaute/julien-bouquillon.png
+  title: Julien Bouquillon
+  link_to: /communaute/2019/julien-bouquillon.html
+  annee: 2019
+  profil: Mentor
+  defi: Code du travail numérique
+  class:
+  - 2019
+  - mentor
+  desc: Julien Bouquillon
+  
+- image: img/communaute/Photo-DorianFLECHET.png
+  title: Dorian Flechet
+  link_to: /communaute/2019/dorian-flechet.html
+  annee: 2019
+  profil: Mentor
+  defi: CartoBIO
+  class:
+  - 2019
+  - mentor
+  desc: Dorian Flechet
+  
+- image: img/communaute/adnene-trojette.png
+  title: Adnène Trojette
+  link_to: /communaute/2019/adnene-trojette.html
+  annee: 2019
+  profil: Mentor
+  defi: Plume
+  class:
+  - 2019
+  - mentor
+  desc: Adnène Trojette
+  
+- image: img/communaute/Sans-photo.png
+  title: Olivier Brandouy
+  link_to: /communaute/2019/olivier-brandouy.html
+  annee: 2019
+  profil: Mentor
+  defi: Plume
+  class:
+  - 2019
+  - mentor
+  desc: Olivier Brandouy
+  
+- image: img/communaute/anne-sophie-hutin.png
+  title: Anne-Sophie Hutin
+  link_to: /communaute/2019/anne-sophie-hutin.html
+  annee: 2019
+  profil: Mentor
+  defi: Préjudices corporels
+  class:
+  - 2019
+  - mentor
+  desc: Anne-Sophie Hutin
+  
+- image: img/communaute/Photo-SamirKEBLI.png
+  title: Samir Kebli
+  link_to: /communaute/2019/samir-kebli.html
+  annee: 2019
+  profil: Mentor
+  defi: CartoBIO
+  class:
+  - 2019
+  - mentor
+  desc: Samir Kebli
+  
+- image: img/communaute/Sans-photo.png
+  title: Pascal Guy
+  link_to: /communaute/2019/pascal-guy.html
+  annee: 2019
+  profil: Mentor
+  defi: Plume
+  class:
+  - 2019
+  - mentor
+  desc: Pascal Guy
+  
+- image: img/communaute/Sans-photo.png
+  title: Edouard Rottier
+  link_to: /communaute/2019/edouard-rottier.html
+  annee: 2019
+  profil: Mentor
+  defi: OpenJustice
+  class:
+  - 2019
+  - mentor
+  desc: Edouard Rottier
+  
+- image: img/communaute/iana-ivanov.jpg
+  title: Iana Ivanov
+  link_to: /communaute/2019/iana-ivanov.html
+  annee: 2019
+  profil: Mentor
+  defi: Préjudices Corporels
+  class:
+  - 2019
+  - mentor
+  desc: Iana Ivanov
+  
+- image: img/communaute/laurent-toustou.png
+  title: Laurent Toustou
+  link_to: /communaute/2019/laurent-toustou.html
+  annee: 2019
+  profil: Mentor
+  defi: Arcep
+  class:
+  - 2019
+  - mentor
+  desc: Laurent Toustou
+  
+- image: img/communaute/Sans-photo.png
+  title: Patricia Poulet-Mathis
+  link_to: /communaute/2019/patricia-poulet-mathis.html
+  annee: 2019
+  profil: Mentor
+  defi: ACOSS
+  class:
+  - 2019
+  - mentor
+  desc: Patricia Poulet-Mathis
+  
+- image: img/communaute/Sans-photo.png
+  title: Nicolas Bizet
+  link_to: /communaute/2019/nicolas-bizet.html
+  annee: 2019
+  profil: Mentor
+  defi: ACOSS
+  class:
+  - 2019
+  - mentor
+  desc: Nicolas Bizet
+   
 - image: img/communaute/Benoit-Guigal.png
   title: Benoît Guigal
   link_to: /communaute/2018/benoit-guigal.html
@@ -9,6 +196,7 @@
   - 2018
   - eig
   - datascientist
+  desc : Benoît Guigal
 
 - image: img/communaute/JeanBaptiste-Assouad.png
   title: Jean-Baptiste Assouad
@@ -33,7 +221,7 @@
   - eig
   - datascientist
   desc: Phileas Condemine
-
+  
 - image: img/communaute/Sans-photo.png
   title: Arnaud Rachez
   link_to: /communaute/2018/arnaud-rachez.html
@@ -45,7 +233,7 @@
   - eig
   - datascientist
   desc: Arnaud Rachez
-
+   
 - image: img/communaute/Elsa-Luneville.png
   title: Elsa Luneville
   link_to: /communaute/2018/elsa-luneville.html
@@ -106,7 +294,7 @@
   - datascientist
   desc: Emmanuel Gautier
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/françois-bocquet.png
   title: François Bocquet
   link_to: /communaute/2018/françois-bocquet.html
   annee: 2018
@@ -354,7 +542,7 @@
   - datascientist
   desc: Tiphaine Phe-Neau
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/benedicte-pachod.png
   title: Bénédicte Pachod
   link_to: /communaute/2018/benedicte-pachod.html
   annee: 2018
@@ -401,7 +589,7 @@
   - webdev
   desc: Guillaume Lancrenon
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/pierre-camilleri.png
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
   annee: 2018
@@ -425,7 +613,7 @@
   - webdev
   desc: Martin Gross
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/Leo-Bouloc.png
   title: Léo Bouloc
   link_to: /communaute/2017/leo-bouloc.html
   annee: 2017
@@ -609,7 +797,7 @@
   - datascientist
   desc: Samah Ghalloussi
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/ambre-arnaud.png
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
   annee: 2018
