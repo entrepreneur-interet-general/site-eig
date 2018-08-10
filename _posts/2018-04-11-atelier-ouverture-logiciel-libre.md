@@ -121,7 +121,7 @@ minimum (publier le code sous une licence libre) à un projet qui tente
 de jouer à fond la carte de l’open source.  Ces degrés sont présentés
 dans [cette page](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org#des-degr%25C3%25A9s-douverture-des-projets-libres) - là aussi, vos retours sont les bienvenus.
 
-L’atelier s’est clôt sur l’engagement d’ouvrir et de partager autant
+L’atelier s’est clos sur l’engagement d’ouvrir et de partager autant
 que possible les outils développés dans le cadre du programme.  Les
 codes seront progressivement mis à jour sur [le compte d’organisation
 Github EIG](https://github.com/entrepreneur-interet-general/) - suivez-nous !
