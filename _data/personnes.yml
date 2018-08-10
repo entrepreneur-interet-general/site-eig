@@ -3,7 +3,7 @@
   link_to: /communaute/2018/benoit-guigal.html
   desc: Benoît Guigal
   annee: 2018
-  profil: Data Engineer
+  profil: Datascience
   defi: Hopkins
   class:
   - 2018
@@ -13,74 +13,80 @@
   title: Jean-Baptiste Assouad
   link_to: /communaute/2018/jean-baptiste-assouad.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Archifiltre
   class:
   - 2018
   - eig
+  - 
   desc: Jean-Baptiste Assouad
 
 - image: img/communaute/Sans-photo.png
   title: Philéas Condemine
   link_to: /communaute/2018/phileas-condemine.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Lab Santé
   class:
   - 2018
   - eig
+  - 
   desc: Phileas Condemine
 
 - image: img/communaute/Sans-photo.png
   title: Arnaud Rachez
   link_to: /communaute/2018/arnaud-rachez.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: CoachÉlève
   class:
   - 2018
   - eig
+  - 
   desc: Arnaud Rachez
 
 - image: img/communaute/Elsa-Luneville.png
   title: Elsa Luneville
   link_to: /communaute/2018/elsa-luneville.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Prédisauvetage
   class:
   - 2018
   - eig
+  - 
   desc: Elsa Luneville
 
 - image: img/communaute/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: BNF Catalogage
   class:
   - 2017
   - eig
+  - 
   desc: Constance de Quatrebarbes
 
 - image: img/communaute/Marion-Paclot.png
   title: Marion Paclot
   link_to: /communaute/2017/marion-paclot.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: DGFIP
   class:
   - 2017
   - eig
+  - 
   desc: Marion Paclot
 
 - image: img/communaute/JulienParis.png
   title: Julien Paris
   link_to: /communaute/2018/julien-paris.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: SocialConnect
   class:
   - 2018
   - eig
@@ -90,19 +96,20 @@
   title: Emmanuel Gautier
   link_to: /communaute/2018/emmanuel-gautier.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Archifiltre
   class:
   - 2018
   - eig
+  - 
   desc: Emmanuel Gautier
 
 - image: img/communaute/Francois-Bocquet.png
   title: François Bocquet
   link_to: /communaute/2018/françois-bocquet.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: CoachÉlève
   class:
   - 2018
   - mentor
@@ -112,8 +119,8 @@
   title: Frédéric Bardolle
   link_to: /communaute/2017/frederic-bardolle.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: XXXXXXXXXXXXXXXX
   class:
   - 2017
   - eig
@@ -123,8 +130,8 @@
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Archifiltre
   class:
   - 2018
   - mentor
@@ -134,19 +141,20 @@
   title: Laurent Dupont
   link_to: /communaute/2017/laurent-dupont.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: XXXXXXXXXXX
+  defi: XXXXXXXXXXX
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Laurent Dupont
 
 - image: img/communaute/Sans-photo.png
   title: Chloé Moser
   link_to: /communaute/2018/chloe-moser.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Archifiltre
   class:
   - 2018
   - mentor
@@ -155,11 +163,12 @@
 - image: img/communaute/7_DelphineLE.png
   title: Delphine Lê
   link_to: /communaute/2018/delphine-le.html
-  annee: 2018
-  profil: Data Engineer
+  annee: 2018, 2019
+  profil: 
   defi: Hopkins
   class:
   - 2018
+  - 2019
   - mentor
   desc: Delphine Lê
 
@@ -167,8 +176,8 @@
   title: Stéphanie Schaer
   link_to: /communaute/2018/stephanie-schaer.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Signaux Faibles
   class:
   - 2018
   - mentor
@@ -178,22 +187,24 @@
   title: Ned Baldessin
   link_to: /communaute/2018/ned-baldessin.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Gobelins
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Ned Baldessin
 
 - image: img/communaute/mathilde_bras.jpg
   title: Mathilde Bras
   link_to: /communaute/2018/mathilde-bras.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017, 2018, 2019
+  profil: 
+  defi: Programme EIG
   class:
   - 2017
   - 2018
+  - 2019
   - mentor
   desc: Mathilde Bras
 
@@ -201,8 +212,8 @@
   title: Bastien Guerry
   link_to: /communaute/2018/bastien-guerry.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Inventaire des orgues, EIG Link
   class:
   - 2017
   - 2018
@@ -213,19 +224,20 @@
   title: Élise Lalique
   link_to: /communaute/2018/elise-lalique.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Design
+  defi: Social Connect
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Élise Lalique
 
 - image: img/communaute/Sans-photo.png
   title: Laurence Matringe
   link_to: /communaute/2018/laurence-matringe.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Prédisauvetage
   class:
   - 2018
   - eig
@@ -235,8 +247,8 @@
   title: Emmanuel Weisenburger
   link_to: /communaute/2018/emmanuel-weisenburger.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil:
+  defi: dataESR
   class:
   - 2018
   - mentor
@@ -245,11 +257,13 @@
 - image: img/communaute/Daniel-Ansellem-2.png
   title: Daniel Ansellem
   link_to: /communaute/2018/daniel-ansellem.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017, 2018, 2019
+  profil: 
+  defi: XXXXXXXXXXX
   class:
+  - 2017
   - 2018
+  - 2019
   - mentor
   desc: Daniel Ansellem
 
@@ -257,52 +271,56 @@
   title: Paul Boosz
   link_to: /communaute/2018/paul-boosz.html
   annee: 2018
-  profil: Data Engineer
+  profil: Datascience
   defi: Hopkins
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Paul Boosz
 
 - image: img/communaute/Etienne-David.png
   title: Etienne David
   link_to: /communaute/2017/etienne-david.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017
+  profil: Développement
+  defi: AFD Geodata
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Etienne David
 
 - image: img/communaute/Sans-photo.png
   title: Victor Schmidt
   link_to: /communaute/2018/victor-schmidt.html
   annee: 2018
-  profil: Data Engineer
+  profil: Datascience
   defi: Hopkins
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Victor Schmidt
 
 - image: img/communaute/JulienNaour.png
   title: Julien Naour
   link_to: /communaute/2018/julien-naour.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Lab Santé
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Julien Naour
 
 - image: img/communaute/Sans-photo.png
   title: Rémy Nollet
   link_to: /communaute/2018/remy-nollet.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Brigade Numérique
   class:
   - 2018
   - mentor
@@ -311,31 +329,33 @@
 - image: img/communaute/Sebastien-Cossin.png
   title: Sébastien Cossin
   link_to: /communaute/2017/sebastien-cossin.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017
+  profil: Développement
+  defi: XXXXXXXXXXX
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Sébastien Cossin
 
 - image: img/communaute/Tiphaine-PheNeau.png
   title: Tiphaine Phe-Neau
   link_to: /communaute/2018/tiphaine-phe-neau.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Prévisecours
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Tiphaine Phe-Neau
 
 - image: img/communaute/Benedicte-Pachod.png
   title: Bénédicte Pachod
   link_to: /communaute/2018/benedicte-pachod.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Social Connect
   class:
   - 2018
   - mentor
@@ -345,74 +365,80 @@
   title: Sami Moustachir
   link_to: /communaute/2018/sami-moustachir.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: dataESR
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Sami Moustachir
 
 - image: img/communaute/Francis-Chabouis.png
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017
+  profil: Développement
+  defi: cartAV
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Francis Chabouis
 
 - image: img/communaute/Guillaume-Lancrenon.png
   title: Guillaume Lancrenon
   link_to: /communaute/2018/guillaume-lancrenon.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Prévisecours
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Guillaume Lancrenon
 
 - image: img/communaute/Pierre-Camilleri.png
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Signaux Faibles
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Pierre Camilleri
 
 - image: img/communaute/Martin-Gross.png
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017
+  profil: Développeur
+  defi: matchID
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Martin Gross
 
 - image: img/communaute/Leo-Bouloc.jpg
   title: Léo Bouloc
   link_to: /communaute/2017/leo-bouloc.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017
+  profil: Datascience
+  defi: La machine à données
   class:
   - 2017
   - eig
+  - XXXXXXXXXXX
   desc: Léo Bouloc
 
 - image: img/communaute/Soizic-Penicaud.png
   title: Soizic Pénicaud
   link_to: /communaute/2018/soizic-penicaud.html
-  annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  annee: 2017, 2018
+  profil: Accompagnement
+  defi: XXXXXXXXXXX
   class:
   - 2017
   - 2018
@@ -422,8 +448,8 @@
   title: Renaud Périn
   link_to: /communaute/2018/renaud-perin.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Prédisauvetage
   class:
   - 2018
   - mentor
@@ -433,19 +459,20 @@
   title: David Panou
   link_to: /communaute/2018/david-panou.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: CoachÉlève
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: David Panou
 
 - image: img/communaute/Sans-photo.png
   title: Stéphanie Combes
   link_to: /communaute/2018/stephanie-combes.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Lab Santé
   class:
   - 2018
   - mentor
@@ -455,63 +482,68 @@
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Signaux Faibles
   class:
   - 2018
-  - mentor
+  - eig
+  - XXXXXXXXXXX
   desc: Christophe Ninucci
 
 - image: img/communaute/Maxime-Pierrot.png
   title: Maxime Pierrot
   link_to: /communaute/2018/maxime-pierrot.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: dataESR
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Maxime Pierrot
 
 - image: img/communaute/Sans-photo.png
   title: Marielle Chrisment
   link_to: /communaute/2018/marielle-chrisment.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: Brigade Numérique
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Marielle Chrisment
 
 - image: img/communaute/JeanBaptiste-LeDevehat.png
   title: Jean-Baptiste Le Dévéhat
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Design
+  defi: Brigade Numérique
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Jean-Baptiste Le Dévéhat
 
 - image: img/communaute/Laurie-Chapotte.png
   title: Laurie Chapotte
   link_to: /communaute/2018/laurie-chapotte.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Design
+  defi: Gobelins
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Laurie Chapotte
 
 - image: img/communaute/Sans-photo.png
   title: Claudio Cimelli
   link_to: /communaute/2018/claudio-cimelli.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: CoachÉlèves
   class:
   - 2018
   - mentor
@@ -521,8 +553,8 @@
   title: Sophie Miljkovic
   link_to: /communaute/2018/sophie-miljkovic.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Accompagnement
+  defi: XXXXXXXXXXX
   class:
   - 2018
   desc: Sophie Miljkovic
@@ -531,19 +563,20 @@
   title: Antoine Augusti
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018
-  profil: Data Engineer
+  profil: Développement
   defi: Hopkins
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Antoine Augusti
 
 - image: img/communaute/Sans-photo.png
   title: Yann Caradec
   link_to: /communaute/2018/yann-caradec.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: 
+  defi: dataESR
   class:
   - 2018
   - mentor
@@ -553,41 +586,44 @@
   title: Dora Crisan
   link_to: /communaute/2018/dora-crisan.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: Brigade Numérique
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Dora Crisan
 
 - image: img/communaute/Samah-Ghalloussi.png
   title: Samah Ghalloussi
   link_to: /communaute/2018/samah-ghalloussi.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Datascience
+  defi: Lab Santé
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Samah Ghalloussi
 
 - image: img/communaute/Sans-photo.png
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Développement
+  defi: dataESR
   class:
   - 2018
   - eig
+  - XXXXXXXXXXX
   desc: Ambre Arnaud
 
 - image: img/communaute/Sans-photo.png
   title: Paul Schmite
   link_to: /communaute/2018/paul-schmite.html
   annee: 2018
-  profil: Data Engineer
-  defi: Hopkins
+  profil: Accompagnement
+  defi: XXXXXXXXXXX
   class:
   - 2017
   - 2018
@@ -598,7 +634,7 @@
   link_to: /communaute/2019/simon-karleskind.html
   desc: Simon Karleskind
   annee: 2019
-  profil: xxx
+  profil: XXXXXXXXXXX
   defi: "AGI'R"
   class:
   - 2019
