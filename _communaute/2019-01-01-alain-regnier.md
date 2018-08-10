@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 github: 
-nom: Simon Karleskind
+nom: Alain Régnier
 website:
 annees: 2019
 defis: Agi'R
