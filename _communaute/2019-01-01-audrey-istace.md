@@ -5,7 +5,9 @@ github:
 nom: Audrey Istace
 website:
 annees: 2019
-defis: DGCCRF
+defis: 
+- nom: PolyGraphe
+- site: /defis/2019/DGCCRF.html
 profil: Mentor
 images:
   - /img/communaute/audrey-istace.png
