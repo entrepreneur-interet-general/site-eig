@@ -10,7 +10,7 @@ type: Développement, Datascience & Design
 eigs:
   - nom: Un·e designer·euse
   - nom: Un·e développeur·se
-  - nom: Un·e datascientist.e
+  - nom: Un·e datascientist·e
 mentors:
   - nom: Olivier Brandouy
     site: /communaute/2019/olivier-brandouy.html
