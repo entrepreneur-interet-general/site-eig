@@ -7,6 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Plume
+  - site: /defis/2019/Cour-des-comptes.html
 profil: Mentor
 images:
   - /img/communaute/adnene-trojette.png
