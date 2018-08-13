@@ -9,7 +9,7 @@
 
 - image: /img/defis/cibnav-portfolio.png
   title: CibNAV
-  link_to: /defis/2019/dam.html
+  link_to: /defis/2019/DAM.html
   class: 
   - 2019 
   - data 
@@ -18,7 +18,7 @@
 
 - image: /img/defis/iaflash-portfolio.png
   title: IAflash 
-  link_to: /defis/2019/minint.html
+  link_to: /defis/2019/MinInt.html
   class: 
   - 2019 
   - data
@@ -26,7 +26,7 @@
 
 - image: /img/defis/plume-portfolio.png
   title: Plume 
-  link_to: /defis/2019/cour-des-comptes.html
+  link_to: /defis/2019/Cour-des-comptes.html
   class: 
   - 2019 
   - data 
@@ -36,7 +36,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Le Carrefou'R 
-  link_to: /defis/2019/diair.html
+  link_to: /defis/2019/DIAIR.html
   class: 
   - 2019 
   - web 
@@ -45,7 +45,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Préjudices corporels 
-  link_to: /defis/2019/minju.html
+  link_to: /defis/2019/MinJu.html
   class: 
   - 2019 
   - data
@@ -53,7 +53,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: ACOSS-Plateforme 
-  link_to: /defis/2019/urssaf.html
+  link_to: /defis/2019/Urssaf.html
   class: 
   - 2019
   - web 
@@ -62,7 +62,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Open Chronic 
-  link_to: /defis/2019/drees.html
+  link_to: /defis/2019/DREES.html
   class: 
   - 2019
   - data
@@ -70,7 +70,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Open Justice
-  link_to: /defis/2019/cour-de-cassation.html
+  link_to: /defis/2019/Cour-de-cassation.html
   class: 
   - 2019
   - data 
@@ -79,7 +79,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Arcep 
-  link_to: /defis/2019/arcep.html
+  link_to: /defis/2019/ARCEP.html
   class: 
   - 2019 
   - data
@@ -87,7 +87,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: EIG Link
-  link_to: /defis/2019/etalab.html
+  link_to: /defis/2019/Etalab.html
   class: 
   - 2019
   - web
@@ -96,7 +96,7 @@
 
 - image: /img/defis/brigadenumerique.png
   title: Adler
-  link_to: /defis/2019/macp.html
+  link_to: /defis/2019/MACP.html
   class: 
   - 2019
   - data
@@ -104,7 +104,7 @@
   
 - image: /img/defis/brigadenumerique.png
   title: LexImpact
-  link_to: /defis/2019/dinsic.html
+  link_to: /defis/2019/DINSIC.html
   class: 
   - 2019
   - web
@@ -113,7 +113,7 @@
   
 - image: /img/defis/brigadenumerique.png
   title: ExploCode
-  link_to: /defis/2019/dgt.html
+  link_to: /defis/2019/DGT.html
   class: 
   - 2019
   - data
@@ -121,7 +121,7 @@
   
 - image: /img/defis/brigadenumerique.png
   title: PolyGraphe
-  link_to: /defis/2019/dgccrf.html
+  link_to: /defis/2019/DGCCRF.html
   class: 
   - 2019
   - data
