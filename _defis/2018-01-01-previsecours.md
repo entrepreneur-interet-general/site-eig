@@ -27,8 +27,6 @@ Tiphaine et Guillaume travaillent avec les sapeurs-pompiers de l’Essonne sur l
 
 _Pour aller plus loin_
 
-[Le github](https://github.com/previsecours) du défi
-
-[Le site](http://previsecours.fr/) du défi
-
-[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prvisecours/1)
+* [Le github](https://github.com/previsecours) du défi
+* [Le site](http://previsecours.fr/) du défi
+* [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prvisecours/1)
