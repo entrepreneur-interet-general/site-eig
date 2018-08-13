@@ -222,6 +222,18 @@ ul.shortcode-list i {
   background-color: #006cb0;
 }
 
+.button.red {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+  background: #b01818;
+  border: 2px solid #b01818;
+}
+
+.button.red:hover {
+  background-color: #871212;
+}
+
 .button.boxed {
     margin-top: 1.2rem;
     font-size: 1.2rem;
@@ -3268,7 +3280,8 @@ body {
 .top-bar-section ul li > a {font-size: .9rem;}
 
 p img {
-    width: 250px;
+    width: 200px;
+    /* height: 200px; */
     margin: .5em;
     float: left;
 }
