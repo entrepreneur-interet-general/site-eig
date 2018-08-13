@@ -3267,6 +3267,12 @@ body {
 
 .top-bar-section ul li > a {font-size: .9rem;}
 
+p img {
+    width: 250px;
+    margin: .5em;
+    float: left;
+}
+
 @media only screen and (max-width: 60em) {
   .modTeamMember .overlay {
     opacity: 1;
