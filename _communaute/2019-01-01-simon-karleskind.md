@@ -1,9 +1,9 @@
 ---
 layout: personne
-twitter: xxx
-github: xxx
+twitter: 
+github: 
 nom: Simon Karleskind
-website: xxx
+website: 
 annees: 2019
 defis: 
   - nom: Agi'R
