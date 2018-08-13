@@ -39,11 +39,6 @@ marines avec des données plus complètes, plus fraîches et plus lisibles.
 Le tout demande de traiter les données en amont, de les agréger et de
 réfléchir à l'ergonomie des systèmes nautiques interactifs.
 
-
 _Pour aller plus loin_
-
-Leur github
-
-Leur site
 
 [Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1)
