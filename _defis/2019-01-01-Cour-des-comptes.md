@@ -8,9 +8,9 @@ administration: Cour des comptes
 administration-website: https://www.ccomptes.fr/en
 type: Développement, Datascience & Design
 eigs:
-  - nom: Designer·euse
-  - nom: Développeur·se
-  - nom: Datascientist.e
+  - nom: Un·e designer·euse
+  - nom: Un·e développeur·se
+  - nom: Un·e datascientist.e
 mentors:
   - nom: Olivier Brandouy
     site: /communaute/2019/olivier-brandouy.html
