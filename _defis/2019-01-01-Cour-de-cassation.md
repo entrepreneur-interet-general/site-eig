@@ -5,7 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Ouvrir la jurisprudence en développant des solutions de pseudonymisation fiables des données"
 administration: Direction interministérielle et du système d’information et de communication de l’Etat  
-administration-website: https://etalab.gouv.fr
+administration-website: https://www.courdecassation.fr
 type: Développement & Datascience
 eigs:
   - nom: Datascientist·e
