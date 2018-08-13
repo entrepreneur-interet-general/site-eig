@@ -1,6 +1,7 @@
 ---
 layout: personne
-twitter: 
+twitter: @MiljkovicSophie	
+github: milkosofi
 nom: Sophie Miljkovic
 website:
 annees: 2018
