@@ -1,11 +1,11 @@
 ---
 layout: defi
-titre: archifiltre
+titre: Archifiltre
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
 mission: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"
 administration: Secrétariat général des ministères sociaux
-administration-website: https://etalab.gouv.fr
+administration-website: 
 type: Développement et datascience
 eigs:
   - nom: Emmanuel Gautier
@@ -49,8 +49,6 @@ Testez-là sur [archifiltre.com](https://archifiltre.com/) !
 
 _Pour aller plus loin_
 
-[Leur github](https://github.com/jeanbaptisteassouad/cheapExp)
-
-[Leur site](http://archifiltre.com/)
-
-[Le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
+* [Le github](https://github.com/jeanbaptisteassouad/cheapExp) du défi
+* [Le site](http://archifiltre.com/) du défi
+* [Le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
