@@ -5,7 +5,7 @@ site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
 mission: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM
-administration-website: https://etalab.gouv.fr
+administration-website: http://www.shom.fr/
 type: Datascience
 eigs:
   - nom: Arnaud Ménard
@@ -13,10 +13,8 @@ eigs:
   - nom: Adrien Signorino
     site: /communaute/2018/adrien-signorino.html
 mentors:
-  - nom: Marielle Chrisment
-    site: /communaute/2018/marielle-chrisment.html
-  - nom: Rémy Nollet
-    site: /communaute/2018/remy-nollet.html
+  - nom: Éric Le Guen
+    site: /communaute/2018/eric-le-guen.html
 images:
   - /images/@stock/medium-work-1.jpg
   - /images/@stock/medium-work-2.jpg
