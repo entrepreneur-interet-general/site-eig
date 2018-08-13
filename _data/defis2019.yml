@@ -93,3 +93,37 @@
   - web
   - design
   desc: Design &amp; Développement
+
+- image: /img/defis/brigadenumerique.png
+  title: Adler
+  link_to: /defis/2019/macp.html
+  class: 
+  - 2019
+  - data
+  desc: Datascience
+  
+- image: /img/defis/brigadenumerique.png
+  title: LexImpact
+  link_to: /defis/2019/dinsic.html
+  class: 
+  - 2019
+  - web
+  - design
+  desc: Design &amp; Développement
+  
+- image: /img/defis/brigadenumerique.png
+  title: ExploCode
+  link_to: /defis/2019/dgt.html
+  class: 
+  - 2019
+  - data
+  desc: Datascience
+  
+- image: /img/defis/brigadenumerique.png
+  title: PolyGraphe
+  link_to: /defis/2019/dgccrf.html
+  class: 
+  - 2019
+  - data
+  - web
+  desc: Datascience &amp; Développement
