@@ -1,5 +1,5 @@
 ---
-layout: defi
+layout: defi2019
 titre: Plume
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
