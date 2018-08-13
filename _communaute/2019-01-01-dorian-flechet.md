@@ -5,7 +5,9 @@ github:
 nom: Dorian Flechet
 website:
 annees: 2019
-defis: CartoBio
+defis:
+  - nom: CartoBio
+    site: 
 profil: mentor
 images:
   - /img/communaute/Photo-DorianFLECHET.png

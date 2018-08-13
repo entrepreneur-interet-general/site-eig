@@ -5,7 +5,9 @@ github:
 nom: Samir Kebli
 website:
 annees: 2019
-defis: CartoBio
+defis:
+  - nom: CartoBio
+    site: 
 profil: Mentor
 images:
   - /img/communaute/Photo-SamirKEBLI.png

@@ -9,6 +9,7 @@ annees:
   - 2018
 defis: 
   - nom: EIG Node
+    site: 
 profil: 
 images:
   - /img/communaute/paul_schmite.jpg

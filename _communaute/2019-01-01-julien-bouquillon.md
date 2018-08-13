@@ -5,7 +5,9 @@ github:
 nom: Julien Bouquillon
 website:
 annees: 2019
-defis: Code du travail numérique
+defis: 
+  - nom: ExploCode
+    site: 
 profil: Mentor
 images: 
   - /img/communaute/julien-bouquillon.png

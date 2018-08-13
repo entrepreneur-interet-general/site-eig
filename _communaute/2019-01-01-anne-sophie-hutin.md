@@ -5,7 +5,9 @@ github: github_username
 nom: Anne-Sophie Hutin
 website:
 annees: 2019
-defis: Préjudices corporels
+defis: 
+  - nom: Préjudices corporels
+    site: 
 profil: mentor
 images:
   - /img/communaute/anne-sophie-hutin.png

@@ -5,7 +5,9 @@ github: github_username
 nom: Edouard Rottier
 website:
 annees: 2019
-defis: OpenJustice
+defis: 
+  - nom: OpenJustice
+    site: 
 profil: mentor
 images:
   - ?????

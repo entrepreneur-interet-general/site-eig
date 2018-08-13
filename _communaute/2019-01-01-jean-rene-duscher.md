@@ -5,7 +5,9 @@ github:
 nom: Jean-René Duscher
 website:
 annees: 2019
-defis: Code du travail numérique
+defis:
+  - nom: Explocode
+    site: 
 profil: Mentor
 images: /img/communaute/photo-duscher-v2.png
 

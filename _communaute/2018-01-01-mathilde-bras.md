@@ -7,6 +7,7 @@ website:
 annees: 2017, 2018
 defis: 
   - nom: EIG Node
+    site: 
 profil: 
 images:
   - /img/communaute/mathilde_bras.jpg
