@@ -1,6 +1,7 @@
 ---
 layout: personne
 twitter: 
+github: Eliselalique
 nom: Élise Lalique
 website:
 annees: 2018
