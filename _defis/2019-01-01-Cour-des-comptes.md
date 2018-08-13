@@ -5,12 +5,12 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
 administration: Cour des comptes
-administration-website: https://etalab.gouv.fr
+administration-website: https://www.ccomptes.fr/en
 type: Développement, Datascience & Design
 eigs:
-  - nom: designeur ou designeuse
-  - nom: développeur ou développeuse
-  - nom: datascientist.e
+  - nom: Designer·euse
+  - nom: Développeur·se
+  - nom: Datascientist.e
 mentors:
   - nom: Olivier Brandouy
     site: /communaute/2019/olivier-brandouy.html
