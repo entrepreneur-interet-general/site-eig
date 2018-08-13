@@ -5,7 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
 mission: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
 administration: Minisère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
-administration-website: https://etalab.gouv.fr
+administration-website: https://www.interieur.gouv.fr/
 type: Datascience
 eigs:
   - nom: Tiphaine Phe-Neau
@@ -25,6 +25,8 @@ En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Cha
 
 Tiphaine et Guillaume travaillent avec les sapeurs-pompiers de l’Essonne sur la mise au point d’un modèle prédictif du volume d’interventions et de leur géolocalisation. Ils croisent pour cela des données très diverses : salubrité des logements, météo, topographie… Après une première phase d’entraînement du modèle sur des données passées, ils ont pour objectif de le tester sur des données en temps réel pour vérifier son caractère prédictif.
 
-Vous pouvez retrouver leur travail sur [github](https://github.com/previsecours) et sur leur [site](http://previsecours.fr/).
+_Pour aller plus loin_
 
-[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prvisecours/1)
+* [Le github](https://github.com/previsecours) du défi
+* [Le site](http://previsecours.fr/) du défi
+* [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prvisecours/1)
