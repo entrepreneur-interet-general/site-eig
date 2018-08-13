@@ -2,13 +2,13 @@
   title: CartoBio 
   link_to: /defis/2019/agence-bio.html
   class: 2019 web
-  desc: Design &amp; Développement
+  desc: Datascience &amp; Développement
 
 - image: /img/defis/cibnav-portfolio.png
   title: CibNAV
   link_to: /defis/2019/dam.html
   class: 2018 data web design
-  desc: Développement &amp; Datascience
+  desc: Datascience &amp; Développement
 
 - image: /img/defis/iaflash-portfolio.png
   title: IAflash 
@@ -32,7 +32,7 @@
   title: Préjudices corporels 
   link_to: /defis/2019/minju.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascience
 
 - image: /img/defis/brigadenumerique.png
   title: ACOSS-Plateforme 
@@ -44,19 +44,19 @@
   title: Open Chronic 
   link_to: /defis/2019/drees.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascience
 
 - image: /img/defis/brigadenumerique.png
   title: Open Justice
   link_to: /defis/2019/cour-de-cassation.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascience &amp; Développement
 
 - image: /img/defis/brigadenumerique.png
   title: Arcep 
   link_to: /defis/2019/arcep.html
   class: 2018 data web design
-  desc: Design &amp; Développement
+  desc: Datascience
 
 - image: /img/defis/brigadenumerique.png
   title: EIG Link
