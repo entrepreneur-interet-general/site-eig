@@ -1,6 +1,7 @@
 ---
 layout: personne
 twitter: soizicpenicaud
+github : soizicpenicaud
 nom: Soizic Pénicaud
 website:
 annees: 2018
