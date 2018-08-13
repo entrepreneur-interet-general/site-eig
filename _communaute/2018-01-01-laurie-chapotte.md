@@ -1,9 +1,9 @@
 ---
 layout: personne
 twitter: Lauriechapotte
-github: 
+github: lauriechap
 nom: Laurie Chapotte
-website:
+website: http://chapottelaurie.fr/
 annees: 2018
 defis: 
   - nom: Gobelins
