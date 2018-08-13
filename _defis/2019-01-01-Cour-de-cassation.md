@@ -8,8 +8,8 @@ administration: Direction interministérielle et du système d’information et 
 administration-website: https://www.courdecassation.fr
 type: Développement & Datascience
 eigs:
-  - nom: Datascientist·e
-  - nom: Datascientist·e
+  - nom: Un·e datascientist·e
+  - nom: Un·e datascientist·e
   - nom: Développeur·se full stack
 mentors: 
   - nom: Edouard Rottier
