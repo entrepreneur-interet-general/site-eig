@@ -16,38 +16,67 @@ mentors:
 images: 
 ---
 
-[L’Agence française pour le développement et la promotion de l’agriculture biologique (Agence BIO)](http://www.agencebio.org/), en lien avec le Ministère de la Transition écologique et solidaire, souhaite associer les données du Registre Parcellaire Graphique et celles des opérateurs bio pour construire une cartographie des parcelles bio et développer des services (simplifier les instructions des aides, distinguer les parcelles, accompagner les politiques territoriales, etc.).
+[L’Agence française pour le développement et la promotion de
+l’agriculture biologique (Agence BIO)](http://www.agencebio.org/), en
+lien avec le Ministère de la Transition écologique et solidaire,
+souhaite associer les données du Registre Parcellaire Graphique et
+celles des opérateurs bio pour construire une cartographie des
+parcelles bio et développer des services (simplifier les instructions
+des aides, distinguer les parcelles, accompagner les politiques
+territoriales, etc.).
 
 ## CartoBio : faciliter les démarches des acteurs de l'agriculture biologique en mettant à disposition les données pertinentes
 
 ### La problématique
 
-Aujourd'hui, lorsqu'un organisme certificateur veut réaliser un contrôle sur un producteur engagé en agriculture biologique il ne dispose que d'une documentation papier qui n'est parfois même pas disponible. Dans ce cas, **un outil numérique de suivi des parcelles cultivées en agriculture biologique permettrait d'avoir une information rapidement accessible, à jour et navigable**, facilitant le travail de l'organisme certificateur. 
+Aujourd'hui, lorsqu'un organisme certificateur veut réaliser un
+contrôle sur un producteur engagé en agriculture biologique il ne
+dispose que d'une documentation papier qui n'est parfois même pas
+disponible. Dans ce cas, **un outil numérique de suivi des parcelles
+cultivées en agriculture biologique permettrait d'avoir une
+information rapidement accessible, à jour et navigable**, facilitant
+le travail de l'organisme certificateur.
 
-D'autres parties prenantes de l'Agence BIO ont fait remonter leur besoin d'un tel outil  :
 
-* les opérateurs et les directions départementales des territoires, qui souhaitent ainsi simplifier les démarches relatives à l'instruction des aides pour les cultivateurs en agriculture biologique ;
-* les Sociétés d'Aménagement Foncier et d'Etablissement Rural (SAFER), qui souhaitent mieux connaître le foncier agricole pour pouvoir proposer des aménagements territoriaux cohérents ;
-* des acteurs divers -Agences de l'Eau, collectivités territoriales, parc naturels...- qui souhaitent définir des politiques territoriales ambitieuses et pertinentes...
+D'autres parties prenantes de l'Agence BIO ont fait remonter leur
+besoin d'un tel outil :
+
+* les opérateurs et les directions départementales des territoires,
+  qui souhaitent ainsi simplifier les démarches relatives à
+  l'instruction des aides pour les cultivateurs en agriculture
+  biologique ;
+* les Sociétés d'Aménagement Foncier et d'Etablissement Rural (SAFER),
+  qui souhaitent mieux connaître le foncier agricole pour pouvoir
+  proposer des aménagements territoriaux cohérents ;
+* des acteurs divers - Agences de l'Eau, collectivités territoriales,
+  parc naturels, etc. - qui souhaitent définir des politiques
+  territoriales ambitieuses et pertinentes...
 
 ### Le défi : proposer des outils de mise à disposition des données de l'agriculture biologique
 
 Le défi exploitera les données issues de deux sources :
-* le Registre Parcellaire Graphique (RPG) géré dans le cadre des aides de la Politique agricole commune (PAC)
-* l'Agence BIO ayant à disposition des données sur les producteurs qui s'engagent en bio. 
+* le Registre Parcellaire Graphique (RPG) géré dans le cadre des aides
+  de la Politique agricole commune (PAC) ;
+* l'Agence BIO ayant à disposition des données sur les producteurs qui
+  s'engagent en bio.
 
-Les EIG devront proposer des outils de mise à disposition de ces données adaptés aux besoins des différentes parties prenantes. Plusieurs solutions sont déjà envisagées :
+Les EIG devront proposer des outils de mise à disposition de ces
+données adaptés aux besoins des différentes parties
+prenantes. Plusieurs solutions sont déjà envisagées :
 
-* **une cartographie pour explorer et visualiser les parcelles cultivées en agriculture biologique**, accessible en _open data_ ;
-* **des API** pour diffuser les données tout en respectant différents niveaux de confidentialité à la donnée.
+* **une cartographie pour explorer et visualiser les parcelles
+  cultivées en agriculture biologique**, accessible en _open data_ ;
+  
+* **des API** pour diffuser les données tout en respectant différents
+  niveaux de confidentialité à la donnée.
 
 ## Les EIG recherché.e.s
 
 ### EIG 1 – Un·e géomaticien·nne / BI
 
-**Compétences nécessaires** : SIG (Shapefile, wms/wfs, PostGIS, Geoserver,
-etc) et modélisation d’une base de données (datawarehousing).  La
-connaissance d’un outil de Dataviz est un plus.
+**Compétences nécessaires** : SIG (Shapefile, wms/wfs, PostGIS,
+Geoserver, etc) et modélisation d’une base de données
+(datawarehousing).  La connaissance d’un outil de dataviz est un plus.
 
 ### EIG 2 - Un·e développeur·se full stack node JS
 
@@ -75,6 +104,9 @@ lui y sont confiées figurent celle de coordonner et de mettre en œuvre
 les différents services dont celui d’APIser le SI de la bio et de
 mettre au cœur de ses services l’accès aux données et plus
 particulièrement celles aux données géolocalisées.
+
+<br/>
+<br/>
 
 ### Dorian Flechet, appui SI
 
