@@ -1,7 +1,9 @@
 - image: /img/defis/balisenav.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
-  class: 2018 web
+  class: 
+  - 2018 
+  - web
   desc: Développement
 
 - image: /img/defis/previsecours.png
@@ -76,55 +78,55 @@
   class: 2018 web design
   desc: Design &amp; Développement
 
-- image: /img/defis/afd.png
-  title: AFD Geodata
-  link_to: /defis/2017/afd-geodata.html
+- image: /img/defis/afd-geodata-portfolio.png
+  title: AFD - Geodata
+  link_to: /defis/2017/afd-geodata-portfolio.html
   class: 2017 web
   desc: Développement
 
-- image: /img/defis/ars.png
+- image: /img/defis/ars-parcours-soin-portfolio.png
   title: ARS Occitanie parcours de soin
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
   class: 2017 data web design
   desc: Design &amp; Développement
 
-- image: /img/defis/bnf.png
+- image: /img/defis/bnf-catalogage-portfolio.png
   title: BNF Catalogage
   link_to: /defis/2017/bnf-catalogage.html
   class: 2017 data design
   desc: Design &amp; Développement
 
-- image: /img/defis/cc.png
+- image: /img/defis/cc-api-rapports-portfolio.png
   title: CC API Rapports
   link_to: /defis/2017/cc-api-rapports.html
   class: 2017 data web
   desc: Design &amp; Développement
 
-- image: /img/defis/dgfip.png
+- image: /img/defis/dgfip-fraude-fiscale-portfolio.png
   title: DGFiP Fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 data
   desc: Design &amp; Développement
 
-- image: /img/defis/mcc.png
+- image: /img/defis/mcc-inventaire-orgues-portfolio.png
   title: MCC Inventaire des orgues
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
   class: 2017 web design
   desc: Design &amp; Développement
 
-- image: /img/defis/mesri.png
+- image: /img/defis/mesri-machine-donnees-portfolio.png
   title: MESRI Magical merge machine
   link_to: /defis/2017/mesri-magical-merge-machine.html
   class: 2017 data web design
   desc: Design &amp; Développement
 
-- image: /img/defis/mi.png
+- image: /img/defis/mi-cartav-portfolio.png
   title: MI cartAV - sécurite routière
   link_to: /defis/2017/mi-cartav-securite-routiere.html
   class: 2017 web design
   desc: Design &amp; Développement
 
-- image: /img/defis/mi.png
+- image: /img/defis/mi-matchid-portfolio.png
   title: MI MatchID
   link_to: /defis/2017/mi-matchid.html
   class: 2017 data web design
