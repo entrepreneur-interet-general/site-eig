@@ -1,13 +1,13 @@
 ---
 layout: personne
-twitter: @MiljkovicSophie	
+twitter: MiljkovicSophie
 github: milkosofi
 nom: Sophie Miljkovic
 website:
 annees: 2018
 defis:
   - nom: EIG Node
-profil: 
+profil:
 images:
   - /images/@stock/another.jpg
 ---
