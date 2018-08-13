@@ -4,9 +4,7 @@
   annee: 2019
   profil: Mentor
   defi: Agi'R
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Alain Régnier
 
 - image: img/communaute/audrey-istace.png
@@ -15,9 +13,7 @@
   annee: 2019
   profil: Mentor
   defi: PolyGraphe
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Audrey Istace
 
 - image: img/communaute/herve-brule.png
@@ -26,9 +22,7 @@
   annee: 2019
   profil: Mentor
   defi: CibNAV
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Hervé Brulé
   
 - image: img/communaute/photo-duscher-v2.png
@@ -37,9 +31,7 @@
   annee: 2019
   profil: Mentor
   defi: Code du travail numérique
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Jean-René Duscher
   
 - image: img/communaute/marie-feucher-2.png
@@ -48,9 +40,7 @@
   annee: 2019
   profil: Mentor
   defi: CibNAV
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Marie Feucher
   
 - image: img/communaute/julien-bouquillon.png
@@ -59,9 +49,7 @@
   annee: 2019
   profil: Mentor
   defi: Code du travail numérique
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Julien Bouquillon
   
 - image: img/communaute/Photo-DorianFLECHET.png
@@ -70,9 +58,7 @@
   annee: 2019
   profil: Mentor
   defi: CartoBIO
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Dorian Flechet
   
 - image: img/communaute/adnene-trojette.png
@@ -81,9 +67,7 @@
   annee: 2019
   profil: Mentor
   defi: Plume
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Adnène Trojette
   
 - image: img/communaute/Sans-photo.png
@@ -92,9 +76,7 @@
   annee: 2019
   profil: Mentor
   defi: Plume
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Olivier Brandouy
   
 - image: img/communaute/anne-sophie-hutin.png
@@ -103,9 +85,7 @@
   annee: 2019
   profil: Mentor
   defi: Préjudices corporels
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Anne-Sophie Hutin
   
 - image: img/communaute/Photo-SamirKEBLI.png
@@ -114,9 +94,7 @@
   annee: 2019
   profil: Mentor
   defi: CartoBIO
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Samir Kebli
   
 - image: img/communaute/Sans-photo.png
@@ -125,9 +103,7 @@
   annee: 2019
   profil: Mentor
   defi: Plume
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Pascal Guy
   
 - image: img/communaute/Sans-photo.png
@@ -136,9 +112,7 @@
   annee: 2019
   profil: Mentor
   defi: OpenJustice
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Edouard Rottier
   
 - image: img/communaute/iana-ivanov.jpg
@@ -147,9 +121,7 @@
   annee: 2019
   profil: Mentor
   defi: Préjudices Corporels
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Iana Ivanov
   
 - image: img/communaute/laurent-toustou.png
@@ -158,9 +130,7 @@
   annee: 2019
   profil: Mentor
   defi: Arcep
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Laurent Toustou
   
 - image: img/communaute/Sans-photo.png
@@ -169,9 +139,7 @@
   annee: 2019
   profil: Mentor
   defi: ACOSS
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Patricia Poulet-Mathis
   
 - image: img/communaute/Sans-photo.png
@@ -180,9 +148,7 @@
   annee: 2019
   profil: Mentor
   defi: ACOSS
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
   desc: Nicolas Bizet
    
 - image: img/communaute/Benoit-Guigal.png
@@ -827,6 +793,4 @@
   annee: 2019
   profil: Mentor
   defi: AGI'R
-  class:
-  - 2019
-  - mentor
+  class: 2019 mentor
