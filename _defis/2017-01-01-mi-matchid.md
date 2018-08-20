@@ -1,11 +1,11 @@
 ---
 layout: defi
-titre: matchID
+titre: MI - matchID
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Fiabiliser les statistiques de sécurité routière en retirant les personnes décédées du Fichier National des Permis de Conduire"
 administration: Ministère de l'Intérieur
-administration-website: https://etalab.gouv.fr
+administration-website: https://www.interieur.gouv.fr/
 type: Développement
 eigs:
   - nom: Martin Gross
@@ -36,3 +36,8 @@ tout de même être associé à un nom dans une autre liste.  MatchId est
 générique et plusieurs administrations l'utilisent désormais.
 
 _Pour aller plus loin_
+
+* Le [github](https://github.com/matchID-project/) du défi
+* [La restitution, 10 mois après](https://www.dailymotion.com/video/x6b7xzu?playlist=x54m4i)
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z3a0)_
