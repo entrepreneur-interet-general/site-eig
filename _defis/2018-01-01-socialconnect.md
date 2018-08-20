@@ -12,7 +12,7 @@ eigs:
     site: /communaute/2018/elise-lalique.html
   - nom: Julien Paris
     site: /communaute/2018/julien-paris.html
-mentor:
+mentors:
   - nom: Bénédicte Pachod
     site: /communaute/2018/benedicte-pachod.html
 images:
