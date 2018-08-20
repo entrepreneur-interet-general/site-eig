@@ -40,4 +40,7 @@ informatique de chargement de données capable de rafraîchir
 régulièrement et automatiquement les données à partir des bases
 opérationnelles.
 
-[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-signaux-faibles/1)
+_Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/opensignauxfaibles) du défi
+* [Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-signaux-faibles/1)
