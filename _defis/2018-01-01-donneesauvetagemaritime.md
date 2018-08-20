@@ -45,4 +45,7 @@ _Ce projet s’inspire de celui mis en place par la ville de New York
 pour optimiser l’intervention de ses services d’inspection grâce au
 machine learning._
 
-[En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prdisauvetage-80976654)
+_Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/predisauvetage) du défi
+* [Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prdisauvetage-80976654)
