@@ -39,3 +39,8 @@ il pourra vous proposer une normalisation des données de votre base
 initial.  Magique !  Et surtout très pratique.
 
 _Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/Merge-Machine) du défi
+* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mnj?playlist=x54m4i)
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39w)
