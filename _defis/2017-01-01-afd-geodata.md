@@ -34,3 +34,9 @@ comment créer des visualisations de données à partir des API ouvertes
 de l’AFD. La transformation numérique de l’AFD est en bonne voie.
 
 _Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/AFD_projects) du défi
+* Le [site](https://data.afd.fr/urban.html) du défi
+* La [restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mca?playlist=x54m4i)
+
+_[Ce qu'en ont pensé les EIG et les mentors](https://www.dailymotion.com/video/x64z39y)_
