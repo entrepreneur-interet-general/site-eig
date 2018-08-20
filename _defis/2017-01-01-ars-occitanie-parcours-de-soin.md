@@ -1,12 +1,12 @@
 ---
 layout: defi
 titre: ARS - Parcours de soin
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: 
 annees: 2017
 mission: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
 administration: Secrétariat général des ministères sociaux
-administration-website: https://etalab.gouv.fr
-type: Développement, Data science
+administration-website: 
+type: Développement, datascience
 eigs:
   - nom: Sébastien Cossin
     site: /communaute/2017/sebastien-cossin.html
@@ -36,3 +36,8 @@ forme de graphiques, d’infographies… et de les comprendre facilement,
 même si l’on n’est pas informaticien.
 
 _Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/parcoursdesoins) du défi
+* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x64z39z)
+
+_[Les EIG et les mentors parlent de leur expérience](https://www.dailymotion.com/video/x6b9n0b?playlist=x54m4i)_
