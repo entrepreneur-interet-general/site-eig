@@ -7,7 +7,7 @@ website:
 annees: 2018
 defis: 
   - nom: Prédisauvetage
-    site: /defis/2018/predisauvetage.html
+    site: /defis/2018/donneesauvetagemaritime.html
 profil: 
 images:
   - /img/communaute/1_datasauvetage2.jpg
