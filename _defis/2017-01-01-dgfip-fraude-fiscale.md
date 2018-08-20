@@ -1,12 +1,12 @@
 ---
 layout: defi
-titre: DGFiP - Fraude fiscale
+titre: DGFiP - fraude fiscale
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Identifier les résidents fiscaux français ayant omis de déclarer des sources de revenus à l’étranger"
 administration: Direction Générale des Finances Publiques
-administration-website: https://portail.dgfip.finances.gouv.fr
-type: Data science
+administration-website: https://www.economie.gouv.fr/dgfip
+type: Datascience
 eigs:
   - nom: Marion Paclot
     site: /communaute/2017/marion-paclot.html
@@ -35,3 +35,7 @@ comme c’est le cas pour les revenus français.  De quoi rendre plus
 efficace le travail de l'administration fiscale.
 
 _Pour aller plus loin_
+
+* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b964b?playlist=x54m4i)
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39u)_
