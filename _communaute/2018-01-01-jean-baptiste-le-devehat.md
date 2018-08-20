@@ -7,7 +7,7 @@ website:
 annees: 2018
 defis: 
   - nom: Brigade numérique
-    site: /defis/2018/brigade-numerique.html
+    site: /defis/2018/brigadenumerique.html
 profil: Designer 
 images:
   - /img/communaute/JeanBaptiste-LeDevehat.png
