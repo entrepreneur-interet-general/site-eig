@@ -80,54 +80,54 @@
 
 - image: /img/defis/afd-geodata-portfolio.png
   title: AFD - Geodata
-  link_to: /defis/2017/afd-geodata-portfolio.html
+  link_to: /defis/2017/afd-geodata.html
   class: 2017 web
   desc: Développement
 
 - image: /img/defis/ars-parcours-soin-portfolio.png
-  title: ARS Occitanie parcours de soin
+  title: ARS - Parcours de soin
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
-  class: 2017 data web design
-  desc: Design &amp; Développement
+  class: 2017 data web 
+  desc: Développement &amp; Datascience
 
 - image: /img/defis/bnf-catalogage-portfolio.png
-  title: BNF Catalogage
+  title: BNF - catalogage
   link_to: /defis/2017/bnf-catalogage.html
-  class: 2017 data design
-  desc: Design &amp; Développement
+  class: 2017 web 
+  desc: Développement
 
 - image: /img/defis/cc-api-rapports-portfolio.png
-  title: CC API Rapports
+  title: CC - API rapports
   link_to: /defis/2017/cc-api-rapports.html
-  class: 2017 data web
-  desc: Design &amp; Développement
+  class: 2017 web
+  desc: Développement
 
 - image: /img/defis/dgfip-fraude-fiscale-portfolio.png
-  title: DGFiP Fraude fiscale
+  title: DGFiP - fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 data
-  desc: Design &amp; Développement
+  desc: Datascience
 
 - image: /img/defis/mcc-inventaire-orgues-portfolio.png
-  title: MCC Inventaire des orgues
+  title: MCC - Inventaire des orgues
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
-  class: 2017 web design
-  desc: Design &amp; Développement
+  class: 2017 web 
+  desc: Développement
 
 - image: /img/defis/mesri-machine-donnees-portfolio.png
-  title: MESRI Magical merge machine
+  title: MESRI - La machine à données
   link_to: /defis/2017/mesri-magical-merge-machine.html
-  class: 2017 data web design
-  desc: Design &amp; Développement
+  class: 2017 web 
+  desc: Développement
 
 - image: /img/defis/mi-cartav-portfolio.png
-  title: MI cartAV - sécurite routière
+  title: MI - cartAV 
   link_to: /defis/2017/mi-cartav-securite-routiere.html
-  class: 2017 web design
-  desc: Design &amp; Développement
+  class: 2017 web 
+  desc: Développement
 
 - image: /img/defis/mi-matchid-portfolio.png
-  title: MI MatchID
+  title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
-  class: 2017 data web design
-  desc: Design &amp; Développement
+  class: 2017 web 
+  desc: Développement
