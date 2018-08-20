@@ -6,7 +6,7 @@ nom: Constance de Quatrebarbes
 website:
 annees: 2017
 defis:
-  - nom: BNF - Améliorer le catalogage
+  - nom: BNF - catalogage
     site: /defis/2017/bnf-catalogage.html
 profil: Développeuse
 images:
