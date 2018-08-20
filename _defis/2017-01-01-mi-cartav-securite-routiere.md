@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: cartAV
+titre: MI - cartAV
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."
@@ -9,9 +9,9 @@ administration-website: https://www.interieur.gouv.fr
 type: Développement
 eigs:
   - nom: Francis Chabouis
-    site: /communaute/2018/francis-chabouis.html
+    site: /communaute/2017/francis-chabouis.html
   - nom: Tristram Gräbener
-    site: /communaute/2018/tristram-grabener.html
+    site: /communaute/2017/tristram-grabener.html
 mentors:
   - nom: Daniel Ansellem
     site: /communaute/2018/daniel-ansellem.html
@@ -37,3 +37,8 @@ des informations plus poussées (accidents graves, graves avec un vélo,
 graves avec un vélo pour cause d’ébriété de l’un des conducteurs).
 
 _Pour aller plus loin_
+
+* Le [github](https://github.com/entrepreneur-interet-general/cartav) du défi
+* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b7xxc?playlist=x54m4i)
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z28u)_
