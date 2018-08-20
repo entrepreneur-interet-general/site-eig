@@ -1,15 +1,15 @@
 ---
 layout: defi
-titre: Ministère de la culture - L'inventaire des orgues
+titre: Ministère de la culture - Inventaire des orgues
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
 mission: "Révéler le patrimoine des orgues grâce à la collaboration entre institutions, associations et particuliers passionnés"
 administration: Ministère de la culture
-administration-website: https://etalab.gouv.fr
+administration-website: http://www.culture.gouv.fr/
 type: Développement
 eigs:
   - nom: Bastien Guerry
-    site: /communaute/2017/bastien-guerry.html
+    site: /communaute/2018/bastien-guerry.html
 mentors:
   - nom: Judith Kagan
   - nom: Marie-Véronique Leroi
@@ -39,4 +39,7 @@ la société civile et les institutions.
 
 _Pour aller plus loin_
 
-[L'inventaire des orgues](https://www.inventaire-des-orgues.fr)
+* Le[site de l'inventaire des orgues](https://www.inventaire-des-orgues.fr) 
+* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b96fi?playlist=x54m4i)
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39q)_
