@@ -1,12 +1,12 @@
 ---
 layout: defi
 titre: Archifiltre
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: 
 annees: 2018
 mission: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"
 administration: Secrétariat général des ministères sociaux
 administration-website: 
-type: Développement et datascience
+type: Développement, datascience
 eigs:
   - nom: Emmanuel Gautier
     site: /communaute/2018/emmanuel-gautier.html
