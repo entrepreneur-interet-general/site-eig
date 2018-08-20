@@ -7,7 +7,7 @@ website:
 annees: 2017
 defis: 
   - nom: ARS - Parcours de soin
-    site: /defis/2017/ars-occitanie-parcours-de-soin.md
+    site: /defis/2017/ars-occitanie-parcours-de-soin.html
 profil: Développeur
 images:
   - /img/communaute/Sebastien-Cossin.png
