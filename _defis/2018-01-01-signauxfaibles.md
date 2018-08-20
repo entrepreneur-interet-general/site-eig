@@ -5,7 +5,7 @@ site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
 mission: Détecter les entreprises en difficulté pour mieux les accompagner
 administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
-administration-website: https://etalab.gouv.fr
+administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
 type: Datascience, développement
 eigs:
   - nom: Pierre Camilleri
