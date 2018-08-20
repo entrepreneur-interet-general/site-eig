@@ -7,7 +7,7 @@ mission: >-
   Améliorer la réussite scolaire avec les données
   d'apprentissage
 administration: 'Ministère de l''Éducation Nationale, Direction du numérique pour l''éducation'
-administration-website: https://etalab.gouv.fr
+administration-website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
 type: Datascience
 eigs:
   - nom: David Panou
