@@ -22,7 +22,7 @@
   class: 2019 web design
   desc: Design &amp; Développement
   
-  - image: /img/defis/explocode-portfolio.png
+- image: /img/defis/explocode-portfolio.png
   title: ExploCode
   link_to: /defis/2019/DGT.html
   class: 2019 data
@@ -34,13 +34,13 @@
   class: 2019 data
   desc: Datascience
   
-  - image: /img/defis/leximpact-portfolio.png
+- image: /img/defis/leximpact-portfolio.png
   title: LexImpact
   link_to: /defis/2019/DINSIC.html
   class: 2019 web design
   desc: Design &amp; Développement
   
-  - image: /img/defis/open-chronic-portfolio.png
+- image: /img/defis/open-chronic-portfolio.png
   title: Open Chronic 
   link_to: /defis/2019/DREES.html
   class: 2019 data
@@ -58,7 +58,7 @@
   class: 2019 data web design
   desc: Datascience, Design &amp; Développement
   
-  - image: /img/defis/polygraphe-portfolio.png
+- image: /img/defis/polygraphe-portfolio.png
   title: PolyGraphe
   link_to: /defis/2019/DGCCRF.html
   class: 2019 data web
