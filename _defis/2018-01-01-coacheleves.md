@@ -14,7 +14,7 @@ eigs:
     site: /communaute/2018/david-panou.html
   - nom: Arnaud Rachez
     site: /communaute/2018/arnaud-rachez.html
-mentor:
+mentors:
   - nom: Claudio Cimelli
     site: /communaute/2018/claudio-cimelli.html
   - nom: François Bocquet
