@@ -46,4 +46,6 @@ des utilisateurs la plus fluide et simple possible.
 
 _Pour aller plus loin_
 
+* Les différents _repo_ github du défi : [OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper), [Solidata](https://github.com/entrepreneur-interet-general/solidata_backend) et le [site](https://github.com/entrepreneur-interet-general/CIS-front)
+* Le [site du Carrefour des innovations sociales](http://www.carrefourdesinnovationssociales.fr/)
 * [Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-socialconnect/1)
