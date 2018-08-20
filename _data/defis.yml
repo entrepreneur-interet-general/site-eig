@@ -1,3 +1,12 @@
+- image: /img/defis/futur-eig3-portfolio.png
+  title: Voir les futurs défis EIG 3
+  link_to: /candidature-eig.html
+  class: 
+  - data
+  - design
+  - web
+  desc: 
+
 - image: /img/defis/balisenav.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
