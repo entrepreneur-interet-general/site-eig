@@ -2,33 +2,39 @@
   section_id: presentation
   path: presentation.html
   children:
-  - name: F.A.Q. EIG
+  - name: Notre ambition
+    path: presentation.html
+  - name: Notre offre d'accompagnement
+    path: guides.html
+  - name: F.A.Q. Entrepreneur
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
-  - name: Les guides EIG
-    path: guides.html
-  - name: L'équipe EIG
-    path: guides.html
     
-- name: Les défis
+- name: Les projets
   section_id: defis
   path: defis.html
   children:
-  - name: Les réalisations
+  - name: Nos défis
+    path: defis.html
+  - name: Nos réalisations
     path: realisations.html
 
 - name: La communauté
   section_id: communaute
   path: communaute.html
   children:
-  - name: Les événements
+  - name: Nos EIG et mentors
+    path: communaute.html
+  - name: Nos événements
     path: evenements.html
 
-- name: Le blog
+- name: La vie du programme
   section_id: blog
   path: blog/
   section_id: blog
+  - name: Notre blog
+    path: blog/
 
 - name: Participer
   section_id: participer
