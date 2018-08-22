@@ -7,8 +7,8 @@ website:
 annees: 2019
 defis:
   - nom: CibNAV
-    site: 
-profil: Mentor opérationnel
+    site: /defis/2019/DAM.html
+profil: Mentor
 images:
   - /img/communaute/marie-feucher-2.png
 
