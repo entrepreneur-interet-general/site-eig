@@ -4,17 +4,17 @@ twitter:
 nom: Daniel Ansellem
 website:
 annees: 
-  - 2017
-  - 2018
+  - 2017, 
+  - 2018, 
   - 2019
 defis: 
-  - nom: cartAV
+  - nom: MI - cartAV
     site: /defis/2017/mi-cartav-securite-routiere.html
-  - nom: matchID
+  - nom: MI - matchID
     site: /defis/2017/mi-matchid.html
   - nom: Prévisecours
     site: /defis/2018/previsecours.html
-profil: 
+profil: Mentor
 images:
   - /img/communaute/Daniel-Ansellem-2.png
 ---
