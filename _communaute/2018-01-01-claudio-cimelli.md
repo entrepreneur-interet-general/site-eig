@@ -7,9 +7,9 @@ annees: 2018
 defis: 
   - nom: CoachÉlèves
     site: /defis/2018/coacheleves.html
-profil:
+profil: Mentor
 images:
-  - /img/communaute/12.coacheleves.png
+  - 
 ---
 
 « Je suis chef de la mission d’incubation des projets
