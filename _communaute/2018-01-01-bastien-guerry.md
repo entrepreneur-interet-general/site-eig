@@ -7,6 +7,8 @@ nom: Bastien Guerry
 website: https://bzg.fr
 annees: 2017, 2018
 defis: 
+  - nom: MCC - Inventaire des orgues
+    site: /defis/2017/mcc-inventaire-des-orgues.html
   - nom: EIG Link
     site: /defis/2018/eiglink.html
 profil: Développeur
