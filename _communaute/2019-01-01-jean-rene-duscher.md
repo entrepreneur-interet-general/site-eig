@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis:
   - nom: Explocode
-    site: 
+    site: /defis/2019/DGT.html
 profil: Mentor
 images: /img/communaute/photo-duscher-v2.png
 
