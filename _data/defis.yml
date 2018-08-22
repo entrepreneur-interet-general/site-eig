@@ -7,7 +7,7 @@
   - web
   desc: 
 
-- image: /img/defis/balisenav.png
+- image: /img/defis/balisenav-portfolio.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
   class: 
@@ -15,73 +15,73 @@
   - web
   desc: Développement
 
-- image: /img/defis/previsecours.png
+- image: /img/defis/previsecours-portfolio.png
   title: Prévisecours
   link_to: /defis/2018/previsecours.html
   class: 2018 web data
   desc: Datascience &amp; Développement
 
-- image: /img/defis/archifiltre.png
+- image: /img/defis/archifiltre-portfolio.png
   title: Archifiltre
   link_to: /defis/2018/archifiltre.html
   class: 2018 data web 
   desc: Datascience &amp; Développement
 
-- image: /img/defis/brigadenumerique.png
+- image: /img/defis/brigade-numerique-portfolio.png
   title: Brigade Numérique
   link_to: /defis/2018/brigadenumerique.html
   class: 2018 web design
   desc: Design &amp; Développement
 
-- image: /img/defis/signauxfaibles.png
+- image: /img/defis/signaux-faibles-portfolio.png
   title: Signaux Faibles
   link_to: /defis/2018/signauxfaibles.html
   class: 2018 data web 
   desc: Datascience &amp; Développement
 
-- image: /img/defis/coacheleves.png
+- image: /img/defis/coacheleves-portfolio.png
   title: CoachÉlève - AssistProf
   link_to: /defis/2018/coacheleves.html
   class: 2018 data 
   desc: Datascience
 
-- image: /img/defis/dataesr.png
+- image: /img/defis/dataesr-portfolio.png
   title: DataESR
   link_to: /defis/2018/dataesr.html
   class: 2018 data web 
   desc: Datascience &amp; Développement
 
-- image: /img/defis/predisauvetage.png
+- image: /img/defis/predisauvetage-portfolio.png
   title: Prédisauvetage
   link_to: /defis/2018/donneesauvetagemaritime.html
   class: 2018 data web 
   desc: Datascience &amp; Développement
 
-- image: /img/defis/gobelins.png
+- image: /img/defis/gobelins-portfolio.png
   title: Gobelins
   link_to: /defis/2018/gobelins.html
   class: 2018 web design
   desc: Design &amp; Développement
 
-- image: /img/defis/eiglink.png
+- image: /img/defis/eig-link-2018-portfolio.png
   title: EIG Link
   link_to: /defis/2018/eiglink.html
   class: 2018 web
   desc: Développement
 
-- image: /img/defis/hopkins.png
+- image: /img/defis/hopkins-portfolio.png
   title: Hopkins
   link_to: /defis/2018/hopkins.html
   class: 2018 data
   desc: Datascience
 
-- image: /img/defis/labsante.png
+- image: /img/defis/lab-sante-portfolio.png
   title: Lab Santé
   link_to: /defis/2018/labsante.html
   class: 2018 data 
   desc: Datascience
 
-- image: /img/defis/socialconnect.png
+- image: /img/defis/social-connect-portfolio.png
   title: SocialConnect
   link_to: /defis/2018/socialconnect.html
   class: 2018 web design
