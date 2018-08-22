@@ -8,7 +8,7 @@ annees: 2018
 defis: 
   - nom: Prédisauvetage
     site: /defis/2018/donneesauvetagemaritime.html
-profil: Développement / Datascience
+profil: Développeur / Datascientist
 images:
   - /img/communaute/Antoine-Augusti.png
 ---
