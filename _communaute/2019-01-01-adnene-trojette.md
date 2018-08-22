@@ -4,8 +4,10 @@ twitter: trojette
 github: trojette
 nom: Adnène Trojette
 website:
-annees: 2019
+annees: 2017, 2019
 defis: 
+  - nom: CC - API rapports
+    site: /defis/2017/cc-api-rapports.html
   - nom: Plume
     site: /defis/2019/Cour-des-comptes.html
 profil: Mentor
