@@ -8,9 +8,9 @@ annees: 2018
 defis: 
   - nom: DataESR
     site: /defis/2018/dataesr.html
-profil: 
+profil: Développeuse
 images:
-  - /img/communaute/AmbreArnaud.jpg
+  - /img/communaute/ambre-arnaud.png
 ---
 
 "Diplômée de l'Ecole Centrale Paris, avec une spécialité en
