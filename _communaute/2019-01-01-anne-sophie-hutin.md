@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: twitter_username
-github: github_username
+twitter: 
+github: 
 nom: Anne-Sophie Hutin
 website:
 annees: 2019
 defis: 
   - nom: Préjudices corporels
-    site: 
-profil: mentor
+    site: /defis/2019/MinJu.html
+profil: Mentor
 images:
   - /img/communaute/anne-sophie-hutin.png
 ---
