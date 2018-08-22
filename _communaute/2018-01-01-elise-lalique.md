@@ -6,11 +6,11 @@ nom: Élise Lalique
 website:
 annees: 2018
 defis: 
-  - nom: SocialConnect
+  - nom: Social Connect
     site: /defis/2018/socialconnect.html
-profil: Design UX
+profil: Designeuse UX
 images:
-  - /img/communaute/EliseLalique.png
+  - 
 ---
 
 « Diplômée d’un Master en Design, Innovation, Société à l’université de
