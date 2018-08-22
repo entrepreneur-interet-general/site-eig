@@ -8,7 +8,7 @@ annees: 2018
 defis: 
   - nom: Bridage Numérique
     site: /defis/2018/brigadenumerique.html
-profil: 
+profil: Développeuse
 images:
   - /img/communaute/Dora-Crisan.png
 ---
