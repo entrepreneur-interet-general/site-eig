@@ -8,9 +8,9 @@ annees: 2018
 defis: 
   - nom: Hopkins
     site: /defis/2018/hopkins.html
-profil: Datascience
+profil: Datascientist
 images:
-  - /img/communaute/Ned-Baldessin.png
+  - /img/communaute/Paul-Boosz.png
 ---
 
 « Je suis ingénieur des Ponts et Chaussées et diplômé d'un master
