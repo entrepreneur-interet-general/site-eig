@@ -7,9 +7,9 @@ annees: 2018
 defis: 
   - nom: ArchiFiltre
     site: /defis/2018/archifiltre.html
-profil: 
+profil: Mentor
 images:
-  - /img/communaute/chloemoser.jpg
+  - 
 ---
 
 « J'ai rejoint le secrétariat général des ministères sociaux en
