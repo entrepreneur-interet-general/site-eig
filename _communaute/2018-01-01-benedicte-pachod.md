@@ -5,11 +5,11 @@ nom: Bénédicte Pachod
 website:
 annees: 2018
 defis: 
-  - nom: SocialConnect
+  - nom: Social Connect
     site: /defis/2018/socialconnect.html
-profil: 
+profil: Mentor
 images:
-  - /img/communaute/8.PACHODBenedicte.jpg
+  - /img/communaute/benedicte-pachod.png
 ---
 
 "Engagée dans l’exploration de réponses collectives pour le bien-être
