@@ -7,7 +7,7 @@ annees: 2018
 defis: 
   - nom: B@liseNAV
     site: /defis/2018/balisenav.html
-profil:
+profil: Mentor
 images:
   - /img/communaute/eric-le-guen.jpg
 ---
