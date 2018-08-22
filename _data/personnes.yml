@@ -289,7 +289,7 @@
   link_to: /communaute/2018/françois-bocquet.html
   annee: 2018
   profil: Mentor
-  defi: CoachÉlève
+  defi: CoachÉlèves
   class:
   - 2018
   - mentor
@@ -364,6 +364,17 @@
   - eig
   - datascientist
   desc: Arnaud Ménard
+  
+- image: img/communaute/eric-le-guen.png
+  title: Eric Le Guen
+  link_to: /communaute/2018/eric-le-guen.html
+  annee: 2018
+  profil: Mentor
+  defi: b@liseNAV
+  class:
+  - 2018
+  - mentor
+  desc: Eric Le Guen
 
 - image: img/communaute/Sans-photo.png
   title: Stéphanie Schaer
