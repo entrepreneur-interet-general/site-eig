@@ -6,9 +6,9 @@ nom: Laurent Toustou
 website:
 annees: 2019
 defis: 
-  - nom: 
-    site:
-profil: mentor
+  - nom: Arcep
+    site: /defis/2019/ARCEP.html
+profil: Mentor
 images:
   - /img/communaute/laurent-toustou.png
 ---
