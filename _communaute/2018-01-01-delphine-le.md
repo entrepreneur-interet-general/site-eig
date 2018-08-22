@@ -3,13 +3,17 @@ layout: personne
 twitter: delphinel
 nom: Delphine Lê
 website:
-annees: 2018
+annees: 
+  - 2018, 
+  - 2019
 defis: 
   - nom: Hopkins
     site: /defis/2018/hopkins.html
+  - nom: Adler
+    site: /defis/2019/MACP.html
 profil: 
 images:
-  - /img/communaute/7_DelphineLE.png
+  - 
 ---
 
 « Suite à un parcours mixte (dans le privé et le public, en recherche et
