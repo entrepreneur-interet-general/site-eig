@@ -17,7 +17,7 @@ mentors:
   - nom: Pascal Guy
     site: /communaute/2019/pascal-guy.html
   - nom: Adnène Trojette
-    site: /communaute/2018/adnene-trojette.html
+    site: /communaute/2019/adnene-trojette.html
 images:
   - //img/defis/plume-portfolio.png
 ---
