@@ -1,6 +1,4 @@
 - name: Le programme
-  section_id: presentation
-  path: presentation.html
   children:
   - name: Notre ambition
     path: presentation.html
@@ -12,8 +10,6 @@
     path: faq-administrations.html
     
 - name: Les projets
-  section_id: defis
-  path: defis.html
   children:
   - name: Nos défis
     path: defis.html
@@ -21,8 +17,6 @@
     path: realisations.html
 
 - name: La communauté
-  section_id: communaute
-  path: communaute.html
   children:
   - name: Nos EIG et mentors
     path: communaute.html
@@ -30,8 +24,6 @@
     path: evenements.html
 
 - name: La vie du programme
-  section_id: blog
-  path: blog/
   children:
   - name: Notre blog
     path: blog/
