@@ -156,7 +156,7 @@
   link_to: /communaute/2018/benoit-guigal.html
   desc: Benoît Guigal
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Hopkins
   class:
   - 2018
@@ -168,7 +168,7 @@
   title: Jean-Baptiste Assouad
   link_to: /communaute/2018/jean-baptiste-assouad.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: Archifiltre
   class:
   - 2018
@@ -180,7 +180,7 @@
   title: Philéas Condemine
   link_to: /communaute/2018/phileas-condemine.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Lab Santé
   class:
   - 2018
@@ -192,7 +192,7 @@
   title: Arnaud Rachez
   link_to: /communaute/2018/arnaud-rachez.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: CoachÉlève
   class:
   - 2018
@@ -204,7 +204,7 @@
   title: Elsa Luneville
   link_to: /communaute/2018/elsa-luneville.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientiste
   defi: Prédisauvetage
   class:
   - 2018
@@ -215,9 +215,9 @@
 - image: img/communaute/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
   link_to: /communaute/2017/constance-de-quatrebarbes.html
-  annee: 2018
-  profil: Datascience
-  defi: BNF - Catalogage
+  annee: 2017
+  profil: Datascientiste
+  defi: BNF - catalogage
   class:
   - 2017
   - eig
@@ -228,7 +228,7 @@
   title: Marion Paclot
   link_to: /communaute/2017/marion-paclot.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientiste
   defi: DGFiP - Fraude fiscale
   class:
   - 2017
@@ -240,19 +240,43 @@
   title: Julien Paris
   link_to: /communaute/2018/julien-paris.html
   annee: 2018
-  profil: Développement
-  defi: SocialConnect
+  profil: Développeur
+  defi: Social Connect
   class:
   - 2018
   - eig
   - webdev
   desc: Julien Paris
 
+- image: img/communaute/Tristram-Grabener.png
+  title: Tristram Gräbener
+  link_to: /communaute/2017/tristram-grabener.html
+  annee: 2017
+  profil: Développeur
+  defi: MI - cartAV
+  class:
+  - 2017
+  - eig
+  - datascientist
+  desc: Tristram Gräbener
+  
+- image: img/communaute/AdrienSignorino.png
+  title: Adrien Signorino
+  link_to: /communaute/2018/adrien-signorino.html
+  annee: 2018
+  profil: Datascientist
+  defi: b@liseNAV
+  class:
+  - 2018
+  - eig
+  - datascientist
+  desc: Adrien Signorino
+  
 - image: img/communaute/Emmanuel-Gautier.png
   title: Emmanuel Gautier
   link_to: /communaute/2018/emmanuel-gautier.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Archifiltre
   class:
   - 2018
@@ -274,8 +298,8 @@
 - image: img/communaute/Frederic-Bardolle.png
   title: Frédéric Bardolle
   link_to: /communaute/2017/frederic-bardolle.html
-  annee: 2018
-  profil: Développement
+  annee: 2017
+  profil: Développeur
   defi: CC - API rapports
   class:
   - 2017
@@ -283,7 +307,7 @@
   - webdev
   desc: Frédéric Bardolle
 
-- image: img/communaute/9_AnneLambert.jpg
+- image: img/communaute/Sans-photo.png
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
   annee: 2018
@@ -297,8 +321,8 @@
 - image: img/communaute/Laurent-Dupont.png
   title: Laurent Dupont
   link_to: /communaute/2017/laurent-dupont.html
-  annee: 2018
-  profil: Développement
+  annee: 2017
+  profil: Développeur
   defi: MESRI - La machine à données
   class:
   - 2017
@@ -328,6 +352,18 @@
   - 2019
   - mentor
   desc: Delphine Lê
+  
+- image: img/communaute/Arnaud-Menard.png
+  title: Arnaud Ménard
+  link_to: /communaute/2018/arnaud-menard.html
+  annee: 2018
+  profil: Datascientist
+  defi: b@liseNAV
+  class:
+  - 2018
+  - eig
+  - datascientist
+  desc: Arnaud Ménard
 
 - image: img/communaute/Sans-photo.png
   title: Stéphanie Schaer
@@ -344,7 +380,7 @@
   title: Ned Baldessin
   link_to: /communaute/2018/ned-baldessin.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: Gobelins
   class:
   - 2018
@@ -369,7 +405,7 @@
   title: Bastien Guerry
   link_to: /communaute/2018/bastien-guerry.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: MCC - Inventaire des orgues, EIG Link
   class:
   - 2017
@@ -382,7 +418,7 @@
   title: Élise Lalique
   link_to: /communaute/2018/elise-lalique.html
   annee: 2018
-  profil: Design
+  profil: Designeuse
   defi: Social Connect
   class:
   - 2018
@@ -429,7 +465,7 @@
   title: Paul Boosz
   link_to: /communaute/2018/paul-boosz.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Hopkins
   class:
   - 2018
@@ -441,7 +477,7 @@
   title: Etienne David
   link_to: /communaute/2017/etienne-david.html
   annee: 2017
-  profil: Développement
+  profil: Développeur
   defi: AFD - Geodata
   class:
   - 2017
@@ -453,7 +489,7 @@
   title: Victor Schmidt
   link_to: /communaute/2018/victor-schmidt.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Hopkins
   class:
   - 2018
@@ -465,7 +501,7 @@
   title: Julien Naour
   link_to: /communaute/2018/julien-naour.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Lab Santé
   class:
   - 2018
@@ -488,7 +524,7 @@
   title: Sébastien Cossin
   link_to: /communaute/2017/sebastien-cossin.html
   annee: 2017
-  profil: Développement
+  profil: Développeur
   defi: ARS -Parcours de soin
   class:
   - 2017
@@ -500,7 +536,7 @@
   title: Tiphaine Phe-Neau
   link_to: /communaute/2018/tiphaine-phe-neau.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientiste
   defi: Prévisecours
   class:
   - 2018
@@ -523,7 +559,7 @@
   title: Sami Moustachir
   link_to: /communaute/2018/sami-moustachir.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: dataESR
   class:
   - 2018
@@ -535,7 +571,7 @@
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
   annee: 2017
-  profil: Développement
+  profil: Développeur
   defi: MI - cartAV
   class:
   - 2017
@@ -547,7 +583,7 @@
   title: Guillaume Lancrenon
   link_to: /communaute/2018/guillaume-lancrenon.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: Prévisecours
   class:
   - 2018
@@ -559,7 +595,7 @@
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientist
   defi: Signaux Faibles
   class:
   - 2018
@@ -571,7 +607,7 @@
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
   annee: 2017
-  profil: Développement
+  profil: Développeur
   defi: MI - matchID
   class:
   - 2017
@@ -583,7 +619,7 @@
   title: Léo Bouloc
   link_to: /communaute/2017/leo-bouloc.html
   annee: 2017
-  profil: Datascience
+  profil: Datascientist
   defi: MESRI - La machine à données
   class:
   - 2017
@@ -617,8 +653,8 @@
   title: David Panou
   link_to: /communaute/2018/david-panou.html
   annee: 2018
-  profil: Datascience
-  defi: CoachÉlève
+  profil: Datascientist
+  defi: CoachÉlèves
   class:
   - 2018
   - eig
@@ -640,7 +676,7 @@
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: Signaux Faibles
   class:
   - 2018
@@ -652,7 +688,7 @@
   title: Maxime Pierrot
   link_to: /communaute/2018/maxime-pierrot.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: dataESR
   class:
   - 2018
@@ -675,7 +711,7 @@
   title: Jean-Baptiste Le Dévéhat
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   annee: 2018
-  profil: Design
+  profil: Designer
   defi: Brigade Numérique
   class:
   - 2018
@@ -687,7 +723,7 @@
   title: Laurie Chapotte
   link_to: /communaute/2018/laurie-chapotte.html
   annee: 2018
-  profil: Design
+  profil: Designeuse
   defi: Gobelins
   class:
   - 2018
@@ -712,6 +748,7 @@
   annee: 2018
   profil: Accompagnement
   defi: Programme EIG
+  
   class:
   - 2018
   desc: Sophie Miljkovic
@@ -720,7 +757,7 @@
   title: Antoine Augusti
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018
-  profil: Développement
+  profil: Développeur
   defi: Prédisauvetage
   class:
   - 2018
@@ -743,7 +780,7 @@
   title: Dora Crisan
   link_to: /communaute/2018/dora-crisan.html
   annee: 2018
-  profil: Développement
+  profil: Développeuse
   defi: Brigade Numérique
   class:
   - 2018
@@ -755,7 +792,7 @@
   title: Samah Ghalloussi
   link_to: /communaute/2018/samah-ghalloussi.html
   annee: 2018
-  profil: Datascience
+  profil: Datascientiste
   defi: Lab Santé
   class:
   - 2018
@@ -767,7 +804,7 @@
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
   annee: 2018
-  profil: Développement
+  profil: Développeuse
   defi: dataESR
   class:
   - 2018
@@ -792,5 +829,7 @@
   desc: Simon Karleskind
   annee: 2019
   profil: Mentor
-  defi: AGI'R
-  class: 2019 mentor
+  defi: Le Carrefou'R
+  class: 
+  - 2019
+  - mentor
