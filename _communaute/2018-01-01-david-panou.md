@@ -8,9 +8,9 @@ annees: 2018
 defis: 
   - nom: CoachÉlèves
     site: /defis/2018/coacheleves.html
-profil: Datascience
+profil: Datascientist
 images:
-  - /img/communaute/DavidPanou.png
+  - 
 ---
 
 « Suite à des études d’ingénieur en apprentissage automatique (Arts et
