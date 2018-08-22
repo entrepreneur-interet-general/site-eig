@@ -7,8 +7,8 @@ website:
 annees: 2019
 defis:
   - nom: CibNAV
-    site: 
-profil: Mentor de haut niveau
+    site: /defis/2019/DAM.html
+profil: Mentor
 images:
   - /img/communaute/herve-brule.png
 
