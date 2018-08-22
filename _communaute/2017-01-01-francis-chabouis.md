@@ -8,7 +8,7 @@ annees: 2017
 defis: 
   - nom: MI - cartAV
     site: /defis/2017/mi-cartav-securite-routiere.html
-profil: Développement
+profil: Développeur
 images:
   - /img/communaute/FrancisChabouis.jpg
 ---
