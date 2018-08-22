@@ -32,7 +32,7 @@
 - name: La vie du programme
   section_id: blog
   path: blog/
-  section_id: blog
+  children:
   - name: Notre blog
     path: blog/
 
