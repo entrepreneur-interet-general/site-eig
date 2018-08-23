@@ -16,6 +16,15 @@
   class: 2019 mentor
   desc: Audrey Istace
 
+- image: img/communaute/mauko-quiroga.png
+  title: Mauko Quiroga
+  link_to: /communaute/2019/mauko-quiroga.html
+  annee: 2019
+  profil: Mentor
+  defi: LexImpact
+  class: 2019 mentor
+  desc: Mauko Quiroga
+
 - image: img/communaute/herve-brule.png
   title: Hervé Brulé
   link_to: /communaute/2019/herve-brule.html
@@ -96,7 +105,16 @@
   defi: CartoBIO
   class: 2019 mentor
   desc: Samir Kebli
-  
+
+- image: img/communaute/sans-photo.png
+  title: Sandra Chakroun
+  link_to: /communaute/2019/sandra-chakroun.html
+  annee: 2019
+  profil: Mentor
+  defi: LexImpact
+  class: 2019 mentor
+  desc: Sandra Chakroun
+
 - image: img/communaute/Sans-photo.png
   title: Pascal Guy
   link_to: /communaute/2019/pascal-guy.html
