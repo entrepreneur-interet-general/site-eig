@@ -20,7 +20,7 @@ images:
 
 ## Open Justice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
 
-### La problématique : rendre les décisions de justice accessibles et réutilisables 
+### La problématique
 
 La diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la [Loi pour une République numérique](https://www.economie.gouv.fr/republique-numerique). De surcroît, elle constitue un enjeu essentiel d'accès à la jurisprudence -pour les acteurs du droit et de la justice comme pour les citoyens- et de possibilité de réutilisation -notamment pour les entrepreneurs de la _legal tech_.
 
