@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: Cour de cassation
+titre: Open Justice
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Ouvrir la jurisprudence en développant des solutions de pseudonymisation fiables des données"
@@ -13,12 +13,12 @@ eigs:
   - nom: Développeur·se full stack
 mentors: 
   - nom: Edouard Rottier
-images: xxx
+images:
 ---
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront la manière d’écrire, de consolider et de diffuser la jurisprudence ; ils pourront largement s'appliquer à d’autres types de données.
 
-## OpenJustice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
+## Open Justice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
 
 ### La problématique : rendre les décisions de justice accessibles et réutilisables 
 
@@ -96,6 +96,6 @@ associatifs et économiques concernés.
 
 _« La Cour de cassation dispose des deux bases de données nationales de jurisprudence existantes et d’une expertise reconnue en matière de pseudonymisation et de diffusion des décisions de justice. Le dispositif EIG permet de réunir l’ensemble des compétences nécessaires pour offrir un regard neuf sur ces données et mettre en œuvre des techniques de traitement innovantes._
 
-_Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction. Ils bénéficieront d’une large autonomie pour tenter d’améliorer l’état de l’art et pourront s’appuyer sur une équipe projet diversifiée, intégrant des représentants du ministère de la justice (secrétariat général et direction des services judiciaires)._
+_Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction._
 
-_Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. Les résultats de ces travaux sont susceptibles d’avoir un impact majeur pour l’institution judiciaire mais également pour toute administration envisageant la diffusion en open data de documents contenant des données personnelles. »_
+_Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. »_
