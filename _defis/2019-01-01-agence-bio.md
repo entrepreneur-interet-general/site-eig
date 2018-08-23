@@ -94,7 +94,7 @@ Rol-Tanguy, 93100 Montreuil
 
 ### Samir Kebli, mentor opérationnel
 
-![Samir Kebli](/img/communaute/Photo-SamirKEBLI.png)
+![Samir Kebli](/img/communaute/samir-kebli.png)
 
 Diplômé d’un Master en informatique décisionnelle, Samir KEBLI a
 rejoint l’Agence Bio en avril dernier après 8 années d’expérience en
@@ -105,10 +105,7 @@ les différents services dont celui d’APIser le SI de la bio et de
 mettre au cœur de ses services l’accès aux données et plus
 particulièrement celles aux données géolocalisées.
 
-<br/>
-<br/>
-
-### Dorian Flechet, appui SI
+### Dorian Flechet, appui métier
 
 ![Dorian Flechet](/img/communaute/Photo-DorianFLECHET.png)
 
