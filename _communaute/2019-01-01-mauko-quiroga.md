@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Mauko Quiroga
-website:
+website: https://www.linkedin.com/in/maukoquiroga/
 annees: 2019
 defis:
   - nom: LexImpact
