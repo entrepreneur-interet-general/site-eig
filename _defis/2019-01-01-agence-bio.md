@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: CartoBIO
+titre: CartoBio
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
 mission: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
