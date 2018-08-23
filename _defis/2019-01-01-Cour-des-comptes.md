@@ -50,25 +50,27 @@ Le défi proposé à la troisième promotion EIG est le suivant :
 
 - **imaginer et prototyper la chaîne de conception, de production 
 et de délibération des écrits de la Cour et de CRTC**, voire d’autres
-services publics, à l’époque des wikis, de Git et de Markdown ;
-
-- **fouiller les corpus de texte collectés ou élaborés par les 
-juridictions financières** pour valoriser la connaissance produite
-par les juridictions financières.
-
-Ce projet permettra de transformer profondément l’approche des
+services publics, à l’époque des wikis, de Git et de Markdown. Ce 
+projet permettra de transformer profondément l’approche des
 juridictions financières dans l’élaboration de leurs écrits en
 facilitant la collaboration au sein des équipes et en refondant le
 processus délibératif. En mettant en commun les demandes formulées aux
 administrations contrôlées et aux justiciables, la Cour et les CRTC
 pourront transposer à leurs procédures le principe « dites-le nous une
-fois ». L’exploration de textes recueillis ou produits et leur
+fois » ;
+
+- **fouiller les corpus de texte collectés ou élaborés par les 
+juridictions financières** pour valoriser la connaissance produite
+par les juridictions financières. L’exploration de textes recueillis ou produits et leur
 croisement avec des corpus externes pourront éclairer le choix des
 contrôles à lancer en priorité mais aussi aider les magistrats à
 identifier les positions déjà prises par les juridictions financières
-(JF) dans le cadre de travaux précédents. Ce projet sera l’occasion
-d’API-fier les applications « métier » des JF, en vue de leur ouverture à
-l’extérieur, notamment les applications documentaires.
+(JF) dans le cadre de travaux précédents. 
+
+Ce projet sera l’occasion d’API-fier les applications 
+« métier » des JF, afin de rendre les données disponibles 
+au grand public. Un citoyen pourra ainsi accéder 
+aux documents de la Cour des comptes.
 
 ## Les EIG recherché.e.s 
 
