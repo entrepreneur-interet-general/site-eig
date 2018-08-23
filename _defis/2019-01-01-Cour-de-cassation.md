@@ -51,8 +51,7 @@ jurisprudence.
 **Missions principales** : choix, entraînement et paramétrage des
 algorithmes (par exemple : tagger, spaCy,…) pour optimiser les
 résultats attendus (reconnaissance d’éléments identifiants, d’éléments
-sémantiques ou de structure), en premier lieu pour la
-pseudonymisation.
+sémantiques ou de structure).
 
 **Compétences recherchées** : apprentissage automatique (_machine learning_),
 traitement du langage naturel (_natural language processing_),
