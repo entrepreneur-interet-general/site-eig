@@ -18,12 +18,12 @@
 
 - name: La communauté
   children:
-  - name: Nos EIG et mentors
+  - name: Les EIG et mentors
     path: communaute.html
   - name: Nos événements
     path: evenements.html
 
-- name: La vie du programme
+- name: L'actualité
   children:
   - name: Notre blog
     path: blog/
