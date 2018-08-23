@@ -13,6 +13,7 @@ eigs:
   - nom: Développeur·se full stack
 mentors: 
   - nom: Edouard Rottier
+    site: /communaute/2019/edouard-rottier.html
 images:
 ---
 
