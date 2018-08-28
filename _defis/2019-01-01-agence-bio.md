@@ -12,7 +12,9 @@ eigs:
   - nom: Un·e développeur·se full stack node JS
 mentors: 
   - nom: Samir Kebli
+    site: /communaute/2019/samir-kebli.html
   - nom: Dorian Flechet
+    site: /communaute/2019/dorian-flechet.html
 images: 
 ---
 
