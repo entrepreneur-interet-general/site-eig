@@ -202,7 +202,9 @@
   defi: Lab Santé
   class:
   - 2018
+  - 2019
   - eig
+  - mentor
   - datascientist
   desc: Phileas Condemine
   
