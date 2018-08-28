@@ -68,9 +68,10 @@ identifier les positions déjà prises par les juridictions financières
 (JF) dans le cadre de travaux précédents. 
 
 Ce projet sera l’occasion d’API-fier les applications 
-« métier » des JF, afin de rendre les données disponibles 
-au grand public. Un citoyen pourra ainsi accéder 
-aux documents de la Cour des comptes.
+« métier » des JF, afin de rendre les données disponibles encore plus
+accessibles au grand public. Un citoyen pourra ainsi accéder plus 
+systématiquement aux documents de la Cour des comptes sous des formats
+techniquement réutilisables.
 
 ## Les EIG recherché.e.s 
 
@@ -102,12 +103,11 @@ mining_ (analyse de grands corpus, parcours de graphes, restitution et
 visualisation de sens) ainsi que la prise en charge de la phase
 de fouille de texte. 
 
-**Compétences nécessaires** : connaissance des graphes (topologie,
-dynamique) et aptitude à développer des algorithmes capable d'extraire un
-sens littéral stabilisé des clusters identifiés dans le graphe sont
-requises. Un profil avancé en informatique, notamment en parcours de
-grands graphes et des connaissances en analyse statistique et en IA
-seraient des plus.
+**Compétences nécessaires** : connaissance générale des graphes (structure,
+dynamique), et plus précisément des réseaux sémantiques, doublée d'une 
+aptitude à manipuler ou développer des algorithmes d'extraction de sens
+dans ce contexte, sont requises. Un profil avancé en informatique et des
+savoir-faire en analyse statistique et en IA seraient des plus.
 
 ## L'équipe autour des EIG
 
@@ -119,7 +119,7 @@ Données », du pôle « Méthodes » et du pôle « Formation ».
 
 ### Olivier Brandouy, mentor opérationnel
 
-Manque PHOTO 500 x 500
+![Olivier Brandouy](/img/communaute/olivier-brandouy.png)
 
 Professeur des Universités en finance, Olivier Brandouy est
 actuellement expert à la Cour des comptes, rattaché au secrétariat
