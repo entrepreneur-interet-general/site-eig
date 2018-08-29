@@ -132,7 +132,7 @@ possède une expertise GNU/Linux.
 
 ### Pascal Guy, appui SI
 
-Manque PHOTO 500 X 500
+![Pascal Guy](/img/communaute/pascal-guy.png)
 
 Directeur des systèmes d’information à la Cour des comptes, Pascal Guy
 est entouré d’une équipe de 32 collaborateurs, dont six
