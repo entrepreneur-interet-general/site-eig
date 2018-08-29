@@ -79,11 +79,15 @@ Trois profils complémentaires sont recherchés.
 
 ### EIG 1 - Un·e designer·euse
 
-**Missions principales** : le parcours et l’expérience
+**Missions principales** : _recherche utilisateur, analyse de besoins, carage du projet (entretiens, observations sur le terrain, ateliers), design du parcours et de l'expérience utilisateur_
+
+le parcours et l’expérience
 utilisateur ainsi que la prise en charge de la phase
 exploratoire. 
 
-**Compétences nécessaires** : expériences en design de services et d'interfaces
+**Compétences nécessaires** : _design d'interface UX/UI. Une appétence pour le design de service serait un plus. 
+
+expériences en design de services et d'interfaces
 d'applications numériques (UX/UI).
 
 ### EIG 2 - Un·e développeur·se
