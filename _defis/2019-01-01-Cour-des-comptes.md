@@ -85,7 +85,7 @@ le parcours et l’expérience
 utilisateur ainsi que la prise en charge de la phase
 exploratoire. 
 
-**Compétences nécessaires** : _design d'interface UX/UI. Une appétence pour le design de service serait un plus. 
+**Compétences nécessaires** : _design d'interface UX/UI. Une appétence pour le design de service serait un plus._ 
 
 expériences en design de services et d'interfaces
 d'applications numériques (UX/UI).
