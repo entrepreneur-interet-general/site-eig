@@ -11,8 +11,8 @@ defis:
     site: /defis/2018/hopkins.html
   - nom: Adler
     site: /defis/2019/MACP.html
-profil: 
-images:
+profil: Mentor
+images: /img/communaute/delphine-le.png
   - 
 ---
 
