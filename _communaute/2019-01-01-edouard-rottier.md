@@ -6,7 +6,7 @@ nom: Edouard Rottier
 website:
 annees: 2019
 defis: 
-  - nom: OpenJustice
+  - nom: Open Justice
     site: /defis/2019/Cour-de-cassation.html
 profil: Mentor
 images: 
