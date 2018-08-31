@@ -10,7 +10,6 @@ defis:
     site: /defis/2019/DINSIC.html
 profil: Mentor
 images: /img/communaute/sandra-chakroun.jpg
-  -
 ---
 
 Développeuse informaticienne, Sandra Chakroun est actuellement membre de l'équipe

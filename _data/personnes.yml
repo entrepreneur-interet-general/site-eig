@@ -25,6 +25,15 @@
   class: 2019 mentor
   desc: Mauko Quiroga
 
+- image: img/communaute/sandra-chakroun.jpg
+  title: Sandra Chakroun
+  link_to: /communaute/2019/sandra-chakroun.html
+  annee: 2019
+  profil: Mentor
+  defi: LexImpact
+  class: 2019 mentor
+  desc: Sandra Chakroun
+
 - image: img/communaute/herve-brule.png
   title: Hervé Brulé
   link_to: /communaute/2019/herve-brule.html
