@@ -9,8 +9,8 @@ defis:
   - nom: OpenJustice
     site: /defis/2019/Cour-de-cassation.html
 profil: Mentor
-images:
-  - 
+images: 
+  - /img/communaute/edouard-rottier.png
 ---
 
 Edouard Rottier, auditeur à la Cour de cassation, est en charge du bureau des diffusions numériques au service de documentation, des études et du rapport (SDER) de la Cour de cassation. Celle-ci administre et diffuse les bases de données de jurisprudence Jurinet (plus de 830 000 décisions en stock) et Jurica (plus d’1,8 millions de décisions en stock). Il suit les projets liés à l’open data des décisions de justice, en lien avec les acteurs institutionnels, associatifs et économiques concernés.
