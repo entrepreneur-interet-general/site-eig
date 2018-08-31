@@ -95,3 +95,12 @@ _« La Cour de cassation dispose des deux bases de données nationales de jurisp
 _Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction._
 
 _Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. »_
+
+### Éloi Bluat-Ménard, mentor de haut niveau
+
+![Éloi Bluat-Ménard](/img/communaute/eloi-bluat-menard.png)
+
+Eloi Buat-Ménard, conseiller référendaire à la Cour de cassation, est l’adjoint du directeur du service de documentation, des études et du rapport (SDER). Il anime depuis plusieurs années le projet d’open data des décisions de justice dont il a eu la charge d’abord au ministère de la justice, aujourd’hui à la Cour de cassation. 
+
+
+
