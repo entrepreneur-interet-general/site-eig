@@ -264,18 +264,6 @@
   class: 2019 mentor
   desc: Éloi Bluat-Ménard
 
-- image: img/communaute/Etienne-David.png
-  title: Etienne David
-  link_to: /communaute/2017/etienne-david.html
-  annee: 2017
-  profil: Développeur
-  defi: AFD-Geodata
-  class:
-  - 2017
-  - eig
-  - webdev
-  desc: Etienne David
-
 - image: img/communaute/Sans-photo.png
   title: Élise Lalique
   link_to: /communaute/2018/elise-lalique.html
@@ -335,6 +323,18 @@
   - mentor
   desc: Eric Le Guen
 
+- image: img/communaute/Etienne-David.png
+  title: Etienne David
+  link_to: /communaute/2017/etienne-david.html
+  annee: 2017
+  profil: Développeur
+  defi: AFD-Geodata
+  class:
+  - 2017
+  - eig
+  - webdev
+  desc: Etienne David
+  
 - image: img/communaute/Francis-Chabouis.png
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
