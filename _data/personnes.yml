@@ -251,9 +251,18 @@
   link_to: /communaute/2019/edouard-rottier.html
   annee: 2019
   profil: Mentor
-  defi: OpenJustice
+  defi: Open Justice
   class: 2019 mentor
   desc: Edouard Rottier
+  
+- image: img/communaute/eloi-bluat-menard.png
+  title: Éloi Bluat-Ménard
+  link_to: /communaute/2019/eloi-bluat-menard.html
+  annee: 2019
+  profil: Mentor
+  defi: Open Justice
+  class: 2019 mentor
+  desc: Éloi Bluat-Ménard
 
 - image: img/communaute/Etienne-David.png
   title: Etienne David
