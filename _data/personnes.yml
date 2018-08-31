@@ -51,7 +51,7 @@
   - mentor
   desc: Anne Lambert
   
- - image: img/communaute/anne-sophie-hutin.png
+- image: img/communaute/anne-sophie-hutin.png
   title: Anne-Sophie Hutin
   link_to: /communaute/2019/anne-sophie-hutin.html
   annee: 2019
@@ -246,7 +246,7 @@
   class: 2019 mentor
   desc: Dorian Flechet
   
- - image: img/communaute/Sans-photo.png
+- image: img/communaute/Sans-photo.png
   title: Edouard Rottier
   link_to: /communaute/2019/edouard-rottier.html
   annee: 2019
@@ -780,7 +780,6 @@
   annee: 2018
   profil: Accompagnement
   defi: Programme EIG
-  
   class:
   - 2018
   desc: Sophie Miljkovic
@@ -830,7 +829,7 @@
   - datascientist
   desc: Tiphaine Phe-Neau
 
- - image: img/communaute/Tristram-Grabener.png
+- image: img/communaute/Tristram-Grabener.png
   title: Tristram Gräbener
   link_to: /communaute/2017/tristram-grabener.html
   annee: 2017
