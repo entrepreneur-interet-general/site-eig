@@ -41,7 +41,7 @@ le travail de l'organisme certificateur.
 
 
 D'autres parties prenantes de l'Agence BIO ont fait remonter leur
-besoin d'un tel outil :
+besoin d'un tel outil lors d'un barcamp :
 
 * les opérateurs et les directions départementales des territoires,
   qui souhaitent ainsi simplifier les démarches relatives à
@@ -51,7 +51,7 @@ besoin d'un tel outil :
   qui souhaitent mieux connaître le foncier agricole pour pouvoir
   proposer des aménagements territoriaux cohérents ;
 * des acteurs divers - Agences de l'Eau, collectivités territoriales,
-  parc naturels, etc. - qui souhaitent définir des politiques
+  parc naturels, etc. - qui souhaitent mettre en oeuvre des politiques
   territoriales ambitieuses et pertinentes...
 
 ### Le défi : proposer des outils de mise à disposition des données de l'agriculture biologique
@@ -89,8 +89,7 @@ JavaScript, SQL.
 L’environnement de travail des EIG : postes Windows, un serveur de
 développement et des licences seront mis à disposition au besoin.
 
-Lieu de travail : 6 rue Lavoisier 93100 Montreuil puis 12 Rue Henri
-Rol-Tanguy, 93100 Montreuil
+Lieu de travail : 6 rue Lavoisier 93100 Montreuil 
 
 ## L'équipe autour des EIG
 
@@ -102,10 +101,10 @@ Diplômé d’un Master en informatique décisionnelle, Samir KEBLI a
 rejoint l’Agence Bio en avril dernier après 8 années d’expérience en
 gestion de projet. Sa mission : mener à bien la refonte du Système
 d’Information (SI) de l’agriculture biologique. Parmi les missions qui
-lui y sont confiées figurent celle de coordonner et de mettre en œuvre
+lui sont confiées figurent celle de coordonner et de mettre en œuvre
 les différents services dont celui d’APIser le SI de la bio et de
-mettre au cœur de ses services l’accès aux données et plus
-particulièrement celles aux données géolocalisées.
+mettre au cœur de ces services l’accès aux données et plus
+particulièrement aux données géolocalisées.
 
 ### Dorian Flechet, appui métier
 
@@ -121,4 +120,4 @@ politiques de développement de l’agriculture biologique et a initié la
 création d’un système national d’information dédié à l’agriculture
 biologique.
 
-_« Le secteur de l’agriculture biologique connaît une dynamique sans précédent depuis quelques années. On en parle, on le scrute, on cherche à savoir où il va : et le défi CartoBio s’inscrit directement dans cette dynamique, car mieux connaître l’origine des produits et participer à la traçabilité c’est aussi renforcer la confiance que les consommateurs portent au label BIO. Notre objectif, en identifiant et en suivant les parcelles bio dans l’espace et dans le temps, est de savoir gérer l’ensemble des données qui leur sont rattachées pour simplifier les démarches de nos agriculteurs, accompagner les politiques de transition écologique de nos territoires comme celles des agences de l’eau, des parcs naturels ou de certaines communautés de communes. Il s’agit là de la pierre angulaire de notre projet de création d’un SI national de l’agriculture bio et le programme des EIG apportera, nous en sommes sûr, les compétences et la capacité d’innovation nécessaire au développement partenarial de ce projet. »_
+_« Le secteur de l’agriculture biologique connaît une dynamique sans précédent depuis quelques années. On en parle, on le scrute, on cherche à savoir où il va : et le défi CartoBio s’inscrit directement dans cette dynamique, car mieux connaître l’origine des produits et participer à la traçabilité c’est aussi renforcer la confiance que les consommateurs portent au label BIO. Notre objectif, en identifiant et en suivant les parcelles bio dans l’espace et dans le temps, est de savoir gérer l’ensemble des données qui leur sont rattachées pour simplifier les démarches de nos agriculteurs, accompagner les politiques de transition écologique de nos territoires comme celles des agences de l’eau, des parcs naturels ou de certaines communautés de communes. Il s’agit là de la pierre angulaire de notre projet de création d’un SI national de l’agriculture bio et le programme des EIG apportera, nous en sommes sûrs, les compétences et la capacité d’innovation nécessaires au développement partenarial de ce projet. »_
