@@ -3,7 +3,7 @@
   - name: Notre ambition
     path: presentation.html
   - name: Notre offre d'accompagnement
-    path: guides.html
+    path: accompagnement.html
   - name: F.A.Q. Entrepreneur
     path: faq-eig.html
   - name: F.A.Q. Administration
