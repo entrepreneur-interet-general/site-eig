@@ -86,10 +86,10 @@ Geoserver, etc) et modélisation d’une base de données
 maîtrise des méthodes agiles, connaissances en cartographie,
 JavaScript, SQL.
 
-L’environnement de travail des EIG : postes Windows, un serveur de
+_L’environnement de travail des EIG_ : postes Windows, un serveur de
 développement et des licences seront mis à disposition au besoin.
 
-Lieu de travail : 6 rue Lavoisier 93100 Montreuil 
+_Lieu de travail_ : 6 rue Lavoisier 93100 Montreuil 
 
 ## L'équipe autour des EIG
 
