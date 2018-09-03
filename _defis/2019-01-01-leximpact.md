@@ -16,6 +16,7 @@ mentors:
   - nom: Sandra Chakroun
     site: /communaute/2019/sandra-chakroun.html
 images: 
+  - /img/logo-lex-impact.png
 ---
 
 La Direction Interministérielle du Numérique et du Système d’Information
