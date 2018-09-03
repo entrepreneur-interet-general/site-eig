@@ -50,7 +50,7 @@
   - 2018
   - mentor
   desc: Anne Lambert
-  
+
 - image: img/communaute/anne-sophie-hutin.png
   title: Anne-Sophie Hutin
   link_to: /communaute/2019/anne-sophie-hutin.html
@@ -59,15 +59,6 @@
   defi: ?????????????
   class: 2019 mentor
   desc: Anne-Sophie Hutin
-
-- image: img/communaute/sandra-chakroun.jpg
-  title: Sandra Chakroun
-  link_to: /communaute/2019/sandra-chakroun.html
-  annee: 2019
-  profil: Mentor
-  defi: LexImpact
-  class: 2019 mentor
-  desc: Sandra Chakroun
 
 - image: img/communaute/Antoine-Augusti.png
   title: Antoine Augusti
@@ -245,7 +236,7 @@
   - eig
   - webdev
   desc: Dora Crisan
-     
+
 - image: img/communaute/Photo-DorianFLECHET.png
   title: Dorian Flechet
   link_to: /communaute/2019/dorian-flechet.html
@@ -254,7 +245,7 @@
   defi: CartoBio
   class: 2019 mentor
   desc: Dorian Flechet
-  
+
 - image: img/communaute/edouard-rottier.png
   title: Edouard Rottier
   link_to: /communaute/2019/edouard-rottier.html
@@ -263,7 +254,7 @@
   defi: Open Justice
   class: 2019 mentor
   desc: Edouard Rottier
-  
+
 - image: img/communaute/eloi-bluat-menard.png
   title: Éloi Bluat-Ménard
   link_to: /communaute/2019/eloi-bluat-menard.html
@@ -343,7 +334,7 @@
   - eig
   - webdev
   desc: Etienne David
-  
+
 - image: img/communaute/Francis-Chabouis.png
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
@@ -399,7 +390,7 @@
   defi: CibNAV
   class: 2019 mentor
   desc: Hervé Brulé
-  
+
 - image: img/communaute/iana-ivanov.jpg
   title: Iana Ivanov
   link_to: /communaute/2019/iana-ivanov.html
@@ -497,7 +488,7 @@
   - eig
   - webdev
   desc: Laurent Dupont
-  
+
 - image: img/communaute/laurent-toustou.png
   title: Laurent Toustou
   link_to: /communaute/2019/laurent-toustou.html
@@ -629,7 +620,7 @@
   defi: ACOSS-plateforme
   class: 2019 mentor
   desc: Nicolas Bizet
-  
+
 - image: img/communaute/Sans-photo.png
   title: Olivier Brandouy
   link_to: /communaute/2019/olivier-brandouy.html
@@ -679,7 +670,7 @@
   - 2017
   - 2018
   desc: Paul Schmite
- 
+
 - image: img/communaute/phileas-condemine.png
   title: Philéas Condemine
   link_to: /communaute/2018/phileas-condemine.html
@@ -751,7 +742,7 @@
   - eig
   - datascientist
   desc: Sami Moustachir
-  
+
 - image: img/communaute/Photo-SamirKEBLI.png
   title: Samir Kebli
   link_to: /communaute/2019/samir-kebli.html
@@ -761,7 +752,7 @@
   class: 2019 mentor
   desc: Samir Kebli
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/sandra-chakroun.jpg
   title: Sandra Chakroun
   link_to: /communaute/2019/sandra-chakroun.html
   annee: 2019
@@ -788,7 +779,7 @@
   annee: 2019
   profil: Mentor
   defi: Karfu'R
-  class: 
+  class:
   - 2019
   - mentor
   desc: Simon Karleskind
@@ -882,5 +873,3 @@
   - 2018
   - mentor
   desc: Yann Caradec
-  
-
