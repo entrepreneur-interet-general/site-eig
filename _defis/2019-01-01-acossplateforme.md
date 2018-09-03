@@ -16,6 +16,7 @@ mentors:
   - nom: Patricia Poulet-Mathis
     site: /communaute/2019/patricia-poulet-mathis.html
 images: 
+  - /img/logo-acoss-plateforme.png
 ---
 
 [L’Agence centrale des organismes de sécurité sociale
