@@ -14,6 +14,7 @@ mentors:
   - nom: Audrey Istace
     site: /communaute/2019/audrey-istace.html
 images: 
+  - /img/logo-polygaphe.png
 ---
 
 [La Direction générale de la concurrence, de la consommation
