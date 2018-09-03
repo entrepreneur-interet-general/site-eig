@@ -16,8 +16,7 @@ mentors:
   - nom: Éric Le Guen
     site: /communaute/2018/eric-le-guen.html
 images:
-  - /images/@stock/medium-work-1.jpg
-  - /images/@stock/medium-work-2.jpg
+  -  /img/defis/5_balisage.png 
 ---
 
 La mer, une grande étendue bleue capricieuse sur laquelle s’élancent

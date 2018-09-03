@@ -13,6 +13,7 @@ images: /img/communaute/sandra-chakroun.jpg
 ---
 
 Développeuse informaticienne, Sandra Chakroun est actuellement membre de l'équipe
+
 [OpenFisca](https://openfisca.org/fr/) à la DINSIC.
 Diplômée d'un Master 2 d'Informatique de l'Université Pierre & Marie Curie ([Sorbonne Université](https://www.sorbonne-universite.fr)), 
 elle s'adapte aux différentes technologies de programmation logicielle. 

@@ -16,15 +16,17 @@ mentors:
     site: /communaute/2019/olivier-brandouy.html
   - nom: Pascal Guy
     site: /communaute/2019/pascal-guy.html
-  - nom: Adnène Trojette
+  - nom: Mohammed Adnène Trojette
     site: /communaute/2019/adnene-trojette.html
 images:
   - //img/defis/plume-portfolio.png
 ---
 
-La [Cour des comptes](https://www.ccomptes.fr/en) souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+La [Cour des comptes](https://www.ccomptes.fr/) souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
-## Plume : faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
+<br/>
+
+## Plume : finir de faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
 ### La problématique
 
@@ -35,14 +37,13 @@ missions des juridictions financières : s’assurer du bon emploi des 1
 292 Md € d’argent public et en informer le citoyen.
 
 Pour ce faire, comme la plupart des administrations qu’elles
-contrôlent, la Cour et les Chambres régionales et territoriales des
+contrôlent, la Cour et les chambres régionales et territoriales des
 comptes (CRTC) produisent des milliers de documents, encore trop
 souvent imprimés et annotés à la main. Cette méthode, qui répondait parfaitement
 aux besoins des juridictions financières du XIX<sup>e</sup> siècle et
 correctement au XX<sup>e</sup> siècle, a trouvé ses limites avec le
 développement des démarches et des outils numériques de rédaction
 collaborative.
-
 
 ### Le défi : développer des outils de rédaction collaborative et d'exploration de données pour transformer les métiers des juridictions financières
 
@@ -73,18 +74,17 @@ accessibles au grand public. Un citoyen pourra ainsi accéder plus
 systématiquement aux documents de la Cour des comptes sous des formats
 techniquement réutilisables.
 
+<br/>
+
 ## Les EIG recherché.e.s 
 
 Trois profils complémentaires sont recherchés.
 
 ### EIG 1 - Un·e designer·euse
 
-**Missions principales** : le parcours et l’expérience
-utilisateur ainsi que la prise en charge de la phase
-exploratoire. 
+**Missions principales** : recherche utilisateur, analyse de besoins, cadrage du projet (entretiens, observations sur le terrain, ateliers), design du parcours et de l'expérience utilisateur
 
-**Compétences nécessaires** : expériences en design de services et d'interfaces
-d'applications numériques (UX/UI).
+**Compétences nécessaires** : design d'interface UX/UI. Une appétence pour le design de service serait un plus.
 
 ### EIG 2 - Un·e développeur·se
 
@@ -108,6 +108,8 @@ dynamique), et plus précisément des réseaux sémantiques, doublée d'une
 aptitude à manipuler ou développer des algorithmes d'extraction de sens
 dans ce contexte, sont requises. Un profil avancé en informatique et des
 savoir-faire en analyse statistique et en IA seraient des plus.
+
+<br/>
 
 ## L'équipe autour des EIG
 
@@ -135,7 +137,7 @@ possède une expertise GNU/Linux.
 
 ### Pascal Guy, appui SI
 
-Manque PHOTO 500 X 500
+![Pascal Guy](/img/communaute/pascal-guy.png)
 
 Directeur des systèmes d’information à la Cour des comptes, Pascal Guy
 est entouré d’une équipe de 32 collaborateurs, dont six
@@ -147,9 +149,9 @@ informatique et d’un Master en management des NTIC de l’Ecole
 centrale-EM Lyon, adepte des méthodes agiles, il continue à ses heures
 perdues à faire du développement à titre personnel et récréatif.
 
-### Adnène Trojette, mentor de haut niveau
+### Mohammed Adnène Trojette, mentor de haut niveau
 
-![Adnène Trojette, SGA, mentor de haut niveau](/img/communaute/adnene-trojette.jpg)
+![Mohammed Adnène Trojette, SGA, mentor de haut niveau](/img/communaute/adnene-trojette.jpg)
 
 Secrétaire général adjoint de la Cour des comptes, Mohammed Adnène
 Trojette dirige le centre d’appui métier des juridictions financières
@@ -157,7 +159,7 @@ qui regroupe la direction des systèmes d’information, la direction de
 la documentation, le pôle données, le pôle méthodes et le pôle
 formation.
 
-Ingénieur en informatique et télécom, ancien de SciencesPo Paris, de
+Ingénieur en informatique et télécoms, ancien de SciencesPo Paris, de
 l’ENA et développeur Debian GNU/Linux, il a remis au Premier ministre
 en 2013 un rapport sur l’ouverture des données publiques. Ancien
 co-directeur du Liberté Living-lab, il a copiloté la première

@@ -3,12 +3,12 @@
   - name: Notre ambition
     path: presentation.html
   - name: Notre offre d'accompagnement
-    path: guides.html
+    path: accompagnement.html
   - name: F.A.Q. Entrepreneur
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
-    
+
 - name: Les projets
   children:
   - name: Nos défis
@@ -24,6 +24,8 @@
     path: evenements.html
 
 - name: L'actualité
+  section_id: actualite
+  path: actualite.html
   children:
   - name: Notre blog
     path: blog/

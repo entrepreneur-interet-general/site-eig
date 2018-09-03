@@ -4,7 +4,7 @@ titre: Prévisecours
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
 mission: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
-administration: Minisère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
+administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
 administration-website: https://www.interieur.gouv.fr/
 type: Datascience
 eigs:

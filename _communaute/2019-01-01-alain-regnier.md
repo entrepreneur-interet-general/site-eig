@@ -6,7 +6,7 @@ nom: Alain Régnier
 website:
 annees: 2019
 defis: 
-  - nom: Le Carrefou'R
+  - nom: Karfu'R
     site: /defis/2019/DIAIR.html
 profil: Mentor
 images:

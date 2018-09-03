@@ -6,7 +6,7 @@ nom: Simon Karleskind
 website: 
 annees: 2019
 defis: 
-  - nom: Agi'R
+  - nom: Karfu'R
     site: /defis/2019/DIAIR.html
 profil: Mentor
 images:
