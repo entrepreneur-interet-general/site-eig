@@ -45,11 +45,7 @@ correctement au XX<sup>e</sup> siècle, a trouvé ses limites avec le
 développement des démarches et des outils numériques de rédaction
 collaborative.
 
-<br/>
-
 ### Le défi : développer des outils de rédaction collaborative et d'exploration de données pour transformer les métiers des juridictions financières
-
-<br/>
 
 Le défi proposé à la troisième promotion EIG est le suivant :
 
