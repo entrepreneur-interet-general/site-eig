@@ -23,12 +23,9 @@
   - name: Nos événements
     path: evenements.html
 
-- name: L'actualité
-  section_id: actualite
+- name: Le blog
+  section_id: blog
   path: /blog/
-  children:
-  - name: Notre blog
-    path: blog/
 
 - name: Participer
   section_id: participer
