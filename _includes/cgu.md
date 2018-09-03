@@ -1,35 +1,25 @@
-**Conditions d’utilisation**
+## Conditions d’utilisation
 
-**Vocabulaire**
+### Vocabulaire
 
 « Nous » se réfère à l'éditeur du site, la mission Etalab.
 
 « Vous » se réfère à un usager du site.
 
-**Présentation**
+### Présentation
 
 [Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/)
-est un site dédié au programme Entrepreneur·e·s
+est un site dédié au programme Entrepreneur·e
 d’intérêt général (EIG), un programme public opéré par la mission
-Etalab et la Caisse des dépôts et consignations, dans le cadre du
-Programme d’investissements d’avenir (PIA).
+Etalab, soutenu par le Programme d’investissements d’avenir (PIA), en lien avec le Secrétariat général pour l'investissement et la Caisse des dépôts et consignations.
 
 Il vise à présenter l'ambition du programme, la communauté des entrepreneurs d'intérêt et leurs mentors, et à sélectionner les défis EIG et les promotions d'entrepreneurs lors des périodes d'appel à projet et à candidature. 
 
-**Appel à candidature - Promotion 3** 
+### Appel à candidature - Promotion 3 
 
-L'appel à candidature de la Promotion 3 des entrepreneurs d'intérêt général est ouvert du 13 septembre au 15 octobre 2018. 
-PARCOURS UTILISATEUR POUR CANDIDATER + REGLEMENT DU PROGRAMME
+L'appel à candidature de la Promotion 3 des entrepreneurs d'intérêt général est ouvert du 13 septembre au 15 octobre 2018. L'espace ["Participer"](/candidature-eig.html) du site vous permet de candidater au programme et présente les différents défis qui seront relevés par des entrepreneurs d'intérêt général. Il redirige vers [le formulaire de candidature](lien à ajouter) géré via la plateforme demarches-simplifiees.fr. 
 
-_Il vous permet de candidater au programme directement à partir de la
-rubrique
-« [Participer](https://entrepreneur-interet-general.etalab.gouv.fr/#contact) »,
-en remplissant un [formulaire
-dédié](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391). Toute
-candidature utilisant un autre canal ne sera pas examinée.
-
-L’appel à candidatures est régi par ce
-[règlement](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf)._
+_Toute candidature utilisant un autre canal ne sera pas examinée._
 
 **Absence de garantie**
 
@@ -37,23 +27,12 @@ Le site est mis à disposition sans garantie sur sa disponibilité, dans
 une logique du « meilleur effort » ; d'éventuelles indisponibilités
 n'ouvriront pas droit à compensation financière.
 
-Conformément au règlement de l’appel à candidatures, la participation
+Conformément au règlement de l’appel à candidature, la participation
 à celui-ci n’entraîne pas la sélection comme entrepreneur d’intérêt
 général, ni le passage devant le jury, les candidatures faisant
 l’objet d’une pré-sélection par la mission Etalab.
 
-**Évolutions**
-
-Ce site comme ces conditions d’utilisation sont susceptibles
-d’évoluer.
-
-**Utilisation**
-
-Nous nous réservons le droit de bloquer, sans information préalable ni
-compensation financière, les utilisateurs et les usages mettant en
-péril l'utilisation du site par d'autres usagers.
-
-**Vie privée**
+### Vie privée
 
 **Cookies**
 
@@ -79,15 +58,17 @@ avec en objet « exercice du droit de rectification et modification
 des données » ou un courrier à l’adresse Mission Etalab, 
 20, avenue de Ségur, 75007 Paris.
 
-*Liste de diffusion*
-Nous constituons une liste de diffusion que vous rejoignez sur demande. 
+#### Liste de diffusion
+
+Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/SJvAOQcmm). 
 A ce titre, nous traitons donc certaines données à caractère personnel 
 (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du 
 programme et rester en contact avec vous. Ce traitement est fondé sur 
 votre consentement. Ont accès à ces données les personnes habilitées de 
 la mission Etalab.
 
-*Appel à candidature - Promotion 3*
+#### Appel à candidature - Promotion 3
+
 Le [formulaire](nouvel URL à ajouter) permettant de candidater est hébergé 
 et opéré par demarches-simplifiees.fr, une application en ligne
 de la Direction interministérielle du système d'information et 
@@ -105,7 +86,18 @@ conformément aux dispositions du réglement général de protection des donnée
 Ont accès à ces données les personnes habilitées de la mission 
 Etalab, des administrations d'accueil et le jury. 
 
-**Mentions légales**
+### Évolutions
+
+Ce site comme ces conditions d’utilisation sont susceptibles
+d’évoluer.
+
+## Utilisation
+
+Nous nous réservons le droit de bloquer, sans information préalable ni
+compensation financière, les utilisateurs et les usages mettant en
+péril l'utilisation du site par d'autres usagers.
+
+### Mentions légales
 
 **Editeur**
 
