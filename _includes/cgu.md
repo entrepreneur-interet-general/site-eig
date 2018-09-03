@@ -9,18 +9,19 @@
 **Présentation**
 
 [Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/)
-est un site dédié à la deuxième promotion des Entrepreneur·e·s
+est un site dédié au programme Entrepreneur·e·s
 d’intérêt général (EIG), un programme public opéré par la mission
 Etalab et la Caisse des dépôts et consignations, dans le cadre du
 Programme d’investissements d’avenir (PIA).
 
-Il vise à présenter les défis proposés par les administrations
-(sélectionnés lors de l’appel à projets de mai à juillet 2017) et à
-diffuser un appel à candidatures pour trouver les futurs entrepreneurs
-prêts à les relever. Celui-ci se déroule durant un mois, du 27
-septembre au 27 octobre 2017.
+Il vise à présenter l'ambition du programme, la communauté des entrepreneurs d'intérêt et leurs mentors, et à sélectionner les défis EIG et les promotions d'entrepreneurs lors des périodes d'appel à projet et à candidature. 
 
-Il vous permet de candidater au programme directement à partir de la
+**Appel à candidature - Promotion 3** 
+
+L'appel à candidature de la Promotion 3 des entrepreneurs d'intérêt général est ouvert du 13 septembre au 15 octobre 2018. 
+PARCOURS UTILISATEUR POUR CANDIDATER + REGLEMENT DU PROGRAMME
+
+_Il vous permet de candidater au programme directement à partir de la
 rubrique
 « [Participer](https://entrepreneur-interet-general.etalab.gouv.fr/#contact) »,
 en remplissant un [formulaire
@@ -28,7 +29,7 @@ dédié](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo
 candidature utilisant un autre canal ne sera pas examinée.
 
 L’appel à candidatures est régi par ce
-[règlement](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf).
+[règlement](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf)._
 
 **Absence de garantie**
 
