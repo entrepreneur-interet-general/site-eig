@@ -24,6 +24,8 @@ images:
 
 La [Cour des comptes](https://www.ccomptes.fr/) souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
+<br/>
+
 ## Plume : finir de faire entrer les juridictions financières dans le XXI<sup>e</sup> siècle
 
 ### La problématique
@@ -43,8 +45,11 @@ correctement au XX<sup>e</sup> siècle, a trouvé ses limites avec le
 développement des démarches et des outils numériques de rédaction
 collaborative.
 
+<br/>
 
 ### Le défi : développer des outils de rédaction collaborative et d'exploration de données pour transformer les métiers des juridictions financières
+
+<br/>
 
 Le défi proposé à la troisième promotion EIG est le suivant :
 
@@ -72,6 +77,8 @@ Ce projet sera l’occasion d’API-fier les applications
 accessibles au grand public. Un citoyen pourra ainsi accéder plus 
 systématiquement aux documents de la Cour des comptes sous des formats
 techniquement réutilisables.
+
+<br/>
 
 ## Les EIG recherché.e.s 
 
@@ -105,6 +112,8 @@ dynamique), et plus précisément des réseaux sémantiques, doublée d'une
 aptitude à manipuler ou développer des algorithmes d'extraction de sens
 dans ce contexte, sont requises. Un profil avancé en informatique et des
 savoir-faire en analyse statistique et en IA seraient des plus.
+
+<br/>
 
 ## L'équipe autour des EIG
 
