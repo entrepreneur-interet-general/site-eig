@@ -1,91 +1,89 @@
 - image: /img/defis/adler-portfolio.png
   title: Adler
-  link_to: /defis/2019/MACP.html
+  link_to: /defis/2019/adler.html
   class: 2019 data
   desc: Datascience
 
 - image: /img/defis/cartobio-portfolio.png
-  title: CartoBio 
-  link_to: /defis/2019/agence-bio.html
+  title: CartoBio
+  link_to: /defis/2019/cartobio.html
   class: 2019 data web
   desc: Datascience
 
 - image: /img/defis/cibnav-portfolio.png
   title: CibNAV
-  link_to: /defis/2019/DAM.html
+  link_to: /defis/2019/cibnav.html
   class: 2019 data web
   desc: Datascience &amp; Développement
 
 - image: /img/defis/eig-link-portfolio.png
   title: EIG Link
-  link_to: /defis/2019/Etalab.html
+  link_to: /defis/2019/eiglink.html
   class: 2019 web design
   desc: Design &amp; Développement
-  
+
 - image: /img/defis/explocode-portfolio.png
   title: ExploCode
-  link_to: /defis/2019/DGT.html
+  link_to: /defis/2019/explocode.html
   class: 2019 data
   desc: Datascience
-  
+
 - image: /img/defis/iaflash-portfolio.png
-  title: IAflash 
-  link_to: /defis/2019/MinInt.html
+  title: IA Flash
+  link_to: /defis/2019/iaflash.html
   class: 2019 data
   desc: Datascience
-  
+
 - image: /img/defis/leximpact-portfolio.png
   title: LexImpact
-  link_to: /defis/2019/DINSIC.html
+  link_to: /defis/2019/leximpact.html
   class: 2019 web design
   desc: Design &amp; Développement
-  
+
 - image: /img/defis/open-chronic-portfolio.png
-  title: Open Chronic 
-  link_to: /defis/2019/DREES.html
+  title: Open Chronic
+  link_to: /defis/2019/openchronic.html
   class: 2019 data
   desc: Datascience
 
 - image: /img/defis/open-justice-portfolio.png
   title: Open Justice
-  link_to: /defis/2019/Cour-de-cassation.html
+  link_to: /defis/2019/openjustice.html
   class: 2019 data web
   desc: Datascience &amp; Développement
 
 - image: /img/defis/plume-portfolio.png
-  title: Plume 
-  link_to: /defis/2019/Cour-des-comptes.html
+  title: Plume
+  link_to: /defis/2019/plume.html
   class: 2019 data web design
   desc: Datascience, Design &amp; Développement
-  
+
 - image: /img/defis/polygraphe-portfolio.png
   title: PolyGraphe
-  link_to: /defis/2019/DGCCRF.html
+  link_to: /defis/2019/polygraphe.html
   class: 2019 data web
   desc: Datascience &amp; Développement
 
-
-
 - image: /img/defis/le-carrefour-portfolio.png
-  title: Le Carrefou'R 
-  link_to: /defis/2019/DIAIR.html
+  title: Karfu'R
+  link_to: /defis/2019/karfur.html
   class: 2019 web design
   desc: Design &amp; Développement
 
 - image: /img/defis/prejudices-corporels-portfolio.png
-  title: Préjudices corporels 
-  link_to: /defis/2019/MinJu.html
+  title: Thémis
+  link_to: /defis/2019/themis.html
   class: 2019 data
   desc: Datascience
 
 - image: /img/defis/acoss-plateforme-portfolio.png
-  title: ACOSS-Plateforme 
-  link_to: /defis/2019/Urssaf.html
+  title: ACOSS-Plateforme
+  link_to: /defis/2019/acossplateforme.html
   class: 2019 web design
   desc: Design &amp; Développement
 
 - image: /img/defis/arcep-portfolio.png
-  title: Arcep 
-  link_to: /defis/2019/ARCEP.html
+  title: DataReg
+  link_to: /defis/2019/datareg.html
   class: 2019 data
   desc: Datascience
