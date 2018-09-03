@@ -10,7 +10,6 @@ defis:
     site: /defis/2019/DINSIC.html
 profil: Mentor
 images: /img/communaute/mauko-quiroga.png
-
 ---
 
 Artisan du logiciel et des méthodes de développement produit, Mauko
