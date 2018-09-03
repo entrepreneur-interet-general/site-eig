@@ -39,13 +39,12 @@ section_id: blog
       </span>
     </p>
     <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-    <p>{{post.excerpt}}</p>
+    <p>{{post.description}}</p>
     <div class='spacing'></div>
-    <a class="button small" href="{{post.url}}">Lire la suite</a>
+    <a class="button" href="{{post.url}}">Lire la suite</a>
   </div>
 </div>
 <hr>
-<div class='two spacing'></div>
 {% endfor %}
 
 {% include pagination.html root="blog" %}

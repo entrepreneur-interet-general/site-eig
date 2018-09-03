@@ -1014,7 +1014,7 @@ body.screenshot {
 
 .modBlogPost.big img {
     display: block;
-    width: 40em;
+    width: 100%;
     max-width: 100%;
     margin: 1em auto 1em;
     -webkit-box-shadow: 0 10px 6px -6px #777;
@@ -1039,7 +1039,7 @@ body.screenshot {
   background: none;
 }
 .modBlogPost.no_bg .content {
-  padding: 30px 0 10px;
+  padding: 10px 0 10px;
   background: none;
 }
 
