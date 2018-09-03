@@ -63,44 +63,55 @@ la Commission nationale informatique et libertés \(CNIL).
 
 **Vos données**
 
-Le
-[formulaire](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391)
-permettant de candidater est hébergé et opéré par
-[Framaforms](https://framaforms.org), un service en ligne libre,
-gratuit et respectueux de vos données permettant de générer des
-formulaires, proposé par l'association
-[Framasoft](https://framasoft.org). Vous pouvez vous reporter à leurs
-[conditions générales
-d’utilisation](https://framasoft.org/nav/html/cgu.html) et à leurs
-[mentions
-légales](https://framasoft.org/nav/html/legals.html#hetzner).
+Nous traitons des données à caractère personnel vous concernant, 
+dans deux cas :
+- si vous rejoignez notre liste de diffusion ;
+- si vous candidatez pour devenir entrepreneur d'intérêt général.
+
+Nous nous engageons à prendre toutes les mesures nécessaires pour 
+garantir leur sécurité et leur confidentialité, dans le respect du 
+cadre légal.
+
+Vous avez différents droits s'agissant de vos données : opposition, 
+accès, rectification, effacement, limitation. Pour les exercer, 
+envoyez-nous un courriel à [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)
+avec en objet « exercice du droit de rectification et modification 
+des données » ou un courrier à l’adresse Mission Etalab, 
+20, avenue de Ségur, 75007 Paris.
+
+*Liste de diffusion*
+Nous constituons une liste de diffusion que vous rejoignez sur demande. 
+A ce titre, nous traitons donc certaines données à caractère personnel 
+(nom, prénom, courriel) pour pouvoir vous informer de l'actualité du 
+programme et rester en contact avec vous. Ce traitement est fondé sur 
+votre consentement. Ont accès à ces données les personnes habilitées de 
+la mission Etalab.
+
+*Appel à candidature - Promotion 3*
+Le [formulaire](nouvel URL à ajouter) permettant de candidater est hébergé 
+et opéré par demarches-simplifiees.fr, une application en ligne
+de la Direction interministérielle du système d'information et 
+de communication de l'Etat qui permet aux services publics de dématérialiser 
+leurs démarches en quelques minutes. Vous pouvez notamment vous 
+reporter à la section "vie privée" de leurs [conditions générales d’utilisation](https://doc.demarches-simplifiees.fr/cgu#d-vie-privee)
+et à leurs [mentions légales](https://doc.demarches-simplifiees.fr/cgu#4-mentions-legales).
 
 Nous avons également accès à ces données. Conservées au plus deux ans
 à compter du dépôt de candidature, ces données seront traitées pour
 opérer la pré-sélection, la sélection et, éventuellement, dans le
-cadre du suivi des lauréats finaux. Ce traitement a fait l’objet d’une
-déclaration à la CNIL (n° 2102130v0).
-
-Vous avez un droit d'accès, de rectification et de suppression de vos
-données. Pour l'exercer, envoyez-nous un courriel à
-[entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)
-avec en objet « exercice du droit de rectification et modification des
-données » ou un courrier à l’adresse Mission Etalab, Tour Mirabeau
-39-43 quai André-Citroën 75015 Paris.
-
-Nous nous engageons à ne jamais exploiter les informations que vous
-nous transmettrez dans un but commercial ou publicitaire.
-
-Nous nous engageons à prendre toutes les mesures nécessaires pour
-garantir la sécurité et la confidentialité des informations que vous
-nous fournissez.
+cadre du suivi des lauréats finaux. Ce traitement est nécessaire à 
+l’exécution de mesures précontractuelles prises à votre demande, 
+conformément aux dispositions du réglement général de protection des données. 
+Ont accès à ces données les personnes habilitées de la mission 
+Etalab, des administrations d'accueil et le jury. 
 
 **Mentions légales**
 
 **Editeur**
 
 Mission Étalab, Direction interministérielle du numérique et du
-système d'information et de communication de l'Etat (DINSIC).
+système d'information et de communication de l'Etat (DINSIC), située au
+20, avenue de Ségur, 75007 Paris.
 
 **Directrice de la
 publication**
