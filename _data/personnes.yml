@@ -154,6 +154,17 @@
   - webdev
   desc: Christophe Ninucci
 
+  - image: img/communaute/Sans-photo.png
+  title: Chloé Moser
+  link_to: /communaute/2018/chloe-moser.html
+  annee: 2018
+  profil: Mentor
+  defi: Archifiltre
+  class:
+  - 2018
+  - mentor
+  desc: Chloé Moser
+
 - image: img/communaute/Sans-photo.png
   title: Claudio Cimelli
   link_to: /communaute/2018/claudio-cimelli.html
@@ -164,17 +175,6 @@
   - 2018
   - mentor
   desc: Claudio Cimelli
-
-- image: img/communaute/Sans-photo.png
-  title: Chloé Moser
-  link_to: /communaute/2018/chloe-moser.html
-  annee: 2018
-  profil: Mentor
-  defi: Archifiltre
-  class:
-  - 2018
-  - mentor
-  desc: Chloé Moser
 
 - image: img/communaute/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
@@ -255,15 +255,6 @@
   class: 2019 mentor
   desc: Edouard Rottier
 
-- image: img/communaute/eloi-bluat-menard.png
-  title: Éloi Bluat-Ménard
-  link_to: /communaute/2019/eloi-bluat-menard.html
-  annee: 2019
-  profil: Mentor
-  defi: Open Justice
-  class: 2019 mentor
-  desc: Éloi Bluat-Ménard
-
 - image: img/communaute/Sans-photo.png
   title: Élise Lalique
   link_to: /communaute/2018/elise-lalique.html
@@ -275,6 +266,15 @@
   - eig
   - designer
   desc: Élise Lalique
+
+- image: img/communaute/eloi-bluat-menard.png
+  title: Éloi Bluat-Ménard
+  link_to: /communaute/2019/eloi-bluat-menard.html
+  annee: 2019
+  profil: Mentor
+  defi: Open Justice
+  class: 2019 mentor
+  desc: Éloi Bluat-Ménard
 
 - image: img/communaute/Elsa-Luneville.png
   title: Elsa Luneville
