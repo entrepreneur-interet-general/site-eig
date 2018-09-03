@@ -25,7 +25,7 @@
 
 - name: L'actualité
   section_id: actualite
-  path: actualite.html
+  path: /blog/
   children:
   - name: Notre blog
     path: blog/
