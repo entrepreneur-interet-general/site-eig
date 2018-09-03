@@ -2038,8 +2038,8 @@ body.screenshot {
   transition-duration: 1s;
 }
 .modDefaultSlider .sequence .title h2 {
-  font-size: 5.14286rem;
-  line-height: 5.14286rem;
+  font-size: 2.14286rem;
+  line-height: 3.14286rem;
   display: inline-block;
   color: #fff;
   letter-spacing: 2px;
@@ -2119,7 +2119,7 @@ body.screenshot {
 
 .modDefaultSlider.advanced .sequence .title h2 {
   letter-spacing: 4px;
-  font-size: 4.28571rem;
+  font-size: 2.28571rem;
 }
 .modFullscreenSlider .fullscreen_slideshow {
   height: 700px;
@@ -2274,8 +2274,8 @@ body.screenshot {
 }
 .modFullscreenSlider .fullscreen_slideshow h1 {
   color: #fff;
-  font-size: 5rem;
-  line-height: 5rem;
+  font-size: 2rem;
+  line-height: 3rem;
   font-weight: bold;
   opacity: 0;
   -moz-transform: scale(1.3);
@@ -3433,8 +3433,8 @@ p img {
 }
 @media only screen and (max-width: 767px) {
   .modDefaultSlider .sequence .title h2 {
-    font-size: 3.85714rem;
-    line-height: 3.85714rem;
+    font-size: 2.85714rem;
+    line-height: 2.85714rem;
   }
   .modDefaultSlider .sequence .small-title h2 {
     font-size: 1.14286rem;
@@ -3470,8 +3470,8 @@ p img {
 }
 @media only screen and (max-width: 480px) {
   .modDefaultSlider .sequence .title h2 {
-    font-size: 3.14286rem;
-    line-height: 3.14286rem;
+    font-size: 2.14286rem;
+    line-height: 2.14286rem;
   }
   .modDefaultSlider .sequence .small-title h2 {
     font-size: 1rem;
