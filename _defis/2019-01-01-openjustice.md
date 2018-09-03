@@ -15,6 +15,7 @@ mentors:
   - nom: Edouard Rottier
     site: /communaute/2019/edouard-rottier.html
 images:
+  - /img/logo-open-justice.png
 ---
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s'appliquer à d’autres types de données.
