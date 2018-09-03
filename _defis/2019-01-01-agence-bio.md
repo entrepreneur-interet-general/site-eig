@@ -6,7 +6,7 @@ annees: 2019
 mission: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
 administration: Agence française pour le développement et la promotion de l’agriculture biologique  
 administration-website: http://www.agencebio.org
-type: Datascience, Développement
+type: Data science & Développement
 eigs:
   - nom: Un·e géomaticien·ne
   - nom: Un·e développeur·se full stack node JS
@@ -26,6 +26,8 @@ celles des opérateurs bio pour construire une cartographie des
 parcelles bio et développer des services (simplifier les instructions
 des aides, distinguer les parcelles, accompagner les politiques
 territoriales, etc.).
+
+<br/>
 
 ## CartoBio : faciliter les démarches des acteurs de l'agriculture biologique en mettant à disposition les données pertinentes
 
@@ -72,6 +74,8 @@ prenantes. Plusieurs solutions sont déjà envisagées :
 * **des API** pour diffuser les données tout en respectant différents
   niveaux de confidentialité à la donnée.
 
+<br/>
+
 ## Les EIG recherché.e.s
 
 ### EIG 1 – Un·e géomaticien·nne / BI
@@ -86,10 +90,12 @@ Geoserver, etc) et modélisation d’une base de données
 maîtrise des méthodes agiles, connaissances en cartographie,
 JavaScript, SQL.
 
-_L’environnement de travail des EIG_ : postes Windows, un serveur de
-développement et des licences seront mis à disposition au besoin.
+_L’environnement de travail des EIG : postes Windows, un serveur de
+développement et des licences seront mis à disposition au besoin._
 
-_Lieu de travail_ : 6 rue Lavoisier 93100 Montreuil 
+_Lieu de travail : 6 rue Lavoisier 93100 Montreuil_
+
+<br/>
 
 ## L'équipe autour des EIG
 

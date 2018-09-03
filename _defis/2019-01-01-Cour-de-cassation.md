@@ -6,10 +6,10 @@ annees: 2019
 mission: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
 administration: Cour de cassation  
 administration-website: https://www.courdecassation.fr
-type: Développement & Datascience
+type: Développement & Data science
 eigs:
-  - nom: Un·e datascientist·e
-  - nom: Un·e datascientist·e
+  - nom: Un·e data scientist
+  - nom: Un·e data scientist
   - nom: Développeur·se full stack
 mentors: 
   - nom: Edouard Rottier
@@ -48,7 +48,7 @@ types de données devant être pseudonymisées avant leur diffusion. Ils transfo
 
 ## 3 EIG recherché.e.s
 
-### EIG 1 et EIG 2 - Deux datascientist·e·s
+### EIG 1 et EIG 2 - Deux data scientists
 
 **Missions principales** : choix, entraînement et paramétrage des
 algorithmes (par exemple : tagger, spaCy,…) pour optimiser les
