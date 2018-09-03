@@ -19,6 +19,8 @@ images:
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s'appliquer à d’autres types de données.
 
+</br>
+
 ## Open Justice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
 
 ### La problématique
@@ -27,7 +29,11 @@ La diffusion en _open data_ de l’ensemble des décisions de justice est une ob
 
 **Chaque année sont rendues près de 3,9 millions de décisions de justice qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 sont diffusées en _open data_ et sur le site Légifrance. La cause : chaque décision doit être relue pour s'assurer que toutes les mentions identifiantes ont été anonymisées.
 
+</br>
+
 ### Le défi : développer des solutions fiables de pseudonymisation et d’enrichissement des données 
+
+</br>
 
 L'obstacle majeur à une diffusion plus massive des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et à éliminer les risques de réidentification des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance…) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
 
@@ -42,6 +48,7 @@ Pour y parvenir, le défi s'articulera autour de plusieurs axes :
 Les résultats de ces travaux pourront largement bénéficier à d’autres
 types de données devant être pseudonymisées avant leur diffusion. Ils transformeront en profondeur la diffusion de la jurisprudence et renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire. 
 
+</br>
 
 ## 3 EIG recherché.e.s
 
@@ -74,6 +81,8 @@ accès aux serveurs mis à disposition par le ministère de la Justice (à
 préciser)._
 
 _Lieu de travail : 75006 métro Odéon / Cluny-La Sorbonne._
+
+</br>
 
 ## L'équipe autour des EIG
 
