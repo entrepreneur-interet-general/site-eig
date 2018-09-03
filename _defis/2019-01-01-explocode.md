@@ -16,6 +16,7 @@ mentors:
   - nom: Jean-René Duscher
     site: /communaute/2019/jean-rene-duscher.html
 images: 
+  - /img/logo-explocode.png
 ---
 
 La [Direction générale du Travail (DGT)](http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail) souhaite se doter d'un outil 
