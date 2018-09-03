@@ -19,6 +19,8 @@ images:
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s'appliquer à d’autres types de données.
 
+<br/>
+
 ## Open Justice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
 
 ### La problématique
@@ -42,6 +44,7 @@ Pour y parvenir, le défi s'articulera autour de plusieurs axes :
 Les résultats de ces travaux pourront largement bénéficier à d’autres
 types de données devant être pseudonymisées avant leur diffusion. Ils transformeront en profondeur la diffusion de la jurisprudence et renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire. 
 
+<br/>
 
 ## 3 EIG recherché.e.s
 
@@ -74,6 +77,8 @@ accès aux serveurs mis à disposition par le ministère de la Justice (à
 préciser)._
 
 _Lieu de travail : 75006 métro Odéon / Cluny-La Sorbonne._
+
+<br/>
 
 ## L'équipe autour des EIG
 
