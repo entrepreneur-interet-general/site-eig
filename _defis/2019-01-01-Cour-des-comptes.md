@@ -6,11 +6,11 @@ annees: 2019
 mission: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
 administration: Cour des comptes
 administration-website: https://www.ccomptes.fr/en
-type: Développement, Datascience & Design
+type: Développement, Data science & Design
 eigs:
   - nom: Un·e designer·euse
   - nom: Un·e développeur·se
-  - nom: Un·e datascientist·e
+  - nom: Un·e data scientist
 mentors:
   - nom: Olivier Brandouy
     site: /communaute/2019/olivier-brandouy.html
@@ -96,7 +96,7 @@ gestion de versions concurrentes... ainsi que la prise en charge  de la phase de
 expériences de développement d'applications collaboratives, voire
 d'applications de gestion documentaire, seront appréciées.
 
-### EIG 3 - Un·e datascientist·e
+### EIG 3 - Un·e data scientist
 
 **Missions principales** : mise en place d'outils de _text
 mining_ (analyse de grands corpus, parcours de graphes, restitution et
