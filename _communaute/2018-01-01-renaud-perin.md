@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/donneesauvetagemaritime.html
 profil: 
 images:
-  - /img/communaute/1_datasauvetage2.jpg
+  -
 ---
 
 « Je suis chargé de mission sécurité des navires et analyse

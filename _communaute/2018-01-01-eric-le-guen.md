@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/balisenav.html
 profil: Mentor
 images:
-  - /img/communaute/eric-le-guen.jpg
+  -
 ---
 
 « Depuis 2015, je suis le référent de l’infrastructure de

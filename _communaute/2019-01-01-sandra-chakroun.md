@@ -9,7 +9,8 @@ defis:
   - nom: LexImpact
     site: /defis/2019/leximpact.html
 profil: Mentor
-images: /img/communaute/sandra-chakroun.jpg
+images:
+  - /img/communaute/sandra-chakroun.jpg
 ---
 
 Développeuse informaticienne, Sandra Chakroun est actuellement membre de l'équipe

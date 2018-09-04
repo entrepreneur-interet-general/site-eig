@@ -9,7 +9,8 @@ defis:
   - nom: LexImpact
     site: /defis/2019/leximpact.html
 profil: Mentor
-images: /img/communaute/mauko-quiroga.png
+images:
+  - /img/communaute/mauko-quiroga.png
 ---
 
 Artisan du logiciel et des méthodes de développement produit, Mauko

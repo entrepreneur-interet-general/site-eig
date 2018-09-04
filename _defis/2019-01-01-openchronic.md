@@ -87,7 +87,7 @@ _"En data science la majorité des projets dans le privé sont du marketing ou d
 
 ### Stéphanie Combes, mentor de haut niveau
 
-![Stéphanie Combes](/img/communaute/???)
+![Stéphanie Combes](/img/communaute/photostephaniecombes.png)
 
 _« Je travaille la donnée depuis 7 ans, données structurées, données
 géolocalisées, données textuelles. Python, R, Rshiny sont mes amis.

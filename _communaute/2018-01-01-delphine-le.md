@@ -12,8 +12,8 @@ defis:
   - nom: Adler
     site: /defis/2019/adler.html
 profil: Mentor
-images: /img/communaute/delphine-le.png
-  - 
+images:
+  - /img/communaute/delphine-le.png
 ---
 
 « Suite à un parcours mixte (dans le privé et le public, en recherche et
