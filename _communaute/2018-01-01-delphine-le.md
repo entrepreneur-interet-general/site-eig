@@ -10,7 +10,7 @@ defis:
   - nom: Hopkins
     site: /defis/2018/hopkins.html
   - nom: Adler
-    site: /defis/2019/MACP.html
+    site: /defis/2019/adler.html
 profil: Mentor
 images: /img/communaute/delphine-le.png
   - 
