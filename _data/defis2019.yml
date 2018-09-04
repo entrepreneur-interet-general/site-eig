@@ -1,3 +1,9 @@
+- image: /img/defis/acoss-plateforme-portfolio.png
+  title: ACOSS-Plateforme
+  link_to: /defis/2019/acossplateforme.html
+  class: 2019 web design
+  desc: Design &amp; Développement
+
 - image: /img/defis/adler-portfolio.png
   title: Adler
   link_to: /defis/2019/adler.html
@@ -15,6 +21,12 @@
   link_to: /defis/2019/cibnav.html
   class: 2019 data web
   desc: Datascience &amp; Développement
+  
+- image: /img/defis/arcep-portfolio.png
+  title: DataReg
+  link_to: /defis/2019/datareg.html
+  class: 2019 data
+  desc: Datascience
 
 - image: /img/defis/eig-link-portfolio.png
   title: EIG Link
@@ -33,6 +45,12 @@
   link_to: /defis/2019/iaflash.html
   class: 2019 data
   desc: Datascience
+
+- image: /img/defis/karfur-portfolio.png
+  title: Karfu'R
+  link_to: /defis/2019/karfur.html
+  class: 2019 web design
+  desc: Design &amp; Développement
 
 - image: /img/defis/leximpact-portfolio.png
   title: LexImpact
@@ -64,26 +82,11 @@
   class: 2019 data web
   desc: Datascience &amp; Développement
 
-- image: /img/defis/le-carrefour-portfolio.png
-  title: Karfu'R
-  link_to: /defis/2019/karfur.html
-  class: 2019 web design
-  desc: Design &amp; Développement
-
 - image: /img/defis/prejudices-corporels-portfolio.png
   title: Thémis
   link_to: /defis/2019/themis.html
   class: 2019 data
   desc: Datascience
 
-- image: /img/defis/acoss-plateforme-portfolio.png
-  title: ACOSS-Plateforme
-  link_to: /defis/2019/acossplateforme.html
-  class: 2019 web design
-  desc: Design &amp; Développement
 
-- image: /img/defis/arcep-portfolio.png
-  title: DataReg
-  link_to: /defis/2019/datareg.html
-  class: 2019 data
-  desc: Datascience
+

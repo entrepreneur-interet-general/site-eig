@@ -16,6 +16,7 @@ mentors:
   - nom: Stéphanie Combes
     site: /communaute/2018/stephanie-combes.html
 images: 
+  - /img/logo-open-chronic.png
 ---
 
 La [Direction de la recherche, des études, de l’évaluation et des
