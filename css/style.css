@@ -2046,6 +2046,7 @@ body.screenshot {
   font-weight: bold;
   margin-bottom: 40px;
   text-transform: uppercase;
+  text-align: center;
 }
 .modDefaultSlider .sequence .small-title h2 {
   font-size: 1.28571rem;
