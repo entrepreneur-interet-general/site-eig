@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Karfu'R
-    site: /defis/2019/DIAIR.html
+    site: /defis/2019/karfur.html
 profil: Mentor
 images:
   - /img/communaute/alain-regnier.png
