@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: ExploCode
-    site: /defis/2019/DGT.html
+    site: /defis/2019/explocode.html
 profil: Mentor
 images: 
   - /img/communaute/julien-bouquillon.png
