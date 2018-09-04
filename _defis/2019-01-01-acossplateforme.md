@@ -26,7 +26,7 @@ domicile en développant des APIs autour des données liées aux
 salariés, employeurs, et autres organismes intervenants dans les
 prélèvements sociaux.
 
-</br>
+<br/>
 
 ## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur 
 
@@ -72,7 +72,7 @@ pertinent d'exploration pour le défi qui aura un double-objectif :
 Dans une approche _design thinking_, d'autres sujets pourront être
 explorés.
 
-</br>
+<br/>
 
 ## Les EIG recherché.e.s
 
@@ -105,7 +105,7 @@ contribuera au projet EIG.
 
 _Lieu de travail : ACOSS 36, rue de Valmy, Montreuil._
 
-</br>
+<br/>
 
 ## L'équipe autour des EIG
 
