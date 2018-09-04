@@ -8,7 +8,7 @@
 
 **Présentation**
 
-[Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/)
+[Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr)
 est un site dédié au programme Entrepreneur·e·s
 d’intérêt général (EIG), un programme public opéré par la mission
 Etalab et la Caisse des dépôts et consignations, dans le cadre du
