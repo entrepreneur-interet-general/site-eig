@@ -7,7 +7,7 @@ website: https://www.linkedin.com/in/maukoquiroga/
 annees: 2019
 defis:
   - nom: LexImpact
-    site: /defis/2019/DINSIC.html
+    site: /defis/2019/leximpact.html
 profil: Mentor
 images: /img/communaute/mauko-quiroga.png
 ---
