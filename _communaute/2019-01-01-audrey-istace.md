@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: PolyGraphe
-    site: /defis/2019/DGCCRF.html
+    site: /defis/2019/polygraphe.html
 profil: Mentor
 images:
   - /img/communaute/audrey-istace.png
