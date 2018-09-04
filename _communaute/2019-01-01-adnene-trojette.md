@@ -9,7 +9,7 @@ defis:
   - nom: CC - API rapports
     site: /defis/2017/cc-api-rapports.html
   - nom: Plume
-    site: /defis/2019/Cour-des-comptes.html
+    site: /defis/2019/plume.html
 profil: Mentor
 images:
   - /img/communaute/adnene-trojette.png
