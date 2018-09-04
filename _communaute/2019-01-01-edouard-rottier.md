@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Open Justice
-    site: /defis/2019/Cour-de-cassation.html
+    site: /defis/2019/openjustice.html
 profil: Mentor
 images: 
   - /img/communaute/edouard-rottier.png
