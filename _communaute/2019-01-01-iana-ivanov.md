@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Préjudices corporels
-    site: /defis/2019/MinJu.html
+    site: /defis/2019/themis.html
 profil: Mentor
 images:
   - /img/communaute/iana-ivanov.jpg
