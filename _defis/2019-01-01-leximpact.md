@@ -43,7 +43,7 @@ transparence et d’engagement de la société civile.
 
 ### Le défi : développer un outil accessible aux parlementaires, agents publics et à la société civile permettant d'évaluer l'impact de réformes socio-fiscales
 
-[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale et permet de réaliser des simulations sur des situations de personnes ou une population entière. Il est en particulier utilisé par [Etalab](http://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[IPP](https://www.ipp.eu), la [MSA](http://www.msa.fr) et l'[IDEP](https://www.idep-fr.org) mais ce commun contributif n'est pas directement accessible à tous les types d'utilisateurs puisqu'il requiert des compétences en code informatique.
+[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale et permet de réaliser des simulations sur des situations de personnes ou une population entière. Il est en particulier utilisé par [Etalab](https://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[IPP](https://www.ipp.eu), la [MSA](http://www.msa.fr) et l'[IDEP](https://www.idep-fr.org) mais ce commun contributif n'est pas directement accessible à tous les types d'utilisateurs puisqu'il requiert des compétences en code informatique.
 
 **LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.  
 
@@ -85,7 +85,7 @@ Avant l'arrivée des EIG, des rencontres avec les principales institutions parte
 
 Artisan du logiciel et des méthodes de développement produit, Mauko
 Quiroga est membre de l'équipe [OpenFisca](https://openfisca.org/fr/)
-à la DINSIC. Passionné des méthodes de travail agiles et Kanban, il travaille au sein de l'Incubateur [beta.gouv.fr](http://beta.gouv.fr) où il s'engage dans la construction de services publics numériques.
+à la DINSIC. Passionné des méthodes de travail agiles et Kanban, il travaille au sein de l'Incubateur [beta.gouv.fr](https://beta.gouv.fr) où il s'engage dans la construction de services publics numériques.
 
 <br/>
 
