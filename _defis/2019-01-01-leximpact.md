@@ -24,6 +24,8 @@ et de Communication de l’État ([DINSIC](http://www.modernisation.gouv.fr/docu
 d’évaluer, de façon simple, rapide et ouverte, l’impact de réformes
 socio-fiscales sur les citoyens et les citoyennes. 
 
+<br/>
+
 ## LexImpact : Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous
 
 ### La problématique
@@ -56,6 +58,8 @@ Plusieurs axes :
 Une grande partie des règles et des paramètres socio-fiscaux est d'ores et déjà développée dans le modèle [OpenFisca-France](https://fr.openfisca.org/legislation/). Des données du budget de l'État ainsi que des données démographiques sont en accès libre. Il reste à élaborer une base représentative de situations de personnes et à étendre la connaissance des structures de réformes usuelles.  
 
 Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires - DINSIC, Assemblée Nationale, Cour des Comptes, Sénat- permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire. En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base aux travaux des EIG. Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
+
+<br/>
 
 ## Les EIG recherché.e.s
 
