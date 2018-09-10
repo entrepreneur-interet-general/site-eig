@@ -6,8 +6,8 @@ nom: Iana Ivanov
 website:
 annees: 2019
 defis: 
-  - nom: Préjudices corporels
-    site: /defis/2019/themis.html
+  - nom: DataJust
+    site: /defis/2019/datajust.html
 profil: Mentor
 images:
   - /img/communaute/iana-ivanov.jpg
