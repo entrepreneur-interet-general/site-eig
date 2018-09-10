@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: https://twitter.com/maukoquiroga
-github: https://github.com/maukoquiroga
+twitter: maukoquiroga
+github: maukoquiroga
 nom: Mauko Quiroga
 website: https://www.linkedin.com/in/maukoquiroga/
 annees: 2019

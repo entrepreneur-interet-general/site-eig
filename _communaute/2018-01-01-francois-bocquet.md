@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/coacheleves.html
 profil: 
 images:
-  - /img/communaute/12.coacheleves.png
+  - /img/communaute/francois-bocquet.png
 ---
 
 « Je travaille depuis 4 ans à la Direction du numérique

@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/gobelins.html
 profil: 
 images:
-  - /img/communaute/3_gobelins.jpg
+  - /img/defis/3_gobelins.jpg
 ---
 
 « Je suis chartiste et conservateur du Patrimoine. Depuis
