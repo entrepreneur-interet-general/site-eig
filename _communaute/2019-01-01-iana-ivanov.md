@@ -10,7 +10,7 @@ defis:
     site: /defis/2019/themis.html
 profil: Mentor
 images:
-  - /img/communaute/iana-ivanov-2.jpg
+  - /img/communaute/iana-ivanov.jpg
 ---
 
 Experte dans la conception et la mise en place de systèmes décisionnels, Iana Ivanov a été nommée en 2015 cheffe du domaine des applications décisionnelles et du Big Data au sein du Service des Systèmes d'Information et Communication du Ministère de la Justice.
