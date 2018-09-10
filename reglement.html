@@ -1,0 +1,12 @@
+---
+layout: default
+section_id: reglement
+---
+
+<div class='full no-padding'>
+    <div class='two spacing'></div>
+    <div class='row'>
+	{% capture my_include %}{% include reglement.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+    </div>
+</div>
