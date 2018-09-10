@@ -22,6 +22,12 @@
   class: 2019 data web
   desc: Datascience &amp; Développement
   
+- image: /img/defis/datajust-portfolio.png
+  title: DataJust
+  link_to: /defis/2019/datajust.html
+  class: 2019 data
+  desc: Datascience
+  
 - image: /img/defis/datareg-portfolio.png
   title: DataReg
   link_to: /defis/2019/datareg.html
@@ -82,11 +88,7 @@
   class: 2019 data web
   desc: Datascience &amp; Développement
 
-- image: /img/defis/themis-portfolio-2.png
-  title: Thémis
-  link_to: /defis/2019/themis.html
-  class: 2019 data
-  desc: Datascience
+
 
 
 
