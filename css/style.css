@@ -214,12 +214,12 @@ ul.shortcode-list i {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  background: #0081d5;
-  border: 2px solid #0081d5;
+  background: #1c419b;
+  border: 2px solid #253e7c;
 }
 
 .button:hover {
-  background-color: #006cb0;
+  background-color: #253e7c;
 }
 
 .button.red {
