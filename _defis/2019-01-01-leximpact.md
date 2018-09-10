@@ -81,6 +81,8 @@ Les types de réformes que l'application serait amenée à traiter seront affin�
 
 ## L'équipe autour des EIG
 
+### Mauko Quiroga, mentor opérationnel
+
 ![Mauko Quiroga](/img/communaute/mauko-quiroga.png)
 
 Artisan du logiciel et des méthodes de développement produit, Mauko
@@ -91,7 +93,7 @@ Quiroga est membre de l'équipe [OpenFisca](https://openfisca.org/fr/)
 
 <br/>
 
-<br/>
+### Sandra Chakroun, mentor opérationnelle
 
 ![Sandra Chakroun](/img/communaute/sandra-chakroun.jpg)
 
