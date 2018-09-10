@@ -24,44 +24,42 @@ et de Communication de l’État ([DINSIC](http://www.modernisation.gouv.fr/docu
 d’évaluer, de façon simple, rapide et ouverte, l’impact de réformes
 socio-fiscales sur les citoyens et les citoyennes. 
 
+<br/>
+
 ## LexImpact : Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous
 
 ### La problématique
 
-Aujourd'hui, connaissez-vous l'impact de la prochaine réforme sur votre situation personnelle ? Probablement pas et c'est normal. Les députés aimeraient aussi le connaître lorsqu'ils doivent se positionner sur des projets de loi.
-Assemblée Nationale, Sénat et Cour des Comptes expriment régulièrement le besoin de disposer de davantage d'information indépendante à l'évaluation des effets de textes de loi.
+Connaissez-vous l'impact de la prochaine réforme sur votre situation personnelle ? Probablement pas et vous n'êtes pas seul. Assemblée Nationale, Sénat et Cour des Comptes expriment régulièrement le besoin de disposer d'un outil leur permettant de se positionner sur les projets de loi grâce à une information indépendante sur l'effet des textes de loi.
 
 L'étude d’impact des réformes reste particulièrement difficile à
 réaliser, en particulier lorsque les délais sont courts. Dans le domaine fiscal, des modèles
-ont été développés par plusieurs administrations (DGFiP, INSEE, DINSIC, etc.), mais leur usage est limité, soit parce que les données ou logiciels ne sont pas ouverts ou en raison de leur difficulté de prise en main technique.
+ont été développés par plusieurs administrations (DGFiP, INSEE, DINSIC, etc.), mais leur usage est limité, soit parce que les données ou logiciels ne sont pas ouverts, soit parce qu'ils sont difficiles à prendre en main.
 
 Pourtant, cette capacité à réaliser plus facilement et rapidement des analyses
 d’impact apparaît comme un enjeu primordial de notre démocratie, tant
 pour améliorer le processus législatif que pour des questions de
 transparence et d’engagement de la société civile.
 
-**Comment rendre l'évaluation des réformes socio-fiscales plus accessible et permettre aux parlementaires, aux agents publics et à la société civile de mener des analyses indépendantes et transparentes ?** 
+### Le défi : développer un outil accessible aux parlementaires, agents publics et à la société civile permettant d'évaluer l'impact de réformes socio-fiscales
 
-### Le défi : développer un outil accessible permettant d'évaluer l'impact de réformes socio-fiscales
+[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale et permet de réaliser des simulations sur des situations de personnes ou une population entière. Il est en particulier utilisé par [Etalab](http://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[IPP](https://www.ipp.eu), la [MSA](http://www.msa.fr) et l'[IDEP](https://www.idep-fr.org) mais ce commun contributif n'est pas directement accessible à tous les types d'utilisateurs puisqu'il requiert des compétences en code informatique.
 
-Aujourd'hui, [OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale et permet de réaliser des simulations sur des situations de personnes ou une population entière. 
-
-Il est en particulier utilisé par [Etalab](http://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[IPP](https://www.ipp.eu), la [MSA](http://www.msa.fr) et l'[IDEP](https://www.idep-fr.org) mais ce commun contributif n'est pas directement accessible à tous les types d'utilisateurs puisqu'il requiert des compétences en code informatique.
-
-**LexImpact a pour ambition de rendre l'évaluation socio-fiscale accessible à tous**.  
+**LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.  
 
 Plusieurs axes :
 
 * Construire une application open source permettant de réaliser de façon simple et rapide des simulations de réformes socio-fiscales, en particulier : les analyses de réformes paramétriques (changements d'assiettes et de taux) et d'impacts sur le revenu disponible, les transferts de charges, le budget de l'État et des collectivités ;
 * Recueillir des données représentatives pour alimenter l'outil : situations de personnes, données budgétaires et financières, ... ;
-* Systématiser la confrontation de l'application et la prise en compte des retours avec ses usagers : parlementaires, services administratifs, membres de la société civile ;
+* Systématiser les tests utilisateurs avec les parlementaires, services administratifs et membres de la société civile ;
 * Réaliser des modules pédagogiques à destination de différents types d'utilisateurs et développer l'usage de l'outil au sein d'administrations partenaires ; 
 * Imaginer une généralisation de l'outil à l'ensemble des réformes législatives.
 
-Une grande partie des règles et des paramètres socio-fiscaux est d'ores et déjà développée dans le modèle [OpenFisca-France](https://fr.openfisca.org/legislation/). Des données du budget de l'état ainsi que des données démographiques sont en accès libre. Il reste à élaborer une base représentative de situations de personnes et à étendre la connaissance des structures de réformes usuelles.  
+Une grande partie des règles et des paramètres socio-fiscaux est d'ores et déjà développée dans le modèle [OpenFisca-France](https://fr.openfisca.org/legislation/). Des données du budget de l'État ainsi que des données démographiques sont en accès libre. Il reste à élaborer une base représentative de situations de personnes et à étendre la connaissance des structures de réformes usuelles.  
 
-Avant l'arrivée des EIG, les principales institutions partenaires - DINSIC, Assemblée Nationale, Cour des Comptes, Sénat- seront rencontrées pour identifier les conditions d'accès aux modèles de populations existants ou à co-construire. En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base de départ aux travaux des EIG.
-Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
+Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires - DINSIC, Assemblée Nationale, Cour des Comptes, Sénat- permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire. En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base aux travaux des EIG. Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
+
+<br/>
 
 ## Les EIG recherché.e.s
 
@@ -81,11 +79,19 @@ Les types de réformes que l'application serait amenée à traiter seront affin�
 
 ## L'équipe autour des EIG
 
+### Mauko Quiroga, mentor opérationnel
+
 ![Mauko Quiroga](/img/communaute/mauko-quiroga.png)
 
 Artisan du logiciel et des méthodes de développement produit, Mauko
 Quiroga est membre de l'équipe [OpenFisca](https://openfisca.org/fr/)
 à la DINSIC. Passionné des méthodes de travail agiles et Kanban, il travaille au sein de l'Incubateur [beta.gouv.fr](http://beta.gouv.fr) où il s'engage dans la construction de services publics numériques.
+
+<br/>
+
+<br/>
+
+### Sandra Chakroun, mentor opérationnelle
 
 ![Sandra Chakroun](/img/communaute/sandra-chakroun.jpg)
 
