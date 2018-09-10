@@ -87,6 +87,12 @@ Artisan du logiciel et des méthodes de développement produit, Mauko
 Quiroga est membre de l'équipe [OpenFisca](https://openfisca.org/fr/)
 à la DINSIC. Passionné des méthodes de travail agiles et Kanban, il travaille au sein de l'Incubateur [beta.gouv.fr](http://beta.gouv.fr) où il s'engage dans la construction de services publics numériques.
 
+<br/>
+
+<br/>
+
+<br/>
+
 ![Sandra Chakroun](/img/communaute/sandra-chakroun.jpg)
 
 Développeuse informaticienne, Sandra Chakroun est actuellement membre de l'équipe [OpenFisca](https://openfisca.org/fr/) à la DINSIC.
