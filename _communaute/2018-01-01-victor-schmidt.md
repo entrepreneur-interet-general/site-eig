@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/hopkins.html
 profil: Datascience
 images:
-  - /img/communaute/victor.png
+  - /img/communaute/victor.jpg
 ---
 
 « Récemment diplômé de l'École polytechnique et du University College
