@@ -23,4 +23,5 @@ d'être Entrepreneur d'intérêt général dès ma sortie d'école pour avoir
 l'occasion d'appliquer mes connaissances dans le domaine public et
 au sein d'une communauté soudée, complémentaire et diverse.
 
+
 Je commencerai en Janvier 2019 une thèse en Intelligence Artificielle à Montréal avec Yoshua Bengio.»
