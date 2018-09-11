@@ -3,7 +3,7 @@ layout: personne
 twitter: vict0rsch
 github: vict0rsch
 nom: Victor Schmidt
-website:
+website: https://metada.org
 annees: 2018
 defis: 
   - nom: Hopkins
