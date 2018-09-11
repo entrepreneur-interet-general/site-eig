@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: Quels apprentissages pour les agents publics mentors du programme EIG ? 
+title: Quels apprentissages pour les agents publics mentors du programme EIG ? 
 author: Soizic Pénicaud, équipe EIG
 twitter: soizicpenicaud
 description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réunis pour la troisième session collaborative de l'année. Ce fut l'occasion de prendre du recul et de tirer quelques enseignements de ces cinq premiers mois. 

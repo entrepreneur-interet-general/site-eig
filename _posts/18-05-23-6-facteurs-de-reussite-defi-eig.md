@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: Appel  à projets EIG 3 - les 6 facteurs clés de succès d’un défi EIG
+title: Appel  à projets EIG 3 - les 6 facteurs clés de succès d’un défi EIG
 author: Soizic Pénicaud, équipe EIG
 twitter: soizicpenicaud
 description: "Le 15 mai, l'équipe EIG a organisé au Liberté Living Lab une réunion d'information à l'occasion de l'appel à projets EIG 3. L'occasion d'aborder un sujet crucial : les facteurs de succès d'un défi EIG. Qu’est-ce qui permet qu’à la fin d’un défi, les administrations disposent d’outils numériques répondant à leur problématique métier de départ, qui puissent être pérennisés et réutilisés par d’autres services, voire hors de l’administration ?"

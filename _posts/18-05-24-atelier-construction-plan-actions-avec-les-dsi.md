@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
+title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
 author: L'équipe EIG (Bastien et Mathilde)
 twitter: etalab
 description: "Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient à la rencontre de leurs correspondants dans les directions des systèmes d'informations de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit la feuille de route de pérennisation de leurs défis."

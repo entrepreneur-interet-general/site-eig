@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: "Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour sur les ateliers du 22 mars (3/3)"
+title: "Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour sur les ateliers du 22 mars (3/3)"
 author: Sophie Miljkovic, équipe EIG
 twitter: MiljkovicSophie
 description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source."

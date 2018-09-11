@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: "Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et l'accompagnement de l'équipe EIG"
+title: "Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et l'accompagnement de l'équipe EIG"
 author: "Sophie Miljkovic, équipe EIG"
 twitter: MiljkovicSophie
 description: "Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse."

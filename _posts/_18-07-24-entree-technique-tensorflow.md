@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: "Entrée de blog technique : Tensorflow par Victor Schmidt"
+title: "Entrée de blog technique : Tensorflow par Victor Schmidt"
 author: Victor Schmidt, EIG Hopkins 
 twitter: Vict0rSch
 description: "Victor Schmidt est datascientist et EIG dans le défi Hopkins.  Il publie des articles techniques sur https://vict0rsch.github.io pour apprendre et partager ce qu'il apprend.  Dans cette entrée de blog technique, il nous met dans la situation d'un développeur cherchant à corriger un problème qu'il rencontre avec son code."

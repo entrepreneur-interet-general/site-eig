@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: Open Data + Logiciel Libre = Démocratie de l'Information
+title: Open Data + Logiciel Libre = Démocratie de l'Information
 author: Pierre Camilleri, Christophe Ninucci
 twitter: ChrisNinucci
 description: Pour tous ceux qui manipulent des données financières, sachez que les bilans annuels déposés après le 1er janvier 2017 sont offerts en open data par l'INPI. Le format des données n'est aujourd'hui pas le plus attrayant, mais nous avons décidé dans le cadre de notre défi EIG de développer des outils open source pour permettre leur exploitation par le plus grand nombre.
