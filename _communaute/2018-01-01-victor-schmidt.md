@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/hopkins.html
 profil: Datascience
 images:
-  - /img/communaute/VictorSchmidt.png
+  - /img/communaute/victor.png
 ---
 
 « Récemment diplômé de l'École polytechnique et du University College
