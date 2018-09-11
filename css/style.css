@@ -3588,6 +3588,13 @@ p img {
     background-color: #007bb5;
 }
 
+.fa-twitter {
+    color: #007bb5;
+}
+.fa-twitter:hover {
+    background-color: #007bb5;
+}
+
 .fa-envelope {
     color: #444444;
 }
