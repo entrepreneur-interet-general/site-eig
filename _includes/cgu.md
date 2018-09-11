@@ -33,6 +33,7 @@ Le site est mis à disposition sans garantie sur sa disponibilité. D’éventue
 ### Traitement des données
 
 **Cookies**
+
 Nous collectons des données anonymes d'audience du site, dans le respect des conditions définies par la recommandation « Cookies » de la Commission nationale informatique et libertés (CNIL).
 
 **Vos données à caractère personnel**
