@@ -11,8 +11,6 @@ defis:
 profil: Datascience
 images:
   - /img/communaute/VictorSchmidt.png
-image: /img/communaute/VictorSchmidt.png
- 
 ---
 
 « Récemment diplômé de l'École polytechnique et du University College
