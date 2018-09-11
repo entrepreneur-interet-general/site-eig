@@ -27,6 +27,7 @@ Le contenu du fichier doit commencer par un en-tête de cette forme :
 : author: Soizic Pénicaud, équipe EIG
 : author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
 : twitter: soizicpenicaud
+: title: "Le titre de l'entrée de blog"
 : description: "Un résumé de l’entrée de blog"
 : ---
 
