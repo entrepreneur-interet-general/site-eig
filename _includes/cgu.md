@@ -19,9 +19,9 @@ Il vise à présenter l'ambition du Programme, la communauté des entrepreneurs 
 
 Nous organisons un appel à candidature du 13 septembre au 15 octobre 2018 pour sélectionner les entrepreneurs d'intérêt général de la Promotion 3. Le formulaire de candidature est disponible à l'adresse suivante : [https://demarches-simplifiees.fr/commencer/candidature-eig3](https://demarches-simplifiees.fr/commencer/candidature-eig3). 
 
-L'espace ["Participer"] (/candidature-eig.html) vous permet d'obtenir plus d'informations sur le Programme et les conditions de participation. 
+L'espace ["Participer"](/candidature-eig.html) vous permet d'obtenir plus d'informations sur le Programme et les conditions de participation. 
 
-Conformément au [règlement de l'appel à candidature]/docs/20180910_Règlement-AAC-EIG3.pdf), les candidatures font l'objet d'une pré-sélection avant le passage devant un jury.
+Conformément au [règlement de l'appel à candidature](/docs/20180910_Règlement-AAC-EIG3.pdf), les candidatures font l'objet d'une pré-sélection avant le passage devant un jury.
 
 _Toute candidature utilisant un autre canal ne sera pas examinée._
 
