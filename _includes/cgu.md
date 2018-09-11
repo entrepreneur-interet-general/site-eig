@@ -48,7 +48,7 @@ Nous constituons une liste de diffusion que vous rejoignez [sur demande via un f
 A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 
 #### b) Appel à candidature - Promotion 3
-Nous organisons un appel à candidature du 13 septembre au 15 octobre 2018 pour sélectionner les entrepreneurs d’intérêt général de la Promotion 3. Le formulaire est disponible à l’adresse suivante : [https://demarches-simplifiees.fr/commencer/candidature-eig](https://demarches-simplifiees.fr/commencer/candidature-eig). 
+Nous organisons un appel à candidature du 13 septembre au 15 octobre 2018 pour sélectionner les entrepreneurs d’intérêt général de la Promotion 3. Le formulaire est disponible à l’adresse suivante : [https://demarches-simplifiees.fr/commencer/candidature-eig3](https://demarches-simplifiees.fr/commencer/candidature-eig3). 
 
 Nous avons également accès à ces données. Conservées au plus deux ans
 à compter du dépôt de candidature, ces données seront traitées pour
