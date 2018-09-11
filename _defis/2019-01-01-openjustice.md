@@ -10,7 +10,7 @@ type: Développement & Data science
 eigs:
   - nom: Un·e data scientist
   - nom: Un·e data scientist
-  - nom: Développeur·se full stack
+  - nom: Un·e développeur·se full stack
 mentors: 
   - nom: Edouard Rottier
     site: /communaute/2019/edouard-rottier.html
@@ -74,8 +74,7 @@ site internet de la Cour de cassation…
 connaissance d’Elastic Search est souhaitée.
 
 _L’environnement de travail des EIG : ordinateurs ultra-portables ;
-accès aux serveurs mis à disposition par le ministère de la Justice (à
-préciser)._
+accès aux serveurs mis à disposition par le ministère de la Justice._
 
 _Lieu de travail : 75006 métro Odéon / Cluny-La Sorbonne._
 
