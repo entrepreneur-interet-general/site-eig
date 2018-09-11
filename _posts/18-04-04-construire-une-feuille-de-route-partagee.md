@@ -2,7 +2,6 @@
 layout: post
 modal-id: "Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer"
 author: Sophie Miljkovic, équipe EIG
-author_link: https://entrepreneur-interet-general.etalab.gouv.fr/
 twitter: 
 description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier."
 ---
@@ -39,7 +38,7 @@ son défi**. Chaque acteur clé étant une ressource que l’on peut
 mobiliser, plus on en trouve, mieux c’est ! Conseil appliqué à la lettre
 par Bastien… tout en acronymes.
 
-![Sur une page blanche, sont listés les utilisateurs et les structures-ressources que Bastien a identifiés.](/img/LLL-1-acteurs-cles.jpg)
+![Sur une page blanche, sont listés les utilisateurs et les structures-ressources que Bastien a identifiés.](/img/blog/LLL-1-acteurs-cles.jpg)
 _Les acteurs-clés identifiés par Bastien. (© Sophie Miljkovic)_
 
 # *Travailler son produit*
@@ -71,13 +70,13 @@ animent l’utilisateur –- ou « pains », « gains » et « customer j
 Plus facile à faire qu’à dire, voici celui d’Elise et de Julien qui
 travaillent sur le projet [*Social Connect*](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/).
 
-![Sur une page blanche, sont représentés deux cercles. Dans le cercle de droite sont notés les besoins, désirs et impératifs d'un utilisateur de l'outil de Social Connect. Dans le cercle de gauche, en miroir du cercle de droite, sont notées les solutions apportées aux besoins, désirs et impératifs de l'utilisateur par l'outil de Social Connect.](/img/LLL-1-canvas.jpg)
+![Sur une page blanche, sont représentés deux cercles. Dans le cercle de droite sont notés les besoins, désirs et impératifs d'un utilisateur de l'outil de Social Connect. Dans le cercle de gauche, en miroir du cercle de droite, sont notées les solutions apportées aux besoins, désirs et impératifs de l'utilisateur par l'outil de Social Connect.](/img/blog/LLL-1-canvas.jpg)
 _Le "value proposition canvas" dûment complété par Elise et Julien. (© Sophie Miljkovic)_
 
 Elise et Julien ont d’ailleurs anticipé l’étape d’après : **organiser
 son travail**. Ils ont fait un choix très clair. Celui du post-it.
 
-![Sur un mur blanc, des post-its de couleurs différentes sont rangés en lignes et colonnes très propres.](/img/LLL-1-post-it.jpg)
+![Sur un mur blanc, des post-its de couleurs différentes sont rangés en lignes et colonnes très propres.](/img/blog/LLL-1-post-it.jpg)
 _Un des murs du bureau d'Elise et de Julien. Rassurez-vous, les autres sont tout aussi beaux. Et la porte aussi. (© Sophie Miljkovic)_
 
 ## Tester son produit
