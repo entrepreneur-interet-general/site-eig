@@ -21,4 +21,6 @@ voyageur (j'ai voyagé en Asie pendant 6 mois notamment) et je
 m'intéresse particulièrement aux médias (metada.org). J'ai choisi
 d'être Entrepreneur d'intérêt général dès ma sortie d'école pour avoir
 l'occasion d'appliquer mes connaissances dans le domaine public et
-au sein d'une communauté soudée, complémentaire et diverse. »
+au sein d'une communauté soudée, complémentaire et diverse.
+
+Je commencerai en Janvier 2019 une thèse en Intelligence Artificielle à Montréal avec Yoshua Bengio.»
