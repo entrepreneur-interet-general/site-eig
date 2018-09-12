@@ -3,7 +3,7 @@ layout: defi2019
 titre: Open Justice
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
-mission: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
+description: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
 administration: Cour de cassation  
 administration-website: https://www.courdecassation.fr
 type: Développement & Data science

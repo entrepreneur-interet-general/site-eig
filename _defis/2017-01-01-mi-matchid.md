@@ -3,7 +3,7 @@ layout: defi
 titre: MI - matchID
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
-mission: "Fiabiliser les statistiques de sécurité routière en retirant les personnes décédées du Fichier National des Permis de Conduire"
+description: "Fiabiliser les statistiques de sécurité routière en retirant les personnes décédées du Fichier National des Permis de Conduire"
 administration: Ministère de l'Intérieur
 administration-website: https://www.interieur.gouv.fr/
 type: Développement

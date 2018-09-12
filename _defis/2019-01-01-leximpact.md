@@ -3,7 +3,7 @@ layout: defi2019
 titre: LexImpact
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
-mission: "Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous"
+description: "Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous"
 administration: Direction interministérielle et du système d’information et de communication de l'Etat
 administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement

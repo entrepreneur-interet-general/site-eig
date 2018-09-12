@@ -3,7 +3,7 @@ layout: defi
 titre: B@liseNAV
 site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
-mission: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
+description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM
 administration-website: http://www.shom.fr/
 type: Datascience

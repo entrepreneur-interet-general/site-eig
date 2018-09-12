@@ -3,7 +3,7 @@ layout: defi
 titre: BNF - catalogage
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
-mission: "Créer un nouvel outil de catalogage pour mieux indexer les ressources de la BNF"
+description: "Créer un nouvel outil de catalogage pour mieux indexer les ressources de la BNF"
 administration: Bibliothèque nationale de France
 administration-website: http://www.bnf.fr
 type: Développement

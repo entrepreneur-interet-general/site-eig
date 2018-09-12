@@ -3,7 +3,7 @@ layout: defi
 titre: Signaux Faibles
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2018
-mission: Détecter les entreprises en difficulté pour mieux les accompagner
+description: Détecter les entreprises en difficulté pour mieux les accompagner
 administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
 administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
 type: Datascience, développement

@@ -3,7 +3,7 @@ layout: defi
 titre: MI - cartAV
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
-mission: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."
+description: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."
 administration: Ministère de l'Intérieur
 administration-website: https://www.interieur.gouv.fr
 type: Développement

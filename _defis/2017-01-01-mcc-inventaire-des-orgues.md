@@ -3,7 +3,7 @@ layout: defi
 titre: Ministère de la culture - Inventaire des orgues
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
-mission: "Révéler le patrimoine des orgues grâce à la collaboration entre institutions, associations et particuliers passionnés"
+description: "Révéler le patrimoine des orgues grâce à la collaboration entre institutions, associations et particuliers passionnés"
 administration: Ministère de la culture
 administration-website: http://www.culture.gouv.fr/
 type: Développement

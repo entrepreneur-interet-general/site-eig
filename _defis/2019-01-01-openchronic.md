@@ -3,7 +3,7 @@ layout: defi2019
 titre: Open Chronic
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
-mission: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
+description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
 administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
 administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
 type: Data science

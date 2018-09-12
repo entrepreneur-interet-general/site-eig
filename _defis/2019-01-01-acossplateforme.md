@@ -3,7 +3,7 @@ layout: defi2019
 titre: ACOSS-plateforme
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
-mission: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
+description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
 administration: Agence centrale des organismes de sécurité sociale (ACOSS)
 administration-website: https://www.acoss.fr/home.html
 type: Design & Développement

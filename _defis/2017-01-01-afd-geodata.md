@@ -3,7 +3,7 @@ layout: defi
 titre: AFD - Geodata
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2017
-mission: "Informer la prise de décision des agents de l’AFD grâce aux données"
+description: "Informer la prise de décision des agents de l’AFD grâce aux données"
 administration: Agence Française de Développement
 administration-website: http://www.afd.fr
 type: Développement

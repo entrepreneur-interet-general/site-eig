@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
-  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="Défi EIG - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/foundation.css" | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/jquery-ui.css" | prepend: site.url }}">

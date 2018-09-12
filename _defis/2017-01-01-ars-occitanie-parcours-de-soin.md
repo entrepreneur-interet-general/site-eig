@@ -3,7 +3,7 @@ layout: defi
 titre: ARS - Parcours de soin
 site: 
 annees: 2017
-mission: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
+description: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
 administration: Secrétariat général des ministères sociaux
 administration-website: 
 type: Développement, datascience

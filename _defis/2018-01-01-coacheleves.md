@@ -3,7 +3,7 @@ layout: defi
 titre: CoachEleves
 site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
 annees: 2018
-mission: >-
+description: >-
   Améliorer la réussite scolaire avec les données
   d'apprentissage
 administration: 'Ministère de l''Éducation Nationale, Direction du numérique pour l''éducation'

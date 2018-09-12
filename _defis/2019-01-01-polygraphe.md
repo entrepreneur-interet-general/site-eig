@@ -3,7 +3,7 @@ layout: defi2019
 titre: PolyGraphe
 site: https://entrepreneur-interet-general.etalab.gouv.fr
 annees: 2019
-mission: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
+description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
 administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
 administration-website: https://www.economie.gouv.fr/dgccrf
 type: Développement & Data science
