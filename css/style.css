@@ -3547,6 +3547,17 @@ p img {
     color: #ffffff;
 }
 
+.share-icon {
+    margin-bottom: 10px;
+    margin-right: 0;
+    padding: 5px 10px 5px 10px;
+    border-radius: 50;
+}
+.share-icon:hover {
+    opacity: 1;
+    color: #ffffff;
+}
+
 .fa-facebook-official {
     color: #3b5998;
 }
@@ -3589,11 +3600,12 @@ p img {
     background-color: #007bb5;
 }
 
-.fa-twitter {
+.twitter {
     color: #007bb5;
 }
-.fa-twitter:hover {
+.twitter:hover {
     background-color: #007bb5;
+    color: #ffffff;
 }
 
 .fa-envelope {
