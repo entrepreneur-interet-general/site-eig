@@ -52,17 +52,17 @@ Pour développer ExploCode, trois axes de travail ont été identifiés :
 
 ## Les EIG recherché.e.s
 
-### EIG 1 - Un·e data scientist / traitement automatique du langage (NLP, NLU)
+### EIG 1 - Un·e data scientist / traitement automatique du langage (ML, NLP, NLU)
 
 **Missions principales** : créer des modèles prédictifs pour extraire les features des questions posées, rendre possible la détection de l'intention et du contexte et la suggestion de questions approchantes, corréler les éléments détectés dans les questions aux sources de données afin d'aguiller les usagers vers les bonnes sources du droit.
 
-**Compétences** : traitement automatique du langage (NLP, NLU)
+**Compétences** : _traitement automatique du langage (NLP, NLU)_, _machine learning_
 
-### EIG2 - Un·e data scientist / _tagging_ & _machine learning_
+### EIG2 - Un·e data analyste / data architect & machine learning
 
-**Missions principales** : mettre en place une stratégie de tagging des contenus via du _feature engineering_ et de l'apprentissage des modèles, intégrer des nouvelles sources de droit, se coordonner avec les services qui créent les contenus et adapter les résultats en continu en fonction des retours utilisateurs.
+**Missions principales** : mettre en place une stratégie de tagging des contenus via du _feature engineering_ et de l'apprentissage des modèles, intégrer des nouvelles sources de droit, se coordonner avec les services qui créent les contenus et adapter les outils et résultats en continu en fonction des retours utilisateurs. 
 
-**Compétences** : _tagging_, _machine learning_.
+**Compétences** : _tagging_, _machine learning_, _data architecture_
 
 <br/>
 
