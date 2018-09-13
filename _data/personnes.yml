@@ -134,12 +134,12 @@
   link_to: /communaute/2018/benoit-guigal.html
   desc: Benoît Guigal
   annee: 2018
-  profil: Data scientist
+  profil: Développeur
   defi: Hopkins
   class:
   - 2018
   - eig
-  - datascientist
+  - webdev
   desc: Benoît Guigal
 
 - image: img/communaute/Christophe-Ninucci.png
