@@ -27,9 +27,9 @@
   ancre: preparation-des-mentors
 
 - question: "Quels défis ont été réalisés par les membres de la première et de la deuxième promotions ?"
-  reponse: "Nous vous invitons à consulter la page \"défis\" de l'onglet \"réalisations\" pour découvrir les défis en cours et déjà réalisés."
+  reponse: "<p>Nous vous invitons à consulter la page \"défis\" de l'onglet \"réalisations\" pour découvrir les défis en cours et déjà réalisés.<p>"
   ancre: defis-eig1-eig2
 
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
-  reponse: "Contactez-nous à l'adresse suivante : <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\">entrepreneur-interet-general@data.gouv.fr</a>"
+  reponse: "<p>Contactez-nous à l'adresse suivante : <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\">entrepreneur-interet-general@data.gouv.fr</a></p>"
   ancre: autre
