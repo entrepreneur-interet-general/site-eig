@@ -33,3 +33,7 @@
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
   reponse: "<p>Contactez-nous à l'adresse suivante : <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\">entrepreneur-interet-general@data.gouv.fr</a></p>"
   ancre: autre
+
+- question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
+  reponse: "<p>La possibilité de travailler à distance varie selon les administrations. La plupart le permettent et l'encadrent, mais il faudra que vous posiez la question aux mentors lors des entretiens. Gardez à l'esprit que les défis sont des défis d'équipe et que la proximité entre les EIG est un facteur de réussite important.</p>"
+  ancre: teletravail
