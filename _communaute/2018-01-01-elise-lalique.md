@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/socialconnect.html
 profil: Designeuse UX
 images:
-  - 
+  - /img/communaute/elise-250.jpg
 ---
 
 « Diplômée d’un Master en Design, Innovation, Société à l’université de
