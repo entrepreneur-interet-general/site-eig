@@ -20,8 +20,8 @@
   children:
   - name: Les EIG et mentors
     path: communaute.html
-  - name: Nos événements
-    path: evenements.html
+  # - name: Nos événements
+  #   path: evenements.html
 
 - name: Le blog
   section_id: blog
