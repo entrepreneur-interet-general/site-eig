@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: CoachEleves
-site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
+site: /defis/2018/coacheleves.html
 annees: 2018
 description: >-
   Améliorer la réussite scolaire avec les données

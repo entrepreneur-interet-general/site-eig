@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: B@liseNAV
-site: 'https://entrepreneur-interet-general.etalab.gouv.fr'
+site: /defis/2018/balisenav.html
 annees: 2018
 description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM

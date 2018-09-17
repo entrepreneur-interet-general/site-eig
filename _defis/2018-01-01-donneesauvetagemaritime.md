@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: PrédiSauvetage
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2018/donneesauvetagemaritime.html
 annees: 2018
 description: Sauver des vies en mer en prévenant les accidents maritimes grâce aux données
 administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes

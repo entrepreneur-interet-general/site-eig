@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: Cour des comptes - API rapports
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2017/cc-api-rapports.html
 annees: 2017
 description: "Mieux informer les citoyens sur l’emploi de l’argent public"
 administration: Cour des comptes

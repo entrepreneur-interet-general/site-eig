@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: Prévisecours
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2018/previsecours.html
 annees: 2018
 description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
 administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données

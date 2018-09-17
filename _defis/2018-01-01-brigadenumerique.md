@@ -1,7 +1,7 @@
 ---
 layout: defi
 titre: Brigade Numérique
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2018/brigadenumerique.html
 annees: 2018
 description: Moderniser la fonction d'accueil en brigade pour accompagner les citoyens et les gendarmes
 administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)

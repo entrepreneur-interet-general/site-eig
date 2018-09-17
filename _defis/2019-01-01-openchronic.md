@@ -1,7 +1,7 @@
 ---
 layout: defi2019
 titre: Open Chronic
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2019/openchronic.html
 annees: 2019
 description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
 administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques

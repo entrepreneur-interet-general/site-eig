@@ -1,7 +1,7 @@
 ---
 layout: defi2019
 titre: ExploCode
-site: https://entrepreneur-interet-general.etalab.gouv.fr
+site: /defis/2019/explocode.html
 annees: 2019
 description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"
 administration: Direction générale du Travail

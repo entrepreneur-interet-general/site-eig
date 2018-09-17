@@ -10,22 +10,21 @@ Comment concevoir un produit qui corresponde aux besoins de ses
 utilisateurs et qui améliore vraiment leur quotidien en 10 mois ?
 Penser « user, user, user ».  Retour sur l’atelier « product design »,
 animé par Laurie Chapotte du défi
-[Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/)
+[Gobelins](/defis/2018/gobelins.html)
 et Jean-Baptiste Le Dévéhat du défi [Brigade
-Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/) - *un grand merci à eux deux d'avoir relu et amélioré cette entrée
-de blog !*
+Numérique](/defis/2018/brigadenumerique.html) - *un grand merci à eux
+deux d'avoir relu et amélioré cette entrée de blog !*
 
 ![Page d'accueil d'un site qui loue des voitures. Il ya beaucoup de couleurs, des photos dans tous les sens, des flèches qui pointent dans toutes les directions. Bref, la page est illisible.](/img/blog/design-site-affreux.jpg)
 _Un exemple de site scandaleusement illisible_
 
 Vous avez mal aux yeux ? C'est normal. Vous avez là un exemple de site
 qui n'a PAS été conçu pour son utilisateur. Laurie Chapotte de
-[Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/)
-et Jean-Baptiste Le Dévéhat de [Brigade
-Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/),
-designers UI/UX (comprendre « user interface » et « user experience 
-»), ont animé un atelier pour donner à tous les EIG quelques conseils
-pour éviter… ça.
+[Gobelins](/defis/2017/gobelins.html) et Jean-Baptiste Le Dévéhat de
+[Brigade Numérique](/defis/2018/brigadenumerique.html), designers
+UI/UX (comprendre « user interface » et « user experience  »), ont
+animé un atelier pour donner à tous les EIG quelques conseils pour
+éviter… ça.
 
 # Le point sémantique
 
@@ -50,14 +49,12 @@ séquencent le parcours d'un utilisateur pour mieux comprendre ce qui
 est important pour lui et ainsi construire des parcours-utilisateurs
 simples.
 
-Arnaud de
-[b@liseNAV](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/)
-en profite : _« comment faire proprement la liste des actions sans que
-cela ne parte dans tous les sens et quid des cas particuliers ?
-»_. Réponse cohérente des animateurs : revenir aux utilisateurs. Plus
-le profil de chaque utilisateur sera riche et précis, plus chaque cas
-d'utilisation sera proche de la réalité, concentré sur l'essentiel et
-utile.
+Arnaud de [b@liseNAV](/defis/2017/balisenav.html) en profite : _«
+comment faire proprement la liste des actions sans que cela ne parte
+dans tous les sens et quid des cas particuliers ?  »_. Réponse
+cohérente des animateurs : revenir aux utilisateurs. Plus le profil de
+chaque utilisateur sera riche et précis, plus chaque cas d'utilisation
+sera proche de la réalité, concentré sur l'essentiel et utile.
 
 Autre point de méthode : le design est un processus itératif et
 collaboratif qui a pour objectif d'améliorer le produit en fonction
@@ -78,13 +75,13 @@ page en fonction de la ligne de flottaison. La quoi ? La…
 _Sous les montagnes, la ligne de flottaison_
 
 Autre conseil : simplifier. Cela a valu notamment pour [Lab
-Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)
-qui a présenté son outil de visualisation des flux gérés par les
-hôpitaux de la région Occitanie. Dans le menu, les mentions "**vers**
-Ajaccio", "**vers** Marseille"... repoussent en seconde position
-l'information la plus importante : la ville dont on veut visualiser
-les flux. On peut, par exemple, supprimer "vers" et rajouter des
-flèches aux flux qui se dessinent.
+Santé](/defis/2018/labsante.html) qui a présenté son outil de
+visualisation des flux gérés par les hôpitaux de la région
+Occitanie. Dans le menu, les mentions "**vers** Ajaccio", "**vers**
+Marseille"... repoussent en seconde position l'information la plus
+importante : la ville dont on veut visualiser les flux. On peut, par
+exemple, supprimer "vers" et rajouter des flèches aux flux qui se
+dessinent.
 
 ![Une capture d'écran qui montre dans la moitié inférieure une carte de la Corse sur laquelle on aperçoit des points jaunes et des traits de couleurs qui rayonnent à partir de ces points. Sur la droite de la carte apparaît un menu qui comporte notamment le texte "vers Ajaccion", "vers Bastia".](/img/blog/design-carto-Labsante.jpg)
 _L'outil de visualisation de flux en direction des hôpitaux, par Lab Santé_
