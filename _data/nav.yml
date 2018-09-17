@@ -25,7 +25,7 @@
 
 - name: Le blog
   section_id: blog
-  path: /blog/
+  path: blog/
 
 - name: Participer
   section_id: participer
