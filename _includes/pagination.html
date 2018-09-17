@@ -2,12 +2,12 @@
   <div class="pager">
     {% if paginator.next_page %}
       {% if paginator.next_page == 1 %}
-        <a href="/{{include.root}}" class="older">
+        <a href="/blog" class="older">
           <i class='fa fa-angle-double-left'></i>
           Entrées plus anciennes
         </a>
       {% else %}
-        <a href="/{{include.root}}/page{{ paginator.next_page }}" class="older">
+        <a href="/blog/page{{ paginator.next_page }}" class="older">
           <i class='fa fa-angle-double-left'></i>
           Entrées plus anciennes
         </a>
@@ -20,12 +20,12 @@
     {% endif %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <a href="/{{include.root}}" class="newer">
+        <a href="/blog" class="newer">
           Entrées plus récentes
           <i class='fa fa-angle-double-right'></i>
         </a>
       {% else %}
-        <a href="/{{include.root}}/page{{ paginator.previous_page }}" class="newer">
+        <a href="/blog/page{{ paginator.previous_page }}" class="newer">
           Entrées plus récentes
           <i class='fa fa-angle-double-right'></i>
         </a>
