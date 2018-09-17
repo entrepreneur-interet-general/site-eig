@@ -26,7 +26,7 @@ Le programme EIG existe depuis bientôt 2 ans, et totalise déjà 22 défis et 3
 
 ## Un périmètre clair
 
-Il est important que le périmètre du défi à résoudre soit bien défini dès le début, même si la nature exacte de la solution développée sera amenée à évoluer en co-construction avec les EIG sélectionnés. Il s’agit de proposer un défi qui puisse être relevé en 10 mois, et qui ne soit ni grand projet de refonte des SI, ni une petite mission de data science trop précise. 
+Il est important que le périmètre du défi à relever soit bien défini dès le début, même si la nature exacte de la solution développée sera amenée à évoluer en co-construction avec les EIG sélectionnés. Il s’agit de proposer un défi qui puisse être relevé en 10 mois, et qui ne soit ni grand projet de refonte des SI, ni une petite mission de data science trop précise. 
 
 Un bon signe : quand le défi dispose d’un **ancrage local**. C’est le cas du défi [**Prévisecours**](/defis/2018/previsecours.html), porté par le Ministère de l’Intérieur, qui vise à développer des algorithmes prédictifs pour mieux répartir les ressources des sapeurs-pompiers de l’Essonne. 
 
