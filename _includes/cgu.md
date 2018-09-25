@@ -48,12 +48,11 @@ dans deux cas :
 
 Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/SJvAOQcmm). 
 
-A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
+A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 
 #### b) Appel à candidature - Promotion 3
 
-Nous avons également accès à ces données pour traiter les candidatures et en assurer le suivi. Conservées au plus deux ans
-à compter du dépôt de candidature, ces données seront traitées pour
+Nous avons accès aux données du formulaire de candidature pour traiter les candidatures et en assurer le suivi. Conservées au plus deux ans à compter du dépôt de candidature, ces données seront traitées pour
 opérer la pré-sélection, la sélection et, éventuellement, dans le
 cadre du suivi des lauréats finaux. Ce traitement est nécessaire à 
 l’exécution de mesures précontractuelles prises à votre demande, 
@@ -63,7 +62,7 @@ Etalab, des administrations d'accueil et le jury.
 
 Nous nous engageons à prendre toutes les mesures nécessaires pour garantir leur sécurité et leur confidentialité, dans le respect du cadre légal et à n'opérer aucune commercialisation des informations que vous nous transmettez et à ne pas les communiquer à des tiers, en dehors des cas prévus par la loi.
 
-Conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent. Pour demander une modification, rectification ou suppression des données vous concernant, il vous suffit de nous écrire par voie électronique à [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr) ou postale à Mission Etalab, 20, avenue de Ségur, 75007 Paris en justifiant de votre identité.
+Conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent. Pour demander une modification, rectification ou suppression des données vous concernant, il vous suffit de nous écrire par voie électronique à [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr) ou postale à Mission Etalab, 20, avenue de Ségur, 75007 Paris en justifiant de votre identité. Si vous estimez, après nous avoir contactés, que vos droits Informatique et Libertés ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL.
 
 
 ### Évolutions
