@@ -1,4 +1,4 @@
-- image: img/communaute/adnene-trojette.png
+- image: img/communaute/miniatures/adnene-trojette.png
   title: Adnène Trojette
   link_to: /communaute/2019/adnene-trojette.html
   annee: 2017, 2019
@@ -7,7 +7,7 @@
   class: 2019 mentor
   desc: Adnène Trojette
 
-- image: img/communaute/AdrienSignorino.png
+- image: img/communaute/miniatures/AdrienSignorino.png
   title: Adrien Signorino
   link_to: /communaute/2018/adrien-signorino.html
   annee: 2018
@@ -19,7 +19,7 @@
   - datascientist
   desc: Adrien Signorino
 
-- image: img/communaute/alain-regnier.png
+- image: img/communaute/miniatures/alain-regnier.png
   title: Alain Régnier
   link_to: /communaute/2019/alain-regnier.html
   annee: 2019
@@ -28,7 +28,7 @@
   class: 2019 mentor
   desc: Alain Régnier
 
-- image: img/communaute/ambre-arnaud.png
+- image: img/communaute/miniatures/ambre-arnaud.png
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
   annee: 2018
@@ -40,7 +40,7 @@
   - webdev
   desc: Ambre Arnaud
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
   annee: 2018
@@ -51,7 +51,7 @@
   - mentor
   desc: Anne Lambert
 
-- image: img/communaute/anne-sophie-hutin.png
+- image: img/communaute/miniatures/anne-sophie-hutin.png
   title: Anne-Sophie Hutin
   link_to: /communaute/2019/anne-sophie-hutin.html
   annee: 2019
@@ -60,7 +60,7 @@
   class: 2019 mentor
   desc: Anne-Sophie Hutin
 
-- image: img/communaute/Antoine-Augusti.png
+- image: img/communaute/miniatures/Antoine-Augusti.png
   title: Antoine Augusti
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018
@@ -72,7 +72,7 @@
   - webdev
   desc: Antoine Augusti
 
-- image: img/communaute/Arnaud-Menard.png
+- image: img/communaute/miniatures/Arnaud-Menard.png
   title: Arnaud Ménard
   link_to: /communaute/2018/arnaud-menard.html
   annee: 2018
@@ -84,7 +84,7 @@
   - datascientist
   desc: Arnaud Ménard
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Arnaud Rachez
   link_to: /communaute/2018/arnaud-rachez.html
   annee: 2018
@@ -96,7 +96,7 @@
   - datascientist
   desc: Arnaud Rachez
 
-- image: img/communaute/audrey-istace.png
+- image: img/communaute/miniatures/audrey-istace.png
   title: Audrey Istace
   link_to: /communaute/2019/audrey-istace.html
   annee: 2019
@@ -105,7 +105,7 @@
   class: 2019 mentor
   desc: Audrey Istace
 
-- image: img/communaute/Bastien-Guerry.png
+- image: img/communaute/miniatures/Bastien-Guerry.png
   title: Bastien Guerry
   link_to: /communaute/2018/bastien-guerry.html
   annee: 2017, 2018
@@ -118,7 +118,7 @@
   - webdev
   desc: Bastien Guerry
 
-- image: img/communaute/benedicte-pachod.png
+- image: img/communaute/miniatures/benedicte-pachod.png
   title: Bénédicte Pachod
   link_to: /communaute/2018/benedicte-pachod.html
   annee: 2018
@@ -129,7 +129,7 @@
   - mentor
   desc: Bénédicte Pachod
 
-- image: img/communaute/Benoit-Guigal.png
+- image: img/communaute/miniatures/Benoit-Guigal.png
   title: Benoît Guigal
   link_to: /communaute/2018/benoit-guigal.html
   desc: Benoît Guigal
@@ -142,7 +142,7 @@
   - webdev
   desc: Benoît Guigal
 
-- image: img/communaute/Christophe-Ninucci.png
+- image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
   annee: 2018
@@ -154,7 +154,7 @@
   - webdev
   desc: Christophe Ninucci
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Chloé Moser
   link_to: /communaute/2018/chloe-moser.html
   annee: 2018
@@ -165,7 +165,7 @@
   - mentor
   desc: Chloé Moser
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Claudio Cimelli
   link_to: /communaute/2018/claudio-cimelli.html
   annee: 2018
@@ -176,7 +176,7 @@
   - mentor
   desc: Claudio Cimelli
 
-- image: img/communaute/Constance-Quatrebarbes.png
+- image: img/communaute/miniatures/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   annee: 2017
@@ -188,7 +188,7 @@
   - datascientist
   desc: Constance de Quatrebarbes
 
-- image: img/communaute/Daniel-Ansellem-2.png
+- image: img/communaute/miniatures/Daniel-Ansellem-2.png
   title: Daniel Ansellem
   link_to: /communaute/2018/daniel-ansellem.html
   annee: 2017, 2018, 2019
@@ -201,7 +201,7 @@
   - mentor
   desc: Daniel Ansellem
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: David Panou
   link_to: /communaute/2018/david-panou.html
   annee: 2018
@@ -213,7 +213,7 @@
   - datascientist
   desc: David Panou
 
-- image: img/communaute/7_DelphineLE.png
+- image: img/communaute/miniatures/7_DelphineLE.png
   title: Delphine Lê
   link_to: /communaute/2018/delphine-le.html
   annee: 2018, 2019
@@ -225,7 +225,7 @@
   - mentor
   desc: Delphine Lê
 
-- image: img/communaute/Dora-Crisan.png
+- image: img/communaute/miniatures/Dora-Crisan.png
   title: Dora Crisan
   link_to: /communaute/2018/dora-crisan.html
   annee: 2018
@@ -237,7 +237,7 @@
   - webdev
   desc: Dora Crisan
 
-- image: img/communaute/Photo-DorianFLECHET.png
+- image: img/communaute/miniatures/Photo-DorianFLECHET.png
   title: Dorian Flechet
   link_to: /communaute/2019/dorian-flechet.html
   annee: 2019
@@ -246,7 +246,7 @@
   class: 2019 mentor
   desc: Dorian Flechet
 
-- image: img/communaute/edouard-rottier.png
+- image: img/communaute/miniatures/edouard-rottier.png
   title: Edouard Rottier
   link_to: /communaute/2019/edouard-rottier.html
   annee: 2019
@@ -255,7 +255,7 @@
   class: 2019 mentor
   desc: Edouard Rottier
 
-- image: img/communaute/elise-250.jpg
+- image: img/communaute/miniatures/elise-250.jpg
   title: Élise Lalique
   link_to: /communaute/2018/elise-lalique.html
   annee: 2018
@@ -267,7 +267,7 @@
   - designer
   desc: Élise Lalique
 
-- image: img/communaute/eloi-bluat-menard.png
+- image: img/communaute/miniatures/eloi-bluat-menard.png
   title: Éloi Bluat-Ménard
   link_to: /communaute/2019/eloi-bluat-menard.html
   annee: 2019
@@ -276,7 +276,7 @@
   class: 2019 mentor
   desc: Éloi Bluat-Ménard
 
-- image: img/communaute/Elsa-Luneville.png
+- image: img/communaute/miniatures/Elsa-Luneville.png
   title: Elsa Luneville
   link_to: /communaute/2018/elsa-luneville.html
   annee: 2018
@@ -288,7 +288,7 @@
   - datascientist
   desc: Elsa Luneville
 
-- image: img/communaute/Emmanuel-Gautier.png
+- image: img/communaute/miniatures/Emmanuel-Gautier.png
   title: Emmanuel Gautier
   link_to: /communaute/2018/emmanuel-gautier.html
   annee: 2018
@@ -300,7 +300,7 @@
   - datascientist
   desc: Emmanuel Gautier
 
-- image: img/communaute/Emmanuel-Weisenburger.png
+- image: img/communaute/miniatures/Emmanuel-Weisenburger.png
   title: Emmanuel Weisenburger
   link_to: /communaute/2018/emmanuel-weisenburger.html
   annee: 2017, 2018
@@ -312,7 +312,7 @@
   - mentor
   desc: Emmanuel Weisenburger
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Eric Le Guen
   link_to: /communaute/2018/eric-le-guen.html
   annee: 2018
@@ -323,7 +323,7 @@
   - mentor
   desc: Eric Le Guen
 
-- image: img/communaute/Etienne-David.png
+- image: img/communaute/miniatures/Etienne-David.png
   title: Etienne David
   link_to: /communaute/2017/etienne-david.html
   annee: 2017
@@ -335,7 +335,7 @@
   - webdev
   desc: Etienne David
 
-- image: img/communaute/Francis-Chabouis.png
+- image: img/communaute/miniatures/Francis-Chabouis.png
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
   annee: 2017
@@ -347,7 +347,7 @@
   - webdev
   desc: Francis Chabouis
 
-- image: img/communaute/francois-bocquet.png
+- image: img/communaute/miniatures/francois-bocquet.png
   title: François Bocquet
   link_to: /communaute/2018/francois-bocquet.html
   annee: 2018
@@ -358,7 +358,7 @@
   - mentor
   desc: François Bocquet
 
-- image: img/communaute/Frederic-Bardolle.png
+- image: img/communaute/miniatures/Frederic-Bardolle.png
   title: Frédéric Bardolle
   link_to: /communaute/2017/frederic-bardolle.html
   annee: 2017
@@ -370,7 +370,7 @@
   - webdev
   desc: Frédéric Bardolle
 
-- image: img/communaute/Guillaume-Lancrenon.png
+- image: img/communaute/miniatures/Guillaume-Lancrenon.png
   title: Guillaume Lancrenon
   link_to: /communaute/2018/guillaume-lancrenon.html
   annee: 2018
@@ -382,7 +382,7 @@
   - webdev
   desc: Guillaume Lancrenon
 
-- image: img/communaute/herve-brule.png
+- image: img/communaute/miniatures/herve-brule.png
   title: Hervé Brulé
   link_to: /communaute/2019/herve-brule.html
   annee: 2019
@@ -391,7 +391,7 @@
   class: 2019 mentor
   desc: Hervé Brulé
 
-- image: img/communaute/iana-ivanov.jpg
+- image: img/communaute/miniatures/iana-ivanov.jpg
   title: Iana Ivanov
   link_to: /communaute/2019/iana-ivanov.html
   annee: 2019
@@ -400,7 +400,7 @@
   class: 2019 mentor
   desc: Iana Ivanov
 
-- image: img/communaute/JeanBaptiste-Assouad.png
+- image: img/communaute/miniatures/JeanBaptiste-Assouad.png
   title: Jean-Baptiste Assouad
   link_to: /communaute/2018/jean-baptiste-assouad.html
   annee: 2018
@@ -412,7 +412,7 @@
   - webdev
   desc: Jean-Baptiste Assouad
 
-- image: img/communaute/JeanBaptiste-LeDevehat.png
+- image: img/communaute/miniatures/JeanBaptiste-LeDevehat.png
   title: Jean-Baptiste Le Dévéhat
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   annee: 2018
@@ -424,7 +424,7 @@
   - designer
   desc: Jean-Baptiste Le Dévéhat
 
-- image: img/communaute/photo-duscher-v2.png
+- image: img/communaute/miniatures/photo-duscher-v2.png
   title: Jean-René Duscher
   link_to: /communaute/2019/jean-rene-duscher.html
   annee: 2019
@@ -433,7 +433,7 @@
   class: 2019 mentor
   desc: Jean-René Duscher
 
-- image: img/communaute/julien-bouquillon.png
+- image: img/communaute/miniatures/julien-bouquillon.png
   title: Julien Bouquillon
   link_to: /communaute/2019/julien-bouquillon.html
   annee: 2019
@@ -442,7 +442,7 @@
   class: 2019 mentor
   desc: Julien Bouquillon
 
-- image: img/communaute/JulienNaour.png
+- image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
   link_to: /communaute/2018/julien-naour.html
   annee: 2018
@@ -454,7 +454,7 @@
   - datascientist
   desc: Julien Naour
 
-- image: img/communaute/JulienParis.png
+- image: img/communaute/miniatures/JulienParis.png
   title: Julien Paris
   link_to: /communaute/2018/julien-paris.html
   annee: 2018
@@ -466,7 +466,7 @@
   - webdev
   desc: Julien Paris
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Laurence Matringe
   link_to: /communaute/2018/laurence-matringe.html
   annee: 2018
@@ -477,7 +477,7 @@
   - mentor
   desc: Laurence Matringe
 
-- image: img/communaute/Laurent-Dupont.png
+- image: img/communaute/miniatures/Laurent-Dupont.png
   title: Laurent Dupont
   link_to: /communaute/2017/laurent-dupont.html
   annee: 2017
@@ -489,7 +489,7 @@
   - webdev
   desc: Laurent Dupont
 
-- image: img/communaute/laurent-toustou.png
+- image: img/communaute/miniatures/laurent-toustou.png
   title: Laurent Toustou
   link_to: /communaute/2019/laurent-toustou.html
   annee: 2019
@@ -498,7 +498,7 @@
   class: 2019 mentor
   desc: Laurent Toustou
 
-- image: img/communaute/Laurie-Chapotte.png
+- image: img/communaute/miniatures/Laurie-Chapotte.png
   title: Laurie Chapotte
   link_to: /communaute/2018/laurie-chapotte.html
   annee: 2018
@@ -510,7 +510,7 @@
   - designer
   desc: Laurie Chapotte
 
-- image: img/communaute/Leo-Bouloc.png
+- image: img/communaute/miniatures/Leo-Bouloc.png
   title: Léo Bouloc
   link_to: /communaute/2017/leo-bouloc.html
   annee: 2017
@@ -522,7 +522,7 @@
   - datascientist
   desc: Léo Bouloc
 
-- image: img/communaute/marie-feucher-2.png
+- image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
   link_to: /communaute/2019/marie-feucher.html
   annee: 2019
@@ -531,7 +531,7 @@
   class: 2019 mentor
   desc: Marie Feucher
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Marielle Chrisment
   link_to: /communaute/2018/marielle-chrisment.html
   annee: 2018
@@ -542,7 +542,7 @@
   - mentor
   desc: Marielle Chrisment
 
-- image: img/communaute/Marion-Paclot.png
+- image: img/communaute/miniatures/Marion-Paclot.png
   title: Marion Paclot
   link_to: /communaute/2017/marion-paclot.html
   annee: 2018
@@ -554,7 +554,7 @@
   - datascientist
   desc: Marion Paclot
 
-- image: img/communaute/Martin-Gross.png
+- image: img/communaute/miniatures/Martin-Gross.png
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
   annee: 2017
@@ -566,7 +566,7 @@
   - webdev
   desc: Martin Gross
 
-- image: img/communaute/mathilde_bras.jpg
+- image: img/communaute/miniatures/mathilde_bras.jpg
   title: Mathilde Bras
   link_to: /communaute/2018/mathilde-bras.html
   annee: 2017, 2018, 2019
@@ -579,7 +579,7 @@
   - mentor
   desc: Mathilde Bras
 
-- image: img/communaute/mauko-quiroga.png
+- image: img/communaute/miniatures/mauko-quiroga.png
   title: Mauko Quiroga
   link_to: /communaute/2019/mauko-quiroga.html
   annee: 2019
@@ -588,7 +588,7 @@
   class: 2019 mentor
   desc: Mauko Quiroga
 
-- image: img/communaute/Maxime-Pierrot.png
+- image: img/communaute/miniatures/Maxime-Pierrot.png
   title: Maxime Pierrot
   link_to: /communaute/2018/maxime-pierrot.html
   annee: 2018
@@ -600,7 +600,7 @@
   - webdev
   desc: Maxime Pierrot
 
-- image: img/communaute/Ned-Baldessin.png
+- image: img/communaute/miniatures/Ned-Baldessin.png
   title: Ned Baldessin
   link_to: /communaute/2018/ned-baldessin.html
   annee: 2018
@@ -612,7 +612,7 @@
   - webdev
   desc: Ned Baldessin
 
-- image: img/communaute/nicolas-bizet.png
+- image: img/communaute/miniatures/nicolas-bizet.png
   title: Nicolas Bizet
   link_to: /communaute/2019/nicolas-bizet.html
   annee: 2019
@@ -621,7 +621,7 @@
   class: 2019 mentor
   desc: Nicolas Bizet
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Olivier Brandouy
   link_to: /communaute/2019/olivier-brandouy.html
   annee: 2019
@@ -630,7 +630,7 @@
   class: 2019 mentor
   desc: Olivier Brandouy
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Pascal Guy
   link_to: /communaute/2019/pascal-guy.html
   annee: 2019
@@ -639,7 +639,7 @@
   class: 2019 mentor
   desc: Pascal Guy
 
-- image: img/communaute/patricia-poulet-mathis.png
+- image: img/communaute/miniatures/patricia-poulet-mathis.png
   title: Patricia Poulet-Mathis
   link_to: /communaute/2019/patricia-poulet-mathis.html
   annee: 2019
@@ -648,7 +648,7 @@
   class: 2019 mentor
   desc: Patricia Poulet-Mathis
 
-- image: img/communaute/Paul-Boosz.png
+- image: img/communaute/miniatures/Paul-Boosz.png
   title: Paul Boosz
   link_to: /communaute/2018/paul-boosz.html
   annee: 2018
@@ -660,7 +660,7 @@
   - datascientist
   desc: Paul Boosz
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Paul Schmite
   link_to: /communaute/2018/paul-schmite.html
   annee: 2018
@@ -671,7 +671,7 @@
   - 2018
   desc: Paul Schmite
 
-- image: img/communaute/phileas-condemine.png
+- image: img/communaute/miniatures/phileas-condemine.png
   title: Philéas Condemine
   link_to: /communaute/2018/phileas-condemine.html
   annee: 2018
@@ -685,7 +685,7 @@
   - datascientist
   desc: Phileas Condemine
 
-- image: img/communaute/pierre-camilleri.png
+- image: img/communaute/miniatures/pierre-camilleri.png
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
   annee: 2018
@@ -697,7 +697,7 @@
   - datascientist
   desc: Pierre Camilleri
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Renaud Périn
   link_to: /communaute/2018/renaud-perin.html
   annee: 2018
@@ -708,7 +708,7 @@
   - mentor
   desc: Renaud Périn
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Rémy Nollet
   link_to: /communaute/2018/remy-nollet.html
   annee: 2018
@@ -719,7 +719,7 @@
   - mentor
   desc: Rémy Nollet
 
-- image: img/communaute/Samah-Ghalloussi.png
+- image: img/communaute/miniatures/Samah-Ghalloussi.png
   title: Samah Ghalloussi
   link_to: /communaute/2018/samah-ghalloussi.html
   annee: 2018
@@ -731,7 +731,7 @@
   - datascientist
   desc: Samah Ghalloussi
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Sami Moustachir
   link_to: /communaute/2018/sami-moustachir.html
   annee: 2018
@@ -743,7 +743,7 @@
   - datascientist
   desc: Sami Moustachir
 
-- image: img/communaute/Photo-SamirKEBLI.png
+- image: img/communaute/miniatures/Photo-SamirKEBLI.png
   title: Samir Kebli
   link_to: /communaute/2019/samir-kebli.html
   annee: 2019
@@ -752,7 +752,7 @@
   class: 2019 mentor
   desc: Samir Kebli
 
-- image: img/communaute/sandra-chakroun.jpg
+- image: img/communaute/miniatures/sandra-chakroun.jpg
   title: Sandra Chakroun
   link_to: /communaute/2019/sandra-chakroun.html
   annee: 2019
@@ -761,7 +761,7 @@
   class: 2019 mentor
   desc: Sandra Chakroun
 
-- image: img/communaute/Sebastien-Cossin.png
+- image: img/communaute/miniatures/Sebastien-Cossin.png
   title: Sébastien Cossin
   link_to: /communaute/2017/sebastien-cossin.html
   annee: 2017
@@ -773,18 +773,18 @@
   - webdev
   desc: Sébastien Cossin
 
-- image: img/communaute/simon-karleskind.png
+- image: img/communaute/miniatures/simon-karleskind.png
   title: Simon Karleskind
   link_to: /communaute/2019/simon-karleskind.html
   annee: 2019
   profil: Mentor
-  defi: Karfu'R
+  defi: "Karfu'R"
   class:
   - 2019
   - mentor
   desc: Simon Karleskind
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Sophie Miljkovic
   link_to: /communaute/2018/sophie-miljkovic.html
   annee: 2018
@@ -794,7 +794,7 @@
   - 2018
   desc: Sophie Miljkovic
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Stéphanie Combes
   link_to: /communaute/2018/stephanie-combes.html
   annee: 2018
@@ -805,7 +805,7 @@
   - mentor
   desc: Stéphanie Combes
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Stéphanie Schaer
   link_to: /communaute/2018/stephanie-schaer.html
   annee: 2018
@@ -816,7 +816,7 @@
   - mentor
   desc: Stéphanie Schaer
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Soizic Pénicaud
   link_to: /communaute/2018/soizic-penicaud.html
   annee: 2017, 2018
@@ -827,7 +827,7 @@
   - 2018
   desc: Soizic Pénicaud
 
-- image: img/communaute/Tiphaine-PheNeau.png
+- image: img/communaute/miniatures/Tiphaine-PheNeau.png
   title: Tiphaine Phe-Neau
   link_to: /communaute/2018/tiphaine-phe-neau.html
   annee: 2018
@@ -839,7 +839,7 @@
   - datascientist
   desc: Tiphaine Phe-Neau
 
-- image: img/communaute/Tristram-Grabener.png
+- image: img/communaute/miniatures/Tristram-Grabener.png
   title: Tristram Gräbener
   link_to: /communaute/2017/tristram-grabener.html
   annee: 2017
@@ -851,7 +851,7 @@
   - webdev
   desc: Tristram Gräbener
 
-- image: img/communaute/victor.png
+- image: img/communaute/miniatures/victor.png
   title: Victor Schmidt
   link_to: /communaute/2018/victor-schmidt.html
   annee: 2018
@@ -863,7 +863,7 @@
   - datascientist
   desc: Victor Schmidt
 
-- image: img/communaute/Sans-photo.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Yann Caradec
   link_to: /communaute/2018/yann-caradec.html
   annee: 2018
