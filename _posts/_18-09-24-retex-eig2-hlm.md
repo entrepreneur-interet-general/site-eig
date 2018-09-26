@@ -23,7 +23,7 @@ Ces étonnements se compensent par d'autres enseignements : **il existe, dans l'
 Pour favoriser la créativité au sein des équipes et l'interdisciplinarité, les EIG proposent plusieurs solutions : 
 * **organiser différemment les espaces de travail**, afin d'en faire de véritables lieux de coopération (en faire des espaces modulaires)
 * **installer plus de rituels collectifs au sein des équipes**, afin de mieux partager les informations (réunions type "stand-ups", sessions d'entraide, etc.)
-* **"fidéliser les profils tech en leur proposant des parcours dans l'administration** (il n'existe pas formellement de "grades" de type : datascientist junior / senior par exemple)
+* **"fidéliser" les profils tech en leur proposant des parcours dans l'administration** (il n'existe pas formellement de "grades" de type : datascientist junior / senior par exemple)
 
 ### Être EIG, ce n'est pas seulement résoudre un défi technique, c'est aussi transmettre et apprendre des savoir-faire
 
@@ -41,15 +41,15 @@ _Restitutions de l'atelier Rétrospective EIG2_
 En tant qu'entrepreneurs, les EIG ont aussi dû se mettre eux-mêmes dans une posture _d'apprentissage et de recherche_ : 
 * sur les métiers de l'administration : archivistes, pompiers, sauveteurs en mers, artisans du Mobilier national, enquêteurs, etc.
 * de compétences techniques : la présence de designers dans la promotion a été très bénéfique pour les projets de datascience ou de développement de plateforme. Plusieurs EIG ont aussi appris de nouveaux langages et utilisé de nouvelles technologies.
-* de "soft skills" en communication, facilitation, négociation, rédaction de notes, etc.
+* de compétences entrepreneuriales : communication, facilitation, négociation, rédaction de notes, etc.
 
-Plusieurs EIG ont des recommandations pour les futurs défis de la Promotion 3, et la plupart sont d'ordre méthodologique : mieux cerner le besoin avec les mentors en début de défi, faire davantage de recherche produit et utilisateur avant de se lancer dans la production, communiquer régulièrement au sein du service sur l'avancée du défi, solliciter davantage de retours des mentors et des utilisateurs.
+Plusieurs EIG ont des recommandations pour les futurs EIG de la Promotion 3, et la plupart sont d'ordre méthodologique : mieux cerner le besoin avec les mentors en début de défi, faire davantage de recherche produit et utilisateur avant de se lancer dans la production, communiquer régulièrement au sein du service sur l'avancée du défi, solliciter davantage de retours des mentors et des utilisateurs.
 
 ### Les plus grandes fiertés : des défis réussis et un collectif EIG soudé
 
 Ouvrir les données d'accidentologie en mer, faire changer l'échelle de son projet, délivrer un produit utilisé par les agents du service, mettre en place un _datalake_ qui sert de base à de nombreux projets, développer une application en partant de 0, faire pivoter le projet initial pour être au plus proche des besoins utilisateurs, réunir agents publics et wikimédiens pour enrichir une base de connaissance, ... autant de petites victoires qui ont motivé les EIG tout au long de l'année et qui seront restituées dans quelques semaines.
 
-En attendant, la fierté n°1 des EIG : le collectif. A travers les sessions d'accompagnement animées par l'équipe d'Etalab et les différentes "sessions off", auto-organisées par les EIG volontaires (design et code review, interventions de grands témoins, etc.), la promotion des EIG s'est entraidée, a partagé des connaissances, et est même partie en bateau !
+**En attendant, la fierté n°1 des EIG** : le collectif. A travers les sessions d'accompagnement animées par l'équipe d'Etalab et les différentes "sessions off", auto-organisées par les EIG volontaires (design et code review, interventions de grands témoins, etc.), la promotion des EIG s'est entraidée, a partagé des connaissances, et est même partie en bateau !
 
 ![Ice-breaker hors les murs](/img/blog/team-building.jpg)
 _1er jour du séminaire hors les murs, 1er challenge : former un chemin pour éviter de mettre pied à terre !_
