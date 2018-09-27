@@ -69,8 +69,7 @@ mentors, les EIG se transforment en de véritables **médiateurs**.
 
 **Quelques exemples de savoir-faire transmis (non exhaustif) :**
 * formations SQL à la DREES ;
-* montée en compétences des directeurs de Centre régional opérationnel ;
-  de surveillance et de sauvetage sur l'utilisation de données ;
+* montée en compétences des directeurs de Centre régional opérationnel de surveillance et de sauvetage sur l'utilisation de données ;
 * mise en place d'applications de datavisualisations via Shiny ;
 * mise en place de méthodes agiles pour gérer le projet Archifiltre.
 
