@@ -93,7 +93,7 @@ avec la·e datascientist·e), la visualisation des données (indicateurs…)
 via un tableau de bord interactif, en partenariat avec le service
 informatique de la DGCCRF et les futurs utilisateurs.
 
-**Compétences nécessaires** : maîtrise de Python, de R et de C/C++.
+**Compétences nécessaires** : maîtrise de Python, HTML/CSS/JavaScript, et éventuellement C#.
 
 <br/>
 
