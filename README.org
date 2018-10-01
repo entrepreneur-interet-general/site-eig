@@ -43,18 +43,23 @@ avec un en-tête de ce format :
 
 : ---
 : layout: defi
-: titre: balisenav
-: site: https://entrepreneur-interet-general.etalab.gouv.fr
+: titre: B@liseNAV
+: site: /defis/2018/balisenav.html
 : annees: 2018
-: mission: Faire de belles cartes marines !
+: description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 : administration: SHOM
+: administration-website: http://www.shom.fr/
 : type: Datascience
 : eigs:
-:   - Arnaud
-:   - Adrien
+:   - nom: Arnaud Ménard
+:     site: /communaute/2018/arnaud-menard.html
+:   - nom: Adrien Signorino
+:     site: /communaute/2018/adrien-signorino.html
+: mentors:
+:   - nom: Éric Le Guen
+:     site: /communaute/2018/eric-le-guen.html
 : images:
-:   - /images/@stock/medium-work-1.jpg
-:   - /images/@stock/medium-work-2.jpg
+:   -  /img/defis/5_balisage.png 
 : ---
 
 Les images proposées dans =defis.html= sont de taille =600x500= et celles
@@ -68,16 +73,16 @@ répertoire =_communaute= avec un en-tête de ce format :
 
 : ---
 : layout: personne
-: twitter: compte_twitter
-: github: compte_github
-: nom: Toto
-: website: https://site-personnel.org
+: twitter: Nono400
+: nom: Arnaud Ménard
+: website:
 : annees: 2018
-: defi: EIG team
-: profil: Tout !
+: defis: 
+:   - nom: B@liseNAV
+:     site: /defis/2018/balisenav.html
+: profil: Géomatique
 : images:
-:   - /images/toto1.jpg
-:   - /images/toto2.jpg
+:   - /img/communaute/Arnaud-Menard.png
 : ---
 
 Les images proposées dans =communaute.html= et dans le fichier de chaque
