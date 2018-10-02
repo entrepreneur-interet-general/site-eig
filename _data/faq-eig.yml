@@ -42,3 +42,5 @@
   reponse: "<p>Contactez-nous à l'adresse suivante : <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\">entrepreneur-interet-general@data.gouv.fr</a></p>"
   ancre: autre
 
+- question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
+  reponse: "<p>Oui, c'est tout à fait possible.  Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
