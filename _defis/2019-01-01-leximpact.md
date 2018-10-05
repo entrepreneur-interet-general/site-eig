@@ -20,9 +20,11 @@ images:
 ---
 
 La Direction Interministérielle du Numérique et du Système d’Information
-et de Communication de l’État ([DINSIC](http://www.modernisation.gouv.fr/documentation/decrets/une-nouvelle-organisation-pour-la-transformation-publique-et-numerique-de-letat-decrets-du-20-novembre-2017)) souhaite développer, notamment pour le Parlement et la société civile, une application permettant
+et de Communication de l’État ([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer, notamment pour le Parlement et la société civile, une application permettant
 d’évaluer, de façon simple, rapide et ouverte, l’impact de réformes
 socio-fiscales sur les citoyens et les citoyennes. 
+
+Voir le [défi LexImpact](https://speakerdeck.com/eig2018/pitch-leximpact-defi-eig3) en quelques slides.
 
 <br/>
 
