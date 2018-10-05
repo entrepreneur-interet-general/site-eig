@@ -15,7 +15,7 @@ _Bastien Guerry, EIG Link à Etalab, présente au collectif des mentors la semai
 
 Lors de cette session de mi-parcours, les mentors ont abordé quatre thèmes : réussites / apprentissages / ce que je ferais différemment / conseils aux futurs mentors EIG3. 
 
->> [**Accéder à la synthèse de l'atelier mentors-retour d'expérience**](https://speakerdeck.com/eig2018/eig-2018-session-de-bilan-a-mi-parcours-avec-les-mentors). 
+<script async class="speakerdeck-embed" data-id="fe858f734650456087e31af2bdf2d1b7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Des réussites et difficultés partagées
 
