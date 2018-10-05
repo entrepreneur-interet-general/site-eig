@@ -20,6 +20,8 @@ images:
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s'appliquer à d’autres types de données.
 
+Voir le [défi Open Justice](https://speakerdeck.com/eig2018/pitch-open-justice-defi-eig3) en quelques slides.
+
 <br/>
 
 ## Open Justice : Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice
