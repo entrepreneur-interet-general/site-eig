@@ -24,6 +24,8 @@ comportements pour aider les enquêteurs de sa direction à mieux
 détecter et qualifier des faux avis sur les plateformes de
 consommation en ligne.
 
+Voir le [défi PolyGraphe](https://speakerdeck.com/eig2018/pitch-polygraphe-defi-eig3) en quelques slides.
+
 <br/>
 
 ## PolyGraphe : Détecter les faux avis pour garantir la confiance sur Internet
