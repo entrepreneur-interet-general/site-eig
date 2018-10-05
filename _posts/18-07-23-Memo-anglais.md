@@ -21,4 +21,4 @@ success - is in the memo. Enjoy the read !
 
 <br/>
 
-## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général : why, what and how.](https://entrepreneur-interet-general.etalab.gouv.fr/assets/Public-Interest-Entrepreneurs-EN-memo.pdf)
+## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général : why, what and how.](/docs/Public-Interest-Entrepreneurs-EN-memo.pdf)
