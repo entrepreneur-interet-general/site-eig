@@ -1015,9 +1015,11 @@ body.screenshot {
 }
 
 .modBlogPost.big img {
-    display: inline;
-    width: 100%;
-    max-width: 100%;
+    display: block;
+    width: 80%;
+    height: auto;
+    max-width: 80%;
+    max-height: auto;
     margin: 1em auto 1em;
 }
 
@@ -3278,13 +3280,6 @@ body {
 }
 
 .top-bar-section ul li > a {font-size: .9rem;}
-
-p img {
-    width: 200px;
-    /* height: 200px; */
-    margin: .5em;
-    float: left;
-}
 
 @media only screen and (max-width: 60em) {
   .modTeamMember .overlay {
