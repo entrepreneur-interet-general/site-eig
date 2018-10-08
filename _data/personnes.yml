@@ -3,7 +3,7 @@
   link_to: /communaute/2019/adnene-trojette.html
   annee: 2017, 2019
   profil: Mentor
-  defi: CC-API rapports, Plume
+  defi: <a href="/defis/2019/plume" target="new">CC-API rapports, Plume</a>
   class: 2019 mentor
   desc: Adnène Trojette
 
@@ -12,7 +12,7 @@
   link_to: /communaute/2018/adrien-signorino.html
   annee: 2018
   profil: Data scientist
-  defi: b@liseNAV
+  defi: <a href="/defis/2018/balisenav" target="new">b@liseNAV</a>
   class:
   - 2018
   - eig
@@ -24,7 +24,7 @@
   link_to: /communaute/2019/alain-regnier.html
   annee: 2019
   profil: Mentor
-  defi: Karfu'R
+  defi: <a href="/defis/2019/karfur" target="new">Karfu'R</a>
   class: 2019 mentor
   desc: Alain Régnier
 
@@ -33,7 +33,7 @@
   link_to: /communaute/2018/ambre-arnaud.html
   annee: 2018
   profil: Développeuse
-  defi: dataESR
+  defi: <a href="/defis/2018/dataesr" target="new">dataESR</a>
   class:
   - 2018
   - eig
@@ -45,7 +45,7 @@
   link_to: /communaute/2018/anne-lambert.html
   annee: 2018
   profil: Mentor
-  defi: Archifiltre
+  defi: <a href="/defis/2018/archifiltre" target="new">Archifiltre</a>
   class:
   - 2018
   - mentor
@@ -56,7 +56,7 @@
   link_to: /communaute/2019/anne-sophie-hutin.html
   annee: 2019
   profil: Mentor
-  defi: DataJust
+  defi: <a href="/defis/2019/datajust" target="new">DataJust</a>
   class: 2019 mentor
   desc: Anne-Sophie Hutin
 
@@ -65,7 +65,7 @@
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018
   profil: Développeur
-  defi: Prédisauvetage
+  defi: <a href="/defis/2018/donneesauvetagemaritime" target="new">Prédisauvetage</a>
   class:
   - 2018
   - eig
@@ -77,7 +77,7 @@
   link_to: /communaute/2018/arnaud-menard.html
   annee: 2018
   profil: Data scientist
-  defi: b@liseNAV
+  defi: <a href="/defis/2018/balisenav" target="new">b@liseNAV</a>
   class:
   - 2018
   - eig
@@ -89,7 +89,7 @@
   link_to: /communaute/2018/arnaud-rachez.html
   annee: 2018
   profil: Data scientist
-  defi: CoachÉlèves
+  defi: <a href="/defis/2018/coacheleves" target="new">CoachÉlèves</a>
   class:
   - 2018
   - eig
@@ -101,7 +101,7 @@
   link_to: /communaute/2019/audrey-istace.html
   annee: 2019
   profil: Mentor
-  defi: PolyGraphe
+  defi: <a href="/defis/2019/polygraphe" target="new">PolyGraphe</a>
   class: 2019 mentor
   desc: Audrey Istace
 
@@ -110,7 +110,7 @@
   link_to: /communaute/2018/bastien-guerry.html
   annee: 2017, 2018
   profil: Développeur
-  defi: MCC-Inventaire des orgues, EIG Link
+  defi: <a href="/defis/2017/mcc-inventaire-des-orgues" target="new">MCC-Inventaire des orgues, EIG Link</a>
   class:
   - 2017
   - 2018
@@ -123,7 +123,7 @@
   link_to: /communaute/2018/benedicte-pachod.html
   annee: 2018
   profil: Mentor
-  defi: Social Connect
+  defi: <a href="/defis/2018/socialconnect" target="new">Social Connect</a>
   class:
   - 2018
   - mentor
@@ -135,7 +135,7 @@
   desc: Benoît Guigal
   annee: 2018
   profil: Développeur
-  defi: Hopkins
+  defi: <a href="/defis/2018/hopkins" target="new">Hopkins</a>
   class:
   - 2018
   - eig
@@ -147,7 +147,7 @@
   link_to: /communaute/2018/christophe-ninucci.html
   annee: 2018
   profil: Développeur
-  defi: Signaux Faibles
+  defi: <a href="/defis/2018/signauxfaibles" target="new">Signaux Faibles</a>
   class:
   - 2018
   - eig
@@ -159,7 +159,7 @@
   link_to: /communaute/2018/chloe-moser.html
   annee: 2018
   profil: Mentor
-  defi: Archifiltre
+  defi: <a href="/defis/2018/archifiltre" target="new">Archifiltre</a>
   class:
   - 2018
   - mentor
@@ -170,7 +170,7 @@
   link_to: /communaute/2018/claudio-cimelli.html
   annee: 2018
   profil: Mentor
-  defi: CoachÉlèves
+  defi: <a href="/defis/2018/coacheleves" target="new">CoachÉlèves</a>
   class:
   - 2018
   - mentor
@@ -181,7 +181,7 @@
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   annee: 2017
   profil: Data scientist
-  defi: BNF-catalogage
+  defi: <a href="/defis/2017/bnf-catalogage" target="new">BNF-catalogage</a>
   class:
   - 2017
   - eig
@@ -193,7 +193,7 @@
   link_to: /communaute/2018/daniel-ansellem.html
   annee: 2017, 2018, 2019
   profil: Mentor
-  defi: MI-cartAV, MI-matchID, Prévisecours
+  defi: <a href="/defis/2018/previsecours" target="new">MI-cartAV, MI-matchID, Prévisecours</a>
   class:
   - 2017
   - 2018
@@ -206,7 +206,7 @@
   link_to: /communaute/2018/david-panou.html
   annee: 2018
   profil: Data scientist
-  defi: CoachÉlèves
+  defi: <a href="/defis/2018/coacheleves" target="new">CoachÉlèves</a>
   class:
   - 2018
   - eig
@@ -218,7 +218,7 @@
   link_to: /communaute/2018/delphine-le.html
   annee: 2018, 2019
   profil: Mentor
-  defi: Hopkins, ADLER
+  defi: <a href="/defis/2018/hopkins" target="new">Hopkins, ADLER</a>
   class:
   - 2018
   - 2019
@@ -230,7 +230,7 @@
   link_to: /communaute/2018/dora-crisan.html
   annee: 2018
   profil: Développeuse
-  defi: Brigade Numérique
+  defi: <a href="/defis/2018/brigadenumerique" target="new">Brigade Numérique</a>
   class:
   - 2018
   - eig
@@ -242,7 +242,7 @@
   link_to: /communaute/2019/dorian-flechet.html
   annee: 2019
   profil: Mentor
-  defi: CartoBio
+  defi: <a href="/defis/2019/cartobio" target="new">CartoBio</a>
   class: 2019 mentor
   desc: Dorian Flechet
 
@@ -251,7 +251,7 @@
   link_to: /communaute/2019/edouard-rottier.html
   annee: 2019
   profil: Mentor
-  defi: Open Justice
+  defi: <a href="/defis/2019/openjustice" target="new">Open Justice</a>
   class: 2019 mentor
   desc: Edouard Rottier
 
@@ -260,7 +260,7 @@
   link_to: /communaute/2018/elise-lalique.html
   annee: 2018
   profil: Designeuse
-  defi: Social Connect
+  defi: <a href="/defis/2018/socialconnect" target="new">Social Connect</a>
   class:
   - 2018
   - eig
@@ -272,7 +272,7 @@
   link_to: /communaute/2019/eloi-bluat-menard.html
   annee: 2019
   profil: Mentor
-  defi: Open Justice
+  defi: <a href="/defis/2019/openjustice" target="new">Open Justice</a>
   class: 2019 mentor
   desc: Éloi Bluat-Ménard
 
@@ -281,7 +281,7 @@
   link_to: /communaute/2018/elsa-luneville.html
   annee: 2018
   profil: Data scientist
-  defi: Prédisauvetage
+  defi: <a href="/defis/2018/donneesauvetagemaritime" target="new">Prédisauvetage</a>
   class:
   - 2018
   - eig
@@ -293,7 +293,7 @@
   link_to: /communaute/2018/emmanuel-gautier.html
   annee: 2018
   profil: Data scientist
-  defi: Archifiltre
+  defi: <a href="/defis/2018/archifiltre" target="new">Archifiltre</a>
   class:
   - 2018
   - eig
@@ -305,7 +305,7 @@
   link_to: /communaute/2018/emmanuel-weisenburger.html
   annee: 2017, 2018
   profil: Mentor
-  defi: MESRI-matchID, dataESR
+  defi: <a href="/defis/2018/dataesr" target="new">MESRI-matchID, dataESR</a>
   class:
   - 2017
   - 2018
@@ -317,7 +317,7 @@
   link_to: /communaute/2018/eric-le-guen.html
   annee: 2018
   profil: Mentor
-  defi: b@liseNAV
+  defi: <a href="/defis/2018/balisenav" target="new">b@liseNAV</a>
   class:
   - 2018
   - mentor
@@ -328,7 +328,7 @@
   link_to: /communaute/2017/etienne-david.html
   annee: 2017
   profil: Développeur
-  defi: AFD-Geodata
+  defi: <a href="/defis/2017/afd-geodata" target="new">AFD-Geodata</a>
   class:
   - 2017
   - eig
@@ -340,7 +340,7 @@
   link_to: /communaute/2017/francis-chabouis.html
   annee: 2017
   profil: Développeur
-  defi: MI-cartAV
+  defi: <a href="/defis/2017/mi-cartav-securite-routiere" target="new">MI-cartAV</a>
   class:
   - 2017
   - eig
@@ -352,7 +352,7 @@
   link_to: /communaute/2018/francois-bocquet.html
   annee: 2018
   profil: Mentor
-  defi: CoachÉlèves
+  defi: <a href="/defis/2018/coacheleves" target="new">CoachÉlèves</a>
   class:
   - 2018
   - mentor
@@ -363,7 +363,7 @@
   link_to: /communaute/2017/frederic-bardolle.html
   annee: 2017
   profil: Développeur
-  defi: CC-API rapports
+  defi: <a href="/defis/2017/cc-api-rapports" target="new">CC-API rapports</a>
   class:
   - 2017
   - eig
@@ -375,7 +375,7 @@
   link_to: /communaute/2018/guillaume-lancrenon.html
   annee: 2018
   profil: Développeur
-  defi: Prévisecours
+  defi: <a href="/defis/2018/previsecours" target="new">Prévisecours</a>
   class:
   - 2018
   - eig
@@ -387,7 +387,7 @@
   link_to: /communaute/2019/herve-brule.html
   annee: 2019
   profil: Mentor
-  defi: CibNAV
+  defi: <a href="/defis/2019/cibnav" target="new">CibNAV</a>
   class: 2019 mentor
   desc: Hervé Brulé
 
@@ -396,7 +396,7 @@
   link_to: /communaute/2019/iana-ivanov.html
   annee: 2019
   profil: Mentor
-  defi: DataJust
+  defi: <a href="/defis/2019/datajust" target="new">DataJust</a>
   class: 2019 mentor
   desc: Iana Ivanov
 
@@ -405,7 +405,7 @@
   link_to: /communaute/2018/jean-baptiste-assouad.html
   annee: 2018
   profil: Développeur
-  defi: Archifiltre
+  defi: <a href="/defis/2018/archifiltre" target="new">Archifiltre</a>
   class:
   - 2018
   - eig
@@ -417,7 +417,7 @@
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   annee: 2018
   profil: Designer
-  defi: Brigade Numérique
+  defi: <a href="/defis/2018/brigadenumerique" target="new">Brigade Numérique</a>
   class:
   - 2018
   - eig
@@ -429,7 +429,7 @@
   link_to: /communaute/2019/jean-rene-duscher.html
   annee: 2019
   profil: Mentor
-  defi: ExploCode
+  defi: <a href="/defis/2019/explocode" target="new">ExploCode</a>
   class: 2019 mentor
   desc: Jean-René Duscher
 
@@ -438,7 +438,7 @@
   link_to: /communaute/2019/julien-bouquillon.html
   annee: 2019
   profil: Mentor
-  defi: ExploCode
+  defi: <a href="/defis/2019/explocode" target="new">ExploCode</a>
   class: 2019 mentor
   desc: Julien Bouquillon
 
@@ -447,7 +447,7 @@
   link_to: /communaute/2018/julien-naour.html
   annee: 2018
   profil: Data scientist
-  defi: Lab Santé
+  defi: <a href="/defis/2018/labsante" target="new">Lab Santé</a>
   class:
   - 2018
   - eig
@@ -459,7 +459,7 @@
   link_to: /communaute/2018/julien-paris.html
   annee: 2018
   profil: Développeur
-  defi: Social Connect
+  defi: <a href="/defis/2018/socialconnect" target="new">Social Connect</a>
   class:
   - 2018
   - eig
@@ -471,7 +471,7 @@
   link_to: /communaute/2018/laurence-matringe.html
   annee: 2018
   profil: Mentor
-  defi: Prédisauvetage
+  defi: <a href="/defis/2018/donneesauvetagemaritime" target="new">Prédisauvetage</a>
   class:
   - 2018
   - mentor
@@ -482,7 +482,7 @@
   link_to: /communaute/2017/laurent-dupont.html
   annee: 2017
   profil: Développeur
-  defi: MESRI-La machine à données
+  defi: <a href="/defis/2017/mesri-magical-merge-machine" target="new">MESRI-La machine à données</a>
   class:
   - 2017
   - eig
@@ -494,7 +494,7 @@
   link_to: /communaute/2019/laurent-toustou.html
   annee: 2019
   profil: Mentor
-  defi: DataReg
+  defi: <a href="/defis/2019/datareg" target="new">DataReg</a>
   class: 2019 mentor
   desc: Laurent Toustou
 
@@ -503,7 +503,7 @@
   link_to: /communaute/2018/laurie-chapotte.html
   annee: 2018
   profil: Designeuse
-  defi: Gobelins
+  defi: <a href="/defis/2018/gobelins" target="new">Gobelins</a>
   class:
   - 2018
   - eig
@@ -515,7 +515,7 @@
   link_to: /communaute/2017/leo-bouloc.html
   annee: 2017
   profil: Data scientist
-  defi: MESRI - La machine à données
+  defi: <a href="/defis/2017/mesri-magical-merge-machine" target="new">MESRI - La machine à données</a>
   class:
   - 2017
   - eig
@@ -527,7 +527,7 @@
   link_to: /communaute/2019/marie-feucher.html
   annee: 2019
   profil: Mentor
-  defi: CibNAV
+  defi: <a href="/defis/2019/cibnav" target="new">CibNAV</a>
   class: 2019 mentor
   desc: Marie Feucher
 
@@ -536,7 +536,7 @@
   link_to: /communaute/2018/marielle-chrisment.html
   annee: 2018
   profil: Mentor
-  defi: Brigade Numérique
+  defi: <a href="/defis/2018/brigadenumerique" target="new">Brigade Numérique</a>
   class:
   - 2018
   - mentor
@@ -547,7 +547,7 @@
   link_to: /communaute/2017/marion-paclot.html
   annee: 2018
   profil: Data scientist
-  defi: DGFiP-Fraude fiscale
+  defi: <a href="/defis/2017/dgfip-fraude-fiscale" target="new">DGFiP-Fraude fiscale</a>
   class:
   - 2017
   - eig
@@ -559,7 +559,7 @@
   link_to: /communaute/2017/martin-gross.html
   annee: 2017
   profil: Développeur
-  defi: MI-matchID
+  defi: <a href="/defis/2017/mi-matchid" target="new">MI-matchID</a>
   class:
   - 2017
   - eig
@@ -571,7 +571,7 @@
   link_to: /communaute/2018/mathilde-bras.html
   annee: 2017, 2018, 2019
   profil: Accompagnement
-  defi: Programme EIG
+  defi: <a href="/defis/2018/eiglink" target="new">Programme EIG</a>
   class:
   - 2017
   - 2018
@@ -584,7 +584,7 @@
   link_to: /communaute/2019/mauko-quiroga.html
   annee: 2019
   profil: Mentor
-  defi: LexImpact
+  defi: <a href="/defis/2019/leximpact" target="new">LexImpact</a>
   class: 2019 mentor
   desc: Mauko Quiroga
 
@@ -593,7 +593,7 @@
   link_to: /communaute/2018/maxime-pierrot.html
   annee: 2018
   profil: Développeur
-  defi: dataESR
+  defi: <a href="/defis/2018/dataesr" target="new">dataESR</a>
   class:
   - 2018
   - eig
@@ -605,7 +605,7 @@
   link_to: /communaute/2018/ned-baldessin.html
   annee: 2018
   profil: Développeur
-  defi: Gobelins
+  defi: <a href="/defis/2018/gobelins" target="new">Gobelins</a>
   class:
   - 2018
   - eig
@@ -617,7 +617,7 @@
   link_to: /communaute/2019/nicolas-bizet.html
   annee: 2019
   profil: Mentor
-  defi: ACOSS-plateforme
+  defi: <a href="/defis/2019/acossplateforme" target="new">ACOSS-plateforme</a>
   class: 2019 mentor
   desc: Nicolas Bizet
 
@@ -626,7 +626,7 @@
   link_to: /communaute/2019/olivier-brandouy.html
   annee: 2019
   profil: Mentor
-  defi: Plume
+  defi: <a href="/defis/2019/plume" target="new">Plume</a>
   class: 2019 mentor
   desc: Olivier Brandouy
 
@@ -635,7 +635,7 @@
   link_to: /communaute/2019/pascal-guy.html
   annee: 2019
   profil: Mentor
-  defi: Plume
+  defi: <a href="/defis/2019/plume" target="new">Plume</a>
   class: 2019 mentor
   desc: Pascal Guy
 
@@ -644,7 +644,7 @@
   link_to: /communaute/2019/patricia-poulet-mathis.html
   annee: 2019
   profil: Mentor
-  defi: ACOSS-plateforme
+  defi: <a href="/defis/2019/acossplateforme" target="new">ACOSS-plateforme</a>
   class: 2019 mentor
   desc: Patricia Poulet-Mathis
 
@@ -653,7 +653,7 @@
   link_to: /communaute/2018/paul-boosz.html
   annee: 2018
   profil: Data scientist
-  defi: Hopkins
+  defi: <a href="/defis/2018/hopkins" target="new">Hopkins</a>
   class:
   - 2018
   - eig
@@ -665,7 +665,7 @@
   link_to: /communaute/2018/paul-schmite.html
   annee: 2018
   profil: Accompagnement
-  defi: Programme EIG
+  defi: <a href="/defis/2018/eiglink" target="new">Programme EIG</a>
   class:
   - 2017
   - 2018
@@ -676,7 +676,7 @@
   link_to: /communaute/2018/phileas-condemine.html
   annee: 2018
   profil: Data scientist
-  defi: Lab Santé, Open Chronic
+  defi: <a href="/defis/2019/openchronic" target="new">Lab Santé, Open Chronic</a>
   class:
   - 2018
   - 2019
@@ -690,7 +690,7 @@
   link_to: /communaute/2018/pierre-camilleri.html
   annee: 2018
   profil: Data scientist
-  defi: Signaux Faibles
+  defi: <a href="/defis/2018/signauxfaibles" target="new">Signaux Faibles</a>
   class:
   - 2018
   - eig
@@ -702,7 +702,7 @@
   link_to: /communaute/2018/renaud-perin.html
   annee: 2018
   profil: Mentor
-  defi: Prédisauvetage
+  defi: <a href="/defis/2018/donneesauvetagemaritime" target="new">Prédisauvetage</a>
   class:
   - 2018
   - mentor
@@ -713,7 +713,7 @@
   link_to: /communaute/2018/remy-nollet.html
   annee: 2018
   profil: Mentor
-  defi: Brigade Numérique
+  defi: <a href="/defis/2018/brigadenumerique" target="new">Brigade Numérique</a>
   class:
   - 2018
   - mentor
@@ -724,7 +724,7 @@
   link_to: /communaute/2018/samah-ghalloussi.html
   annee: 2018
   profil: Data scientist
-  defi: Lab Santé
+  defi: <a href="/defis/2018/labsante" target="new">Lab Santé</a>
   class:
   - 2018
   - eig
@@ -736,7 +736,7 @@
   link_to: /communaute/2018/sami-moustachir.html
   annee: 2018
   profil: Data scientist
-  defi: dataESR
+  defi: <a href="/defis/2018/dataesr" target="new">dataESR</a>
   class:
   - 2018
   - eig
@@ -748,7 +748,7 @@
   link_to: /communaute/2019/samir-kebli.html
   annee: 2019
   profil: Mentor
-  defi: CartoBio
+  defi: <a href="/defis/2019/cartobio" target="new">CartoBio</a>
   class: 2019 mentor
   desc: Samir Kebli
 
@@ -757,7 +757,7 @@
   link_to: /communaute/2019/sandra-chakroun.html
   annee: 2019
   profil: Mentor
-  defi: LexImpact
+  defi: <a href="/defis/2019/leximpact" target="new">LexImpact</a>
   class: 2019 mentor
   desc: Sandra Chakroun
 
@@ -766,7 +766,7 @@
   link_to: /communaute/2017/sebastien-cossin.html
   annee: 2017
   profil: Développeur
-  defi: ARS-Parcours de soin
+  defi: <a href="/defis/2017/ars-occitanie-parcours-de-soin" target="new">ARS-Parcours de soin</a>
   class:
   - 2017
   - eig
@@ -778,7 +778,7 @@
   link_to: /communaute/2019/simon-karleskind.html
   annee: 2019
   profil: Mentor
-  defi: "Karfu'R"
+  defi: <a href="/defis/2019/karfur" target="new">Karfu'R</a>
   class:
   - 2019
   - mentor
@@ -789,7 +789,7 @@
   link_to: /communaute/2018/sophie-miljkovic.html
   annee: 2018
   profil: Accompagnement
-  defi: Programme EIG
+  defi: <a href="/defis/2018/eiglink" target="new">Programme EIG</a>
   class:
   - 2018
   desc: Sophie Miljkovic
@@ -799,7 +799,7 @@
   link_to: /communaute/2018/stephanie-combes.html
   annee: 2018
   profil: Mentor
-  defi: Lab Santé
+  defi: <a href="/defis/2018/labsante" target="new">Lab Santé</a>
   class:
   - 2018
   - mentor
@@ -810,7 +810,7 @@
   link_to: /communaute/2018/stephanie-schaer.html
   annee: 2018
   profil: Mentor
-  defi: Signaux Faibles
+  defi: <a href="/defis/2018/signauxfaibles">Signaux Faibles</a>
   class:
   - 2018
   - mentor
@@ -821,7 +821,7 @@
   link_to: /communaute/2018/soizic-penicaud.html
   annee: 2017, 2018
   profil: Accompagnement
-  defi: Programme EIG
+  defi: <a href="/defis/2018/eiglink" target="new">Programme EIG</a>
   class:
   - 2017
   - 2018
@@ -832,7 +832,7 @@
   link_to: /communaute/2018/tiphaine-phe-neau.html
   annee: 2018
   profil: Data scientist
-  defi: Prévisecours
+  defi: <a href="/defis/2018/previsecours" target="new">Prévisecours</a>
   class:
   - 2018
   - eig
@@ -844,7 +844,7 @@
   link_to: /communaute/2017/tristram-grabener.html
   annee: 2017
   profil: Développeur
-  defi: MI-cartAV
+  defi: <a href="/defis/2017/mi-cartav-securite-routiere" target="new">MI-cartAV</a>
   class:
   - 2017
   - eig
@@ -856,7 +856,7 @@
   link_to: /communaute/2018/victor-schmidt.html
   annee: 2018
   profil: Data scientist
-  defi: Hopkins
+  defi: <a href="/defis/2018/hopkins" target="new">Hopkins</a>
   class:
   - 2018
   - eig
@@ -868,7 +868,7 @@
   link_to: /communaute/2018/yann-caradec.html
   annee: 2018
   profil: Mentor
-  defi: dataESR
+  defi: <a href="/defis/2018/dataesr" target="new">dataESR</a>
   class:
   - 2018
   - mentor
