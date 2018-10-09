@@ -48,4 +48,7 @@ machine learning._
 _Pour aller plus loin_
 
 * Le [github](https://github.com/entrepreneur-interet-general/predisauvetage) du défi
-* [Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-prdisauvetage-80976654)
+
+* Le pitch du défi Prédisauvetage en quelques slides (10 octobre 2017)
+
+<script async class="speakerdeck-embed" data-id="450c046ba75044e0a94c31b12bffc753" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
