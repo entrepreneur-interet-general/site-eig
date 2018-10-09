@@ -78,6 +78,8 @@ en prenant des notes ; les plus organisés se seront réparti les tâches
 ou auront pris le temps de revenir sur leurs pas pour sauver de
 l'oubli un outil, un détail ou une explication.
 
+<p><a href="https://commons.wikimedia.org/wiki/File:R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg#/media/File:R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg" alt="Réalisation du tenon à l'aide de la scie à cadre - Mobilier national.jpg" width="1200" height="896"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Alex081056&amp;action=edit&amp;redlink=1" class="new" title="User:Alex081056 (page does not exist)">Alex081056</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72918822">Link</a></p>
+
 L'après-midi, nous nous installons dans la salle de réunion des
 EIG. Sylvain Boissel commence par un rappel du fonctionnement de
 Wikipédia et du projet Commons [lien vers la présentation de
