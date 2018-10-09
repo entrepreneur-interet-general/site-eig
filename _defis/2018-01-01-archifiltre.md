@@ -51,4 +51,7 @@ _Pour aller plus loin_
 
 * [Le github](https://github.com/jeanbaptisteassouad/cheapExp) du défi
 * [Le site](http://archifiltre.com/) du défi
-* [Le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
+
+* Le pitch du défi Archifiltre en quelques slides (10 octobre 2017)
+
+<script async class="speakerdeck-embed" data-id="57e8d4b1fe4543c48a67a9bf7b688c01" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
