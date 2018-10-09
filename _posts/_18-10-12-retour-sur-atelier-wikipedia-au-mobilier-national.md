@@ -22,7 +22,7 @@ contenus pour faire connaître les richesses du Mobilier national ?
 Pourquoi ne pas inviter des passionnés à prendre des photos et à
 documenter les trésors de cet établissement ?
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Mordaches_avec_cuir_-_Mobilier_national.jpg#/media/File:Mordaches_avec_cuir_-_Mobilier_national.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Mordaches_avec_cuir_-_Mobilier_national.jpg" alt="Mordaches avec cuir - Mobilier national.jpg" width="1200" height="805"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:PaulineR83&amp;action=edit&amp;redlink=1" class="new" title="User:PaulineR83 (page does not exist)">PaulineR83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72918259">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Pes%C3%A9e_de_pigments.png#/media/File:Pes%C3%A9e_de_pigments.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Pes%C3%A9e_de_pigments.png" alt="Pesée de pigments.png" width="1200" height="800"></a><br>By Isabelle Bideau - Give by the author, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73085571">Link</a></p>
 
 C'est ainsi que naît l'idée d'une journée « portes ouvertes » où des
 contributeurs des projets Wikimédia seraient invités à prendre des
@@ -49,7 +49,7 @@ France, où nous précisons les détails logistiques de l'opération ; une
 troisième, de nouveau dans les locaux de l'association, l'occasion
 pour Laurie et Ned de faire connaissance avec les volontaires.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Pompons_du_nuancier_des_manufactures_nationales_04.jpg#/media/File:Pompons_du_nuancier_des_manufactures_nationales_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Pompons_du_nuancier_des_manufactures_nationales_04.jpg" alt="Pompons du nuancier des manufactures nationales 04.jpg" width="1200" height="819"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Peccadille" title="User:Peccadille">Peccadille</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72941068">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mordaches_avec_cuir_-_Mobilier_national.jpg#/media/File:Mordaches_avec_cuir_-_Mobilier_national.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Mordaches_avec_cuir_-_Mobilier_national.jpg" alt="Mordaches avec cuir - Mobilier national.jpg" width="1200" height="805"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:PaulineR83&amp;action=edit&amp;redlink=1" class="new" title="User:PaulineR83 (page does not exist)">PaulineR83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72918259">Link</a></p>
 
 En plus des wikipédiens, l'équipe EIG annonce la journée à d'anciens
 stagiaires ou à des étudiants en histoire de l'art ayant effectué des
@@ -70,8 +70,6 @@ siège, restauration tapisserie, tapisserie d’ameublement, Manufacture
 des Gobelins (creation de tapisseie), lustrerie/bronzerie, décor
 contemporain, restauration tapis.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Pes%C3%A9e_de_pigments.png#/media/File:Pes%C3%A9e_de_pigments.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Pes%C3%A9e_de_pigments.png" alt="Pesée de pigments.png" width="1200" height="800"></a><br>By Isabelle Bideau - Give by the author, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73085571">Link</a></p>
-
 Tous les visiteurs s'accordent sur un point : il y a trop à voir et à
 noter ! Le plus difficile est de faire des photos tout en écoutant et
 en prenant des notes ; les plus organisés se seront réparti les tâches
@@ -87,7 +85,8 @@ Sylvain?]. Puis, après une démonstration de la façon dont chacun peut
 mettre en ligne ses photos ou vidéos et quelques rappels sur le
 principe des licences libres, nous nous y mettons tous.
 
-<img src="https://pbs.twimg.com/media/DnoPZCAXcAAXXsl.jpg" />
+<img src="/img/blog/capture-commons-08102018.png" />
+_Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
 
 _Nous retravaillons des photos ou des vidéos avant de les publier sous
 licence libre sur Commons. © Ash\_Crow, CC BY-SA 4.0_
@@ -99,12 +98,8 @@ ligne.
 
 # Les résultats - à suivre ?
 
-Comme diraient les anglais : et voilà ! 
-
-<img src="/img/blog/capture-commons-08102018.png" />
-_Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
-
-Le résumé en quelques chiffres : 
+Comme diraient les anglais : et voilà !  Le résumé en quelques
+chiffres :
 
 - 1 [catégorie dédiée](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018) sur Commons ;
 - 236 photos publiées le jour même, 316 aujourd'hui dans la catégorie ;
@@ -113,9 +108,10 @@ Le résumé en quelques chiffres :
 - 21 personnels du Mobilier national mobilisés le matin ;
 - quelques articles de Wikipédia enrichis ;
 - 9 volontaires extérieurs mobilisés ;
-- dont 4 wikipédiens (Sylvain, Sukkoria, Peccadille, Bzg) ;
-- et au moins un [très heureux d'avoir fait avancer le partage du
-  savoir](https://twitter.com/ash_crow/status/1043164416764723200 ) !
+- dont 4 wikipédiens (Ash_Crow, Sukkoria, Peccadille, Bzg).
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Fin de l&#39;atelier <a href="https://twitter.com/Wikimedia_Fr?ref_src=twsrc%5Etfw">@Wikimedia_Fr</a> au <a href="https://twitter.com/MNGBS?ref_src=twsrc%5Etfw">@MNGBS</a> ! 12 personnes formées à <a href="https://twitter.com/Wikipedia_fr?ref_src=twsrc%5Etfw">@Wikipedia_fr</a> et à <a href="https://twitter.com/WikiCommons?ref_src=twsrc%5Etfw">@WikiCommons</a>, 236 fichiers importés cette après-midi.<a href="https://t.co/ixRPi3T5IO">https://t.co/ixRPi3T5IO</a><br><br>(Photos : CC-BY-SA <a href="https://twitter.com/ash_crow?ref_src=twsrc%5Etfw">@Ash_Crow</a>, Kenza-Marie Safraoui, PaulineR83, <a href="https://twitter.com/sukkoria?ref_src=twsrc%5Etfw">@Sukkoria</a>) <a href="https://t.co/kZ0LsBc4rz">pic.twitter.com/kZ0LsBc4rz</a></p>&mdash; Ash_Crow (@ash_crow) <a href="https://twitter.com/ash_crow/status/1043164416764723200?ref_src=twsrc%5Etfw">21 septembre 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 D'ailleurs tout ceci n'est qu'un début : nous sommes invités à
 continuer d'enrichir cette catégorie et nous espérons renforcer le
