@@ -41,7 +41,7 @@ Nous collectons des données anonymes d'audience du site, dans le respect des co
 Nous traitons des données à caractère personnel vous concernant, 
 dans deux cas :
 - si vous rejoignez notre liste de diffusion ;
-- si vous candidatez pour devenir entrepreneur d'intérêt général.
+- si vous posez votre candidature pour devenir entrepreneur d'intérêt général.
 
 
 #### a) Liste de diffusion
