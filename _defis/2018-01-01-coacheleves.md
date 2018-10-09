@@ -44,4 +44,6 @@ de la réalisation de l’outil d’accompagnement.
 
  _En savoir plus_
 
- [Le pitch du défi en 4 slides](https://www.slideshare.net/secret/75ef9FN8yeRrYK)
+ Le pitch du défi Coach Elèves en quelques slides (10 octobre 2017)
+ 
+ <script async class="speakerdeck-embed" data-id="9a9aa2176d1249fd93ce0edaeaf7b216" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
