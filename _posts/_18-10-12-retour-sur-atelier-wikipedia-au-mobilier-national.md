@@ -31,15 +31,17 @@ national, à les publier ensuite sous licence libre sur
 [Commons](https://commons.wikimedia.org/wiki/Main_Page), et à enrichir
 les articles de [Wikipédia](https://fr.wikipedia.org).
 
-# La manière : mobiliser l'institution et préparer avec Wikimédia France
+# La méthode : mobiliser l'institution et préparer avec Wikimédia France
 
 Deux processus parallèles se rejoignent : d'un côté, Hélène Cavalié et
 Laurie prennent le temps de contacter les équipes du Mobilier qui
 acceptent très volontiers le principe d'une demie-journée de visites
 particulières ; de l'autre, Bastien prend contact avec l'association
 Wikimédia France en se demandant quel forme d'accompagnement peut
-offrir l'association et quels contributeurs pourraient être
-intéressés.
+offrir l'association et quels contributeurs pourraient être intéressés
+et donner de leur temps.
+
+<!-- FIXME: lien vers présentation de Sylvain ? -->
 
 Nous ferons en tout trois réunions de préparation avec Wikimédia
 France : la première, à distance, pour une première prise de contact
@@ -59,16 +61,16 @@ concours qu'ils venaient de passer… et qu'ils étaient très heureux de
 pouvoir passer une journée à se distraire utilement du stress et de
 l'attente !
 
-# Ce qu'on a fait
+# Le résultat : des contenus, des compétences et de nouveaux liens
 
 Le jour même, une vingtaine d'agents du Mobilier national accueillent
-les quatre Wikipédiens et les 9 personnes venues par d'autres
-canaux. Ils visiteront tous ces ateliers : atelier de teinture,
-Manufacture de Beauvais (creation tapisserie), nuancier, Manufacture
-de la savonnerie (creation de tapis), restauration menuiserie en
-siège, restauration tapisserie, tapisserie d’ameublement, Manufacture
-des Gobelins (creation de tapisseie), lustrerie/bronzerie, décor
-contemporain, restauration tapis.
+les quatre Wikipédiens et les 9 personnes venues par d'autres canaux.
+Ils visiteront tous ces ateliers : atelier de teinture, Manufacture de
+Beauvais (creation tapisserie), nuancier, Manufacture de la savonnerie
+(creation de tapis), restauration menuiserie en siège, restauration
+tapisserie, tapisserie d’ameublement, Manufacture des Gobelins
+(creation de tapisseie), lustrerie/bronzerie, décor contemporain,
+restauration tapis.
 
 Tous les visiteurs s'accordent sur un point : il y a trop à voir et à
 noter ! Le plus difficile est de faire des photos tout en écoutant et
@@ -78,12 +80,11 @@ l'oubli un outil, un détail ou une explication.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg#/media/File:R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/R%C3%A9alisation_du_tenon_%C3%A0_l%27aide_de_la_scie_%C3%A0_cadre_-_Mobilier_national.jpg" alt="Réalisation du tenon à l'aide de la scie à cadre - Mobilier national.jpg" width="1200" height="896"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Alex081056&amp;action=edit&amp;redlink=1" class="new" title="User:Alex081056 (page does not exist)">Alex081056</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72918822">Link</a></p>
 
-L'après-midi, nous nous installons dans la salle de réunion des
-EIG. Sylvain Boissel commence par un rappel du fonctionnement de
-Wikipédia et du projet Commons [lien vers la présentation de
-Sylvain?]. Puis, après une démonstration de la façon dont chacun peut
-mettre en ligne ses photos ou vidéos et quelques rappels sur le
-principe des licences libres, nous nous y mettons tous.
+L'après-midi, nous nous installons dans la salle de réunion des EIG.
+Sylvain Boissel commence par un rappel du fonctionnement de Wikipédia
+et du projet Commons. Puis, après une démonstration de la façon dont
+chacun peut mettre en ligne ses photos ou vidéos et quelques rappels
+sur le principe des licences libres, nous nous y mettons tous.
 
 <img src="/img/blog/capture-commons-08102018.png" />
 _Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
@@ -94,26 +95,38 @@ licence libre sur Commons. © Ash\_Crow, CC BY-SA 4.0_
 La tâche est tellement prenante qu'il sera difficile de fermer les
 portes de la salle de réunion : certains restent jusqu'à 19h pour
 nettoyer leurs images, préparer leurs vidéos avant de les mettre en
-ligne.
+ligne !  À noter que nous recevrons la visite de plusieurs personnels
+des Gobelins, curieux de voir comment nous enrichissons les contenus
+de Commons et de Wikipédia.
 
-# Les résultats - à suivre ?
+# À suivre...
 
 Comme diraient les anglais : et voilà !  Le résumé en quelques
 chiffres :
 
-- 1 [catégorie dédiée](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018) sur Commons ;
-- 236 photos publiées le jour même, 316 aujourd'hui dans la catégorie ;
-- 3 vidéos et [1 gif animé](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018#/media/File:Noeud_Ghiordes.gif) ;
-- 11 ateliers ouverts ;
-- 21 personnels du Mobilier national mobilisés le matin ;
-- quelques articles de Wikipédia enrichis ;
-- 9 volontaires extérieurs mobilisés ;
-- dont 4 wikipédiens (Ash_Crow, Sukkoria, Peccadille, Bzg).
+- **1** [nouvelle catégorie dédiée](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018) sur Commons ;
+- **316** médias aujourd'hui dans cette catégorie, donc **236** publiés le jour même ;
+- **3 vidéos et [1 gif animé](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018#/media/File:Noeud_Ghiordes.gif)** ;
+- **59 articles** de Wikipédia enrichis avec ces médias ;
+- **11 ateliers** visités le matin ;
+- **21 personnels** du Mobilier national mobilisés ;
+- **9 volontaires** extérieurs mobilisés ;
+- **4 wikipédiens** parmi eux (Ash_Crow, Sukkoria, Peccadille, Bzg).
+
+D'ailleurs tout ceci n'est qu'un début : nous sommes invités à
+continuer d'enrichir cette catégorie et nous espérons renforcer ce
+lien naissant entre le Mobilier national et les contributeurs.
+
+Un grand merci à l'équipe EIG pour sa mobilisation et à Wikimédia
+France pour son accompagnement - à suivre !
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Fin de l&#39;atelier <a href="https://twitter.com/Wikimedia_Fr?ref_src=twsrc%5Etfw">@Wikimedia_Fr</a> au <a href="https://twitter.com/MNGBS?ref_src=twsrc%5Etfw">@MNGBS</a> ! 12 personnes formées à <a href="https://twitter.com/Wikipedia_fr?ref_src=twsrc%5Etfw">@Wikipedia_fr</a> et à <a href="https://twitter.com/WikiCommons?ref_src=twsrc%5Etfw">@WikiCommons</a>, 236 fichiers importés cette après-midi.<a href="https://t.co/ixRPi3T5IO">https://t.co/ixRPi3T5IO</a><br><br>(Photos : CC-BY-SA <a href="https://twitter.com/ash_crow?ref_src=twsrc%5Etfw">@Ash_Crow</a>, Kenza-Marie Safraoui, PaulineR83, <a href="https://twitter.com/sukkoria?ref_src=twsrc%5Etfw">@Sukkoria</a>) <a href="https://t.co/kZ0LsBc4rz">pic.twitter.com/kZ0LsBc4rz</a></p>&mdash; Ash_Crow (@ash_crow) <a href="https://twitter.com/ash_crow/status/1043164416764723200?ref_src=twsrc%5Etfw">21 septembre 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-D'ailleurs tout ceci n'est qu'un début : nous sommes invités à
-continuer d'enrichir cette catégorie et nous espérons renforcer le
-lien entre le Mobilier national et des contributeurs extérieurs. À
-suivre !
+<!-- ## Liens -->
+
+<!-- - Un résumé de la journée est disponible sur la [lettre d'information -->
+<!--   GLAM](https://outreach.wikimedia.org/wiki/GLAM/Newsletter/September_2018/Contents/France_report) -->
+<!--   de Wikimédia. -->
+
+
