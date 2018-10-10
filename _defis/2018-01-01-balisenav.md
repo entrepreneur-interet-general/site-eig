@@ -40,4 +40,6 @@ réfléchir à l'ergonomie des systèmes nautiques interactifs.
 
 _Pour aller plus loin_
 
-[Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-balisenav/1)
+Le pitch du défi BaliseNAV en quelques slides
+
+<script async class="speakerdeck-embed" data-id="27e2e3eeaa814ba5bf081d5b2782535a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

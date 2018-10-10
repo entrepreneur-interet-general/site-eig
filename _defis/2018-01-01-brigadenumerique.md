@@ -46,4 +46,6 @@ l'ergonomie.
 
 _Pour aller plus loin_
 
-[Le pitch du défi en 4 slides](https://www.slideshare.net/Etalab/eig-promo-2-prsentation-du-dfi-brigade-numrique/1)
+Le pitch du défi Brigade numérique en quelques slides (présenté le 10 octobre 2017)
+
+<script async class="speakerdeck-embed" data-id="9879ecc863f64b549d4b26902b9f4e16" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
