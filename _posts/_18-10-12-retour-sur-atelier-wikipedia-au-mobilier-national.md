@@ -107,7 +107,7 @@ chiffres :
 - **1** [nouvelle catégorie dédiée](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018) sur Commons ;
 - **316** médias aujourd'hui dans cette catégorie, donc **236** publiés le jour même ;
 - **3 vidéos et [1 gif animé](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018#/media/File:Noeud_Ghiordes.gif)** ;
-- **59 articles** de Wikipédia enrichis avec ces médias ;
+- **59 articles** de Wikipédia ou du Wiktionnaire enrichis avec ces médias ;
 - **11 ateliers** visités le matin ;
 - **21 personnels** du Mobilier national mobilisés ;
 - **9 volontaires** extérieurs mobilisés ;
