@@ -41,8 +41,6 @@ Wikimédia France en se demandant quel forme d'accompagnement peut
 offrir l'association et quels contributeurs pourraient être intéressés
 et donner de leur temps.
 
-<!-- FIXME: lien vers présentation de Sylvain ? -->
-
 Nous ferons en tout trois réunions de préparation avec Wikimédia
 France : la première, à distance, pour une première prise de contact
 avec trois participants potentiels, dont Sylvain Boissel (Ash_Crow sur
@@ -86,11 +84,10 @@ et du projet Commons. Puis, après une démonstration de la façon dont
 chacun peut mettre en ligne ses photos ou vidéos et quelques rappels
 sur le principe des licences libres, nous nous y mettons tous.
 
-<img src="/img/blog/capture-commons-08102018.png" />
-_Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
-
-_Nous retravaillons des photos ou des vidéos avant de les publier sous
-licence libre sur Commons. © Ash\_Crow, CC BY-SA 4.0_
+<a title="By Jules WMFr [CC BY-SA 4.0 
+ (https://creativecommons.org/licenses/by-sa/4.0
+)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pr%C3%A9sentation_Wikip%C3%A9dia_en_une_heure.pdf"><img width="512" alt="Présentation Wikipédia en une heure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pr%C3%A9sentation_Wikip%C3%A9dia_en_une_heure.pdf/page1-800px-Pr%C3%A9sentation_Wikip%C3%A9dia_en_une_heure.pdf.jpg"></a>
+_Par Jules WMFr [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0 </a>], <a href="https://commons.wikimedia.org/wiki/File:Pr%C3%A9sentation_Wikip%C3%A9dia_en_une_heure.pdf">depuis Wikimedia Commons</a>_
 
 La tâche est tellement prenante qu'il sera difficile de fermer les
 portes de la salle de réunion : certains restent jusqu'à 19h pour
@@ -98,6 +95,9 @@ nettoyer leurs images, préparer leurs vidéos avant de les mettre en
 ligne !  À noter que nous recevrons la visite de plusieurs personnels
 des Gobelins, curieux de voir comment nous enrichissons les contenus
 de Commons et de Wikipédia.
+
+<img src="/img/blog/capture-commons-08102018.png" />
+_Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien Guerry, CC BY-SA 4.0_
 
 # À suivre...
 
