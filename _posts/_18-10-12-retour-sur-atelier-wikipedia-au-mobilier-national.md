@@ -101,8 +101,10 @@ _Un aperçu de la catégorie dédiée à cette journée sur Commons - © Bastien
 
 # À suivre...
 
-Comme diraient les anglais : et voilà !  Le résumé en quelques
-chiffres :
+Comme diraient les anglais : et voilà !  D'ailleurs si vous voulez un
+résumé en anglais de la journée, c'est [par
+là](https://outreach.wikimedia.org/wiki/GLAM/Newsletter/September_2018/Contents/France_report).
+Mais voici tout de suite quelques chiffres :
 
 - **1** [nouvelle catégorie dédiée](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018) sur Commons ;
 - **316** médias aujourd'hui dans cette catégorie, donc **236** publiés le jour même ;
@@ -123,11 +125,3 @@ France pour son accompagnement - à suivre !
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Fin de l&#39;atelier <a href="https://twitter.com/Wikimedia_Fr?ref_src=twsrc%5Etfw">@Wikimedia_Fr</a> au <a href="https://twitter.com/MNGBS?ref_src=twsrc%5Etfw">@MNGBS</a> ! 12 personnes formées à <a href="https://twitter.com/Wikipedia_fr?ref_src=twsrc%5Etfw">@Wikipedia_fr</a> et à <a href="https://twitter.com/WikiCommons?ref_src=twsrc%5Etfw">@WikiCommons</a>, 236 fichiers importés cette après-midi.<a href="https://t.co/ixRPi3T5IO">https://t.co/ixRPi3T5IO</a><br><br>(Photos : CC-BY-SA <a href="https://twitter.com/ash_crow?ref_src=twsrc%5Etfw">@Ash_Crow</a>, Kenza-Marie Safraoui, PaulineR83, <a href="https://twitter.com/sukkoria?ref_src=twsrc%5Etfw">@Sukkoria</a>) <a href="https://t.co/kZ0LsBc4rz">pic.twitter.com/kZ0LsBc4rz</a></p>&mdash; Ash_Crow (@ash_crow) <a href="https://twitter.com/ash_crow/status/1043164416764723200?ref_src=twsrc%5Etfw">21 septembre 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- ## Liens -->
-
-<!-- - Un résumé de la journée est disponible sur la [lettre d'information -->
-<!--   GLAM](https://outreach.wikimedia.org/wiki/GLAM/Newsletter/September_2018/Contents/France_report) -->
-<!--   de Wikimédia. -->
-
-
