@@ -15,9 +15,9 @@ site web dédié à la diffusion des collections et savoir-faire du
 [Mobilier national](http://www.mobiliernational.culture.gouv.fr/).
 
 Au printemps 2018, lors d'une discussion portant sur les publics
-potentiels de ce futur site, Bastien évoque les réutilisations que
+potentiels de ce futur site, Bastien, EIG Link 2018, évoque les réutilisations que
 pourront faire les wikipédiens des contenus qui seront publiés sous
-licence Ouverte.  Mais pourquoi attendre la publication de ces
+licence Ouverte. Mais pourquoi attendre la publication de ces
 contenus pour faire connaître les richesses du Mobilier national ?
 Pourquoi ne pas inviter des passionnés à prendre des photos et à
 documenter les trésors de cet établissement ?
