@@ -10,7 +10,7 @@ _Cet article a été rédigé par l'équipe Nos Systèmes de la Fing : Hubert Gu
 
 ## Construire des algorithmes publics exemplaires, la mission Fing-Etalab est lancée avec un premier terrain : les algorithmes développés par les entrepreneurs d'intérêt général
 
-La Fing animait le 26 septembre dernier son premier atelier [NosSystèmes](http://fing.org/?NosSystemes), organisé dans le cadre de sa mission avec Etalab, avec comme sujet la question de **l’exemplarité et de la responsabilité sociale des algorithmes publics**. Ce sujet d'exploration fait écho aux dispositions de la loi pour une République numérique sur la transparence et l'explicabilité des algorithmes et à des chantiers de médiation autour des algorithmes réalisés au sein d'[Etalab][https://www.etalab.gouv.fr/) (taxe d'habitation, calculette impôt, APB).
+La Fing animait le 26 septembre dernier son premier atelier [NosSystèmes](http://fing.org/?NosSystemes), organisé dans le cadre de sa mission avec Etalab, avec comme sujet la question de **l’exemplarité et de la responsabilité sociale des algorithmes publics**. Ce sujet d'exploration fait écho aux dispositions de la loi pour une République numérique sur la transparence et l'explicabilité des algorithmes et à des chantiers de médiation autour des algorithmes réalisés au sein d'[Etalab](https://www.etalab.gouv.fr/) (taxe d'habitation, calculette impôt, APB).
 
 **Plusieurs projets projets du programme Entrepreneur.e d’Intérêt Général ont participé comme DataESR, Hopkins, Signaux faibles, OpenChronic ou LabSanté, ainsi que des partenaires de la Fing comme Orange, EDF et La Poste.** 
 
