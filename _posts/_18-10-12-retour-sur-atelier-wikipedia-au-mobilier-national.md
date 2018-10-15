@@ -15,9 +15,9 @@ site web dédié à la diffusion des collections et savoir-faire du
 [Mobilier national](http://www.mobiliernational.culture.gouv.fr/).
 
 Au printemps 2018, lors d'une discussion portant sur les publics
-potentiels de ce futur site, Bastien évoque les réutilisations que
+potentiels de ce futur site, Bastien, EIG Link 2018, évoque les réutilisations que
 pourront faire les wikipédiens des contenus qui seront publiés sous
-licence Ouverte.  Mais pourquoi attendre la publication de ces
+licence Ouverte. Mais pourquoi attendre la publication de ces
 contenus pour faire connaître les richesses du Mobilier national ?
 Pourquoi ne pas inviter des passionnés à prendre des photos et à
 documenter les trésors de cet établissement ?
@@ -64,10 +64,10 @@ l'attente !
 Le jour même, une vingtaine d'agents du Mobilier national accueillent
 les quatre Wikipédiens et les 9 personnes venues par d'autres canaux.
 Ils visiteront tous ces ateliers : atelier de teinture, Manufacture de
-Beauvais (creation tapisserie), nuancier, Manufacture de la savonnerie
-(creation de tapis), restauration menuiserie en siège, restauration
+Beauvais (création de tapisserie), nuancier, Manufacture de la savonnerie
+(création de tapis), restauration menuiserie en siège, restauration
 tapisserie, tapisserie d’ameublement, Manufacture des Gobelins
-(creation de tapisseie), lustrerie/bronzerie, décor contemporain,
+(création de tapisserie), lustrerie/bronzerie, décor contemporain,
 restauration tapis.
 
 Tous les visiteurs s'accordent sur un point : il y a trop à voir et à
@@ -110,7 +110,7 @@ Mais voici tout de suite quelques chiffres :
 - **316** médias aujourd'hui dans cette catégorie, donc **236** publiés le jour même ;
 - **3 vidéos et [1 gif animé](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018#/media/File:Noeud_Ghiordes.gif)** ;
 - **59 articles** de Wikipédia ou du Wiktionnaire enrichis ;
-- **1 article** créé sur le métier de lisser ;
+- **1 article** créé sur le métier de lissier ;
 - **11 ateliers** visités le matin ;
 - **21 personnels** du Mobilier national mobilisés ;
 - **9 volontaires** extérieurs mobilisés ;
