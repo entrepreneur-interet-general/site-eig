@@ -10,7 +10,7 @@ defis:
     site: /defis/2018/gobelins.html
 profil: 
 images:
-  - /img/defis/3_gobelins.jpg
+  - /img/communaute/helene_cavalie.jpg
 ---
 
 « Je suis chartiste et conservateur du Patrimoine. Depuis
