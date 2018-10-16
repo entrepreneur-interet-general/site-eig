@@ -6,7 +6,7 @@ twitter: etalab
 description: Guillaume est développeur au Ministère de l'Intérieur pour le défi Prévisecours. Il nous explique comment son équipe a travaillé pour déterminer les facteurs les plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.   
 ---
 
-## Comment prédire les interventions de pompiers en ville ?
+## Incendies en ville : quelles causes probables ?
 
 ![Portrait de Guillaume](/img/communaute/Guillaume-Lancrenon.png)
 _Guillaume Lancrenon, développeur, Entrepreneur d'intérêt général pour le défi Prévisecours_
