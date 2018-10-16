@@ -61,6 +61,8 @@ L'enjeu de ce workshop est bien de confronter des services publics innovants en 
 
 N'hésitez pas à nous contacter très rapidement si vous souhaitez être candidat ! Les délais sont un peu courts. Mais travailler avec des étudiants est toujours très rafraîchissant !
 
+**[Lien vers la présentation réalisée le 26 septembre 2018](https://speakerdeck.com/eig2018/atelier-fing-etalab-eig-sur-les-algorithmes-publics-4f099df8-7506-48ea-ae65-1015dde0a07c)
+
 **Contacts :** 
 - [tmarcou@fing.org](mailto:tmarcou@fing.org)
 - [hguillaud@fing.org](mailto:hguillaud@fing.org)
