@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Comment prédire les incendies en ville ? 
+title: Comment prédire les incendies en ville ? 
 author: Guillaume Lancrenon, EIG Prévisecours
 twitter: etalab
 description: Guillaume est développeur au Ministère de l'Intérieur pour le défi Prévisecours. Il nous explique comment son équipe a travaillé pour déterminer les facteurs les plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.   
 ---
 
-## Comment prédire les interventions de pompiers en ville ?
+## Comment prédire les interventions de pompiers en ville ?
 
 ![Portrait de Guillaume](/img/communaute/Guillaume-Lancrenon.png)
 _Guillaume Lancrenon, développeur, Entrepreneur d'intérêt général pour le défi Prévisecours_
@@ -33,7 +33,7 @@ pompiers. Bonne nouvelle, nous disposions déjà de leur
 historique. Mauvaise nouvelle : nous n'avons rien d’autre. La question
 centrale était donc : **quelles données allions-nous associer à celles
 des pompiers ? Autrement dit, quels facteurs pourraient être corrélés
-avec le nombre d’interventions des sapeurs pompiers ?**
+avec le nombre d’interventions des sapeurs pompiers ?**
 
 Pour répondre à cette question, nous avions nos intuitions : la pluie,
 la pollution… Mais cela ne touchait que la partie émergée de
@@ -52,7 +52,7 @@ sources, ces personnes qui produisent la donnée recherchée (merci !
 données. Finalement, après des mois de travail, nous avons constitué
 **une base de données d’environ 200 facteurs : notre gros glaçon**.
 
-**L’iceberg est dorénavant composé de données très variées :**
+**L’iceberg est dorénavant composé de données très variées :**
 
 - données calendaires (jours féries, fêtes religieuses, vacances,
   soldes, phases de la lune...) ;
@@ -75,8 +75,8 @@ Nous avons ensuite confronté ces facteurs aux interventions des
 pompiers.  Ceux qui sont les plus corrélés avec nos interventions sont
 présentés ici :
 
-![Liste des facteurs corrélés avec les incendies urbains, dans l'ordre décroissant : le nombre d'opérations des sapeurs-pompiers lors des dernières semaines et années, le nombre de naissances à l'année, le nombre d'infractions mensuelles, la population, le nombre de décès à l'année, la proportion des ménages à bas revenus, le taux de foyers allocataires dont les ressources sont constituées à 50% ou plus des prestations CAF, les gares ferroviaires avec plus de trafic que la médiane du département. Liste des facteurs anti-corrélés avec les incendies urbains, dans l'ordre croissant : la proportion de ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise, la proportion de familles sans enfant, la proportion de la population dans la tranche d'âge 55-79 ans, l'indicateur idh2](/img/blog/facteurs-incendies.png)
-_À noter : l'[IDH2 (indicateur de développement humain 2)](https://www.insee.fr/fr/statistiques/fichier/2114265/lm_ind_02_C-7.pdf) est un indicateur élaboré par l'INSEE, qui réunit les trois dimensions de l'IDH original (santé, éducation, revenu) et des données spécifiques à la situation française._
+![Liste des facteurs corrélés avec les incendies urbains, dans l'ordre décroissant : le nombre d'opérations des sapeurs-pompiers lors des dernières semaines et années, le nombre de naissances à l'année, le nombre d'infractions mensuelles, la population, le nombre de décès à l'année, la proportion des ménages à bas revenus, le taux de foyers allocataires dont les ressources sont constituées à 50% ou plus des prestations CAF, les gares ferroviaires avec plus de trafic que la médiane du département. Liste des facteurs anti-corrélés avec les incendies urbains, dans l'ordre croissant : la proportion de ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise, la proportion de familles sans enfant, la proportion de la population dans la tranche d'âge 55-79 ans, l'indicateur idh2](/img/blog/facteurs-incendies.png)
+_À noter : l'[IDH2 (indicateur de développement humain 2)](https://www.insee.fr/fr/statistiques/fichier/2114265/lm_ind_02_C-7.pdf) est un indicateur élaboré par l'INSEE, qui réunit les trois dimensions de l'IDH original (santé, éducation, revenu) et des données spécifiques à la situation française._
 
 La première ligne représente le nombre d’interventions réalisées par
 les pompiers lors des dernières semaines et années. C’est le facteur
