@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Comment prédire les incendies en ville ? 
+title: Comment prédire les incendies en ville ?
 author: Guillaume Lancrenon, EIG Prévisecours
 twitter: etalab
-description: Guillaume est développeur au Ministère de l'Intérieur pour le défi Prévisecours. Il nous explique comment son équipe a travaillé pour déterminer les facteurs les plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.   
+description: Guillaume est développeur au Ministère de l'Intérieur pour le défi Prévisecours. Il nous explique comment son équipe a travaillé pour déterminer les facteurs les plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.
 ---
 
 ## Incendies en ville : quelles causes probables ?
