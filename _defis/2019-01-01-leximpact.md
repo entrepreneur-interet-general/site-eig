@@ -78,7 +78,7 @@ Plusieurs axes :
   d'assiettes et de taux) et d'impacts sur le revenu disponible, les
   transferts de charges, le budget de l'État et des collectivités ;
 * Recueillir des données représentatives pour alimenter l'outil :
-  situations de personnes, données budgétaires et financières, ... ;
+  situations de personnes, données budgétaires et financières, etc. ;
 * Systématiser les tests utilisateurs avec les parlementaires,
   services administratifs et membres de la société civile ;
 * Réaliser des modules pédagogiques à destination de différents types
@@ -108,7 +108,7 @@ traiter seront affinés par des entretiens utilisateurs.
 
 ## Les EIG recherché.e.s
 
-### EIG 1 - Un·e designeur.se / Lean UX avec un goût prononcé pour le code
+### EIG 1 - Un·e designeur·se / Lean UX avec un goût prononcé pour le code
 
 **Missions principales** : prototyper l’outil, mener des tests
 utilisateurs, améliorer constamment l'expérience utilisateur, assurer
