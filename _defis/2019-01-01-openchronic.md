@@ -91,8 +91,8 @@ _"En data science la majorité des projets dans le privé sont du marketing ou d
 
 ![Stéphanie Combes](/img/communaute/photostephaniecombes.png)
 
-_« Je travaille la donnée depuis 7 ans, données structurées, données
+_« Je travaille la donnée depuis 7 ans, données structurées, données
 géolocalisées, données textuelles. Python, R, Rshiny sont mes amis.
 Data-scientist à l'Insee ces dernières années, je suis arrivée à la
 DREES avec l'envie d'exploiter le potentiel de ces données de santé
-avec un nouveau regard. »_ 
+avec un nouveau regard. »_ 

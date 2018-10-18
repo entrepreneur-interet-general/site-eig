@@ -30,11 +30,11 @@ Voir le [défi Open Justice](https://speakerdeck.com/eig2018/pitch-open-justice-
 
 La diffusion en _open data_ de l’ensemble des décisions de justice est une obligation de la [Loi pour une République numérique](https://www.economie.gouv.fr/republique-numerique). De surcroît, elle constitue un enjeu essentiel d'accès à la jurisprudence -pour les acteurs du droit et de la justice comme pour les citoyens- et de réutilisations de celle-ci -notamment pour les entrepreneurs de la _legal tech_.
 
-**Chaque année sont rendues près de 3,9 millions de décisions de justice qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 sont diffusées en _open data_ et sur le site Légifrance. La cause : chaque décision doit être relue pour s'assurer que toutes les mentions identifiantes ont été anonymisées.
+**Chaque année sont rendues près de 3,9 millions de décisions de justice qui pourraient, à terme, être mises à disposition du public**. A ce jour, 180 000 décisions par an sont collectées dans les bases de données « Jurinet » et « Jurica » tenues par la Cour de cassation. Cependant, sur ces 180 000 décisions, moins de 15 000 sont diffusées en _open data_ et sur le site Légifrance. La cause : chaque décision doit être relue pour s'assurer que toutes les mentions identifiantes ont été anonymisées.
 
 ### Le défi : développer des solutions fiables de pseudonymisation et d’enrichissement des données 
 
-L'obstacle majeur à une diffusion plus massive des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et à éliminer les risques de réidentification des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance…) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
+L'obstacle majeur à une diffusion plus massive des décisions de justice réside dans la complexité des opérations visant à protéger les données personnelles et à éliminer les risques de réidentification des personnes citées dans ces décisions. **L'objectif est donc double : « pseudonymiser » efficacement les décisions de justice** en occultant les éléments identifiants qu’elles contiennent (noms, adresses, dates de naissance…) et **faciliter la réutilisation des données** grâce à l'enrichissement des données et à leur mise à disposition en _open data_.
 
 Pour y parvenir, le défi s'articulera autour de plusieurs axes : 
 
@@ -97,11 +97,11 @@ décisions en stock). Il suit les projets liés à l’open data des
 décisions de justice, en lien avec les acteurs institutionnels,
 associatifs et économiques concernés. 
 
-_« La Cour de cassation dispose des deux bases de données nationales de jurisprudence existantes et d’une expertise reconnue en matière de pseudonymisation et de diffusion des décisions de justice. Le dispositif EIG permet de réunir l’ensemble des compétences nécessaires pour offrir un regard neuf sur ces données et mettre en œuvre des techniques de traitement innovantes._
+_« La Cour de cassation dispose des deux bases de données nationales de jurisprudence existantes et d’une expertise reconnue en matière de pseudonymisation et de diffusion des décisions de justice. Le dispositif EIG permet de réunir l’ensemble des compétences nécessaires pour offrir un regard neuf sur ces données et mettre en œuvre des techniques de traitement innovantes._
 
 _Pleinement intégrés à l’environnement de la Cour de cassation, qu’ils pourront découvrir lors d’une semaine d’immersion organisée pour leur arrivée, les EIG seront les piliers de ce projet essentiel pour la Haute juridiction._
 
-_Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. »_
+_Des synergies pourront s’opérer avec les EIG qui seront recrutés pour le défi « Préjudices corporels » de la même promotion. »_
 
 ### Éloi Bluat-Ménard, mentor de haut niveau
 

@@ -39,7 +39,7 @@ Si la proposition paraît simple –une plateforme web- sa mise en œuvre
 repose sur un travail conséquent en amont. Deux autres outils plus
 spécialisés sont développés en parallèle : l’un permettant de récupérer
 des données sur tous les sites partenaires du projet Social Connect
-(« scrapping » de données), l’autre permettant d’homogénéiser les
+(« scrapping » de données), l’autre permettant d’homogénéiser les
 indexations des innovations sociales. Le design ces trois outils
 -grand public ou spécialisés- est pensé afin de rendre l’expérience
 des utilisateurs la plus fluide et simple possible.

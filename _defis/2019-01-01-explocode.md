@@ -74,7 +74,7 @@ Pour développer ExploCode, trois axes de travail ont été identifiés :
 
 ![Julien Bouquillon](/img/communaute/julien-bouquillon.png)
 
-Julien Bouquillon est responsable technique de l'incubateur des ministères sociaux depuis 2017. Il encourage l'adoption des APIs, promeut l'open-source et l'open-data, et accompagne le parcours des « startups d'état » du ministère.
+Julien Bouquillon est responsable technique de l'incubateur des ministères sociaux depuis 2017. Il encourage l'adoption des APIs, promeut l'open-source et l'open-data, et accompagne le parcours des « startups d'état » du ministère.
 
 Passionné par les nouveaux enjeux liés au numérique et les défis qu'ils posent à l'administration, il s'investit particulièrement au sein de la startup "code du travail numérique", un défi qui pourra servir quotidiennement l'intérêt général en permettant aux salariés et employeurs de mieux connaître et mieux faire respecter leurs droits.
 

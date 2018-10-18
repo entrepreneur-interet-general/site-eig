@@ -25,7 +25,7 @@ La mission des gendarmes est complexe : assurer la sécurité dans les
 zones rurales et périurbaines où ils sont parfois loin des citoyens
 qu’ils servent. Or l’usage croissant de de nouveaux modes de communication
 (réseaux sociaux et agents conversationnels) rend possible une nouvelle
-forme de « proximité numérique » avec les citoyens, complémentaire de
+forme de « proximité numérique » avec les citoyens, complémentaire de
 l’accueil physique en gendarmerie.
 
 **La gendarmerie se rapproche donc des Français et lance sa Brigade
