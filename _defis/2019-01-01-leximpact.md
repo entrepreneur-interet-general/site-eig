@@ -8,7 +8,7 @@ administration: Direction interministérielle et du système d’information et 
 administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement
 eigs:
-  - nom: Un·e designeur.se lean UX avec un goût prononcé pour le code
+  - nom: Un·e designeur·se lean UX avec un goût prononcé pour le code
   - nom: Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
 mentors: 
   - nom: Mauko Quiroga
@@ -32,7 +32,7 @@ en quelques slides.
 
 <br/>
 
-## LexImpact : Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous
+## LexImpact : Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous
 
 ### La problématique
 
@@ -55,7 +55,7 @@ analyses d’impact apparaît comme un enjeu primordial de notre
 démocratie, tant pour améliorer le processus législatif que pour des
 questions de transparence et d’engagement de la société civile.
 
-### Le défi : développer un outil accessible aux parlementaires, agents publics et à la société civile permettant d'évaluer l'impact de réformes socio-fiscales
+### Le défi : développer un outil accessible aux parlementaires, agents publics et à la société civile permettant d'évaluer l'impact de réformes socio-fiscales
 
 [OpenFisca](http://openfisca.org) est un logiciel open source qui
 comprend des règles de la législation socio-fiscale et permet de
@@ -70,20 +70,20 @@ informatique.
 
 **LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.  
 
-Plusieurs axes :
+Plusieurs axes :
 
 * Construire une application open source permettant de réaliser de
   façon simple et rapide des simulations de réformes socio-fiscales,
-  en particulier : les analyses de réformes paramétriques (changements
+  en particulier : les analyses de réformes paramétriques (changements
   d'assiettes et de taux) et d'impacts sur le revenu disponible, les
-  transferts de charges, le budget de l'État et des collectivités ;
-* Recueillir des données représentatives pour alimenter l'outil :
-  situations de personnes, données budgétaires et financières, ... ;
+  transferts de charges, le budget de l'État et des collectivités ;
+* Recueillir des données représentatives pour alimenter l'outil :
+  situations de personnes, données budgétaires et financières, ... ;
 * Systématiser les tests utilisateurs avec les parlementaires,
-  services administratifs et membres de la société civile ;
+  services administratifs et membres de la société civile ;
 * Réaliser des modules pédagogiques à destination de différents types
   d'utilisateurs et développer l'usage de l'outil au sein
-  d'administrations partenaires ;
+  d'administrations partenaires ;
 * Imaginer une généralisation de l'outil à l'ensemble des réformes
   législatives.
 
@@ -110,23 +110,23 @@ traiter seront affinés par des entretiens utilisateurs.
 
 ### EIG 1 - Un·e designeur.se / Lean UX avec un goût prononcé pour le code
 
-**Missions principales** : prototyper l’outil, mener des tests
+**Missions principales** : prototyper l’outil, mener des tests
 utilisateurs, améliorer constamment l'expérience utilisateur, assurer
 la médiation avec la société civile et les partenaires du défi
 (Assemblée nationale, Cour des comptes, Sénat et d'éventuels nouveaux
 partenaires).
 
-**Compétences nécessaires** : design UX, gestion de projet,
+**Compétences nécessaires** : design UX, gestion de projet,
 communication. Une connaissance de la fiscalité sera un plus.
 
 ### EIG 2 - Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
 
-**Missions principales** : développer l'outil (interface utilisateur,
+**Missions principales** : développer l'outil (interface utilisateur,
 backend...), déployer l'outil, compiler/éditorialiser/mettre à
 disposition des cas types, faire évoluer l'API Réforme d'OpenFisca
 Core.
 
-**Compétences nécessaires** : Python, JavaScript. Une connaissance de la fiscalité sera un plus.
+**Compétences nécessaires** : Python, JavaScript. Une connaissance de la fiscalité sera un plus.
 
 <br/>
 
