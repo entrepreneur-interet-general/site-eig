@@ -97,10 +97,10 @@ ou non.
 
 ### Vous voulez en savoir plus ou participer à ce projet ?
 
-Consultez notre site web : https://previsecours.fr.  Et puisque nous
-sommes toujours en train de travailler sur ce projet, si vous avez des
-idées de données à intégrer, nous serions ravis que vous nous en
-fassiez part à l'adresse suivante :
+Consultez notre site web : [Prévisecours](https://previsecours.fr).
+Et puisque nous sommes toujours en train de travailler sur ce projet,
+si vous avez des idées de données à intégrer, nous serions ravis que
+vous nous en fassiez part à l'adresse suivante :
 [guillaume.lancrenon@interieur.gouv.fr](mailto:guillaume.lancrenon@interieur.gouv.fr)
 
 Nous espérons vous lire !
