@@ -39,14 +39,16 @@ Nous collectons des données anonymes d'audience du site, dans le respect des co
 **Vos données à caractère personnel**
 
 Nous traitons des données à caractère personnel vous concernant, 
-dans un seul cas :  vous candidatez pour devenir entrepreneur d'intérêt général.
-<!-- - si vous rejoignez notre liste de diffusion ; -->
+dans deux cas :
+- si vous rejoignez notre liste de diffusion ;
+- si vous candidatez pour devenir entrepreneur d'intérêt général.
 
-<!-- #### a) Liste de diffusion -->
 
-<!-- Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/SJvAOQcmm).  -->
+#### a) Liste de diffusion
 
-<!-- A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab. -->
+Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/SJvAOQcmm). 
+
+A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 
 #### b) Appel à candidature - Promotion 3
 
