@@ -59,15 +59,14 @@ Un deuxième projet de ce défi est né d'échanges quotidiens avec les
 divers acteurs de la gendarmerie : celui de publier sur internet les
 horaires d'ouverture des unités accueillant du public.
 
-FIXME: correction du lien data.gouv.fr
-
 Depuis juillet 2018, ces horaires peuvent déjà être consultés par les
 représentants des forces de l'ordre sur l'intranet de la gendarmerie
 et sont accessibles à tous les usagers depuis septembre sur
-https://data.gouv.fr. Ces données ont été déjà reprises par des
-acteurs privés comme [FIXME: noms] pages jaunes, qwant, yahoo, bing
-etc., et d'ici à la fin de l'année ils seront publiés aussi sur
-l'annuaire https://service-public.fr.
+[data.gouv.fr](https://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/). Ces
+données ont été déjà reprises par des acteurs privés comme [FIXME:
+noms] PagesJaunes, Qwant, Yahoo, Bing, etc., et d'ici à la fin de
+l'année ils seront publiés aussi sur l'annuaire
+https://service-public.fr.
 
 Au quotidien, Jean-Baptiste et moi sommes en contacts régulier avec
 les partenaires de la gendarmerie, des représentants du ministère de
