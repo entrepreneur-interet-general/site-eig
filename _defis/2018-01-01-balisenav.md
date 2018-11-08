@@ -5,8 +5,8 @@ site: /defis/2018/balisenav.html
 annees: 2018
 description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 administration: SHOM
-administration-website: http://www.shom.fr/
-type: Datascience
+administration-website: http://www.shom.fr
+type: Développement
 eigs:
   - nom: Arnaud Ménard
     site: /communaute/2018/arnaud-menard.html
