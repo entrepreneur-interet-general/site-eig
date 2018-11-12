@@ -192,11 +192,14 @@ test de l'application, augmentant les potentiels réutilisations.
 Parmi les outils génériques, citons
 [metadocs](https://github.com/entrepreneur-interet-general/metadocs),
 qui sert à intégrer plusieurs projets de documentation
-[Sphinx](http://www.sphinx-doc.org) et [Open API Schemas to
+[Sphinx](http://www.sphinx-doc.org), [Open API Schemas to
 Markdown](https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown),
 qui permet de générer de la documentation Markdown à partir de schémas
 suivant les spécifications [Open
-API](https://github.com/OAI/OpenAPI-Specification).
+API](https://github.com/OAI/OpenAPI-Specification) et
+[spacy-lefff](https://github.com/sammous/spacy-lefff), un paquetage
+pour la lemmatisation et la détection de la nature d'un mot en
+français.
 
 <a href="https://github.com/entrepreneur-interet-general/metadocs"><img src="https://camo.githubusercontent.com/8db03293ee7081124ad99c9ebc38ee88ccb12b93/687474703a2f2f672e7265636f726469742e636f2f65674638627a783771632e676966" /></a>
 <p><em>Gif animé présentant l'outil metadocs</em></p>
