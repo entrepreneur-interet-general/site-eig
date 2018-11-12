@@ -6,7 +6,7 @@ twitter: bzg2
 description: "Au printemps dernier, les EIG et les mentors se sont retrouvés pour une session d'accompagnement au cours de laquelle deux ateliers ont été organisés autour d'une question simple : comment apprenons-nous ? quelles stratégies pour progresser dans la résolution des problèmes ?"
 ---
 
-## 4 démarches sur la façon d'apprendre et de progresser
+## Quatre types de façon d'apprendre et résoudre des problèmes
 
 Au printemps dernier, les EIG et les mentors se sont retrouvés pour
 une session d'accompagnement au cours de laquelle deux ateliers ont
@@ -20,8 +20,8 @@ d'apprendre : un nouveau langage, un outil, de nouvelles façons
 d'aborder un problème.  Dans le contexte du programme EIG, il y a de
 surcroît une autre dimension importante : celle de la familiarisation
 avec les métiers des services administratifs dans lesquels les EIG
-sont immergés.  Tout cela nous a incité à partager nos expériences,
-le tout de façon très directe et personnelle.
+sont immergés.  Tout cela nous a incité à partager nos expériences, le
+tout de façon très directe et personnelle.
 
 <br/>
 <a title="© XKCD - CC-by-sa-nc 2.5" href="https://xkcd.com/1205/"><img src="https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png"/></a>
@@ -30,9 +30,9 @@ le tout de façon très directe et personnelle.
 Les retours des uns et des autres se sont faits à bâton rompu, dans
 une conversation collective.  Mais plutôt qu'une liste à la Prévert de
 conseils et de principes, nous présentons ici une synthèse proposant
-quatre démarches.
+quatre types d'attitudes.
 
-## Les démarches : analytique, pratique, empathique, pédagogique
+## Analytique, pratique, empathique, pédagogique
 
 - **Think small!** ou la démarche *analytique* : il s'agit ici de
   réduire les éléments à apprendre à leur taille adéquate, en avançant
@@ -50,7 +50,7 @@ quatre démarches.
 - **Think different!** ou la démarche *empathique* : comment renforcer
   ses connaissances en apprenant à les remettre en cause, comment
   résoudre un problème en se plaçant du point de vue d'une autre
-  personne.  Les ressources à invoquer ici iraient de la démarche
+  personne.  Les ressources à invoquer ici iraient de la méthode
   [Lean](https://fr.wikipedia.org/wiki/Lean_(production)) à la
   [vidéo](https://www.youtube.com/watch?v=PsgBtOVzHKI) où Richard
   Feynman nous encourage à voir les choses autrement.
@@ -169,4 +169,5 @@ Peter Norvig](http://www.norvig.com/21-days.html), souvent cité en
 réaction aux slogans faciles du genre « Apprenez le langage X en 10
 jours ! ».  C'est à ça que nous croyons : le temps long.
 
- 
+*Merci à Élise Lalique et Julien Paris, EIG du défi [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html),
+pour leur relecture attentive et leurs suggestions.*
