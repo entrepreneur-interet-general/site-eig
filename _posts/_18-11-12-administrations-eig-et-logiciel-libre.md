@@ -39,7 +39,7 @@ Commons par Lawrence Lessig et de l'encyclopédie libre Wikipédia, par
 Jimmy Wales et Larry Sanger.  Les deux décennies suivantes verront se
 décliner « l'open » dans d'autres domaines, notamment l'open access
 (pour la publication en accès libre des articles de recherche) et
-l'open data (pour l'ouverture des données publiques).
+SWl'open data (pour l'ouverture des données publiques).
 
 Aujourd'hui, le libre est représenté par des étendards bien connus du
 grand public tels que le système GNU/Linux, le navigateur web Firefox,
@@ -56,9 +56,9 @@ numérique du 7 octobre 2016 dit clairement que les logiciels payés par
 un organisme public doivent être considérés comme des documents
 administratifs relevant du régime de l'open data et à ce titre, tout
 citoyen peut demander que lui soit communiqué le /code source/ d'un
-logiciel développé par l'administration.
+logiciel commandé par l'administration.
 
-Un bon exemple de projet libre mené par une administration est la
+Un exemple récent de projet libre mené par une administration est la
 distribution [Clip OS sortie
 récemment](https://www.nextinpact.com/news/107048-clip-os-anssi-ouvre-son-systeme-securise-a-tous-contributeurs.htm)
 par l'Agence nationale de la sécurité des systèmes d'informations.
@@ -69,15 +69,26 @@ src="https://cdn2.nextinpact.com/images/bd/news/171736.jpeg"/></a>
 <p><em>Aperçu de la distribution Clip OS, orientée sécurité et
 publiée sous licence libre par l'ANSSI - © Nextimpact</em></p>
 
-Mais ce n'est qu'un début : beaucoup d'administrations ne connaissent
-pas bien le libre ou l'open source, beaucoup de projets sont encore
-développés sans bien connaître les enjeux, les contraintes et les
-retombées potentielles de la démarche d'ouverture du code source.
+Ces efforts d'ouverture ne font que commencer : beaucoup
+d'administrations ne connaissent pas bien le libre ou l'open source,
+beaucoup de projets sont encore développés sans bien connaître les
+enjeux, les contraintes et les retombées potentielles de la démarche
+d'ouverture du code source.
 
 Le programme « Entrepreneur·e d'intérêt général » donne une place
 importante au libre.  Suivez-moi, nous allons voir ça dans le détail.
 
 ## Faire de l'open source, ça s'apprend !
+
+L'administration produit du logiciel libre soit en le commandant à un
+prestataire, soit en le développant elle-même.  Peu d'administrations
+sont à même de mobiliser des ressources pour développer des produits
+en interne.  L'intérêt du programme EIG est de mettre des compétences
+techniques au coeur des services et nous avons constaté les bienfaits
+de cette approche : les agents s'impliquent dans l'expression des
+besoins et dans l'amélioration des produits au quotidien, les EIG ont
+la satisfaction de tester tôt leurs produits, agents et EIG forment
+des équipes complémentaires en dialogue constant.
 
 Nous sommes partis de l'idée que les EIG, qu'ils soient designer,
 développeurs ou datascientistes, ont entendu parler de l'open source
