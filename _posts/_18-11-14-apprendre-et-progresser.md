@@ -20,12 +20,8 @@ d'apprendre : un nouveau langage, un outil, de nouvelles façons
 d'aborder un problème.  Dans le contexte du programme EIG, il y a de
 surcroît une autre dimension importante : celle de la familiarisation
 avec les métiers des services administratifs dans lesquels les EIG
-sont immergés.  Tout cela nous a incité à partager nos expériences, le
-tout de façon très directe et personnelle.
-
-<br/>
-<a title="© XKCD - CC-by-sa-nc 2.5" href="https://xkcd.com/1205/"><img src="https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png"/></a>
-<p><em>Combien de temps travailler pour automatiser une tâche routinière ? - © XKCD - CC-by-sa-nc 2.5</em></p>
+sont immergés.  Tout cela nous a incité à partager nos expériences,
+le tout de façon très directe et personnelle.
 
 Les retours des uns et des autres se sont faits à bâton rompu, dans
 une conversation collective.  Mais plutôt qu'une liste à la Prévert de
@@ -33,6 +29,9 @@ conseils et de principes, nous présentons ici une synthèse proposant
 quatre types d'attitudes.
 
 ## Analytique, pratique, empathique, pédagogique
+
+<img src="/img/apprendre_progresser.png"/>
+<p><em>Devoirs à la maison : remplir les intersections ! © Bastien Guerry - CC-by-sa 4.0</em></p>
 
 - **Think small!** ou la démarche *analytique* : il s'agit ici de
   réduire les éléments à apprendre à leur taille adéquate, en avançant
@@ -64,9 +63,6 @@ quatre types d'attitudes.
   facilité](https://www.youtube.com/watch?v=34_L7t7fD_U), et sur [le
   besoin permanent de
   recul](https://www.youtube.com/watch?v=f84n5oFoZBc).
-
-<img src="/img/apprendre_progresser.png"/>
-<p><em>Devoirs à la maison : remplir les intersections ! © Bastien Guerry - CC-by-sa 4.0</em></p>
 
 ## En vrac et en détail
 
@@ -146,28 +142,37 @@ lister l'ensemble des retours collectés lors de ces ateliers.
   Learn](https://fr.coursera.org/learn/learning-how-to-learn) » a été
   cité plusieurs fois.
 
-## « Apprenez à programmer en 10 ans ! »
+## Apprendre à gérer la complexité dans le temps
 
-<a href="https://pxhere.com/en/photo/911144"><img
-src="https://c.pxhere.com/photos/72/9c/close_up_code_coding_computer_computing_conceptual_data_design-911144.jpg!d"/></a>
+Pourquoi nous posons-nous toutes ces questions sur les meilleures
+façons d'apprendre et de résoudre des problèmes ?
+
+Parce que les représentations simplistes des projets informatiques
+donnent une fausse image de la complexité.  Le code peut-être obscur
+pour un non-initié (comme le serait une langue étrangère), mais la
+complexité réelle vient plutôt des dimensions multiples des projets :
+pertinence par rapport aux besoins des usagers, adéquation avec les
+contraintes du système d'information d'accueil, choix d'un paradigme
+de programmation bien adapté, utilisation de technologies éprouvées,
+évolution et maintenance des produits dans le temps, etc.
+
+<a href="https://pxhere.com/en/photo/911144"><img src="https://c.pxhere.com/photos/72/9c/close_up_code_coding_computer_computing_conceptual_data_design-911144.jpg!d"/></a>
 <p><em>Des lignes de code.  Who cares ?</em></p>
 
-Vous avez vu l'image ci-dessus bien souvent fois mais elle donne une
-idée fausse de ce qui nous paraît réellement difficile dans nos
-métiers techniques : ce n'est pas d'aligner des lignes de code, c'est
-de comprendre tous les aspects d'un projet et de ne jamais cesser
-d'apprendre !  Le développement de projet informatique est une tâche
-complexe, aux multiples dimensions, où l'expérience compte au moins
-autant que les connaissances techniques.  Il n'y pas de recette toute
-prête, pas de *silver bullet*.  Sur ce sujet, la deuxième promotion du
-programme EIG nous a permis de renforcer deux convictions : rien de
-plus efficace qu'**un cadre qui invite à apprendre et progresser** et
-rien de plus plaisant que d'**apprendre à plusieurs** !
+Comme les EIG sont force de propositions, ils doivent avoir un oeil
+sur cette complexité : rester en mode « ouvert et apprenant » est une
+bonne façon de le faire.
 
-« Apprenez à programmer en 10 ans ! », c'est le titre d'[un article de
-Peter Norvig](http://www.norvig.com/21-days.html), souvent cité en
-réaction aux slogans faciles du genre « Apprenez le langage X en 10
-jours ! ».  C'est à ça que nous croyons : le temps long.
+Mais tout cela ne se fait pas en un claquement de doigt, et rien ne
+s'apprend en trois jours.  Peter Norvig a écrit [un article bien
+connu](http://www.norvig.com/21-days.html) intitulé : « Apprenez à
+programmer en 10 ans ! », rappelant que tout apprentissage de qualité
+se fait sur un temps long.  Pas de recette toute prête, pas de *silver
+bullet*.  Sur ce sujet, la deuxième promotion du programme EIG nous a
+permis de renforcer deux convictions : rien de plus efficace qu'**un
+cadre pour stabiliser ce temps long de l'apprentissage** et rien de
+plus plaisant que d'**apprendre à plusieurs** pour créer une culture
+commune !
 
 *Merci à Élise Lalique et Julien Paris, EIG du défi [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html),
 pour leur relecture attentive et leurs suggestions.*
