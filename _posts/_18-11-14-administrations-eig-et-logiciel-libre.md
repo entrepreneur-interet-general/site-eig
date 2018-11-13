@@ -312,8 +312,8 @@ elles sont en position d'investir dans le développement de ressources
 mutualisées stables.  Le changement de culture à opérer est double :
 passer de simple consommateur de logiciels libres à contributeur, et
 de contributeur à mainteneur d'une ressource numérique avec une
-gouvernance qui lui est propre, et qui est partagée par une communauté
-dépassant les frontières de l'administration contributrice (le projet
+gouvernance qui lui est propre, partagée par une communauté s'étendant
+au-delà des frontières de l'administration contributrice (le projet
 [OpenFisca](http://openfisca.org/) en est un bon exemple).  Ces
 changements ont un coût et ils ne se feront pas spontanément.  Le
 programme EIG montre une façon de les envisager : en mettant l'énergie
