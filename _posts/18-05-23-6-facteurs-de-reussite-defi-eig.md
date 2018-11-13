@@ -69,3 +69,6 @@ Enfin, le défi doit **laisser aux EIG comme aux mentors la possibilité d’app
 _Administrations, votre défi remplit tous ces critères ? N’hésitez pas à répondre à [**l'appel à projets !**](/candidature-defi.html)_
 
 Pour toute question : entrepreneur-interet-general@data.gouv.fr 
+
+*Mise à jour du 13 novembre 2018* : l'équipe EIG a publié un
+« mini-guide pour la réussite d'un défi EIG » [téléchargeable en PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-reussite-eig.pdf).
