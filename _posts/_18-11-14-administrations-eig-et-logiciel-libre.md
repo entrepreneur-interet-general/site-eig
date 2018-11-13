@@ -19,15 +19,15 @@ améliorées.
 Ces « quatre libertés » du logiciel libre sont les piliers du
 mouvement du même nom, lancé dans les années 80 par Richard Stallman,
 alors informaticien au MIT, qui mobilisa la communauté des hackers
-pour l'écriture d'un système d'exploitation libre nommé GNU (« GNU is
-Not Unix »).  Le mouvement a pris de l'ampleur avec l'arrivée du noyau
+pour l'écriture d'un système d'exploitation libre nommé GNU (« GNU is
+Not Unix »).  Le mouvement a pris de l'ampleur avec l'arrivée du noyau
 Linux au début des années 90, noyau qui permit de faire fonctionner le
 système libre GNU sur des machines ordinaires.
 
 <br/>
 <a title="Kazoza404 [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GNU%2BLinux.png"><img alt="GNU+Linux" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png"></a>
-<p><em>Vous connaissiez le pingouin, mascotte du noyau Linux, mais
-connaissiez-vous le gnou, symbole du projet GNU is Not Unix ?</em></p>
+<center><p><em>Vous connaissiez le pingouin, mascotte du noyau Linux, mais
+    connaissiez-vous le gnou, symbole du projet GNU is Not Unix ?</em></p></center>
 
 Dans les années 2000, ce mouvement s'étend doublement : d'une part
 avec l'émergence de « l'open source », qui cherche à insister sur la
@@ -37,9 +37,9 @@ propagation des idées du libre dans d'autres domaines que le seul
 domaine de l'informatique : c'est le lancement des licences Creative
 Commons par Lawrence Lessig et de l'encyclopédie libre Wikipédia, par
 Jimmy Wales et Larry Sanger.  Les deux décennies suivantes verront se
-décliner « l'open » dans d'autres domaines, notamment l'open access
+décliner « l'open » dans d'autres domaines, notamment l'*open access*
 (pour la publication en accès libre des articles de recherche) et
-SWl'open data (pour l'ouverture des données publiques).
+l'*open data* (pour l'ouverture des données publiques).
 
 Aujourd'hui, le libre est représenté par des étendards bien connus du
 grand public tels que le système GNU/Linux, le navigateur web Firefox,
@@ -52,22 +52,23 @@ circulaire Ayrault de
 2012](http://www.cnll.fr/news/le-cnll-se-rejouit-de-la-circulaire-ayrault-sur-les-logiciels-libres/),
 efforts plus ou moins concluants.  L'administration est aussi
 *productrice* de logiciels libres.  La loi pour une République
-numérique du 7 octobre 2016 dit clairement que les logiciels payés par
-un organisme public doivent être considérés comme des documents
+numérique du 7 octobre 2016 dit clairement que les codes sources des
+logiciels utilisés par un organisme public sont des documents
 administratifs relevant du régime de l'open data et à ce titre, tout
 citoyen peut demander que lui soit communiqué le /code source/ d'un
 logiciel commandé par l'administration.
 
 Un exemple récent de projet libre mené par une administration est la
-distribution [Clip OS sortie
-récemment](https://www.nextinpact.com/news/107048-clip-os-anssi-ouvre-son-systeme-securise-a-tous-contributeurs.htm)
-par l'Agence nationale de la sécurité des systèmes d'informations.
+distribution [Clip
+OS](https://www.ssi.gouv.fr/administration/services-securises/clip/)
+publiée récemment par l'Agence nationale de la sécurité des systèmes
+d'informations.
 
 <a title="© Nextimpact"
 href="https://www.nextinpact.com/news/107048-clip-os-anssi-ouvre-son-systeme-securise-a-tous-contributeurs.htm"><img
 src="https://cdn2.nextinpact.com/images/bd/news/171736.jpeg"/></a>
-<p><em>Aperçu de la distribution Clip OS, orientée sécurité et
-publiée sous licence libre par l'ANSSI - © Nextimpact</em></p>
+<center><p><em>Aperçu de la distribution Clip OS, orientée sécurité et
+publiée sous licence libre par l'ANSSI - © NextINpact</em></p></center>
 
 Ces efforts d'ouverture ne font que commencer : beaucoup
 d'administrations ne connaissent pas bien le libre ou l'open source,
@@ -83,20 +84,20 @@ importante au libre.  Suivez-moi, nous allons voir ça dans le détail.
 L'administration produit du logiciel libre soit en le commandant à un
 prestataire, soit en le développant elle-même.  Peu d'administrations
 sont à même de mobiliser des ressources pour développer des produits
-en interne.  L'intérêt du programme EIG est de mettre des compétences
-techniques au coeur des services et nous avons constaté les bienfaits
+en interne.  **L'intérêt du programme EIG est de mettre des compétences
+techniques au coeur des services** et nous avons constaté les bienfaits
 de cette approche : les agents s'impliquent dans l'expression des
 besoins et dans l'amélioration des produits au quotidien, les EIG ont
 la satisfaction de tester tôt leurs produits, agents et EIG forment
 des équipes complémentaires en dialogue constant.
 
-Nous sommes partis de l'idée que les EIG, qu'ils soient designer,
-développeurs ou datascientistes, ont entendu parler de l'open source
+Nous sommes partis de l'idée que les EIG, qu'ils soient designers,
+développeurs ou datascientists, ont entendu parler de l'open source
 mais ne savent pas forcément quelles réalités ce terme recouvre : bien
-souvent, « open source » signifie qu'on peut utiliser une bibliothèque
+souvent, « open source » signifie qu'on peut utiliser une bibliothèque
 logicielle gratuitement.
 
-Pour aller plus loin, nous avons fait de la pédagogie.  D'abord en
+Pour aller plus loin, nous avons fait de l'apprentissage collectif. D'abord en
 organisant deux ateliers ouverts aux EIG et aux mentors, l'un en mars
 pendant une session d'accompagnement ([le compte-rendu est lisible
 ici](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html)),
@@ -110,18 +111,19 @@ publiée en mai dernier.
 <a
 href="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/"><img
 src="/img/pocos.png" /></a> 
-<p><em>La politique de contribution de l'état aux logiciels libres,
+<center><p><em>La politique de contribution de l'état aux logiciels libres,
 publiée en mai 2018 et qui donne le cadre dans lequel les organismes
 publics peuvent contribuer à l'écosystème des logiciels
-libres.</em></p>
+libres.</em></p></center>
 
 J'ai aussi rédigé et partagé un [document introductif autour de l'open
 source](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org),
 maintenu une [Foire Aux
 Questions](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org),
-publié [un mini-guide d'une page en PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf) et répondu de temps à autres
-aux questions et aux coups de main sollicités par les uns et les
-autres.
+publié [un mini-guide d'une page en
+PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf)
+et répondu de temps à autres aux questions et aux coups de main
+sollicités par les uns et les autres.
 
 Quels premiers constats après dix moins d'avancées sur le sujet ?
 
@@ -133,12 +135,12 @@ Quels premiers constats après dix moins d'avancées sur le sujet ?
    un peu d'éclaircissements au bon moment, ce n'est *jamais* un point
    bloquant.
 
-3. La démarche paraît naturel pour tous les EIG: aucun ne s'est plaint
-   d'avoir à aller dans ce sens.
+3. La démarche paraît naturelle pour tous les EIG: aucun ne s'est
+   plaint d'avoir à aller dans ce sens.
 
 4. Il y a encore beaucoup à faire pour que les mentors soient à l'aise
-   avec le sujet, beaucoup de notions à expliquer et de nombreux doutes
-   à lever sur le réel intérêt de tout ça.
+   avec le sujet, beaucoup de notions à expliquer et de nombreux
+   doutes à lever sur le réel intérêt de tout ça.
 
 ## Les EIG utilisent majoritairement des logiciels libres
 
@@ -155,10 +157,10 @@ visual studio code, vue.js, webpack.
 Ça fait *beaucoup* !  C'est le reflet d'un état de fait : impossible
 de nos jours de développer un projet logiciel sans recourir à un ou
 plusieurs logiciel libre, que ce soit comme outil de développement ou
-dans la « pile » logicielle du produit.
+dans la « pile » logicielle du produit.
 
 <a title="© Github vient de passer la barre des 100 millions de dépôts" href="https://blog.github.com/2018-11-08-100M-repos/"><img src="https://user-images.githubusercontent.com/7321362/48171817-66b51680-e2b2-11e8-99f2-3467c803a7b1.png"/></a>
-<p><em>Les dépôts les plus populaires sur Github - © Github</em></p>
+<center><p><em>Les dépôts les plus populaires sur Github - © Github</em></p></center>
 
 Du côté des logiciels propriétaires, seulement trois : l'éditeur
 Sublime Text, la suite Adobe et la base de données Vertica.  Quand les
@@ -193,7 +195,7 @@ Parmi les applications :
 <a href="https://github.com/entrepreneur-interet-general/graph-explorer"><img
 src="https://raw.githubusercontent.com/entrepreneur-interet-general/graph-explorer/master/docs/img/home.png"
 /></a>
-<p><em>Un aperçu de l'interface de Graph-Explorer</em></p>
+<center><p><em>Un aperçu de l'interface de Graph-Explorer</em></p></center>
 
 À noter les efforts faits sur ces projets pour *bien communiquer* :
 rédiger un bon `README` est une étape essentiel de la production d'un
@@ -203,10 +205,10 @@ par exemple, guide l'utilisateur pas à pas dans l'installation et le
 test de l'application, augmentant les potentiels réutilisations.
 
 Parmi les outils génériques, citons
-[metadocs](https://github.com/entrepreneur-interet-general/metadocs),
+[metadocs](https://github.com/entrepreneur-interet-general/metadocs)
 qui sert à intégrer plusieurs projets de documentation
 [Sphinx](http://www.sphinx-doc.org), [Open API Schemas to
-Markdown](https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown),
+Markdown](https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown)
 qui permet de générer de la documentation Markdown à partir de schémas
 suivant les spécifications [Open
 API](https://github.com/OAI/OpenAPI-Specification) et
@@ -215,7 +217,7 @@ pour la lemmatisation et la détection de la nature d'un mot en
 français.
 
 <a href="https://github.com/entrepreneur-interet-general/metadocs"><img src="https://camo.githubusercontent.com/8db03293ee7081124ad99c9ebc38ee88ccb12b93/687474703a2f2f672e7265636f726469742e636f2f65674638627a783771632e676966" /></a>
-<p><em>Gif animé présentant l'outil metadocs</em></p>
+<center><p><em>Gif animé présentant l'outil metadocs</em></p></center>
 
 Parmi les bibliothèques, citons
 [H3.Standard](https://github.com/entrepreneur-interet-general/H3.Standard),
@@ -256,13 +258,16 @@ les mains dans la base de données libre
 de la publication des données de
 [data.gouv.fr](https://www.data.gouv.fr/) ; que d'autres enfin ont
 découvert les projets Wikimédia lors d'une [journée de visite des
-ateliers du Mobilier national](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html) et de mise en ligne de contenus sur
-[Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018).  Autant d'occasion de rencontrer et de collaborer
-avec des acteurs important du « libre ».
+ateliers du Mobilier
+national](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html)
+et de mise en ligne de contenus sur [Wikimedia
+commons](https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018).
+Autant d'occasions de rencontrer et de collaborer avec des acteurs
+importants du « libre ».
 
 <a href="https://framablog.org/2018/05/03/storify-est-mort-longue-vie-a/"><img src="https://framablog.org/wp-content/uploads/2018/05/Storia_-_Cr%C3%A9ation_liste-1024x648.png"/></a>
-<p><em>Des EIG designers ont aidé à concevoir un clone pour Storify
-lors de l'atelier mené avec Framasoft.</em></p>
+<center><p><em>Des EIG designers ont aidé à concevoir un clone pour Storify
+    lors de l'atelier mené avec Framasoft.</em></p></center>
 
 Le but était de sortir d'un point de vue strictement utilitaire qu'on
 a parfois en parlant « d'open source » et d'aller à la rencontre de
@@ -273,7 +278,7 @@ culture libre.
 
 Les logiciels libres connus sont des [biens communs
 numériques](https://fr.wikipedia.org/wiki/Biens_communs_num%C3%A9riques).
-Les « biens communs » supposent trois éléments : une *ressource*
+Les « biens communs » supposent trois éléments : une *ressource*
 partagée (en l'occurence le code source), une *communauté* pour
 l'entretenir, et des règles de *gouvernance* que cette communauté se
 donne.
@@ -307,9 +312,15 @@ elles sont en position d'investir dans le développement de ressources
 mutualisées stables.  Le changement de culture à opérer est double :
 passer de simple consommateur de logiciels libres à producteur, et de
 producteur d'un logiciel à mainteneur d'une ressource numérique
-partagée.  Ces changements ont un coût et ils ne se feront pas
-spontanément.  Le programme EIG montre une façon de l'envisager : en
+partagée (le projet [OpenFisca](http://openfisca.org/) en est un bon
+exemple).  Ces changements ont un coût et ils ne se feront pas
+spontanément.  Le programme EIG montre une façon de les envisager : en
 mettant l'énergie de développeurs impliqués au coeur des services de
 l'administration.
+
+Si la question de savoir comment produire et maintenir des logiciels
+libres dans l'administration vous intéresse, rendez-vous à Paris le 6
+décembre au [Paris Open Source Summit](des logici) où la DINSIC
+organise les premières rencontres du libre de l'administration.
 
 À suivre !
