@@ -39,7 +39,7 @@ Commons par Lawrence Lessig et de l'encyclopédie libre Wikipédia, par
 Jimmy Wales et Larry Sanger.  Les deux décennies suivantes verront se
 décliner « l'open » dans d'autres domaines, notamment l'open access
 (pour l'ouverture de la connaissance dans le champ de la recherche) et
-l'open access (pour l'ouverture des données publiques).
+l'open data (pour l'ouverture des données publiques).
 
 Aujourd'hui, le libre est représenté par des étendards bien connus du
 grand public tels que le système GNU/Linux, le navigateur web Firefox,
