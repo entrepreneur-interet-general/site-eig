@@ -9,19 +9,19 @@ description: "Dora Crisan est ingénieure, EIG pour le défi « Brigade numéri
 # La Brigade numérique
 
 En janvier 2018, j'ai rejoint la deuxième promotion du programme
-Entrepreneur·e·s d'intérêt général sur le défi de la gendarmerie,
-« Brigade numérique ». Actuellement la prise de rendez-vous avec un
-gendarme peut s'effectuer que durant les horaires d'ouverture de la
-brigade soit en s'y présentant directement, soit par téléphone. Notre
-défi est de mettre en place un service en ligne ouvert 24/7 de prise
-de rendez-vous dans l'unité choisie par les usagers. Pour les unités
-surchargées, cela fluidifiera l'accueil des usagers, pour les unités
-peu sollicitées, elles pourront optimiser la mobilisation des
-gendarmes à l'accueil. Nous avions dix mois pour faire évoluer cette
-fonction contact.
+Entrepreneur·e d'intérêt général sur le défi de la gendarmerie
+nationale, « Brigade numérique ». Actuellement la prise de rendez-vous
+avec un gendarme peut s'effectuer uniquement durant les horaires
+d'ouverture de la brigade soit en s'y présentant directement, soit par
+téléphone. Notre défi est de mettre en place un service en ligne
+ouvert 24/7 de prise de rendez-vous dans l'unité choisie par les
+usagers. Pour les unités surchargées, cela fluidifiera l'accueil des
+usagers, pour les unités peu sollicitées, elles pourront optimiser la
+mobilisation des gendarmes à l'accueil. Nous avions dix mois pour
+faire évoluer cette fonction contact.
 
 J'ai rejoint le défi avec mon collègue Jean-Baptiste Le Dévéhat en
-janvier.  Lui est designer de services et moi ingénieure informatique.
+janvier 2018.  Lui est designer de services et moi ingénieure informatique.
 Ce qui nous motive au quotidien, c'est l'envie de façonner la
 transformation numérique des services mis à disposition des citoyens
 en utilisant tous les moyens techniques aujourd'hui disponibles.
@@ -31,7 +31,7 @@ _Jean-Baptiste Le Dévéhat et Dora Crisan, EIG pour le défi « Brigade numér
 
 # Une mission complexe avec des contraintes variées
 
-C'est une mission complexe et trépidante : il faut composer en
+Notre mission est complexe et trépidante : il faut composer en
 permanence avec les besoins des gendarmes et des citoyens. Côté
 gendarmerie, il faut que le service aide la planification des missions
 sans ajouter de contrainte ingérable. Il arrive qu'une brigade se
@@ -52,9 +52,9 @@ ce service de prise de rendez-vous sera accessible aux internautes
 depuis la plateforme https://service-public.fr qui réunit déjà un
 nombre important de démarches administratives et que les citoyens
 connaissent bien. Un déploiement initial du service, à titre
-expérimental, est prévu pour de début de l'année prochaine dans un
-département pilote de Loiret, suivi par un déploiement à l'échelle
-nationale attendu pour mi-2019.
+expérimental, est prévu pour de début de l'année 2019 dans un
+département pilote, le Loiret. Le déploiement à l'échelle nationale
+est prévu pour mi-2019.
 
 # Un projet en inspire un autre
 
@@ -68,7 +68,7 @@ et sont accessibles à tous les usagers depuis septembre sur
 [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture/). Ces
 données ont été déjà reprises par des acteurs privés comme [FIXME:
 noms] PagesJaunes, Qwant, Yahoo, Bing, etc., et d'ici à la fin de
-l'année ils seront publiés aussi sur l'annuaire
+l'année ils seront aussi publiés sur l'annuaire
 https://service-public.fr.
 
 Au quotidien, Jean-Baptiste et moi sommes en contacts régulier avec
