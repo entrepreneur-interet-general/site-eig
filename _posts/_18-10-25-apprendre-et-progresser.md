@@ -3,24 +3,25 @@ layout: post
 title: Comment les EIG et les mentors apprennent et progressent ?
 author: Bastien Guerry, EIG Link
 twitter: bzg2
-description: "Au printemps dernier, les EIG et les mentors se sont retrouvés pour une session d'accompagnement au cours de laquelle deux ateliers ont été organisés autour d'une question simple : comment apprenons-nous ? quelles stratégies pour progresser dans la résolution des problèmes ?"
+description: "Au printemps dernier, les EIG et les mentors se sont retrouvés pour une session d'accompagnement au cours de laquelle deux ateliers ont été organisés autour de deux questions simples : comment apprenons-nous ? quelles stratégies pour progresser dans la résolution des problèmes ?"
 ---
 
 ## Quatre types de façon d'apprendre et résoudre des problèmes
 
 Au printemps dernier, les EIG et les mentors se sont retrouvés pour
 une session d'accompagnement au cours de laquelle deux ateliers ont
-été organisés autour d'une question simple : comment apprenons-nous ?
-quelles stratégies pour progresser dans la résolution des problèmes ?
+été organisés autour de deux questions simples : comment
+apprenons-nous ?  quelles stratégies pour progresser dans la
+résolution des problèmes ?
 
 L'informatique, c'est un ensemble de connaissances, théoriques et
 pratiques, et d'outils pour les mettre en oeuvre.  Les *designers*,
-les développeurs et les datascientistes sont constamment en train
+les développeurs et les datascientists sont constamment en train
 d'apprendre : un nouveau langage, un outil, de nouvelles façons
 d'aborder un problème.  Dans le contexte du programme EIG, il y a de
 surcroît une autre dimension importante : celle de la familiarisation
 avec les métiers des services administratifs dans lesquels les EIG
-sont immergés.  Tout cela nous a incité à partager nos expériences,
+sont immergés.  Tout cela nous a incités à partager nos expériences,
 le tout de façon très directe et personnelle.
 
 Les retours des uns et des autres se sont faits à bâton rompu, dans
