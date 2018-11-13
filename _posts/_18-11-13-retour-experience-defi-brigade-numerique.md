@@ -26,8 +26,8 @@ Ce qui nous motive au quotidien, c'est l'envie de façonner la
 transformation numérique des services mis à disposition des citoyens
 en utilisant tous les moyens techniques aujourd'hui disponibles.
 
-![Dora Crisan, EIG pour le défi « Brigade numérique »](/img/blog/doracrisan.jpg)
-_Dora Crisan, EIG pour le défi « Brigade numérique »_
+![Jean-Baptiste Le Dévéhat et Dora Crisan, EIG pour le défi « Brigade numérique »](/img/blog/eig_brigade_numerique.jpg)
+_Jean-Baptiste Le Dévéhat et Dora Crisan, EIG pour le défi « Brigade numérique »_
 
 # Une mission complexe avec des contraintes variées
 
