@@ -167,11 +167,12 @@ Parmi les applications :
   un outil open pour récupérer les données de plusieurs sites en même
   temps et structurer les données obtenues.
 - [Gobelins](https://github.com/entrepreneur-interet-general/gobelins) :
-	une application Web pour le futur site du Mobilier national.
+	un outil de diffusion et recherche pour les collections du
+	Mobilier national.
 - [Stalactite](https://github.com/archifiltre?tab=repositories) : un
   outil de visualisation, de classement et de traitement d'une
   arborescence qui contient tous types de documents (mails, images,
-  documents, présentations, etc.)
+  documents, présentations, etc.).
 - [Graph
   Explorer](https://github.com/entrepreneur-interet-general/graph-explorer) :
   un outil pour visualiser et explorer un large graphe de transactions
