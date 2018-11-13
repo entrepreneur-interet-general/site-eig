@@ -118,9 +118,10 @@ libres.</em></p>
 J'ai aussi rédigé et partagé un [document introductif autour de l'open
 source](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org),
 maintenu une [Foire Aux
-Questions](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org)
-et répondu de temps à autres aux questions et aux coups de main
-sollicités par les uns et les autres.
+Questions](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org),
+publié [un mini-guide d'une page en PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf) et répondu de temps à autres
+aux questions et aux coups de main sollicités par les uns et les
+autres.
 
 Quels premiers constats après dix moins d'avancées sur le sujet ?
 
