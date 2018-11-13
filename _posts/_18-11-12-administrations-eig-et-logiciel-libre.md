@@ -38,7 +38,7 @@ domaine de l'informatique : c'est le lancement des licences Creative
 Commons par Lawrence Lessig et de l'encyclopédie libre Wikipédia, par
 Jimmy Wales et Larry Sanger.  Les deux décennies suivantes verront se
 décliner « l'open » dans d'autres domaines, notamment l'open access
-(pour l'ouverture de la connaissance dans le champ de la recherche) et
+(pour la publication en accès libre des articles de recherche) et
 l'open data (pour l'ouverture des données publiques).
 
 Aujourd'hui, le libre est représenté par des étendards bien connus du
