@@ -321,7 +321,8 @@ de développeurs impliqués au coeur des services de l'administration.
 
 Si la question de savoir comment produire et maintenir des logiciels
 libres dans l'administration vous intéresse, rendez-vous à Paris le 6
-décembre au [Paris Open Source Summit](des logici) où la DINSIC
-organise les premières rencontres du libre de l'administration.
+décembre au [Paris Open Source
+Summit](http://www.opensourcesummit.paris/) où la DINSIC organise les
+**premières rencontres du libre dans l'administration**.
 
 À suivre !
