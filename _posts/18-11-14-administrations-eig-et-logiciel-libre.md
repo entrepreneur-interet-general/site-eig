@@ -217,7 +217,8 @@ pour la lemmatisation et la détection de la nature d'un mot en
 français.
 
 <a href="https://github.com/entrepreneur-interet-general/metadocs"><img src="https://camo.githubusercontent.com/8db03293ee7081124ad99c9ebc38ee88ccb12b93/687474703a2f2f672e7265636f726469742e636f2f65674638627a783771632e676966" /></a>
-<center><p><em>Gif animé présentant l'outil metadocs</em></p></center>
+<center><p><em>Gif animé présentant l'outil metadocs, servant à
+intégrer plusieurs projets de documentation Sphinx.</em></p></center>
 
 Parmi les bibliothèques, citons
 [H3.Standard](https://github.com/entrepreneur-interet-general/H3.Standard),
