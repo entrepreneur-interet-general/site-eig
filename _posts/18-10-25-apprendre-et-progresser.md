@@ -31,9 +31,6 @@ quatre types d'attitudes.
 
 ## Analytique, pratique, empathique, pédagogique
 
-<img src="/img/apprendre_progresser.png"/>
-<p><em>Devoirs à la maison : remplir les intersections ! © Bastien Guerry - CC-by-sa 4.0</em></p>
-
 - **Think small!** ou la démarche *analytique* : il s'agit ici de
   réduire les éléments à apprendre à leur taille adéquate, en avançant
   pas à pas.  Le livre de référence serait ici le *Discours de la
@@ -64,6 +61,9 @@ quatre types d'attitudes.
   facilité](https://www.youtube.com/watch?v=34_L7t7fD_U), et sur [le
   besoin permanent de
   recul](https://www.youtube.com/watch?v=f84n5oFoZBc).
+
+<img src="/img/apprendre_progresser.png"/>
+*Devoirs à la maison : remplir les intersections ! © Bastien Guerry - CC-by-sa 4.0*
 
 ## En vrac et en détail
 
@@ -158,7 +158,7 @@ de programmation bien adapté, utilisation de technologies éprouvées,
 évolution et maintenance des produits dans le temps, etc.
 
 <a href="https://pxhere.com/en/photo/911144"><img src="https://c.pxhere.com/photos/72/9c/close_up_code_coding_computer_computing_conceptual_data_design-911144.jpg!d"/></a>
-<p><em>Des lignes de code.  Who cares ?</em></p>
+<center><p><em>Des lignes de code.  Who cares ?</em></p></center>
 
 Comme les EIG sont force de propositions, ils doivent avoir un oeil
 sur cette complexité : rester en mode « ouvert et apprenant » est une
@@ -175,5 +175,6 @@ cadre pour stabiliser ce temps long de l'apprentissage** et rien de
 plus plaisant que d'**apprendre à plusieurs** pour créer une culture
 commune !
 
-*Merci à Élise Lalique et Julien Paris, EIG du défi [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html),
+*Merci à Élise Lalique et Julien Paris, EIG 2018 pour le défi
+[SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html),
 pour leur relecture attentive et leurs suggestions.*
