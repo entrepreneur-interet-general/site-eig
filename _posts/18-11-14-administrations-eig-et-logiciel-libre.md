@@ -125,7 +125,7 @@ PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logicie
 et répondu de temps à autres aux questions et aux coups de main
 sollicités par les uns et les autres.
 
-Quels premiers constats après dix moins d'avancées sur le sujet ?
+Quels premiers constats après dix mois d'avancées sur le sujet ?
 
 1. Oui, un EIG peut ne pas bien savoir ce qu'est un logiciel libre et
    croire qu'il a le droit de copier du code trouvé sur Github sans se
@@ -135,7 +135,7 @@ Quels premiers constats après dix moins d'avancées sur le sujet ?
    un peu d'éclaircissements au bon moment, ce n'est *jamais* un point
    bloquant.
 
-3. La démarche paraît naturelle pour tous les EIG: aucun ne s'est
+3. La démarche paraît naturelle pour tous les EIG : aucun ne s'est
    plaint d'avoir à aller dans ce sens.
 
 4. Il y a encore beaucoup à faire pour que les mentors soient à l'aise
@@ -181,8 +181,8 @@ Parmi les applications :
   un outil open pour récupérer les données de plusieurs sites en même
   temps et structurer les données obtenues.
 - [Gobelins](https://github.com/entrepreneur-interet-general/gobelins) :
-	un outil de diffusion et recherche pour les collections du
-	Mobilier national.
+  un outil de diffusion et recherche pour les collections du
+  Mobilier national.
 - [Stalactite](https://github.com/archifiltre?tab=repositories) : un
   outil de visualisation, de classement et de traitement d'une
   arborescence qui contient tous types de documents (mails, images,
@@ -226,7 +226,7 @@ pour faire la liaison (le *binding*) entre du `C Sharp` et [la
 bibliothèque `C`](https://uber.github.io/h3) développée par Uber pour
 de l'indexation géospatiale reposant sur un découpage hexagonal.
 
-Et pour finir, quelques outils : un petit [bot Twitter en Clojure](https://github.com/bzg/eigforever-twitter-bot), un [module d'export Org-mode](https://github.com/entrepreneur-interet-general/ox-html-timeline) vers une rendu `HTML` sous forme de frise, un [outil de prise en main](https://github.com/entrepreneur-interet-general/vue-python-starter-kit) d'une application utilisant python en *backend* et vue.js en *frontend*, une mini-application [csv2html](https://github.com/entrepreneur-interet-general/csv2html) pour publier des `csv`en [datatables](https://www.datatables.net), une bibliothèque pour [trouver les jours fériés en France](https://github.com/AntoineAugusti/jours-feries-france) et [une autre pour les vacances scolaires](https://github.com/AntoineAugusti/vacances-scolaires-france)... il y en a pour tous les goûts !  Tout cela ne demande qu'à être testé, débogué, utilisé... et à recevoir vos contributions : c'est libre !
+Et pour finir, quelques outils : un petit [bot Twitter en Clojure](https://github.com/bzg/eigforever-twitter-bot), un [module d'export Org-mode](https://github.com/entrepreneur-interet-general/ox-html-timeline) vers un rendu `HTML` sous forme de frise, un [outil de prise en main](https://github.com/entrepreneur-interet-general/vue-python-starter-kit) d'une application utilisant python en *backend* et vue.js en *frontend*, une mini-application [csv2html](https://github.com/entrepreneur-interet-general/csv2html) pour publier des `csv`en [datatables](https://www.datatables.net), une bibliothèque pour [trouver les jours fériés en France](https://github.com/AntoineAugusti/jours-feries-france) et [une autre pour les vacances scolaires](https://github.com/AntoineAugusti/vacances-scolaires-france)... il y en a pour tous les goûts !  Tout cela ne demande qu'à être testé, débogué, utilisé... et à recevoir vos contributions : c'est libre !
 
 ## EIG et l'écosystème du libre : apprendre et/à partager
 
