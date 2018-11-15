@@ -96,3 +96,15 @@ personnes aux compétences complémentaires fut très important : cela a
 permis de décloisonner les manières de faire et de rendre effective
 les collaborations, les échanges de bonnes pratiques, le tout à des
 niveaux stratégiques.
+
+# Merci !
+
+Jean-Baptiste et moi souhaitons transmettre nos plus sincères
+remerciements à nos collègues de la Mission numérique de la
+gendarmerie mais aussi aux différentes services de la gendarmerie
+(Brigade numérique, DPPP, STSISI, SIRPA, MPP, BSP, groupement de
+Loiret), du Ministère de l'Intérieur (DICOM), de la DILA, d'Etalab et
+de la DINSIC qui ont collaboré étroitement avec nous tout au long de
+ce défi.  Pendant ces 10 mois, ils ont donné de leur temps précieux et
+de leur expertise et sans eux, ça nous aurait été impossible de mener
+à bien autant de projets.
