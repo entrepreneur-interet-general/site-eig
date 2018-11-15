@@ -97,14 +97,15 @@ mais ne savent pas forcément quelles réalités ce terme recouvre : bien
 souvent, « open source » signifie qu'on peut utiliser une bibliothèque
 logicielle gratuitement.
 
-Pour aller plus loin, nous avons fait de l'apprentissage collectif. D'abord en
-organisant deux ateliers ouverts aux EIG et aux mentors, l'un en mars
-pendant une session d'accompagnement ([le compte-rendu est lisible
-ici](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html)),
-l'autre à la DINSIC quelques semaines plus tard, en compagnie de
-personnes d'autres administrations, pour entrer dans le détail des
-questions liées aux *licences* et pour s'approprier la [politique de
-contribution de l'État aux logiciels
+Pour aller plus loin, nous avons fait de l'apprentissage
+collectif. D'abord en organisant deux ateliers ouverts aux EIG et aux
+mentors, [l'un en
+mars](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html)
+pendant une session d'accompagnement, l'autre à la DINSIC quelques
+semaines plus tard, en compagnie de personnes d'autres
+administrations, pour entrer dans le détail des questions liées aux
+*licences* et pour s'approprier la [politique de contribution de
+l'État aux logiciels
 libres](https://disic.github.io/politique-de-contribution-open-source/),
 publiée en mai dernier.
 
@@ -183,7 +184,7 @@ Parmi les applications :
 - [Gobelins](https://github.com/entrepreneur-interet-general/gobelins) :
   un outil de diffusion et recherche pour les collections du
   Mobilier national.
-- [Stalactite](https://github.com/archifiltre?tab=repositories) : un
+- [Stalactite](https://github.com/jeanbaptisteassouad/cheapExp) : un
   outil de visualisation, de classement et de traitement d'une
   arborescence qui contient tous types de documents (mails, images,
   documents, présentations, etc.).
