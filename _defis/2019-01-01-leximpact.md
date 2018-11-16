@@ -3,19 +3,19 @@ layout: defi2019
 titre: LexImpact
 site: /defis/2019/leximpact.html
 annees: 2019
-description: "Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous"
+description: "Évaluer l’effet de réformes socio-fiscales sur les citoyen·ne·s"
 administration: Direction interministérielle et du système d’information et de communication de l'Etat
 administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement
 eigs:
   - nom: Un·e designeur·se lean UX avec un goût prononcé pour le code
   - nom: Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
-mentors: 
+mentors:
   - nom: Mauko Quiroga
     site: /communaute/2019/mauko-quiroga.html
   - nom: Sandra Chakroun
     site: /communaute/2019/sandra-chakroun.html
-images: 
+images:
   - /img/logo-lex-impact.png
 ---
 
@@ -26,6 +26,9 @@ notamment pour le Parlement et la société civile, une application
 permettant d’évaluer, de façon simple, rapide et ouverte, l’impact de
 réformes socio-fiscales sur les citoyens et les citoyennes.
 
+Voir le [défi
+LexImpact](https://speakerdeck.com/eig2018/pitch-leximpact-defi-eig3)
+en quelques slides.
 Voir le [défi
 LexImpact](https://speakerdeck.com/eig2018/pitch-leximpact-defi-eig3)
 en quelques slides.
@@ -68,7 +71,7 @@ commun contributif n'est pas directement accessible à tous les types
 d'utilisateurs puisqu'il requiert des compétences en code
 informatique.
 
-**LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.  
+**LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.
 
 Plusieurs axes :
 
