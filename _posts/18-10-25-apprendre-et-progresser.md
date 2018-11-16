@@ -75,7 +75,7 @@ lister l'ensemble des retours collectés lors de ces ateliers.
 - *Don't repeat yourself!* : l'idée est d'éviter de rédiger du code
   redondant et de modulariser le plus possible.
 - *Small is beautiful* : faire des modules petits, avec des fonctions
-  précises.  Apprendre par éléments
+  précises.  Apprendre par éléments.
 - *Less is more* : apprendre à faire *moins*.
 - *Do one thing and do it well* : la pierre angulaire de la
   philosophie Unix pour le *design* de ses outils.
