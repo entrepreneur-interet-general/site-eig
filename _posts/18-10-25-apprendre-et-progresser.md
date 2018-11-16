@@ -81,7 +81,7 @@ lister l'ensemble des retours collectés lors de ces ateliers.
   philosophie Unix pour le *design* de ses outils.
 - *Avoir un cahier d'apprentissage* : pour ne pas avoir à rechercher
   ailleurs ce qu'on a déjà découvert.
-- *Se discipliner* : Ne pas partir dans des grands plans ambitieux
+- *Se discipliner* : ne pas partir dans des grands plans ambitieux
   mais se forcer à rester au plus près d'éléments digestes.
 
 ### *Think real!*
