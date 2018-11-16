@@ -3,59 +3,39 @@ layout: defi2019
 titre: LexImpact
 site: /defis/2019/leximpact.html
 annees: 2019
-description: "Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous"
+description: "Connaître l'impact des réformes sur les citoyen·ne·s"
 administration: Direction interministérielle et du système d’information et de communication de l'Etat
 administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement
 eigs:
   - nom: Un·e designeur·se lean UX avec un goût prononcé pour le code
   - nom: Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
-mentors: 
+mentors:
   - nom: Mauko Quiroga
     site: /communaute/2019/mauko-quiroga.html
   - nom: Sandra Chakroun
     site: /communaute/2019/sandra-chakroun.html
-images: 
+images:
   - /img/logo-lex-impact.png
 ---
 
-La Direction Interministérielle du Numérique et du Système
-d’Information et de Communication de l’État
-([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer,
-notamment pour le Parlement et la société civile, une application
-permettant d’évaluer, de façon simple, rapide et ouverte, l’impact de
-réformes socio-fiscales sur les citoyens et les citoyennes.
+La Direction Interministérielle du Numérique et du Système d’Information et de Communication de l’État ([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact de réformes socio-fiscales sur les citoyen·ne·s.
 
-Voir le [défi
-LexImpact](https://speakerdeck.com/eig2018/pitch-leximpact-defi-eig3)
-en quelques slides.
+Voir le [défi LexImpact](https://speakerdeck.com/eig2018/pitch-leximpact-defi-eig3) en quelques slides.
 
 <br/>
 
-## LexImpact : Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous
+## LexImpact : Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s
 
 ### La problématique
 
-Connaissez-vous l'impact de la prochaine réforme sur votre situation
-personnelle ? Probablement pas et vous n'êtes pas seul. Assemblée
-Nationale, Sénat et Cour des Comptes expriment régulièrement le besoin
-de disposer d'un outil leur permettant de se positionner sur les
-projets de loi grâce à une information indépendante sur l'effet des
-textes de loi.
+Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ? Probablement pas, et vous n'êtes pas seul ! L'Assemblée Nationale, le Sénat et la Cour des Comptes expriment régulièrement le besoin de disposer d'un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.
 
-L'étude d’impact des réformes reste particulièrement difficile à
-réaliser, en particulier lorsque les délais sont courts. Dans le
-domaine fiscal, des modèles ont été développés par plusieurs
-administrations (DGFiP, INSEE, DINSIC, etc.), mais leur usage est
-limité, soit parce que les données ou logiciels ne sont pas ouverts,
-soit parce qu'ils sont difficiles à prendre en main.
+Connaître l'impact des réformes reste un exercise particulièrement difficile à réaliser, en particulier lorsque les délais sont courts. Dans les domaines social et fiscal, des modèles ont été développés par plusieurs administrations (DGFiP, INSEE, DINSIC...), mais leur usage reste limité, soit parce que les données ou les logiciels ne sont pas ouverts, soit parce qu'ils sont difficiles à prendre en main.
 
-Pourtant, cette capacité à réaliser plus facilement et rapidement des
-analyses d’impact apparaît comme un enjeu primordial de notre
-démocratie, tant pour améliorer le processus législatif que pour des
-questions de transparence et d’engagement de la société civile.
+Pourtant, mieux légiférer c’est aussi mieux connaître l'impact des réformes avant qu'elles ne soient votées. La capacité à réaliser plus facilement et rapidement des analyses d’impact apparaît comme un enjeu primordial de notre démocratie, tant pour améliorer le processus législatif que pour des questions de transparence et d’engagement de la société civile.
 
-### Le défi : développer un outil accessible aux parlementaires, agents publics et à la société civile permettant d'évaluer l'impact de réformes socio-fiscales
+### Le défi : Développer une solution accessible aux parlementaires, aux agents publics et à la société civile, permettant de connaître l'impact de réformes socio-fiscales
 
 [OpenFisca](http://openfisca.org) est un logiciel open source qui
 comprend des règles de la législation socio-fiscale et permet de
@@ -68,7 +48,7 @@ commun contributif n'est pas directement accessible à tous les types
 d'utilisateurs puisqu'il requiert des compétences en code
 informatique.
 
-**LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.  
+**LexImpact a pour ambition de rendre l'évaluation socio-fiscale permise par OpenFisca accessible à tous**.
 
 Plusieurs axes :
 
