@@ -14,8 +14,7 @@ Pour sa deuxième promotion, le programme a accueilli 28 EIG pour relever 13 dé
 Pour les plus curieux, sachez que [**les codes sources sont ouverts**](https://github.com/entrepreneur-interet-general) : n'hésitez pas à tester les outils, reprendre et diffuser les briques qui peuvent vous être utiles et contribuer à l'amélioration des codes. 
 
 
-Playlist des réalisations EIG 2 : 
-https://www.dailymotion.com/playlist/x65owi
+Voici l'adresse de la playlist des réalisations EIG 2 : [https://www.dailymotion.com/playlist/x65owi](https://www.dailymotion.com/playlist/x65owi)
 
-Code suggéré par Dailymotion pour embarquer une playlist : 
+Et voici la playlist directement :
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/playlist/x5x7u0" allowfullscreen allow="autoplay"></iframe> 
