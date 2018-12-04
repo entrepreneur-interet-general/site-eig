@@ -11,10 +11,10 @@ La transformation numérique des administrations doit se faire en collaboration 
 
 Pour sa deuxième promotion, le programme a accueilli 28 EIG pour relever 13 défis. **Découvrez dès à présent le résultat de 10 mois de travail !**
 
-Pour les plus curieux, sachez que [**les codes sources sont ouverts**](https://github.com/entrepreneur-interet-general) : n'hésitez pas à tester les outils, reprendre et diffuser les briques qui peuvent vous être utiles et contribuer à l'amélioration des codes. 
+Pour les plus curieux, sachez que [**les codes sources sont publiés sous licence libre**](https://github.com/topics/entrepreneur-interet-general) : n'hésitez pas à tester les outils, reprendre et diffuser les briques qui peuvent vous être utiles et contribuer à l'amélioration du code source.
 
-Et voici la playlist des restitutions par défis : 
+Et voici une liste de lecture des restitutions par défi :
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/playlist/x65owi" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="672" height="378" src="https://www.dailymotion.com/embed/playlist/x65owi" allowfullscreen allow="autoplay"></iframe>
 
-Bon visionnage !
+Bon visionnage !
