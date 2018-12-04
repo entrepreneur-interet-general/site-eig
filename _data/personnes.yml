@@ -391,6 +391,18 @@
   class: 2019 mentor
   desc: Hervé Brulé
 
+- image: img/communaute/miniatures/???.png
+  title: Hugo Stéphan
+  link_to: /communaute/2019/hugo-stephan.html
+  annee: 2019
+  profil: Designer
+  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
+  class:
+  - 2019
+  - eig
+  - designer
+  desc: Hugo Stéphan
+
 - image: img/communaute/miniatures/iana-ivanov.jpg
   title: Iana Ivanov
   link_to: /communaute/2019/iana-ivanov.html
@@ -521,6 +533,19 @@
   - eig
   - datascientist
   desc: Léo Bouloc
+
+
+- image: img/communaute/miniatures/???.png
+  title: Luc Salommez
+  link_to: /communaute/2019/luc-salommez.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Luc Salommez
 
 - image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
@@ -793,6 +818,18 @@
   class:
   - 2018
   desc: Sophie Miljkovic
+
+- image: img/communaute/miniatures/???.png
+  title: Soufiane Lamrissi
+  link_to: /communaute/2019/soufiane-lamrissi.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Soufiane Lamrissi
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Stéphanie Combes
