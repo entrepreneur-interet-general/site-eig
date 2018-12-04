@@ -722,6 +722,18 @@
   - datascientist
   desc: Pierre Camilleri
 
+- image: img/communaute/miniatures/???.png
+  title: Quentin Loridant
+  link_to: /communaute/2019/quentin-loridant.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Quentin Loridant
+
 - image: img/communaute/miniatures/Sans-photo.png
   title: Renaud Périn
   link_to: /communaute/2018/renaud-perin.html
@@ -798,6 +810,18 @@
   - webdev
   desc: Sébastien Cossin
 
+- image: img/communaute/miniatures/???.png
+  title: Sébastien Touzé
+  link_to: /communaute/2019/sebastien-touze.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Sébastien Touzé
+
 - image: img/communaute/miniatures/simon-karleskind.png
   title: Simon Karleskind
   link_to: /communaute/2019/simon-karleskind.html
@@ -808,6 +832,18 @@
   - 2019
   - mentor
   desc: Simon Karleskind
+
+- image: img/communaute/miniatures/???.png
+  title: Simon Lebastard
+  link_to: /communaute/2019/simon-lebastard.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/adler.html" target="new">ADLER</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Simon Lebastard
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Sophie Miljkovic
