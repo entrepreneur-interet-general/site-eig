@@ -13,5 +13,6 @@ Pour sa deuxième promotion, le programme a accueilli 28 EIG pour relever 13 dé
 
 Pour les plus curieux, sachez que [**les codes sources sont ouverts**](https://github.com/entrepreneur-interet-general) : n'hésitez pas à tester les outils, reprendre et diffuser les briques qui peuvent vous être utiles et contribuer à l'amélioration des codes. 
 
-Et voici la playlist des restitutions par défis :
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/playlist/x5x7u0" allowfullscreen allow="autoplay"></iframe> 
+Et voici la playlist des restitutions par défis : https://www.facebook.com/etalab/videos/vl.984282421756023/190307631922948/?type=1
+
+Bon visionnage !
