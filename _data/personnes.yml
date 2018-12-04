@@ -142,6 +142,18 @@
   - webdev
   desc: Benoît Guigal
 
+- image: img/communaute/miniatures/???.png
+  title: Carine Stolz
+  link_to: /communaute/2019/carine-stolz.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Carine Stolz
+
 - image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
@@ -370,6 +382,18 @@
   - webdev
   desc: Frédéric Bardolle
 
+- image: img/communaute/miniatures/???.png
+  title: Gabriel Bastard
+  link_to: /communaute/2019/gabriel-bastard.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Gabriel Bastard
+
 - image: img/communaute/miniatures/Guillaume-Lancrenon.png
   title: Guillaume Lancrenon
   link_to: /communaute/2018/guillaume-lancrenon.html
@@ -534,7 +558,6 @@
   - datascientist
   desc: Léo Bouloc
 
-
 - image: img/communaute/miniatures/???.png
   title: Luc Salommez
   link_to: /communaute/2019/luc-salommez.html
@@ -546,6 +569,18 @@
   - eig
   - webdev
   desc: Luc Salommez
+
+- image: img/communaute/miniatures/???.png
+  title: Lucas Bchini
+  link_to: /communaute/2019/lucas-bchini.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Lucas Bchini
 
 - image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
