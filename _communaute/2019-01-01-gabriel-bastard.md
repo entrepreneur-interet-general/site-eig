@@ -7,7 +7,7 @@ website: https://www.linkedin.com/in/gbastard/
 annees: 2019
 defis: 
   - nom: PolyGraphe
-    site: /defis/2018/.html
+    site: /defis/2019/polygraphe.html
 profil: Data scientist
 images:
   - /img/communaute/Gabriel-Bastard.png
