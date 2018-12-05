@@ -28,6 +28,18 @@
   class: 2019 mentor
   desc: Alain Régnier
 
+- image: /img/communaute/miniatures/Amaury-Fouret.jpg
+  title: Amaury Fouret
+  link_to: /communaute/2019/amaury-fouret.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Amaury Fouret
+  
 - image: img/communaute/miniatures/ambre-arnaud.png
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
@@ -72,6 +84,18 @@
   - webdev
   desc: Antoine Augusti
 
+- image: /img/communaute/miniatures/armand-giraud.jpg
+  title: Armand Giraud
+  link_to: /communaute/2019/armand-giraud.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Armand Giraud
+  
 - image: img/communaute/miniatures/Arnaud-Menard.png
   title: Arnaud Ménard
   link_to: /communaute/2018/arnaud-menard.html
@@ -502,6 +526,19 @@
   - webdev
   desc: Julien Paris
 
+
+- image: /img/communaute/miniatures/kim-montalibet.jpg
+  title: Kim Montalibet
+  link_to: /communaute/2019/kim-montalibet.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Kim Montalibet
+  
 - image: img/communaute/miniatures/Sans-photo.png
   title: Laurence Matringe
   link_to: /communaute/2018/laurence-matringe.html
@@ -936,6 +973,18 @@
   desc: Soizic Pénicaud
 
 - image: img/communaute/miniatures/Tiphaine-PheNeau.png
+  title: Thierry Razanajao
+  link_to: /communaute/2019/thierry-razanajao.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Thierry Razanajao
+  
+- image: img/communaute/miniatures/Tiphaine-PheNeau.png
   title: Tiphaine Phe-Neau
   link_to: /communaute/2018/tiphaine-phe-neau.html
   annee: 2018
@@ -959,6 +1008,18 @@
   - webdev
   desc: Tristram Gräbener
 
+- image: img/communaute/miniatures/victor.png
+  title: Valentin Barrière
+  link_to: /communaute/2019/valentin-barriere.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Valentin Barrière
+  
 - image: img/communaute/miniatures/victor.png
   title: Victor Schmidt
   link_to: /communaute/2018/victor-schmidt.html
