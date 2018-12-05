@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Open Justice
-    site: /defis/2018/.html
+    site: /defis/2019/openjustice.html
 profil: Data scientist
 images:
   - /img/communaute/Valentin-Barriere.png
