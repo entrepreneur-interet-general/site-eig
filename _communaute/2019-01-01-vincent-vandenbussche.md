@@ -10,7 +10,7 @@ defis:
     site: /defis/2019/iaflash.html
 profil: Data scientist
 images:
-  - 
+  - /img/communaute/vincent-vandenbussche.png
 ---
 
-" Scientifique à l'esprit critique, mes valeurs sont avant tout l'empathie et la bienveillance. En conséquence, j'aime les projets à fort impact social. J'ai travaillé dans le domaine de la santé, de la recherche fondamentale ou encore des ressources humaines, dans le public comme dans le privé, en grand groupe comme en startup."
+"Scientifique à l'esprit critique, mes valeurs sont avant tout l'empathie et la bienveillance. En conséquence, j'aime les projets à fort impact social. J'ai travaillé dans le domaine de la santé, de la recherche fondamentale ou encore des ressources humaines, dans le public comme dans le privé, en grand groupe comme en startup."
