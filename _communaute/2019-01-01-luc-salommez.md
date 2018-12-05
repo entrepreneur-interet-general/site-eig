@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: PolyGraphe
-    site: /defis/2018/.html
+    site: /defis/2019/polygraphe.html
 profil: Développeur
 images:
   - /img/communaute/Luc-Salommez.png
