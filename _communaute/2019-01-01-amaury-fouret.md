@@ -9,6 +9,7 @@ defis:
   - nom: 
     site: /defis/2019/openjustice.html
 profil: 
+  - Data scientist
 images:
   - /img/communaute/amaury-fouret.png
 ---
