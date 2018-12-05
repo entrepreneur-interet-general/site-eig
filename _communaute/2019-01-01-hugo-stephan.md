@@ -7,7 +7,7 @@ website:
 annees: 2019
 defis: 
   - nom: Karfu'R
-    site: /defis/2018/.html
+    site: /defis/2019/karfur.html
 profil: Designer
 images:
   - /img/communaute/Hugo-Stephan.png
