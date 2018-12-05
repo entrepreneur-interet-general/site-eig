@@ -6,7 +6,7 @@ nom: Lucas Bchini
 website: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
 annees: 2019
 defis: 
-  - nom: CartoBIO
+  - nom: CartoBio
     site: /defis/2019/cartobio.html
 profil: Développeur
 images:
