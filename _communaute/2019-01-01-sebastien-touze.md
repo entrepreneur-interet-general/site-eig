@@ -7,7 +7,7 @@ website: https://www.linkedin.com/in/sebastientouze
 annees: 2019
 defis: 
   - nom: CibNAV
-    site: /defis/2018/.html
+    site: /defis/2019/cibnav.html
 profil: Développeur
 images:
   - /img/communaute/Sebastien-Touze.png
