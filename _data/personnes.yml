@@ -28,7 +28,7 @@
   class: 2019 mentor
   desc: Alain Régnier
 
-- image: /img/communaute/miniatures/Amaury-Fouret.jpg
+- image: img/communaute/miniatures/Amaury-Fouret.jpg
   title: Amaury Fouret
   link_to: /communaute/2019/amaury-fouret.html
   annee: 2019
@@ -52,7 +52,7 @@
   - webdev
   desc: Ambre Arnaud
 
-- image: /img/communaute/miniatures/Amaury-Fouret.jpg
+- image: img/communaute/miniatures/Amaury-Fouret.jpg
   title: Amélie Medem
   link_to: /communaute/2019/amelie-medem.html
   annee: 2019
@@ -96,7 +96,7 @@
   - webdev
   desc: Antoine Augusti
 
-- image: /img/communaute/miniatures/armand-giraud.jpg
+- image: img/communaute/miniatures/armand-giraud.jpg
   title: Armand Giraud
   link_to: /communaute/2019/armand-giraud.html
   annee: 2019
@@ -141,6 +141,18 @@
   class: 2019 mentor
   desc: Audrey Istace
 
+- image: img/communaute/miniatures/Sans-photo.png
+  title: Augustin Wenger
+  link_to: /communaute/2019/augustin-wenger.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Augustin Wenger
+  
 - image: img/communaute/miniatures/Bastien-Guerry.png
   title: Bastien Guerry
   link_to: /communaute/2018/bastien-guerry.html
@@ -178,7 +190,7 @@
   - webdev
   desc: Benoît Guigal
 
-- image: /img/communaute/miniatures/carine-stolz.jpg
+- image: img/communaute/miniatures/carine-stolz.jpg
   title: Carine Stolz
   link_to: /communaute/2019/carine-stolz.html
   annee: 2019
@@ -224,6 +236,18 @@
   - mentor
   desc: Claudio Cimelli
 
+- image: img/communaute/miniatures/Constance-Quatrebarbes.png
+  title: Coline Lebaratoux
+  link_to: /communaute/2019/coline-lebaratoux.html
+  annee: 2019
+  profil: Designer
+  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
+  class:
+  - 2019
+  - eig
+  - designer
+  desc: Coline Lebaratoux
+  
 - image: img/communaute/miniatures/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
   link_to: /communaute/2017/constance-de-quatrebarbes.html
@@ -294,7 +318,7 @@
   class: 2019 mentor
   desc: Dorian Flechet
 
-- image: /img/communaute/miniatures/dorine-lambinet.jpg
+- image: img/communaute/miniatures/dorine-lambinet.jpg
   title: Dorine Lambinet
   link_to: /communaute/2019/dorine-lambinet.html
   annee: 2019
@@ -430,7 +454,7 @@
   - webdev
   desc: Frédéric Bardolle
 
-- image: /img/communaute/miniatures/Gabriel-Bastard.jpg
+- image: img/communaute/miniatures/Gabriel-Bastard.jpg
   title: Gabriel Bastard
   link_to: /communaute/2019/gabriel-bastard.html
   annee: 2019
@@ -454,6 +478,17 @@
   - webdev
   desc: Guillaume Lancrenon
 
+- image: img/communaute/miniatures/helene_cavalie.jpg
+  title: Hélène Cavalié
+  link_to: /communaute/2018/helene-cavalie.html
+  annee: 2018
+  profil: Mentor
+  defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
+  class:
+  - 2018
+  - mentor
+  desc: Hélène Cavalié
+  
 - image: img/communaute/miniatures/herve-brule.png
   title: Hervé Brulé
   link_to: /communaute/2019/herve-brule.html
@@ -550,7 +585,7 @@
   - webdev
   desc: Julien Paris
 
-- image: /img/communaute/miniatures/kim-montalibet.jpg
+- image: img/communaute/miniatures/kim-montalibet.jpg
   title: Kim Montalibet
   link_to: /communaute/2019/kim-montalibet.html
   annee: 2019
@@ -673,18 +708,6 @@
   - eig
   - datascientist
   desc: Marion Paclot
-
-- image: img/communaute/miniatures/Martin-Gross.png
-  title: Mathieu Perez
-  link_to: /communaute/2019/mathieu-perez.html
-  annee: 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
-  class:
-  - 2019
-  - eig
-  - webdev
-  desc: Mathieu Perez
   
 - image: img/communaute/miniatures/Martin-Gross.png
   title: Martin Gross
@@ -698,6 +721,30 @@
   - webdev
   desc: Martin Gross
 
+- image: img/communaute/miniatures/mathieu-havel.jpg
+  title: Mathieu Havel
+  link_to: /communaute/2019/mathieu-havel.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Mathieu Havel
+  
+- image: img/communaute/miniatures/mathieu-perez.jpg
+  title: Mathieu Perez
+  link_to: /communaute/2019/mathieu-perez.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Mathieu Perez
+  
 - image: img/communaute/miniatures/mathilde_bras.jpg
   title: Mathilde Bras
   link_to: /communaute/2018/mathilde-bras.html
@@ -744,7 +791,7 @@
   - webdev
   desc: Ned Baldessin
 
-- image: img/communaute/miniatures/???.png
+- image: img/communaute/miniatures/Sans-photo.png
   title: Nicolas Berkouk
   link_to: /communaute/2019/nicolas-berkouk.html
   annee: 2019
@@ -828,7 +875,19 @@
   - mentor
   - datascientist
   desc: Phileas Condemine
-
+  
+- image: img/communaute/miniatures/pierre-alain-jachiet.jpg
+  title: Pierre-Alain Jachiet
+  link_to: /communaute/2019/pierre-alain-jachiet.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/openchronic.html" target="new">Open Chronic</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Pierre-Alain Jachiet
+  
 - image: img/communaute/miniatures/pierre-camilleri.png
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
@@ -952,7 +1011,7 @@
   - mentor
   desc: Simon Karleskind
 
-- image: /img/communaute/miniatures/simon-lebastard.jpg
+- image: img/communaute/miniatures/simon-lebastard.jpg
   title: Simon Lebastard
   link_to: /communaute/2019/simon-lebastard.html
   annee: 2019
@@ -974,7 +1033,7 @@
   - 2018
   desc: Sophie Miljkovic
 
-- image: /img/communaute/miniatures/Soufiane-Lamrissi.jpg
+- image: img/communaute/miniatures/Soufiane-Lamrissi.jpg
   title: Soufiane Lamrissi
   link_to: /communaute/2019/soufiane-lamrissi.html
   annee: 2019
@@ -1019,7 +1078,7 @@
   - 2018
   desc: Soizic Pénicaud
 
-- image: /img/communaute/miniatures/thierry-razanajao.jpg
+- image: img/communaute/miniatures/thierry-razanajao.jpg
   title: Thierry Razanajao
   link_to: /communaute/2019/thierry-razanajao.html
   annee: 2019
@@ -1055,7 +1114,7 @@
   - webdev
   desc: Tristram Gräbener
 
-- image: /img/communaute/miniatures/Valentin-Barriere.jpg
+- image: img/communaute/miniatures/Valentin-Barriere.jpg
   title: Valentin Barrière
   link_to: /communaute/2019/valentin-barriere.html
   annee: 2019
@@ -1066,6 +1125,18 @@
   - eig
   - datascientist
   desc: Valentin Barrière
+
+- image: img/communaute/miniatures/victor-journe.jpg
+  title: Victor Journé
+  link_to: /communaute/2019/victor-journe.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Victor Journé
   
 - image: img/communaute/miniatures/victor.png
   title: Victor Schmidt
@@ -1079,7 +1150,7 @@
   - datascientist
   desc: Victor Schmidt
 
-- image: /img/communaute/miniatures/vincent-vandenbussche.jpg
+- image: img/communaute/miniatures/vincent-vandenbussche.jpg
   title: Vincent Vandenbussche
   link_to: /communaute/2019/vincent-vandenbussche.html
   annee: 2019
@@ -1101,14 +1172,3 @@
   - 2018
   - mentor
   desc: Yann Caradec
-
-- image: img/communaute/miniatures/helene_cavalie.jpg
-  title: Hélène Cavalié
-  link_to: /communaute/2018/helene-cavalie.html
-  annee: 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
-  class:
-  - 2018
-  - mentor
-  desc: Hélène Cavalié
