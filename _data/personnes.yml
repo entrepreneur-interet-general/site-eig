@@ -52,6 +52,18 @@
   - webdev
   desc: Ambre Arnaud
 
+- image: /img/communaute/miniatures/Amaury-Fouret.jpg
+  title: Amélie Medem
+  link_to: /communaute/2019/amelie-medem.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Amélie Medem
+  
 - image: img/communaute/miniatures/Sans-photo.png
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
@@ -282,6 +294,18 @@
   class: 2019 mentor
   desc: Dorian Flechet
 
+- image: /img/communaute/miniatures/dorine-lambinet.jpg
+  title: Dorine Lambinet
+  link_to: /communaute/2019/dorine-lambinet.html
+  annee: 2019
+  profil: Designer
+  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
+  class:
+  - 2019
+  - eig
+  - designer
+  desc: Dorine Lambinet
+  
 - image: img/communaute/miniatures/edouard-rottier.png
   title: Edouard Rottier
   link_to: /communaute/2019/edouard-rottier.html
@@ -526,7 +550,6 @@
   - webdev
   desc: Julien Paris
 
-
 - image: /img/communaute/miniatures/kim-montalibet.jpg
   title: Kim Montalibet
   link_to: /communaute/2019/kim-montalibet.html
@@ -652,6 +675,18 @@
   desc: Marion Paclot
 
 - image: img/communaute/miniatures/Martin-Gross.png
+  title: Mathieu Perez
+  link_to: /communaute/2019/mathieu-perez.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Mathieu Perez
+  
+- image: img/communaute/miniatures/Martin-Gross.png
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
   annee: 2017
@@ -709,6 +744,18 @@
   - webdev
   desc: Ned Baldessin
 
+- image: img/communaute/miniatures/???.png
+  title: Nicolas Berkouk
+  link_to: /communaute/2019/nicolas-berkouk.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/adler.html" target="new">ADLER</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Nicolas Berkouk
+  
 - image: img/communaute/miniatures/nicolas-bizet.png
   title: Nicolas Bizet
   link_to: /communaute/2019/nicolas-bizet.html
@@ -972,7 +1019,7 @@
   - 2018
   desc: Soizic Pénicaud
 
-- image: img/communaute/miniatures/Tiphaine-PheNeau.png
+- image: /img/communaute/miniatures/thierry-razanajao.jpg
   title: Thierry Razanajao
   link_to: /communaute/2019/thierry-razanajao.html
   annee: 2019
@@ -1008,7 +1055,7 @@
   - webdev
   desc: Tristram Gräbener
 
-- image: img/communaute/miniatures/victor.png
+- image: /img/communaute/miniatures/Valentin-Barriere.jpg
   title: Valentin Barrière
   link_to: /communaute/2019/valentin-barriere.html
   annee: 2019
@@ -1032,6 +1079,18 @@
   - datascientist
   desc: Victor Schmidt
 
+- image: /img/communaute/miniatures/vincent-vandenbussche.jpg
+  title: Vincent Vandenbussche
+  link_to: /communaute/2019/vincent-vandenbussche.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Vincent Vandenbussche
+  
 - image: img/communaute/miniatures/Sans-photo.png
   title: Yann Caradec
   link_to: /communaute/2018/yann-caradec.html
