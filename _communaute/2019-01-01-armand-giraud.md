@@ -7,7 +7,7 @@ website: https://www.linkedin.com/in/armandgiraud/
 annees: 2019
 defis: 
   - nom: ExploCode
-    site: /defis/2018/explocode.html
+    site: /defis/2019/explocode.html
 profil: Data scientist
 images:
   - /img/communaute/Armand-Giraud.png
