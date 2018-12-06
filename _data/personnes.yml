@@ -1173,17 +1173,6 @@
   - eig
   - datascientist
   desc: Vincent Vandenbussche
-  
-- image: img/communaute/miniatures/Sans-photo.png
-  title: Yann Caradec
-  link_to: /communaute/2018/yann-caradec.html
-  annee: 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
-  class:
-  - 2018
-  - mentor
-  desc: Yann Caradec
 
 - image: img/communaute/miniatures/wojtek-sitarz.jpg
   title: Wojtek Sitarz
@@ -1196,3 +1185,14 @@
   - eig
   - datascientist
   desc: Wojtek Sitarz
+  
+- image: img/communaute/miniatures/Sans-photo.png
+  title: Yann Caradec
+  link_to: /communaute/2018/yann-caradec.html
+  annee: 2018
+  profil: Mentor
+  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
+  class:
+  - 2018
+  - mentor
+  desc: Yann Caradec
