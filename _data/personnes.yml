@@ -236,7 +236,7 @@
   - mentor
   desc: Claudio Cimelli
 
-- image: img/communaute/miniatures/Constance-Quatrebarbes.png
+- image: img/communaute/miniatures/coline-lebaratoux.png
   title: Coline Lebaratoux
   link_to: /communaute/2019/coline-lebaratoux.html
   annee: 2019
@@ -407,6 +407,18 @@
   - mentor
   desc: Eric Le Guen
 
+- image: img/communaute/miniatures/Sans-photo.png
+  title: Erica Marco
+  link_to: /communaute/2019/erica-marco.html
+  annee: 2019
+  profil: Développeuse
+  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Erica Marco
+  
 - image: img/communaute/miniatures/Etienne-David.png
   title: Etienne David
   link_to: /communaute/2017/etienne-david.html
