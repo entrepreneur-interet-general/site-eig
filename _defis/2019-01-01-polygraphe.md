@@ -9,7 +9,9 @@ administration-website: https://www.economie.gouv.fr/dgccrf
 type: Développement & Data science
 eigs:
   - nom: Gabriel Bastard
+    site: /communaute/2019/gabriel-bastard.html
   - nom: Luc Salommez
+    site: /communaute/2019/luc-salommez.html
 mentors:
   - nom: Audrey Istace
     site: /communaute/2019/audrey-istace.html
