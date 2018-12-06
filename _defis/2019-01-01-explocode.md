@@ -8,8 +8,8 @@ administration: Direction générale du Travail
 administration-website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
 type: Data science
 eigs:
-  - nom: Un·e data scientist
-  - nom: Un·e data scientist
+  - nom: Armand Giraud
+  - nom: Mathieu Havel
 mentors: 
   - nom: Julien Bouquillon
     site: /communaute/2019/julien-bouquillon.html
