@@ -1172,3 +1172,16 @@
   - 2018
   - mentor
   desc: Yann Caradec
+
+
+- image: img/communaute/miniatures/wojtek-sitarz.jpg
+  title: Wojtek Sitarz
+  link_to: /communaute/2019/wojtek-sitarz.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Wojtek Sitarz
