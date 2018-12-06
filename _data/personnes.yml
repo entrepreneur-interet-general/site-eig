@@ -1150,6 +1150,18 @@
   - datascientist
   desc: Victor Schmidt
 
+- image: img/communaute/miniatures/viktor-jarry.jpg
+  title: Viktor Jarry
+  link_to: /communaute/2019/viktor-jarry.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/openchronic.html" target="new">Open Chronic</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Viktor Jarry
+  
 - image: img/communaute/miniatures/vincent-vandenbussche.jpg
   title: Vincent Vandenbussche
   link_to: /communaute/2019/vincent-vandenbussche.html
@@ -1172,7 +1184,6 @@
   - 2018
   - mentor
   desc: Yann Caradec
-
 
 - image: img/communaute/miniatures/wojtek-sitarz.jpg
   title: Wojtek Sitarz
