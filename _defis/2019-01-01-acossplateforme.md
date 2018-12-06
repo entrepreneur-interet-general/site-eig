@@ -9,6 +9,7 @@ administration-website: https://www.acoss.fr/home.html
 type: Design & Développement
 eigs:
   - nom: Coline Lebaratoux
+    site: /communaute/2019/coline-lebaratoux.html
   - nom: Anoureth Pongrattana
 mentors:
   - nom: Nicolas Bizet
