@@ -9,7 +9,9 @@ administration-website: http://travail-emploi.gouv.fr/ministere/organisation/art
 type: Data science
 eigs:
   - nom: Armand Giraud
+    site: /communaute/2019/armand-giraud.html
   - nom: Mathieu Havel
+    site: /communaute/2019/mathieu-havel.html
 mentors: 
   - nom: Julien Bouquillon
     site: /communaute/2019/julien-bouquillon.html
