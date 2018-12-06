@@ -84,6 +84,18 @@
   class: 2019 mentor
   desc: Anne-Sophie Hutin
 
+- image: img/communaute/miniatures/anoureth-pongrattana.jpg
+  title: Anoureth Pongrattana
+  link_to: /communaute/2019/anoureth-pongrattana.html
+  annee: 2019
+  profil: Développeur
+  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
+  class:
+  - 2019
+  - eig
+  - webdev
+  desc: Anoureth Pongrattana
+  
 - image: img/communaute/miniatures/Antoine-Augusti.png
   title: Antoine Augusti
   link_to: /communaute/2018/antoine-augusti.html
