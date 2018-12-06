@@ -89,7 +89,7 @@
   link_to: /communaute/2018/antoine-augusti.html
   annee: 2018, 2019
   profil: Développeur
-  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a>, <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
+  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a> <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
   class:
   - 2018
   - 2019
@@ -544,12 +544,12 @@
   - webdev
   desc: Jean-Baptiste Assouad
 
-- image: img/communaute/miniatures/JeanBaptiste-LeDevehat.png
+- image: img/communaute/miniatures/jean-baptiste-le-devehat.jpg
   title: Jean-Baptiste Le Dévéhat
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   annee: 2018, 2019
   profil: Designer
-  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a>, <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
+  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a> <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
   class:
   - 2018
   - 2019
