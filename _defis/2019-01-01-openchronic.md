@@ -8,8 +8,8 @@ administration: Ministère de la santé, Direction de la recherche, des études,
 administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
 type: Data science
 eigs:
-  - nom: Un·e data engineer
-  - nom: Un·e expert·e en data anonymisation
+  - nom: Pierre-Alain Jachiet
+  - nom: Viktor Jarry
 mentors: 
   - nom: Philéas Condemine
     site: /communaute/2018/phileas-condemine.html
