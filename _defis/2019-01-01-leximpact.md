@@ -8,8 +8,8 @@ administration: Direction interministérielle et du système d’information et 
 administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement
 eigs:
-  - nom: Un·e designeur·se lean UX avec un goût prononcé pour le code
-  - nom: Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
+  - nom: Augustin Wenger
+  - nom: Dorine Lambinet
 mentors:
   - nom: Mauko Quiroga
     site: /communaute/2019/mauko-quiroga.html
