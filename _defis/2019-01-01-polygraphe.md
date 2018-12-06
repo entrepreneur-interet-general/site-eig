@@ -8,8 +8,8 @@ administration: Direction générale de la concurrence, de la consommation et de
 administration-website: https://www.economie.gouv.fr/dgccrf
 type: Développement & Data science
 eigs:
-  - nom: Un·e Développeur·se
-  - nom: Un·e data scientist
+  - nom: Gabriel Bastard
+  - nom: Luc Salommez
 mentors:
   - nom: Audrey Istace
     site: /communaute/2019/audrey-istace.html
