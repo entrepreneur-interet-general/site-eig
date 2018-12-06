@@ -8,9 +8,9 @@ administration: Cour de cassation
 administration-website: https://www.courdecassation.fr
 type: Développement & Data science
 eigs:
-  - nom: Un·e data scientist
-  - nom: Un·e data scientist
-  - nom: Un·e développeur·se full stack
+  - nom: Amaury Fouret
+  - nom: Mathieu Perez
+  - nom: Valentin Barrière
 mentors: 
   - nom: Edouard Rottier
     site: /communaute/2019/edouard-rottier.html
