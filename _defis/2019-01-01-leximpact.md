@@ -9,7 +9,9 @@ administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
 type: Design & Développement
 eigs:
   - nom: Augustin Wenger
+    site: /communaute/2019/augustin-wenger.html
   - nom: Dorine Lambinet
+    site: /communaute/2019/dorine-lambinet.html
 mentors:
   - nom: Mauko Quiroga
     site: /communaute/2019/mauko-quiroga.html
