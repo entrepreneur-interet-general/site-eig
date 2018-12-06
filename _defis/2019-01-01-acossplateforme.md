@@ -8,8 +8,8 @@ administration: Agence centrale des organismes de sécurité sociale (ACOSS)
 administration-website: https://www.acoss.fr/home.html
 type: Design & Développement
 eigs:
-  - nom: Un·e designer·euse UX et UI
-  - nom: Un·e développeur·se web / web services
+  - nom: Coline Lebaratoux
+  - nom: Anoureth Pongrattana
 mentors:
   - nom: Nicolas Bizet
     site: /communaute/2019/nicolas-bizet.html
