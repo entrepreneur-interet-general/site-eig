@@ -9,7 +9,9 @@ administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statist
 type: Data science
 eigs:
   - nom: Pierre-Alain Jachiet
+    site: /communaute/2019/pierre-alain-jachiet.html
   - nom: Viktor Jarry
+    site: /communaute/2019/viktor-jarry.html
 mentors: 
   - nom: Philéas Condemine
     site: /communaute/2018/phileas-condemine.html
