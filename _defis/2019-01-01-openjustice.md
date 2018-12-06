@@ -9,8 +9,11 @@ administration-website: https://www.courdecassation.fr
 type: Développement & Data science
 eigs:
   - nom: Amaury Fouret
+    site: /communaute/2019/amaury-fouret.html
   - nom: Mathieu Perez
+    site: /communaute/2019/mathieu-perez.html
   - nom: Valentin Barrière
+    site: /communaute/2019/valentin-barriere.html
 mentors: 
   - nom: Edouard Rottier
     site: /communaute/2019/edouard-rottier.html
