@@ -6,8 +6,10 @@ nom: Antoine Augusti
 website: https://www.antoine-augusti.fr
 annees: 2018
 defis: 
-  - nom: Prédisauvetage
+  - nom: PrédiSauvetage
     site: /defis/2018/donneesauvetagemaritime.html
+  - nom: EIG Link
+    site: /defis/2019/eiglink.html
 profil: Développeur / Datascientist
 images:
   - /img/communaute/Antoine-Augusti.png
