@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Rejoins l'équipe Entrepreneur·e d'Intérêt Général à Etalab : offre de stage « Appui à la coordination du programme EIG »"
-author: Soizic Pénicaud, équipe EIG
+title: "Rejoins l'équipe Entrepreneur·e d'Intérêt Général à Etalab\_: offre de stage « Appui à la coordination du programme EIG »"
+author: 'Soizic Pénicaud, équipe EIG'
 twitter: soizicpenicaud
-description: "Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2019."
+description: "Rejoins-nous\_! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2019."
+published: true
 ---
 ## Rejoins l'équipe Entrepreneur·e d'Intérêt Général à Etalab
 
 ### Offre de stage « Appui à la coordination du programme EIG »
 
-**Le principe du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html) ?** Intégrer pour 10 mois des professionnel·les du numérique (datascience, développement, design) dans l’administration, pour travailler en équipe et avec des agents des administrations d’accueil sur des projets en lien avec le numérique et les données. [Les projets de la 3e promotion, qui commencera en janvier 2019](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html), touchent à des domaines aussi variés que les réfugiés, l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit…
+**Le principe du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html) ?** Intégrer pour 10 mois des professionnel·les du numérique (datascience, développement, design) dans l’administration, pour travailler en équipe et avec des agents des administrations d’accueil sur des projets en lien avec le numérique et les données. [Les projets de la 3e promotion, qui commencera en janvier 2019](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html), touchent à des domaines aussi variés que les réfugiés, l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit, etc.
 
 **À [Etalab](https://etalab.gouv.fr/), nous sommes une équipe de 3 personnes qui pilote le programme au quotidien :** [Mathilde](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/mathilde-bras.html), qui a développé le programme et s’occupe de ses aspects stratégiques, [Sophie](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/sophie-miljkovic.html), en charge de la communication, et moi, [Soizic](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/soizic-penicaud.html), qui coordonne la promotion 3. Le 14 janvier prochain, nous serons rejointes par un développeur et un designer recrutés dans le cadre de la nouvelle promotion (les [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html)).
 
