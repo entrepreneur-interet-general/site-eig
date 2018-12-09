@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: ExploCode
+title: ExploCode
 site: /defis/2019/explocode.html
 annees: 2019
 description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"

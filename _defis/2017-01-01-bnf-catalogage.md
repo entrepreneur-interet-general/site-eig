@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: BNF - catalogage
+title: BNF - catalogage
 site: /defis/2017/bnf-catalogage.html
 annees: 2017
 description: "Créer un nouvel outil de catalogage pour mieux indexer les ressources de la BNF"

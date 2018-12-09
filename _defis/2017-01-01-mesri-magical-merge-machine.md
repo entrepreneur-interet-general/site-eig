@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: MESRI - La machine à données
+title: MESRI - La machine à données
 site: /defis/2017/mesri-magical-merge-machine.html
 annees: 2017
 description: "Automatiser le nettoyage de bases de données"

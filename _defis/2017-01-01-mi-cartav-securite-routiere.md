@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: MI - cartAV
+title: MI - cartAV
 site: /defis/2017/mi-cartav-securite-routiere.html
 annees: 2017
 description: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."

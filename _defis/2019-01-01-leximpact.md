@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: LexImpact
+title: LexImpact
 site: /defis/2019/leximpact.html
 annees: 2019
 description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"

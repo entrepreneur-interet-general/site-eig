@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: ARS - Parcours de soin
+title: ARS - Parcours de soin
 site: 
 annees: 2017
 description: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"

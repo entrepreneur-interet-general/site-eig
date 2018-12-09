@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: AFD - Geodata
+title: AFD - Geodata
 site: /defis/2017/afd-geodata.html
 annees: 2017
 description: "Informer la prise de décision des agents de l’AFD grâce aux données"

@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: PolyGraphe
+title: PolyGraphe
 site: /defis/2019/polygraphe.html
 annees: 2019
 description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
