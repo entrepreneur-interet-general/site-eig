@@ -1,13 +1,21 @@
 #+title: Site Entrepreneur d’intérêt général
 
-Site du programme Entrepreneur d'intérêt général en cours de
-construction.
+Site du programme Entrepreneur d'intérêt général.
 
-Le dépôt pour le site en ligne actuellement est [[https://github.com/entrepreneur-interet-general/blog-eig2][ici]].
+* Comment tester en local ?
 
-Le site test est visible en ligne [[http://site.eig-forever.org/][ici]].
+Vous devez avoir installé =jekyll= et =bundle= sur votre système :
 
-* Comment ajouter une entrée de blog ?
+: ~$ gem install jekyll bundler
+
+Pour tester l'affichage du site sur http://localhost:4000/
+
+: ~$ git clone https://github.com/entrepreneur-interet-general/site-eig.git
+: ~$ cd site-eig/
+: ~$ bundle install
+: ~$ jekyll serve --config _config_dev.yml --incremental
+
+* Comment ajouter une entrée de blog ?
 
 Ajouter un fichier en markdown =.md= dans le répertoire =_posts=.
 
@@ -35,7 +43,7 @@ suivi d’un contenu rédigé en markdown.
 
 Voici un [[https://openclassrooms.com/courses/redigez-en-markdown][tutoriel]] pour apprendre la syntaxe du markdown.
 
-* Comment ajouter un défi ?
+* Comment ajouter un défi ?
 
 Pour ajouter un défi, vous devez modifier le fichier =defis.html= et
 ajouter un fichier au format markdown =.md= dans le répertoire =_defis=
@@ -65,7 +73,7 @@ avec un en-tête de ce format :
 Les images proposées dans =defis.html= sont de taille =600x500= et celles
 proposées dans chaque défi de taille =800x500=.
 
-* Comment ajouter une personne ?
+* Comment ajouter une personne ?
 
 Pour ajouter une personne, vous devez modifier le fichier
 =communaute.html= et ajouter un fichier au format markdown =.md= dans le

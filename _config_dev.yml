@@ -1,0 +1,33 @@
+# Site settings
+title: Entrepreneur d'intérêt général
+email: entrepreneur-interet-general@data.gouv.fr
+description: > # this means to ignore newlines until "baseurl:"
+  Développeur·euse·s, data scientists, designers, agilistes,
+  passionné·e·s de numérique et d’action publique.
+# The subpath of your site, e.g. /blog/
+# The base hostname & protocol for your site:
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: etalab
+github_username:  entrepreneur-interet-general
+
+plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+paginate: 4
+paginate_path: "blog/page:num"
+
+future: true
+
+collections:
+  defis:
+    output: true
+    permalink: /defis/:year/:title.html
+  communaute:
+    output: true
+    permalink: /communaute/:year/:title.html
+
+# Permalink fallback
+permalink: /blog/:year/:month/:day/:title.html
