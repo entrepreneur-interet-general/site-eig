@@ -10,7 +10,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:description" content="Défi EIG - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:image" content="{% for image in page.images %}{{ image }}{% endfor %}" />
-  
+
   <link rel="stylesheet" href="{{ "/css/foundation.css" | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/jquery-ui.css" | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.url }}">

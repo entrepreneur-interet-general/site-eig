@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: Archifiltre
+title: Archifiltre
 site: https://archifiltre.com
 annees: 2018
 description: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"

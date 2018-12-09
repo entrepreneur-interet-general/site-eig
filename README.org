@@ -51,7 +51,7 @@ avec un en-tête de ce format :
 
 : ---
 : layout: defi
-: titre: B@liseNAV
+: title: B@liseNAV
 : site: /defis/2018/balisenav.html
 : annees: 2018
 : description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
@@ -67,7 +67,7 @@ avec un en-tête de ce format :
 :   - nom: Éric Le Guen
 :     site: /communaute/2018/eric-le-guen.html
 : images:
-:   -  /img/defis/5_balisage.png 
+:   -  /img/defis/5_balisage.png
 : ---
 
 Les images proposées dans =defis.html= sont de taille =600x500= et celles
@@ -85,7 +85,7 @@ répertoire =_communaute= avec un en-tête de ce format :
 : nom: Arnaud Ménard
 : website:
 : annees: 2018
-: defis: 
+: defis:
 :   - nom: B@liseNAV
 :     site: /defis/2018/balisenav.html
 : profil: Géomatique

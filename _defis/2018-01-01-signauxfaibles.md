@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: Signaux Faibles
+title: Signaux Faibles
 site: /defis/2018/signauxfaibles.html
 annees: 2018
 description: Détecter les entreprises en difficulté pour mieux les accompagner

@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: Ministère de la culture - Inventaire des orgues
+title: Ministère de la culture - Inventaire des orgues
 site: /defis/2017/mcc-inventaire-des-orgues.html
 annees: 2017
 description: "Révéler le patrimoine des orgues grâce à la collaboration entre institutions, associations et particuliers passionnés"

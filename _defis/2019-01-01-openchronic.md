@@ -1,6 +1,6 @@
 ---
 layout: defi2019
-titre: Open Chronic
+title: Open Chronic
 site: /defis/2019/openchronic.html
 annees: 2019
 description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"

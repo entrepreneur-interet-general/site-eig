@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: PrédiSauvetage
+title: PrédiSauvetage
 site: /defis/2018/donneesauvetagemaritime.html
 annees: 2018
 description: Sauver des vies en mer en prévenant les accidents maritimes grâce aux données

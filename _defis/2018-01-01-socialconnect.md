@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: Social Connect
+title: Social Connect
 site: /defis/2018/socialconnect.html
 annees: 2018
 description: Repérer et mettre en réseau l'innovation sociale dans les territoires

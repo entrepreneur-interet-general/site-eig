@@ -1,6 +1,6 @@
 ---
 layout: defi
-titre: CoachEleves
+title: CoachEleves
 site: /defis/2018/coacheleves.html
 annees: 2018
 description: >-
