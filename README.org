@@ -13,7 +13,7 @@ Pour tester l'affichage du site sur http://localhost:4000/
 : ~$ git clone https://github.com/entrepreneur-interet-general/site-eig.git
 : ~$ cd site-eig/
 : ~$ bundle install
-: ~$ jekyll serve --config _config_dev.yml --incremental
+: ~$ jekyll serve --config _config.yml,_config_dev.yml --incremental
 
 * Comment ajouter une entrée de blog ?
 
