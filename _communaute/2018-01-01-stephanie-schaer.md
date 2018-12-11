@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/signauxfaibles.html
 profil: 
 images:
-  - /img/communaute/6_Photo-SCHAER-stephanie.jpg
+  - /img/communaute/stephanie-schaer.png
 ---
 
 « Ingénieure de formation, j'ai été nommée en avril 2014
