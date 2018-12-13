@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter: 
-github: https://github.com/retdop
+github: retdop
 nom: Gabriel Bastard
 website: https://www.linkedin.com/in/gbastard/
 annees: 2019
