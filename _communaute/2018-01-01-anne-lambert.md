@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/archifiltre.html
 profil: Mentor
 images:
-  - 
+  - /img/communaute/anne-lambert.png
 ---
 
 "J'ai rejoint le secrétariat général des ministères sociaux
