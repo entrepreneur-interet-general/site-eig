@@ -747,6 +747,15 @@
   - webdev
   desc: Martin Gross
 
+- image: img/communaute/miniatures/mathieu-andro.jpg
+  title: Mathieu Andro
+  link_to: /communaute/2019/mathieu-andro.html
+  annee: 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  class: 2019 mentor
+  desc: Mathieu Andro
+  
 - image: img/communaute/miniatures/mathieu-havel.jpg
   title: Mathieu Havel
   link_to: /communaute/2019/mathieu-havel.html
