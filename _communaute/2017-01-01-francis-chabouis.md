@@ -10,7 +10,7 @@ defis:
     site: /defis/2017/mi-cartav-securite-routiere.html
 profil: Développeur
 images:
-  - /img/communaute/FrancisChabouis.jpg
+  - /img/communaute/Francis-Chabouis.png
 ---
 
 "Ingénieur de formation (Centrale Lyon 2006) avec une spécialité en
