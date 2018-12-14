@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 github: 
-nom: Éloi Bluat-Ménard
+nom: Éloi Buat-Ménard
 website:
 annees: 2019
 defis: 
