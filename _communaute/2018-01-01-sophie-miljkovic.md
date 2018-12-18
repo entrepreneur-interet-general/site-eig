@@ -4,13 +4,13 @@ twitter: MiljkovicSophie
 github: milkosofi
 nom: Sophie Miljkovic
 website:
-annees: 2018
+annees: 2018 2019
 defis:
-  - nom: EIG Node
+  - nom: Accompagnement
     site:
 profil:
 images:
-  - /images/@stock/another.jpg
+  - /img/communaute/sophie-milkovitch.png
 ---
 
-Une biographie de Sophie.
+"J'ai commencé par des études littéraires, bifurqué vers des études de russe et finalement choisi la voie de la communication. Spécialisée en communication politique et des institutions publiques, j'ai eu la chance de faire mon stage de fin d'étude au sein du programme EIG."
