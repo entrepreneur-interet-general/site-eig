@@ -1058,14 +1058,15 @@
   - datascientist
   desc: Simon Lebastard
 
-- image: img/communaute/miniatures/Sans-photo.png
+- image: img/communaute/miniatures/sophie-milkovitch.png
   title: Sophie Miljkovic
   link_to: /communaute/2018/sophie-miljkovic.html
-  annee: 2018
+  annee: 2018 2019
   profil: Accompagnement
   defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
   class:
   - 2018
+  - 2019
   desc: Sophie Miljkovic
 
 - image: img/communaute/miniatures/Soufiane-Lamrissi.jpg
