@@ -8,7 +8,7 @@ annees: 2019
 defis: 
   - nom: LexImpact
     site: /defis/2019/leximpact.html
-profil: Developpeur
+profil: Développeur
 images:
   - 
 ---
