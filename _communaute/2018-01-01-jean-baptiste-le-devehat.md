@@ -6,7 +6,7 @@ nom: Jean-Baptiste Le Dévéhat
 website:
 annees: 2018, 2019
 defis: 
-  - nom: Brigade numérique
+  - nom: Brigade numérique /
     site: /defis/2018/brigadenumerique.html
   - nom: EIG Link
     site: /defis/2019/eiglink.html
