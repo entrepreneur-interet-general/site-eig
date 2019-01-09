@@ -4,7 +4,7 @@ nom: Nicolas Berkouk
 website:
 annees: 2019
 defis: 
-  - nom: Adler
+  - nom: ADLER
     site: /defis/2019/adler.html
 profil: Datascientist
 
