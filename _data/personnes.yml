@@ -215,6 +215,18 @@
   - datascientist
   desc: Carine Stolz
 
+- image: img/communaute/miniatures/cedric-malherbe.jpg
+  title: Cédric Malherbe
+  link_to: /communaute/2019/cedric-malherbe.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Cédric Malherbe
+  
 - image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
