@@ -6,7 +6,7 @@ nom: Amaury Fouret
 website:
 annees: 2019
 defis: 
-  - nom: 
+  - nom: Open Justice
     site: /defis/2019/openjustice.html
 profil: 
   - Data scientist
