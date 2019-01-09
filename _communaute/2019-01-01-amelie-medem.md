@@ -5,7 +5,7 @@ annees: 2019
 defis: 
   - nom: Plume
     site: /defis/2019/plume.html
-profil: Datascientist
+profil: Data scientist
 images:
   - /img/communaute/amelie-medem.png
 ---
