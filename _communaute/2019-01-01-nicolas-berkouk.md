@@ -6,7 +6,7 @@ annees: 2019
 defis: 
   - nom: ADLER
     site: /defis/2019/adler.html
-profil: Datascientist
+profil: Data scientist
 
 ---
 
