@@ -52,20 +52,20 @@ types de données devant être pseudonymisées avant leur diffusion. Ils transfo
 
 <br/>
 
-## 3 EIG recherché.e.s
+## Les EIG 
 
-### EIG 1 et EIG 2 - Deux data scientists
+### [Amaury Fouret](/communaute/2019/amaury-fouret.html) et [Valentin Barrière](/communaute/2019/valentin-barriere.html), data scientists
 
 **Missions principales** : choix, entraînement et paramétrage des
 algorithmes (par exemple : tagger, spaCy,…) pour optimiser les
 résultats attendus (reconnaissance d’éléments identifiants, d’éléments
 sémantiques ou de structure).
 
-**Compétences recherchées** : apprentissage automatique (_machine learning_),
+**Compétences** : apprentissage automatique (_machine learning_),
 traitement du langage naturel (_natural language processing_),
 reconnaissance d’entités nommées (_named entity recognition_).
 
-### EIG 3 - Un·e développeur·se full stack
+### [Mathieu Perez](/communaute/2019/mathieu-perez.html), développeur full stack
 
 **Missions principales** : selon l’avancement et les développements du
 projet et les résultats obtenus par les travaux des EIG 1 et 2,
@@ -75,11 +75,8 @@ interface de contrôle de la pseudonymisation, interface de recherche
 dans les bases de données de jurisprudence pouvant être intégrée au
 site internet de la Cour de cassation…
 
-**Compétences recherchées** : front end, back end, admin sys, une
+**Compétences** : front end, back end, admin sys, une
 connaissance d’Elastic Search est souhaitée.
-
-_L’environnement de travail des EIG : ordinateurs ultra-portables ;
-accès aux serveurs mis à disposition par le ministère de la Justice._
 
 _Lieu de travail : 75006 métro Odéon / Cluny-La Sorbonne._
 
