@@ -80,20 +80,20 @@ explorés.
 
 ## Les EIG 
 
-### [Coline Lebaratoux, designer UX / designer de services](/communaute/2019/coline-lebaratoux.html)
+### [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), designer UX / designer de services
 
 **Missions principales** : recherche utilisateur, analyse des besoins internes et des besoins
 des partenaires, conception de service, test et itérations, animation d'ateliers.
 
-**Compétences nécessaires** : design de services avec une forte
+**Compétences** : design de services avec une forte
 sensibilité usage et expérience utilisateur. Une sensibilité pour le design d'interface utilisateur UI serait un plus.
 
-### [Anoureth Pongrattana, développeur web / web services](/communaute/2019/anoureth-pongrattana.html)
+### [Anoureth Pongrattana](/communaute/2019/anoureth-pongrattana.html), développeur web / web services
 
 **Missions principales** : gestion des données, développement et mise
 en production des nouveaux services.
 
-**Compétences nécessaires** : développement full stack, Oauth2. 
+**Compétences** : développement full stack, Oauth2. 
 
 Les entrepreneurs recrutés auront toute latitude pour analyser les
 données, identifier des utilisations nouvelles. Dans un esprit
