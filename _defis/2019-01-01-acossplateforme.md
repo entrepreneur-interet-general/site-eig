@@ -78,9 +78,9 @@ explorés.
 
 <br/>
 
-## Les EIG recherché.e.s
+## Les EIG 
 
-### EIG 1 – Un·e designer·euse UX / design de services
+### [Coline Lebaratoux, designer UX / designer de services](/communaute/2019/coline-lebaratoux.html)
 
 **Missions principales** : recherche utilisateur, analyse des besoins internes et des besoins
 des partenaires, conception de service, test et itérations, animation d'ateliers.
@@ -88,7 +88,7 @@ des partenaires, conception de service, test et itérations, animation d'atelier
 **Compétences nécessaires** : design de services avec une forte
 sensibilité usage et expérience utilisateur. Une sensibilité pour le design d'interface utilisateur UI serait un plus.
 
-### EIG 2 – Un·e développeur·se web / web services
+### [Anoureth Pongrattana, développeur web / web services](/communaute/2019/anoureth-pongrattana.html)
 
 **Missions principales** : gestion des données, développement et mise
 en production des nouveaux services.
