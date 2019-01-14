@@ -58,22 +58,19 @@ A partir des données exhaustives du SNDS sur un an et en profondeur sur un éch
 
 <br/>
 
-## Les EIG recherché•e•s 
+## Les EIG 
 
-### EIG 1 - Un·e data engineer
+### [Pierre-Alain Jachiet](/communaute/2019/pierre-alain-jachiet.html), data engineer
 
 **Missions principales** : Optimmiser l'exploitation du serveur, produire des scripts d'industrialisation et la documentation des procédures d'extraction des parcours de soins anonymisés pour générer Open Chronic.
 
-**Compétences nécessaires** : maîtrise des librairies adaptées à l'exploitation de données volumineuses (plusieurs To), administration système. Des compétences en machine learning seraient un plus (GLM, Recurrent Neural Network, random forests).
+**Compétences** : maîtrise des librairies adaptées à l'exploitation de données volumineuses (plusieurs To), administration système, compétences en machine learning (GLM, Recurrent Neural Network, random forests).
 
-### EIG 2 – Un·e expert·e en data anonymisation
+### [Viktor Jarry](/communaute/2019/viktor-jarry.html), data scientist
 
 **Missions principales** : mise en place d'un algorithme d'anonymisation, mesure du risque de ré-identification et calibrage de la base Open Chronic en consééquence.
 
-**Compétences nécessaires** : algorithmique et en particulier algorithmique d’anonymisation, maîtrise des méthodes état de l'art -k-anonymisation, l-diversité, confidentialité différentielle.
-Des compétences en machine learning seraient un plus (GLM, Recurrent Neural Network, random forests).
-
-_L’environnement de travail des EIG : serveur centOS, 2To de RAM, GPU Tesla K80, R/Python/TensorFlow_
+**Compétences** : algorithmique et en particulier algorithmique d’anonymisation, maîtrise des méthodes état de l'art -k-anonymisation, l-diversité, confidentialité différentielle, compétences en machine learning (GLM, Recurrent Neural Network, random forests).
 
 _Lieu de travail : 75014 métro Pasteur/Gaité/Montparnasse._
 
