@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter: 
-github: https://github.com/victorjourne
+github: victorjourne
 nom: Victor Journé
 website: https://www.linkedin.com/in/victorjourne/
 annees: 2019
