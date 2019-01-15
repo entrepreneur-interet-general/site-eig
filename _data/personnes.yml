@@ -285,6 +285,18 @@
   - datascientist
   desc: Constance de Quatrebarbes
 
+- image: img/communaute/miniatures/cristian-perez.jpg
+  title: Cristian Perez Brokate
+  link_to: /communaute/2019/cristian-perez.html
+  annee: 2019
+  profil: Data scientist
+  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
+  class:
+  - 2019
+  - eig
+  - datascientist
+  desc: Cristian Perez
+  
 - image: img/communaute/miniatures/Daniel-Ansellem-2.png
   title: Daniel Ansellem
   link_to: /communaute/2018/daniel-ansellem.html
@@ -1186,18 +1198,6 @@
   - datascientist
   desc: Victor Journé
 
-- image: img/communaute/miniatures/cristian-perez.jpg
-  title: Cristian Perez
-  link_to: /communaute/2019/cristian-perez.html
-  annee: 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
-  class:
-  - 2019
-  - eig
-  - datascientist
-  desc: Cristian Perez
-  
 - image: img/communaute/miniatures/victor-schmidt.jpg
   title: Victor Schmidt
   link_to: /communaute/2018/victor-schmidt.html

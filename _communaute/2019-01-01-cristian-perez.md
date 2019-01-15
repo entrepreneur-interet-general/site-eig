@@ -14,12 +14,13 @@ images:
 ---
 
 "Diplomé d'un doctorat en chimie physique à l'UPMC, j'ai fait de la
-programmation en parallele en utilisant des GPU sur le langage CUDA et aussi
-mes premiers pas en analyse des données.  Puis j'ai travaillé comme Data
-Scientist à l'agence Kernix, où j'ai developpé de produits au tour de la data
-en utilisant des technologies de machile learning et deep learning pour des
-clients sur des secteurs varies.  Pendant mon temps libre je participe à
-l'association City AI pour mettre en contact des acteurs de l'AI et je
-participe aussi à l'association GlobalSWAI.co comme expert techinque.
-Maintenant Entrepreneur d'intérêt generale, je suis bien motivé pour fiabiliser
-les contraventions à partir de la reconnaissance d'image!"
+programmation en parallèle en utilisant des GPU sur le langage CUDA et j’ai
+fait mes premiers pas en analyse des données. Ensuite j'ai travaillé en tant
+que Data Scientist à l'agence Kernix, où j'ai développé de produits autour de
+la data en utilisant du machine learning et du deep learning pour des
+différents clients sur des secteurs variés. Dans mon temps libre je fais partie
+l'association City AI qui fédère une communauté internationale autour de l'IA
+et je suis bénévole également pour le Global Startup Weekend AI, un hackathon
+qui souhaite soutenir des startups IA autour du monde. Maintenant Entrepreneur
+d'intérêt générale, je fais partie du challenge Flash AI et je suis bien motivé
+pour fiabiliser les contraventions à partir de la reconnaissance d'image !"
