@@ -65,19 +65,19 @@ En parallèle, un ensemble de cas types décrivant des situations de personnes e
 
 <br/>
 
-## Les EIG recherché.e.s
+## Les EIG 
 
-### EIG 1 - Un·e designeur·se / Lean UX avec un goût prononcé pour le code
+### [Dorine Lambinet](), designeur / lean UX avec un goût prononcé pour le code
 
 **Missions principales** : prototyper l’outil, mener des tests utilisateurs, améliorer constamment l'expérience utilisateur, assurer la médiation avec la société civile et les partenaires du défi (Assemblée nationale, Cour des comptes, Sénat et d'éventuels nouveaux partenaires).
 
-**Compétences nécessaires** : design UX, gestion de projet, communication. Une connaissance de la fiscalité sera un plus.
+**Compétences** : design UX, gestion de projet, communication. 
 
-### EIG 2 - Un·e développeur·se Python/JavaScript avec un goût prononcé pour les données
+### [Augustin Wenger](/communaute/2019/augustin-wenger.html),développeur Python/JavaScript avec un goût prononcé pour les données
 
 **Missions principales** : développer l'outil (interface utilisateur, backend...), déployer l'outil, compiler/éditorialiser/mettre à disposition des cas types, faire évoluer l'API Réforme d'OpenFisca-Core.
 
-**Compétences nécessaires** : Python, JavaScript. Une connaissance de la fiscalité sera un plus.
+**Compétences** : Python, JavaScript. 
 
 <br/>
 

@@ -871,6 +871,18 @@
   class: 2019 mentor
   desc: Nicolas Bizet
 
+- image: img/communaute/miniatures/nikos-peteinatos.jpg
+  title: Nikos Peteinatos
+  link_to: /communaute/2019/nikos-peteinatos.html
+  annee: 2019
+  profil: Designer
+  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  class:
+  - 2019
+  - eig
+  - designer
+  desc: Nikos Peteinatos
+
 - image: img/communaute/miniatures/olivier-brandouy.jpg
   title: Olivier Brandouy
   link_to: /communaute/2019/olivier-brandouy.html

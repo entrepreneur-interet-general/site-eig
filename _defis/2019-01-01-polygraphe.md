@@ -75,9 +75,9 @@ arrivée._
 
 <br/>
 
-## Les EIG recherché.e.s
+## Les EIG
 
-### EIG 1 - Un·e data scientist
+### [Gabriel Bastard](/communaute/2019/gabriel-bastard.html), data scientist
 
 **Missions principales** : définition de métriques à partir des
 indicateurs de suspicion, élaboration d’algorithmes pour l’agrégation
@@ -86,10 +86,10 @@ l’apprentissage supervisé dans un second temps si cela s’avère
 pertinent, text mining pour l’analyse du texte des
 commentaires. 
 
-**Compétences nécessaires** : text mining, techniques d'apprentissage, 
+**Compétences** : text mining, techniques d'apprentissage, 
 maîtrise de Python et R.
 
-### EIG2 - Un·e développeur·se
+### [Luc Salommez](/communaute/2019/luc-salommez.html), développeur
 
 **Missions principales** : développement d’une application pour
 l’extraction et l’exploration des données web (en partenariat étroit
