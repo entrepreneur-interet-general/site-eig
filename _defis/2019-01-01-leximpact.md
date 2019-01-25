@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: LexImpact
 site: /defis/2019/leximpact.html
 annees: 2019

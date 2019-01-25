@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: Open Justice
 site: /defis/2019/openjustice.html
 annees: 2019

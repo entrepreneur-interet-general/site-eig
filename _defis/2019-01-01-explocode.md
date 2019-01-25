@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: ExploCode
 site: /defis/2019/explocode.html
 annees: 2019

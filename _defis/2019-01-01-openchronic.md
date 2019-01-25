@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: Open Chronic
 site: /defis/2019/openchronic.html
 annees: 2019

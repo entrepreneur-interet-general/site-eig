@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: ACOSS-plateforme
 site: /defis/2019/acossplateforme.html
 annees: 2019

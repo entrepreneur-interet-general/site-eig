@@ -1,5 +1,5 @@
 ---
-layout: defi2019
+layout: defi
 title: PolyGraphe
 site: /defis/2019/polygraphe.html
 annees: 2019
