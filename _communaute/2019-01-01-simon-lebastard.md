@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter: 
-github: https://github.com/slebastard
+github: slebastard
 nom: Simon Lebastard 
 website: https://www.linkedin.com/in/simon-lebastard/
 annees: 2019

@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: https://gitlab.com/kimi_mtb
+github:
+gitlab: kimi_mtb
 nom: Kim Montalibet
 website: https://www.linkedin.com/in/kim-montalibet-1a01a265
 annees: 2019

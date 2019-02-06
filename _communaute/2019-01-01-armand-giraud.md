@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter: 
-github: https://github.com/ArmandGiraud
+github: ArmandGiraud
 nom: Armand Giraud
 website: https://www.linkedin.com/in/armandgiraud/
 annees: 2019
