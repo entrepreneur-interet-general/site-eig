@@ -1,3 +1,0 @@
-## Règlement
-
-[À compléter]
