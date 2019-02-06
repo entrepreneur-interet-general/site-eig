@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: slebastard
 nom: Simon Lebastard 
-website: https://www.linkedin.com/in/simon-lebastard/
+linkedin: https://www.linkedin.com/in/simon-lebastard/
 annees: 2019
 defis: 
   - nom: ADLER

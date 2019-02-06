@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Carine Stolz
-website: https://www.linkedin.com/in/carinestolz/
+linkedin: https://www.linkedin.com/in/carinestolz/
 annees: 2019
 defis: 
   - nom: DataReg

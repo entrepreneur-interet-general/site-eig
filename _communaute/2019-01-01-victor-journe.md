@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: victorjourne
 nom: Victor Journé
-website: https://www.linkedin.com/in/victorjourne/
+linkedin: https://www.linkedin.com/in/victorjourne/
 annees: 2019
 defis:
   - nom: IA Flash

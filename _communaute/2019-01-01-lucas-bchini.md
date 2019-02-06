@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Lucas Bchini
-website: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
+linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
 annees: 2019
 defis: 
   - nom: CartoBio

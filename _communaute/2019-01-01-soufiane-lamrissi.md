@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Soufiane Lamrissi
-website: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
+linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
 annees: 2019
 defis: 
   - nom: Karfu'R

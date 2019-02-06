@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Sandra Chakroun
-website: https://www.linkedin.com/in/sandra-chakroun/
+linkedin: https://www.linkedin.com/in/sandra-chakroun/
 annees: 2019
 defis: 
   - nom: LexImpact

@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: retdop
 nom: Gabriel Bastard
-website: https://www.linkedin.com/in/gbastard/
+linkedin: https://www.linkedin.com/in/gbastard/
 annees: 2019
 defis: 
   - nom: PolyGraphe

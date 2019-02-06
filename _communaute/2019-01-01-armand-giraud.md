@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: ArmandGiraud
 nom: Armand Giraud
-website: https://www.linkedin.com/in/armandgiraud/
+linkedin: https://www.linkedin.com/in/armandgiraud/
 annees: 2019
 defis: 
   - nom: ExploCode

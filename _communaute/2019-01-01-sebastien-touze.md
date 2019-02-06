@@ -3,7 +3,7 @@ layout: personne
 twitter: 
 github: 
 nom: Sébastien Touzé
-website: https://www.linkedin.com/in/sebastientouze
+linkedin: https://www.linkedin.com/in/sebastientouze
 annees: 2019
 defis: 
   - nom: CibNAV
