@@ -3,7 +3,7 @@ layout: personne
 twitter: AntoineAugusti
 github: AntoineAugusti
 linkedin: https://www.linkedin.com/in/antoineaugusti/
-nom: Antoine Augusti
+nom: Antoine Augusti Test
 website: https://www.antoine-augusti.fr
 annees: 2018
 defis: 
