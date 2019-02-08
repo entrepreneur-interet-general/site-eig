@@ -4,7 +4,7 @@
 
 « Nous » se réfère à l'éditeur du site, la mission Etalab.
 
-« Vous » se réfère à l’utilisateur du site.
+« Vous » se réfère à toi, l’utilisateur du site.
 
 ### Présentation
 
