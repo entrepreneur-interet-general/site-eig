@@ -1,2 +1,32 @@
 http://entrepreneur-interet-general.netlify.com/* http://entrepreneur-interet-general.etalab.gouv.fr/:splat 301!
 https://entrepreneur-interet-general.netlify.com/* https://entrepreneur-interet-general.etalab.gouv.fr/:splat 301!
+
+/blog.html /blog/ 301!
+/defi/2017/09/26/archemse/ /defis/2018/archemse.html 301!
+/defi/2017/09/26/brigadenumerique/ /defis/2018/brigadenumerique.html 301!
+/defi/2017/09/26/balisenav/ /defis/2018/balisenav.html 301!
+/defi/2017/09/26/coacheleves/ /defis/2018/coacheleves.html 301!
+/defi/2017/09/26/dataesr/ /defis/2018/dataesr.html 301!
+/defi/2017/09/26/donneesauvetagemaritime/ /defis/2018/donneesauvetagemaritime.html 301!
+/defi/2017/09/26/eiglink/ /defis/2018/eiglink.html 301!
+/defi/2017/09/26/gobelins/ /defis/2018/gobelins.html 301!
+/defi/2017/09/26/hopkins/ /defis/2018/hopkins.html 301!
+/defi/2017/09/26/labsante/ /defis/2018/labsante.html 301!
+/defi/2017/09/26/previsecours/ /defis/2018/previsecours.html 301!
+/defi/2017/09/26/signauxfaibles/ /defis/2018/signauxfaibles.html 301!
+/defi/2017/09/26/socialconnect/ /defis/2018/socialconnect.html 301!
+
+/posts/2018/03/16/programme-eig-point-de-vue-technique/ /blog/2018/03/16/programme-eig-point-de-vue-technique.html 301!
+/posts/2018/04/04/construire-une-feuille-de-route-partagee/ /blog/2018/04/04/construire-une-feuille-de-route-partagee.html 301!
+/posts/2018/04/12/atelier-product-research/ /blog/2018/04/12/atelier-product-research.html 301!
+/posts/2018/04/16/atelier-ouverture-logiciel-libre/ /blog/2018/04/16/atelier-ouverture-logiciel-libre.html 301!
+/posts/2018/04/25/atelier-product-design/ /blog/2018/04/25/atelier-product-design.html 301!
+/posts/2018/05/23/6-facteurs-de-reussite-defi-eig/ /blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html 301!
+/posts/2018/05/24/atelier-construction-plan-actions-avec-les-dsi/ /blog/2018/05/24/atelier-construction-plan-actions-avec-les-dsi.html 301!
+/posts/2018/05/29/pourquoi-devenir-EIG/ /blog/2018/05/29/pourquoi-devenir-EIG.html 301!
+/posts/2018/06/11/travailler-avec-des-donnees-d-exception/ /blog/2018/06/11/travailler-avec-des-donnees-d-exception.html 301!
+/posts/2018/07/23/Memo-anglais/ /blog/2018/07/23/Memo-anglais.html 301!
+/posts/2018/07/24/Iteration-feuilles-de-route-et-accompagnement/ /blog/2018/07/24/Iteration-feuilles-de-route-et-accompagnement.html 301!
+/posts/2018/07/27/retour-experience-mentors-promotion-2/ /blog/2018/07/27/retour-experience-mentors-promotion-2.html 301!
+
+/assets/Public-Interest-Entrepreneurs-EN-memo.pdf /docs/Public-Interest-Entrepreneurs-EN-memo.pdf 301
