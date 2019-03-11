@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
 author: Soizic Pénicaud, équipe EIG
