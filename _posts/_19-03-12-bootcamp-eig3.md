@@ -6,10 +6,10 @@ twitter: soizicpenicaud
 description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée par l'équipe de coordination du programme à Etalab. Un des objectifs : leur faire découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi vous menez un projet numérique autour des données au sein de l’État ? Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
 ---
 
-Cela fait 3 ans que le programme existe. 3 ans qu’il mène des projets numériques autour des données dans le but de mieux outiller les administrations et de rendre un meilleur service aux citoyens. 3 ans qui nous ont permis de créer une communauté d’experts autour d’EIG et de consolider une méthode de gestion de projet numérique au sein de l’Etat. 
+**Cela fait 3 ans que le programme existe. 3 ans qu’il mène des projets numériques autour des données dans le but de mieux outiller les administrations et de rendre un meilleur service aux citoyens. 3 ans qui nous ont permis de créer une communauté d’experts autour d’EIG et de consolider une méthode de gestion de projet numérique au sein de l’Etat**. 
 En effet, les défis font souvent face à des problématiques similaires qui découlent des valeurs que défend le programme : la collaboration entre experts métiers de l’administration et experts du numérique extérieurs, développement d’outils réutilisables par d’autres administrations, avec une logique _open source_, la pérennisation des outils en interne des administrations….
 
-Voici les difficultés que nous avons rencontrées pendant les précédentes promotions et les ressources que nous avons mobilisées pour les surmonter. 
+**Voici les difficultés que nous avons rencontrées pendant les précédentes promotions et les ressources que nous avons mobilisées pour les surmonter**. 
 
 ## 1. Accéder à des données…et les ouvrir
 
