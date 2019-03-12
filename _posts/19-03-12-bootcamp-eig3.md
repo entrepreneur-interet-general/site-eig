@@ -7,9 +7,9 @@ description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de
 
 Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
 ---
-## Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? 
+### Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? 
 
-### Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général
+Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général
 
 ![Les EIG de la promotion 3 sont rassemblés dans un grand espace. Certains sont assis sur des chaises, d'autres sont debout.](/img/blog/photo-blogpost-bootcamp-eig3.jpg)
 _Les EIG travaillent avec leurs mentors et des membres de betagouv au [BercyLab](https://www.economie.gouv.fr/bercy-innove/85364/)._
