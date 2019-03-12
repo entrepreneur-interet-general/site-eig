@@ -1,10 +1,18 @@
 ---
 layout: post
-title: Quelles sont les ressources à disposition des entrepreneurs d'intérêt général (EIG) ? - Retour sur la semaine d'intégration de la promotion 3 des EIG
+title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs d'intérêt général
 author: Sophie Miljkovic, équipe EIG
 twitter: 
-description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée par l'équipe de coordination du programme à Etalab. Un des objectifs : leur faire découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un projet numérique autour des données au sein de l’État ? Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
+description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée par l'équipe de coordination du programme à Etalab. Un des objectifs : leur faire découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un projet numérique autour des données au sein de l’État ? 
+
+Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
 ---
+## Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? 
+
+### Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général
+
+![Les EIG de la promotion 3 sont rassemblés dans un grand espace. Certains sont assis sur des chaises, d'autres sont debout.](/img/blog/photo-blogpost-bootcamp-eig3.jpg)
+_La promotion 3 des EIG au [BercyLab](https://www.economie.gouv.fr/bercy-innove/85364/) lors de la dernière journée du bootcamp._
 
 **Cela fait 3 ans que le programme existe. 3 ans qu’il mène des projets numériques en lien avec les données dans le but de mieux outiller les administrations et de mieux servir les citoyens. 3 ans qui nous ont permis de créer une communauté d’experts autour d’EIG et de consolider une méthode de gestion de projets numériques au sein de l’Etat**. 
 En effet, les défis font souvent face à des problématiques similaires en lien avec les valeurs que défend le programme : la collaboration entre experts métiers de l’administration et experts du numérique extérieurs, développement d’outils réutilisables par d’autres administrations, avec une logique _open source_, la pérennisation des outils en interne des administrations….
