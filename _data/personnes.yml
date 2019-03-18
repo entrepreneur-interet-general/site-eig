@@ -515,6 +515,16 @@
   - datascientist
   desc: Gabriel Bastard
 
+- image: img/communaute/miniatures/Guenole-Carre-miniature.jpg
+  title: Guénolé Carré
+  link_to: /communaute/2019/guenole-carre.html
+  annee: 2019
+  profil: Accompagnement
+  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
+  class:
+  - 2019
+  desc: Guénolé Carré
+
 - image: img/communaute/miniatures/Guillaume-Lancrenon.png
   title: Guillaume Lancrenon
   link_to: /communaute/2018/guillaume-lancrenon.html
