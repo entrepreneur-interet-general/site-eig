@@ -91,4 +91,4 @@ L’équipe de coordination du programme au sein d’Etalab prend très à cœur
 
 **Si vous portez un projet numérique en lien avec les données, nous espérons vous avoir donné un panorama des ressources qui sont à votre disposition pour le faire aboutir dans les meilleures conditions.** Fidèles à nos valeurs d’innovation ouverte et d’apprentissage, nous espérons que ce partage d’expérience aura su vous inspirer, quel que soit votre état d’avancement. 
 
-**Si vous avez quelconque question, contactez nous : [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)**.
+**Si vous avez une quelconque question, contactez-nous : [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)**.
