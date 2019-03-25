@@ -8,10 +8,6 @@
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
-  - name: "Mini-guide pour la réussite d'un défi EIG"
-    path: docs/mini-guide-reussite-eig.pdf
-  - name: "Mini-guide pour l'ouverture du code source"
-    path: docs/mini-guide-logiciel-libre.pdf
 
 - name: Les projets
   children:
