@@ -1,0 +1,6 @@
+[build]
+  command = 'bundle install && bundle exec jekyll build'
+
+# Override the build command to include the Preview URL
+[context.deploy-preview]
+  command = 'echo "url: $DEPLOY_PRIME_URL" >_config_url.yml; bundle install && bundle exec jekyll build --config _config.yml,_config_url.yml'
