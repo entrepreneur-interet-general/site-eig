@@ -37,7 +37,7 @@ Pourtant, **mieux légiférer c’est aussi mieux connaître l'impact des réfor
 
 ### Le défi : Développer un outil accessible aux parlementaires, aux agents publics et à la société civile, permettant de connaître l'impact des réformes sur les citoyen·ne·s
 
-[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale, et qui permet de simuler l'impact des réformes sur les situations des invidivus et des ménages.
+[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale, et qui permet de simuler l'impact des réformes sur les situations des individus et des ménages.
 
 Il est en particulier utilisé par [Etalab](https://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[Institut des Politiques Publiques](https://www.ipp.eu), la [Mutualité sociale agricole](http://www.msa.fr) et l'[L'Institut d'Économie Publique](https://www.idep-fr.org).
 
