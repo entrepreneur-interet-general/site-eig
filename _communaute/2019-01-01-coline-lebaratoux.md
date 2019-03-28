@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: colinelbx
 github: 
+linkedin : http://linkedin.com/in/coline-lebaratoux
 nom: Coline Lebaratoux
 website:
 annees: 2019
