@@ -40,4 +40,6 @@ _Pour aller plus loin_
 * Le [github](https://github.com/entrepreneur-interet-general/api-ccomptes) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9pl4?playlist=x54m4i)
 
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)
+[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)
+
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmdzt" allowfullscreen allow="autoplay"></iframe>
