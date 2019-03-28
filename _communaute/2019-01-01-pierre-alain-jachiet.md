@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: pa_jachiet
+github: pajachiet
+linkedin: https://www.linkedin.com/in/pierrealainjachiet/
 nom: Pierre-Alain Jachiet
 website:
 annees: 2019
