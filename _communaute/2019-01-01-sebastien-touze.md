@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter: sebtouze
-github: sebtouze
+github: SebastienTouze
 nom: Sébastien Touzé
 linkedin: https://www.linkedin.com/in/sebastientouze
 annees: 2019
