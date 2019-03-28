@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: LucSalommez
 github: 
+linkedin: www.linkedin.com/in/luc-salommez-6bb89baa
 nom: Luc Salommez
 website:
 annees: 2019
