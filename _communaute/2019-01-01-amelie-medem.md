@@ -1,5 +1,8 @@
 ---
 layout: personne
+linkedin: www.linkedin.com/in/amelie-medem
+github: letnotimitateothers
+twitter: 
 nom: Amélie Medem
 annees: 2019
 defis: 
