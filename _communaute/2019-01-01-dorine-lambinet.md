@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github:
+linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
 nom: Dorine Lambinet
 website:
 annees: 2019
