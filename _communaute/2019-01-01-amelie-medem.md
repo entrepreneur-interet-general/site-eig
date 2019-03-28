@@ -1,6 +1,6 @@
 ---
 layout: personne
-linkedin: www.linkedin.com/in/amelie-medem
+linkedin: https://www.linkedin.com/in/amelie-medem
 github: letnotimitateothers
 twitter: 
 nom: Amélie Medem
