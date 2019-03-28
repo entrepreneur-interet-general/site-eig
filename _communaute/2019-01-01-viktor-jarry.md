@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: 
+github: vjarry
+linkedin: https://www.linkedin.com/in/viktor-jarry-b2998690/
 nom: Viktor Jarry
 website:
 annees: 2019
