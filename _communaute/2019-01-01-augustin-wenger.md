@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: https://www.linkedin.com/in/augustin-wenger-11530189/
 nom: Augustin Wenger
 website:
 annees: 2019
