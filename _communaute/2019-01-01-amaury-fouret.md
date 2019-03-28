@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: mopodono
+github: mauryaland
+linkedin: https://fr.linkedin.com/in/amaury-fouret-283422125
 nom: Amaury Fouret
 website:
 annees: 2019
