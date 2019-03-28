@@ -39,4 +39,7 @@ _Pour aller plus loin_
 * Le [site](https://data.afd.fr/urban.html) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mca?playlist=x54m4i)
 
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39y)_
+Interview d'Antoine David sur son parcours et sur le défi AFD - Geodata : 
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmebk" allowfullscreen allow="autoplay"></iframe>
+
+[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39y)_
