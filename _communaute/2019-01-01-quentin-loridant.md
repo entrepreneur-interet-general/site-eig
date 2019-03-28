@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 nom: Quentin Loridant
 website:
 annees: 2019
