@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: MthPrz
 github: 
+linkedin : https://www.linkedin.com/in/mathieujperez/
 nom: Mathieu Perez
 website:
 annees: 2019
