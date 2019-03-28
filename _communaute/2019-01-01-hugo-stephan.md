@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: HugoStephan
 github:
+linkedin: https://www.linkedin.com/in/hugo-stephan/
 nom: Hugo Stephan
 website:
 annees: 2019
