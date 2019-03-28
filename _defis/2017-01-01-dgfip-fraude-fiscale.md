@@ -38,4 +38,7 @@ _Pour aller plus loin_
 
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b964b?playlist=x54m4i)
 
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39u)_
+Interview de Marion sur son parcours et son défi au sein de la DGFIP : 
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qme9l" allowfullscreen allow="autoplay"></iframe>
+
+_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39u)
