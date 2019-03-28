@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: lucasbchini
+github: Hold7
 nom: Lucas Bchini
 linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
 annees: 2019
