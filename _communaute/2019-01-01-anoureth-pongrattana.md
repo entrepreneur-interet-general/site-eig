@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: barbenoash
+github: BarbeNoash
+linkedin: https://fr.linkedin.com/in/anoureth-pongrattana-3946b2a5
 nom: Anoureth Pongrattana
 website:
 annees: 2019
