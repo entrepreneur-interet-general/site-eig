@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: https://www.linkedin.com/in/erica-marco-9abb0697
 nom: Erica Marco
 website:
 annees: 2019
