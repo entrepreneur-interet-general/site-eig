@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github:
+github: mhavel
+linkedin : https://www.linkedin.com/in/mathieu-havel/
 nom: Mathieu Havel
 website:
 annees: 2019
