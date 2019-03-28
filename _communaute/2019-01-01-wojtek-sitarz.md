@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: 
+github: wojteksitarz
+linkedin: https://www.linkedin.com/in/wojtek-sitarz/
 nom: Wojtek Sitarz
 website:
 annees: 2019
