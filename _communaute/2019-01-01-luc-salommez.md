@@ -2,7 +2,7 @@
 layout: personne
 twitter: LucSalommez
 github: 
-linkedin: www.linkedin.com/in/luc-salommez-6bb89baa
+linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa
 nom: Luc Salommez
 website:
 annees: 2019
