@@ -13,7 +13,7 @@ eigs:
 mentors: 
   - nom: Antoine Chèvre
 images:
-github : https://github.com/entrepreneur-interet-general/AFD_projects
+github : entrepreneur-interet-general/AFD_projects
 ---
 
 Quand l’Agence Française de Développement (AFD) cherche à construire
