@@ -18,6 +18,7 @@ mentors:
   - nom: Yann Caradec
     site: /communaute/2018/yann-caradec.html
 images:
+github : entrepreneur-interet-general/Merge-Machine
 ---
 
 De nombreuses bases de données sont construites à la main, et les
