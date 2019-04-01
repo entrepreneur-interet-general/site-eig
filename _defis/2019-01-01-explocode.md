@@ -80,7 +80,7 @@ Julien Bouquillon est responsable technique de l'incubateur des ministères soci
 
 Passionné par les nouveaux enjeux liés au numérique et les défis qu'ils posent à l'administration, il s'investit particulièrement au sein de la startup "code du travail numérique", un défi qui pourra servir quotidiennement l'intérêt général en permettant aux salariés et employeurs de mieux connaître et mieux faire respecter leurs droits.
 
-_"Le programme Entrepreneur.e d'Intérêt Général représente pour nous la chance de collaborer avec des personnes motivées à même de partager leur expertise et expérience dans le domaine de la data science pour mieux comprendre nos usagers, mieux exploiter nos données, et améliorer en continu le service rendu du code du travail numérique."_
+_"Le programme Entrepreneurs d'Intérêt Général représente pour nous la chance de collaborer avec des personnes motivées à même de partager leur expertise et expérience dans le domaine de la data science pour mieux comprendre nos usagers, mieux exploiter nos données, et améliorer en continu le service rendu du code du travail numérique."_
 
 ### Jean-René Duscher, appui métier
 
