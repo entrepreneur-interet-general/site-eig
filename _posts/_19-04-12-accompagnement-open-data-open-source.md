@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
-author: Soizic Pénicaud, équipe EIG
-twitter: soizicpenicaud
-description: "Du 5 au 9 février derniers, l'équipe du programme Entrepreneur·e d'Intérêt Général a réuni les 28 membres de la promotion 2 lors d'un bootcamp d'intégration. L’objectif : leur donner l’élan et les outils nécessaires pour réussir en 10 mois les 13 défis ambitieux qu’ils ont choisis. Retour sur la conception de cette semaine et ce qui en est ressorti."
+title: Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ? 
+author: Sophie Milkjovic, équipe EIG
+twitter: MiljkovicSophie
+description: "Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première session d’accompagnement collectif autour du thème de l’ouverture des codes source – *open source* -  et des données – *open data*. Voici pourquoi on en parle et ce que cela change quand on mène un projet numérique porté au sein d'une administration."
 ---
 
 Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première [session d’accompagnement collectif](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) autour du thème de l’ouverture des codes source – *open source* -  et des données – *open data*. Cette ouverture est une valeur et une obligation légale que porte le programme et que les administrations d’accueil aussi bien que les EIG s’engagent à respecter. C’est aussi un sujet sur lequel l’équipe de coordination, aidée par [Etalab](https://www.etalab.gouv.fr/), s’engage à les accompagner. 
 
 L’objectif de cette première session d’accompagnement était donc de faire remonter les questions et les demandes d’aide sur l’*open source* et l’*open data*. Ce que cela nous a appris ? **Mettre l’ouverture au cœur d’un projet numérique a des impacts non seulement sur la façon dont on travaille, mais aussi sur la façon dont les administrations fonctionnent.**
 
-## Pourquoi parle-t-on de l’*open source/data* maintenant ?
+
+## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant ?
+
 
 La [loi pour une République numérique (7 octobre 2016) a introduit l’*open data* par principe](https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees), soit l’ouverture spontanée des données publiques par la plupart des administrations. Elle dit clairement que les codes sources des logiciels utilisés par un organisme public sont des documents administratifs relevant du régime de l’*open data* et à ce titre, tout citoyen peut demander que lui soit communiqué le code source d’un logiciel commandé par l’administration. *Open data*, *open source*, même combat ! Nous avons donc abordé les deux sujets lors d’une seule et même session. 
 
@@ -18,7 +20,9 @@ Le programme Entrepreneurs d’Intérêt Général porte cette valeur d’ouvert
 
 [Antoine Augusti](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/antoine-augusti.html), EIG Link, a commencé par rappeler le cadre légal qui s’impose aux administrations en termes d’ouverture des codes source et des données. [Voici le rappel en quelques slides](https://speakerdeck.com/eig2018/open-data). 
 
+
 ## Qu’est-ce que ça change de coder *in the open* ?
+
 
 Les EIG se sont ensuite répartis dans plusieurs « cliniques ». Une clinique porte sur une question particulière et est animée par un spécialiste du domaine. Les participants choisissent la clinique en fonction de leurs problèmes du moment qu’ils peuvent ainsi exposer et résoudre. 
 
@@ -26,9 +30,13 @@ Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l�
 
 Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry, référent logiciel libre à Etalab, qui recense les règles à respecter pour coder *in the open*](https://github.com/etalab/ouverture-des-codes-sources-publics) de façon utile et détaille les différents niveaux d’ouverture.
 
+
 ## Quels sont les impacts pour les administrations ? 
 
-Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)». Autrement dit, penser leurs services et leur organisation autour de la circulation des données. Le statut des EIG leur permet également de questionner la façon dont leur service fonctionne et proposer des pistes d’amélioration. En effet, la transformation numérique ne concerne pas seulement les outils utilisés par les métiers, mais touche parfois la conception même des métiers. 
+
+Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)». Autrement dit, penser leurs services et leur organisation autour de la circulation des données. 
+
+https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf
 
 ➢	Ouvrir les données des administrations
 
@@ -41,3 +49,5 @@ Dans d’autres cas, la présence d’EIG au sein d’une administration permet 
 ➢	Favoriser la circulation des données
 
 Pour certains défis, se pose la question de la circulation des données au sein de leur administration. C’est le cas du [défi DataReg](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html), porté par l’Autorité de régulation des communications électroniques et des postes (Arcep). L’Arcep a développé plusieurs outils pour les citoyens, dont [des cartes de la couverture mobile des différents opérateurs en France](https://www.monreseaumobile.fr/). Celles-ci donnent des informations importantes si l’on cherche à identifier l’opérateur le plus sûr dans sa zone géographique. Afin de fiabiliser les données qui y sont mises à disposition, les EIG vont automatiser la collecte des données en interne ainsi que leur mise en forme pour qu’elles soient facilement utilisables, notamment pour des outils mobiles. Ils pourront ensuite améliorer l’intégration de ces données dans les cartes. 
+
+Dans tous les cas, la présence des entrepreneurs d'intérêt général au sein des administrations facilite la mise en œuvre de l'*open data*. Au-delà du respect de la loi, il s'agit pour elles d'envisager leur activité d'une manière nouvelle, d'imaginer de nouveaux outils et de nouveaux services. En effet, la transformation numérique ne concerne pas seulement les outils utilisés par les métiers, mais aussi les métiers eux-mêmes.   
