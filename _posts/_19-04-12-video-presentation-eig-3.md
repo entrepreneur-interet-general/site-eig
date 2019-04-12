@@ -8,3 +8,4 @@ description: "Les entrepreneurs d’intérêt général (EIG) sont data scientis
 
 Dans un précédent article, nous présentions les acteurs de l'écosystème de l'innovation publique que les EIG peuvent mobiliser pour relever leurs défis. Nous vous présentons maintenant les 32 EIG qui vont relever les 15 défis de la promotion 3. 
 
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x75h2pz" allowfullscreen allow="autoplay"></iframe>
