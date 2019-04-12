@@ -20,6 +20,8 @@ Le programme Entrepreneurs d’Intérêt Général porte cette valeur d’ouvert
 
 [Antoine Augusti](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/antoine-augusti.html), EIG Link, a commencé par rappeler le cadre légal qui s’impose aux administrations en termes d’ouverture des codes source et des données. [Voici le rappel en quelques slides](https://speakerdeck.com/eig2018/open-data). 
 
+![Un grand rectangle bleu sur lequel se détache le titre en blanc : "présentation open source / open data](/img/blog/presentation-open-antoine-augusti.png)
+_Première slide de la présentation d'Antoine Augusti, à retrouver en intégralité sur le [speakerdeck du programme](https://speakerdeck.com/eig2018/)_
 
 ## Qu’est-ce que ça change de coder *in the open* ?
 
@@ -36,7 +38,8 @@ Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry,
 
 Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)». Autrement dit, penser leurs services et leur organisation autour de la circulation des données. 
 
-https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf
+![Un grand rectangle blance sur lequel se détachent trois carrés bleus. L'un, plus gros, plus clair et central, comporte le titre en blanc : "la donnée comme infrastructure essentielle". Un autre, en haut à gauche, plus foncé, comporte la mention "administrateur général des données. Le troisième, en bas à droite, plus foncé aussi, comporte la mention "rapport au premier ministre sur la donnée dans les administrations 2016-2017.](/img/blog/rapport-agd.png)
+_Couverture du rapport de l'Administrateur général des données, que l'on peut [lire en ligne](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)_
 
 ➢	Ouvrir les données des administrations
 
@@ -46,8 +49,14 @@ Pour certaines administrations, la présence d’EIG permet de s’approprier l�
 
 Dans d’autres cas, la présence d’EIG au sein d’une administration permet de rapidement poser – et [répondre à – des questions sur les licences]((https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html). Le [défi Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html) de la DREES a pour objectif d’exploiter le système national des données de santé (SNDS). Cette base de données fait l’objet d’un [projet collaboratif de documentation](https://github.com/indsante/Documentation-SNDS) auquel participe la DREES. C’est un EIG d’Open Chonic qui [a remarqué que la licence du dépôt n’était pas homologuée](https://github.com/indsante/Documentation-SNDS/issues/3). C’est encore lui qui a pris contact avec Etalab pour trouver la licence la plus adaptée. Enfin, c’est lui qui s’occupe du suivi de la question au sein de la DREES. 
 
+![Une page d'accueil de site qui titre "Documentation du SNDS" et propose d'aller au contenu. En dessous, elle présente trois rubrique : "partage de documents", "documentation collaborative" et "approfondissement"](/img/blog/documentation-snds.png)
+_Page d'accueil du projet collaboratif pour documenter et faciliter l'utilisation du SNDS_
+
 ➢	Favoriser la circulation des données
 
 Pour certains défis, se pose la question de la circulation des données au sein de leur administration. C’est le cas du [défi DataReg](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html), porté par l’Autorité de régulation des communications électroniques et des postes (Arcep). L’Arcep a développé plusieurs outils pour les citoyens, dont [des cartes de la couverture mobile des différents opérateurs en France](https://www.monreseaumobile.fr/). Celles-ci donnent des informations importantes si l’on cherche à identifier l’opérateur le plus sûr dans sa zone géographique. Afin de fiabiliser les données qui y sont mises à disposition, les EIG vont automatiser la collecte des données en interne ainsi que leur mise en forme pour qu’elles soient facilement utilisables, notamment pour des outils mobiles. Ils pourront ensuite améliorer l’intégration de ces données dans les cartes. 
+
+![Une page de site sur laquelle on voit une carte de la France recouverte de points rouges qui vont de denses à très denses. A gauche, une bande noire étroite, mais qui se déploie sur toute la hauteur de la page. Elle contient quatre onglets et deux petits graphiques.](/img/blog/mon-reseau-mobile.png)
+_Le site "Mon Réseau Mobile" de l'Arcep_
 
 Dans tous les cas, la présence des entrepreneurs d'intérêt général au sein des administrations facilite la mise en œuvre de l'*open data*. Au-delà du respect de la loi, il s'agit pour elles d'envisager leur activité d'une manière nouvelle, d'imaginer de nouveaux outils et de nouveaux services. En effet, la transformation numérique ne concerne pas seulement les outils utilisés par les métiers, mais aussi les métiers eux-mêmes.   
