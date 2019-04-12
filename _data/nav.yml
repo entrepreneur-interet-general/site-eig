@@ -17,9 +17,7 @@
     path: realisations.html
 
 - name: La communauté
-  children:
-  - name: Les EIG et mentors
-    path: communaute.html
+  path: communaute.html
 
 - name: Le blog
   section_id: blog
