@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ? 
+title: "Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ?"
 author: Sophie Milkjovic, équipe EIG
 twitter: MiljkovicSophie
 description: "Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première session d’accompagnement collectif autour du thème de l’ouverture des codes source – *open source* -  et des données – *open data*. Voici pourquoi on en parle et ce que cela change quand on mène un projet numérique porté au sein d'une administration."
