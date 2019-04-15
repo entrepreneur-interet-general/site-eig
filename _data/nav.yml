@@ -1,25 +1,27 @@
-- name: Le programme
+- name: Programme
   children:
-  - name: Notre ambition
+  - name: Présentation
     path: presentation.html
-  - name: Notre offre d'accompagnement
+  - name: Offre d'accompagnement
     path: accompagnement.html
   - name: F.A.Q. Entrepreneur
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
 
-- name: Les projets
+- name: Réalisations
   children:
-  - name: Nos défis
+  - name: Défis
     path: defis.html
   - name: Nos réalisations
     path: realisations.html
+  - name: Toolkit
+    path: toolkit.html
 
-- name: La communauté
+- name: Communauté
   path: communaute.html
 
-- name: Le blog
+- name: Actualités
   section_id: blog
   path: blog/
 
