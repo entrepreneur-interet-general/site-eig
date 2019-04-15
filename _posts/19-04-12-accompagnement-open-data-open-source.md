@@ -11,7 +11,7 @@ Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrou
 L’objectif de cette première session d’accompagnement était donc de faire remonter les questions et les demandes d’aide sur l’*open source* et l’*open data*. Ce que cela nous a appris ? **Mettre l’ouverture au cœur d’un projet numérique a des impacts non seulement sur la façon dont on travaille, mais aussi sur la façon dont les administrations fonctionnent.**
 
 
-## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant&nbsp; |?
+## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant&nbsp;?
 
 
 **La [loi pour une République numérique (7 octobre 2016) a introduit l’*open data* par principe](https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees), soit l’ouverture spontanée des données publiques par la plupart des administrations.** Elle dit clairement que les codes sources des logiciels utilisés par un organisme public sont des documents administratifs relevant du régime de l’*open data* et à ce titre, **tout citoyen peut demander que lui soit communiqué le code source d’un logiciel commandé par l’administration.** *Open data*, *open source*, même combat ! Nous avons donc abordé les deux sujets lors d’une seule et même session. 
@@ -23,7 +23,7 @@ Le programme Entrepreneurs d’Intérêt Général porte cette valeur d’ouvert
 ![Un grand rectangle bleu sur lequel se détache le titre en blanc : "présentation open source / open data](/img/blog/presentation-open-antoine-augusti.png)
 _Première slide de la présentation d'Antoine Augusti, à retrouver en intégralité sur le [speakerdeck du programme](https://speakerdeck.com/eig2018/)_
 
-## Qu’est-ce que ça change de coder *in the open*&nbsp; |?
+## Qu’est-ce que ça change de coder *in the open*&nbsp;?
 
 
 Les EIG se sont ensuite répartis dans plusieurs « cliniques ». **Une clinique porte sur une question particulière et est animée par un spécialiste du domaine. Les participants choisissent la clinique en fonction de leurs problèmes du moment qu’ils peuvent ainsi exposer et résoudre.** 
@@ -33,7 +33,7 @@ Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l�
 Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry, référent logiciel libre à Etalab, qui recense les règles à respecter pour coder *in the open*](https://github.com/etalab/ouverture-des-codes-sources-publics) de façon utile et qui détaille les différents niveaux d’ouverture.
 
 
-## Quels sont les impacts pour les administrations&nbsp; |? 
+## Quels sont les impacts pour les administrations&nbsp;? 
 
 
 **Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)».** Autrement dit, penser leurs services et leur organisation autour de la circulation des données. 
