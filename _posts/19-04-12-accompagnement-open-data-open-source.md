@@ -11,7 +11,7 @@ Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrou
 L’objectif de cette première session d’accompagnement était donc de faire remonter les questions et les demandes d’aide sur l’*open source* et l’*open data*. Ce que cela nous a appris ? **Mettre l’ouverture au cœur d’un projet numérique a des impacts non seulement sur la façon dont on travaille, mais aussi sur la façon dont les administrations fonctionnent.**
 
 
-## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant&nbsp;?
+## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant ?
 
 
 **La [loi pour une République numérique (7 octobre 2016) a introduit l’*open data* par principe](https://www.etalab.gouv.fr/comment-etalab-aide-les-administrations-a-ouvrir-leurs-donnees), soit l’ouverture spontanée des données publiques par la plupart des administrations.** Elle dit clairement que les codes sources des logiciels utilisés par un organisme public sont des documents administratifs relevant du régime de l’*open data* et à ce titre, **tout citoyen peut demander que lui soit communiqué le code source d’un logiciel commandé par l’administration.** *Open data*, *open source*, même combat ! Nous avons donc abordé les deux sujets lors d’une seule et même session. 
@@ -23,17 +23,17 @@ Le programme Entrepreneurs d’Intérêt Général porte cette valeur d’ouvert
 ![Un grand rectangle bleu sur lequel se détache le titre en blanc : "présentation open source / open data](/img/blog/presentation-open-antoine-augusti.png)
 _Première slide de la présentation d'Antoine Augusti, à retrouver en intégralité sur le [speakerdeck du programme](https://speakerdeck.com/eig2018/)_
 
-## Qu’est-ce que ça change de coder *in the open*&nbsp;?
+## Qu’est-ce que ça change de coder *in the open* ?
 
 
 Les EIG se sont ensuite répartis dans plusieurs « cliniques ». **Une clinique porte sur une question particulière et est animée par un spécialiste du domaine. Les participants choisissent la clinique en fonction de leurs problèmes du moment qu’ils peuvent ainsi exposer et résoudre.** 
 
-Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour les utilisateurs pressentis, les contacter en amont, répertorier les synergies potentielles, coder des briques petites et facilement réutilisables, respecter les standards…
+Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour les utilisateurs pressentis, les contacter en amont, répertorier les synergies potentielles, coder des briques petites et facilement réutilisables, respecter les standards, etc.
 
-Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry, référent logiciel libre à Etalab, qui recense les règles à respecter pour coder *in the open*](https://github.com/etalab/ouverture-des-codes-sources-publics) de façon utile et qui détaille les différents niveaux d’ouverture.
+En 2018, les EIG avaient pu s'appuyer sur un [document](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md) les aidant à coder *in the open*, toujours d'actualité pour les conseils pratiques.  Plus récemment, Bastien Guerry, référent logiciels libres à la DINSIC, a proposé [un guide](https://github.com/etalab/ouverture-des-codes-sources-publics) pour aider les administrations à publier leurs codes sources, document qui complète la [politique de contribution de l'État aux logiciels libres](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/).
 
 
-## Quels sont les impacts pour les administrations&nbsp;? 
+## Quels sont les impacts pour les administrations ? 
 
 
 **Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)».** Autrement dit, penser leurs services et leur organisation autour de la circulation des données. 
@@ -47,7 +47,7 @@ Pour certaines administrations, **la présence d’EIG permet de s’approprier 
 
 **➢	Choisir les bonnes licences**
 
-Dans d’autres cas, **la présence d’EIG au sein d’une administration permet de rapidement poser – et [répondre à – des questions sur les licences]((https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html).** Le [défi Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html) de la Direction de la Recherche, des Études, de l'Évaluation et des Statistiques (DREES) a pour objectif d’exploiter le système national des données de santé (SNDS). Cette base de données fait l’objet d’un [projet collaboratif de documentation](https://github.com/indsante/Documentation-SNDS) auquel participe la DREES. C’est un EIG d’Open Chonic qui [a remarqué que la licence du dépôt n’était pas homologuée](https://github.com/indsante/Documentation-SNDS/issues/3). C’est encore lui qui a pris contact avec Etalab pour trouver la licence la plus adaptée. Enfin, c’est lui qui s’occupe du suivi de la question au sein de la DREES. 
+Dans d’autres cas, **la présence d’EIG au sein d’une administration permet de rapidement poser – et [répondre à – des questions sur les licences](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html).** Le [défi Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html) de la Direction de la Recherche, des Études, de l'Évaluation et des Statistiques (DREES) a pour objectif d’exploiter le système national des données de santé (SNDS). Cette base de données fait l’objet d’un [projet collaboratif de documentation](https://github.com/indsante/Documentation-SNDS) auquel participe la DREES. C’est un EIG d’Open Chonic qui [a remarqué que la licence du dépôt n’était pas homologuée](https://github.com/indsante/Documentation-SNDS/issues/3). C’est encore lui qui a pris contact avec Etalab pour trouver la licence la plus adaptée. Enfin, c’est lui qui s’occupe du suivi de la question au sein de la DREES. 
 
 ![Une page d'accueil de site qui titre "Documentation du SNDS" et propose d'aller au contenu. En dessous, elle présente trois rubrique : "partage de documents", "documentation collaborative" et "approfondissement"](/img/blog/documentation-snds.png)
 _Page d'accueil du projet collaboratif pour documenter et faciliter l'utilisation du SNDS_
