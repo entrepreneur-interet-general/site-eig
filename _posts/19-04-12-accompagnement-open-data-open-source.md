@@ -28,7 +28,7 @@ _Première slide de la présentation d'Antoine Augusti, à retrouver en intégra
 
 Les EIG se sont ensuite répartis dans plusieurs « cliniques ». **Une clinique porte sur une question particulière et est animée par un spécialiste du domaine. Les participants choisissent la clinique en fonction de leurs problèmes du moment qu’ils peuvent ainsi exposer et résoudre.** 
 
-Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour tous les potentiels utilisateurs, contacter en amont les potentiels utilisateurs, répertorier les potentielles synergies, coder des briques petites et donc facilement réutilisables, respecter les standards…
+Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour les utilisateurs pressentis, les contacter en amont, répertorier les synergies potentielles, coder des briques petites et facilement réutilisables, respecter les standards…
 
 Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry, référent logiciel libre à Etalab, qui recense les règles à respecter pour coder *in the open*](https://github.com/etalab/ouverture-des-codes-sources-publics) de façon utile et qui détaille les différents niveaux d’ouverture.
 
