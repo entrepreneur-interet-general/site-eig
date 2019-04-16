@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ?"
+title: "Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ?"
 author: Sophie Milkjovic, équipe EIG
 twitter: MiljkovicSophie
 description: "Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première session d’accompagnement collectif autour du thème de l’ouverture des codes source – « open source » -  et des données – « open data ». Voici pourquoi on en parle et ce que cela change quand on mène un projet numérique porté au sein d'une administration."
@@ -20,7 +20,7 @@ Le programme Entrepreneurs d’Intérêt Général porte cette valeur d’ouvert
 
 [Antoine Augusti](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/antoine-augusti.html), EIG Link, a commencé par rappeler le cadre légal qui s’impose aux administrations en termes d’ouverture des codes source et des données. [Voici le rappel en quelques slides](https://speakerdeck.com/eig2018/open-data). 
 
-![Un grand rectangle bleu sur lequel se détache le titre en blanc : "présentation open source / open data](/img/blog/presentation-open-antoine-augusti.png)
+![Un grand rectangle bleu sur lequel se détache le titre en blanc : "présentation open source / open data](/img/blog/presentation-open-antoine-augusti.png)
 _Première slide de la présentation d'Antoine Augusti, à retrouver en intégralité sur le [speakerdeck du programme](https://speakerdeck.com/eig2018/)_
 
 ## Qu’est-ce que ça change de coder *in the open*&nbsp;?
@@ -28,7 +28,7 @@ _Première slide de la présentation d'Antoine Augusti, à retrouver en intégra
 
 Les EIG se sont ensuite répartis dans plusieurs « cliniques ». **Une clinique porte sur une question particulière et est animée par un spécialiste du domaine. Les participants choisissent la clinique en fonction de leurs problèmes du moment qu’ils peuvent ainsi exposer et résoudre.** 
 
-Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour tous les potentiels utilisateurs, contacter en amont les potentiels utilisateurs, répertorier les potentielles synergies, coder des briques petites et donc facilement réutilisables, respecter les standards…
+Une des cliniques portait sur les bonnes pratiques à adopter pour coder avec l’ouverture des codes source pour objectif – coder *in the open*. **Les conseils pour coder *in the open* :** identifier des besoins communs à d’autres administrations, lister les impacts pour tous les potentiels utilisateurs, contacter en amont les potentiels utilisateurs, répertorier les potentielles synergies, coder des briques petites et donc facilement réutilisables, respecter les standards…
 
 Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry, référent logiciel libre à Etalab, qui recense les règles à respecter pour coder *in the open*](https://github.com/etalab/ouverture-des-codes-sources-publics) de façon utile et qui détaille les différents niveaux d’ouverture.
 
@@ -38,18 +38,18 @@ Que ce soit pour l’administration ou pas, voici [un article de Bastien Guerry,
 
 **Pour les administrations, les défis EIG sont une façon de repenser « [la donnée comme infrastructure essentielle](https://www.etalab.gouv.fr/rapport-2016-1017-de-ladministrateur-general-des-donnees-la-donnee-comme-infrastructure-essentielle)».** Autrement dit, penser leurs services et leur organisation autour de la circulation des données. 
 
-![Un grand rectangle blance sur lequel se détachent trois carrés bleus. L'un, plus gros, plus clair et central, comporte le titre en blanc : "la donnée comme infrastructure essentielle". Un autre, en haut à gauche, plus foncé, comporte la mention "administrateur général des données. Le troisième, en bas à droite, plus foncé aussi, comporte la mention "rapport au premier ministre sur la donnée dans les administrations 2016-2017.](/img/blog/rapport-agd.png)
+![Un grand rectangle blance sur lequel se détachent trois carrés bleus. L'un, plus gros, plus clair et central, comporte le titre en blanc : "la donnée comme infrastructure essentielle". Un autre, en haut à gauche, plus foncé, comporte la mention "administrateur général des données. Le troisième, en bas à droite, plus foncé aussi, comporte la mention "rapport au premier ministre sur la donnée dans les administrations 2016-2017.](/img/blog/rapport-agd.png)
 _Couverture du rapport de l'Administrateur général des données, que l'on peut [lire en ligne](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf)_
 
 **➢	Ouvrir les données des administrations**
 
-Pour certaines administrations, **la présence d’EIG permet de s’approprier l’obligation légale de l’*open data* par défaut.** L’année dernière, la Direction des affaires maritimes (DAM) accueillait le [défi Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) qui cherchait à prévenir les accidents en mer grâce aux données. Les EIG [se sont appuyés sur les données de la sécurité maritime, puis les ont ouvertes](https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/), après avoir obtenu l’appui de leur hiérarchie. Cette année, la DAM accueille le [défi CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) qui a pour objectif de développer un outil de ciblage des navires à contrôler. Les EIG et leurs mentors ont déjà identifié des données à ouvrir et savent qu’ils peuvent s’appuyer sur l’expérience du défi Prédisauvetage pour y parvenir. Ils prévoient plusieurs étapes : dans un premier temps, faire circuler les données en interne et lister les impacts d’une ouverture, puis consolider la base, la documenter et la publier sur [data.gouv.fr](https://www.data.gouv.fr/) avec l’aval de leur hiérarchie. 
+Pour certaines administrations, **la présence d’EIG permet de s’approprier l’obligation légale de l’*open data* par défaut.** L’année dernière, la Direction des affaires maritimes (DAM) accueillait le [défi Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) qui cherchait à prévenir les accidents en mer grâce aux données. Les EIG [se sont appuyés sur les données de la sécurité maritime, puis les ont ouvertes](https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/), après avoir obtenu l’appui de leur hiérarchie. Cette année, la DAM accueille le [défi CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) qui a pour objectif de développer un outil de ciblage des navires à contrôler. Les EIG et leurs mentors ont déjà identifié des données à ouvrir et savent qu’ils peuvent s’appuyer sur l’expérience du défi Prédisauvetage pour y parvenir. Ils prévoient plusieurs étapes : dans un premier temps, faire circuler les données en interne et lister les impacts d’une ouverture, puis consolider la base, la documenter et la publier sur [data.gouv.fr](https://www.data.gouv.fr/) avec l’aval de leur hiérarchie. 
 
 **➢	Choisir les bonnes licences**
 
 Dans d’autres cas, **la présence d’EIG au sein d’une administration permet de rapidement poser – et [répondre à – des questions sur les licences]((https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/16/atelier-ouverture-logiciel-libre.html).** Le [défi Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html) de la Direction de la Recherche, des Études, de l'Évaluation et des Statistiques (DREES) a pour objectif d’exploiter le système national des données de santé (SNDS). Cette base de données fait l’objet d’un [projet collaboratif de documentation](https://github.com/indsante/Documentation-SNDS) auquel participe la DREES. C’est un EIG d’Open Chonic qui [a remarqué que la licence du dépôt n’était pas homologuée](https://github.com/indsante/Documentation-SNDS/issues/3). C’est encore lui qui a pris contact avec Etalab pour trouver la licence la plus adaptée. Enfin, c’est lui qui s’occupe du suivi de la question au sein de la DREES. 
 
-![Une page d'accueil de site qui titre "Documentation du SNDS" et propose d'aller au contenu. En dessous, elle présente trois rubrique : "partage de documents", "documentation collaborative" et "approfondissement"](/img/blog/documentation-snds.png)
+![Une page d'accueil de site qui titre "Documentation du SNDS" et propose d'aller au contenu. En dessous, elle présente trois rubrique : "partage de documents", "documentation collaborative" et "approfondissement"](/img/blog/documentation-snds.png)
 _Page d'accueil du projet collaboratif pour documenter et faciliter l'utilisation du SNDS_
 
 **➢	Favoriser la circulation des données**
