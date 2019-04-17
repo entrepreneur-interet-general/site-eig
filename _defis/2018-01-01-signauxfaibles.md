@@ -19,7 +19,7 @@ images:
   - /img/defis/6_Signauxfaibles.png
 ---
 
-En France, chaque année, 60 000 PME et ETI font faillite. Mais si leurs
+En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs
 défaillances sont détectées à temps ce n'est pas une fatalité. La
 DIRECCTE Bourgogne Franche Comté, avec le soutien de la DGE et du
 ministère de l'Economie, cherche à développer un outil dans ce
