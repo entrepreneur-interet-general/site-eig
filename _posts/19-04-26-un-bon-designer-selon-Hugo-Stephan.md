@@ -20,7 +20,7 @@ La [session d'accompagnement mensuelle](https://entrepreneur-interet-general.eta
 * être pointilleux et se soucier des détails, surtout dans les interactions ;
 * être capable de parler d’émotions, de ressentis et d’empathie ;
 * savoir mobiliser une panoplie d’outils et de méthodes dans toutes les phases d’un projet et dans toutes les situations, même les plus désespérées ;
-* demander 5 fois à son collègue développeur de modifier en css le radius d’un bouton pour finalement le laisser comme avant, car les premières intuitions des designers sont toujours bonnes. *Of course* ;
+* demander 5 fois à son collègue développeur de modifier en CSS le radius d’un bouton pour finalement le laisser comme avant, car les premières intuitions des designers sont toujours bonnes. *Of course* ;
 * lâcher ses certitudes aussi vite qu’un bon politique ;
 * savoir écouter sans préjuger et sans finir les phrases des autres ;
 * ne pas écrire d’article sur Medium à propos de sa pratique de designer… »
