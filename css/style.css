@@ -32,7 +32,7 @@ a {
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #3c61bb;
+  color: #7298F5;
 }
 
 h1, h2 {
@@ -216,11 +216,11 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
-  border: 2px solid #3c61bb;
+  border: 2px solid #7298F5;
 }
 
 .button:hover {
-  background-color: #3c61bb;
+  background-color: #7298F5;
 }
 
 .button.red {
@@ -544,7 +544,7 @@ form input.error, form textarea.error {
   padding: 0 10px;
 }
 .pager a {
-  color: #3c61bb;
+  color: #7298F5;
 }
 .pager a:hover {
   color: #1C419B;
@@ -581,7 +581,7 @@ form input.error, form textarea.error {
 }
 .comments-wrapper ul.comments .meta .datetime {
   font-size: 0.875rem;
-  color: #3c61bb;
+  color: #7298F5;
 }
 
 #comments-form {
@@ -600,7 +600,7 @@ form input.error, form textarea.error {
   line-height: 1.8em;
 }
 .links a {
-  color: #3c61bb;
+  color: #7298F5;
 }
 .links a:hover {
   color: #333;
@@ -609,7 +609,7 @@ form input.error, form textarea.error {
 /*Footer */
 #footer {
   background: #26353f;
-  color: #3c61bb;
+  color: #c1c1c1;
 }
 #footer h1 {
   margin-bottom: 25px;
@@ -625,7 +625,7 @@ form input.error, form textarea.error {
   line-height: 1.875rem;
 }
 #footer ul a {
-  color: #3c61bb;
+  color: #c1c1c1;
 }
 #footer ul a:hover {
   color: #ebeff3;
@@ -2576,7 +2576,7 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #3c61bb;
+  color: #7298F5;
 }
 .modMasonryGallery .gallery-nav li.current {
   border: 1px solid #1C419B;
@@ -2712,7 +2712,7 @@ body {
 }
 .modPriceBox li {
   background: #ebeff3;
-  color: #3c61bb;
+  color: #7298F5;
 }
 .modPriceBox li.even {
   background: #f7f7f7;
@@ -2726,7 +2726,7 @@ body {
 .modPriceBox p.desc {
   font-size: 14px;
   margin-bottom: 20px;
-  color: #3c61bb;
+  color: #7298F5;
 }
 .modPriceBox p.price {
   font-size: 16px;
@@ -2871,7 +2871,7 @@ body {
   text-indent: -3000px;
 }
 .modStylePanel a.color_scheme:hover, .modStylePanel a.bg_pattern:hover {
-  border: 1px solid #3c61bb;
+  border: 1px solid #7298F5;
 }
 .modStylePanel a#yellow {
   background: #1C419B;
@@ -3338,7 +3338,7 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #3c61bb;
+    color: #7298F5;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3352,7 +3352,7 @@ body {
     background: #f2f2f2;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li a {
-    color: #3c61bb;
+    color: #7298F5;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
     background: #fff;
@@ -3371,7 +3371,7 @@ body {
     background-color: #1c1c1c;
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #3c61bb;
+    color: #7298F5;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
