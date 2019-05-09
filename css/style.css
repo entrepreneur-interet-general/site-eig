@@ -2044,8 +2044,7 @@ body.screenshot {
   color: #fff;
   letter-spacing: 2px;
   font-weight: bold;
-  margin-bottom: 40px;
-  text-transform: uppercase;
+  margin: 1em;
   text-align: center;
   background-color:rgba(50,50,50,0.5);
 }
