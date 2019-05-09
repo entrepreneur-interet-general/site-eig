@@ -11,7 +11,7 @@ description: "Dans le cadre de l’anniversaire des 3 ans du programme EIG, il n
 Dans le cadre de la troisième promotion du programme EIG, il nous est apparu intéressant d’opérer un retour en arrière, et en données, sur le fonctionnement de celui-ci.
 
 ### Le programme EIG permet la création d’une communauté composée d’EIG et de mentors afin de répondre à des défis
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#promo"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/promo"></iframe>
 
 Le programme EIG souhaite être un point de rencontre entre des agents publics désireux d’innover et des citoyens aux compétences numériques de pointe pour développer ensemble des projets dans l’État, et ainsi former une communauté du numérique d’intérêt général.
 Ces différents défis ont pris place dans 19 structures publiques différentes. Certaines de ces administrations ayant accueilli plusieurs défis, le programme EIG a opéré dans un total de **29 services ou directions**.
@@ -21,7 +21,7 @@ On peut citer en exemple des services des ministères de [l’Intérieur](https:
 La communauté réunie autour du programme EIG est aujourd'hui constitué de 37 EIG alumnis, de 32 EIG actuels, et d'une quarantaine d'agents publics mentors.
 
 ### Les EIG apportent une pluralité de compétences au sein des administrations participantes
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#competences"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/competences"></iframe>
                                       
 Les profils sélectionnés sont en majorité des développeurs et des data scientists, mais la part des designers est en constante augmentation sur les trois promotions. Le recrutement de designers au sein des défis a été plébiscité par les administrations, et l’utilité de l’approche design confirmée lors de la promotion 2.
 
@@ -30,12 +30,12 @@ Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions 
 La moyenne d’âge des EIG sélectionnés est en baisse depuis le lancement du programme (passant de 31 à 30, puis 27 ans pour la promotion EIG 3).
 
 ### Un programme attractif pour les administrations comme pour les candidats
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#selection"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/selection"></iframe>
 
 En trois promotions, le programme s’implante dans l’écosystème de l’innovation publique, comme en témoignent les 500 candidatures reçues lors des différentes promotions pour devenir EIG, ainsi que les 94 défis déposés par des administrations lors des différents appels à projets.
 
 ### Une implication financière des administrations en augmentation
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#financement"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/financement"></iframe>
 
 Près de 4,8 millions d’euros ont été alloués au programme EIG depuis sa création par le Programme d’investissements d’avenir : 800 000 € EIG 1, 2,5 millions € pour EIG 2, 1,5 millions € EIG 3.
 
@@ -50,19 +50,19 @@ On peut également citer les dépenses de communication, dont nous verrons les r
 Les liens avec la recherche ont représentés environ 1% du budget annuel de chaque promotion. Ces budgets ont été alloués pour réaliser des études sur le programme EIG et son positionnement avec les laboratoires de recherche Greco pour EIG 1, et avec le chercheur Clément Mabi pour EIG 3.
 
 ### Un programme d’accompagnement qui évolue en fonction des souhaits des participants au programme :
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#accompagnement"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/accompagnement"></iframe>
 
 Le programme d'accompagnement est un élément clé de la réussite des défis, notamment grâce à la possibilité offerte de venir travailler au Liberté Living Lab 
 Le nombre réduit de sessions d'accompagnement pour la troisième promotion est lié à des modifications dans la forme de ces sessions : elles sont passés de demi-journée à des journées d'accompagnement de manière moins fréquentes, et deux séminaire hors-les-murs sont organisés pour un total de 4 jours.
 
 ### Un programme qui communique via divers canaux :
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#communication"></iframe>
+<iframe width="100%" height="650" src="https://data.eig-forever.org/communication"></iframe>
 
-La communication autour du programme EIG est un facteur important de la connaissance du programme pour différents publics. Ainsi, le programme et les défis ont fait l’objet de 51 articles dans plusieursjournaux (14 articles en 2017, 13 articles en 2018 et 24 articles en 2019). Les relais des actualités du programme sur des sites administratifs sont également à noter (15 en 2017, 1 en 2018 et 8 en 2019).
+La communication autour du programme EIG est un facteur important de la connaissance du programme pour différents publics. Ainsi, le programme et les défis ont fait l’objet de 51 articles dans plusieurs journaux depuis 2017. L'actualité du programme est aussi relaté sur différentes sites administratifs comme [numerique.gouv.fr](https://numerique.gouv.fr/) ou encore [modernisation.gouv.fr](https://www.modernisation.gouv.fr/).
+
 Pour ce qui est du blog Etalab, la mission qui porte le programme EIG, on peut noter la publication de 19 articles relatifs au programme EIG depuis 3 ans (8 en 2017, 8 en 2018 et 3 en 2019).
-On notera également la création du Blog EIG, qui a lui bénéficié de la publication de 29 publications depuis son lancement en février 2018. Une attention particulière a été mise en place sur la publication de contenus par les EIG dans cet espace, afin qu'ils puissent partager des [retours d'expériences](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html), [partager des points de vues](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-eig) ou encore faire participer des [acteurs de l'écosystème EIG comme la FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html).
+La création du Blog EIG en février 2018 a ouvert une autre plateforme de présentation du programme. 29 publications y ont eu lieu, et une attention particulière a d'ailleurs été mise en place sur la publication de contenus par les EIG dans cet espace, afin qu'ils puissent partager des [retours d'expériences](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html), [partager des points de vues](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-eig) ou encore faire participer des [acteurs de l'écosystème EIG comme la FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html).
 
 
-En effectuant ce retour sur le programme EIG, on peut donc constater qu'il continue de se déployer en répondant à sa motivation première de faire se rencontrer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration. 
-Les données évoquées ici permettent de matérialiser les réalisations du programme, et sont une première étape dans la démarche d'évaluation dans laquelle le programme EIG s'est lancée.
-Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
+En effectuant ce retour sur le programme EIG, on peut donc constater qu'il continue de se déployer en répondant à son premier objectif de faire se rencontrer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration. 
+Les données évoquées ici permettent de matérialiser les réalisations du programme, et sont une première étape dans la démarche d'évaluation dans laquelle le programme EIG s'est lancée. Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
