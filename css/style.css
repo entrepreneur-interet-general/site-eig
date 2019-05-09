@@ -651,7 +651,7 @@ form input.error, form textarea.error {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #ff9947;
+  background: #00A2F9;
 }
 #footer input.email-address {
   padding: 5px 15px;
