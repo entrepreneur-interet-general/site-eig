@@ -339,7 +339,6 @@ ul.shortcode-list i {
   -o-transition-duration: 0.2s;
   -webkit-transition-duration: 0.2s;
   transition-duration: 0.2s;
-  top: 3.57143rem;
 }
 .contain-to-grid .title-area, .contain-to-grid .title-area li, .contain-to-grid .title-area a {
   height: 100px;
