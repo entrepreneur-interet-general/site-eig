@@ -1,25 +1,24 @@
-- name: Le programme
+- name: Programme
+  section_id: presentation
+  path: presentation.html
   children:
-  - name: Notre ambition
-    path: presentation.html
-  - name: Notre offre d'accompagnement
+  - name: Offre d'accompagnement
     path: accompagnement.html
+  - name: Réalisations
+    path: realisations.html
   - name: F.A.Q. Entrepreneur
     path: faq-eig.html
   - name: F.A.Q. Administration
     path: faq-administrations.html
 
-- name: Les projets
-  children:
-  - name: Nos défis
-    path: defis.html
-  - name: Nos réalisations
-    path: realisations.html
+- name: Projets
+  section_id : defis
+  path: defis.html
 
-- name: La communauté
+- name: Communauté
   path: communaute.html
 
-- name: Le blog
+- name: Blog
   section_id: blog
   path: blog/
 
