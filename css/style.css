@@ -25,14 +25,14 @@
 }
 
 a {
-  color: #1C419B;
+  color: #0081d5;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #7298F5;
+  color: #c9d3df;
 }
 
 h1, h2 {
@@ -106,7 +106,7 @@ ul.shortcode-list {
   margin: 0 0 20px;
 }
 ul.shortcode-list i {
-  color: #1C419B;
+  color: #0081d5;
   margin-right: 3px;
 }
 
@@ -130,8 +130,8 @@ ul.shortcode-list i {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #1C419B;
-  border: 3px solid #1C419B;
+  background-color: #0081d5;
+  border: 3px solid #0081d5;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -141,8 +141,8 @@ ul.shortcode-list i {
   margin: 0;
 }
 .big-social i:hover {
-  border: 3px solid #1C419B;
-  background-color: #1C419B;
+  border: 3px solid #0081d5;
+  background-color: #0081d5;
 }
 
 /*smart appear */
@@ -216,11 +216,11 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
-  border: 2px solid #7298F5;
+  border: 2px solid #253e7c;
 }
 
 .button:hover {
-  background-color: #7298F5;
+  background-color: #253e7c;
 }
 
 .button.red {
@@ -498,7 +498,7 @@ ul.info a {
   margin-right: 5px;
 }
 ul.info i {
-  border: 1px solid #1C419B;
+  border: 1px solid #0081d5;
   padding: 5px;
   -moz-transition: all 0.1s linear;
   -o-transition: all 0.1s linear;
@@ -506,7 +506,7 @@ ul.info i {
   transition: all 0.1s linear;
 }
 ul.info i:hover {
-  background: #1C419B;
+  background: #0081d5;
   color: #fff;
 }
 
@@ -544,10 +544,10 @@ form input.error, form textarea.error {
   padding: 0 10px;
 }
 .pager a {
-  color: #7298F5;
+  color: #c9d3df;
 }
 .pager a:hover {
-  color: #1C419B;
+  color: #0081d5;
 }
 .pager .older {
   float: left;
@@ -581,7 +581,7 @@ form input.error, form textarea.error {
 }
 .comments-wrapper ul.comments .meta .datetime {
   font-size: 0.875rem;
-  color: #7298F5;
+  color: #c9d3df;
 }
 
 #comments-form {
@@ -600,7 +600,7 @@ form input.error, form textarea.error {
   line-height: 1.8em;
 }
 .links a {
-  color: #7298F5;
+  color: #c9d3df;
 }
 .links a:hover {
   color: #333;
@@ -609,7 +609,7 @@ form input.error, form textarea.error {
 /*Footer */
 #footer {
   background: #26353f;
-  color: #c1c1c1;
+  color: #c9d3df;
 }
 #footer h1 {
   margin-bottom: 25px;
@@ -625,7 +625,7 @@ form input.error, form textarea.error {
   line-height: 1.875rem;
 }
 #footer ul a {
-  color: #c1c1c1;
+  color: #c9d3df;
 }
 #footer ul a:hover {
   color: #ebeff3;
@@ -932,7 +932,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost h4 a:hover {
-  color: #1C419B;
+  color: #0081d5;
 }
 .modBlogPost .date {
   font-size: 0.78571rem;
@@ -987,7 +987,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost.big h3 a:hover {
-  color: #1C419B;
+  color: #0081d5;
 }
 .modBlogPost.big h4 {
   font-size: 1.7rem;
@@ -1288,7 +1288,7 @@ body.screenshot {
 }
 .modBoxedSlider .caption p {
   display: inline-block;
-  background: #1C419B;
+  background: #0081d5;
   color: #fff;
   font-family: "droid serif";
   margin-bottom: 0;
@@ -1313,7 +1313,7 @@ body.screenshot {
   margin-bottom: 40px;
 }
 .modBoxedTextSlider .box i {
-  color: #1C419B;
+  color: #0081d5;
   font-size: 36px;
   width: 48px;
   height: 48px;
@@ -2436,10 +2436,10 @@ body.screenshot {
   color: #8393a7;
 }
 .modGallery .gallery-nav li.current {
-  border: 1px solid #1C419B;
+  border: 1px solid #0081d5;
 }
 .modGallery .gallery-nav li.current a {
-  color: #1C419B;
+  color: #0081d5;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -2542,7 +2542,7 @@ body.screenshot {
   margin: 0;
 }
 .modIconText .icon-text-circle:hover i {
-  color: #1C419B;
+  color: #0081d5;
 }
 .modIconText .icon-text-simple i {
   font-size: 3.42857rem;
@@ -2576,13 +2576,13 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #7298F5;
+  color: #c9d3df;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #1C419B;
+  border: 1px solid #0081d5;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #1C419B;
+  color: #0081d5;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
@@ -2668,7 +2668,7 @@ body {
 .modMilestone i {
   font-size: 36px;
   color: #333;
-  background: #1C419B;
+  background: #0081d5;
   width: 90px;
   height: 90px;
   -moz-border-radius: 45px;
@@ -2712,7 +2712,7 @@ body {
 }
 .modPriceBox li {
   background: #ebeff3;
-  color: #7298F5;
+  color: #c9d3df;
 }
 .modPriceBox li.even {
   background: #f7f7f7;
@@ -2726,7 +2726,7 @@ body {
 .modPriceBox p.desc {
   font-size: 14px;
   margin-bottom: 20px;
-  color: #7298F5;
+  color: #c9d3df;
 }
 .modPriceBox p.price {
   font-size: 16px;
@@ -2759,7 +2759,7 @@ body {
 }
 
 .modPriceBox.featured .info {
-  border-top: 4px solid #1C419B;
+  border-top: 4px solid #0081d5;
 }
 
 .modPriceBox:hover {
@@ -2774,7 +2774,7 @@ body {
   width: 66%;
   margin: 0 auto;
   height: 2px;
-  background: #1C419B;
+  background: #0081d5;
   display: block;
 }
 
@@ -2871,10 +2871,10 @@ body {
   text-indent: -3000px;
 }
 .modStylePanel a.color_scheme:hover, .modStylePanel a.bg_pattern:hover {
-  border: 1px solid #7298F5;
+  border: 1px solid #c9d3df;
 }
 .modStylePanel a#yellow {
-  background: #1C419B;
+  background: #0081d5;
 }
 .modStylePanel a#red {
   background: #e92b05;
@@ -2962,7 +2962,7 @@ body {
   -moz-border-radius: 18px;
   -webkit-border-radius: 18px;
   border-radius: 18px;
-  background: #1C419B;
+  background: #0081d5;
   color: #fff;
   text-align: center;
   font-size: 1.125rem;
@@ -3338,7 +3338,7 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #7298F5;
+    color: #c9d3df;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3352,7 +3352,7 @@ body {
     background: #f2f2f2;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li a {
-    color: #7298F5;
+    color: #c9d3df;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
     background: #fff;
@@ -3371,7 +3371,7 @@ body {
     background-color: #1c1c1c;
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #7298F5;
+    color: #c9d3df;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
