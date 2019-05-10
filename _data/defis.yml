@@ -3,7 +3,7 @@
   link_to: /defis/2019/acossplateforme.html
   class: 2019 web design
   skills: 2019 // Web // Design
-  color: #b01818
+  colorback: b01818
   desc: Simplifier les démarches des cotisants à l’aide des données des Urssaf
 
 - image: /img/logo-adler.png
@@ -11,7 +11,7 @@
   link_to: /defis/2019/adler.html
   class: 2019 data web
   skills: 2019 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Lutter contre les comportements financiers illicites
 
 - image: /img/logo-cartobio.png
@@ -19,7 +19,7 @@
   link_to: /defis/2019/cartobio.html
   class: 2019 data web
   skills: <br>2019 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Cartographier les parcelles d'agricultures biologiques
 
 - image: /img/logo-cib-nav.png
@@ -27,7 +27,7 @@
   link_to: /defis/2019/cibnav.html
   class: 2019 data web
   skills: <br>2019 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Aider au contrôle des navires profesionnels
   
 - image: /img/logo-themis.png
@@ -35,7 +35,7 @@
   link_to: /defis/2019/datajust.html
   class: 2019 data
   skills: 2019 // Data
-  color: #b01818
+  colorback: b01818
   desc: Construire un référentiel d'indémnisation des préjudices corporels
   
 - image: /img/defis/logo-datareg.png
@@ -43,7 +43,7 @@
   link_to: /defis/2019/datareg.html
   class: 2019 data
   skills: <br>2019 // Data
-  color: #b01818
+  colorback: b01818
   desc: Maximiser l’exploitation des données de l'Arcep
 
 - image: /img/defis/11_EIGLink.png
@@ -51,7 +51,7 @@
   link_to: /defis/2019/eiglink.html
   class: 2019 web design
   skills: 2019 // Web // Design
-  color: #b01818
+  colorback: b01818
   desc: Accompagner un collectif numérique d’intérêt général au sein de l’Etat
 
 - image: /img/logo-explocode.png
@@ -59,7 +59,7 @@
   link_to: /defis/2019/explocode.html
   class: 2019 data
   skills: 2019 // Data
-  color: #b01818
+  colorback: b01818
   desc: Rendre le droit du travail lisible, accessible et compréhensible
 
 - image: /img/logo-ia-flash.png
@@ -67,7 +67,7 @@
   link_to: /defis/2019/iaflash.html
   class: 2019 data
   skills: 2019 // Data
-  color: #b01818
+  colorback: b01818
   desc: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
 
 - image: /img/logo-karfur.png
@@ -75,7 +75,7 @@
   link_to: /defis/2019/karfur.html
   class: 2019 web design
   skills: 2019 // Web // Design
-  color: #b01818
+  colorback: b01818
   desc: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
 
 - image: /img/logo-lex-impact.png
@@ -83,7 +83,7 @@
   link_to: /defis/2019/leximpact.html
   class: 2019 web design
   skills: 2019 // Web // Design
-  color: #b01818
+  colorback: b01818
   desc: Evaluer l'impact des réformes socio-fiscales sur les citoyen·ne·s
 
 - image: /img/logo-open-chronic.png
@@ -91,7 +91,7 @@
   link_to: /defis/2019/openchronic.html
   class: 2019 data
   skills: <br>2019 // Data
-  color: #b01818
+  colorback: b01818
   desc: Améliorer la prise en charge des malades chroniques
 
 - image: /img/logo-open-justice.png
@@ -99,7 +99,7 @@
   link_to: /defis/2019/openjustice.html
   class: 2019 data web
   skills: 2019 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Ouvrir la jurisprudence par la pseudonymisation des données
 
 - image: /img/logo-plume.png
@@ -107,7 +107,7 @@
   link_to: /defis/2019/plume.html
   class: 2019 data web design
   skills: <br>2019 // Data // Web // Design
-  color: #b01818
+  colorback: b01818
   desc: Transformer les métiers des juridictions financières
 
 - image: /img/logo-polygraphe.png
@@ -115,7 +115,7 @@
   link_to: /defis/2019/polygraphe.html
   class: 2019 data web
   skills: 2019 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Améliorer la confiance des consommateurs en détectant des faux avis
 
 - image: /img/defis/9_ARCHEMSE.png
@@ -123,7 +123,7 @@
   link_to: /defis/2018/archifiltre.html
   class: 2018 data web
   skills: <br>2018 // Data // Web
-  color: #1c419b
+  colorback: 1c419b
   desc: Améliorer la mémoire des politiques sociales
 
 - image: /img/defis/5_balisage.png
@@ -131,7 +131,7 @@
   link_to: /defis/2018/balisenav.html
   class: 2018 web
   skills: 2018 // Web
-  color: #1c419b
+  colorback: 1c419b
   desc: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
 
 - image: /img/defis/10_brigadenumerique.png
@@ -139,7 +139,7 @@
   link_to: /defis/2018/brigadenumerique.html
   class: 2018 web design
   skills: <br>2018 // Web // Design
-  color: #1c419b
+  colorback: 1c419b
   desc: Moderniser la fonction d'accueil en brigade
 
 - image: /img/defis/12_CoachElevesAssistProf.png
@@ -147,7 +147,7 @@
   link_to: /defis/2018/coacheleves.html
   class: 2018 data
   skills: 2018 // Data
-  color: #1c419b
+  colorback: 1c419b
   desc: Améliorer la réussite scolaire avec les données d'apprentissage
 
 - image: /img/defis/13_dataESR.png
@@ -155,7 +155,7 @@
   link_to: /defis/2018/dataesr.html
   class: 2018 data web
   skills: <br>2018 // Data // Web
-  color: #1c419b
+  colorback: 1c419b
   desc: Révéler tout le potentiel des données de la recherche
 
 - image: /img/defis/11_EIGLink.png
@@ -163,7 +163,7 @@
   link_to: /defis/2018/eiglink.html
   class: 2018 web 
   skills: 2018 // Web
-  color: #b01818
+  colorback: b01818
   desc: Accompagner un collectif numérique d’intérêt général au sein de l’Etat
 
 - image: /img/defis/3_ Mobilier national.png
@@ -171,7 +171,7 @@
   link_to: /defis/2018/gobelins.html
   class: 2018 web design
   skills: <br>2018 // Web // Design
-  color: #1c419b
+  colorback: 1c419b
   desc: Révéler les richesses du Mobilier National
 
 - image: /img/defis/7_MACP.png
@@ -179,7 +179,7 @@
   link_to: /defis/2018/hopkins.html
   class: 2018 data
   skills: 2018 // Data
-  color: #1c419b
+  colorback: 1c419b
   desc: Lutter contre la fraude financière et enrayer l'économie souterraine
 
 - image: /img/defis/2_Labsanté.png
@@ -187,7 +187,7 @@
   link_to: /defis/2018/labsante.html
   class: 2018 data
   skills: <br>2018 // Data
-  color: #1c419b
+  colorback: 1c419b
   desc: Valoriser les données du système de santé
 
 - image: /img/defis/1_MTES.png
@@ -195,7 +195,7 @@
   link_to: /defis/2018/donneesauvetagemaritime.html
   class: 2018 data web
   skills: 2018 // Data // Web
-  color: #1c419b
+  colorback: 1c419b
   desc: Sauver des vies en mer en prévenant les accidents maritimes
 
 - image: /img/defis/4_Previsecours.png
@@ -203,7 +203,7 @@
   link_to: /defis/2018/previsecours.html
   class: 2018 web data
   skills: 2018 // Web // Data
-  color: #1c419b
+  colorback: 1c419b
   desc: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
 
 - image: /img/defis/6_Signauxfaibles.png
@@ -211,7 +211,7 @@
   link_to: /defis/2018/signauxfaibles.html
   class: 2018 data web
   skills: 2018 // Data // Web
-  color: #1c419b
+  colorback: 1c419b
   desc: Détecter les entreprises en difficulté pour mieux les accompagner
 
 - image: /img/defis/8_CGET.png
@@ -219,7 +219,7 @@
   link_to: /defis/2018/socialconnect.html
   class: 2018 web design
   skills: 2018 // Web // Design
-  color: #1c419b
+  colorback: 1c419b
   desc: Repérer et mettre en réseau l'innovation sociale dans les territoires
 
 - image: /img/defis/afd-geodata-portfolio.png
@@ -227,7 +227,7 @@
   link_to: /defis/2017/afd-geodata.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/ars-parcours-soin-portfolio.png
@@ -235,7 +235,7 @@
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
   class: 2017 data web
   skills: 2017 // Data // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement &amp; Datascience
 
 - image: /img/defis/bnf-catalogage-portfolio.png
@@ -243,7 +243,7 @@
   link_to: /defis/2017/bnf-catalogage.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/cc-api-rapports-portfolio.png
@@ -251,7 +251,7 @@
   link_to: /defis/2017/cc-api-rapports.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/dgfip-fraude-fiscale-portfolio.png
@@ -259,7 +259,7 @@
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 data
   skills: 2017 // Data
-  color: #b01818
+  colorback: b01818
   desc: Datascience
 
 - image: /img/defis/mcc-inventaire-orgues-portfolio.png
@@ -267,7 +267,7 @@
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/mesri-machine-donnees-portfolio.png
@@ -275,7 +275,7 @@
   link_to: /defis/2017/mesri-magical-merge-machine.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/mi-cartav-portfolio.png
@@ -283,7 +283,7 @@
   link_to: /defis/2017/mi-cartav-securite-routiere.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
 
 - image: /img/defis/mi-matchid-portfolio.png
@@ -291,5 +291,5 @@
   link_to: /defis/2017/mi-matchid.html
   class: 2017 web
   skills: 2017 // Web
-  color: #b01818
+  colorback: b01818
   desc: Développement
