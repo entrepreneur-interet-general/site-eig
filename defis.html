@@ -21,11 +21,11 @@ section_id: defis
         {% for defi in site.data.defis %}
           <li class='{{defi.class}}'>
             <a href='{{defi.link_to}}'>
-              <img alt="" src="{{site.url}}/{{defi.image}}" />
-              <div class='overlay' style='background: #b01818;'>
+              <img alt="{{defi.title}}" style="width:40%;display: block; margin-left: auto;margin-right: auto" src="{{site.url}}/{{defi.image}}" /><h2 style="color:#222222; text-align: center; font-size: 1.25rem; margin-bottom:0.3rem;margin-top:0.3rem;">{{defi.title}}</h2><p style="color:#555555; text-align: center; font-size: 1.04rem; margin-bottom:0.88rem;">{{defi.desc}}</p><p style="color:#888888; text-align: center; font-size: 0.84rem; margin-bottom:0.1rem;">{{defi.skills}}</p>
+              <div class='overlay' style='background: {{defi.color}};'>
                 <div class='thumb-info'>
-                  <h3>{{defi.title}}</h3>
-                  <p>{{defi.desc}}</p>
+                  <h3 style="margin-top: 0em;">{{defi.title}}</h3>
+                  <p style="margin: 0em 1em 0em 1em; font-size: 1rem;">{{defi.desc}}</p>
                 </div>
               </div>
             </a>
