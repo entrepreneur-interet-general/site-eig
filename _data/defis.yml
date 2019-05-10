@@ -222,74 +222,74 @@
   colorback: 1c419b
   desc: Repérer et mettre en réseau l'innovation sociale dans les territoires
 
-- image: /img/defis/afd-geodata-portfolio.png
+- image: /img/icone-eig.png
   title: AFD - Geodata
   link_to: /defis/2017/afd-geodata.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Mettre les données ouvertes au service de projets de développement
 
-- image: /img/defis/ars-parcours-soin-portfolio.png
+- image: /img/icone-eig.png
   title: ARS - Parcours de soin
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
   class: 2017 data web
   skills: 2017 // Data // Web
   colorback: b01818
-  desc: Développement &amp; Datascience
+  desc: Améliorer l’offre de soin en Occitanie
 
-- image: /img/defis/bnf-catalogage-portfolio.png
+- image: /img/icone-eig.png
   title: BNF - catalogage
   link_to: /defis/2017/bnf-catalogage.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc:  Créer un nouvel outil de catalogage
 
-- image: /img/defis/cc-api-rapports-portfolio.png
+- image: /img/icone-eig.png
   title: CC - API rapports
   link_to: /defis/2017/cc-api-rapports.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Mieux informer les citoyens sur l’emploi de l’argent public
 
-- image: /img/defis/dgfip-fraude-fiscale-portfolio.png
+- image: /img/icone-eig.png
   title: DGFiP - fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 data
   skills: 2017 // Data
   colorback: b01818
-  desc: Datascience
+  desc: Identifier les résidents fiscaux français ayant omis de déclarer
 
-- image: /img/defis/mcc-inventaire-orgues-portfolio.png
+- image: /img/icone-eig.png
   title: MCC - Inventaire des orgues
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Révéler et valoriser le patrimoine des orgues
 
-- image: /img/defis/mesri-machine-donnees-portfolio.png
+- image: /img/icone-eig.png
   title: MESRI - La machine à données
   link_to: /defis/2017/mesri-magical-merge-machine.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Automatiser le nettoyage de bases de données
 
-- image: /img/defis/mi-cartav-portfolio.png
+- image: /img/icone-eig.png
   title: MI - cartAV
   link_to: /defis/2017/mi-cartav-securite-routiere.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Augmenter la sécurité sur les routes en exploitant les données
 
-- image: /img/defis/mi-matchid-portfolio.png
+- image: /img/icone-eig.png
   title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
   class: 2017 web
   skills: 2017 // Web
   colorback: b01818
-  desc: Développement
+  desc: Fiabiliser les statistiques de sécurité routière
