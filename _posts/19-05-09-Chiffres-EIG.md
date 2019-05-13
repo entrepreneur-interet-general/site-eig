@@ -9,7 +9,7 @@ description: "Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétro
 ## Data EIG : un retour en chiffres sur 3 années du programme EIG
 
 Alors que l'équipe du programme EIG accompagne actuellement une troisième promotion, il nous est apparu intéressant de vous proposer un retour en arrière, et en données, sur son fonctionnement. Cet article s'inscrit également dans le cadre d'une démarche d'évaluation plus globale du programme, dont cette amorce en données ne constitue qu'un premier volet.
-Pour mettre en relief les chiffres EIG, nous avons fait appel aux compétences de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), ancien EIG, qui a réalisé les visualisations de cet article (celles-ci sont également consultables sur le [site](https://data.eig-forever.org/) crée pour l'occasion).
+Pour mettre en relief les chiffres EIG, nous avons fait appel aux compétences de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), ancien EIG, qui a réalisé les visualisations de cet article (celles-ci sont également consultables sur le [site](https://data.eig-forever.org/) créé pour l'occasion).
 
 #### Le programme EIG crée une communauté composée d’EIG et de mentors afin de répondre à des défis de transformation numérique
 <iframe width="100%" height="460" src="https://data.eig-forever.org/#promo"> </iframe>
@@ -20,7 +20,7 @@ Les différents projets - ou _défis_ - ont été menés dans **19 structures pu
 
 <iframe width="100%" height="500" src="https://data.eig-forever.org/#carte"> </iframe>
 
-On peut citer en exemple des services des ministères comme ceux de [l’Intérieur](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html), de la [Culture](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/mcc-inventaire-des-orgues.html), ou de l’[Éducation Nationale](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/mesri-magical-merge-machine.html)). Cependant, le programme EIG s'adresse aussi à d'autres types de structures comme [l’Agence Française de Développement (AFD)](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/afd-geodata.html) qui est un Établissement Public Industriel et Commercial, [l’Autorité de Régulation des communications électroniques et des postes (Arcep)](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html) qui est une Autorité Administrative Indépendante ou encore [l'Agence Bio](https://www.agencebio.org/) qui est un groupement d'intérêt public.
+On peut citer en exemple des services des ministères comme ceux de [l’Intérieur](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html), de la [Culture](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/mcc-inventaire-des-orgues.html), ou de l’[Éducation Nationale](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/mesri-magical-merge-machine.html)). Cependant, le programme EIG s'adresse aussi à d'autres types de structures comme [l’Agence Française de Développement (AFD)](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/afd-geodata.html) qui est un Établissement Public Industriel et Commercial, à des Autorité Administrative Indépendante comme [l’Autorité de Régulation des communications électroniques et des postes (Arcep)](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html) ou encore à [l'Agence Bio](https://www.agencebio.org/) qui est un groupement d'intérêt public.
 
 La communauté réunie autour du programme est aujourd'hui constituée de **37 EIG alumnis, de 32 EIG actuels, et d'une quarantaine d'agents publics mentors**.
 
@@ -30,6 +30,8 @@ La communauté réunie autour du programme est aujourd'hui constituée de **37 E
 Les profils sélectionnés sont en majorité des data scientists, des développeurs et des développeuses, mais la part des designers est en constante augmentation. Le recrutement de designers au sein des défis a été plébiscité par les administrations, et l’utilité de l’approche design confirmée lors de la promotion 2, si bien que la promotion EIG3 compte 5 designers et qu'une filière spécifiquement dédiée au design est prévue pour mi-2019 (voir l'appel à candidature ["Designers d'intérêt général"](https://www.numerique.gouv.fr/actualites/candidatez-designers-interet-general-ux-ui/)). 
 
 Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions : **18% de femmes dans la promotion EIG 1, 25% dans EIG 2 et 19% dans EIG 3**. Cependant, il correspond au pourcentage de candidatures féminines aux différentes promotions : 12% en 2017, 30% en 2018 et 20% en 2019. 
+
+<iframe width="100%" height="450" src="https://data.eig-forever.org/#genre"> </iframe>
 
 **La moyenne d’âge des EIG sélectionnés** est en baisse depuis le lancement du programme : elle **est passée de 31 ans à 30 ans, puis à 27 ans pour la promotion EIG 3**.
 
