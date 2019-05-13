@@ -216,7 +216,7 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
-  border: 2px solid #7298F5;
+  border: 0px solid #7298F5;
 }
 
 .button:hover {
@@ -2045,7 +2045,6 @@ body.screenshot {
   font-weight: bold;
   margin: 1em;
   text-align: center;
-  background-color:rgba(50,50,50,0.5);
 }
 .modDefaultSlider .sequence .small-title h2 {
   font-size: 1.28571rem;
