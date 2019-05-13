@@ -17,6 +17,7 @@ Vous pouvez vous déplacer dans les différents graphes en utilisant le menu dé
 
 #### Le programme EIG crée une communauté composée d’EIG et de mentors afin de répondre à des défis de transformation numérique
 
+(/img/promo.png)
 
 Le programme EIG est le point de rencontre entre des agents publics désireux d’innover et des citoyens aux compétences numériques de pointe. Ensembles, il développent des projets dans l’État et forment une communauté du numérique d’intérêt général.
 
@@ -27,8 +28,12 @@ On peut citer en exemple des services des ministères comme ceux de [l’Intéri
 La communauté réunie autour du programme est aujourd'hui constituée de **37 EIG alumnis, de 32 EIG actuels, et d'une quarantaine d'agents publics mentors**.
 
 #### Les EIG apportent une pluralité de compétences et de profils au sein des administrations lauréates du programme
-                                      
+
+(/img/competences.png)
+
 Les profils sélectionnés sont en majorité des data scientists, des développeurs et des développeuses, mais la part des designers est en constante augmentation. Le recrutement de designers au sein des défis a été plébiscité par les administrations, et l’utilité de l’approche design confirmée lors de la promotion 2, si bien que la promotion EIG3 compte 5 designers et qu'une filière spécifiquement dédiée au design est prévue pour mi-2019 (voir l'appel à candidature ["Designers d'intérêt général"](https://www.numerique.gouv.fr/actualites/candidatez-designers-interet-general-ux-ui/)). 
+
+(/img/genre.png)
 
 Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions : **18% de femmes dans la promotion EIG 1, 25% dans EIG 2 et 19% dans EIG 3**. Cependant, il correspond au pourcentage de candidatures féminines aux différentes promotions : 12% en 2017, 30% en 2018 et 20% en 2019. 
 
@@ -36,11 +41,17 @@ Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions 
 
 #### Un programme attractif pour les administrations comme pour les candidats
 
+(/img/selection.png)
+
 En trois ans, le programme s’implante dans l’écosystème de l’innovation publique, comme en témoignent les près de 500 candidatures reçues lors des différentes promotions pour 71 postes d'EIG ouverts, ainsi que les 94 défis déposés par des administrations lors des 3 appels à projets.
 
 #### Une implication financière des administrations en augmentation
 
+(/img/financement.png)
+
 Près de 4,8 millions d’euros ont été alloués au programme EIG depuis sa création par le Programme d’investissements d’avenir : 800 000 € en 2017, 2,5 millions € en 2018, 1,5 millions € en 2019.
+
+(/img/depenses.png)
 
 Les dépenses du programme EIG sont réparties sur 4 domaines : les salaires des EIG, le programme d’accompagnement de la promotion, la communication et les liens avec la recherche. 
 
@@ -52,12 +63,16 @@ Les dépenses de communication et celles liées au programme d'accompagnenemt co
 
 #### Un programme d’accompagnement qui participe à la réussite des défis EIG
 
+(/img/accompagnement.png)
+
 Le programme d'accompagnement est un élément clé de la réussite des défis. Le programme offre la possibilité aux EIG de travailler dans un tiers-lieu (le Liberté Living Lab pour les 3 promotions EIG) afin de profiter des synergies entre leurs défis. 
 Pour la promotion EIG3, on est passé d'une demi-journée d'accompagnement toutes les 2 semaines à une journée entière par mois. Deux séminaires hors-les-murs seront organisés (fin mai et début septembre), pour un total de 4 jours.
 
 L'accompagnement s'effectue également grâce à **l’équipe de coordination du programme, composée de 4 personnes au sein d'Etalab (2 personnes contractuelles, 1 vacataire, 1 stagiaire)**. Elles sont en charge de la gestion de projet (suivi administratif, sélection des projets, constitution de la promotion), de l’accompagnement des promotions, de l’évaluation du programme et de l'accélération des défis des promotions précédentes. **L'équipe est également complétée par les "EIG Link"**, qui sont des EIG accueillis au sein d'Etalab pour effectuer la coordination technique des projets. Il s'agit de membres des promotions précédentes (1 EIG Link pour la promotion EIG 2 et 2 pour EIG 3) qui peuvent également partager leurs expériences avec les nouveaux EIG.
 
 #### Un programme qui communique via divers canaux
+
+(/img/communication.png)
 
 La communication autour du programme EIG est un facteur important de la connaissance du programme par différents publics. Ainsi, le programme et les défis ont fait l’objet de 51 articles dans plusieurs médias depuis 2017. L'actualité du programme est aussi relatée sur différentes sites institutionnels comme [numerique.gouv.fr](https://numerique.gouv.fr/), les sites des ministères lauréats, ou encore [modernisation.gouv.fr](https://www.modernisation.gouv.fr/).
 
