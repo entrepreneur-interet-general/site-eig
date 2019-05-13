@@ -17,7 +17,7 @@ Vous pouvez vous déplacer dans les différents graphes en utilisant le menu dé
 
 #### Le programme EIG crée une communauté composée d’EIG et de mentors afin de répondre à des défis de transformation numérique
 
-![Données sur les promotions EIG](img/promo.PNG)
+![Données sur les promotions EIG](/img/promo.PNG)
 _Données sur les promotions EIG_
 
 Le programme EIG est le point de rencontre entre des agents publics désireux d’innover et des citoyens aux compétences numériques de pointe. Ensembles, il développent des projets dans l’État et forment une communauté du numérique d’intérêt général.
