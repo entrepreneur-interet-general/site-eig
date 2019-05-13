@@ -11,7 +11,7 @@ description: "Dans le cadre de l’anniversaire des 3 ans du programme EIG, il n
 Dans le cadre de la troisième promotion du programme EIG, il nous est apparu intéressant d’opérer un retour en arrière, et en données, sur le fonctionnement de celui-ci.
 
 ### Le programme EIG permet la création d’une communauté composée d’EIG et de mentors afin de répondre à des défis
-<iframe width="100%" height="500" src="https://data.eig-forever.org/#promo"> </iframe>
+<iframe width="100%" height="460" src="https://data.eig-forever.org/#promo"> </iframe>
 
 Le programme EIG souhaite être un point de rencontre entre des agents publics désireux d’innover et des citoyens aux compétences numériques de pointe pour développer ensemble des projets dans l’État, et ainsi former une communauté du numérique d’intérêt général.
 Ces différents défis ont pris place dans 19 structures publiques différentes. Certaines de ces administrations ayant accueilli plusieurs défis, le programme EIG a opéré dans un total de **29 services ou directions**.
@@ -35,7 +35,7 @@ La moyenne d’âge des EIG sélectionnés est en baisse depuis le lancement du 
 En trois promotions, le programme s’implante dans l’écosystème de l’innovation publique, comme en témoignent les 500 candidatures reçues lors des différentes promotions pour devenir EIG, ainsi que les 94 défis déposés par des administrations lors des différents appels à projets.
 
 ### Une implication financière des administrations en augmentation
-<iframe width="100%" height="500" src="https://data.eig-forever.org/#financement"> </iframe>
+<iframe width="100%" height="470" src="https://data.eig-forever.org/#financement"> </iframe>
 
 Près de 4,8 millions d’euros ont été alloués au programme EIG depuis sa création par le Programme d’investissements d’avenir (800 000 € en 2017, 2,5 millions € en 2018, 1,5 millions € en 2019)
 
@@ -45,7 +45,7 @@ Les salaires des EIG sont le plus grand poste de dépenses du programme. Cependa
 
 On peut également citer les dépenses de communication ainsi que celles liées au programme d'accompagnenemt qui seront détaillées ci-dessous.
 
-Les liens avec la recherche ont représentés environ 1% du budget annuel de chaque promotion. Ces budgets ont été alloués pour réaliser des études sur le programme EIG avec les laboratoires de recherche Greco pour EIG 1, et avec le chercheur Clément Mabi pour EIG 3.
+Les liens avec la recherche ont représentés environ 1% du budget annuel de chaque promotion. Ces budgets ont été alloués pour réaliser des études sur le programme EIG avec les laboratoires de recherche [Grico](http://www.grico.fr/) pour EIG 1, et avec le chercheur Clément Mabi pour EIG 3.
 
 ### Un programme d’accompagnement qui évolue en fonction des souhaits des participants au programme :
 <iframe width="100%" height="500" src="https://data.eig-forever.org/#accompagnement"> </iframe>
@@ -56,7 +56,7 @@ Le nombre réduit de sessions d'accompagnement pour la troisième promotion est 
 L'accompagnement s'effectue également grâce à l’équipe de coordination du programme, composée de 4 personnes au sein d'Etalab, en charge du suivi administratif, de l’accompagnement des défis et de l’évaluation du programme. L'équipe est également complétée par les EIG Link, qui sont des EIG accueillis au sein d'Etalab pour effectuer la coordination technique des projets. Il s'agit de membres des promotions précédentes (1 pour EIG 2 et 2 pour EIG 3) qui peuvent également partager leurs expériences et leurs vécus aux nouveaux EIG.
 
 ### Un programme qui communique via divers canaux :
-<iframe width="100%" height="500" src="https://data.eig-forever.org/#communication"> </iframe>
+<iframe width="100%" height="460" src="https://data.eig-forever.org/#communication"> </iframe>
 
 La communication autour du programme EIG est un facteur important de la connaissance du programme pour différents publics. Ainsi, le programme et les défis ont fait l’objet de 51 articles dans plusieurs journaux depuis 2017. L'actualité du programme est aussi relaté sur différentes sites administratifs comme [numerique.gouv.fr](https://numerique.gouv.fr/) ou encore [modernisation.gouv.fr](https://www.modernisation.gouv.fr/).
 
@@ -64,5 +64,5 @@ Pour ce qui est du blog Etalab, la mission qui porte le programme EIG, on peut n
 La création du Blog EIG en février 2018 a ouvert une autre plateforme de présentation du programme. 29 publications y ont eu lieu, et une attention particulière a d'ailleurs été mise en place sur la publication de contenus par les EIG dans cet espace, afin qu'ils puissent partager des [retours d'expériences](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html), [partager des points de vues](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-eig) ou encore faire participer des [acteurs de l'écosystème EIG comme la FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html).
 
 
-En effectuant ce retour sur le programme EIG, on peut donc constater qu'il continue de se déployer en répondant à son premier objectif de faire se rencontrer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration. 
-Les données évoquées ici permettent de matérialiser les réalisations du programme, et sont une première étape dans la démarche d'évaluation dans laquelle le programme EIG s'est lancée. Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
+Ce retour sur le programme EIG via ces différentes données nous permet de constater qu'il continue de se déployer en répondant à son premier objectif de faire se rencontrer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration. 
+Les données utilisées ici permettent de matérialiser les réalisations du programme, et sont une première étape dans la démarche d'évaluation dans laquelle celui-ci s'est lancée. Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
