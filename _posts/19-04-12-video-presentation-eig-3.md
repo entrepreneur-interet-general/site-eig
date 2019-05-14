@@ -10,4 +10,4 @@ Dans un précédent article, nous présentions les acteurs de l'écosystème de 
 
 Nous vous présentons maintenant les 32 EIG qui vont relever les 15 défis de la promotion 3. 
 
-<iframe frameborder="0" width="100%" src="https://www.dailymotion.com/embed/video/x75h2pz" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="640" height="480" src="https://www.dailymotion.com/embed/video/x75h2pz" allowfullscreen allow="autoplay"></iframe>
