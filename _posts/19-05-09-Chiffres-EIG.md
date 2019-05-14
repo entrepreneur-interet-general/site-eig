@@ -13,6 +13,7 @@ Alors que l'équipe du programme EIG accompagne actuellement une troisième prom
 Pour mettre en relief les chiffres EIG, nous avons fait appel aux compétences de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), ancien EIG, qui a réalisé les visualisations de cet article (celles-ci sont également consultables sur le [site](https://data.eig-forever.org/) créé pour l'occasion).
 
 <iframe width="100%" height="650" src="https://data.eig-forever.org/#promo"> </iframe>
+
 Vous pouvez accéder aux différents graphes en utilisant le menu déroulant de gauche. Les graphes sont interactifs : vous pouvez donc les explorer en vous déplaçant dedans et les modifier en cliquant sur les légendes.
 
 #### Le programme EIG crée une communauté composée d’EIG et de mentors afin de répondre à des défis de transformation numérique
