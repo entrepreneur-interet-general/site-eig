@@ -6,7 +6,6 @@ twitter: soizicpenicaud
 description: "Rejoins-nous\_! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2019."
 published: true
 ---
-## Rejoins l'équipe Entrepreneur·e d'Intérêt Général à Etalab
 
 ### Offre de stage « Appui à la coordination du programme EIG »
 

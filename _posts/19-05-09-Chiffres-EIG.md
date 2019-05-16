@@ -6,8 +6,6 @@ twitter : eigforever
 description: "Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétrospective du programme en données chiffrées, découvrez-les ! "
 ---
 
-## Data EIG : un retour en chiffres sur 3 années du programme EIG
-
 Alors que l'équipe du programme EIG accompagne actuellement une troisième promotion, il nous est apparu intéressant de vous proposer un retour en arrière, et en données, sur son fonctionnement. Cet article s'inscrit dans le cadre d'une démarche d'évaluation plus globale du programme, dont cette amorce en données constitue un premier volet.
 
 Pour mettre en relief les chiffres EIG, nous avons fait appel aux compétences de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), ancien EIG, qui a réalisé les visualisations de cet article (celles-ci sont également consultables sur le [site](https://data.eig-forever.org/) créé pour l'occasion).
