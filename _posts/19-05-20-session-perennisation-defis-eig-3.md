@@ -31,8 +31,6 @@ Le terme "pérennisation" englobe ainsi plusieurs cas de figure non exclusifs :
 
 Ainsi, la "durée déterminée" des promotions est utile pour impulser un élan de développements et d'itérations rapides avec les utilisateurs. Cependant, elle nécessite d'anticiper les actions à plus long terme qui seront nécessaires pour ancrer les livrables et les compétences dans la durée.  
 
-<iframe src="//speakerdeck.com/player/2de2dac289f6462693e65be8cef6b0fb" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="autoplay; encrypted-media"></iframe>
-
 ---PHOTO de la Présentation + lien vers les slides : https://speakerdeck.com/eig2018/perenisation-defis-eig-session-mentors (à embedder ?)---
 
 # Quels enjeux de pérennisation à mi-parcours pour les défis de la promotion 3 ? 
