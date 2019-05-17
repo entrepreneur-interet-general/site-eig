@@ -6,8 +6,6 @@ twitter: etalab
 description: "De janvier à novembre 2018, le programme Entrepreneur·e d'Intérêt Général (EIG) a accueilli sa deuxième promotion. Pendant 10 mois, 28 data scientists, designers et développeurs répartis en équipes de 2 ou 3, ont vécu en immersion dans leurs administrations centrales. Guidés par leurs mentors, ils ont relevé 13 défis autour du numérique et des données. EIG et mentors reviennent ici sur leurs défis, présentent leurs réalisations et proposent quelques conseils à la prochaine promotion."
 ---
 
-## Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations de la Promotion 2
-
 La transformation numérique des administrations doit se faire en
 collaboration avec les citoyens. Pour cela, le programme
 Entrepreneur·e d'Intérêt Général s'est fixé une mission : créer des

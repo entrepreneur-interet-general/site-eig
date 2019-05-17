@@ -6,7 +6,7 @@ twitter: bzg2
 description: "Le 21 septembre 2018, l'équipe EIG du Mobilier national a organisé une journée « Wikipédia » : le matin, les personnels du Mobilier ont offert aux visiteurs (wikipédiens ou futurs wikipédiens) une visite privée des ateliers ; l'après-midi, chacun a mis en ligne et partagé ses photos sur le projet Wikimedia Commons puis enrichi des articles de l'encyclopédie libre et collaborative. Retour sur une expérience d'ouverture qui a fortement mobilisé et qui ne demande qu'à être prolongée !"
 ---
 
-# L'idée : une journée d'atelier pour contribuer aux projets Wikimédia
+## L'idée : une journée d'atelier pour contribuer aux projets Wikimédia
 
 Laurie et Ned, les deux EIG du [défi
 Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html),
