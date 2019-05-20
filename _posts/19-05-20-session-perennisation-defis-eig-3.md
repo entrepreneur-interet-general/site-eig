@@ -18,7 +18,7 @@ A cette occasion, nous avions identifié [**3 axes** à prendre en compte pour r
 
 Le 18 avril 2019, nous avons renouvelé l'expérience avec les mentors EIG 3, choisissant une approche nouvelle, permise par l'expérience que nous avons accumulée. **Nous nous sommes penchés sur les différentes manières dont les défis des promotions 1 et 2 ont été pérennisés**. Grâce à cela , nous avons identifié les démarches à mettre en œuvre par les mentors de la promotion 3 pour mobiliser les parties prenantes essentielles aux actions de mise en production, transmission et fiabilisation citées plus haut.  
 
-![Un groupe d'adultes installés dans des chaises à roulettes et tablettes. Ils sont tournés vers une jeune femme blonde devant une présentation projetée au mur.](/img/blog/session-mentors-perennisation-2019.jpg) _Les mentors de la promotion 3 découvrent les pistes de pérennisation creusées par les défis des promotions précédentes_
+![Un groupe d'adultes installés dans des chaises à roulettes et tablettes. Ils sont tournés vers une jeune femme blonde devant une présentation projetée au mur.](https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/session-mentors-perennisation-2019.jpg) _Les mentors de la promotion 3 découvrent les pistes de pérennisation creusées par les défis des promotions précédentes_
 
 # Les suites des défis des promotions 1 et 2 : de la consolidation à l'accélération
 
@@ -51,6 +51,6 @@ Parmi les actions importantes pour assurer la suite des défis, on compte :
 
 **Une action prioritaire a été identifiée pour la plupart des défis : s'assurer de continuer à bénéficier de développeurs et datascientist sur les livrables après le programme**. Beaucoup de mentors ont par ailleurs exprimé la volonté de continuer à travailler avec les EIG.
 
-Si les EIG impulsent un élan de transformation numérique, les mentors permettent de le faire perdurer. Ils ont la capacité et donc la responsabilité d'aligner les parties prenantes pour rendre la pérennisation possible. On voit bien que les acteurs métiers, les acteurs stratégiques et les profils techniques doivent collaborer pour mener à bien des projets de transformation numérique.   
+Si les EIG impulsent un élan de transformation numérique, les mentors permettent de le faire perdurer. Ils ont la capacité et donc la responsabilité d'aligner les parties prenantes pour rendre la pérennisation possible. Cette collaboration entre les acteurs métiers, les acteurs stratégiques et les profils techniques est essentielle à la méthode EIG. C'est en effet la manière la plus sûre que nous avons trouvé d'assurer le succès de projets de transformation numérique au sein de l'État.
 
 _En tant qu'équipe de coordination du programme, la pérennisation des défis EIG nous tient à coeur. Dans le cadre d'un projet d'évaluation du programme, nous recueillons actuellement des données plus précises sur les suites des projets et les moyens mis en oeuvre pour y parvenir. Nous vous communiquerons bientôt les résultats !_
