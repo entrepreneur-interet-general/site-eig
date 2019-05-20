@@ -45,9 +45,7 @@ Parmi les actions importantes pour assurer la suite des défis, on compte :
  
 * **Amorcer les actions nécessitant du temps et de la coordination** : recrutements, partenariats, etc. Les mentors du défi [CartoBio](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html) anticipent déjà que l'outil ne sera pas complètement terminé en novembre : ils doivent donc trouver un moyen de continuer à travailler avec les EIG dans la dernière ligne droite. C'est également le cas pour [Explocode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html), car le lancement du Code du travail numérique est prévu au 1er janvier 2020. Les mentors doivent donc penser d'ores et déjà à la prolongation ou non de postes de datascientists au sein de l'équipe après la fin du programme EIG. 
 
----PHOTO MENTORS---on peut aussi mettre une photo du support de travail par paire d'un défi (dont la stratégie n'est pas un sujet sensible :))
-
-**=> Ajouter une photo de matrice remplie par les mentors d'un défi ?
+![Une matrice présente deux scénarios de pérennisation, en précisant les besoins ou difficultés liés à chaque scénario ainsi que les actions à mettre en oeuvre pour réaliser chaque scénario.](https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/matrice-perennisation-explocode.png) _Les scénarios de pérennisation du défi [ExploCode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html) qui a déjà identifié des alliés de choix : DSI, DGT, Etalab et la DINSIC._
 
 **Une action prioritaire a été identifiée pour la plupart des défis : s'assurer de continuer à bénéficier de développeurs et datascientist sur les livrables après le programme**. Beaucoup de mentors ont par ailleurs exprimé la volonté de continuer à travailler avec les EIG.
 
