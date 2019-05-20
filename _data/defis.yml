@@ -98,7 +98,7 @@
   title: Open Justice
   link_to: /defis/2019/openjustice.html
   class: 2019 data web
-  skills: 2019 // Data // Web
+  skills: <br>2019 // Data // Web
   colorback: red
   description: Ouvrir la jurisprudence par la pseudonymisation des données
 
@@ -242,7 +242,7 @@
   title: BNF - catalogage
   link_to: /defis/2017/bnf-catalogage.html
   class: 2017 web
-  skills: 2017 // Web
+  skills: <br>2017 // Web
   colorback: red
   description:  Créer un nouvel outil de catalogage
 
@@ -250,7 +250,7 @@
   title: CC - API rapports
   link_to: /defis/2017/cc-api-rapports.html
   class: 2017 web
-  skills: 2017 // Web
+  skills: <br>2017 // Web
   colorback: red
   description: Mieux informer les citoyens sur l’emploi de l’argent public
 
@@ -258,7 +258,7 @@
   title: DGFiP - fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 data
-  skills: 2017 // Data
+  skills: <br>2017 // Data
   colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
 
@@ -282,7 +282,7 @@
   title: MI - cartAV
   link_to: /defis/2017/mi-cartav-securite-routiere.html
   class: 2017 web
-  skills: 2017 // Web
+  skills: <br>2017 // Web
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
 
@@ -290,6 +290,6 @@
   title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
   class: 2017 web
-  skills: 2017 // Web
+  skills: <br>2017 // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
