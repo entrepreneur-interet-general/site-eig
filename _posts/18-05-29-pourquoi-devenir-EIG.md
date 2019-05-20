@@ -6,7 +6,6 @@ twitter: datatiph
 description: "Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt Général- et nous raconte ce qui l’a poussée à s’engager dans le programme."
 ---
 
-## Pourquoi quitter son travail (1) et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 
 _Tiphaine revient sur son parcours – de Dailymotion à Entrepreneur·e
 d’Intérêt Général - et nous raconte ce qui l’a poussée à s’engager
