@@ -2,10 +2,11 @@
 layout: defi
 title: ACOSS-plateforme
 site: /defis/2019/acossplateforme.html
-annees: 2019
+nom: ACOSS-plateforme
 description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
 administration: Agence centrale des organismes de sécurité sociale (ACOSS)
 administration-website: https://www.acoss.fr/home.html
+annees: 2019
 type: Design & Développement
 eigs:
   - nom: Coline Lebaratoux
