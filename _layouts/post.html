@@ -33,9 +33,10 @@ layout: blog
       /
       <span>
         de
-        <a href="{{page.author_link}}">{{page.author}}</a>
 	{% if page.twitter %}
-        <a href="https://twitter.com/{{page.twitter}}"><i class='fa fa-twitter'></i></a>
+        <a href="https://twitter.com/{{page.twitter}}">{{page.author}}<i class='fa fa-twitter'></i></a>
+	{% else %}
+	{{page.author}}
 	{% endif %}
       </span>
     </p>
