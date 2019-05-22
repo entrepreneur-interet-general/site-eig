@@ -11,7 +11,7 @@ eigs:
   - nom: Constance de Quatrebarbes
     site: /communaute/2017/constance-de-quatrebarbes.html
 mentors: 
-  - nom: Emmanuel Bermès
+  - nom: Emmanuelle Bermès
 images:
   - /img/defis/9_ARCHEMSE.png
 ---
