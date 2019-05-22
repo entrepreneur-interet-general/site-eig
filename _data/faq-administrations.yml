@@ -1,5 +1,5 @@
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
-  reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes de la promotion 2 étaient constituées de 2 EIG.<p>"
+  reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes de la promotion 2 et 3 étaient constituées de 2 EIG.<p>"
   ancre: recruter-2-3-eig
 
 - question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon défi ?"
@@ -31,7 +31,7 @@
   ancre: defi-interministeriel
 
 - question: "Les EIG peuvent-ils être accueillis dans des locaux hors de Paris ?"
-  reponse: "<p>Tout à fait, c’est d’ailleurs le cas pour deux défis EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon).</p><p>En revanche, nous vous conseillons d’anticiper le fait que les EIG seront amenés à se rendre à Paris deux fois par mois pour les sessions d’accompagnement de la promotion, et que les frais de déplacement sont à la charge de l’administration d’accueil.</p>"
+  reponse: "<p>Tout à fait, c’est d’ailleurs le cas pour deux défis EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon).</p><p>En revanche, nous vous conseillons d’anticiper le fait que les EIG seront amenés à se rendre à Paris pour les sessions d’accompagnement de la promotion, et que les frais de déplacement sont à la charge de l’administration d’accueil.</p>"
   ancre: accueil-hors-de-paris
 
 - question: "Quel est généralement le profil des mentors opérationnels ? Quel est leur rôle ?"
@@ -39,15 +39,15 @@
   ancre: profil-mentors-operationnels
 
 - question: "Les mentors opérationnels assistent-ils aux sessions d’accompagnement ?"
-  reponse: "<p>Les mentors opérationnels assistent aux sessions d’accompagnement, à un rythme moins soutenu que les EIG (une fois par mois pour le dispositif mis en place lors de la promotion 2, qui sera amené à évoluer).</p>"
+  reponse: "<p>Les mentors opérationnels assistent aux sessions d’accompagnement, à un rythme moins soutenu que les EIG (une session tous les deux mois pour le dispositif mis en place lors de la promotion 3).</p>"
   ancre: sessions-accompagnement
 
 - question: "Le défi peut-il être encadré par 2 mentors opérationnels ?"
-  reponse: "<p>Oui, tout à fait ! C’est le cas pour plusieurs défis EIG 2.</p>"
+  reponse: "<p>Oui, tout à fait ! C’est le cas pour plusieurs défis EIG 2 et 3.</p>"
   ancre: plusieurs-mentors-operationnels
 
 - question: "Quel est le type de contrat des EIG ?"
-  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil (CDD de 10 mois).</p><p>Une réunion d’information sera organisée en novembre 2018 avec les services des ressources humaines des administrations d’accueil pour clarifier les aspects administratifs et financiers du programme.</p>"
+  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil (CDD de 10 mois).</p>
   ancre: contrat-type-eig
 
 - question: "Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidature ?"
