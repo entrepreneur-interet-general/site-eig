@@ -31,7 +31,7 @@ Comme nous l'avions souhaité, les entrepreneurs d'intérêt général ont profi
 ![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 
-## Souder un collectif des entrepreneurs d'intérêt général
+## Souder un collectif d'entrepreneurs d'intérêt général
 
 Ce séminaire était l'occasion d'emmener les 32 entrepreneurs d'intérêt général hors de leur administration d'accueil pendant 2 jours. Les EIG ont profité de ce séminaire pour échanger de manière informelle durant les pauses et les repas. Bien que nous organisions des séances plénières mensuelles dans un tiers lieu, les EIG nous font part à chaque fois de leur plaisir à pouvoir passer du temps entre collègues, à parler de leurs défis en profondeur, faire connaissance et tisser des liens. Ce premier séminaire était une excellente occasion de renforcer l'esprit de camaraderie de la promotion 3, nécessaire à une collaboration efficace entre les défis et la constitution d'une communauté plus large d'entrepreneurs d'intérêt général.
 
