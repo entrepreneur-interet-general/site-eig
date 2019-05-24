@@ -14,6 +14,7 @@ mentors:
   - nom: Adnène Trojette
     site: /communaute/2019/adnene-trojette.html
 images:
+github : entrepreneur-interet-general/api-ccomptes
 ---
 
 C’est à la Cour des comptes que les institutions publiques rendent des
@@ -40,4 +41,9 @@ _Pour aller plus loin_
 * Le [github](https://github.com/entrepreneur-interet-general/api-ccomptes) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9pl4?playlist=x54m4i)
 
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)
+Interview de Frédéric Bardolle sur son parcours et le défi CC-API Rapports :
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmdzt" allowfullscreen allow="autoplay"></iframe>
+
+[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)
+
+

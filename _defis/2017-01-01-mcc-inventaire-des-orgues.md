@@ -42,4 +42,7 @@ _Pour aller plus loin_
 * Le [site de l'inventaire des orgues](https://www.inventaire-des-orgues.fr) 
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b96fi?playlist=x54m4i)
 
+Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues :
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmec2" allowfullscreen allow="autoplay"></iframe>
+
 _[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39q)_

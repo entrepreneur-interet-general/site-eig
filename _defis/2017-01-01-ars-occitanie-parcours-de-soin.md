@@ -13,6 +13,7 @@ eigs:
 mentors: 
   - nom: Didier Hève
 images:
+github : scossin/parcoursdesoins
 ---
 
 Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise
@@ -39,5 +40,8 @@ _Pour aller plus loin_
 
 * Le [github](https://github.com/entrepreneur-interet-general/parcoursdesoins) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x64z39z)
+
+Interview de Sébastien Cossin sur son parcours et sur le défi ARS - Parcours de soin :
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmeal" allowfullscreen allow="autoplay"></iframe>
 
 _[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x6b9n0b?playlist=x54m4i)_
