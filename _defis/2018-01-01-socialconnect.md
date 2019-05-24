@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: Social Connect
-site: /defis/2018/socialconnect.html
-annees: 2018
-description: Repérer et mettre en réseau l'innovation sociale dans les territoires
-administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
-administration-website: http://www.cget.gouv.fr/
-type: Développement, design UX/UI
-eigs:
-  - nom: Elise Lalique
-    site: /communaute/2018/elise-lalique.html
-  - nom: Julien Paris
-    site: /communaute/2018/julien-paris.html
-mentors:
-  - nom: Bénédicte Pachod
-    site: /communaute/2018/benedicte-pachod.html
-images:
-  - /img/defis/8_CGET.png
 ---
 
 Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que

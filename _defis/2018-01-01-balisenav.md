@@ -1,22 +1,6 @@
 ---
 layout: defi
-title: B@liseNAV
-site: /defis/2018/balisenav.html
-annees: 2018
-description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
-administration: SHOM
-administration-website: http://www.shom.fr
-type: Développement
-eigs:
-  - nom: Arnaud Ménard
-    site: /communaute/2018/arnaud-menard.html
-  - nom: Adrien Signorino
-    site: /communaute/2018/adrien-signorino.html
-mentors:
-  - nom: Éric Le Guen
-    site: /communaute/2018/eric-le-guen.html
-images:
-  -  /img/defis/5_balisage.png 
+title: "b@liseNAV"
 ---
 
 La mer, une grande étendue bleue capricieuse sur laquelle s’élancent

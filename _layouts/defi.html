@@ -2,81 +2,76 @@
 layout: default
 ---
 
+{% assign defi_data = site.data.defis[page.title] %}
+
 <div class='full'>
   <div class='row'>
-    <div class='large-7 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          {% for image in page.images %}
-          <div class="slide">
-            <img src="{{site.url}}/{{image}}" alt="">
-          </div>
-          {% endfor %}
-        </div>
-      </div>
+    <div class="medium-2 columns">
+        <img
+          src="{{ defi_data.image }}"
+          alt="Logo {{ page.title }}"
+          width="150"
+          style="margin-top: 1em"
+        >
     </div>
-    <div class='large-5 columns'>
-      <h3>{{page.titre}}</h3>
-      <ul class='info'>
-        <li>
-          <strong>Année :</strong>
-          {{page.annees}}
-        </li>
-        <li>
-          <strong>Administration :</strong>
-          <a href='{{page.administration-website}}' target='new'>{{page.administration}}</a>
-        </li>
-        <li>
-          <strong>Mission :</strong>
-          {{page.description}}
-        </li>
-	{% if page.type %}
-        <li>
-          <strong>Type :</strong> <!-- FIXME: type est mauvais -->
-          {{page.type}} 
-        </li>
-	{% endif %}
-        <li>
-            <strong>EIGs :</strong>
-	    {% for eig in page.eigs %}
-	    {% if eig.site %}
-	    <a href='{{eig.site}}'>{{eig.nom}}</a>
-	    {% else %}
-	    {{eig.nom}}
-	    {% endif %}
-	    {% unless forloop.last %}
-            /
-            {% endunless %}
-	    {% endfor %}
-        </li>
-        <li>
-            <strong>Mentors :</strong>
-	    {% for mentor in page.mentors %}
-	    {% if mentor.site %}
-	    <a href='{{mentor.site}}'>{{mentor.nom}}</a>
-	    {% else %}
-	    {{mentor.nom}}
-	    {% endif %}
-	    {% unless forloop.last %}
-            /
-            {% endunless %}
-	    {% endfor %}
-        </li>
-	<li>	
-        {% if page.github %}
-        <a href="https://github.com/{{page.github}}">
-          <i class='big-social fa fa-github'></i>
-        </a>
-{% endif %}
-      </ul>
-      <div class='spacing'></div>
-      {% if page.site %}
-      <a class='button small' href='/defis.html'>Voir les autres défis</a>
-      {% endif %}
-    </div>
-    <div class='large-12 columns'>
-      {{content}}
+    <div class='medium-10 columns'>
+      <h1>{{ page.title }}</h1>
+      <h3>{{ defi_data.description}}</h3>
     </div>
   </div>
+  <div class="spacing"></div>
+  <div class="row">
+    <div class="medium-12 columns">
+      <h4>
+        <i class="fa fa-map-marker"></i>
+        <a href='{{defi_data.administration-website}}' target='new'>{{defi_data.administration}}</a>
+      </h4>
+      <h4>
+        <i class="fa fa-calendar"></i>
+        {{ defi_data.year }}
+      </h4>
+    </div>
+  </div>
+
+  <div class="two spacing"></div>
+
+  <div class="row">
+    {% for eig in defi_data.eigs %}
+      <div class="medium-6 large-3 columns text-center">
+        <a href="{{site.data.personnes[eig].link_to}}">
+          <img
+            src="/{{ site.data.personnes[eig].image }}"
+            alt="Photo {{ eig }}"
+            style="border-radius: 50%"
+          ><br>
+          {{ eig }} - <span style="color:#333">{{site.data.personnes[eig].profil }}</span>
+        </a>
+      </div>
+    {% endfor %}
+    {% for mentor in defi_data.mentors %}
+      <div class="medium-6 large-3 columns text-center">
+        <a href="{{site.data.personnes[mentor].link_to}}">
+          <img
+            src="/{{ site.data.personnes[mentor].image }}"
+            alt="Photo {{ mentor }}"
+            style="border-radius: 50%"
+          ><br>
+          {{ mentor }} - <span style="color:#333">{{site.data.personnes[mentor].profil }}</span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="row">
+    <div class="medium-12 columns">
+      <div class="two spacing"></div>
+      {% if defi_data.website %}
+      <a class="button small" href="{{ defi_data.website }}">Démonstration</a>
+      {% endif %}
+      <div class="two spacing"></div>
+      {{ content }}
+    </div>
+  </div>
+
   <div class='four spacing'></div>
 </div>

@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: Prévisecours
-site: /defis/2018/previsecours.html
-annees: 2018
-description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
-administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
-administration-website: https://www.interieur.gouv.fr/
-type: Datascience
-eigs:
-  - nom: Tiphaine Phe-Neau
-    site: /communaute/2018/tiphaine-phe-neau.html
-  - nom: Guillaume Lancrenon
-    site: /communaute/2018/guillaume-lancrenon.html
-mentors:
-  - nom: Daniel Ansellem
-    site: /communaute/2018/daniel-ansellem.html
-images:
-  - /img/defis/4_Previsecours.png
 ---
 
 En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants… 

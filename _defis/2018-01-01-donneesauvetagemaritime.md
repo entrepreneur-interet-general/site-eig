@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: PrédiSauvetage
-site: /defis/2018/donneesauvetagemaritime.html
-annees: 2018
-description: Sauver des vies en mer en prévenant les accidents maritimes grâce aux données
-administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
-administration-website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
-type: Datascience, ux design, datavisualisation
-eigs:
-  - nom: Elsa Luneville
-    site: /communaute/2018/elsa-luneville.html
-  - nom: Antoine Augusti
-    site: /communaute/2018/antoine-augusti.html
-mentors:
-  - nom: Laurence Matringe
-    site: /communaute/2018/laurence-matringe.html
-  - nom: Renaud Périn
-    site: /communaute/2018/renaud-perin.html
-images:
-  - /img/defis/1_MTES.png
 ---
 
 En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été

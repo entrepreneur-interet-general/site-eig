@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: Signaux Faibles
-site: /defis/2018/signauxfaibles.html
-annees: 2018
-description: Détecter les entreprises en difficulté pour mieux les accompagner
-administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
-administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
-type: Datascience, développement
-eigs:
-  - nom: Pierre Camilleri
-    site: /communaute/2018/pierre-camilleri.html
-  - nom: Christophe Ninucci
-    site: /communaute/2018/christophe-ninucci.html
-mentors:
-  - nom: Stéphanie Schaer
-    site: /communaute/2018/stephanie-schaer.html
-images:
-  - /img/defis/6_Signauxfaibles.png
 ---
 
 En France, chaque année, 60 000 PME et ETI sont en situation de défaillance. Mais si leurs
