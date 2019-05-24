@@ -5,7 +5,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/plume.html" target="new">CC-API rapports, Plume</a>
   class: 2019 mentor
-  desc: Adnène Trojette
 
 - image: img/communaute/miniatures/AdrienSignorino.png
   title: Adrien Signorino
@@ -17,7 +16,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Adrien Signorino
 
 - image: img/communaute/miniatures/alain-regnier.png
   title: Alain Régnier
@@ -26,7 +24,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
   class: 2019 mentor
-  desc: Alain Régnier
 
 - image: img/communaute/miniatures/Amaury-Fouret.jpg
   title: Amaury Fouret
@@ -38,8 +35,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Amaury Fouret
-  
+
 - image: img/communaute/miniatures/ambre-arnaud.jpg
   title: Ambre Arnaud
   link_to: /communaute/2018/ambre-arnaud.html
@@ -50,7 +46,6 @@
   - 2018
   - eig
   - webdev
-  desc: Ambre Arnaud
 
 - image: img/communaute/miniatures/amelie-medem.jpg
   title: Amélie Medem
@@ -62,8 +57,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Amélie Medem
-  
+
 - image: img/communaute/miniatures/anne-lambert.jpg
   title: Anne Lambert
   link_to: /communaute/2018/anne-lambert.html
@@ -73,7 +67,6 @@
   class:
   - 2018
   - mentor
-  desc: Anne Lambert
 
 - image: img/communaute/miniatures/anne-sophie-hutin.png
   title: Anne-Sophie Hutin
@@ -82,7 +75,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
   class: 2019 mentor
-  desc: Anne-Sophie Hutin
 
 - image: img/communaute/miniatures/anoureth-pongrattana.jpg
   title: Anoureth Pongrattana
@@ -94,8 +86,7 @@
   - 2019
   - eig
   - webdev
-  desc: Anoureth Pongrattana
-  
+
 - image: img/communaute/miniatures/Antoine-Augusti.png
   title: Antoine Augusti
   link_to: /communaute/2018/antoine-augusti.html
@@ -107,7 +98,6 @@
   - 2019
   - eig
   - webdev
-  desc: Antoine Augusti
 
 - image: img/communaute/miniatures/armand-giraud.jpg
   title: Armand Giraud
@@ -119,8 +109,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Armand Giraud
-  
+
 - image: img/communaute/miniatures/Arnaud-Menard.png
   title: Arnaud Ménard
   link_to: /communaute/2018/arnaud-menard.html
@@ -131,7 +120,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Arnaud Ménard
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Arnaud Rachez
@@ -143,7 +131,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Arnaud Rachez
 
 - image: img/communaute/miniatures/audrey-istace.png
   title: Audrey Istace
@@ -152,7 +139,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
   class: 2019 mentor
-  desc: Audrey Istace
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Augustin Wenger
@@ -164,8 +150,7 @@
   - 2019
   - eig
   - webdev
-  desc: Augustin Wenger
-  
+
 - image: img/communaute/miniatures/Bastien-Guerry.png
   title: Bastien Guerry
   link_to: /communaute/2018/bastien-guerry.html
@@ -177,7 +162,6 @@
   - 2018
   - eig
   - webdev
-  desc: Bastien Guerry
 
 - image: img/communaute/miniatures/benedicte-pachod.png
   title: Bénédicte Pachod
@@ -188,12 +172,10 @@
   class:
   - 2018
   - mentor
-  desc: Bénédicte Pachod
 
 - image: img/communaute/miniatures/Benoit-Guigal.png
   title: Benoît Guigal
   link_to: /communaute/2018/benoit-guigal.html
-  desc: Benoît Guigal
   annee: 2018
   profil: Développeur
   defi: <a href="/defis/2018/hopkins.html" target="new">Hopkins</a>
@@ -201,7 +183,6 @@
   - 2018
   - eig
   - webdev
-  desc: Benoît Guigal
 
 - image: img/communaute/miniatures/carine-stolz.jpg
   title: Carine Stolz
@@ -213,7 +194,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Carine Stolz
 
 - image: img/communaute/miniatures/cedric-malherbe.jpg
   title: Cédric Malherbe
@@ -225,8 +205,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Cédric Malherbe
-  
+
 - image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
   link_to: /communaute/2018/christophe-ninucci.html
@@ -237,7 +216,6 @@
   - 2018
   - eig
   - webdev
-  desc: Christophe Ninucci
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Chloé Moser
@@ -248,7 +226,6 @@
   class:
   - 2018
   - mentor
-  desc: Chloé Moser
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Claudio Cimelli
@@ -259,7 +236,6 @@
   class:
   - 2018
   - mentor
-  desc: Claudio Cimelli
 
 - image: img/communaute/miniatures/coline-lebaratoux.jpg
   title: Coline Lebaratoux
@@ -271,8 +247,7 @@
   - 2019
   - eig
   - designer
-  desc: Coline Lebaratoux
-  
+
 - image: img/communaute/miniatures/Constance-Quatrebarbes.png
   title: Constance de Quatrebarbes
   link_to: /communaute/2017/constance-de-quatrebarbes.html
@@ -283,7 +258,6 @@
   - 2017
   - eig
   - datascientist
-  desc: Constance de Quatrebarbes
 
 - image: img/communaute/miniatures/cristian-perez.jpg
   title: Cristian Perez Brokate
@@ -295,8 +269,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Cristian Perez
-  
+
 - image: img/communaute/miniatures/Daniel-Ansellem-2.png
   title: Daniel Ansellem
   link_to: /communaute/2018/daniel-ansellem.html
@@ -308,7 +281,6 @@
   - 2018
   - 2019
   - mentor
-  desc: Daniel Ansellem
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: David Panou
@@ -320,7 +292,6 @@
   - 2018
   - eig
   - datascientist
-  desc: David Panou
 
 - image: img/communaute/miniatures/7_DelphineLE.png
   title: Delphine Lê
@@ -332,7 +303,6 @@
   - 2018
   - 2019
   - mentor
-  desc: Delphine Lê
 
 - image: img/communaute/miniatures/Dora-Crisan.png
   title: Dora Crisan
@@ -344,7 +314,6 @@
   - 2018
   - eig
   - webdev
-  desc: Dora Crisan
 
 - image: img/communaute/miniatures/Photo-DorianFLECHET.png
   title: Dorian Flechet
@@ -353,7 +322,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
   class: 2019 mentor
-  desc: Dorian Flechet
 
 - image: img/communaute/miniatures/dorine-lambinet.jpg
   title: Dorine Lambinet
@@ -365,8 +333,7 @@
   - 2019
   - eig
   - designer
-  desc: Dorine Lambinet
-  
+
 - image: img/communaute/miniatures/edouard-rottier.png
   title: Edouard Rottier
   link_to: /communaute/2019/edouard-rottier.html
@@ -374,7 +341,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
   class: 2019 mentor
-  desc: Edouard Rottier
 
 - image: img/communaute/miniatures/elise-250.jpg
   title: Élise Lalique
@@ -386,7 +352,6 @@
   - 2018
   - eig
   - designer
-  desc: Élise Lalique
 
 - image: img/communaute/miniatures/eloi-buat-menard.jpg
   title: Éloi Buat-Ménard
@@ -395,7 +360,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
   class: 2019 mentor
-  desc: Éloi Buat-Ménard
 
 - image: img/communaute/miniatures/Elsa-Luneville.png
   title: Elsa Luneville
@@ -407,7 +371,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Elsa Luneville
 
 - image: img/communaute/miniatures/Emmanuel-Gautier.png
   title: Emmanuel Gautier
@@ -419,7 +382,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Emmanuel Gautier
 
 - image: img/communaute/miniatures/Emmanuel-Weisenburger.png
   title: Emmanuel Weisenburger
@@ -431,7 +393,6 @@
   - 2017
   - 2018
   - mentor
-  desc: Emmanuel Weisenburger
 
 - image: img/communaute/miniatures/eric_le_guen.jpg
   title: Eric Le Guen
@@ -442,7 +403,6 @@
   class:
   - 2018
   - mentor
-  desc: Eric Le Guen
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Erica Marco
@@ -454,8 +414,7 @@
   - 2019
   - eig
   - webdev
-  desc: Erica Marco
-  
+
 - image: img/communaute/miniatures/Etienne-David.png
   title: Etienne David
   link_to: /communaute/2017/etienne-david.html
@@ -466,7 +425,6 @@
   - 2017
   - eig
   - webdev
-  desc: Etienne David
 
 - image: img/communaute/miniatures/Francis-Chabouis.png
   title: Francis Chabouis
@@ -478,7 +436,6 @@
   - 2017
   - eig
   - webdev
-  desc: Francis Chabouis
 
 - image: img/communaute/miniatures/francois-bocquet.png
   title: François Bocquet
@@ -489,7 +446,6 @@
   class:
   - 2018
   - mentor
-  desc: François Bocquet
 
 - image: img/communaute/miniatures/Frederic-Bardolle.png
   title: Frédéric Bardolle
@@ -501,7 +457,6 @@
   - 2017
   - eig
   - webdev
-  desc: Frédéric Bardolle
 
 - image: img/communaute/miniatures/Gabriel-Bastard.jpg
   title: Gabriel Bastard
@@ -513,7 +468,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Gabriel Bastard
 
 - image: img/communaute/miniatures/Guenole-Carre-miniature.jpg
   title: Guénolé Carré
@@ -523,7 +477,6 @@
   defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
   class:
   - 2019
-  desc: Guénolé Carré
 
 - image: img/communaute/miniatures/Guillaume-Lancrenon.png
   title: Guillaume Lancrenon
@@ -535,7 +488,6 @@
   - 2018
   - eig
   - webdev
-  desc: Guillaume Lancrenon
 
 - image: img/communaute/miniatures/helene_cavalie.jpg
   title: Hélène Cavalié
@@ -546,8 +498,7 @@
   class:
   - 2018
   - mentor
-  desc: Hélène Cavalié
-  
+
 - image: img/communaute/miniatures/herve-brule.png
   title: Hervé Brulé
   link_to: /communaute/2019/herve-brule.html
@@ -555,7 +506,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
   class: 2019 mentor
-  desc: Hervé Brulé
 
 - image: img/communaute/miniatures/hugo-stephan.jpg
   title: Hugo Stéphan
@@ -567,7 +517,6 @@
   - 2019
   - eig
   - designer
-  desc: Hugo Stéphan
 
 - image: img/communaute/miniatures/iana-ivanov.jpg
   title: Iana Ivanov
@@ -576,7 +525,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
   class: 2019 mentor
-  desc: Iana Ivanov
 
 - image: img/communaute/miniatures/JeanBaptiste-Assouad.png
   title: Jean-Baptiste Assouad
@@ -588,7 +536,6 @@
   - 2018
   - eig
   - webdev
-  desc: Jean-Baptiste Assouad
 
 - image: img/communaute/miniatures/jean-baptiste-le-devehat.jpg
   title: Jean-Baptiste Le Dévéhat
@@ -601,7 +548,6 @@
   - 2019
   - eig
   - designer
-  desc: Jean-Baptiste Le Dévéhat
 
 - image: img/communaute/miniatures/photo-duscher-v2.png
   title: Jean-René Duscher
@@ -610,7 +556,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
   class: 2019 mentor
-  desc: Jean-René Duscher
 
 - image: img/communaute/miniatures/julien-bouquillon.png
   title: Julien Bouquillon
@@ -619,7 +564,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
   class: 2019 mentor
-  desc: Julien Bouquillon
 
 - image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
@@ -631,7 +575,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Julien Naour
 
 - image: img/communaute/miniatures/JulienParis.png
   title: Julien Paris
@@ -643,7 +586,6 @@
   - 2018
   - eig
   - webdev
-  desc: Julien Paris
 
 - image: img/communaute/miniatures/kim-montalibet.jpg
   title: Kim Montalibet
@@ -655,8 +597,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Kim Montalibet
-  
+
 - image: img/communaute/miniatures/Sans-photo.png
   title: Laurence Matringe
   link_to: /communaute/2018/laurence-matringe.html
@@ -666,7 +607,6 @@
   class:
   - 2018
   - mentor
-  desc: Laurence Matringe
 
 - image: img/communaute/miniatures/Laurent-Dupont.png
   title: Laurent Dupont
@@ -678,7 +618,6 @@
   - 2017
   - eig
   - webdev
-  desc: Laurent Dupont
 
 - image: img/communaute/miniatures/laurent-toustou.jpg
   title: Laurent Toustou
@@ -687,7 +626,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
   class: 2019 mentor
-  desc: Laurent Toustou
 
 - image: img/communaute/miniatures/Laurie-Chapotte.png
   title: Laurie Chapotte
@@ -699,7 +637,6 @@
   - 2018
   - eig
   - designer
-  desc: Laurie Chapotte
 
 - image: img/communaute/miniatures/Leo-Bouloc.png
   title: Léo Bouloc
@@ -711,7 +648,6 @@
   - 2017
   - eig
   - datascientist
-  desc: Léo Bouloc
 
 - image: img/communaute/miniatures/luc-salommez.jpg
   title: Luc Salommez
@@ -723,7 +659,6 @@
   - 2019
   - eig
   - webdev
-  desc: Luc Salommez
 
 - image: img/communaute/miniatures/lucas-bchini.jpg
   title: Lucas Bchini
@@ -735,7 +670,6 @@
   - 2019
   - eig
   - webdev
-  desc: Lucas Bchini
 
 - image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
@@ -744,7 +678,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
   class: 2019 mentor
-  desc: Marie Feucher
 
 - image: img/communaute/miniatures/marielle-chrisment.jpg
   title: Marielle Chrisment
@@ -755,7 +688,6 @@
   class:
   - 2018
   - mentor
-  desc: Marielle Chrisment
 
 - image: img/communaute/miniatures/Marion-Paclot.png
   title: Marion Paclot
@@ -767,8 +699,7 @@
   - 2017
   - eig
   - datascientist
-  desc: Marion Paclot
-  
+
 - image: img/communaute/miniatures/Martin-Gross.png
   title: Martin Gross
   link_to: /communaute/2017/martin-gross.html
@@ -779,7 +710,6 @@
   - 2017
   - eig
   - webdev
-  desc: Martin Gross
 
 - image: img/communaute/miniatures/mathieu-andro.jpg
   title: Mathieu Andro
@@ -788,8 +718,7 @@
   profil: Mentor
   defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
   class: 2019 mentor
-  desc: Mathieu Andro
-  
+
 - image: img/communaute/miniatures/mathieu-havel.jpg
   title: Mathieu Havel
   link_to: /communaute/2019/mathieu-havel.html
@@ -800,8 +729,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Mathieu Havel
-  
+
 - image: img/communaute/miniatures/mathieu-perez.jpg
   title: Mathieu Perez
   link_to: /communaute/2019/mathieu-perez.html
@@ -812,8 +740,7 @@
   - 2019
   - eig
   - webdev
-  desc: Mathieu Perez
-  
+
 - image: img/communaute/miniatures/mathilde_bras.jpg
   title: Mathilde Bras
   link_to: /communaute/2018/mathilde-bras.html
@@ -825,7 +752,6 @@
   - 2018
   - 2019
   - mentor
-  desc: Mathilde Bras
 
 - image: img/communaute/miniatures/mauko-quiroga.png
   title: Mauko Quiroga
@@ -834,7 +760,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
   class: 2019 mentor
-  desc: Mauko Quiroga
 
 - image: img/communaute/miniatures/Maxime-Pierrot.png
   title: Maxime Pierrot
@@ -846,7 +771,6 @@
   - 2018
   - eig
   - webdev
-  desc: Maxime Pierrot
 
 - image: img/communaute/miniatures/Ned-Baldessin.png
   title: Ned Baldessin
@@ -858,7 +782,6 @@
   - 2018
   - eig
   - webdev
-  desc: Ned Baldessin
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Nicolas Berkouk
@@ -870,8 +793,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Nicolas Berkouk
-  
+
 - image: img/communaute/miniatures/nicolas-bizet.png
   title: Nicolas Bizet
   link_to: /communaute/2019/nicolas-bizet.html
@@ -879,7 +801,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
   class: 2019 mentor
-  desc: Nicolas Bizet
 
 - image: img/communaute/miniatures/nikos-peteinatos.jpg
   title: Nikos Peteinatos
@@ -891,7 +812,6 @@
   - 2019
   - eig
   - designer
-  desc: Nikos Peteinatos
 
 - image: img/communaute/miniatures/olivier-brandouy.jpg
   title: Olivier Brandouy
@@ -900,7 +820,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
   class: 2019 mentor
-  desc: Olivier Brandouy
 
 - image: img/communaute/miniatures/pascal-guy.jpg
   title: Pascal Guy
@@ -909,7 +828,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
   class: 2019 mentor
-  desc: Pascal Guy
 
 - image: img/communaute/miniatures/patricia-poulet-mathis.png
   title: Patricia Poulet-Mathis
@@ -918,7 +836,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
   class: 2019 mentor
-  desc: Patricia Poulet-Mathis
 
 - image: img/communaute/miniatures/Paul-Boosz.png
   title: Paul Boosz
@@ -930,7 +847,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Paul Boosz
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Paul Schmite
@@ -941,7 +857,6 @@
   class:
   - 2017
   - 2018
-  desc: Paul Schmite
 
 - image: img/communaute/miniatures/phileas-condemine.png
   title: Philéas Condemine
@@ -955,8 +870,7 @@
   - eig
   - mentor
   - datascientist
-  desc: Phileas Condemine
-  
+
 - image: img/communaute/miniatures/pierre-alain-jachiet.jpg
   title: Pierre-Alain Jachiet
   link_to: /communaute/2019/pierre-alain-jachiet.html
@@ -967,8 +881,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Pierre-Alain Jachiet
-  
+
 - image: img/communaute/miniatures/pierre-camilleri.png
   title: Pierre Camilleri
   link_to: /communaute/2018/pierre-camilleri.html
@@ -979,7 +892,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Pierre Camilleri
 
 - image: img/communaute/miniatures/quentin-loridant.jpg
   title: Quentin Loridant
@@ -991,7 +903,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Quentin Loridant
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Renaud Périn
@@ -1002,7 +913,6 @@
   class:
   - 2018
   - mentor
-  desc: Renaud Périn
 
 - image: img/communaute/miniatures/Sans-photo.png
   title: Rémy Nollet
@@ -1013,7 +923,6 @@
   class:
   - 2018
   - mentor
-  desc: Rémy Nollet
 
 - image: img/communaute/miniatures/Samah-Ghalloussi.png
   title: Samah Ghalloussi
@@ -1025,7 +934,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Samah Ghalloussi
 
 - image: img/communaute/miniatures/sami-moustachir.jpg
   title: Sami Moustachir
@@ -1037,7 +945,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Sami Moustachir
 
 - image: img/communaute/miniatures/samir-kebli.jpg
   title: Samir Kebli
@@ -1046,7 +953,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
   class: 2019 mentor
-  desc: Samir Kebli
 
 - image: img/communaute/miniatures/sandra-chakroun.jpg
   title: Sandra Chakroun
@@ -1055,7 +961,6 @@
   profil: Mentor
   defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
   class: 2019 mentor
-  desc: Sandra Chakroun
 
 - image: img/communaute/miniatures/Sebastien-Cossin.png
   title: Sébastien Cossin
@@ -1067,7 +972,6 @@
   - 2017
   - eig
   - webdev
-  desc: Sébastien Cossin
 
 - image: img/communaute/miniatures/sebastien-touze.jpg
   title: Sébastien Touzé
@@ -1079,7 +983,6 @@
   - 2019
   - eig
   - webdev
-  desc: Sébastien Touzé
 
 - image: img/communaute/miniatures/simon-karleskind.png
   title: Simon Karleskind
@@ -1090,7 +993,6 @@
   class:
   - 2019
   - mentor
-  desc: Simon Karleskind
 
 - image: img/communaute/miniatures/simon-lebastard.jpg
   title: Simon Lebastard
@@ -1102,7 +1004,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Simon Lebastard
 
 - image: img/communaute/miniatures/sophie-milkovitch.jpg
   title: Sophie Miljkovic
@@ -1113,7 +1014,6 @@
   class:
   - 2018
   - 2019
-  desc: Sophie Miljkovic
 
 - image: img/communaute/miniatures/Soufiane-Lamrissi.jpg
   title: Soufiane Lamrissi
@@ -1125,7 +1025,6 @@
   - 2019
   - eig
   - webdev
-  desc: Soufiane Lamrissi
 
 - image: img/communaute/miniatures/stephanie-combes.jpg
   title: Stéphanie Combes
@@ -1136,7 +1035,6 @@
   class:
   - 2018
   - mentor
-  desc: Stéphanie Combes
 
 - image: img/communaute/miniatures/stephanie-schaer.jpg
   title: Stéphanie Schaer
@@ -1147,7 +1045,6 @@
   class:
   - 2018
   - mentor
-  desc: Stéphanie Schaer
 
 - image: img/communaute/miniatures/soizic_penicaud.jpg
   title: Soizic Pénicaud
@@ -1158,7 +1055,6 @@
   class:
   - 2017
   - 2018
-  desc: Soizic Pénicaud
 
 - image: img/communaute/miniatures/thierry-razanajao.jpg
   title: Thierry Razanajao
@@ -1170,8 +1066,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Thierry Razanajao
-  
+
 - image: img/communaute/miniatures/Tiphaine-PheNeau.png
   title: Tiphaine Phe-Neau
   link_to: /communaute/2018/tiphaine-phe-neau.html
@@ -1182,7 +1077,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Tiphaine Phe-Neau
 
 - image: img/communaute/miniatures/Tristram-Grabener.png
   title: Tristram Gräbener
@@ -1194,7 +1088,6 @@
   - 2017
   - eig
   - webdev
-  desc: Tristram Gräbener
 
 - image: img/communaute/miniatures/Valentin-Barriere.jpg
   title: Valentin Barrière
@@ -1206,7 +1099,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Valentin Barrière
 
 - image: img/communaute/miniatures/victor-journe.jpg
   title: Victor Journé
@@ -1218,7 +1110,6 @@
   - 2019
   - eig
   - datascientist
-  desc: Victor Journé
 
 - image: img/communaute/miniatures/victor-schmidt.jpg
   title: Victor Schmidt
@@ -1230,7 +1121,6 @@
   - 2018
   - eig
   - datascientist
-  desc: Victor Schmidt
 
 - image: img/communaute/miniatures/viktor-jarry.jpg
   title: Viktor Jarry
@@ -1242,8 +1132,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Viktor Jarry
-  
+
 - image: img/communaute/miniatures/wojtek-sitarz.jpg
   title: Wojtek Sitarz
   link_to: /communaute/2019/wojtek-sitarz.html
@@ -1254,8 +1143,7 @@
   - 2019
   - eig
   - datascientist
-  desc: Wojtek Sitarz
-  
+
 - image: img/communaute/miniatures/Sans-photo.png
   title: Yann Caradec
   link_to: /communaute/2018/yann-caradec.html
@@ -1265,4 +1153,3 @@
   class:
   - 2018
   - mentor
-  desc: Yann Caradec
