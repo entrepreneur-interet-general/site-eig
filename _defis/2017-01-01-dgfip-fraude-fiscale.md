@@ -1,18 +1,6 @@
 ---
 layout: defi
 title: DGFiP - fraude fiscale
-site: /defis/2017/dgfip-fraude-fiscale.html
-annees: 2017
-description: "Identifier les résidents fiscaux français ayant omis de déclarer des sources de revenus à l’étranger"
-administration: Direction Générale des Finances Publiques
-administration-website: https://www.economie.gouv.fr/dgfip
-type: Datascience
-eigs:
-  - nom: Marion Paclot
-    site: /communaute/2017/marion-paclot.html
-mentors: 
-  - nom: Philippe Schall
-images:
 ---
 
 Monsieur Dupont habite en France mais il travaille au Luxembourg.

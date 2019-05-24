@@ -1,19 +1,6 @@
 ---
 layout: defi
-title: Cour des comptes - API rapports
-site: /defis/2017/cc-api-rapports.html
-annees: 2017
-description: "Mieux informer les citoyens sur l’emploi de l’argent public"
-administration: Cour des comptes
-administration-website: https://www.ccomptes.fr/en
-type: Développement
-eigs:
-  - nom: Frédéric Bardolle
-    site: /communaute/2017/frederic-bardolle.html
-mentors: 
-  - nom: Adnène Trojette
-    site: /communaute/2019/adnene-trojette.html
-images:
+title: CC - API rapports
 github : entrepreneur-interet-general/api-ccomptes
 ---
 

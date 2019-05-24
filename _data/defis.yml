@@ -361,6 +361,7 @@
     - "Julien Paris"
   mentors:
     - "Bénédicte Pachod"
+
 "AFD - Geodata":
   image: /img/icone-eig.png
   title: AFD - Geodata
@@ -369,6 +370,13 @@
   skills: 2017 // Web
   colorback: red
   description: Mettre les données ouvertes au service de projets de développement
+  year: 2017
+  administration: Agence Française de Développement
+  administration-website: http://www.afd.fr
+  eigs:
+    - "Étienne David"
+  mentors:
+    - "Antoine Chèvre"
 
 "ARS - Parcours de soin":
   image: /img/icone-eig.png
@@ -378,6 +386,13 @@
   skills: 2017 // Data // Web
   colorback: red
   description: Améliorer l’offre de soin en Occitanie
+  year: 2017
+  administration: Secrétariat général des ministères sociaux
+  administration-website: https://solidarites-sante.gouv.fr
+  eigs:
+    - "Sébastien Cossin"
+  mentors:
+    - "Didier Hève"
 
 "BNF - catalogage":
   image: /img/icone-eig.png
@@ -386,7 +401,14 @@
   class: 2017 web
   skills: <br>2017 // Web
   colorback: red
-  description:  Créer un nouvel outil de catalogage
+  description: Créer un nouvel outil de catalogage
+  administration: Bibliothèque nationale de France
+  administration-website: http://www.bnf.fr
+  year: 2017
+  eigs:
+    - "Constance de Quatrebarbes"
+  mentors:
+    - "Emmanuelle Bermès"
 
 "CC - API rapports":
   image: /img/icone-eig.png
@@ -396,6 +418,13 @@
   skills: <br>2017 // Web
   colorback: red
   description: Mieux informer les citoyens sur l’emploi de l’argent public
+  administration: Cour des comptes
+  administration-website: https://www.ccomptes.fr
+  year: 2017
+  eigs:
+    - "Frédéric Bardolle"
+  mentors:
+    - "Adnène Trojette"
 
 "DGFiP - fraude fiscale":
   image: /img/icone-eig.png
@@ -405,6 +434,13 @@
   skills: <br>2017 // Data
   colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
+  year: 2017
+  administration: Direction Générale des Finances Publiques
+  administration-website: https://www.economie.gouv.fr/dgfip
+  eigs:
+    - "Marion Paclot"
+  mentors:
+    - "Philippe Schall"
 
 "MCC - Inventaire des orgues":
   image: /img/icone-eig.png
@@ -414,6 +450,15 @@
   skills: 2017 // Web
   colorback: red
   description: Révéler et valoriser le patrimoine des orgues
+  year: 2017
+  administration: Ministère de la culture
+  administration-website: http://www.culture.gouv.fr
+  eigs:
+    - "Bastien Guerry"
+  mentors:
+    - "Judith Kagan"
+    - "Marie-Véronique Leroi"
+    - "Sophie Cueille"
 
 "MESRI - La machine à données":
   image: /img/icone-eig.png
@@ -423,6 +468,15 @@
   skills: 2017 // Web
   colorback: red
   description: Automatiser le nettoyage de bases de données
+  year: 2017
+  administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
+  administration-website: http://www.enseignementsup-recherche.gouv.fr
+  eigs:
+    - "Léo Bouloc"
+  mentors:
+    - "Laurent Dupont"
+    - "Emmanuel Weisenburger"
+    - "Yann Caradec"
 
 "MI - cartAV":
   image: /img/icone-eig.png
@@ -432,6 +486,14 @@
   skills: <br>2017 // Web
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
+  year: 2017
+  administration: Ministère de l'Intérieur
+  administration-website: https://www.interieur.gouv.fr
+  eigs:
+    - "Francis Chabouis"
+  mentors:
+    - "Tristram Gräbener"
+    - "Daniel Ansellem"
 
 "MI - matchID":
   image: /img/icone-eig.png
@@ -441,3 +503,10 @@
   skills: <br>2017 // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
+  administration: Ministère de l'Intérieur
+  administration-website: https://www.interieur.gouv.fr/
+  year: 2017
+  eigs:
+    - "Martin Gross"
+  mentors:
+    - "Daniel Ansellem"

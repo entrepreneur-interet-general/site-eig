@@ -1,23 +1,6 @@
 ---
 layout: defi
 title: MESRI - La machine à données
-site: /defis/2017/mesri-magical-merge-machine.html
-annees: 2017
-description: "Automatiser le nettoyage de bases de données"
-administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
-administration-website: http://www.enseignementsup-recherche.gouv.fr
-type: Développement
-eigs:
-  - nom: Léo Bouloc
-    site: /communaute/2017/leo-bouloc.html
-  - nom: Laurent Dupont
-    site: /communaute/2017/laurent-dupont.html
-mentors: 
-  - nom: Emmanuel Weisenburger
-    site: /communaute/2018/emmanuel-weisenburger.html
-  - nom: Yann Caradec
-    site: /communaute/2018/yann-caradec.html
-images:
 github : entrepreneur-interet-general/Merge-Machine
 ---
 

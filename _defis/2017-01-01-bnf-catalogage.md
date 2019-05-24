@@ -1,19 +1,6 @@
 ---
 layout: defi
 title: BNF - catalogage
-site: /defis/2017/bnf-catalogage.html
-annees: 2017
-description: "Créer un nouvel outil de catalogage pour mieux indexer les ressources de la BNF"
-administration: Bibliothèque nationale de France
-administration-website: http://www.bnf.fr
-type: Développement
-eigs:
-  - nom: Constance de Quatrebarbes
-    site: /communaute/2017/constance-de-quatrebarbes.html
-mentors: 
-  - nom: Emmanuelle Bermès
-images:
-  - /img/defis/9_ARCHEMSE.png
 ---
 
 La Bibliothèque nationale de France, c’est une collection de plus de

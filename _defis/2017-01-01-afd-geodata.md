@@ -1,18 +1,6 @@
 ---
 layout: defi
 title: AFD - Geodata
-site: /defis/2017/afd-geodata.html
-annees: 2017
-description: "Informer la prise de décision des agents de l’AFD grâce aux données"
-administration: Agence Française de Développement
-administration-website: http://www.afd.fr
-type: Développement
-eigs:
-  - nom: Etienne David
-    site: /communaute/2017/etienne-david.html
-mentors: 
-  - nom: Antoine Chèvre
-images:
 github : entrepreneur-interet-general/AFD_projects
 ---
 

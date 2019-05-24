@@ -1,21 +1,6 @@
 ---
 layout: defi
 title: MI - cartAV
-site: /defis/2017/mi-cartav-securite-routiere.html
-annees: 2017
-description: "Augmenter la sécurité sur les routes en exploitant les données de verbalisations et d’accidents."
-administration: Ministère de l'Intérieur
-administration-website: https://www.interieur.gouv.fr
-type: Développement
-eigs:
-  - nom: Francis Chabouis
-    site: /communaute/2017/francis-chabouis.html
-  - nom: Tristram Gräbener
-    site: /communaute/2017/tristram-grabener.html
-mentors:
-  - nom: Daniel Ansellem
-    site: /communaute/2018/daniel-ansellem.html
-images:
 github : entrepreneur-interet-general/cartav
 ---
 

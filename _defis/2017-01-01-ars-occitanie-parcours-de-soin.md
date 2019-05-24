@@ -1,18 +1,6 @@
 ---
 layout: defi
 title: ARS - Parcours de soin
-site: 
-annees: 2017
-description: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
-administration: Secrétariat général des ministères sociaux
-administration-website: 
-type: Développement, datascience
-eigs:
-  - nom: Sébastien Cossin
-    site: /communaute/2017/sebastien-cossin.html
-mentors: 
-  - nom: Didier Hève
-images:
 github : scossin/parcoursdesoins
 ---
 
