@@ -14,7 +14,6 @@ mentors:
   - nom: Daniel Ansellem
     site: /communaute/2018/daniel-ansellem.html
 images:
-github : matchID-project/
 ---
 
 De nombreuses personnes décédées continuent à conduire.  Du moins du

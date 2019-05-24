@@ -16,7 +16,6 @@ mentors:
   - nom: Daniel Ansellem
     site: /communaute/2018/daniel-ansellem.html
 images:
-github : entrepreneur-interet-general/cartav
 ---
 
 Tous les jours, les forces de l’ordre interviennent sur le
