@@ -15,7 +15,7 @@ layout: default
         >
     </div>
     <div class='medium-10 columns'>
-      <h1>{{ page.title }}</h1>
+      <h1>{{ defi_data.title }}</h1>
       <h3>{{ defi_data.description}}</h3>
     </div>
   </div>
@@ -37,28 +37,10 @@ layout: default
 
   <div class="row">
     {% for eig in defi_data.eigs %}
-      <div class="medium-6 large-3 columns text-center">
-        <a href="{{site.data.personnes[eig].link_to}}">
-          <img
-            src="/{{ site.data.personnes[eig].image }}"
-            alt="Photo {{ eig }}"
-            style="border-radius: 50%"
-          ><br>
-          {{ eig }} - <span style="color:#333">{{site.data.personnes[eig].profil }}</span>
-        </a>
-      </div>
+      {% include personne_small.html name=eig %}
     {% endfor %}
     {% for mentor in defi_data.mentors %}
-      <div class="medium-6 large-3 columns text-center">
-        <a href="{{site.data.personnes[mentor].link_to}}">
-          <img
-            src="/{{ site.data.personnes[mentor].image }}"
-            alt="Photo {{ mentor }}"
-            style="border-radius: 50%"
-          ><br>
-          {{ mentor }} - <span style="color:#333">{{site.data.personnes[mentor].profil }}</span>
-        </a>
-      </div>
+      {% include personne_small.html name=mentor %}
     {% endfor %}
   </div>
 
