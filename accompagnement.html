@@ -45,62 +45,10 @@ members:
 	    <h2>Accompagner la transformation numérique de l'état : la méthode EIG</h2>
 	    <div class='one spacing'></div>
 
-		<p>Depuis sa création, le programme a lancé 3 promotions - 1 par an. Grâce à cette expérience, l'équipe du programme a mis au point et affiné une méthode d'accompagnement de défis d'amélioration du service public à l'aide du numérique et des données.</p>		
-		
-	    <p><strong>Au coeur du défi, une alliance inédite :</strong></p>
-
-	    <p>Les entrepreneurs d’intérêt général, experts dans différents domaines du numérique et extérieurs à l’administration, travaillent avec leurs mentors, agents publics qui ont l'expertise métier et souhaitent s'emparer du potentiel que représente le numérique pour changer leurs modes d'action. Les administrations sont ainsi pleinement actrices de leur transformation numérique.</p>
-
-	    <p><strong>Pour assurer le succès du défi, une équipe dédiée :</strong></p>
-		
-		<p>Chaque défi nécessite un travail de cadrage et de suivi. Au sein d'Etalab, une équipe dédiée a pour mission d'accompagner les entrepreneurs d'intérêt général et les mentors, aux cultures et aux expertises différentes, pour faire de leur collaboration un succès.</p>
+		<p><strong>Créer et accompagner une promotion d'une trentaine de professionnels du numérique et d'une vingtaine d'agents publics pour mener à bien 15 projets dans autant d'administrations différentes : c'est la mission que relève l'équipe du programme EIG.</strong> Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects très variés de leurs défis : stratégie, technique, gestion de projet, médiation, évaluation, communication...</p>		
 
 	</div>
     </div>
-</div>
-
-<div class='full'>
-    <div class='row'>
-	<div class='large-12 columns'>
-	    <h2>Une équipe dédiée</h2>
-	    <div class='one spacing'></div>
-	    <h3>Au sein d’Etalab, une équipe dédiée monte la promotion et de l’accompagne pendant 10 mois.</h3>
-		
-		<p>Pluridisciplinaire, cette équipe peut appuyer EIG et mentors sur des aspects très variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication...</p>
-			
-	</div>
-    </div>
-    <div class='one spacing'></div>
-</div>
-
-
-<div class='full no-padding'>
-  <div class='row'>
-      {% for member in page.members %}
-      <div class='small-6 medium-3 large-3 columns'>
-          <div class='mod modTeamMember style-2'>
-              <div class='member'>
-		  <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-		  <div class='overlay'>
-		      <ul class='socials'>
-			  {% for social in member.socials %}
-			  <li>
-			      <a href='{{social.url}}'>
-				  <i class='{{social.icon_class}}'></i>
-			      </a>
-			  </li>
-			  {% endfor %}
-		      </ul>
-		  </div>
-              </div>
-              <h3>{{member.name}}</h3>
-              <p class='position'>{{member.position}}</p>
-              <p>{{member.desc}}</p>
-              <!--<div class='one spacing'></div>-->
-          </div>
-      </div>
-      {% endfor %}
-  </div>
 </div>
 
 <div class='full'>
@@ -117,11 +65,25 @@ members:
 	<img class="fadeinleft" width="400" height="300" alt="" src="/img/accompagnement-bimensuel.png">
     </div>
     <div class='medium-9 columns'>
-	<h3>Sessions d’accompagnement mensuelles avec les EIG</h3>
+	<h3>Semaine d'intégration ou « bootcamp EIG »</h3>
 	<div class='spacing'></div>
-	<p>Elles permettent aux entrepreneurs de se retrouver entre eux et d’approfondir à chaque fois des sujets spécifiques tels que les revues de codes, le design de la solution qu’ils développent, les licences libres sous lesquelles ils peuvent publier leurs travaux…</p>
+	<p>Quelques semaines après l'arrivée des EIG dans leurs administrations, la semaine d'intégration leur permet de faire connaissance entre eux, partager leurs premiers pas dans l'administration et découvrir le programme d'accompagnement.</p>
 	<div class='spacing'></div>
 	<a class='button large' href='/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html'>Découvrir un bootcamp EIG</a>
+    </div>
+</div>
+
+<div class='two spacing'></div>
+<div class='row'>
+    <div class='medium-3 columns'>
+	<img class="fadeinleft" width="400" height="300" alt="" src="/img/accompagnement-bimensuel.png">
+    </div>
+    <div class='medium-9 columns'>
+	<h3>Sessions plénières avec les EIG</h3>
+	<div class='spacing'></div>
+	<p>A raison d'une journée par mois, la promotion se retrouve dans un tiers-lieu pour creuser une thématique particulière (cadre juridique, design, communication...). Les formats varient : stand-up, présentations, ateliers, apprentissage de pair à pair...</p>
+	<div class='spacing'></div>
+	<a class='button large' href='/blog/2019/04/12/accompagnement-open-data-open-source.html'>Découvrir un bootcamp EIG</a>
     </div>
 </div>
 
@@ -131,9 +93,9 @@ members:
 	<img class="fadeinleft" width="400" height="300" alt="" src="/img/accompagnement-mentor.png">
     </div>
     <div class='medium-9 columns'>
-	<h3>Sessions d'accompagnement mensuelles avec les mentors</h3>
+	<h3>Sessions plénières avec les mentors</h3>
 	<div class='spacing'></div>
-	<p>Elles permettent de se retrouver entre eux et de faire remonter leurs réussites, leurs points bloquants et leurs idées.</p>
+	<p>A raison d'une demie-journée par mois, les mentors se retrouvent dans un tiers-lieu pour faire remonter leurs réussites, leurs points bloquants et leurs idées pour pérenniser les défis qu'ils portent.</p>
 	<div class='spacing'></div>
 	<a class='button large' href='/blog/2018/07/27/retour-experience-mentors-promotion-2.html'>Découvrir une session de mi-parcours</a>
     </div>
@@ -194,6 +156,52 @@ members:
 	du code source des logiciels produits</a>.</p>
     </div>
 </div>
+
+
+<div class='full'>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <h2>Une équipe dédiée</h2>
+	    <div class='one spacing'></div>
+	    <h3>Au sein d’Etalab, une équipe dédiée monte la promotion et de l’accompagne pendant 10 mois.</h3>
+		
+		<p>Pluridisciplinaire, cette équipe peut appuyer EIG et mentors sur des aspects très variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication...</p>
+			
+	</div>
+    </div>
+    <div class='one spacing'></div>
+</div>
+
+
+<div class='full no-padding'>
+  <div class='row'>
+      {% for member in page.members %}
+      <div class='small-6 medium-3 large-3 columns'>
+          <div class='mod modTeamMember style-2'>
+              <div class='member'>
+		  <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+		  <div class='overlay'>
+		      <ul class='socials'>
+			  {% for social in member.socials %}
+			  <li>
+			      <a href='{{social.url}}'>
+				  <i class='{{social.icon_class}}'></i>
+			      </a>
+			  </li>
+			  {% endfor %}
+		      </ul>
+		  </div>
+              </div>
+              <h3>{{member.name}}</h3>
+              <p class='position'>{{member.position}}</p>
+              <p>{{member.desc}}</p>
+              <!--<div class='one spacing'></div>-->
+          </div>
+      </div>
+      {% endfor %}
+  </div>
+</div>
+
 
 <div class='full'>
     <div class='row'>
