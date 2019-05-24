@@ -14,7 +14,6 @@ mentors:
   - nom: Adnène Trojette
     site: /communaute/2019/adnene-trojette.html
 images:
-github : entrepreneur-interet-general/api-ccomptes
 ---
 
 C’est à la Cour des comptes que les institutions publiques rendent des
