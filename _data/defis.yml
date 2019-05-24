@@ -52,7 +52,7 @@
   colorback: red
   description: Maximiser l’exploitation des données de l'Arcep
 
-"EIG Link":
+"EIG Link 2019":
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2019/eiglink.html
@@ -224,7 +224,7 @@
     - "Yann Caradec"
     - "Emmanuel Weisenburger"
 
-"EIG Link":
+"EIG Link 2018":
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2018/eiglink.html
