@@ -44,4 +44,7 @@ _Pour aller plus loin_
 * Le [github](https://github.com/entrepreneur-interet-general/Merge-Machine) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mnj?playlist=x54m4i)
 
+Interview de Laurent Dupont sur son parcours et sur le défi MESRI - La machine à données
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmecy" allowfullscreen allow="autoplay"></iframe>
+
 _[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39w)_

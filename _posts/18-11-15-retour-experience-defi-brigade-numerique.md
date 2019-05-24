@@ -6,8 +6,6 @@ twitter: DoraCrisan
 description: "Dora Crisan est ingénieure, EIG pour le défi « Brigade numérique » au ministère de l'intérieur, à la Direction générale de la gendarmerie nationale. Elle partage son vécu et les avancées du projet après 10 mois de travail."
 ---
 
-# La Brigade numérique
-
 En janvier 2018, j'ai rejoint la deuxième promotion du programme
 Entrepreneur·e d'intérêt général sur le défi de la gendarmerie
 nationale, « Brigade numérique ». Actuellement la prise de rendez-vous

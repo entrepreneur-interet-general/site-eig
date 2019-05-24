@@ -43,3 +43,6 @@ _Pour aller plus loin_
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b7xxc?playlist=x54m4i)
 
 _[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z28u)_
+
+Une interview de Tristram Gräbener et de Francis Chabouis sur leurs parcours et le défi cartAV : 
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qme82" allowfullscreen allow="autoplay"></iframe>

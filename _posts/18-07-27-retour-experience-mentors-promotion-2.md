@@ -6,9 +6,8 @@ twitter: soizicpenicaud
 description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réunis pour la troisième session collaborative de l'année. Ce fut l'occasion de prendre du recul et de tirer quelques enseignements de ces cinq premiers mois. 
 ---
 
-## Quels apprentissages pour les membres de l'administration, mentors au sein du programme EIG ? 
 
-Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [mobiliser un collectif engagé de professionnels du numérique](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/), mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG. 
+Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [mobiliser un collectif engagé de professionnels du numérique](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html), mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG. 
 
 ![Bastien qui montre sa vie de développeur](/img/blog/session-mentors-1.jpg)
 _Bastien Guerry, EIG Link à Etalab, présente au collectif des mentors la semaine type d'un développeur : terminal, Stack Overflow, github... © Soizic Pénicaud_

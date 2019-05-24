@@ -7,7 +7,6 @@ description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de
 
 Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
 ---
-### Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? 
 
 _Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général_
 
