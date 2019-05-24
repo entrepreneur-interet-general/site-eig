@@ -13,6 +13,7 @@ eigs:
 mentors: 
   - nom: Didier Hève
 images:
+github : scossin/parcoursdesoins
 ---
 
 Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise
