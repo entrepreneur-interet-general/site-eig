@@ -65,7 +65,7 @@
   description: Aider au contrôle des navires profesionnels
   year: 2019
   description: "Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage"
-  administration-website:
+  administration-website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
   eigs:
     - "Quentin Loridant"
