@@ -3620,3 +3620,14 @@ blockquote, ul, p {
     font-size: 1.15rem;
 }
 
+/* Défis */
+.defi .logo {
+  width: 150px;
+  margin-top: 1em;
+}
+.defi .personne {
+  border-radius: 50%;
+}
+.defi .role {
+  color: #333;
+}

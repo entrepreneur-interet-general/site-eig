@@ -3,9 +3,9 @@
     <img
       src="/{{ site.data.personnes[include.name].image }}"
       alt="Photo {{ include.name }}"
-      style="border-radius: 50%"
+      class="personne"
     ><br>
     {{ include.name }}<br>
-    <span style="color:#333">{{site.data.personnes[include.name].profil }}</span>
+    <span class="role">{{site.data.personnes[include.name].profil }}</span>
   </a>
 </div>
