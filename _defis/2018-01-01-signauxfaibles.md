@@ -26,8 +26,6 @@ opérationnelles.
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/entrepreneur-interet-general/opensignauxfaibles) du défi
-
 Le pitch du défi Signaux Faibles en quelques slides (10 octobre 2017)
 
 <script async class="speakerdeck-embed" data-id="9020a67787a643bda86fb3987d017a43" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

@@ -24,7 +24,6 @@ générique et plusieurs administrations l'utilisent désormais.
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/matchID-project/) du défi
 * [La restitution, 10 mois après](https://www.dailymotion.com/video/x6b7xzu?playlist=x54m4i)
 
 Interview de Martin Gross sur son parcours et sur le défi MI - MatchID : 

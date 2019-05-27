@@ -25,7 +25,6 @@ même si l’on n’est pas informaticien.
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/entrepreneur-interet-general/parcoursdesoins) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x64z39z)
 
 Interview de Sébastien Cossin sur son parcours et sur le défi ARS - Parcours de soin :

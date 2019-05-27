@@ -11,9 +11,6 @@ Tiphaine et Guillaume travaillent avec les sapeurs-pompiers de l’Essonne sur l
 
 _Pour aller plus loin_
 
-* [Le github](https://github.com/previsecours) du défi
-* [Le site](http://previsecours.fr/) du défi
-
 Le pitch du défi Prévisecours en quelques slides (10 octobre 2017)
 
 <script async class="speakerdeck-embed" data-id="bdefd7bf86814fb1ae27c160e3bf08c3" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>

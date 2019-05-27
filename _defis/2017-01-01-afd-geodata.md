@@ -23,8 +23,6 @@ de l’AFD. La transformation numérique de l’AFD est en bonne voie.
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/entrepreneur-interet-general/AFD_projects) du défi
-* Le [site](https://data.afd.fr/urban.html) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mca?playlist=x54m4i)
 
 Interview d'Etienne David sur son parcours et sur le défi AFD - Geodata : 

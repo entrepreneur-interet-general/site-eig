@@ -30,9 +30,6 @@ des utilisateurs la plus fluide et simple possible.
 
 _Pour aller plus loin_
 
-* Les différents _repo_ github du défi : [OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper), [Solidata](https://github.com/entrepreneur-interet-general/solidata_backend) et le [site](https://github.com/entrepreneur-interet-general/CIS-front)
-* Le [site du Carrefour des innovations sociales](http://www.carrefourdesinnovationssociales.fr/)
-
 * Le pitch du défi Social Connect en quelques slides (10 octobre 2017)
 
 <script async class="speakerdeck-embed" data-id="3938c833804245978b48a03f28879ae1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

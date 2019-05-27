@@ -25,7 +25,6 @@ la société civile et les institutions.
 
 _Pour aller plus loin_
 
-* Le [site de l'inventaire des orgues](https://www.inventaire-des-orgues.fr) 
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b96fi?playlist=x54m4i)
 
 Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues :

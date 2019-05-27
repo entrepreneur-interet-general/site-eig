@@ -384,6 +384,7 @@
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
   administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
   administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
+  source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
   eigs:
     - "Bastien Guerry"
@@ -475,6 +476,7 @@
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
   administration-website: https://www.interieur.gouv.fr
+  website: http://previsecours.fr
   source_code: https://github.com/previsecours
   year: 2018
   eigs:
@@ -512,6 +514,7 @@
   year: 2018
   administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
   administration-website: http://www.cget.gouv.fr/
+  website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
   eigs:
     - "Élise Lalique"
@@ -530,6 +533,7 @@
   year: 2017
   administration: Agence Française de Développement
   administration-website: http://www.afd.fr
+  website: https://data.afd.fr/urban.html
   source_code: https://entrepreneur-interet-general/AFD_projects
   eigs:
     - "Étienne David"
@@ -613,6 +617,8 @@
   year: 2017
   administration: Ministère de la culture
   administration-website: http://www.culture.gouv.fr
+  source_code: https://git.inventaire-des-orgues.fr/bzg/
+  website: https://www.inventaire-des-orgues.fr
   eigs:
     - "Bastien Guerry"
   mentors:

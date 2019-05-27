@@ -29,12 +29,6 @@ machine learning._
 
 _Pour aller plus loin_
 
-* Le dépôt
-  [github](https://github.com/entrepreneur-interet-general/predisauvetage)
-  du défi ;
-
-* le [site](https://www.snosan.fr/), la [carte](https://carte.snosan.fr/) et les autres [outils](https://outils.snosan.fr) SNOSAN.
-
 Ci-dessous le pitch du défi Prédisauvetage en quelques slides (10 octobre 2017) :
 
 <script async class="speakerdeck-embed" data-id="450c046ba75044e0a94c31b12bffc753" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

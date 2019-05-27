@@ -23,7 +23,6 @@ graves avec un vélo pour cause d’ébriété de l’un des conducteurs).
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/entrepreneur-interet-general/cartav) du défi
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b7xxc?playlist=x54m4i)
 
 _[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z28u)_
