@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: CC - API rapports
-github : entrepreneur-interet-general/api-ccomptes
 ---
 
 C’est à la Cour des comptes que les institutions publiques rendent des

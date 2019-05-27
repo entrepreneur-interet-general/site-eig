@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: MI - matchID
-github : matchID-project/
 ---
 
 De nombreuses personnes décédées continuent à conduire.  Du moins du

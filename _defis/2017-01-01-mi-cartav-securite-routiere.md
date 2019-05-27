@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: MI - cartAV
-github : entrepreneur-interet-general/cartav
 ---
 
 Tous les jours, les forces de l’ordre interviennent sur le

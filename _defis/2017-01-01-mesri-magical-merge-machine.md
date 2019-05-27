@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: MESRI - La machine à données
-github : entrepreneur-interet-general/Merge-Machine
 ---
 
 De nombreuses bases de données sont construites à la main, et les

@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: ARS - Parcours de soin
-github : scossin/parcoursdesoins
 ---
 
 Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise

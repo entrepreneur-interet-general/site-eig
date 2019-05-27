@@ -4,14 +4,13 @@ layout: default
 
 {% assign defi_data = site.data.defis[page.title] %}
 
-<div class='full'>
+<div class='full defi'>
   <div class='row'>
     <div class="medium-2 columns">
         <img
           src="{{ defi_data.image }}"
-          alt="Logo {{ page.title }}"
-          width="150"
-          style="margin-top: 1em"
+          alt="Logo {{ defi_data.title }}"
+          class="logo"
         >
     </div>
     <div class='medium-10 columns'>
@@ -23,7 +22,7 @@ layout: default
   <div class="row">
     <div class="medium-12 columns">
       <h4>
-        <i class="fa fa-map-marker"></i>
+        <i class="fa fa-building"></i>
         <a href='{{defi_data.administration-website}}' target='new'>{{defi_data.administration}}</a>
       </h4>
       <h4>
@@ -48,7 +47,10 @@ layout: default
     <div class="medium-12 columns">
       <div class="two spacing"></div>
       {% if defi_data.website %}
-      <a class="button small" href="{{ defi_data.website }}">Démonstration</a>
+      <a class="button small" href="{{ defi_data.website }}"><i class="fa fa-external-link"></i> Démonstration</a>
+      {% endif %}
+      {% if defi_data.source_code %}
+      <a class="button small" href="{{ defi_data.source_code }}" title="Code source de {{ defi_data.title }}"><i class="fa fa-code"></i> Code source</a>
       {% endif %}
       <div class="two spacing"></div>
       {{ content }}

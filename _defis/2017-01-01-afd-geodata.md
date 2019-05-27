@@ -1,7 +1,6 @@
 ---
 layout: defi
 title: AFD - Geodata
-github : entrepreneur-interet-general/AFD_projects
 ---
 
 Quand l’Agence Française de Développement (AFD) cherche à construire

@@ -144,6 +144,7 @@
   administration: Secrétariat général des ministères sociaux
   administration-website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
   website: https://archifiltre.com
+  source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
   eigs:
     - "Emmanuel Gautier"
@@ -251,6 +252,7 @@
   year: 2018
   administration: Ministère de la Culture, Direction générale de la création artistique, Service du Mobilier National
   administration-website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
+  source_code: https://github.com/entrepreneur-interet-general/gobelins
   eigs:
     - "Laurie Chapotte"
     - "Ned Baldessin"
@@ -268,6 +270,7 @@
   year: 2018
   administration: Ministère de l'Action et des Comptes Publics
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
+  source_code: https://github.com/entrepreneur-interet-general/graph-explorer
   eigs:
     - "Paul Boosz"
     - "Victor Schmidt"
@@ -304,6 +307,7 @@
   year: 2018
   administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
   administration-website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
+  source_code: https://github.com/entrepreneur-interet-general/predisauvetage
   website: https://www.snosan.fr
   eigs:
     - "Elsa Luneville"
@@ -322,6 +326,7 @@
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
   administration-website: https://www.interieur.gouv.fr
+  source_code: https://github.com/previsecours
   year: 2018
   eigs:
     - "Tiphaine Phe-Neau"
@@ -339,6 +344,7 @@
   description: Détecter les entreprises en difficulté pour mieux les accompagner
   administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
   administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
+  source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
   eigs:
     - "Pierre Camilleri"
@@ -357,6 +363,7 @@
   year: 2018
   administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
   administration-website: http://www.cget.gouv.fr/
+  source_code: https://github.com/entrepreneur-interet-general/OpenScraper
   eigs:
     - "Élise Lalique"
     - "Julien Paris"
@@ -374,6 +381,7 @@
   year: 2017
   administration: Agence Française de Développement
   administration-website: http://www.afd.fr
+  source_code: https://entrepreneur-interet-general/AFD_projects
   eigs:
     - "Étienne David"
   mentors:
@@ -390,6 +398,7 @@
   year: 2017
   administration: Secrétariat général des ministères sociaux
   administration-website: https://solidarites-sante.gouv.fr
+  source_code: https://scossin/parcoursdesoins
   eigs:
     - "Sébastien Cossin"
   mentors:
@@ -421,6 +430,7 @@
   description: Mieux informer les citoyens sur l’emploi de l’argent public
   administration: Cour des comptes
   administration-website: https://www.ccomptes.fr
+  source_code: https://entrepreneur-interet-general/api-ccomptes
   year: 2017
   eigs:
     - "Frédéric Bardolle"
@@ -472,6 +482,7 @@
   year: 2017
   administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
   administration-website: http://www.enseignementsup-recherche.gouv.fr
+  source_code: https://entrepreneur-interet-general/Merge-Machine
   eigs:
     - "Léo Bouloc"
   mentors:
@@ -490,6 +501,7 @@
   year: 2017
   administration: Ministère de l'Intérieur
   administration-website: https://www.interieur.gouv.fr
+  source_code: https://github.com/entrepreneur-interet-general/cartav
   eigs:
     - "Francis Chabouis"
   mentors:
@@ -506,6 +518,7 @@
   description: Fiabiliser les statistiques de sécurité routière
   administration: Ministère de l'Intérieur
   administration-website: https://www.interieur.gouv.fr/
+  source_code: https://matchID-project/
   year: 2017
   eigs:
     - "Martin Gross"
