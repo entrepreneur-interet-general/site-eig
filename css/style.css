@@ -3625,8 +3625,13 @@ blockquote, ul, p {
   width: 150px;
   margin-top: 1em;
 }
+.defi .personne_container {
+  margin-bottom: 1em;
+}
 .defi .personne {
   border-radius: 50%;
+  width: 150px;
+  margin-bottom: 1em;
 }
 .defi .role {
   color: #333;
