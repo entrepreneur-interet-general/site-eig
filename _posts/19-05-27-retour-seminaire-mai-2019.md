@@ -10,6 +10,8 @@ Les 16 et 17 mai 2019, les entrepreneurs d'intérêt général (EIG) se sont ret
 
 Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ? Comment organiser des temps de travail efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis différents ? Voici notre retour d'expérience.
 
+![La promotion 3 du programme Entrepreneurs d'Intérêt Général pose à l'extérieur.](/img/blog/seminaire-2019/promo-3.jpg) _La promotion 3 EIG lors du séminaire du 16 et 17 mai 2019_
+
 ## Un programme co-construit en fonction des besoins des EIG 
 
 Arrivés à mi-parcours, les EIG entrent dans une phase de production et de réflexion intenses. En effet, il leur reste 5 mois pour livrer une solution, mais aussi pour en assurer la pérennisation au sein de leurs administrations. Forte de son expérience, l'équipe de coordination du programme a donc fixé deux axes de travail pour ce séminaire de mi-parcours : le premier jour était consacré à la **production** (résoudre des problématiques de son défi), le deuxième jour à la **transmission** (travailler sur la stratégie, la communication et la pérennisation des défis). Et pour que le séminaire soit le plus utile possible aux EIG, elle a fait appel à eux pour imaginer le déroulement concret des deux journées. 
@@ -21,10 +23,9 @@ Nous avions donc un cadre de travail, grâce au [planning fixé en amont](https:
 ## Accélérer les défis collectivement
 
 Une promotion d'EIG est composée de data scientists, designers, développeuses et développeurs aux parcours et spécialisations diverses : le programme fait ainsi le pari de la complémentarité des profils. Le séminaire « hors-les-murs » est l'occasion d'impulser une dynamique d'entraide et d'accélérer les défis grâce aux compétences des uns et des autres. 
+De fait, ce séminaire a fait la part belle à la collaboration et permis d'initier des rapprochements durables entre défis autour de problématiques métiers ou de collaborations techniques.
 
 ![Trois hommes et une femme en extérieur sont assis autour d'une table et parlent en regardant un écran d'ordinateur.](/img/blog/seminaire-2019/designers.jpg) _[Hugo Stéphan](/communaute/2019/hugo-stephan.html), [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), [Nikos Peteinatos](/communaute/2019/nikos-peteinatos.html) et [Jean-Baptiste Le Dévéhat](communaute/2018/jean-baptiste-le-devehat.html), designers, partagent leurs méthodes de travail_
-
-De fait, ce séminaire a fait la part belle à la collaboration et permis d'initier des rapprochements durables entre défis autour de problématiques métiers ou de collaborations techniques.
 
 Comme nous l'avions souhaité, les entrepreneurs d'intérêt général ont profité de ce séminaire pour travailler plus étroitement entre défis. On peut noter par exemple la collaboration entre [Polygraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) et [ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html) sur la modélisation et les algorithmes de graphes, les échanges de [LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html) et [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) sur l'utilisation de la librairie JS React et la présentation de [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) d'une approche basée sur les moteurs de règles. 
 
@@ -40,5 +41,3 @@ Enfin, les représentants de chaque spécialité, _data science_, développement
 Les 32 EIG forment un collectif qui se réunit une fois par mois lors de sessions d'accompagnement en plénière. Par ailleurs, le programme met à leur disposition un tiers-lieu où ils peuvent se retrouver pendant la semaine. Ce séminaire « hors-les-murs » a été l'occasion de rassembler les 32 EIG pour un temps plus long et dans un cadre qui ménageait des temps plus informels.  
 
 Résultat : ils nous ont fait part de leur plaisir à pouvoir passer du temps entre collègues, à parler de leurs défis en profondeur, à faire connaissance et à tisser des liens plus étroits. Ce premier séminaire a donc été une excellente occasion de renforcer l'esprit de camaraderie de la promotion 3, nécessaire à une collaboration efficace entre les défis et à la constitution d'une communauté plus large d'entrepreneurs d'intérêt général.
-
-![La promotion 3 du programme Entrepreneurs d'Intérêt Général pose à l'extérieur.](/img/blog/seminaire-2019/promo-3.jpg) _La promotion 3 EIG lors du séminaire du 16 et 17 mai 2019_
