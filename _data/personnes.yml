@@ -426,6 +426,16 @@
   - eig
   - webdev
 
+- image: img/communaute/miniatures/florent-laboy.png
+  title: Florent Laboy
+  link_to: /communaute/2019/florent-laboy.html
+  annee: 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  class:
+  - 2019
+  - mentor
+  
 - image: img/communaute/miniatures/Francis-Chabouis.png
   title: Francis Chabouis
   link_to: /communaute/2017/francis-chabouis.html
