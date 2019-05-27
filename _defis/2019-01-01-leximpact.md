@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: LexImpact
-site: /defis/2019/leximpact.html
-annees: 2019
-description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"
-administration: Direction interministérielle et du système d’information et de communication de l'Etat
-administration-website: https://www.numerique.gouv.fr/
-type: Design & Développement
-eigs:
-  - nom: Augustin Wenger
-    site: /communaute/2019/augustin-wenger.html
-  - nom: Dorine Lambinet
-    site: /communaute/2019/dorine-lambinet.html
-mentors:
-  - nom: Mauko Quiroga
-    site: /communaute/2019/mauko-quiroga.html
-  - nom: Sandra Chakroun
-    site: /communaute/2019/sandra-chakroun.html
-images:
-  - /img/logo-lex-impact.png
 ---
 
 La Direction Interministérielle du Numérique et du Système d’Information et de Communication de l’État ([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.

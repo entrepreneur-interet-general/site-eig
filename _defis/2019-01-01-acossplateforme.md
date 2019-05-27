@@ -1,24 +1,6 @@
 ---
 layout: defi
-title: ACOSS-plateforme
-site: /defis/2019/acossplateforme.html
-annees: 2019
-description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
-administration: Agence centrale des organismes de sécurité sociale (ACOSS)
-administration-website: https://www.acoss.fr/home.html
-type: Design & Développement
-eigs:
-  - nom: Coline Lebaratoux
-    site: /communaute/2019/coline-lebaratoux.html
-  - nom: Anoureth Pongrattana
-    site: /communaute/2019/anoureth-pongrattana.html
-mentors:
-  - nom: Nicolas Bizet
-    site: /communaute/2019/nicolas-bizet.html
-  - nom: Patricia Poulet-Mathis
-    site: /communaute/2019/patricia-poulet-mathis.html
-images: 
-  - /img/logo-acoss-plateforme.png
+title: ACOSS-Plateforme
 ---
 
 [L’Agence centrale des organismes de sécurité sociale

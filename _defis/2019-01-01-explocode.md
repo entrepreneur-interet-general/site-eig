@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: ExploCode
-site: /defis/2019/explocode.html
-annees: 2019
-description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"
-administration: Direction générale du Travail
-administration-website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
-type: Data science
-eigs:
-  - nom: Armand Giraud
-    site: /communaute/2019/armand-giraud.html
-  - nom: Mathieu Havel
-    site: /communaute/2019/mathieu-havel.html
-mentors: 
-  - nom: Julien Bouquillon
-    site: /communaute/2019/julien-bouquillon.html
-  - nom: Jean-René Duscher
-    site: /communaute/2019/jean-rene-duscher.html
-images: 
-  - /img/logo-explocode.png
 ---
 
 La [Direction générale du Travail (DGT)](http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail) souhaite se doter d'un outil 

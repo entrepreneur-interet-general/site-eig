@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: Open Justice
-site: /defis/2019/openjustice.html
-annees: 2019
-description: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
-administration: Cour de cassation  
-administration-website: https://www.courdecassation.fr
-type: Développement & Data science
-eigs:
-  - nom: Amaury Fouret
-    site: /communaute/2019/amaury-fouret.html
-  - nom: Mathieu Perez
-    site: /communaute/2019/mathieu-perez.html
-  - nom: Valentin Barrière
-    site: /communaute/2019/valentin-barriere.html
-mentors: 
-  - nom: Edouard Rottier
-    site: /communaute/2019/edouard-rottier.html
-images:
-  - /img/logo-open-justice.png
 ---
 
 [La Cour de cassation](https://www.courdecassation.fr/), en lien avec le Ministère de la Justice, souhaite développer des techniques d’apprentissage automatique afin d'identifier les données à pseudonymiser dans les décisions de justice avant de les rendre accessibles et réutilisables. Les résultats de ces travaux transformeront en profondeur la diffusion de la jurisprudence, renforceront la cohérence des décisions rendues et la confiance des citoyens en l’autorité judiciaire ; ils pourront largement s'appliquer à d’autres types de données.

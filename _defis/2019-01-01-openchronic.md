@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: Open Chronic
-site: /defis/2019/openchronic.html
-annees: 2019
-description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
-administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
-administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
-type: Data science
-eigs:
-  - nom: Pierre-Alain Jachiet
-    site: /communaute/2019/pierre-alain-jachiet.html
-  - nom: Viktor Jarry
-    site: /communaute/2019/viktor-jarry.html
-mentors: 
-  - nom: Philéas Condemine
-    site: /communaute/2018/phileas-condemine.html
-  - nom: Stéphanie Combes
-    site: /communaute/2018/stephanie-combes.html
-images: 
-  - /img/logo-open-chronic.png
 ---
 
 La [Direction de la recherche, des études, de l’évaluation et des

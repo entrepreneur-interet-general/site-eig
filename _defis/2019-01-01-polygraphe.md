@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: PolyGraphe
-site: /defis/2019/polygraphe.html
-annees: 2019
-description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
-administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
-administration-website: https://www.economie.gouv.fr/dgccrf
-type: Développement & Data science
-eigs:
-  - nom: Gabriel Bastard
-    site: /communaute/2019/gabriel-bastard.html
-  - nom: Luc Salommez
-    site: /communaute/2019/luc-salommez.html
-mentors:
-  - nom: Audrey Istace
-    site: /communaute/2019/audrey-istace.html
-images: 
-  - /img/logo-polygraphe.png
 ---
 
 [La Direction générale de la concurrence, de la consommation
