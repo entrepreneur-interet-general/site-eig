@@ -3620,3 +3620,9 @@ blockquote, ul, p {
     font-size: 1.15rem;
 }
 
+.defiImg {
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
