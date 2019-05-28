@@ -39,3 +39,6 @@ catalogue.
 _Pour aller plus loin_
 
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9b32?playlist=x54m4i)
+
+Interview de Constance sur son défi au sein du Bibliothèque nationale de France :
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qme4i" allowfullscreen allow="autoplay"></iframe>
