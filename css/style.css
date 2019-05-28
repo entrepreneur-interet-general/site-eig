@@ -3653,3 +3653,6 @@ blockquote, ul, p {
   margin-bottom: 1em;
   letter-spacing: 1px;
 }
+.defi [class*="column"] + [class*="column"]:last-child {
+  float: left;
+}
