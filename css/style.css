@@ -3620,6 +3620,17 @@ blockquote, ul, p {
     font-size: 1.15rem;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
 /* Défis */
 .defi .logo {
   width: 150px;
@@ -3635,4 +3646,10 @@ blockquote, ul, p {
 }
 .defi .role {
   color: #333;
+}
+.defi .administration {
+  font-family: "Evolventa", "Trebuchet MS", sans-serif;
+  font-size: 1em;
+  margin-bottom: 1em;
+  letter-spacing: 1px;
 }

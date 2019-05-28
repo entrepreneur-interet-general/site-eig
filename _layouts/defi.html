@@ -21,12 +21,14 @@ layout: default
   <div class="spacing"></div>
   <div class="row">
     <div class="medium-12 columns">
-      <h4>
-        <i class="fa fa-building"></i>
+      <div class="administration">
+        <i class="fa fa-building" title="Administration de rattachement"></i>
+        <span class="sr-only">Administration de rattachement :</span>
         <a href='{{defi_data.administration-website}}' target='new'>{{defi_data.administration}}</a>
-      </h4>
+      </div>
       <h4>
-        <i class="fa fa-calendar"></i>
+        <i class="fa fa-calendar" title="Année et durée"></i>
+        <span class="sr-only">Année et durée :</span>
         {{ defi_data.year }} — {{ defi_data.duration_months }} mois
       </h4>
     </div>
