@@ -16,6 +16,7 @@
   path: defis.html
 
 - name: Communauté
+  section_id : communaute
   path: communaute.html
 
 - name: Blog
