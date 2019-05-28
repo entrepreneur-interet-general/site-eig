@@ -39,13 +39,13 @@ layout: default
   <div class="row">
     {% assign total = defi_data.eigs.size | plus: defi_data.mentors.size %}
 
-    {% if total <= 4 %}
-    {% capture col_class %}
-    large-{{ 12 | divided_by: total }}
-    {% endcapture %}
-    {% else %}
-    {% assign col_class = 'large-3' %}
-    {% endif %}
+    {% case total %}
+    {% when 2 %}{% assign col_class = 'large-4' %}
+    {% when 3 %}{% assign col_class = 'large-4' %}
+    {% when 4 %}{% assign col_class = 'large-3' %}
+    {% when 5 %}{% assign col_class = 'large-3' %}
+    {% else %}{% assign col_class = 'large-3' %}
+    {% endcase %}
 
     {% for eig in defi_data.eigs %}
       {% include personne_small.html extra_class=col_class name=eig %}
