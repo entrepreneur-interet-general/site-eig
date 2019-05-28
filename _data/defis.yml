@@ -7,6 +7,7 @@
   colorback: red
   description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
   administration: Agence centrale des organismes de sécurité sociale (ACOSS)
@@ -27,6 +28,7 @@
   colorback: red
   description: Lutter contre les comportements financiers illicites
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Lutter contre les comportements financiers illicites grâce à un graphe de connaissance"
   administration: Ministère de l’Action et des comptes publics
@@ -46,6 +48,7 @@
   colorback: red
   description: Cartographier les parcelles d'agricultures biologiques
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
   administration: Agence française pour le développement et la promotion de l’agriculture biologique
@@ -67,6 +70,7 @@
   colorback: red
   description: Aider au contrôle des navires profesionnels
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage"
   administration-website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
@@ -87,6 +91,7 @@
   colorback: red
   description: Construire un référentiel d'indémnisation des préjudices corporels
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Informer les victimes de préjudices corporels et les acteurs de l'indemnisation de préjudices en construisant un référentiel neutre et fiable des indemnisations "
   administration: Ministère de la Justice, Direction des affaires civiles et du sceau
@@ -107,6 +112,7 @@
   colorback: red
   description: Maximiser l’exploitation des données de l'Arcep
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Transformer les méthodes d’une autorité de régulation en mettant la circulation de la donnée au cœur de ses missions"
   administration: Autorité de régulation des communications électroniques et des postes
@@ -128,6 +134,7 @@
   administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
   administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
+  promotion: 3
   duration_months: 10
   eigs:
     - "Antoine Augusti"
@@ -144,6 +151,7 @@
   colorback: red
   description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"
   administration: Direction générale du Travail
@@ -164,6 +172,7 @@
   colorback: red
   description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images"
   administration: Ministère de l’Intérieur et Agence nationale du traitement automatisé des infractions (ANTAI)
@@ -183,6 +192,7 @@
   colorback: red
   description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
+  promotion: 3
   duration_months: 10
   administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DIAIR)
   description: "Aider les réfugiés dans leurs démarches en créant une plateforme d’information adaptée à la diversité culturelle"
@@ -203,6 +213,7 @@
   colorback: red
   description: Evaluer l'impact des réformes socio-fiscales sur les citoyen·ne·s
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"
   administration: Direction interministérielle et du système d’information et de communication de l'Etat
@@ -224,6 +235,7 @@
   colorback: red
   description: Améliorer la prise en charge des malades chroniques
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
   administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
@@ -244,6 +256,7 @@
   colorback: red
   description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
   administration: Cour de cassation
@@ -264,6 +277,7 @@
   colorback: red
   description: Transformer les métiers des juridictions financières
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
   administration: Cour des comptes
@@ -287,6 +301,7 @@
   colorback: red
   description: Améliorer la confiance des consommateurs en détectant des faux avis
   year: 2019
+  promotion: 3
   duration_months: 10
   description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
   administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
@@ -310,6 +325,7 @@
   website: https://archifiltre.com
   source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
+  promotion: 2
   eigs:
     - "Emmanuel Gautier"
     - "Jean-Baptiste Assouad"
@@ -326,6 +342,7 @@
   colorback: blue
   description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
   year: 2018
+  promotion: 2
   administration: Service Hydrographique et Océanographique de la Marine, SHOM
   administration-website: http://www.shom.fr
   eigs:
@@ -343,6 +360,7 @@
   colorback: blue
   description: Moderniser la fonction d'accueil en brigade
   year: 2018
+  promotion: 2
   administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
   administration-website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   eigs:
@@ -361,6 +379,7 @@
   colorback: blue
   description: Améliorer la réussite scolaire avec les données d'apprentissage
   year: 2018
+  promotion: 2
   administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
   administration-website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
@@ -381,6 +400,7 @@
   administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation
   year: 2018
+  promotion: 2
   eigs:
     - "Ambre Arnaud"
     - "Maxime Pierrot"
@@ -401,6 +421,7 @@
   administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
+  promotion: 2
   eigs:
     - "Bastien Guerry"
   mentors:
@@ -415,6 +436,7 @@
   colorback: blue
   description: Révéler les richesses du Mobilier National
   year: 2018
+  promotion: 2
   administration: Ministère de la Culture, Direction générale de la création artistique, Service du Mobilier National
   administration-website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
   source_code: https://github.com/entrepreneur-interet-general/gobelins
@@ -433,6 +455,7 @@
   colorback: blue
   description: Lutter contre la fraude financière et enrayer l'économie souterraine
   year: 2018
+  promotion: 2
   administration: Ministère de l'Action et des Comptes Publics
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
@@ -452,6 +475,7 @@
   colorback: blue
   description: Valoriser les données du système de santé
   year: 2018
+  promotion: 2
   administration: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques
   administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
@@ -470,6 +494,7 @@
   colorback: blue
   description: Sauver des vies en mer en prévenant les accidents maritimes
   year: 2018
+  promotion: 2
   administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
   administration-website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
   source_code: https://github.com/entrepreneur-interet-general/predisauvetage
@@ -494,6 +519,7 @@
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
   year: 2018
+  promotion: 2
   eigs:
     - "Tiphaine Phe-Neau"
     - "Guillaume Lancrenon"
@@ -512,6 +538,7 @@
   administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
+  promotion: 2
   eigs:
     - "Pierre Camilleri"
     - "Christophe Ninucci"
@@ -527,6 +554,7 @@
   colorback: blue
   description: Repérer et mettre en réseau l'innovation sociale dans les territoires
   year: 2018
+  promotion: 2
   administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
   administration-website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
@@ -546,6 +574,7 @@
   colorback: red
   description: Mettre les données ouvertes au service de projets de développement
   year: 2017
+  promotion: 1
   administration: Agence Française de Développement
   administration-website: http://www.afd.fr
   website: https://data.afd.fr/urban.html
@@ -564,6 +593,7 @@
   colorback: red
   description: Améliorer l’offre de soin en Occitanie
   year: 2017
+  promotion: 1
   administration: Secrétariat général des ministères sociaux
   administration-website: https://solidarites-sante.gouv.fr
   source_code: https://scossin/parcoursdesoins
@@ -583,6 +613,7 @@
   administration: Bibliothèque nationale de France
   administration-website: http://www.bnf.fr
   year: 2017
+  promotion: 1
   eigs:
     - "Constance de Quatrebarbes"
   mentors:
@@ -600,6 +631,7 @@
   administration-website: https://www.ccomptes.fr
   source_code: https://entrepreneur-interet-general/api-ccomptes
   year: 2017
+  promotion: 1
   eigs:
     - "Frédéric Bardolle"
   mentors:
@@ -614,6 +646,7 @@
   colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
   year: 2017
+  promotion: 1
   administration: Direction Générale des Finances Publiques
   administration-website: https://www.economie.gouv.fr/dgfip
   eigs:
@@ -630,6 +663,7 @@
   colorback: red
   description: Révéler et valoriser le patrimoine des orgues
   year: 2017
+  promotion: 1
   administration: Ministère de la culture
   administration-website: http://www.culture.gouv.fr
   source_code: https://git.inventaire-des-orgues.fr/bzg/
@@ -650,6 +684,7 @@
   colorback: red
   description: Automatiser le nettoyage de bases de données
   year: 2017
+  promotion: 1
   administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
   administration-website: http://www.enseignementsup-recherche.gouv.fr
   source_code: https://entrepreneur-interet-general/Merge-Machine
@@ -669,6 +704,7 @@
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
+  promotion: 1
   administration: Ministère de l'Intérieur
   administration-website: https://www.interieur.gouv.fr
   source_code: https://github.com/entrepreneur-interet-general/cartav
@@ -690,6 +726,7 @@
   administration-website: https://www.interieur.gouv.fr/
   source_code: https://matchID-project/
   year: 2017
+  promotion: 1
   eigs:
     - "Martin Gross"
   mentors:
