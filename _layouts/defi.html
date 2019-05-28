@@ -35,11 +35,21 @@ layout: default
   <div class="two spacing"></div>
 
   <div class="row">
+    {% assign total = defi_data.eigs.size | plus: defi_data.mentors.size %}
+
+    {% if total <= 4 %}
+    {% capture col_class %}
+    large-{{ 12 | divided_by: total }}
+    {% endcapture %}
+    {% else %}
+    {% assign col_class = 'large-3' %}
+    {% endif %}
+
     {% for eig in defi_data.eigs %}
-      {% include personne_small.html name=eig %}
+      {% include personne_small.html extra_class=col_class name=eig %}
     {% endfor %}
     {% for mentor in defi_data.mentors %}
-      {% include personne_small.html name=mentor %}
+      {% include personne_small.html extra_class=col_class name=mentor %}
     {% endfor %}
   </div>
 
