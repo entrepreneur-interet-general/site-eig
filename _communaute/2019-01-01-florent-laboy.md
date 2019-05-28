@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: @F__Lab
+twitter: "@F__Lab"
 github: 
 linkedin: https://fr.linkedin.com/in/florent-laboy
 nom: Florent Laboy
