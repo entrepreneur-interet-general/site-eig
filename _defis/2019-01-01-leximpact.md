@@ -44,37 +44,3 @@ Une grande partie de la législation est d'ores et déjà disponible dans le mod
 Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires - DINSIC, Assemblée Nationale, Cour des Comptes, Sénat- permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire.
 
 En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base aux travaux des EIG. Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
-
-<br/>
-
-## Les EIG 
-
-### [Dorine Lambinet](), designeur / lean UX avec un goût prononcé pour le code
-
-**Missions principales** : prototyper l’outil, mener des tests utilisateurs, améliorer constamment l'expérience utilisateur, assurer la médiation avec la société civile et les partenaires du défi (Assemblée nationale, Cour des comptes, Sénat et d'éventuels nouveaux partenaires).
-
-**Compétences** : design UX, gestion de projet, communication. 
-
-### [Augustin Wenger](/communaute/2019/augustin-wenger.html),développeur Python/JavaScript avec un goût prononcé pour les données
-
-**Missions principales** : développer l'outil (interface utilisateur, backend...), déployer l'outil, compiler/éditorialiser/mettre à disposition des cas types, faire évoluer l'API Réforme d'OpenFisca-Core.
-
-**Compétences** : Python, JavaScript. 
-
-<br/>
-
-## L'équipe autour des EIG
-
-### Mauko Quiroga, mentor opérationnel
-
-![Mauko Quiroga](/img/communaute/mauko-quiroga.png)
-
-Mauko Quiroga est un Product Manager spécialisé dans le déploiement de services publics numériques. Depuis 2016, il s'engage dans la construction d’un État au XXI<sup>e</sup> siècle, en tant que membre permanent de [beta.gouv.fr](http://beta.gouv.fr). Aujourd’hui, Mauko travaille avec l’équipe [OpenFisca](https://openfisca.org/fr/), pour faciliter la collaboration entre le Parlement, le gouvernement et la société civile, lors de la création de la loi. Issu d’une formation à l'entrecroisement des sciences politiques, du génie industriel, et du commerce, Mauko se donne avec abnégation à la vision d'une politique publique pilotée par la donnée. Il est sur [LinkedIn](https://www.linkedin.com/in/maukoquiroga/), [Twitter](https://twitter.com/maukoquiroga) et [Github](https://github.com/maukoquiroga).
-
-<br/>
-
-### Sandra Chakroun, mentor opérationnelle
-
-![Sandra Chakroun](/img/communaute/sandra-chakroun.jpg)
-
-Développeuse informaticienne, Sandra Chakroun est actuellement membre de l'équipe [OpenFisca](https://openfisca.org/fr/) à la DINSIC. Diplômée d'un Master 2 d'Informatique de l'Université Pierre & Marie Curie ([Sorbonne Université](https://www.sorbonne-universite.fr)), elle s'adapte aux différentes technologies de programmation logicielle.  Elle assurera un accompagnement technique et humain pour l'intégration des EIG dans la communauté de contributeurs à [OpenFisca France](https://github.com/openfisca/openfisca-france/graphs/contributors).
