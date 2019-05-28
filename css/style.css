@@ -3647,7 +3647,7 @@ blockquote, ul, p {
 .defi .role {
   color: #333;
 }
-.defi .administration {
+.defi .metadata {
   font-family: "Evolventa", "Trebuchet MS", sans-serif;
   font-size: 1em;
   margin-bottom: 1em;
