@@ -11,7 +11,7 @@
   duration_months: 10
   description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
   administration: Agence centrale des organismes de sécurité sociale (ACOSS)
-  administration-website: https://www.acoss.fr/home.html
+  administration_website: https://www.acoss.fr/home.html
   eigs:
     - "Coline Lebaratoux"
     - "Anoureth Pongrattana"
@@ -32,7 +32,7 @@
   duration_months: 10
   description: "Lutter contre les comportements financiers illicites grâce à un graphe de connaissance"
   administration: Ministère de l’Action et des comptes publics
-  administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
+  administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   eigs:
     - "Nicolas Berkouk"
     - "Simon Lebastard"
@@ -52,7 +52,7 @@
   duration_months: 10
   description: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
   administration: Agence française pour le développement et la promotion de l’agriculture biologique
-  administration-website: http://www.agencebio.org
+  administration_website: http://www.agencebio.org
   eigs:
     - "Lucas Bchini"
     - "Wojtek Sitarz"
@@ -73,7 +73,7 @@
   promotion: 3
   duration_months: 10
   description: "Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage"
-  administration-website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
+  administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
   eigs:
     - "Quentin Loridant"
@@ -95,7 +95,7 @@
   duration_months: 10
   description: "Informer les victimes de préjudices corporels et les acteurs de l'indemnisation de préjudices en construisant un référentiel neutre et fiable des indemnisations "
   administration: Ministère de la Justice, Direction des affaires civiles et du sceau
-  administration-website: http://www.justice.gouv.fr/le-ministere-de-la-justice-10017/direction-des-affaires-civiles-et-du-sceau-10023/
+  administration_website: http://www.justice.gouv.fr/le-ministere-de-la-justice-10017/direction-des-affaires-civiles-et-du-sceau-10023/
   eigs:
     - "Kim Montalibet"
     - "Cédric Malherbe"
@@ -116,7 +116,7 @@
   duration_months: 10
   description: "Transformer les méthodes d’une autorité de régulation en mettant la circulation de la donnée au cœur de ses missions"
   administration: Autorité de régulation des communications électroniques et des postes
-  administration-website: https://www.arcep.fr
+  administration_website: https://www.arcep.fr
   eigs:
     - "Carine Stolz"
     - "Thierry Razanajao"
@@ -132,7 +132,7 @@
   colorback: red
   description: Accompagner un collectif numérique d’intérêt général au sein de l'État
   administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
-  administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
+  administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
   duration_months: 10
@@ -155,7 +155,7 @@
   duration_months: 10
   description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"
   administration: Direction générale du Travail
-  administration-website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
+  administration_website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
   eigs:
     - "Armand Giraud"
     - "Mathieu Havel"
@@ -176,7 +176,7 @@
   duration_months: 10
   description: "Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images"
   administration: Ministère de l’Intérieur et Agence nationale du traitement automatisé des infractions (ANTAI)
-  administration-website: https://www.antai.gouv.fr/
+  administration_website: https://www.antai.gouv.fr/
   eigs:
     - "Victor Journé"
     - "Cristian Perez Brokate"
@@ -196,7 +196,7 @@
   duration_months: 10
   administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DIAIR)
   description: "Aider les réfugiés dans leurs démarches en créant une plateforme d’information adaptée à la diversité culturelle"
-  administration-website: http://accueil-integration-refugies.fr
+  administration_website: http://accueil-integration-refugies.fr
   eigs:
     - "Hugo Stéphan"
     - "Soufiane Lamrissi"
@@ -217,7 +217,7 @@
   duration_months: 10
   description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"
   administration: Direction interministérielle et du système d’information et de communication de l'Etat
-  administration-website: https://www.numerique.gouv.fr/
+  administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
     - "Dorine Lambinet"
@@ -239,7 +239,7 @@
   duration_months: 10
   description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
   administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
-  administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
+  administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
     - "Pierre-Alain Jachiet"
     - "Viktor Jarry"
@@ -260,7 +260,7 @@
   duration_months: 10
   description: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
   administration: Cour de cassation
-  administration-website: https://www.courdecassation.fr
+  administration_website: https://www.courdecassation.fr
   eigs:
     - "Amaury Fouret"
     - "Mathieu Perez"
@@ -281,7 +281,7 @@
   duration_months: 10
   description: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
   administration: Cour des comptes
-  administration-website: https://www.ccomptes.fr/en
+  administration_website: https://www.ccomptes.fr/en
   eigs:
     - "Amélie Medem"
     - "Erica Marco"
@@ -305,7 +305,7 @@
   duration_months: 10
   description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
   administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
-  administration-website: https://www.economie.gouv.fr/dgccrf
+  administration_website: https://www.economie.gouv.fr/dgccrf
   eigs:
     - "Gabriel Bastard"
     - "Luc Salommez"
@@ -321,7 +321,7 @@
   colorback: blue
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
-  administration-website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
+  administration_website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
   website: https://archifiltre.com
   source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
@@ -346,7 +346,7 @@
   duration_months: 10
   promotion: 2
   administration: Service Hydrographique et Océanographique de la Marine, SHOM
-  administration-website: http://www.shom.fr
+  administration_website: http://www.shom.fr
   eigs:
     - "Arnaud Ménard"
     - "Adrien Signorino"
@@ -365,7 +365,7 @@
   duration_months: 10
   promotion: 2
   administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
-  administration-website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
+  administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   eigs:
     - "Dora Crisan"
     - "Jean-Baptiste Le Dévéhat"
@@ -385,7 +385,7 @@
   duration_months: 10
   promotion: 2
   administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
-  administration-website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
+  administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
     - "David Panou"
     - "Arnaud Rachez"
@@ -402,7 +402,7 @@
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
   administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
-  administration-website: https://www.gouvernement.fr/le-ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation
+  administration_website: https://www.gouvernement.fr/le-ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation
   year: 2018
   duration_months: 10
   promotion: 2
@@ -423,7 +423,7 @@
   colorback: blue
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
   administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
-  administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
+  administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
   duration_months: 10
@@ -445,7 +445,7 @@
   duration_months: 10
   promotion: 2
   administration: Ministère de la Culture, Direction générale de la création artistique, Service du Mobilier National
-  administration-website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
+  administration_website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
   source_code: https://github.com/entrepreneur-interet-general/gobelins
   eigs:
     - "Laurie Chapotte"
@@ -465,7 +465,7 @@
   duration_months: 10
   promotion: 2
   administration: Ministère de l'Action et des Comptes Publics
-  administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
+  administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
   eigs:
     - "Paul Boosz"
@@ -486,7 +486,7 @@
   duration_months: 10
   promotion: 2
   administration: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques
-  administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
+  administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
     - "Samah Ghalloussi"
     - "Philéas Condemine"
@@ -506,7 +506,7 @@
   duration_months: 10
   promotion: 2
   administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
-  administration-website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
+  administration_website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
   source_code: https://github.com/entrepreneur-interet-general/predisauvetage
   website: https://www.snosan.fr
   eigs:
@@ -525,7 +525,7 @@
   colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
-  administration-website: https://www.interieur.gouv.fr
+  administration_website: https://www.interieur.gouv.fr
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
   year: 2018
@@ -546,7 +546,7 @@
   colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
   administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
-  administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
+  administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
   duration_months: 10
@@ -569,7 +569,7 @@
   duration_months: 10
   promotion: 2
   administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
-  administration-website: http://www.cget.gouv.fr/
+  administration_website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
   eigs:
@@ -590,7 +590,7 @@
   duration_months: 10
   promotion: 1
   administration: Agence Française de Développement
-  administration-website: http://www.afd.fr
+  administration_website: http://www.afd.fr
   website: https://data.afd.fr/urban.html
   source_code: https://entrepreneur-interet-general/AFD_projects
   eigs:
@@ -610,7 +610,7 @@
   duration_months: 10
   promotion: 1
   administration: Secrétariat général des ministères sociaux
-  administration-website: https://solidarites-sante.gouv.fr
+  administration_website: https://solidarites-sante.gouv.fr
   source_code: https://scossin/parcoursdesoins
   eigs:
     - "Sébastien Cossin"
@@ -626,7 +626,7 @@
   colorback: red
   description: Créer un nouvel outil de catalogage
   administration: Bibliothèque nationale de France
-  administration-website: http://www.bnf.fr
+  administration_website: http://www.bnf.fr
   year: 2017
   duration_months: 10
   promotion: 1
@@ -644,7 +644,7 @@
   colorback: red
   description: Mieux informer les citoyens sur l’emploi de l’argent public
   administration: Cour des comptes
-  administration-website: https://www.ccomptes.fr
+  administration_website: https://www.ccomptes.fr
   source_code: https://entrepreneur-interet-general/api-ccomptes
   year: 2017
   duration_months: 10
@@ -666,7 +666,7 @@
   duration_months: 10
   promotion: 1
   administration: Direction Générale des Finances Publiques
-  administration-website: https://www.economie.gouv.fr/dgfip
+  administration_website: https://www.economie.gouv.fr/dgfip
   eigs:
     - "Marion Paclot"
   mentors:
@@ -684,7 +684,7 @@
   duration_months: 10
   promotion: 1
   administration: Ministère de la culture
-  administration-website: http://www.culture.gouv.fr
+  administration_website: http://www.culture.gouv.fr
   source_code: https://git.inventaire-des-orgues.fr/bzg/
   website: https://www.inventaire-des-orgues.fr
   eigs:
@@ -706,7 +706,7 @@
   duration_months: 10
   promotion: 1
   administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
-  administration-website: http://www.enseignementsup-recherche.gouv.fr
+  administration_website: http://www.enseignementsup-recherche.gouv.fr
   source_code: https://entrepreneur-interet-general/Merge-Machine
   eigs:
     - "Léo Bouloc"
@@ -727,7 +727,7 @@
   duration_months: 10
   promotion: 1
   administration: Ministère de l'Intérieur
-  administration-website: https://www.interieur.gouv.fr
+  administration_website: https://www.interieur.gouv.fr
   source_code: https://github.com/entrepreneur-interet-general/cartav
   eigs:
     - "Francis Chabouis"
@@ -744,7 +744,7 @@
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
   administration: Ministère de l'Intérieur
-  administration-website: https://www.interieur.gouv.fr/
+  administration_website: https://www.interieur.gouv.fr/
   source_code: https://matchID-project/
   year: 2017
   duration_months: 10
