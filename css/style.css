@@ -3620,3 +3620,39 @@ blockquote, ul, p {
     font-size: 1.15rem;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+/* Défis */
+.defi .logo {
+  width: 150px;
+  margin-top: 1em;
+}
+.defi .personne_container {
+  margin-bottom: 1em;
+}
+.defi .personne {
+  border-radius: 50%;
+  width: 150px;
+  margin-bottom: 1em;
+}
+.defi .role {
+  color: #333;
+}
+.defi .metadata {
+  font-family: "Evolventa", "Trebuchet MS", sans-serif;
+  font-size: 1em;
+  margin-bottom: 1em;
+  letter-spacing: 1px;
+}
+.defi [class*="column"] + [class*="column"]:last-child {
+  float: left;
+}

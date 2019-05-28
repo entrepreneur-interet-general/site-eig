@@ -1,19 +1,6 @@
 ---
 layout: defi
 title: MI - matchID
-site: /defis/2017/mi-matchid.html
-annees: 2017
-description: "Fiabiliser les statistiques de sécurité routière en retirant les personnes décédées du Fichier National des Permis de Conduire"
-administration: Ministère de l'Intérieur
-administration-website: https://www.interieur.gouv.fr/
-type: Développement
-eigs:
-  - nom: Martin Gross
-    site: /communaute/2017/martin-gross.html
-mentors:
-  - nom: Daniel Ansellem
-    site: /communaute/2018/daniel-ansellem.html
-images:
 ---
 
 De nombreuses personnes décédées continuent à conduire.  Du moins du
@@ -37,7 +24,6 @@ générique et plusieurs administrations l'utilisent désormais.
 
 _Pour aller plus loin_
 
-* Le [github](https://github.com/matchID-project/) du défi
 * [La restitution, 10 mois après](https://www.dailymotion.com/video/x6b7xzu?playlist=x54m4i)
 
 Interview de Martin Gross sur son parcours et sur le défi MI - MatchID : 

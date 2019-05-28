@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: Archifiltre
-site: https://archifiltre.com
-annees: 2018
-description: "Assurer la mémoire des politiques sociales en transformant la gestion des archives"
-administration: Secrétariat général des ministères sociaux
-administration-website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
-type: Développement, datascience
-eigs:
-  - nom: Emmanuel Gautier
-    site: /communaute/2018/emmanuel-gautier.html
-  - nom: Jean-Baptiste Assouad
-    site: /communaute/2018/jean-baptiste-assouad.html
-mentors:
-  - nom: Chloé Moser
-    site: /communaute/2018/chloe-moser.html
-  - nom: Anne Lambert
-    site: /communaute/2018/anne-lambert.html
-images:
-  - /img/defis/9_ARCHEMSE.png
 ---
 
 Les archives sont comme un arbre : rassemblées en un endroit,
@@ -45,13 +27,3 @@ différents éléments pour permettre de les traiter.  Sur le second,
 ils construisent une application  qui permet d’appréhender une
 arborescence en entier afin d'y faire un tri éclairé.
 Testez-là sur [archifiltre.com](https://archifiltre.com/) !
-
-
-_Pour aller plus loin_
-
-* [Le github](https://github.com/jeanbaptisteassouad/cheapExp) du défi
-* [Le site](http://archifiltre.com/) du défi
-
-* Le pitch du défi Archifiltre en quelques slides (10 octobre 2017)
-
-<script async class="speakerdeck-embed" data-id="57e8d4b1fe4543c48a67a9bf7b688c01" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

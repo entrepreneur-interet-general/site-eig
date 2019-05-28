@@ -18,11 +18,12 @@ section_id: defis
         </ul>
       </div>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for defi in site.data.defis %}
+        {% for defi_hash in site.data.defis %}
+        {% assign defi = defi_hash[1] %}
           <li class='{{defi.class}}'>
             <a href='{{defi.link_to}}'>
               <img alt="{{defi.title}}" style="width:40%;display: block; margin-left: auto;margin-right: auto" src="{{site.url}}/{{defi.image}}" /><h2 style="color:#222222; text-align: center; font-size: 1.25rem; margin-bottom:0.3rem;margin-top:0.3rem;">{{defi.title}}</h2><p style="color:#555555; text-align: center; font-size: 1.04rem; margin-bottom:0.88rem;">{{defi.description}}</p><p style="color:#888888; text-align: center; font-size: 0.84rem; margin-bottom:0.1rem;">{{defi.skills}}</p>
-              <div class='overlay' style='background: 
+              <div class='overlay' style='background:
                   {% if defi.colorback == 'red' %}
                     #b01818
                   {% elsif defi.colorback == 'blue' %}

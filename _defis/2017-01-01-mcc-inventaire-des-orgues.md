@@ -1,20 +1,6 @@
 ---
 layout: defi
-title: Ministère de la culture - Inventaire des orgues
-site: /defis/2017/mcc-inventaire-des-orgues.html
-annees: 2017
-description: "Révéler le patrimoine des orgues grâce à la collaboration entre institutions, associations et particuliers passionnés"
-administration: Ministère de la culture
-administration-website: http://www.culture.gouv.fr/
-type: Développement
-eigs:
-  - nom: Bastien Guerry
-    site: /communaute/2018/bastien-guerry.html
-mentors:
-  - nom: Judith Kagan
-  - nom: Marie-Véronique Leroi
-  - nom: Sophie Cueille
-images:
+title: MCC - Inventaire des orgues
 ---
 
 Dissimulés dans de petites églises de village, mis en valeur dans de
@@ -39,7 +25,6 @@ la société civile et les institutions.
 
 _Pour aller plus loin_
 
-* Le [site de l'inventaire des orgues](https://www.inventaire-des-orgues.fr) 
 * [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b96fi?playlist=x54m4i)
 
 Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues :
