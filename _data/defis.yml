@@ -325,6 +325,7 @@
   website: https://archifiltre.com
   source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
+  duration_months: 10
   promotion: 2
   eigs:
     - "Emmanuel Gautier"
@@ -342,6 +343,7 @@
   colorback: blue
   description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Service Hydrographique et Océanographique de la Marine, SHOM
   administration-website: http://www.shom.fr
@@ -360,6 +362,7 @@
   colorback: blue
   description: Moderniser la fonction d'accueil en brigade
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Minisère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
   administration-website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
@@ -379,6 +382,7 @@
   colorback: blue
   description: Améliorer la réussite scolaire avec les données d'apprentissage
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
   administration-website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
@@ -400,6 +404,7 @@
   administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation
   year: 2018
+  duration_months: 10
   promotion: 2
   eigs:
     - "Ambre Arnaud"
@@ -421,6 +426,7 @@
   administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
+  duration_months: 10
   promotion: 2
   eigs:
     - "Bastien Guerry"
@@ -436,6 +442,7 @@
   colorback: blue
   description: Révéler les richesses du Mobilier National
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Ministère de la Culture, Direction générale de la création artistique, Service du Mobilier National
   administration-website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
@@ -455,6 +462,7 @@
   colorback: blue
   description: Lutter contre la fraude financière et enrayer l'économie souterraine
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Ministère de l'Action et des Comptes Publics
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
@@ -475,6 +483,7 @@
   colorback: blue
   description: Valoriser les données du système de santé
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques
   administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
@@ -494,6 +503,7 @@
   colorback: blue
   description: Sauver des vies en mer en prévenant les accidents maritimes
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
   administration-website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
@@ -519,6 +529,7 @@
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
   year: 2018
+  duration_months: 10
   promotion: 2
   eigs:
     - "Tiphaine Phe-Neau"
@@ -538,6 +549,7 @@
   administration-website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
+  duration_months: 10
   promotion: 2
   eigs:
     - "Pierre Camilleri"
@@ -554,6 +566,7 @@
   colorback: blue
   description: Repérer et mettre en réseau l'innovation sociale dans les territoires
   year: 2018
+  duration_months: 10
   promotion: 2
   administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
   administration-website: http://www.cget.gouv.fr/
@@ -574,6 +587,7 @@
   colorback: red
   description: Mettre les données ouvertes au service de projets de développement
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Agence Française de Développement
   administration-website: http://www.afd.fr
@@ -593,6 +607,7 @@
   colorback: red
   description: Améliorer l’offre de soin en Occitanie
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Secrétariat général des ministères sociaux
   administration-website: https://solidarites-sante.gouv.fr
@@ -613,6 +628,7 @@
   administration: Bibliothèque nationale de France
   administration-website: http://www.bnf.fr
   year: 2017
+  duration_months: 10
   promotion: 1
   eigs:
     - "Constance de Quatrebarbes"
@@ -631,6 +647,7 @@
   administration-website: https://www.ccomptes.fr
   source_code: https://entrepreneur-interet-general/api-ccomptes
   year: 2017
+  duration_months: 10
   promotion: 1
   eigs:
     - "Frédéric Bardolle"
@@ -646,6 +663,7 @@
   colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Direction Générale des Finances Publiques
   administration-website: https://www.economie.gouv.fr/dgfip
@@ -663,6 +681,7 @@
   colorback: red
   description: Révéler et valoriser le patrimoine des orgues
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Ministère de la culture
   administration-website: http://www.culture.gouv.fr
@@ -684,6 +703,7 @@
   colorback: red
   description: Automatiser le nettoyage de bases de données
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
   administration-website: http://www.enseignementsup-recherche.gouv.fr
@@ -704,6 +724,7 @@
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
+  duration_months: 10
   promotion: 1
   administration: Ministère de l'Intérieur
   administration-website: https://www.interieur.gouv.fr
@@ -726,6 +747,7 @@
   administration-website: https://www.interieur.gouv.fr/
   source_code: https://matchID-project/
   year: 2017
+  duration_months: 10
   promotion: 1
   eigs:
     - "Martin Gross"
