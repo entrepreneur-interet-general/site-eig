@@ -26,9 +26,3 @@ ciblées et d’orienter des politiques publiques.
 _Ce projet s’inspire de celui mis en place par la ville de New York
 pour optimiser l’intervention de ses services d’inspection grâce au
 machine learning._
-
-_Pour aller plus loin_
-
-Ci-dessous le pitch du défi Prédisauvetage en quelques slides (10 octobre 2017) :
-
-<script async class="speakerdeck-embed" data-id="450c046ba75044e0a94c31b12bffc753" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

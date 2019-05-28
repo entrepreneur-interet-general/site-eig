@@ -10,10 +10,6 @@ domicile en développant des APIs autour des données liées aux
 salariés, employeurs, et autres organismes intervenants dans les
 prélèvements sociaux.
 
-Voir le [défi ACOSS Plateforme](https://speakerdeck.com/eig2018/pitch-acoss-plateforme-defi-eig3) en quelques slides.
-
-<br/>
-
 ## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur 
 
 ### La problématique

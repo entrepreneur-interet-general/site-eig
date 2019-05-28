@@ -21,9 +21,3 @@ nautique rapide et sûre. L’objectif final est d'enrichir les cartes
 marines avec des données plus complètes, plus fraîches et plus lisibles.
 Le tout demande de traiter les données en amont, de les agréger et de
 réfléchir à l'ergonomie des systèmes nautiques interactifs.
-
-_Pour aller plus loin_
-
-Le pitch du défi BaliseNAV en quelques slides
-
-<script async class="speakerdeck-embed" data-id="27e2e3eeaa814ba5bf081d5b2782535a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

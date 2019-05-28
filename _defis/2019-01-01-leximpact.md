@@ -5,8 +5,6 @@ title: LexImpact
 
 La Direction Interministérielle du Numérique et du Système d’Information et de Communication de l’État ([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.
 
-<br/>
-
 ## LexImpact : Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s
 
 ### La problématique

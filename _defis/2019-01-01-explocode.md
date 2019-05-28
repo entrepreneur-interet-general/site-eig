@@ -10,10 +10,6 @@ solutions d’IA, et le développement de services et API pour une
 diversité d’utilisateurs concernés par le droit du travail (agents
 publics, syndicats, associations, entreprises, RH, etc.).
 
-Voir le [défi ExploCode](https://speakerdeck.com/eig2018/pitch-explocode-defi-eig3) en quelques slides.
-
-<br/>
-
 ## ExploCode : de l’intelligence artificielle au service de la lisibilité du droit du travail
 
 ### La problématique

@@ -12,10 +12,6 @@ de santé, le développement d’une variété d’outils, notamment pour
 mieux comprendre les variabilités de prise en charge des malades et 
 mieux coordonner les différents professionnels de santé (ville/hôpital).
 
-Voir le [défi Open Chronic](https://speakerdeck.com/eig2018/pitch-open-chronic-defi-eig3) en quelques slides.
-
-<br/>
-
 ## Open Chronic : améliorer la prise en charge des maladies chroniques et grâce à une nouvelle base de données de santé
 
 ### La problématique

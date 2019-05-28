@@ -27,9 +27,3 @@ des données sur tous les sites partenaires du projet Social Connect
 indexations des innovations sociales. Le design ces trois outils
 -grand public ou spécialisés- est pensé afin de rendre l’expérience
 des utilisateurs la plus fluide et simple possible.
-
-_Pour aller plus loin_
-
-* Le pitch du défi Social Connect en quelques slides (10 octobre 2017)
-
-<script async class="speakerdeck-embed" data-id="3938c833804245978b48a03f28879ae1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

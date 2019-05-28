@@ -25,9 +25,3 @@ territoriales ;
 - un outil de gestion de communication multicanal utilisé par la
 Brigade numérique lors de leur contact avec les usagers dont ils font évoluer
 l'ergonomie.
-
-_Pour aller plus loin_
-
-Le pitch du défi Brigade numérique en quelques slides (présenté le 10 octobre 2017)
-
-<script async class="speakerdeck-embed" data-id="9879ecc863f64b549d4b26902b9f4e16" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
