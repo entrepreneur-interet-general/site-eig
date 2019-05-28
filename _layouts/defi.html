@@ -57,14 +57,22 @@ layout: default
 
   <div class="row">
     <div class="medium-12 columns">
+      {% if defi_data.website or defi_data.source_code %}
       <div class="two spacing"></div>
+      {% endif %}
+
       {% if defi_data.website %}
-      <a class="button small" href="{{ defi_data.website }}"><i class="fa fa-external-link"></i> Démonstration</a>
+      <a class="button small" href="{{ defi_data.website }}">
+        <i class="fa fa-external-link" title="Lien vers le code source"></i> Démonstration
+      </a>
       {% endif %}
       {% if defi_data.source_code %}
-      <a class="button small" href="{{ defi_data.source_code }}" title="Code source de {{ defi_data.title }}"><i class="fa fa-code"></i> Code source</a>
+      <a class="button small" href="{{ defi_data.source_code }}" title="Code source de {{ defi_data.title }}">
+        <i class="fa fa-code" title="Lien vers le code source"></i> Code source
+      </a>
       {% endif %}
       <div class="two spacing"></div>
+
       {{ content }}
     </div>
   </div>
