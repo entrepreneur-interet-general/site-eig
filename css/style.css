@@ -3656,3 +3656,6 @@ blockquote, ul, p {
 .defi [class*="column"] + [class*="column"]:last-child {
   float: left;
 }
+.defi .modMilestone strong {
+  font-size: 3rem;
+}

@@ -333,6 +333,16 @@
   mentors:
     - "Chloé Moser"
     - "Anne Lambert"
+  key_figures:
+    -
+      amount: 20
+      description: "ateliers utilisateurs réalisés"
+    -
+      amount: 10
+      description: "versions sorties"
+    -
+      amount: 1000
+      description: "utilisateurs uniques depuis le lancement"
 
 "b@liseNAV":
   image: /img/defis/5_balisage.png
@@ -352,6 +362,19 @@
     - "Adrien Signorino"
   mentors:
     - "Éric Le Guen"
+  key_figures:
+    -
+      amount: 8043
+      description: "balises comparées"
+    -
+      amount: 800
+      description: "objets complétés"
+    -
+      amount: 5800
+      description: "balises à publier"
+    -
+      amount: 42
+      description: "normes explorées"
 
 "Brigade Numérique":
   image: /img/defis/10_brigadenumerique.png
@@ -372,6 +395,19 @@
   mentors:
     - "Marielle Chrisment"
     - "Rémy Nollet"
+  key_figures:
+    -
+      amount: 1300
+      description: "demandes/semaine à la Brigade Numérique"
+    -
+      amount: 60
+      description: "Canaux de communication (Facebook, Twitter, ...)"
+    -
+      amount: 8.7
+      description: "note moyenne de satisfaction des citoyens"
+    -
+      amount: 3080
+      description: "gendarmeries ont leurs horaires en open data"
 
 "CoachÉlève":
   image: /img/defis/12_CoachElevesAssistProf.png
@@ -392,6 +428,16 @@
   mentors:
     - "Claudio Cimelli"
     - "François Bocquet"
+  key_figures:
+    -
+      amount: 250000
+      description: "lignes de données analysées"
+    -
+      amount: 2
+      description: "bibliothèques open source publiées"
+    -
+      amount: 5
+      description: "ateliers de travail avec des chercheurs et pédagogues"
 
 "DataESR":
   image: /img/defis/13_dataESR.png
@@ -413,6 +459,19 @@
   mentors:
     - "Yann Caradec"
     - "Emmanuel Weisenburger"
+  key_figures:
+    -
+      amount: 5
+      description: "API créées"
+    -
+      amount: 20000000
+      description: "publications traitées"
+    -
+      amount: 4000
+      description: "établissements répertoriés"
+    -
+      amount: 12000
+      description: "structures de recherche"
 
 "EIG Link 2018":
   image: /img/defis/11_EIGLink.png
@@ -432,6 +491,19 @@
     - "Bastien Guerry"
   mentors:
     - "Mathilde Bras"
+  key_figures:
+    -
+      amount: 2
+      description: "journées garagethon à Etalab"
+    -
+      amount: 2
+      description: "Etalab talk à Etalab"
+    -
+      amount: 1
+      description: "journée de contribution à Wikipédia"
+    -
+      amount: 1
+      description: "jeu de données publié"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
@@ -452,6 +524,19 @@
     - "Ned Baldessin"
   mentors:
     - "Hélène Cavalié"
+  key_figures:
+    -
+      amount: 70000
+      description: "objets en ligne"
+    -
+      amount: 36000
+      description: "photos d'objets"
+    -
+      amount: 316
+      description: "photos des métiers d'art sur Wikimedia Commons"
+    -
+      amount: 15000
+      description: "photos téléchargeables et réutilisables"
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -473,6 +558,19 @@
     - "Benoît Guigal"
   mentors:
     - "Delphine Lê"
+  key_figures:
+    -
+      amount: 5
+      description: "ateliers data science"
+    -
+      amount: 3
+      description: "articles de blog"
+    -
+      amount: 100000
+      description: "documents analysés"
+    -
+      amount: 500000
+      description: "mots différents"
 
 "Lab Santé":
   image: /img/defis/2_Labsanté.png
@@ -493,6 +591,19 @@
     - "Julien Naour"
   mentors:
     - "Stéphanie Combes"
+  key_figures:
+    -
+      amount: 60
+      description: "agents formés à R et Python"
+    -
+      amount: 29
+      description: "projets créés sur Gitlab"
+    -
+      amount: 8
+      description: "sessions d'accompagnement à la datascience"
+    -
+      amount: 12
+      description: "applications open source"
 
 "PrédiSauvetage":
   image: /img/defis/1_MTES.png
@@ -515,6 +626,19 @@
   mentors:
     - "Laurence Matringe"
     - "Renaud Périn"
+  key_figures:
+    -
+      amount: 275000
+      description: "opérations d'assistance et de sauvetage en mer en open data"
+    -
+      amount: 75
+      description: "pages de documents écrites pour convaincre l'administration"
+    -
+      amount: 20
+      description: "agents formés à l'analyse de données"
+    -
+      amount: 16
+      description: "répertoires sur GitHub"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -536,6 +660,19 @@
     - "Guillaume Lancrenon"
   mentors:
     - "Daniel Ansellem"
+  key_figures:
+    -
+      amount: 1
+      description: "carte météo des interventions"
+    -
+      amount: 1200
+      description: "jeux de données"
+    -
+      amount: 13
+      description: "sources de données"
+    -
+      amount: 4300
+      description: "lignes de code"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
@@ -556,6 +693,19 @@
     - "Christophe Ninucci"
   mentors:
     - "Stéphanie Schaer"
+  key_figures:
+    -
+      amount: 24
+      description: "visites réalisées"
+    -
+      amount: 18
+      description: "entreprises accompagnées"
+    -
+      amount: 13
+      description: "agents utilisateurs en Bourgogne-Franche-Comté"
+    -
+      amount: 4
+      description: "services de l'État contributeurs"
 
 "Social Connect":
   image: /img/defis/8_CGET.png
@@ -577,6 +727,19 @@
     - "Julien Paris"
   mentors:
     - "Bénédicte Pachod"
+  key_figures:
+    -
+      amount: 17
+      description: "ateliers de co-construction"
+    -
+      amount: 3
+      description: "prototypes d'application open source"
+    -
+      amount: 1030
+      description: "visites sur la version bêta"
+    -
+      amount: 12600
+      description: "projets d'innovation sociale en ligne"
 
 "AFD - Geodata":
   image: /img/icone-eig.png

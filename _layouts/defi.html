@@ -74,8 +74,24 @@ layout: default
       <div class="two spacing"></div>
 
       {{ content }}
+
+      <div class="two spacing"></div>
+
+      {% if defi_data.key_figures %}
+      {% for key_figure in defi_data.key_figures %}
+      <div class="small-6 columns text-center large-3">
+        <div class="mod modMilestone no-icon">
+          <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
+          <span>{{ key_figure.description }}</span>
+          <div class="spacing"></div>
+        </div>
+      </div>
+      {% endfor %}
+      {% endif %}
     </div>
   </div>
 
   <div class='four spacing'></div>
+
+
 </div>
