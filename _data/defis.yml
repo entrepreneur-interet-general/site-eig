@@ -7,6 +7,7 @@
   colorback: red
   description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
+  duration_months: 10
   description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
   administration: Agence centrale des organismes de sécurité sociale (ACOSS)
   administration-website: https://www.acoss.fr/home.html
@@ -26,6 +27,7 @@
   colorback: red
   description: Lutter contre les comportements financiers illicites
   year: 2019
+  duration_months: 10
   description: "Lutter contre les comportements financiers illicites grâce à un graphe de connaissance"
   administration: Ministère de l’Action et des comptes publics
   administration-website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
@@ -44,6 +46,7 @@
   colorback: red
   description: Cartographier les parcelles d'agricultures biologiques
   year: 2019
+  duration_months: 10
   description: "Soutenir la filière biologique en cartographiant les parcelles cultivées en agriculture biologique sur le territoire"
   administration: Agence française pour le développement et la promotion de l’agriculture biologique
   administration-website: http://www.agencebio.org
@@ -64,6 +67,7 @@
   colorback: red
   description: Aider au contrôle des navires profesionnels
   year: 2019
+  duration_months: 10
   description: "Aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage"
   administration-website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
@@ -83,6 +87,7 @@
   colorback: red
   description: Construire un référentiel d'indémnisation des préjudices corporels
   year: 2019
+  duration_months: 10
   description: "Informer les victimes de préjudices corporels et les acteurs de l'indemnisation de préjudices en construisant un référentiel neutre et fiable des indemnisations "
   administration: Ministère de la Justice, Direction des affaires civiles et du sceau
   administration-website: http://www.justice.gouv.fr/le-ministere-de-la-justice-10017/direction-des-affaires-civiles-et-du-sceau-10023/
@@ -102,6 +107,7 @@
   colorback: red
   description: Maximiser l’exploitation des données de l'Arcep
   year: 2019
+  duration_months: 10
   description: "Transformer les méthodes d’une autorité de régulation en mettant la circulation de la donnée au cœur de ses missions"
   administration: Autorité de régulation des communications électroniques et des postes
   administration-website: https://www.arcep.fr
@@ -122,6 +128,7 @@
   administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
   administration-website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
+  duration_months: 10
   eigs:
     - "Antoine Augusti"
     - "Jean-Baptiste Le Dévéhat"
@@ -137,6 +144,7 @@
   colorback: red
   description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
+  duration_months: 10
   description: "Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle"
   administration: Direction générale du Travail
   administration-website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
@@ -156,6 +164,7 @@
   colorback: red
   description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
+  duration_months: 10
   description: "Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images"
   administration: Ministère de l’Intérieur et Agence nationale du traitement automatisé des infractions (ANTAI)
   administration-website: https://www.antai.gouv.fr/
@@ -174,6 +183,7 @@
   colorback: red
   description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
+  duration_months: 10
   administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DIAIR)
   description: "Aider les réfugiés dans leurs démarches en créant une plateforme d’information adaptée à la diversité culturelle"
   administration-website: http://accueil-integration-refugies.fr
@@ -193,6 +203,7 @@
   colorback: red
   description: Evaluer l'impact des réformes socio-fiscales sur les citoyen·ne·s
   year: 2019
+  duration_months: 10
   description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"
   administration: Direction interministérielle et du système d’information et de communication de l'Etat
   administration-website: https://www.numerique.gouv.fr/
@@ -213,6 +224,7 @@
   colorback: red
   description: Améliorer la prise en charge des malades chroniques
   year: 2019
+  duration_months: 10
   description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
   administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
   administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
@@ -232,6 +244,7 @@
   colorback: red
   description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
+  duration_months: 10
   description: "Ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation des données"
   administration: Cour de cassation
   administration-website: https://www.courdecassation.fr
@@ -251,6 +264,7 @@
   colorback: red
   description: Transformer les métiers des juridictions financières
   year: 2019
+  duration_months: 10
   description: "Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données"
   administration: Cour des comptes
   administration-website: https://www.ccomptes.fr/en
@@ -273,6 +287,7 @@
   colorback: red
   description: Améliorer la confiance des consommateurs en détectant des faux avis
   year: 2019
+  duration_months: 10
   description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
   administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
   administration-website: https://www.economie.gouv.fr/dgccrf
