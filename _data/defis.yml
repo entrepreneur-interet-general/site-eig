@@ -705,13 +705,25 @@
       title: "Carte des opérations en mer"
       description: "Nous avons réalisé une carte intéractive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
       url: https://carte.snosan.fr
-      call_to_action: "Découvrir"
+      call_to_action: "Parcourir les opérations"
     -
       image: img/realisations/2018/snosan.png
       title: "Observatoire interministériel"
-      description: "Nous avons assisté et fait grandir l'obseratoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN."
+      description: "Nous avons assisté et fait évoluer l'observatoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN. Il dispose de nouveaux outils suite à notre défi."
       url: https://www.snosan.fr
-      call_to_action: "Visiter"
+      call_to_action: "Visiter l'observatoire"
+    -
+      image: img/realisations/2018/snosan-opendata.png
+      title: "Open data"
+      description: "Nous avons mis à disposition les données brutes des opérations d'assistance et de sauvetage coordonnées par la France depuis 1985. Ces données correspondent à près de 300 000 opérations et sont mises à jour de manière quotidienne automatiquement."
+      url: https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/
+      call_to_action: "Voir les données brutes"
+    -
+      image: img/realisations/2018/snosan-code.png
+      title: "Logiciels libres"
+      description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
+      url: https://github.com/search?q=topic%3Apredisauvetage
+      call_to_action: "Explorer le code"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
