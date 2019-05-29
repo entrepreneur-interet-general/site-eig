@@ -645,6 +645,19 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi PrédiSauvetage."
       show: true
+  projects:
+    -
+      image: img/realisations/2018/carte-snosan.png
+      title: "Carte des opérations en mer"
+      description: "Nous avons réalisé une carte intéractive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
+      url: https://carte.snosan.fr
+      call_to_action: "Découvrir"
+    -
+      image: img/realisations/2018/snosan.png
+      title: "Observatoire interministériel"
+      description: "Nous avons assisté et fait grandir l'obseratoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN."
+      url: https://www.snosan.fr
+      call_to_action: "Visiter"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -987,7 +1000,7 @@
       show: false
     -
       id: x64z39w
-      platform: x64z39q
+      platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
 
@@ -1023,7 +1036,7 @@
       show: false
     -
       id: x5qme82
-      platform: x64z39q
+      platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
 

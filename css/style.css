@@ -3659,3 +3659,58 @@ blockquote, ul, p {
 .defi .modMilestone strong {
   font-size: 3rem;
 }
+
+/* Carte */
+.card {
+  background: #fff;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 1px 2px rgba(201, 211, 223, 0.2);
+  box-shadow: 0 1px 2px rgba(201, 211, 223, 0.2);
+  position: relative;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  border: 1px solid #c9d3df;
+  margin-bottom: 1.5rem;
+}
+.card__cover {
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+.card__content {
+  padding: 1.5em;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+.card__content p {
+  font-size: 1rem;
+}
+.card__extra {
+  border-top: 1px solid #adb9c9;
+  padding: 1em;
+}
+.card__extra .button {
+  margin-bottom: 0;
+}

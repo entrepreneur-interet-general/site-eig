@@ -63,7 +63,7 @@ layout: default
 
       {% if defi_data.website %}
       <a class="button small" href="{{ defi_data.website }}">
-        <i class="fa fa-external-link" title="Lien vers le code source"></i> Démonstration
+        <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Démonstration
       </a>
       {% endif %}
       {% if defi_data.source_code %}
@@ -75,23 +75,64 @@ layout: default
 
       {{ content }}
 
-      <div class="two spacing"></div>
 
       {% if defi_data.key_figures %}
-      {% for key_figure in defi_data.key_figures %}
-      <div class="small-6 columns text-center large-3">
-        <div class="mod modMilestone no-icon">
-          <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
-          <span>{{ key_figure.description }}</span>
-          <div class="spacing"></div>
+      <div class="two spacing"></div>
+      <div class="row">
+        {% for key_figure in defi_data.key_figures %}
+        <div class="small-6 columns text-center large-3">
+          <div class="mod modMilestone no-icon">
+            <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
+            <span>{{ key_figure.description }}</span>
+            <div class="spacing"></div>
+          </div>
         </div>
+        {% endfor %}
       </div>
+      {% endif %}
+
+
+      {% if defi_data.projects %}
+      <div class="two spacing"></div>
+      <h2>Réalisations</h2>
+
+      <div class="row">
+        {% for project in defi_data.projects %}
+        <div class="small-12 large-4 columns">
+          <div class="card">
+            <div class="card__cover">
+              <img src="/{{ project.image }}" alt="{{ project.title }}">
+            </div>
+            <div class="card__content">
+              <h3>{{ project.title }}</h3>
+              <p>{{ project.description }}</p>
+            </div>
+            <div class="card__extra">
+              <a class="button small" href="{{ project.url }}">
+                <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if defi_data.end_of_projects_videos %}
+      <div class="two spacing"></div>
+      <h2>Rétrospective</h2>
+      {% for video in defi_data.end_of_projects_videos %}
+        {% if video.platform == 'dailymotion' and video.show %}
+        <p>
+          {{ video.description }}
+        </p>
+        <iframe frameborder="0" width="720" height="400" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% endif %}
       {% endfor %}
       {% endif %}
     </div>
   </div>
 
   <div class='four spacing'></div>
-
 
 </div>
