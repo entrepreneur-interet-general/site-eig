@@ -20,12 +20,3 @@ permettre au projet d’évoluer après son départ, Étienne a également
 développé AFDLab4Dev, une bibliothèque de documentation qui explique
 comment créer des visualisations de données à partir des API ouvertes
 de l’AFD. La transformation numérique de l’AFD est en bonne voie.
-
-_Pour aller plus loin_
-
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mca?playlist=x54m4i)
-
-Interview d'Etienne David sur son parcours et sur le défi AFD - Geodata : 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmebk" allowfullscreen allow="autoplay"></iframe>
-
-[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39y)_

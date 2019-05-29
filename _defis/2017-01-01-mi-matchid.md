@@ -21,12 +21,3 @@ permet d’établir des connexions entre des éléments qui ne sont pas
 identiques à 100% : ainsi, un nom de famille mal orthographié pourra
 tout de même être associé à un nom dans une autre liste.  MatchId est
 générique et plusieurs administrations l'utilisent désormais.
-
-_Pour aller plus loin_
-
-* [La restitution, 10 mois après](https://www.dailymotion.com/video/x6b7xzu?playlist=x54m4i)
-
-Interview de Martin Gross sur son parcours et sur le défi MI - MatchID : 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmeeb" allowfullscreen allow="autoplay"></iframe>
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z3a0)_

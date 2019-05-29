@@ -639,6 +639,12 @@
     -
       amount: 16
       description: "répertoires sur GitHub"
+  end_of_projects_videos:
+    -
+      id: x6y04yt
+      platform: dailymotion
+      description: "10 mois après : présentation du défi PrédiSauvetage."
+      show: true
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -760,6 +766,22 @@
     - "Étienne David"
   mentors:
     - "Antoine Chèvre"
+  end_of_projects_videos:
+    -
+      id: x6b9mca
+      platform: dailymotion
+      description: "Restitution du défi AFD - Geodata."
+      show: false
+    -
+      id: x5qmebk
+      platform: dailymotion
+      description: "Interview d'Étienne David sur son parcours et sur le défi AFD - Geodata."
+      show: false
+    -
+      id: x64z39y
+      platform: dailymotion
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "ARS - Parcours de soin":
   image: /img/icone-eig.png
@@ -779,6 +801,22 @@
     - "Sébastien Cossin"
   mentors:
     - "Didier Hève"
+  end_of_projects_videos:
+    -
+      id: x6b9n0b
+      platform: dailymotion
+      description: "Restitution du défi ARS - Parcours de soin."
+      show: false
+    -
+      id: x5qmeal
+      platform: dailymotion
+      description: "Interview de Sébastien Cossin sur son parcours et sur le défi ARS - Parcours de soin."
+      show: false
+    -
+      id: x64z39z
+      platform: dailymotion
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "BNF - catalogage":
   image: /img/icone-eig.png
@@ -797,6 +835,17 @@
     - "Constance de Quatrebarbes"
   mentors:
     - "Emmanuelle Bermès"
+  end_of_projects_videos:
+    -
+      id: x6b9b32
+      platform: dailymotion
+      description: "Restitution du défi BNF - catalogage."
+      show: false
+    -
+      id: x5qme4i
+      platform: dailymotion
+      description: "Interview de Constance sur son défi au sein du Bibliothèque nationale de France."
+      show: true
 
 "CC - API rapports":
   image: /img/icone-eig.png
@@ -816,6 +865,22 @@
     - "Frédéric Bardolle"
   mentors:
     - "Adnène Trojette"
+  end_of_projects_videos:
+    -
+      id: x6b9pl4
+      platform: dailymotion
+      description: "Restitution du défi CC - API rapports."
+      show: false
+    -
+      id: x5qmdzt
+      platform: dailymotion
+      description: "Interview de Frédéric Bardolle sur son parcours et le défi CC-API Rapports."
+      show: false
+    -
+      id: x64z39x
+      platform: dailymotion
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "DGFiP - fraude fiscale":
   image: /img/icone-eig.png
@@ -834,6 +899,22 @@
     - "Marion Paclot"
   mentors:
     - "Philippe Schall"
+  end_of_projects_videos:
+    -
+      id: x6b964b
+      platform: dailymotion
+      description: "Restitution du défi DGFiP - fraude fiscale."
+      show: false
+    -
+      id: x5qme9l
+      platform: dailymotion
+      description: "Interview de Marion Paclot sur son parcours et son défi au sein de la DGFIP."
+      show: false
+    -
+      id: x64z39u
+      platform: dailymotion
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "MCC - Inventaire des orgues":
   image: /img/icone-eig.png
@@ -856,6 +937,22 @@
     - "Judith Kagan"
     - "Marie-Véronique Leroi"
     - "Sophie Cueille"
+  end_of_projects_videos:
+    -
+      id: x6b96fi
+      platform: dailymotion
+      description: "Restitution du défi MCC - Inventaire des orgues."
+      show: false
+    -
+      id: x5qmec2
+      platform: dailymotion
+      description: "Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues."
+      show: false
+    -
+      id: x64z39q
+      platform: dailymotion
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "MESRI - La machine à données":
   image: /img/icone-eig.png
@@ -877,6 +974,22 @@
     - "Laurent Dupont"
     - "Emmanuel Weisenburger"
     - "Yann Caradec"
+  end_of_projects_videos:
+    -
+      id: x6b9mnj
+      platform: dailymotion
+      description: "Restitution du défi MESRI - La machine à données."
+      show: false
+    -
+      id: x5qmecy
+      platform: dailymotion
+      description: "Interview de Laurent Dupont sur son parcours et sur le défi MESRI - La machine à données."
+      show: false
+    -
+      id: x64z39w
+      platform: x64z39q
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "MI - cartAV":
   image: /img/icone-eig.png
@@ -897,6 +1010,22 @@
   mentors:
     - "Tristram Gräbener"
     - "Daniel Ansellem"
+  end_of_projects_videos:
+    -
+      id: x6b7xxc
+      platform: dailymotion
+      description: "Restitution du défi MI - cartAV."
+      show: false
+    -
+      id: x64z28u
+      platform: dailymotion
+      description: "Interview de Tristram Gräbener et de Francis Chabouis sur leurs parcours et le défi cartAV."
+      show: false
+    -
+      id: x5qme82
+      platform: x64z39q
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
 
 "MI - matchID":
   image: /img/icone-eig.png
@@ -916,3 +1045,19 @@
     - "Martin Gross"
   mentors:
     - "Daniel Ansellem"
+  end_of_projects_videos:
+    -
+      id: x6b7xzu
+      platform: dailymotion
+      description: "Restitution du MI - matchID."
+      show: false
+    -
+      id: x5qmecy
+      platform: dailymotion
+      description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
+      show: false
+    -
+      id: x64z39w
+      platform: x64z3a0
+      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
