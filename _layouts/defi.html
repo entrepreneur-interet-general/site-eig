@@ -118,10 +118,10 @@ layout: default
       </div>
       {% endif %}
 
-      {% if defi_data.end_of_projects_videos %}
+      {% if defi_data.end_of_project_videos %}
       <div class="two spacing"></div>
       <h2>Rétrospective</h2>
-      {% for video in defi_data.end_of_projects_videos %}
+      {% for video in defi_data.end_of_project_videos %}
         {% if video.platform == 'dailymotion' and video.show %}
         <p>
           {{ video.description }}
