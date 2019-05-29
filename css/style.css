@@ -3625,4 +3625,34 @@ blockquote, ul, p {
     display: block;
     margin-left: auto;
     margin-right: auto;
- }
+}
+.defiTitle {
+    color:#222222; 
+    text-align: center; 
+    font-size: 1.25rem; 
+    margin-bottom:0.3rem;
+    margin-top:0.3rem;
+}
+
+.defiDesc {
+    color:#555555; 
+    text-align: center; 
+    font-size: 1.04rem;
+    margin-bottom:0.88rem;
+}
+
+.defiSkills {
+    color:#888888; 
+    text-align: center; 
+    font-size: 0.84rem; 
+    margin-bottom:0.1rem;
+}
+
+.defiTitleHover {
+    margin-top: 0em;
+}
+
+.defiDescHover {
+    margin: 0em 1em 0em 1em; 
+    font-size: 1rem;
+}
