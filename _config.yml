@@ -23,6 +23,20 @@ paginate_path: "blog/page:num"
 
 future: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "defis"
+    values:
+      section_id: defis
+  -
+    scope:
+      path: ""
+      type: "communaute"
+    values:
+      section_id: communaute
+  
 collections:
   defis:
     output: true
