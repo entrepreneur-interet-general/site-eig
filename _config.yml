@@ -27,9 +27,17 @@ collections:
   defis:
     output: true
     permalink: /defis/:year/:title.html
+    section_id : defis
   communaute:
     output: true
     permalink: /communaute/:year/:title.html
+    section_id : communaute
+  participer:
+    output: true
+    section_id: participer
+  Programme
+    output: true
+    section_id: presentation
 
 # Permalink fallback
 permalink: /blog/:year/:month/:day/:title.html
