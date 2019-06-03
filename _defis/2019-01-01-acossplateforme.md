@@ -1,6 +1,5 @@
 ---
 layout: defi
-section_id: defis
 title: ACOSS-Plateforme
 ---
 
