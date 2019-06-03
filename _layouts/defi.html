@@ -96,32 +96,26 @@ layout: default
       <div class="two spacing"></div>
       <h2>Réalisations</h2>
 
+      <ul class="small-block-grid-2 medium-block-grid-3">
       {% for project in defi_data.projects %}
-        {% assign mod = forloop.index | modulo: 3 %}
-        {% if mod == 1 %}
-        <div class="row">
-        {% endif %}
-
-        <div class="small-12 large-4 medium-6 columns">
-          <div class="card">
-            <div class="card__cover">
-              <img src="/{{ project.image }}" alt="{{ project.title }}">
-            </div>
-            <div class="card__content">
-              <h3>{{ project.title }}</h3>
-              <p>{{ project.description }}</p>
-            </div>
-            <div class="card__extra">
-              <a class="button small" href="{{ project.url }}">
-                <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
-              </a>
-            </div>
+      <li style="padding: 0 .5em">
+        <div class="card">
+          <div class="card__cover">
+            <img src="/{{ project.image }}" alt="{{ project.title }}">
+          </div>
+          <div class="card__content">
+            <h3>{{ project.title }}</h3>
+            <p>{{ project.description }}</p>
+          </div>
+          <div class="card__extra">
+            <a class="button small" href="{{ project.url }}">
+              <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
+            </a>
           </div>
         </div>
-        {% if mod == 0 %}
-        </div>
-        {% endif %}
-        {% endfor %}
+      </li>
+      {% endfor %}
+      </ul>
       {% endif %}
     </div>
 
