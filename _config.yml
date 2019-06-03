@@ -36,6 +36,24 @@ defaults:
       type: "communaute"
     values:
       section_id: communaute
+  -
+    scope:
+      path: ""
+      type: "blog"
+    values:
+      section_id: blog
+  -
+    scope:
+      path: ""
+      type: "programme"
+    values:
+      section_id: presentation
+  -
+    scope:
+      path: ""
+      type: "participer"
+    values:
+      section_id: participer
 
 collections:
   defis:
