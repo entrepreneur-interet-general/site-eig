@@ -27,11 +27,21 @@ collections:
   defis:
     output: true
     permalink: /defis/:year/:title.html
-    section_id : defis
+    defaults:
+      -
+        scope:
+          path: ""
+        values:
+          section_id: defis
   communaute:
     output: true
     permalink: /communaute/:year/:title.html
-    section_id : communaute
+    defaults:
+      -
+        scope:
+          path: ""
+        values:
+          section_id: communaute
 
 # Permalink fallback
 permalink: /blog/:year/:month/:day/:title.html
