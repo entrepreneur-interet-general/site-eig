@@ -36,7 +36,13 @@ defaults:
       type: "communaute"
     values:
       section_id: communaute
-  
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      section_id: blog
+
 collections:
   defis:
     output: true
