@@ -21,14 +21,3 @@ L’avantage de cette brique technologique est qu’elle rend possible le
 développement de services plus élaborés : un moteur de recherche, un
 agent conversationnel (chatbot)… Comme une première pierre à
 l’édification d’une Cour des comptes numérique.
-
-_Pour aller plus loin_
-
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9pl4?playlist=x54m4i)
-
-Interview de Frédéric Bardolle sur son parcours et le défi CC-API Rapports :
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmdzt" allowfullscreen allow="autoplay"></iframe>
-
-[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)
-
-
