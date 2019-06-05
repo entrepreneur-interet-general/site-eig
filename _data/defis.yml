@@ -187,7 +187,6 @@
   promotion: 3
   duration_months: 10
   administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DIAIR)
-  description: "Aider les réfugiés dans leurs démarches en créant une plateforme d’information adaptée à la diversité culturelle"
   administration_website: http://accueil-integration-refugies.fr
   eigs:
     - "Hugo Stéphan"
