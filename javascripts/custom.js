@@ -19,6 +19,20 @@ jQuery(function () {
                 scrollTop: el.offset().top - 100
             }, scrollTime);
         }
-
     });
+
+    $(window).scroll((e) => {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            $("#backToTop").fadeIn(250);
+            $("#backToTop").css("display", "flex")
+        } else {
+            $("#backToTop").fadeOut(250);
+        }
+    })
+
+    $("#backToTop").click(() => {
+        $([document.documentElement, document.body]).animate({
+            scrollTop: 0
+        }, 500);
+    })
 });
