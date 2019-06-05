@@ -691,7 +691,7 @@
       amount: 20
       description: "agents formés à l'analyse de données"
     -
-      amount: 16
+      amount: 17
       description: "répertoires sur GitHub"
   end_of_project_videos:
     -
