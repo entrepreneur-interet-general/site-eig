@@ -5,6 +5,7 @@
   class: 2019 web design
   skills: 2019 // Web // Design
   colorback: red
+  description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
   promotion: 3
   duration_months: 10
@@ -25,6 +26,7 @@
   class: 2019 data web
   skills: <br>2019 // Data // Web
   colorback: red
+  description: Lutter contre les comportements financiers illicites
   year: 2019
   promotion: 3
   duration_months: 10
@@ -44,6 +46,7 @@
   class: 2019 data web
   skills: <br>2019 // Data // Web
   colorback: red
+  description: Cartographier les parcelles d'agricultures biologiques
   year: 2019
   promotion: 3
   duration_months: 10
@@ -65,6 +68,7 @@
   class: 2019 data web
   skills: <br>2019 // Data // Web
   colorback: red
+  description: Aider au contrôle des navires profesionnels
   year: 2019
   promotion: 3
   duration_months: 10
@@ -85,6 +89,7 @@
   class: 2019 data
   skills: 2019 // Data
   colorback: red
+  description: Construire un référentiel d'indémnisation des préjudices corporels
   year: 2019
   promotion: 3
   duration_months: 10
@@ -105,6 +110,7 @@
   class: 2019 data
   skills: <br>2019 // Data
   colorback: red
+  description: Maximiser l’exploitation des données de l'Arcep
   year: 2019
   promotion: 3
   duration_months: 10
@@ -143,6 +149,7 @@
   class: 2019 data
   skills: <br>2019 // Data
   colorback: red
+  description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
   promotion: 3
   duration_months: 10
@@ -163,6 +170,7 @@
   class: 2019 data
   skills: 2019 // Data
   colorback: red
+  description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
   promotion: 3
   duration_months: 10
@@ -182,6 +190,7 @@
   class: 2019 web design
   skills: 2019 // Web // Design
   colorback: red
+  description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
   promotion: 3
   duration_months: 10
@@ -202,10 +211,11 @@
   class: 2019 web design
   skills: <br>2019 // Web // Design
   colorback: red
+  description: Evaluer l'impact des réformes socio-fiscales sur les citoyen·ne·s
   year: 2019
   promotion: 3
   duration_months: 10
-  description: "Connaître l'impact des réformes socio-fiscales sur les citoyens"
+  description: "Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s"
   administration: Direction interministérielle et du système d’information et de communication de l'Etat
   administration_website: https://www.numerique.gouv.fr/
   eigs:
@@ -223,6 +233,7 @@
   class: 2019 data
   skills: <br>2019 // Data
   colorback: red
+  description: Améliorer la prise en charge des malades chroniques
   year: 2019
   promotion: 3
   duration_months: 10
@@ -243,6 +254,7 @@
   class: 2019 data web
   skills: <br>2019 // Data // Web
   colorback: red
+  description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
   promotion: 3
   duration_months: 10
@@ -263,6 +275,7 @@
   class: 2019 data web design
   skills: <br>2019 // Data // Web // Design
   colorback: red
+  description: Transformer les métiers des juridictions financières
   year: 2019
   promotion: 3
   duration_months: 10
@@ -286,6 +299,7 @@
   class: 2019 data web
   skills: 2019 // Data // Web
   colorback: red
+  description: Améliorer la confiance des consommateurs en détectant des faux avis
   year: 2019
   promotion: 3
   duration_months: 10
