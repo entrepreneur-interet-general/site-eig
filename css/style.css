@@ -2443,6 +2443,7 @@ body.screenshot {
 .modGallery .gallery-nav li {
   float: none;
   display: inline-block;
+  margin-bottom: 20px;
 }
 .modGallery .gallery-nav li a {
   color: #8393a7;
