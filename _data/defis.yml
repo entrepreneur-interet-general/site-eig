@@ -48,7 +48,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Agence française pour le développement et la promotion de l’agriculture biologique
+  administration: Agence Française pour le Développement et la Promotion de l’Agriculture Biologique
   administration_website: http://www.agencebio.org
   eigs:
     - "Lucas Bchini"
@@ -89,7 +89,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Ministère de la Justice, Direction des affaires civiles et du sceau
+  administration: Ministère de la Justice, Direction des affaires civiles et du Sceau (DACS)
   administration_website: http://www.justice.gouv.fr/le-ministere-de-la-justice-10017/direction-des-affaires-civiles-et-du-sceau-10023/
   eigs:
     - "Kim Montalibet"
@@ -109,7 +109,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Autorité de régulation des communications électroniques et des postes
+  administration: Autorité de régulation des communications électroniques et des Postes
   administration_website: https://www.arcep.fr
   eigs:
     - "Carine Stolz"
@@ -186,7 +186,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DIAIR)
+  administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)
   administration_website: http://accueil-integration-refugies.fr
   eigs:
     - "Hugo Stéphan"
@@ -202,11 +202,11 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: Evaluer l'impact des réformes socio-fiscales sur les citoyen·ne·s
+  description: Evaluer l'impact des réformes socio-fiscales sur les citoyens
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Direction interministérielle et du système d’information et de communication de l'Etat
+  administration: Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -268,7 +268,7 @@
   promotion: 3
   duration_months: 10
   administration: Cour des comptes
-  administration_website: https://www.ccomptes.fr/en
+  administration_website: https://www.ccomptes.fr/
   eigs:
     - "Amélie Medem"
     - "Erica Marco"
@@ -290,7 +290,8 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
+  description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
+  administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
   administration_website: https://www.economie.gouv.fr/dgccrf
   eigs:
     - "Gabriel Bastard"
@@ -347,7 +348,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Service Hydrographique et Océanographique de la Marine, SHOM
+  administration: Service Hydrographique et Océanographique de la Marine (SHOM)
   administration_website: http://www.shom.fr
   eigs:
     - "Arnaud Ménard"
@@ -424,7 +425,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
+  administration: Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation
   administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
     - "David Panou"
@@ -458,7 +459,7 @@
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
   administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
-  administration_website: https://www.gouvernement.fr/le-ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation
+  administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
   year: 2018
   duration_months: 10
   promotion: 2
