@@ -1079,8 +1079,8 @@
   image: /img/icone-eig.png
   title: MI - cartAV
   link_to: /defis/2017/mi-cartav-securite-routiere.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 web data
+  skills: EIG 1 // Data // Web
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
@@ -1115,13 +1115,13 @@
   image: /img/icone-eig.png
   title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 web data
+  skills: EIG 1 // Data // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
   administration: Ministère de l'Intérieur
   administration_website: https://www.interieur.gouv.fr/
-  source_code: https://matchID-project/
+  source_code: https://matchid-project.github.io/
   year: 2017
   duration_months: 10
   promotion: 1
