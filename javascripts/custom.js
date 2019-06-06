@@ -1,6 +1,13 @@
 jQuery(function () {
     const $ = jQuery;
-    $(".gallery-nav li a").click((e) => {
+
+    const selector = ".gallery-nav li a";
+
+    if ($(selector).length) {
+        $("body").append($('<button class="backToTop" title="Back to top">⤒</button>'))
+    }
+
+    $(selector).click((e) => {
         const cat = $(e.target).data("cat");
         if (cat === "tous") return;
 
@@ -23,14 +30,14 @@ jQuery(function () {
 
     $(window).scroll((e) => {
         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-            $("#backToTop").fadeIn(250);
-            $("#backToTop").css("display", "flex")
+            $(".backToTop").fadeIn(250);
+            $(".backToTop").css("display", "flex")
         } else {
-            $("#backToTop").fadeOut(250);
+            $(".backToTop").fadeOut(250);
         }
     })
 
-    $("#backToTop").click(() => {
+    $(".backToTop").click(() => {
         $([document.documentElement, document.body]).animate({
             scrollTop: 0
         }, 500);

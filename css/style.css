@@ -3732,7 +3732,7 @@ blockquote, ul, p {
 .card__extra .button {
   margin-bottom: 0;
 }
-#backToTop {
+.backToTop {
   position: fixed;
   bottom: 20px;
   right: 20px;
