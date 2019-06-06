@@ -2422,7 +2422,7 @@ body.screenshot {
   margin: 0 auto 30px;
   text-align: center;
 }
-.modGallery .gallery-nav li {
+/* .modGallery .gallery-nav li {
   float: none;
   display: inline-block;
   border: 1px solid #8393a7;
@@ -2438,6 +2438,24 @@ body.screenshot {
 }
 .modGallery .gallery-nav li.current a {
   color: #1C419B;
+} */
+
+.modGallery .gallery-nav li {
+  float: none;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.modGallery .gallery-nav li a {
+  color: #8393a7;
+  border: 1px solid #8393a7;
+  padding: 8px 12px;
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.modGallery .gallery-nav li.current a {
+  color: #1C419B;
+  border: 1px solid #1C419B;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -3713,4 +3731,29 @@ blockquote, ul, p {
 }
 .card__extra .button {
   margin-bottom: 0;
+}
+.backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+
+  display: none;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 100px;
+  border: 4px solid #e9222e;
+  
+  background: white;
+  color: #20459a;
+  box-shadow: 0 0px 0px 0 rgb(0, 0, 0), 0 1px 10px 0 rgba(0, 0, 0, 0.3);
+  
+  font-size: 2.5rem;
+  font-weight: bolder;
+
+  cursor: pointer;
+
+  z-index: 1000;
 }
