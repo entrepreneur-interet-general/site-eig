@@ -39,7 +39,7 @@ section_id: communaute
 			<h3>{{personne.title}}</h3>
 			<p style="font-size:80%;">{{personne.profil}}<br/>
 			    {{personne.defi}}
-			    {{personne.annee}}</p>
+			    {{ personne.annees | join: ', '}}</p>
 		    </div>
 		</li>
 		{% endfor %}
