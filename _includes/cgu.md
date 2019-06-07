@@ -46,7 +46,7 @@ dans deux cas :
 
 #### a) Liste de diffusion
 
-Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/mC5TfNOr9). 
+Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-forever.org/subscribe/entrepreneur-interet-general@mail.etalab.studio).
 
 A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 
