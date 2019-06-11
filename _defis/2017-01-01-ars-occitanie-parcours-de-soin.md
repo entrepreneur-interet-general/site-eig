@@ -1,18 +1,6 @@
 ---
 layout: defi
 title: ARS - Parcours de soin
-site: 
-annees: 2017
-description: "Améliorer l’offre de soin en Occitanie grâce à la visualisation des parcours de soin de patients atteints de maladies chroniques"
-administration: Secrétariat général des ministères sociaux
-administration-website: 
-type: Développement, datascience
-eigs:
-  - nom: Sébastien Cossin
-    site: /communaute/2017/sebastien-cossin.html
-mentors: 
-  - nom: Didier Hève
-images:
 ---
 
 Un patient atteint d’une maladie cardiovasculaire a besoin d’une prise
@@ -34,10 +22,3 @@ interroger de façon fluide des données nombreuses et hétérogènes.  La
 face émergée : une interface qui permet de visualiser des données sous
 forme de graphiques, d’infographies… et de les comprendre facilement,
 même si l’on n’est pas informaticien.
-
-_Pour aller plus loin_
-
-* Le [github](https://github.com/entrepreneur-interet-general/parcoursdesoins) du défi
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x64z39z)
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x6b9n0b?playlist=x54m4i)_

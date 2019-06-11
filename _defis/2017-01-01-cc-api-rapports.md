@@ -1,19 +1,6 @@
 ---
 layout: defi
-title: Cour des comptes - API rapports
-site: /defis/2017/cc-api-rapports.html
-annees: 2017
-description: "Mieux informer les citoyens sur l’emploi de l’argent public"
-administration: Cour des comptes
-administration-website: https://www.ccomptes.fr/en
-type: Développement
-eigs:
-  - nom: Frédéric Bardolle
-    site: /communaute/2017/frederic-bardolle.html
-mentors: 
-  - nom: Adnène Trojette
-    site: /communaute/2019/adnene-trojette.html
-images:
+title: CC - API rapports
 ---
 
 C’est à la Cour des comptes que les institutions publiques rendent des
@@ -34,10 +21,3 @@ L’avantage de cette brique technologique est qu’elle rend possible le
 développement de services plus élaborés : un moteur de recherche, un
 agent conversationnel (chatbot)… Comme une première pierre à
 l’édification d’une Cour des comptes numérique.
-
-_Pour aller plus loin_
-
-* Le [github](https://github.com/entrepreneur-interet-general/api-ccomptes) du défi
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9pl4?playlist=x54m4i)
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39x)

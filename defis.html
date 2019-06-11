@@ -9,23 +9,31 @@ section_id: defis
       <div class='gallery-nav'>
         <ul>
           <li class='current'><a data-cat='all' href='#'>Tout</a></li>
-          <li><a data-cat='2017' href='#'>2017</a></li>
-          <li><a data-cat='2018' href='#'>2018</a></li>
-          <li><a data-cat='2019' href='#'>2019</a></li>
+          <li><a data-cat='eig-1' href='#'>EIG 1</a></li>
+          <li><a data-cat='eig-2' href='#'>EIG 2</a></li>
+          <li><a data-cat='eig-3' href='#'>EIG 3</a></li>
           <li><a data-cat='data' href='#'>Data</a></li>
           <li><a data-cat='web' href='#'>Web</a></li>
           <li><a data-cat='design' href='#'>Design</a></li>
         </ul>
       </div>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for defi in site.data.defis %}
-          <li class='{{defi.class}}'>
+        {% for defi_hash in site.data.defis %}
+        {% assign defi = defi_hash[1] %}
+          <li class='{{defi.class}} eig-{{defi.promotion}}'>
             <a href='{{defi.link_to}}'>
-              <img alt="" src="{{site.url}}/{{defi.image}}" />
-              <div class='overlay' style='background: #b01818;'>
+              <img alt="{{defi.title}}" style="width:40%;display: block; margin-left: auto;margin-right: auto" src="{{site.url}}/{{defi.image}}" /><h2 style="color:#222222; text-align: center; font-size: 1.25rem; margin-bottom:0.3rem;margin-top:0.3rem;">{{defi.title}}</h2><p style="color:#555555; text-align: center; font-size: 1.04rem; margin-bottom:0.88rem;">{{defi.description}}</p><p style="color:#888888; text-align: center; font-size: 0.84rem; margin-bottom:0.1rem;">{{defi.skills}}</p>
+              <div class='overlay' style='background:
+                  {% if defi.colorback == 'red' %}
+                    #b01818
+                  {% elsif defi.colorback == 'blue' %}
+                    #1c419b
+                  {% else %}
+                    #d8d8d8
+                  {% endif %};'>
                 <div class='thumb-info'>
-                  <h3>{{defi.title}}</h3>
-                  <p>{{defi.desc}}</p>
+                  <h3 style="margin-top: 0em;">{{defi.title}}</h3>
+                  <p style="margin: 0em 1em 0em 1em; font-size: 1rem;">{{defi.description}}</p>
                 </div>
               </div>
             </a>

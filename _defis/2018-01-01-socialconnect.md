@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: Social Connect
-site: /defis/2018/socialconnect.html
-annees: 2018
-description: Repérer et mettre en réseau l'innovation sociale dans les territoires
-administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
-administration-website: http://www.cget.gouv.fr/
-type: Développement, design UX/UI
-eigs:
-  - nom: Elise Lalique
-    site: /communaute/2018/elise-lalique.html
-  - nom: Julien Paris
-    site: /communaute/2018/julien-paris.html
-mentors:
-  - nom: Bénédicte Pachod
-    site: /communaute/2018/benedicte-pachod.html
-images:
-  - /img/defis/8_CGET.png
 ---
 
 Connaissez-vous Part’âge Village ? Famileo ? Api bus ? Ce ne sont que
@@ -43,12 +27,3 @@ des données sur tous les sites partenaires du projet Social Connect
 indexations des innovations sociales. Le design ces trois outils
 -grand public ou spécialisés- est pensé afin de rendre l’expérience
 des utilisateurs la plus fluide et simple possible.
-
-_Pour aller plus loin_
-
-* Les différents _repo_ github du défi : [OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper), [Solidata](https://github.com/entrepreneur-interet-general/solidata_backend) et le [site](https://github.com/entrepreneur-interet-general/CIS-front)
-* Le [site du Carrefour des innovations sociales](http://www.carrefourdesinnovationssociales.fr/)
-
-* Le pitch du défi Social Connect en quelques slides (10 octobre 2017)
-
-<script async class="speakerdeck-embed" data-id="3938c833804245978b48a03f28879ae1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

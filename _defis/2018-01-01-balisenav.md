@@ -1,22 +1,6 @@
 ---
 layout: defi
-title: B@liseNAV
-site: /defis/2018/balisenav.html
-annees: 2018
-description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
-administration: SHOM
-administration-website: http://www.shom.fr
-type: Développement
-eigs:
-  - nom: Arnaud Ménard
-    site: /communaute/2018/arnaud-menard.html
-  - nom: Adrien Signorino
-    site: /communaute/2018/adrien-signorino.html
-mentors:
-  - nom: Éric Le Guen
-    site: /communaute/2018/eric-le-guen.html
-images:
-  -  /img/defis/5_balisage.png 
+title: "b@liseNAV"
 ---
 
 La mer, une grande étendue bleue capricieuse sur laquelle s’élancent
@@ -37,9 +21,3 @@ nautique rapide et sûre. L’objectif final est d'enrichir les cartes
 marines avec des données plus complètes, plus fraîches et plus lisibles.
 Le tout demande de traiter les données en amont, de les agréger et de
 réfléchir à l'ergonomie des systèmes nautiques interactifs.
-
-_Pour aller plus loin_
-
-Le pitch du défi BaliseNAV en quelques slides
-
-<script async class="speakerdeck-embed" data-id="27e2e3eeaa814ba5bf081d5b2782535a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
