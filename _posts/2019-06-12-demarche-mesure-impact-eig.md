@@ -20,8 +20,7 @@ Comme nous vous l'annoncions sur [ce blog](https://entrepreneur-interet-general.
 
 Bonne nouvelle : désormais, les données sont également disponibles sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/#_). On attend vos réutilisations !
 
-<iframe width="100%" height="650" src="https://data.eig-forever.org/#promo"> </iframe>
-_Le site présentant les données du programme sous forme de datavisualisations_
+<iframe width="100%" height="650" src="https://data.eig-forever.org/#promo"> </iframe>_Le site présentant les données du programme sous forme de datavisualisations_
 
 ## 2. Évaluer ce qui est produit par les défis et le programme
 
@@ -43,12 +42,12 @@ Pour compléter notre démarche interne d'évaluation, nous nous appuyons égale
 ![Deux hommes et deux femmes sont assis dans l'herbe avec leurs ordinateurs. Tous écoutent l'homme assis à l'extrême droite de la photo.](/img/blog/clement-mabi-bootcamp.jpg)_De gauche à droite : Clément Mabi, Amélie Medem, Dorine Lambinet et Mathieu Perez_
 
 
-## 4. Mieux comprendre et se situer dans le paysage international
+## 4. Mieux comprendre - et se situer dans - le paysage international
 
-Dernier volet de cette prise de recul : un tour d'horizon d'initiatives similaires au programme EIG à l'international, et notamment aux Etats-Unis, en Allemagne et en Italie. Notre objectif était de mieux comprendre leur fonctionnement, leurs sources de financement, leur rapport aux administrations de leur pays, les types de projets menés et les profils recrutés. A travers cette analyse, nous souhaitions également dégager des bonnes pratiques présentes à l'international que nous pourrons intégrer au programme EIG.
+Dernier volet de cette prise de recul : un tour d'horizon d'initiatives similaires au programme EIG à l'international, et notamment aux Etats-Unis, en Allemagne et en Italie. Notre objectif était de mieux comprendre leur fonctionnement, leurs sources de financement, leur rapport aux administrations de leur pays, les types de projets menés et les profils recrutés. A travers cette analyse, nous souhaitions également identifier des bonnes pratiques présentes à l'international que nous pourrions intégrer au programme EIG.
 
 Dans cette lignée de coopération internationale, nous avons également été à l'initiative d'une session "table ronde" au [sommet du Partenariat pour un gouvernement ouvert à Ottawa](https://ogpsummit.org/fr/) en mai 2019. Cette session a réuni le Prototype Fund allemand, les mouvements Civic Tech Toronto (Canada) et g0v (Taiwan) et l'association argentine Iniciativa Latinoamericana de Datos Abiertos autour du thème : [encourager l'engagement citoyen à travers le numérique d'intérêt général (civic tech et govtech)](https://ogpsummit.org/fr/programme-sommet/ordre-du-jour/session/?Session=1601). Ces collaborations sont une opportunité d'explorer des réponses à des problématiques communes, telles que la pérennisation des projets développés ou les méthodes d'animation de communauté. 
 
 ![3 femmes et 3 hommes sont alignés et assis sur le bord d'une estrade. Une femme, au milieu, parle dans un micro.](/img/blog/evaluation-ogp.jpg)_Mathilde Bras, cheffe du programme Entrepreneurs d'Intérêt Général, parle à la table ronde « encourager l'engagement citoyen à travers le numérique d'intérêt général »._
 
-_Ce travail de rétrospective nous permet d'être plus conscients des bonnes pratiques du programme et ce qui reste à améliorer ou à renforcer. Il nourrit notre réflexion sur la suite du programme, dont nous vous donnerons des nouvelles très bientôt !_  
+Ce travail de rétrospective nous permet d'être plus conscients des bonnes pratiques du programme et ce qui reste à améliorer ou à renforcer. Il nourrit notre réflexion sur la suite du programme, dont nous vous donnerons des nouvelles très bientôt ! 
