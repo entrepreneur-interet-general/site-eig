@@ -26,4 +26,4 @@ ministères sociaux et de caractériser les liens entre les
 différents éléments pour permettre de les traiter.  Sur le second,
 ils construisent une application  qui permet d’appréhender une
 arborescence en entier afin d'y faire un tri éclairé.
-Testez-là sur [archifiltre.com](https://archifiltre.com/) !
+Testez-la sur [archifiltre.github.io](https://archifiltre.github.io/) !
