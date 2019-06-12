@@ -1,6 +1,19 @@
 ---
 layout: default
 section_id: presentation
+key_figures:
+  -
+    amount: 37
+    description: "défis accompagnés"
+  -
+    amount: 29
+    description: "administrations participantes"
+  -
+    amount: 69
+    description: "EIG recrutés"
+  -
+    amount: 45
+    description: "agents publics embarqués"
 ---
 
 <div class='full'>
@@ -28,37 +41,15 @@ section_id: presentation
   <div class="two spacing"></div>
 
   <div class="row">
+    {% for key_figure in page.key_figures %}
     <div class="small-6 columns text-center large-3">
       <div class="mod modMilestone no-icon">
-        <strong data-from="0" data-to="37">37</strong>
-        <span>défis accompagnés</span>
+        <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
+        <span>{{ key_figure.description }}</span>
         <div class="spacing"></div>
       </div>
     </div>
-
-    <div class="small-6 columns text-center large-3">
-      <div class="mod modMilestone no-icon">
-        <strong data-from="0" data-to="29">29</strong>
-        <span>administrations participantes</span>
-        <div class="spacing"></div>
-      </div>
-    </div>
-
-    <div class="small-6 columns text-center large-3">
-      <div class="mod modMilestone no-icon">
-        <strong data-from="0" data-to="69">69</strong>
-        <span>EIG recrutés</span>
-        <div class="spacing"></div>
-      </div>
-    </div>
-
-    <div class="small-6 columns text-center large-3">
-      <div class="mod modMilestone no-icon">
-        <strong data-from="0" data-to="45">45</strong>
-        <span>agents publics embarqués</span>
-        <div class="spacing"></div>
-      </div>
-    </div>
+    {% endfor %}
   </div>
 
   <div class='row'>
