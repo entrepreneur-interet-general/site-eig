@@ -199,6 +199,7 @@
   image: /img/logo-lex-impact.png
   title: LexImpact
   link_to: /defis/2019/leximpact.html
+  source_code: https://github.com/betagouv/leximpact-client
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
