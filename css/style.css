@@ -212,7 +212,6 @@ ul.shortcode-list i {
 
 /*Button styles */
 .button {
-  text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
@@ -3745,11 +3744,11 @@ blockquote, ul, p {
 
   border-radius: 100px;
   border: 4px solid #e9222e;
-  
+
   background: white;
   color: #20459a;
   box-shadow: 0 0px 0px 0 rgb(0, 0, 0), 0 1px 10px 0 rgba(0, 0, 0, 0.3);
-  
+
   font-size: 2.5rem;
   font-weight: bolder;
 
