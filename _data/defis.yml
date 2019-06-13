@@ -199,6 +199,7 @@
   image: /img/logo-lex-impact.png
   title: LexImpact
   link_to: /defis/2019/leximpact.html
+  source_code: https://github.com/betagouv/leximpact-client
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
@@ -309,7 +310,7 @@
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
   administration_website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
-  website: https://archifiltre.com
+  website: https://archifiltre.github.io
   source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
   duration_months: 10
