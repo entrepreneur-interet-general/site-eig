@@ -1,6 +1,63 @@
 ---
 layout: default
 section_id: realisations
+realisations:
+-
+  title: "Bulletins"
+  defi: "EIG Link 2019"
+  image: /img/illustration-bulletins.png
+  url: https://bulletins.eig-forever.org
+  cta: "Découvrir Bulletins"
+  description: "Outil qui permet à plusieurs équipes de faire le bilan de leur semaine rapidement et par écrit, puis de le partager entre elles"
+-
+  title: "Carte SECMAR"
+  defi: "PrédiSauvetage"
+  image: /img/illustration-carte-secmar.png
+  url: https://carte.snosan.fr/
+  cta: "Découvrir la carte SECMAR"
+  description: "Carte interactive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel"
+-
+  title: "Collection du Mobilier national"
+  defi: "Gobelins"
+  image: /img/illustration-gobelins.png
+  url: https://collection.mobiliernational.culture.gouv.fr/recherche
+  cta: "Découvrir le site"
+  description: "Site qui permet d'explorer les collections du Mobilier national par type d’objet, auteur, époque... ou en mode aléatoire."
+-
+  title: "Graph Explorer"
+  defi: "Hopkins"
+  image: /img/defis/graphexplo-capture.png
+  url: https://github.com/entrepreneur-interet-general/graph-explorer
+  cta: "Découvrir Graph Explorer"
+  description: "Outil qui permet de visualiser et d'explorer un large graphe de transactions financières."
+-
+  title: "matchID"
+  defi: "MI - matchID"
+  image: /img/defis/matchid-capture.png
+  url: https://github.com/matchID-project/
+  cta: "Découvrir matchID"
+  description: "Outil de <em>fuzzy matching</em> qui permet de faire correspondre deux mêmes éléments dans deux bases de données différentes, même s'ils contiennent des erreurs"
+-
+  title: "OpenScraper"
+  defi: "Social Connect"
+  image: /img/defis/openscrapper-capture.png
+  url: https://github.com/entrepreneur-interet-general/OpenScraper
+  cta: "Découvrir OpenScraper"
+  description: "Outil qui permet de récupérer les données (<em>scraper</em>) de plusieurs sites en même temps et de structurer les données ainsi obtenues"
+-
+  title: "Signaux Faibles"
+  defi: "Signaux Faibles"
+  image: /img/illustration-signaux-faibles.png
+  url: https://github.com/entrepreneur-interet-general/opensignauxfaibles
+  cta: "Découvrir Signaux Faibles"
+  description: "Outil qui permet de détecter de manière anticipée les entreprises en difficulté"
+-
+  title: "Stalactite"
+  defi: "Archifiltre"
+  image: /img/defis/archifiltre.png
+  url: https://archifiltre.github.io/
+  cta: "Découvrir Stalactite"
+  description: "Outil de visualisation et d'organisation d'une arborescence qui contient tous types de documents : mails, images, textes, présentations, etc"
 ---
 
 <div class='full'>
@@ -8,9 +65,9 @@ section_id: realisations
 	<div class='large-12 columns'>
 		<h2>Produire des outils open source pour les administrations</h2>
 		<div class='one spacing'></div>
-		
+
 		<p>En 10 mois, les entrepreneurs d’intérêt général développent des outils qui sont au plus près des besoins de leurs administrations.</p>
-		
+
 		<p><strong>Voici une sélection d’outils développés au sein du programme qui témoigne de la diversité des projets menés et de la variété des défis techniques posés.</strong></p>
 
 	</div>
@@ -18,201 +75,45 @@ section_id: realisations
 </div>
 
 <div class='full'>
-
+		{% for realisation in page.realisations %}
     <div class='two spacing'></div>
     <div class='row'>
-	<div class='medium-6 columns'>
-	    <img class="fadeinleft" width="500" height="380" alt="" src="/img/illustration-bulletins.png">
-	</div>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html">EIG Link</a></h4>
-	    <h2>Bulletins</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil qui permet à plusieurs équipes de faire le bilan de leur semaine rapidement et par écrit, puis de le partager entre elles.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://bulletins.eig-forever.org'>Découvrir Bulletins</a>
-	</div>
+    	{% assign modulo_value = forloop.index | modulo: 2 %}
+    	{% if modulo_value == 1 %}
+			<div class='medium-6 columns'>
+			  <img class="fadeinleft" width="500" height="380" alt="" src="{{ realisation.image }}">
+			</div>
+			<div class='medium-6 columns'>
+			  <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+			  <h2>{{ realisation.title }}</h2>
+			  <div class='spacing'></div>
+			  <ul class='shortcode-list'>
+					<li>
+					  <i class='fa fa-check'></i>{{ realisation.description }}
+					</li>
+			    </ul>
+			  <div class='spacing'></div>
+			  <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+			</div>
+    	{% else %}
+			<div class='medium-6 columns'>
+			  <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+			  <h2>{{ realisation.title }}</h2>
+			  <div class='spacing'></div>
+			  <ul class='shortcode-list'>
+					<li>
+					  <i class='fa fa-check'></i>{{ realisation.description }}
+					</li>
+			    </ul>
+			  <div class='spacing'></div>
+			  <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+			</div>
+    	<div class='medium-6 columns'>
+			  <img class="fadeinright" width="500" height="380" alt="" src="{{ realisation.image }}">
+			</div>
+    	{% endif %}
     </div>
-   
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html">Prédisauvetage</a></h4>
-	    <h2>Carte SECMAR</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Carte interactive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://carte.snosan.fr/'>Découvrir la carte SECMAR</a>
-	</div>
-	<div class='medium-6 columns'>
-	    <img class="fadeinright" width="500" height="380" alt="" src="/img/illustration-carte-secmar.png" />
-	</div>
-    </div>   
-   
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <img class="fadeinleft" width="500" height="380" alt="" src="/img/illustration-gobelins.png">
-	</div>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html">Gobelins</a></h4>
-	    <h2>Collection du Mobilier national</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Site qui permet d'explorer les collections du Mobilier national par type d’objet, auteur, époque... ou en mode aléatoire. </p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://collection.mobiliernational.culture.gouv.fr/recherche'>Découvrir le site</a>
-	</div>
-    </div>    
-
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/hopkins.html">Hopkins</a></h4>
-	    <h2>Graph Explorer</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil qui permet de visualiser et d'explorer un large graphe de
-			transactions financières.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://github.com/entrepreneur-interet-general/graph-explorer'>Découvrir Graph Explorer</a>
-	</div>
-	<div class='medium-6 columns'>
-	    <img class="fadeinright" width="500" height="380" alt="" src="/img/defis/graphexplo-capture.png">
-	</div>	    
-    </div>
-	
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <img class="fadeinleft" width="500" height="340" alt="" src="/img/defis/matchid-capture.png">
-	</div>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2017/mi-matchid.html">MI-matchID</a></h4>
-	    <h2>matchID</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil de <em>fuzzy matching</em> qui permet de faire correspondre deux mêmes éléments dans deux bases de données différentes, même s'ils contiennent des erreurs.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://github.com/matchID-project/'>Découvrir matchID</a>
-	</div>
-    </div>
-	
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html">Social Connect</a></h4>
-	    <h2>OpenScraper</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil qui permet de récupérer les données (<em>scraper</em>) de plusieurs sites en même temps et de structurer les données ainsi obtenues.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://github.com/entrepreneur-interet-general/OpenScraper'>Découvrir OpenScraper</a>
-	</div>
-	<div class='medium-6 columns'>
-	    <img class="fadeinright" width="500" height="380" alt="" src="/img/defis/openscrapper-capture.png" />
-	</div>
-    </div>
-	
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <img class="fadeinleft" width="500" height="380" alt="" src="/img/illustration-signaux-faibles.png" />
-	</div>	    
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html">Signaux Faibles</a></h4>
-	    <h2>Signaux Faibles</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil qui permet de détecter de manière anticipée les entreprises en difficulté.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://github.com/entrepreneur-interet-general/opensignauxfaibles'>Découvrir Signaux Faibles</a>
-	</div>
-    </div>	
-	
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-6 columns'>
-	    <h4 style='color: #999'>Outil développé par le défi <a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/archifiltre.html">Archifiltre</a></h4>
-	    <h2>Stalactite</h2>
-	    <div class='spacing'></div>
-	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Outil de visualisation et d'organisation d'une arborescence qui contient tous types de documents : mails, images, textes, présentations, etc.</p>
-		</li>
-	    </ul>
-	    <div class='spacing'></div>
-	    <a class='button large' href='https://archifiltre.github.io/'>Découvrir Stalactite</a>
-	</div>
-	<div class='medium-6 columns'>
-	    <img class="fadeinright" width="500" height="340" alt="Photo d'illustration Archifiltre" src="/img/defis/archifiltre.png">
-	</div>
-    </div>	
-	
-    <!-- 
-
-	 <div class='two spacing'></div>
-	 <div class='row'>
-	 <div class='medium-6 columns'>
-	 <img class="fadeinleft" width="500" height="340" alt="" src="/img/defis/archifiltre.png">
-	 </div>
-	 <div class='medium-6 columns'>
-	 <h4 style='color: #999'>Par matchID</h4>
-	 <h2>matchID</h2>
-	 <div class='spacing'></div>
-	 <ul class='shortcode-list'>
-	 <li>
-	 <p><i class='fa fa-check'></i>Outil open source de fuzzy matching qui permet de faire correspondre des éléments de deux bases de données différentes même s'ils contiennent des erreurs.</p>
-	 </li>
-	 </ul>
-	 <div class='spacing'></div>
-	 <a class='button small' href='https://github.com/matchID-project/'>Découvrir matchID</a>
-	 </div>
-	 </div>
-	 
-	 <div class='two spacing'></div>
-	 <div class='row'>
-	 <div class='medium-6 columns'>
-	 <h4 style='color: #999'>Par Social Connect</h4>
-	 <h2>OpenScraper</h2>
-	 <div class='spacing'></div>
-	 <ul class='shortcode-list'>
-	 <li>
-	 <p><i class='fa fa-check'></i>Outil open source qui permet de scraper (récupérer les données de) plusieurs sites en même temps et de structurer les données ainsi obtenues.</p>
-	 </li>
-	 </ul>
-	 <div class='spacing'></div>
-	 <a class='button small' href='https://github.com/entrepreneur-interet-general/OpenScraper'>Découvrir OpenScraper</a>
-	 </div>
-	 <div class='medium-6 columns'>
-	 <img class="fadeinright" width="500" height="340" alt="" src="/img/logo_openscraper.png" />
-	 </div>
-	 </div>
-
-    -->
+		{% endfor %}
 
     <div class='four spacing'></div>
 </div>
