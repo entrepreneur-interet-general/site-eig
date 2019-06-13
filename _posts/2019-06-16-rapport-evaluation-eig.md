@@ -5,7 +5,6 @@ author: Guénolé Carré, équipe EIG
 twitter: carreguenole
 description: "Dans le cadre de la démarche d'évaluation du programme, nous vous présentons les résultats de l'enquête menée auprès des EIG et des mentors des deux premières promotions"
 ---
-
 ## Une nécessité de retour sur le programme 
 
 Alors que la troisième promotion du programme EIG bat son plein, l’équipe de coordination a lancé un chantier d’évaluation afin de revenir sur les évolutions du programme et  mesurer son impact. Cette démarche s’inscrit à la suite de la publication des données autour du programme EIG que vous pouvez retrouver [ici](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html).
@@ -13,26 +12,27 @@ Nous nous sommes focalisés sur trois aspects :
 -	**la création d’outils utiles et performants par les EIG accompagnés de leurs mentors** ;
 -	**la participation des EIG dans la transformation numérique des administrations** ;
 -	**le fonctionnement du programme**.
+
 Pour répondre à ces questions, nous avons mis en place des questionnaires auprès des EIG et des mentors des deux premières promotions. Nous avons également présenté des cas d’usages de défis ou de méthodes pour illustrer nos conclusions.
 
-### Vous trouverez le rapport complet, sous forme de *working paper*, [ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf).
+#### **Vous trouverez le rapport complet, sous forme de *working paper*, [ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
 
 Ci-dessous, vous trouverez les enseignements principaux de ce travail.
 
 ## Quels sont les enseignements principaux ? 
 
-#### 1.	La création d’outils performants nécessite une coopération au sein des équipes et une évolution des conditions de travail
+### 1.	La création d’outils performants nécessite une coopération au sein des équipes et une évolution des conditions de travail
 Le programme EIG permet la création d’outils utilisés dans les administrations lauréates, capables de répondre aux attentes des agents publics. En effet, **les outils créés par les EIG sont par une très large majorité en production ou en développement avec une mise en production prévue. Plus de 90% des mentors sont satisfaits des réalisations des EIG**.
 
 Pour ce qui est de la nécessité de coopération entre les EIG et les mentors au sein des administrations, le constat est le suivant : **un partage des rôles entre des EIG capable d’apporter des compétences, un mentor opérationnel qui transmet des connaissances sur le métier, et un mentor de haut niveau qui procure un appui stratégique apparaît comme primordial à la réussite des défis**.
 La présence des EIG au sein des administrations lauréates requiert des évolutions : **77% des mentors ont fait évoluer les moyens techniques mis à la disposition des EIG et 70% ont fait de même pour les conditions de travail des EIG**. Cette condition nécessaire est d’ailleurs valorisé par les EIG : **67% d’entre eux considèrent que l’environnement technique était adapté à leurs besoins et près de 95% déclarent être satisfaits des conditions de travail offertes**.
 
-#### 2.	La présence des EIG participe de la transformation numérique des administrations
+### 2.	La présence des EIG participe de la transformation numérique des administrations
 Le programme EIG porte des convictions sur la culture de l’ouverture, notamment par la promotion de l’open data et la création ou l’utilisation de briques logicielle libres. Ainsi, **deux tiers des EIG ont réutilisé des briques logicielles libres stratégiques, et de nombreux jeux de données ont été ouverts dans le cadre des défis**.
 Les EIG participent à la montée en compétence des agents publics. **62% des EIG ont organisé des formations au cours de leurs défis, et 83% des mentors ont pu réutiliser ces compétences par la suite**.
 Le fait de recourir au programme apporte également des bénéfices complémentaires : **73% des EIG et des mentors indiquent avoir été à l’origine de la création d’outils annexes à la réalisation principale du défi**. 
 
-#### 3.	Un programme attractif, apprenant et ouvert
+### 3.	Un programme attractif, apprenant et ouvert
 Les raisons invoquées pour parler de l’attractivité du programme diffèrent selon les publics concernés. **La motivation des EIG réside principalement dans la capacité à agir pour l’intérêt général, l’autonomie permise par ce statut, la durée du programme et la rémunération**.
 **Quant aux mentors, ils font valoir la possibilité de recruter des compétences rares dans leurs services, le financement tiers (qui convainc à prendre le risque de lancer des projets innovants) et le portage du programme par Etalab et la DINSIC qui lui donne une dimension interministérielle**. 
 Pour assurer la réussite des défis, différents éléments sont avancés par les parties prenantes du programme. Le premier d’entre eux est le **programme d’accompagnement mis en place par l’équipe de coordination : les EIG plébiscitent notamment les sessions d’accompagnement collectives, et le suivi tout au long des 10 mois effectué par l’équipe de coordination et les EIG LINK**.
