@@ -62,58 +62,58 @@ realisations:
 
 <div class='full'>
     <div class='row'>
-	<div class='large-12 columns'>
-		<h2>Produire des outils open source pour les administrations</h2>
-		<div class='one spacing'></div>
+  <div class='large-12 columns'>
+    <h2>Produire des outils open source pour les administrations</h2>
+    <div class='one spacing'></div>
 
-		<p>En 10 mois, les entrepreneurs d’intérêt général développent des outils qui sont au plus près des besoins de leurs administrations.</p>
+    <p>En 10 mois, les entrepreneurs d’intérêt général développent des outils qui sont au plus près des besoins de leurs administrations.</p>
 
-		<p><strong>Voici une sélection d’outils développés au sein du programme qui témoigne de la diversité des projets menés et de la variété des défis techniques posés.</strong></p>
+    <p><strong>Voici une sélection d’outils développés au sein du programme qui témoigne de la diversité des projets menés et de la variété des défis techniques posés.</strong></p>
 
-	</div>
+  </div>
     </div>
 </div>
 
 <div class='full'>
-		{% for realisation in page.realisations %}
+    {% for realisation in page.realisations %}
     <div class='two spacing'></div>
     <div class='row'>
-    	{% assign modulo_value = forloop.index | modulo: 2 %}
-    	{% if modulo_value == 1 %}
-			<div class='medium-6 columns'>
-			  <img class="fadeinleft" width="500" height="380" alt="" src="{{ realisation.image }}">
-			</div>
-			<div class='medium-6 columns'>
-			  <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
-			  <h2>{{ realisation.title }}</h2>
-			  <div class='spacing'></div>
-			  <ul class='shortcode-list'>
-					<li>
-					  <i class='fa fa-check'></i>{{ realisation.description }}
-					</li>
-			    </ul>
-			  <div class='spacing'></div>
-			  <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
-			</div>
-    	{% else %}
-			<div class='medium-6 columns'>
-			  <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
-			  <h2>{{ realisation.title }}</h2>
-			  <div class='spacing'></div>
-			  <ul class='shortcode-list'>
-					<li>
-					  <i class='fa fa-check'></i>{{ realisation.description }}
-					</li>
-			    </ul>
-			  <div class='spacing'></div>
-			  <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
-			</div>
-    	<div class='medium-6 columns'>
-			  <img class="fadeinright" width="500" height="380" alt="" src="{{ realisation.image }}">
-			</div>
-    	{% endif %}
+      {% assign modulo_value = forloop.index | modulo: 2 %}
+      {% if modulo_value == 1 %}
+      <div class='medium-6 columns'>
+        <img class="fadeinleft" width="500" height="380" alt="" src="{{ realisation.image }}">
+      </div>
+      <div class='medium-6 columns'>
+        <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+        <h2>{{ realisation.title }}</h2>
+        <div class='spacing'></div>
+        <ul class='shortcode-list'>
+          <li>
+            <i class='fa fa-check'></i>{{ realisation.description }}
+          </li>
+          </ul>
+        <div class='spacing'></div>
+        <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+      </div>
+      {% else %}
+      <div class='medium-6 columns'>
+        <h4>Outil développé par le défi <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+        <h2>{{ realisation.title }}</h2>
+        <div class='spacing'></div>
+        <ul class='shortcode-list'>
+          <li>
+            <i class='fa fa-check'></i>{{ realisation.description }}
+          </li>
+          </ul>
+        <div class='spacing'></div>
+        <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+      </div>
+      <div class='medium-6 columns'>
+        <img class="fadeinright" width="500" height="380" alt="" src="{{ realisation.image }}">
+      </div>
+      {% endif %}
     </div>
-		{% endfor %}
+    {% endfor %}
 
     <div class='four spacing'></div>
 </div>
