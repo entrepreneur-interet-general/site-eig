@@ -9,8 +9,8 @@
 ### Présentation
 
 [Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr)
-est un site dédié au programme Entrepreneur·e
-d’intérêt général (EIG et ci-après "Le Programme"), un programme public opéré par la mission
+est un site dédié au programme Entrepreneurs
+d’Intérêt Général (EIG et ci-après "Le Programme"), un programme public opéré par la mission
 Etalab, soutenu par le Programme d’investissements d’avenir (PIA), en lien avec le Secrétariat général pour l'investissement et la Caisse des dépôts et consignations.
 
 Il vise à présenter l'ambition du Programme, la communauté des entrepreneurs d'intérêt général et leurs mentors, et à sélectionner les défis EIG et les promotions d'entrepreneurs lors des périodes d'appel à projet et à candidature.
@@ -46,7 +46,7 @@ dans deux cas :
 
 #### a) Liste de diffusion
 
-Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-apps.org/subscription/mC5TfNOr9). 
+Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-forever.org/subscribe/entrepreneur-interet-general@mail.etalab.studio).
 
 A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 

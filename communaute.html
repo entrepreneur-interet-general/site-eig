@@ -9,9 +9,9 @@ section_id: communaute
 	    <div class='gallery-nav'>
 		<ul>
 		    <li class='current'><a data-cat='all' href='#'>Tout</a></li>
-		    <li><a data-cat='2017' href='#'>2017</a></li>
-		    <li><a data-cat='2018' href='#'>2018</a></li>
-		    <li><a data-cat='2019' href='#'>2019</a></li>
+		    <li><a data-cat='eig-1' href='#'>EIG 1</a></li>
+		    <li><a data-cat='eig-2' href='#'>EIG 2</a></li>
+		    <li><a data-cat='eig-3' href='#'>EIG 3</a></li>
 		    <li><a data-cat='eig' href='#'>EIG</a></li>
 		    <li><a data-cat='mentor' href='#'>Mentor</a></li>
 		    <li><a data-cat='datascientist' href='#'>Data scientist</a></li>
@@ -39,7 +39,7 @@ section_id: communaute
 			<h3>{{personne.title}}</h3>
 			<p style="font-size:80%;">{{personne.profil}}<br/>
 			    {{personne.defi}}
-			    {{personne.annee}}</p>
+			    {{ personne.annees | join: ', '}}</p>
 		    </div>
 		</li>
 		{% endfor %}

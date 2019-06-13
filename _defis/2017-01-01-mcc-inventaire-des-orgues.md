@@ -22,12 +22,3 @@ Culture à la demande de l’association Orgue en France, est aujourd'hui
 entre les mains de l'association Orgue en France, que Bastien a
 rejoint comme membre.  Une démarche exemplaire de collaboration entre
 la société civile et les institutions.
-
-_Pour aller plus loin_
-
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b96fi?playlist=x54m4i)
-
-Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues :
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmec2" allowfullscreen allow="autoplay"></iframe>
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39q)_

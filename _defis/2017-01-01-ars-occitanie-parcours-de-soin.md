@@ -22,12 +22,3 @@ interroger de façon fluide des données nombreuses et hétérogènes.  La
 face émergée : une interface qui permet de visualiser des données sous
 forme de graphiques, d’infographies… et de les comprendre facilement,
 même si l’on n’est pas informaticien.
-
-_Pour aller plus loin_
-
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x64z39z)
-
-Interview de Sébastien Cossin sur son parcours et sur le défi ARS - Parcours de soin :
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmeal" allowfullscreen allow="autoplay"></iframe>
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x6b9n0b?playlist=x54m4i)_

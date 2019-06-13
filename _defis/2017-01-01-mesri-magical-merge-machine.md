@@ -20,12 +20,3 @@ quelles sont les associations pertinentes entre votre base à nettoyer
 et une autre base de référence, et une fois qu'il aura assez appris,
 il pourra vous proposer une normalisation des données de votre base
 initial.  Magique !  Et surtout très pratique.
-
-_Pour aller plus loin_
-
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mnj?playlist=x54m4i)
-
-Interview de Laurent Dupont sur son parcours et sur le défi MESRI - La machine à données
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmecy" allowfullscreen allow="autoplay"></iframe>
-
-_[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39w)_
