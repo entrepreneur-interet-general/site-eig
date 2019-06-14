@@ -37,7 +37,7 @@ Les raisons invoquées pour parler de l’attractivité du programme diffèrent 
 **Quant aux mentors, ils font valoir la possibilité de recruter des compétences rares dans leurs services, le financement tiers (qui convainc à prendre le risque de lancer des projets innovants) et le portage du programme par Etalab et la DINSIC qui lui donne une dimension interministérielle**. 
 Pour assurer la réussite des défis, différents éléments sont avancés par les parties prenantes du programme. Le premier d’entre eux est le **programme d’accompagnement mis en place par l’équipe de coordination : les EIG plébiscitent notamment les sessions d’accompagnement collectives, et le suivi tout au long des 10 mois effectué par l’équipe de coordination et les EIG LINK**.
 
-![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](img/blog/datajust-pac.jpg)_De gauche à droite : Paul-Antoine Chevalier, Kim Montalibet, Cédric Malherbe_
+![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)_De gauche à droite : Paul-Antoine Chevalier, Kim Montalibet, Cédric Malherbe_
 Paul-Antoine Chevalier, data scientist à Etalab, discute avec Kim Montalibet et Cédric Malherbe, les EIG du défi DataJust.
 
 Le portage interministériel du programme par Etalab et la DINSIC est une des clés du succès des défis. Ainsi, **plus de la moitié (52%) des EIG des deux premières promotions ont fait appel à l’expertise de différents membres de l’équipe d’Etalab**. Ce portage interministériel participe également au renforcement des interactions et du partage d’expérience entre administrations.
