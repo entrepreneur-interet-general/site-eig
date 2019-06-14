@@ -3,49 +3,49 @@ layout: blog
 section_id: blog
 ---
 
+<div class='mod modBlogPost'>
+
+<ul class="small-block-grid-1 large-block-grid-2">
 {% for post in paginator.posts %}
-<div class='big mod modBlogPost no_bg'>
-  <div class='images'>
-    {% for image in post.images %}
-    <div class='image'><img alt="" src="{{site.url}}/{{image}}" /></div>
-    {% endfor %}
-  </div>
-  <div class='content'>
-    <p class='info'>
-      Le
-      <span>
-	{% assign m = post.date | date: "%-m" %}
-	{{ post.date | date: "%d" }}
-	{% case m %}
-	{% when '1' %}janvier
-	{% when '2' %}février
-	{% when '3' %}mars
-	{% when '4' %}avril
-	{% when '5' %}mai
-	{% when '6' %}juin
-	{% when '7' %}juillet
-	{% when '8' %}août
-	{% when '9' %}septembre
-	{% when '10' %}octobre
-	{% when '11' %}novembre
-	{% when '12' %}décembre
-	{% endcase %}
-	{{ post.date | date: "%Y" }}
-      </span>
-      <span>
-        par
-        <a href="{{post.author_link}}">{{post.author}}</a>
-	<a href="https://twitter.com/{{post.twitter}}"><i class='fa fa-twitter'></i></a>
-      </span>
-    </p>
-    <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-    <p>{{post.description}}</p>
-    <div class='spacing'></div>
-    <a class="button" href="{{post.url}}">Lire la suite</a>
-  </div>
-</div>
-<hr>
+  <li style="padding: 0 .3em">
+    <div class="card" style="height: 100%">
+      <div class="card__content">
+        <h3>{{ post.title }}</h3>
+        <p class='info'>
+          Le
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%d" }}
+          {% case m %}
+          {% when '1' %}janvier
+          {% when '2' %}février
+          {% when '3' %}mars
+          {% when '4' %}avril
+          {% when '5' %}mai
+          {% when '6' %}juin
+          {% when '7' %}juillet
+          {% when '8' %}août
+          {% when '9' %}septembre
+          {% when '10' %}octobre
+          {% when '11' %}novembre
+          {% when '12' %}décembre
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+            par
+            <a href="{{post.author_link}}">{{post.author}}</a>
+      <a href="https://twitter.com/{{post.twitter}}"><i class='fa fa-twitter'></i></a>
+        </p>
+        <p>{{ post.description }}</p>
+      </div>
+      <div class="card__extra">
+        <a class="button small" href="{{ post.url }}">
+          Lire la suite
+        </a>
+      </div>
+    </div>
+  </li>
 {% endfor %}
+</ul>
+</div>
 
 {% include pagination.html root="blog" %}
 
