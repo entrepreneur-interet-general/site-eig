@@ -9,6 +9,11 @@ section_id: blog
 {% for post in paginator.posts %}
   <li style="padding: 0 .3em">
     <div class="card" style="height: 100%">
+      {% if post.image %}
+      <div class="card__cover">
+        <img src="{{ post.image }}" alt="">
+      </div>
+      {% endif %}
       <div class="card__content">
         <h3>{{ post.title }}</h3>
         <p class='info'>
