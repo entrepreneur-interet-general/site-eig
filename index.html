@@ -230,3 +230,32 @@ slides:
     </div>
     <div class='one spacing'></div>
 </div>
+
+
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      <h2>Dernières publications</h2>
+
+      <div class="two spacing"></div>
+
+      <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+      {% for post in site.posts limit: 3 %}
+      <li style="padding: 0 .3em">
+        <div class="card" style="height: 100%">
+          <div class="card__content">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+          </div>
+          <div class="card__extra">
+            <a class="button small" href="{{ post.url }}">
+              Lire la suite
+            </a>
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
