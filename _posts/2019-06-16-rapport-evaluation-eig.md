@@ -9,11 +9,9 @@ description: "Dans le cadre de la démarche d'évaluation du programme, nous vou
 
 PROPOSITION SOPHIE POUR L'INTRO
 
-Alors que la troisième promotion EIG bat son plein, l’équipe de coordination du programme a entamé une [démarche d'évaluation que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). Le présent article fait suite à la [publication des données du programme, première étape de la démarche d'évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html), et présente les résultats de l'évaluation d'impact des deux premières promotions. Pour mener ce travail, nous nous sommes focalisés sur trois aspects : ...
+Alors que la troisième promotion EIG bat son plein, l’équipe de coordination du programme a entamé une [démarche d'évaluation que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). Le présent article fait suite à la [publication des données du programme, première étape de la démarche d'évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html), et présente les résultats de l'évaluation d'impact des deux premières promotions.
 
-Alors que la troisième promotion du programme EIG bat son plein, l’équipe de coordination a lancé un travail d’évaluation afin de revenir sur les évolutions du programme et mesurer l'impact des deux première promotions. Ce travail s’inscrit dans le cadre de la [démarche d'évaluation lancée par le programme EIG, que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). Le présent article fait suite à la publication des données autour du programme EIG que vous pouvez retrouver [ici](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html).
-
-Nous nous sommes focalisés sur trois aspects :
+Pour mener ce travail, nous nous sommes focalisés sur trois aspects : 
 - **la capacité des défis à créer des outils répondant à des besoins du terrain, utilisés et pérennisés après le programme** ;
 - **la capacité des défis à impulser un élan de transformation numérique dans leurs administrations d’accueil, en termes d’open data, d’open source, d’utilisation de méthodes de travail agiles, centrées sur l’utilisateur** ;
 - **le rôle joué par le programme et l’équipe de coordination dans la réussite des projets et les axes d’amélioration et d’évolution possibles**.
@@ -36,13 +34,13 @@ La **pérennisation des outils** est un enjeu crucial pour le programme : le fai
 
 ### 2.	La présence des EIG participe à la transformation numérique des administrations
 
-Le programme EIG porte des convictions sur la culture de l’ouverture, notamment par la promotion de l’open data et la création et l’utilisation de briques logicielles libres. Ainsi, **deux tiers des EIG ont réutilisé des briques logicielles libres stratégiques, et de nombreux jeux de données ont été ouverts dans le cadre des défis**.
+Le programme EIG porte des convictions sur la culture de l’ouverture, notamment par la promotion de l’open data et la création et l’utilisation de briques logicielles libres. Ainsi, **deux tiers des EIG ont réutilisé des logiciels libres, et de nombreux jeux de données ont été ouverts dans le cadre des défis**.
 
 Les EIG participent à la montée en compétence des agents publics. **62% des EIG ont organisé des formations au cours de leurs défis, et 83% des mentors ont pu réutiliser ces compétences par la suite**.
 
 Le fait de recourir au programme apporte également des bénéfices complémentaires : **73% des EIG et des mentors indiquent avoir été à l’origine de la création d’outils annexes à la réalisation principale du défi**. Ces outils répondent souvent à des besoins techniques qui remontent du terrain au cours du défi. Les administrations peuvent ainsi profiter des compétences techniques des EIG pour réaliser des outils qui facilitent le travail des agents et qui ne figurent pas initialement parmi les livrables du défi. 
 
-![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](/img/blog/graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
+![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](/img/blog/illustration-graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
 Capture d'écran présentant les résultats de l'enquête sur les apports de la présences des EIG au cours des défis.
 
 ### 3.	Le programme est attractif, apprenant et ouvert
@@ -53,8 +51,7 @@ Les raisons invoquées pour parler de l’attractivité du programme diffèrent 
 
 Pour assurer la réussite des défis, différents éléments sont avancés par les parties prenantes du programme. Le premier d’entre eux est le **programme d’accompagnement mis en place par l’équipe de coordination : les EIG plébiscitent notamment les sessions d’accompagnement collectives, et le suivi tout au long des 10 mois effectué par [l’équipe de coordination](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) et les [EIG LINK](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html)**.
 
-![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)_De gauche à droite : Paul-Antoine Chevalier, Kim Montalibet, Cédric Malherbe_
-Paul-Antoine Chevalier, data scientist à Etalab, discute avec Kim Montalibet et Cédric Malherbe, les EIG du défi DataJust.
+![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)_De gauche à droite : Paul-Antoine Chevalier, data scientist à Etalab, avec les deux EIG du défi Datajust, Kim Montalibet et Cédric Malherbe_
 
 Le portage interministériel du programme par Etalab et la DINSIC est une des clés du succès des défis. Ainsi, **plus de la moitié (52%) des EIG des deux premières promotions ont fait appel à l’expertise de différents membres de l’équipe d’Etalab**. Ce portage interministériel participe également au renforcement des interactions et du partage d’expérience entre administrations.
 La communauté réunie autour du programme est perçue positivement par une majorité d’EIG et de mentors, qui notent ses apports dans la création d’un esprit de groupe et dans le partage d’expérience et l’entraide.
@@ -70,4 +67,4 @@ Des évolutions sont aujourd’hui à l’étude pour faire grandir et pérennis
 - l’**accélération de défis issus des promotions antérieures** pourra être un axe de croissance du programme. Le programme EIG diversifierait ainsi son portfolio de projets tout en conduisant des outils produits à fort impact pour l’action publique.
 
 
-**Ce rapport d'enquête sera présenté dans sa version finale à la fin du mois de juin. Nous publierons bientôt une étude comparative sur d'autres initiatives de recrutement dans le numérique public à travers le monde, pour mieux comprendre dans quelle dynamique s'inscrit le programme EIG. Cette étude constitue la troisième étape de notre démarche d'évaluation. 
+**Ce rapport d'enquête sera présenté dans sa version finale à la fin du mois de juin.** **Nous publierons bientôt une étude comparative sur d'autres initiatives de recrutement dans le numérique public** à travers le monde, pour mieux comprendre dans quelle dynamique s'inscrit le programme EIG. Cette étude constituera la troisième étape de notre démarche d'évaluation. 
