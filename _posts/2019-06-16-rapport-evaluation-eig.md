@@ -7,8 +7,6 @@ description: "Dans le cadre de la démarche d'évaluation du programme, nous vou
 ---
 ## Prendre du recul grâce à une démarche d'évaluation interne du programme 
 
-PROPOSITION SOPHIE POUR L'INTRO
-
 Alors que la troisième promotion EIG bat son plein, l’équipe de coordination du programme a entamé une [démarche d'évaluation que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). Le présent article fait suite à la [publication des données du programme, première étape de la démarche d'évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html), et présente les résultats de l'évaluation d'impact des deux premières promotions.
 
 Pour mener ce travail, nous nous sommes focalisés sur trois aspects : 
@@ -40,8 +38,7 @@ Les EIG participent à la montée en compétence des agents publics. **62% des E
 
 Le fait de recourir au programme apporte également des bénéfices complémentaires : **73% des EIG et des mentors indiquent avoir été à l’origine de la création d’outils annexes à la réalisation principale du défi**. Ces outils répondent souvent à des besoins techniques qui remontent du terrain au cours du défi. Les administrations peuvent ainsi profiter des compétences techniques des EIG pour réaliser des outils qui facilitent le travail des agents et qui ne figurent pas initialement parmi les livrables du défi. 
 
-![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](/img/blog/illustration-graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
-Capture d'écran présentant les résultats de l'enquête sur les apports de la présences des EIG au cours des défis.
+![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/illustration-graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
 
 ### 3.	Le programme est attractif, apprenant et ouvert
 
