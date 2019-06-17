@@ -4,6 +4,7 @@ title: "[Vidéo] Qui sont les 32 entrepreneurs d'intérêt général de la promo
 author: Sophie Miljkovic, équipe EIG
 twitter: MiljkovicSophie
 description: "Les entrepreneurs d’intérêt général (EIG) sont data scientists, designers, développeurs et développeuses. Qui sont-ils et comment œuvrent-ils à la transformation numérique de l’État ?"
+image : https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/eig3-assemblee-nationale.png
 ---
 
 Dans un précédent article, nous présentions les acteurs de l'écosystème de l'innovation publique que les EIG peuvent mobiliser pour relever leurs défis.
