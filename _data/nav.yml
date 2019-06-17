@@ -2,6 +2,8 @@
   section_id: presentation
   path: presentation.html
   children:
+  - name : Présentation du programme
+    path: presentation.html
   - name: Offre d'accompagnement
     path: accompagnement.html
   - name: Réalisations
