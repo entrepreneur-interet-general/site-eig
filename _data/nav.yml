@@ -11,11 +11,12 @@
   - name: F.A.Q. Administration
     path: faq-administrations.html
 
-- name: Projets
+- name: Défis
   section_id : defis
   path: defis.html
 
 - name: Communauté
+  section_id : communaute
   path: communaute.html
 
 - name: Blog

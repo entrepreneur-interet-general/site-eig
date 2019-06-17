@@ -1,26 +1,6 @@
 ---
 layout: defi
-title: CoachEleves
-site: /defis/2018/coacheleves.html
-annees: 2018
-description: >-
-  Améliorer la réussite scolaire avec les données
-  d'apprentissage
-administration: 'Ministère de l''Éducation Nationale, Direction du numérique pour l''éducation'
-administration-website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
-type: Datascience
-eigs:
-  - nom: David Panou
-    site: /communaute/2018/david-panou.html
-  - nom: Arnaud Rachez
-    site: /communaute/2018/arnaud-rachez.html
-mentors:
-  - nom: Claudio Cimelli
-    site: /communaute/2018/claudio-cimelli.html
-  - nom: François Bocquet
-    site: /communaute/2018/francois-bocquet.html
-images:
-  - /img/defis/12_CoachElevesAssistProf.png
+title: CoachÉlève
 ---
 
 Aujourd’hui, quelles que soient les difficultés –ou les ambitions !-
@@ -41,9 +21,3 @@ personnalisé fondé sur les traces numériques laissés par les
 périmètre d’expérimentation pertinent. En parallèle, ils développent
 un outil de cartographie des données sur lequel ils s’appuieront lors
 de la réalisation de l’outil d’accompagnement.
-
- _En savoir plus_
-
- Le pitch du défi Coach Elèves en quelques slides (10 octobre 2017)
- 
- <script async class="speakerdeck-embed" data-id="9a9aa2176d1249fd93ce0edaeaf7b216" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

@@ -1,22 +1,6 @@
 ---
 layout: defi
 title: PolyGraphe
-site: /defis/2019/polygraphe.html
-annees: 2019
-description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
-administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes
-administration-website: https://www.economie.gouv.fr/dgccrf
-type: Développement & Data science
-eigs:
-  - nom: Gabriel Bastard
-    site: /communaute/2019/gabriel-bastard.html
-  - nom: Luc Salommez
-    site: /communaute/2019/luc-salommez.html
-mentors:
-  - nom: Audrey Istace
-    site: /communaute/2019/audrey-istace.html
-images: 
-  - /img/logo-polygraphe.png
 ---
 
 [La Direction générale de la concurrence, de la consommation
@@ -25,10 +9,6 @@ souhaite développer des nouvelles méthodes de text mining, d’analyse de donn
 comportements pour aider les enquêteurs de sa direction à mieux
 détecter et qualifier des faux avis sur les plateformes de
 consommation en ligne.
-
-Voir le [défi PolyGraphe](https://speakerdeck.com/eig2018/pitch-polygraphe-defi-eig3) en quelques slides.
-
-<br/>
 
 ## PolyGraphe : Détecter les faux avis pour garantir la confiance sur Internet
 
@@ -72,55 +52,3 @@ _La DGCCRF a réalisé une analyse préliminaire en interne, et une preuve
 de concept est en cours auprès d’un prestataire externe et avec les équipes d'Etalab. Les EIG
 auront donc une base de travail et des données disponibles dès leur
 arrivée._
-
-<br/>
-
-## Les EIG
-
-### [Gabriel Bastard](/communaute/2019/gabriel-bastard.html), data scientist
-
-**Missions principales** : définition de métriques à partir des
-indicateurs de suspicion, élaboration d’algorithmes pour l’agrégation
-des indicateurs (apprentissage non supervisé), mise en place de
-l’apprentissage supervisé dans un second temps si cela s’avère
-pertinent, text mining pour l’analyse du texte des
-commentaires. 
-
-**Compétences** : text mining, techniques d'apprentissage, 
-maîtrise de Python et R.
-
-### [Luc Salommez](/communaute/2019/luc-salommez.html), développeur
-
-**Missions principales** : développement d’une application pour
-l’extraction et l’exploration des données web (en partenariat étroit
-avec la·e datascientist·e), la visualisation des données (indicateurs…)
-via un tableau de bord interactif, en partenariat avec le service
-informatique de la DGCCRF et les futurs utilisateurs.
-
-**Compétences nécessaires** : maîtrise de Python, HTML/CSS/JavaScript, et éventuellement C#.
-
-<br/>
-
-## L'équipe autour des EIG
-
-### Audrey Istace, mentor opérationnelle
-
-![Audrey Istace](/img/communaute/audrey-istace.png)
-
-**Audrey Istace est inspecteur à la DGCCRF**. Elle
-travaille au service national des enquêtes, au sein d’une équipe
-dédiée aux techniques d’investigations numériques : développement
-d’outils pour cibler des pratiques suspectes, analyse de bases de
-données d’entreprise pour mettre en évidence des fraudes, etc.
-
-_"L’objectif de ce défi est, d’une part, de lutter plus efficacement
-contre les faux avis et leurs conséquences en orientant les contrôles
-et, d’autre part, de permettre une plus grande responsabilisation des
-acteurs. Détecter et mettre en lumière que les plateformes sont le
-support de pratiques illicites doit les inciter à accroitre
-l’efficacité de leurs politiques et actions de vérifications et ainsi
-contribuer à y mettre fin._
-
-_Accueillir des EIG représente pour nous l’occasion de monter en
-compétence en travaillant à leur côté et d’approfondir la démarche
-actuelle de développement de la data science à la DGCCRF._"
