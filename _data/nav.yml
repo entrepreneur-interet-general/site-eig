@@ -1,6 +1,5 @@
 - name: Programme
   section_id: presentation
-  path: presentation.html
   children:
   - name : Présentation du programme
     path: presentation.html
@@ -27,7 +26,6 @@
 
 - name: Participer
   section_id: participer
-  path: participer.html
   children:
   - name: Je suis un candidat
     path: candidature-eig.html
