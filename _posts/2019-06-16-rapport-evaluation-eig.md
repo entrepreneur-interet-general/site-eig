@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quels résultats pour les défis des deux premières promotions ? Présentation des résultats de l'enquête sur le programme EIG
+title: Quels impacts pour les défis des deux premières promotions ? Présentation des résultats de l'enquête sur le programme EIG
 author: Guénolé Carré, équipe EIG
 twitter: carreguenole
 description: "Dans le cadre de la démarche d'évaluation du programme, nous vous présentons les résultats de l'enquête menée auprès des EIG et des mentors des deux premières promotions."
@@ -16,13 +16,13 @@ Nous nous sommes focalisés sur trois aspects :
 
 Pour répondre à ces questions, nous avons mis en place des questionnaires auprès des EIG et des mentors des deux premières promotions. Nous avons également illustré les conclusions de cette analyse avec des cas d’usages de défis ou de méthodes.
 
-#### **Vous trouverez le rapport complet, sous forme de *working paper*, [ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
+## **Vous trouverez le [rapport complet, sous forme de *working paper*](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
 
 Ci-dessous, vous trouverez les enseignements principaux de ce travail.
 
 ## Quels sont les enseignements principaux ? 
 
-### 1.	La coopération au sein des équipes projets et une évolution des conditions de travail permet la création d’outils performants et utilisés dans les administrations
+#### 1.	La coopération au sein des équipes projets et une évolution des conditions de travail permet la création d’outils performants et utilisés dans les administrations
 
 Le programme EIG permet la création d’outils utilisés dans les administrations lauréates, capables de répondre aux attentes des agents publics. En effet, **les outils créés par les EIG sont par une très large majorité en production ou en développement avec une mise en production prévue. Plus de 90% des mentors sont satisfaits des réalisations des EIG**.
 
@@ -32,7 +32,7 @@ La présence des EIG au sein des administrations lauréates requiert des évolut
 
 La **pérennisation des outils** est également cruciale pour le programme. Ainsi, les réponses à cette enquête nous indiquent que les **[réalisations EIG](https://entrepreneur-interet-general.etalab.gouv.fr/realisations.html) sont en majorité en production ou avec une mise en production généralement prévue pour 2019 et 2020**. La question de la pérennisation a été mise en avant de manière plus anticipée pour la deuxième promotion EIG que pour la première promotion, ce qui se traduit par un plus grand nombre de réalisations qui sont actuellement pérennisées et maintenues.
 
-### 2.	La présence des EIG participe de la transformation numérique des administrations
+#### 2.	La présence des EIG participe de la transformation numérique des administrations
 
 Le programme EIG porte des convictions sur la culture de l’ouverture, notamment par la promotion de l’open data et la création et l’utilisation de briques logicielles libres. Ainsi, **deux tiers des EIG ont réutilisé des briques logicielles libres stratégiques, et de nombreux jeux de données ont été ouverts dans le cadre des défis**.
 
@@ -40,10 +40,10 @@ Les EIG participent à la montée en compétence des agents publics. **62% des E
 
 Le fait de recourir au programme apporte également des bénéfices complémentaires : **73% des EIG et des mentors indiquent avoir été à l’origine de la création d’outils annexes à la réalisation principale du défi**. Ces outils sont souvent des besoins techniques remontant du terrain, nécessitant un appui technique à la réalisation pour faciliter le travail des agents dans les administrations.
 
-![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](img/blog/graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
+![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](/img/blog/graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG au cours des défis_
 Capture d'écran présentant les résultats de l'enquête sur les apports de la présences des EIG au cours des défis.
 
-### 3.	Un programme attractif, apprenant et ouvert
+#### 3.	Un programme attractif, apprenant et ouvert
 
 Les raisons invoquées pour parler de l’attractivité du programme diffèrent selon les publics concernés. **La motivation des EIG réside principalement dans la capacité à agir pour l’intérêt général, l’autonomie permise par ce statut, la durée du programme et la rémunération**.
 
@@ -65,4 +65,4 @@ La **mise en place de filières pour les promotions** est envisagée. Cette logi
 Enfin, l’**accélération de défis issus des promotions antérieures** pourra être un axe de croissance du programme. Le programme EIG diversifierait ainsi son portfolio de projets tout en conduisant des outils produits à fort impact pour l’action publique.
 
 
-Ce rapport d'enquête sera présenté dans sa version finale à la fin du mois de juin. Par ailleurs, la démarche d'évaluation du programme EIG se poursuivra bientôt avec la publication d'une étude comparative sur d'autres initiatives de recrutement dans le numérique public à travers le monde, pour mieux comprendre dans quelle dynamique se place le programme EIG.
+**Ce rapport d'enquête sera présenté dans sa version finale à la fin du mois de juin. Par ailleurs, la démarche d'évaluation du programme EIG se poursuivra bientôt avec la publication d'une étude comparative sur d'autres initiatives de recrutement dans le numérique public à travers le monde, pour mieux comprendre dans quelle dynamique se place le programme EIG.**
