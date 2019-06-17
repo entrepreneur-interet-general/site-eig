@@ -4,6 +4,7 @@ title: Mesurer l'impact du programme EIG
 author: Soizic Pénicaud, équipe EIG
 twitter: soizicpenicaud
 description: "Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît important de prendre du recul sur ce qui a été produit, les axes à approfondir et ceux à améliorer."
+image : https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/evaluation-ogp.jpg
 ---
 
 Le programme Entrepreneurs d'Intérêt Général existe depuis bientôt trois ans. Il compte à son actif 37 défis accompagnés dans 29 administrations différentes et une communauté de plus de 100 personnes (45 mentors et 69 EIG toutes promotions confondues). Après [une première promotion pionnière](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) et [une deuxième de passage à l'échelle](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2), [la troisième promotion](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general), lancée il y a presque 6 mois, est celle de la consolidation.
