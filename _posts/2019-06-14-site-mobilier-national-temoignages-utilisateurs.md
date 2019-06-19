@@ -10,7 +10,9 @@ En avril 2019 le Mobilier national rendait accessibles 65 000 meubles, œuvres e
 
 Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned Baldessin](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/ned-baldessin.html) et [Laurie Chapotte](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/laurie-chapotte.html) ont choisi de concevoir un site en utilisant **une démarche design, centrée utilisateur** : afin de définir et prioriser leur travail, ils ont rencontré et questionné en amont les futurs utilisateurs. De cette analyse sont nés des personas, soit des usagers type : chercheur, conservateur, créateur… Ils ont permis d’imaginer la première version de ce site avec pour objectif de concevoir en un minimum de temps - 1 an-, un outil répondant aux besoins principaux.
 
-**Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?** Vous trouverez ci-dessous des témoignages d’utilisateurs, illustrant l’impact de cet outil et de cette démarche d'ouverture de données culturelles. 
+**Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?** 
+
+![Une page web : sur la gauche, à la verticale, un menu qui propose une barre de recherche et de nombreux filtres, sur la droite, des vignettes qui présentent des objets, meubles, tapisseries...](/img/blog/site-gobelins.jpg)_Un aperçu du site des collections du Mobilier national_
 
 ----
 
@@ -21,7 +23,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 
 ----
 
-**Chantal Thomas, scénographe pour les décors de théâtre et d’opéra** | _Trouve inspiration et documentation_
+**Chantal Thomas, scénographe pour les décors de théâtre et d’opéra** / _Trouve inspiration et documentation_
 
 « Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon !** »
 
@@ -30,7 +32,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 
 ---
 
-**Frédérique Lanoë, chargée de la formation en histoire de l'art des élèves liciers et rentrayeurs du Mobilier national** | _Illustre ses cours sur l'histoire des textiles_
+**Frédérique Lanoë, chargée de la formation en histoire de l'art des élèves liciers et rentrayeurs du Mobilier national** / _Illustre ses cours sur l'histoire des textiles_
 
 « Ce nouveau site, mettant en ligne des milliers d'oeuvres, est pour moi un outil incontournable pour étudier avec les élèves les collections du Mobilier national, qui font référence en matière de textile. Le gros "plus", pour moi, de cette base de données est **la présence d'illustrations en couleur, et de très bonne qualité, mises en rapport avec la fiche descriptive de l'objet : elles permettent de zoomer et de voir de très près les oeuvres**, ce qui est très important lorsque l'on s'intéresse aux techniques de création de l'oeuvre.
 Cette base de données permet en quelques clics d'accéder à des milliers d'oeuvres, parfois difficiles d'accès ou peu documentées, peu publiées. **C'est une mine d'or pour qui s'intéresse à l'histoire des textiles et des manufactures.** Je m'en sers donc plusieurs fois par semaine dans le cadre de la préparation de mes cours d'histoire de l'art. »
