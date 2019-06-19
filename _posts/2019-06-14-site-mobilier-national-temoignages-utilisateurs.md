@@ -31,9 +31,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 « Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon ! ** »
 
 
-![]()_Le tapis GMT 2073 sur la scène de l'Opéra de Lyon_
-
-* Barbe-Bleue © Stofleth
+![Une scène d'opéra. Au premier plan, un tapis de style Empire, rouge avec des motifs jaunes et bleus. Dessus, un couple de mariés s'avance en direction d'une arche fleurie.](/img/blog/gobelins-barbebleue_BD.jpg)_Le tapis GMT 2073 habille la scène de l'Opéra de Lyon © Stofleth_
 
 
 ---
@@ -55,7 +53,7 @@ Cette base de données permet en quelques clics d'accéder à des milliers d'oeu
 « Avant d’être au nuancier j’étais licière, et l’on n'avait rien pour se rappeler des tapisseries que l'on tissait, juste notre mémoire. 
 Quand je suis arrivée au nuancier en 1998, j’avais une curiosité personnelle ; j’avais dans mes mains la couleur « Chagall » et j’avais envie d’en savoir plus, découvrir la pièce pour laquelle cette couleur avait été créée! J’allais donc dans les registres, mais c’était limité et il n’y avait pas de visuel. Donc ce site fait plaisir, je ne l’utilise pas tous les jours et je regarde seulement les tapis et tapisseries, mais **j’y trouve les informations que je veux, et que je ne veux pas**. Je suis assez étonnée de voir comment je n’ai pas hésité à changer les axes de recherches alors que je suis très maladroite avec tout ce qui est écran, même acheter un billet de train c’est tout une aventure. **Mais là, je n’ai pas peur de cliquer partout et j’ai mes réponses.** » 
 
-![]()_La couleur Chagall dans son contexte_
+![Un motif de tapisserie, en camaïeu de roses sur fond vert](/img/blog/gobelins-chagall-BD.jpg)_Détail de la tapisserie contenant la couleur « Chagall »_
 
 
 ----
@@ -79,7 +77,7 @@ D’un scroll au sein de ce flux continu et presque infini de photographies, est
 
 COLLECTION MN 19 – NÉES DES ARCHIVES est un projet initiée par Camille Gasser et conçue avec Bérénice Milon. Tissée en collaboration avec Camille Mouchet et Margot Parcillié.
 
-![]()_Les collections MN 18 et MN 19, inspirées des collections du Mobilier national_
+![Au centre d'une pièce aux murs blancs, une femme de face porte une cape-tapis sur son épaule droite. La cape-tapis est très colorée et volumineuse. Autour de cette image centrale sont disposées de nombreuses images de meubles, d'objets et d'éléments architecturaux.](/img/blog/gobelins-MN19_BD.jpg)_La collection MN 19, inspirée des collections du Mobilier national_
 
 
 ---
