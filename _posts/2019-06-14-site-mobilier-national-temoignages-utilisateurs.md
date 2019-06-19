@@ -14,7 +14,8 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 
 ----
 
-**Pierre Bureau**
+### Pierre Bureau
+
 *Sous-chef à l’atelier de Beauvais, création de tapisserie, Mobilier national | Peux enfin accéder à l’ensemble des objets et partager leurs histoires et techniques.*
 
 « Pour nous c’est un grand avantage de pouvoir consulter les collections de tapisserie contemporaine. On parle souvent d’une technique utilisée dans telle ou telle pièce, et maintenant nous pouvons les voir. Le site a une utilité pédagogique, les jeunes liciers peuvent voir les pièces déjà réalisées, les techniques particulières. Comme par exemple la pièce [Murlux réalisée avec des fils de plastique médical](https://collection.mobiliernational.culture.gouv.fr/objet/GOB-1216-000).
@@ -22,7 +23,8 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 
 ----
 
-**Chantal Thomas** 
+### Chantal Thomas
+
 *Scénographe pour les décors de théâtre et d’opéra | Peut trouver l'inspiration et la documentation qui va avec*
 
 « Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon !** »
@@ -33,6 +35,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 ---
 
 **Frédérique Lanoë**
+
 *Chargée de la formation en histoire de l'art des élèves lissiers et rentrayeurs du Mobilier national | Peut mieux illustrer ses cours sur l'histoire des textiles*
 
 « Ce nouveau site, mettant en ligne des milliers d'oeuvres, est pour moi un outil incontournable pour étudier avec les élèves les collections du Mobilier national, qui font référence en matière de textile. Le gros "plus", pour moi, de cette base de données est **la présence d'illustrations en couleur, et de très bonne qualité, mises en rapport avec la fiche descriptive de l'objet : elles permettent de zoomer et de voir de très près les oeuvres**, ce qui est très important lorsque l'on s'intéresse aux techniques de création de l'oeuvre.
@@ -41,6 +44,7 @@ Cette base de données permet en quelques clics d'accéder à des milliers d'oeu
 ----
 
 **Sylvie Heurtaux**
+
 *Responsable du Nuancier du Mobilier national | Peut visualiser les tapisseries et tapis correspondant à ses échantillons de couleurs.* 
 
 « Avant d’être au nuancier j’étais licière, et l’on n'avait rien pour se rappeler des tapisseries que l'on tissait, juste notre mémoire. 
@@ -51,6 +55,7 @@ Quand je suis arrivée au nuancier en 1998, j’avais une curiosité personnelle
 ----
 
 **Morgane Lucquet-Laforgue** 
+
 *Service de l’inspection, département des collections au Mobilier national | Peut dénicher des objets pour les expositions et ameublements du Mobilier national*
 
 « Pour les ameublements de châteaux ou musées je vais d’abord sur ce site. Par exemple, **je peux voir toutes les tapisseries (ce qui n’était pas possible avant) et ensuite, changer les dimensions pour que mes objets correspondent à l’espace que j’ai à disposition**. En général, je trouve l’objet sur ce site et je vais ensuite sur le logiciel interne pour voir les détails sur sa disponibilité par exemple. C’est très pratique pour les recherches par thématique, par exemple « animaux », « art nouveau » ou « justice ». On trouve bien plus d’objets que sur le logiciel interne. C’est utile pour préparer les expositions comme « Noël aux Gobelins » ; on visualise rapidement les objets existants, et cela dans toutes les catégories. **Avec l’aperçu des vignettes on a une vision d’ensemble que l’on n’avait pas avant. C’est rapide, fluide et ergonomique.** »
@@ -58,6 +63,7 @@ Quand je suis arrivée au nuancier en 1998, j’avais une curiosité personnelle
 ---
 
 **Camille Gasser et Bérénice Milon**
+
 *Designeuses en residence au Mobilier national | Peuvent s'inspirer des collections du Mobilier national pour créer la collection "MN 19 - Nées des archives"*
 
 « MN 19 – Nées des archives, est le fruit de notre résidence d’un an au Mobilier national. Elle s’inscrit dans la continuité de la [collection MN 18](http://www.camillegasser.com/pages/SAISON_2018.html) réalisée l'année précédente par Camille. À travers la collaboration entre des licières, des menuisières, une bijoutière et un scénographe, MN 19 se construit autour d’une envie partagée de montrer les richesses que l'enclos des Gobelins renferme.
@@ -72,12 +78,13 @@ COLLECTION MN 19 – NÉES DES ARCHIVES est un projet initiée par Camille Gasse
 ---
 
 **Pascal Bertrand**
+
 *Professeur d’histoire de l’art spécialisé dans les tapisseries à l’université de Bordeaux Montaigne | Peut constituer des corpus originaux et bien documentés *
 
 « Pour un chercheur en histoire de l'art ce site répond à de nombreux besoins : il permet de voir la remarquable collection du Mobilier national, de découvrir de nouveaux objets, d'accéder à une documentation riche et bien faite, de télécharger gratuitement des images en haute définition… le tout à distance. **Grâce aux multiples filtres et à la barre de recherche, l'outil est souple d'utilisation** et me permet de manier des corpus très vastes sur l'histoire de la tapisserie. J'ai pu découvrir des pièce que je ne connaissais pas et voir plus en détail certaines pièces dont j'avais entendu parler. 
 Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de partage des connaissances : il met ce qui constitue notre patrimoine à disposition de tout le monde**. Il s'adresse aux chercheurs, mais aussi au grand public. »
 
----
+## Les évolutions du projet
 
 **L’outil est encore en évolution**. Dès juillet il sera possible de **sauvegarder des objets et partager ses sélections**. L’exploration d’ensemble d’œuvres choisies par l'institution et autres utilisateurs sera aussi disponible. Afin d'encourager la découverte, il sera proposé par la suite, une suggestion d’objets de même époque, auteur ou matière que ceux consultés. 
 
