@@ -12,7 +12,6 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 
 **Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?** Vous trouverez ci-dessous des témoignages d’utilisateurs, illustrant l’impact de cet outil et de cette démarche d'ouverture de données culturelles. 
 
-
 ----
 
 **Pierre Bureau**
@@ -21,9 +20,7 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 « Pour nous c’est un grand avantage de pouvoir consulter les collections de tapisserie contemporaine. On parle souvent d’une technique utilisée dans telle ou telle pièce, et maintenant nous pouvons les voir. Le site a une utilité pédagogique, les jeunes liciers peuvent voir les pièces déjà réalisées, les techniques particulières. Comme par exemple la pièce [Murlux réalisée avec des fils de plastique médical](https://collection.mobiliernational.culture.gouv.fr/objet/GOB-1216-000).
 Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, au travail collectif, à l’histoire technique qui doit être partagée**. Étant éloignés des ateliers de Paris, le site permet aussi de suivre les nouvelles créations de nos collègues. On découvre aussi des pièces, par exemple des Picasso ou des Corbusier, achetés à des ateliers privés. **C’est rapide, intuitif, vertigineux. Je ne sais pas si vous vous rendez compte, mais c’est magique pour nous**. »
 
-
 ----
-
 
 **Chantal Thomas** 
 *Scénographe pour les décors de théâtre et d’opéra | Peut trouver l'inspiration et la documentation qui va avec*
@@ -33,9 +30,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 
 ![Une scène d'opéra. Au premier plan, un tapis de style Empire, rouge avec des motifs jaunes et bleus. Dessus, un couple de mariés s'avance en direction d'une arche fleurie.](/img/blog/gobelins-barbebleue_BD.jpg)_Le tapis GMT 2073 habille la scène de l'Opéra de Lyon © Stofleth_
 
-
 ---
-
 
 **Frédérique Lanoë**
 *Chargée de la formation en histoire de l'art des élèves lissiers et rentrayeurs du Mobilier national | Peut mieux illustrer ses cours sur l'histoire des textiles*
@@ -43,9 +38,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 « Ce nouveau site, mettant en ligne des milliers d'oeuvres, est pour moi un outil incontournable pour étudier avec les élèves les collections du Mobilier national, qui font référence en matière de textile. Le gros "plus", pour moi, de cette base de données est **la présence d'illustrations en couleur, et de très bonne qualité, mises en rapport avec la fiche descriptive de l'objet : elles permettent de zoomer et de voir de très près les oeuvres**, ce qui est très important lorsque l'on s'intéresse aux techniques de création de l'oeuvre.
 Cette base de données permet en quelques clics d'accéder à des milliers d'oeuvres, parfois difficiles d'accès ou peu documentées, peu publiées. **C'est une mine d'or pour qui s'intéresse à l'histoire des textiles et des manufactures.** Je m'en sers donc plusieurs fois par semaine dans le cadre de la préparation de mes cours d'histoire de l'art. »
 
-
 ----
-
 
 **Sylvie Heurtaux**
 *Responsable du Nuancier du Mobilier national | Peut visualiser les tapisseries et tapis correspondant à ses échantillons de couleurs.* 
@@ -55,15 +48,12 @@ Quand je suis arrivée au nuancier en 1998, j’avais une curiosité personnelle
 
 ![Un motif de tapisserie, en camaïeu de roses sur fond vert](/img/blog/gobelins-chagall-BD.jpg)_Détail de la tapisserie contenant la couleur « Chagall »_
 
-
 ----
-
 
 **Morgane Lucquet-Laforgue** 
 *Service de l’inspection, département des collections au Mobilier national | Peut dénicher des objets pour les expositions et ameublements du Mobilier national*
 
 « Pour les ameublements de châteaux ou musées je vais d’abord sur ce site. Par exemple, **je peux voir toutes les tapisseries (ce qui n’était pas possible avant) et ensuite, changer les dimensions pour que mes objets correspondent à l’espace que j’ai à disposition**. En général, je trouve l’objet sur ce site et je vais ensuite sur le logiciel interne pour voir les détails sur sa disponibilité par exemple. C’est très pratique pour les recherches par thématique, par exemple « animaux », « art nouveau » ou « justice ». On trouve bien plus d’objets que sur le logiciel interne. C’est utile pour préparer les expositions comme « Noël aux Gobelins » ; on visualise rapidement les objets existants, et cela dans toutes les catégories. **Avec l’aperçu des vignettes on a une vision d’ensemble que l’on n’avait pas avant. C’est rapide, fluide et ergonomique.** »
-
 
 ---
 
@@ -79,16 +69,13 @@ COLLECTION MN 19 – NÉES DES ARCHIVES est un projet initiée par Camille Gasse
 
 ![Au centre d'une pièce aux murs blancs, une femme de face porte une cape-tapis sur son épaule droite. La cape-tapis est très colorée et volumineuse. Autour de cette image centrale sont disposées de nombreuses images de meubles, d'objets et d'éléments architecturaux.](/img/blog/gobelins-MN19_BD.jpg)_La collection MN 19, inspirée des collections du Mobilier national_
 
-
 ---
-
 
 **Pascal Bertrand**
 *Professeur d’histoire de l’art spécialisé dans les tapisseries à l’université de Bordeaux Montaigne | Peut constituer des corpus originaux et bien documentés *
 
 « Pour un chercheur en histoire de l'art ce site répond à de nombreux besoins : il permet de voir la remarquable collection du Mobilier national, de découvrir de nouveaux objets, d'accéder à une documentation riche et bien faite, de télécharger gratuitement des images en haute définition… le tout à distance. **Grâce aux multiples filtres et à la barre de recherche, l'outil est souple d'utilisation** et me permet de manier des corpus très vastes sur l'histoire de la tapisserie. J'ai pu découvrir des pièce que je ne connaissais pas et voir plus en détail certaines pièces dont j'avais entendu parler. 
 Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de partage des connaissances : il met ce qui constitue notre patrimoine à disposition de tout le monde**. Il s'adresse aux chercheurs, mais aussi au grand public. »
-
 
 ---
 
@@ -101,18 +88,3 @@ Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de part
 Pour toute suggestion ou question, n’hésitez pas à contacter l’équipe :
 - [Laurie Chapotte](mailto:chapotte.laurie@gmail.com)
 - [Ned Baldessin](mailto:ned@baldessin.fr)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
