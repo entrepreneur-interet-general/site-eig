@@ -15,6 +15,7 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 ----
 
 **Pierre Bureau**, sous-chef à l’atelier de Beauvais, création de tapisserie, Mobilier national 
+
 _Peut enfin accéder à l’ensemble des objets et partager leurs histoires et techniques._
 
 « Pour nous c’est un grand avantage de pouvoir consulter les collections de tapisserie contemporaine. On parle souvent d’une technique utilisée dans telle ou telle pièce, et maintenant nous pouvons les voir. Le site a une utilité pédagogique, les jeunes liciers peuvent voir les pièces déjà réalisées, les techniques particulières. Comme par exemple la pièce [Murlux réalisée avec des fils de plastique médical](https://collection.mobiliernational.culture.gouv.fr/objet/GOB-1216-000).
