@@ -18,9 +18,9 @@ Nous avons opté pour une méthodologe simple pour nous permettre de réaliser c
 
 Ce travail possède toutefois certaines limites comme le fait qu'il n'a pas été réalisé de manière indépendante, que nous n'avons pas pu contacter toutes les parties prenantes du programme, et que cette étude ne peut pas aborder de manière exhaustive toutes les externalités liées au programme. 
 
-### **[Vous pouvez télécharger le rapport d'impact complet, sous forme de *working paper*](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
+### **[Vous pouvez télécharger ici le rapport d'impact, sous forme de *working paper*](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
 
-Nous vous présentons aujourd'hui les **10 enseignements clés que nous retirons des résultats de l'enquête menée auprès des EIG et des mentors des deux premières promotions**.
+Nous vous présentons aujourd'hui les **10 enseignements clés** que nous retirons des résultats de l'enquête menée auprès des EIG et des mentors des deux premières promotions.
 
 ## Quels sont les enseignements principaux ? 
 
@@ -59,4 +59,6 @@ Par ailleurs, des évolutions sont aujourd’hui à l’étude pour faire grandi
 
 **En conclusion, on peut donc voir que le programme EIG permet le développement d'outils qui répondent aux besoins des administrations, grâce à la coopération entre EIG et mentors et à un environnement de travail adapté. De plus, la présence des EIG participe à la transformation numérique des administrations. Le programme est également attractif, apprenant et ouvert, et prépare des perspectives d'évolution pour faire pérenniser ses apports et son modèle de fonctionnement.**
 
-**Ce rapport d'analyse sera présenté dans sa version finale à la fin du mois de juin.** **Nous publierons bientôt une étude comparative sur d'autres initiatives de recrutement dans le numérique public** à travers le monde, pour mieux comprendre dans quelle dynamique s'inscrit le programme EIG. Cette étude constituera la troisième étape de notre démarche de mesure d'impact. 
+**Ce rapport d'analyse sera présenté dans sa version finale à la fin du mois de juin.** **Nous publierons bientôt une étude comparative sur d'autres initiatives de recrutement dans le numérique public** à travers le monde, pour mieux comprendre dans quelle dynamique s'inscrit le programme EIG. Cette étude constituera la troisième étape de notre démarche de mesure d'impact.
+
+Si vous souhaitez en savoir davantage sur la méthode et les résultats de cette étude d'impacts, veuillez nous contactez à l'adresse entrepreneur-interet-general@data.gouv.fr . 
