@@ -25,7 +25,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 **Chantal Thomas** 
 *Scénographe pour les décors de théâtre et d’opéra | Peut trouver l'inspiration et la documentation qui va avec*
 
-« Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon ! ** »
+« Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon !** »
 
 
 ![Une scène d'opéra. Au premier plan, un tapis de style Empire, rouge avec des motifs jaunes et bleus. Dessus, un couple de mariés s'avance en direction d'une arche fleurie.](/img/blog/gobelins-barbebleue_BD.jpg)_Le tapis GMT 2073 habille la scène de l'Opéra de Lyon © Stofleth_
@@ -79,7 +79,7 @@ Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de part
 
 ---
 
-**L’outil est encore en évolution**. Dès juillet il sera possible de **sauvegarder des objets et partager ses sélections**. L’exploration d’ensemble d’œuvres choisies par l'institution et autres utilisateurs sera aussi disponible. Afin d'encourager la découverte, il sera proposé par la suite une suggestion d’objets de même époque, auteur ou matière que ceux consultés. 
+**L’outil est encore en évolution**. Dès juillet il sera possible de **sauvegarder des objets et partager ses sélections**. L’exploration d’ensemble d’œuvres choisies par l'institution et autres utilisateurs sera aussi disponible. Afin d'encourager la découverte, il sera proposé par la suite, une suggestion d’objets de même époque, auteur ou matière que ceux consultés. 
 
 **Les savoir-faire et métiers d’art liés à ces objets, et présents dans les 14 ateliers du Mobilier national (teinture, ébénisterie, création de tapisserie…), seront aussi documentés** afin de rendre visible et accessible ce patrimoine immatériel.
 
