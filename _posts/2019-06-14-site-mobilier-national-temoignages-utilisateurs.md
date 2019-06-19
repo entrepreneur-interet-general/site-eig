@@ -14,7 +14,7 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 
 ----
 
-**Pierre Bureau**, sous-chef à l’atelier de Beauvais, création de tapisserie, Mobilier national 
+**Pierre Bureau, sous-chef à l’atelier de Beauvais, création de tapisserie**
 
 _Peut enfin accéder à l’ensemble des objets et partager leurs histoires et techniques._
 
@@ -23,8 +23,7 @@ Pour une manufacture comme nous, **ça donne accès à l’expérience diverse, 
 
 ----
 
-**Chantal Thomas**, scénographe pour les décors de théâtre et d’opéra
-_Peut trouver l'inspiration et la documentation qui va avec_
+**Chantal Thomas, scénographe pour les décors de théâtre et d’opéra** / Peut trouver l'inspiration et la documentation qui va avec
 
 « Pour un de mes décors, **je souhaitais faire imprimer un tapis en très grande taille, et de suffisamment bonne qualité**. J’ai choisi le GMT 2073 sur le nouveau site du Mobilier national. Un tapis de style Empire réalisé par la Manufacture de la Savonnerie. Il me fallait une image de plus haute qualité que celle sur le site, je me suis donc ensuite rendu au Mobilier national pour récupérer ces documents. **On trouve donc la reproduction de ce tapis pour le spectacle de [Barbe bleu](https://www.opera-lyon.com/fr/20182019/opera/barbe-bleue) qui a commencé le 14 juin à l’Opéra de Lyon !** »
 
@@ -33,7 +32,7 @@ _Peut trouver l'inspiration et la documentation qui va avec_
 
 ---
 
-**Frédérique Lanoë**, chargée de la formation en histoire de l'art des élèves liciers et rentrayeurs du Mobilier national | Peut mieux illustrer ses cours sur l'histoire des textiles_
+**Frédérique Lanoë, chargée de la formation en histoire de l'art des élèves liciers et rentrayeurs du Mobilier national** | _Peut mieux illustrer ses cours sur l'histoire des textiles_
 
 « Ce nouveau site, mettant en ligne des milliers d'oeuvres, est pour moi un outil incontournable pour étudier avec les élèves les collections du Mobilier national, qui font référence en matière de textile. Le gros "plus", pour moi, de cette base de données est **la présence d'illustrations en couleur, et de très bonne qualité, mises en rapport avec la fiche descriptive de l'objet : elles permettent de zoomer et de voir de très près les oeuvres**, ce qui est très important lorsque l'on s'intéresse aux techniques de création de l'oeuvre.
 Cette base de données permet en quelques clics d'accéder à des milliers d'oeuvres, parfois difficiles d'accès ou peu documentées, peu publiées. **C'est une mine d'or pour qui s'intéresse à l'histoire des textiles et des manufactures.** Je m'en sers donc plusieurs fois par semaine dans le cadre de la préparation de mes cours d'histoire de l'art. »
