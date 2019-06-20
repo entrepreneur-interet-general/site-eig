@@ -12,7 +12,8 @@ Pour les révéler au public, les entrepreneurs d'intérêt général (EIG) [Ned
 
 **Trois mois après le lancement, qui utilise concrètement ce site, et pour quoi faire ?** 
 
-![Une page web : sur la gauche, à la verticale, un menu qui propose une barre de recherche et de nombreux filtres, sur la droite, des vignettes qui présentent des objets, meubles, tapisseries...](/img/blog/site-gobelins.jpg)_Un aperçu du site des collections du Mobilier national_
+![Une page web : sur la gauche, à la verticale, un menu qui propose une barre de recherche et de nombreux filtres, sur la droite, des vignettes qui présentent des objets, meubles, tapisseries...](img/blog/gobelins-interface-V7.jpg
+)_Un aperçu du site des collections du Mobilier national_
 
 ----
 
