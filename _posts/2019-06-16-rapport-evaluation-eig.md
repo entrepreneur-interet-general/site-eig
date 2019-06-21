@@ -59,4 +59,6 @@ Cette enquête a également permis d’identifier des **axes d'amélioration pou
 
 **En conclusion, cette enquête nous a permis d'établir que le programme EIG permet le développement d'outils qui répondent aux besoins des administrations, grâce à la coopération entre EIG et mentors et à un environnement de travail adapté. De plus, la présence des EIG participe à la transformation numérique des administrations. Le programme est également attractif, apprenant et ouvert : des perspectives d'évolution sont à l'étude pour pérenniser ses apports et son modèle de fonctionnement.**
 
+Le rapport sera présentée sous sa forme définitive à la fin juin. La démarche d'évaluation se poursuit également, avec la publication prochaine d'une analyse de différentes initiatives de recrutement similaires au programme EIG dans d'autres pays.
+
 _Si vous avez envie d'en savoir plus sur le rapport après l'avoir lu, vous pouvez contacter entrepreneur-interet-general@data.gouv.fr. Nous serons ravis d'en discuter avec vous._
