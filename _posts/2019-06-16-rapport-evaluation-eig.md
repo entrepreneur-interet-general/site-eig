@@ -7,50 +7,49 @@ description: "L'équipe de coordination du programme EIG a mené de la démarche
 ---
 ## Prendre du recul sur le programme grâce à une rétrospective
 
-Alors que la troisième promotion EIG bat son plein, l’équipe de coordination du programme mène en parallèle une [démarche d'évaluation sur le programme que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). Le présent article fait suite à la [publication en ligne des données du programme](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/09/chiffres-eig). Nous vous présentons désormais la seconde étape de cette démarche : l'enquête que nous avons menée en interne de mars à juin 2019 pour évaluer les résultats des défis et du programme.
+Le programme Entrepreneurs d'intérêt général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont dans cette démarche épaulé par des mentors qui participent à leurs bonnes ingtégrations au sein des administrations, et forment une promotion pour laquelle un programme d'accompagnement est dédié.
 
-Pour mener à bien cette enquête, nous nous sommes focalisés sur trois aspects du programme sur lesquels nous souhaitions interroger les EIG et les mentors des deux premières promotions :
+Alors que la troisième promotion EIG bat son plein, l’équipe de coordination du programme mène en parallèle une [démarche d'évaluation sur le programme que nous vous présentions la semaine dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html). 
+
+Après avoir publié les [données du programme en ligne](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/09/chiffres-eig), nous souhaitions  poursuivre cette démarche d'évaluation en enquêtant sur trois aspects clés du programme : 
 - **la capacité des défis à créer des outils répondant à des besoins du terrain, utilisés et pérennisés après le programme** ;
-- **la capacité des défis à impulser un élan de transformation numérique dans leurs administrations d’accueil, en termes d’open data, d’open source, d’utilisation de méthodes de travail agiles, centrées sur l’utilisateur** ;
+- **la capacité des défis à impulser un élan de transformation numérique dans leurs administrations d’accueil, en matière d’open data, d’open source, d’utilisation de méthodes de travail agiles, centrées sur l’utilisateur** ;
 - **le rôle joué par le programme et l’équipe de coordination dans la réussite des projets et les axes d’amélioration et d’évolution possibles**.
 
-Le rapport est divisé en trois parties, qui reprennent les axes esquissés ci-dessus.
+Nous avons opté pour une méthodologie simple pour mieux comprendre ces aspects : la diffusion de questionnaires quantitatifs et qualitatifs aux EIG et mentors des deux premières promotions du programme. Plus de 50 % des EIG et mentors contactés y ont répondu. Nous avons également illustré les conclusions de cette enquête avec des cas d’usages de défis ou de méthodes utilisées.
 
-Nous avons opté pour une méthodologie simple : la diffusion de questionnaires quantitatifs et qualitatifs aux EIG et mentors des deux premières promotions du programme. Plus de 50% des EIG et mentors contactés y ont répondu. Nous avons également illustré les conclusions de cette enquête avec des cas d’usages de défis ou de méthodes utilisées.
+Cette enquête possède certaines limites, comme le fait que nous n'avons pas pu contacter toutes les parties prenantes du programme, que cette étude ne peut pas aborder de manière exhaustive toutes les externalités liées au programme, et qu'elle a été réalisée en interne et non de manière indépendante.
+Cependant, les résultats présentent des tendances intéressantes sur l'action des EIG dans la transformation numérique de l'État et sur les parcours des EIG dans l'administration.
 
-Cette enquête possède certaines limites, comme le fait que nous n'avons pas pu contacter toutes les parties prenantes du programme, que cette étude ne peut pas aborder de manière exhaustive toutes les externalités liées au programme, et qu'elle a été réalisée en interne et non de manière indépendante. Cependant, les résultats présentent des tendances intéressantes sur l'action des EIG dans la transformation numérique de l'Etat et sur les parcours des EIG dans l'administration.
+## **[Voir le rapport *working paper* au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
 
-## **[Vous pouvez télécharger ici le rapport d'analyse, sous forme de *working paper*](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
+## Quels sont les enseignements principaux de cette enquête ?
 
-## Quels sont les enseignements principaux de cette enquête ? 
- 
-* Le programme EIG permet le développement d'outils ensuite utilisés dans les administrations lauréates, capables de répondre aux attentes des agents publics et des usagers.**Les outils créés par les EIG sont par une très large majorité déjà en production ou prévus pour l'être. Plus de 90% des mentors sont satisfaits des réalisations des EIG**.  Cela appuie également la notion de [**pérennisation des outils**](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html), qui est un enjeu crucial pour le programme, notamment car les outils sont souvent mis en production quelques mois après la fin des défis.
+**Le programme EIG permet le développement d'outils ensuite utilisés dans les administrations lauréates, capables de répondre aux attentes des agents publics et des usagers**.
 
-* On observe **un partage des rôles entre des EIG capables d’apporter des compétences techniques, un mentor opérationnel** (agent public porteur du projet) **qui transmet des connaissances sur le métier, et un mentor de haut niveau** (agent public haut placé hiérarchiquement) **procurant un appui stratégique**. Cette répartition des tâches apparaît comme primordiale pour la réussite des défis. 
+Les outils créés par les EIG sont par une très large majorité déjà en production ou prévus pour l'être. Plus de 90 % des mentors sont satisfaits des réalisations des EIG. Cela appuie également la notion de [pérennisation des outils](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html), qui est un enjeu crucial pour le programme notamment car les outils sont souvent mis en production quelques mois après la fin des défis.
 
-* La promotion de l'ouverture, par la publication des codes sources des outils produits ou l'open data, est au coeur du programme et des missions d'Etalab. **Deux tiers des EIG ont réutilisé des logiciels libres existants, et de nombreux jeux de données ont été ouverts dans le cadre des défis**. 
+**Il est important d'assurer une complémentarité entre les membres des équipes qui relèvent les défis**.
 
-* En intégrant le programme EIG, les administrations lauréates s'engagent en effet à garantir la mobilité et l'autonomie des EIG, ainsi qu'en environnement de travail adapté à des développements techniques (accès à des serveurs de stockage et de calcul, travail hors les murs, facilités pour coopérer entre différentes directions, etc.). **Près de 95% déclarent être satisfaits de l'environnement de travail offert par les administrations dans le cadre du programme**.
+On observe aussi une répartition des rôles au sein des défis entre des EIG capables d’apporter des compétences techniques, un mentor opérationnel (agent public porteur du projet) qui transmet des connaissances sur le métier, et un mentor de haut niveau (agent public haut placé hiérarchiquement) procurant un appui stratégique.
 
-* Les EIG participent à la montée en compétence des agents publics sur le numérique et d'autres thématiques telles que la gestion de projets agiles. **62% des EIG ont organisé des formations au cours de leurs défis, et 83% des mentors ont pu réutiliser ces compétences par la suite**.
+Cette répartition des rôles a d'ailleurs une autre conséquence qui ressort de cette enquête : **les échanges qui s'opèrent entre EIG et mentors ont des conséquences plus larges sur la tranformation numérique de l'administration**.
 
-* La présence des EIG permet la création d'outils annexes, qui répondent souvent à des besoins techniques constatés par les EIG sur le terrain grâce à leur immersion dans les administrations. **73% des EIG et des mentors indiquent avoir été à l’origine de la création d’outils annexes à la réalisation principale du défi**.
+Les mentors indiquent avoir déposé leurs projets dans le but d'accueillir des compétences absentes de leurs services pour développer des outils. Or on constate que la présence des EIG dans les administrations participe à bien plus que cela : création d'outils annexes, formations auprès des agents sur des notions techniques ou de gestion de projets, développement de la culture de l'ouverture.
+
+**La promotion de l'ouverture, par la publication des codes sources des outils produits ou l'*open data*, est au coeur du programme et des missions d'Etalab**.
+
+Le programme Entrepreneurs d'intérêt général est l'occasion de porter cet enjeu au coeur des administrations. Les résultats de l'enquête indiquent ainsi que deux tiers des EIG ont réutilisé des logiciels libres existants. De nombreux jeux de données ont été aussi ouverts dans le cadre des défis, comme les [bases de données d'accidentologie en mer](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/06/11/travailler-avec-des-donnees-d-exception.html) ou encore les [collections du Mobilier National](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/14/site-mobilier-national-temoignages-utilisateurs.html). De même, plus de la moitié des EIG des deux premières promotions ont fait appel à l’expertise de différents membres de l’équipe d’Etalab sur des questions techniques liées aux données ou à la géomatique.
 
 ![Capture d'écran qui présente les résultats de l'enquête sur les apports de la présence des EIG au cours des défis](https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/illustration-graphe-rapport-evaluation.png)_Graphique présentant les résultats de l'enquête sur les bénéfices de la présence des EIG dans leurs administrations._
 
-* **Les motivations exprimées pour devenir EIG résident principalement dans la capacité à agir pour l’intérêt général, l’autonomie permise par ce statut, la durée du programme et la rémunération**.
+**Il apparait important d'accompagner les Entrepreneurs tout au long de leurs défis.**
 
-* **Quant aux mentors, ils mettent en avant la possibilité de recruter des compétences rares dans leurs services, le financement tiers (qui convainc à prendre le risque de lancer des projets innovants) et le portage du programme par Etalab et la DINSIC qui lui donne une dimension interministérielle**.
+Le programme d’accompagnement des défis participe à la dimension de coopération du programme : les EIG plébiscitent notamment les sessions collectives d’accompagnement qui permettent des apprentissages en pair à pair et des échanges entre défis, ainsi que le suivi tout au long des 10 mois effectué par [l’équipe de coordination](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) et les [EIG LINK](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html).
 
-* Le **programme d’accompagnement** des défis participe à la dimension apprenante du programme : **les EIG plébiscitent notamment les sessions collectives d’accompagnement , et le suivi tout au long des 10 mois** effectué par [l’équipe de coordination](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) et les [EIG LINK](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html).
+**Cette enquête nous permet aussi de mieux comprendre les motivations à candidater pour participer au programme, ainsi que les changements de trajectoires professionnelles qu'il permet.**
 
-* **Plus de la moitié (52%) des EIG des deux premières promotions ont fait appel à l’expertise de différents membres de l’équipe d’Etalab**.
-
-* **La communauté réunie autour du programme est considérée comme bénéfique par une majorité d’EIG et de mentors**, qui notent ses apports dans la création d’un esprit de groupe, dans le partage d’expérience et l’entraide.
-
-* **Alors qu’avant le programme EIG, seuls 15% d’entre eux souhaitaient continuer à travailler dans l’administration, ils sont plus de 57% à exprimer cette volonté après leurs défis**, ce qui dénote la capacité du programme a faire évoluer les trajectoires professionnelles.
-
-Vous pouvez retrouver tous les résultats de l'enquête dans le rapport complet, disponible **[ici](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf)**.
+Les motivations exprimées pour devenir EIG résident principalement dans la capacité à agir pour l’intérêt général, l’autonomie permise par ce statut, la durée du programme et la rémunération. Leurs passages des EIG au sein des administrations a d'ailleurs des conséquences sur leurs carrières : alors qu’ils n'étaient que 15 % à souhaiter poursuivre leurs trajectoires professionnelles dans l'administration, ils sont plus de 57 % à exprimer cette volonté après leurs défis.
 
 ![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)
 
@@ -59,5 +58,7 @@ _Kim Montalibet et Cédric Malherbe, les EIG du défi DataJust, présentent leur
 Cette enquête a également permis d’identifier des **axes d'amélioration pour le programme d'accompagnement**, tels que le renforcement de la préparation des administrations avant l’arrivée des EIG, et un travail plus poussé sur la réutilisation des outils produits et des données et codes sources ouverts. **Des perspectives d'évolution** sont également à l'étude pour faire grandir et pérenniser le programme EIG.
 
 **En conclusion, cette enquête nous a permis d'établir que le programme EIG permet le développement d'outils qui répondent aux besoins des administrations, grâce à la coopération entre EIG et mentors et à un environnement de travail adapté. De plus, la présence des EIG participe à la transformation numérique des administrations. Le programme est également attractif, apprenant et ouvert : des perspectives d'évolution sont à l'étude pour pérenniser ses apports et son modèle de fonctionnement.**
+
+Le rapport sera présentée sous sa forme définitive à la fin juin. La démarche d'évaluation se poursuit également, avec la publication prochaine d'une analyse de différentes initiatives de recrutement similaires au programme EIG dans d'autres pays.
 
 _Si vous avez envie d'en savoir plus sur le rapport après l'avoir lu, vous pouvez contacter entrepreneur-interet-general@data.gouv.fr. Nous serons ravis d'en discuter avec vous._
