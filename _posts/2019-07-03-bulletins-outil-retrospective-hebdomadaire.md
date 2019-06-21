@@ -10,15 +10,13 @@ Accompagner une trentaine de professionnels du numérique au sein de 15 défis d
 
 Nous vous partageons un des moyens de communication que nous avons mis en place pour mener à bien notre mission d'accompagnement : **la rétrospective hebdomadaire**.
 
-
 ## Notre problématique : partager l'avancement de plusieurs défis
 
 L'équipe du programme EIG est en capacité de suivre l'avancement de chaque défi de manière hebdomadaire par le biais de personnes référentes, mais les autres défis non. Pour pallier cette asymétrie d'informations, nous avions besoin d'un outil qui permette de :
 
-*   partager sa rétrospective hebdomadaire de manière asynchrone ;
-*   archiver les rétrospectives ;
-*   faciliter la lecture des autres rétrospectives (les autres défis se déroulant dans d'autres administrations, ceci ne laisse la place qu'à un rapide temps d'attention).
-
+- partager sa rétrospective hebdomadaire de manière asynchrone ;
+- archiver les rétrospectives ;
+- faciliter la lecture des autres rétrospectives (les autres défis se déroulant dans d'autres administrations, ceci ne laisse la place qu'à un rapide temps d'attention).
 
 ## Alternatives envisagées
 
@@ -27,7 +25,6 @@ Pour répondre à ce besoin de circulation de l'information entre équipes, on o
 Problème : les stand-up demandent à plusieurs personnes d’interrompre leur travail respectif au même moment pour absorber des informations qui ne leur seront sans doute pas utiles au même moment. Par ailleurs, nos équipes sont dans des lieux de travail différents et n'ont pas un besoin crucial de connaître l’avancement des autres défis pour mener à bien leurs tâches. Enfin, la tenue d'une rétrospective via un outil de communication en ligne (vidéo ou conversation instantanée) ne permet pas de véritablement être asynchrone ni de proposer un archivage efficace.
 
 Il est donc crucial que l'outil soit **asynchrone, rapide à utiliser et propose une consultation rapide des rétrospectives des collègues**.
-
 
 ## Solution retenue
 
@@ -38,10 +35,7 @@ Au lieu d’interrompre le travail de tout le monde, notre outil permet à chaqu
 
 ![Formulaire web permettant de remplir sa rétrospective hebdomadaire](/img/blog/bulletins-form.png)_Capture d'écran du formulaire de la rétrospective hebdomadaire_
 
-
-
 ![Interface web permettant la consultation des précédentes rétrospectives](/img/blog/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
-
 
 ## Fonctionnement
 
