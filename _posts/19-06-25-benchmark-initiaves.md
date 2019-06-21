@@ -8,6 +8,8 @@ description: "Afin de mieux comprendre la dynamique de recrutement de compétenc
 
 Afin de poursuivre notre [démarche d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html) du programme Entrepreneurs d’intérêt général, nous nous sommes intéressés aux initiatives similaires de recrutement de compétences numériques dans les administrations qui se sont mises en place dans d’autres pays.
 
+Le programme Entrepreneurs d'intérêt général effectue des recrutements de citoyens dôtés de compétences numériques de pointe afin de relever des défis au sein d'administrations pendant 10 mois.
+
 Pour mieux comprendre l'environnement international dans lequel nous évoluons, nous avons effectué un tour d’horizon d’initiatives similaires au programme EIG, dont vous trouverez la liste ci-dessous : 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), Etats-Unis
 - [Code for America](https://www.codeforamerica.org/), Etats-Unis
@@ -50,3 +52,7 @@ D’autres enjeux sont au cœur du développement de ces initiatives : la péren
 Les participants à des programmes de recrutement sont très souvent mis en avant directement par le programme, à travers la possibilité de s’exprimer dans des articles de blog (comme le PIF avec les contributions des fellows sur le blog digital.gov), de participer à des conférences et de jouer le rôle d’ambassadeur des programmes.
 
 Des prérequis en terme de diplôme, d’expérience dans différents domaines ou de capacité au travail en équipe sont souvent nécessaires, afin que les participants soient capable de manœuvrer avec succès dans des structures administratives complexes.
+
+**Ce tour d'horizon de différentes initatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place donc dans un mouvement qui touche toutes les administrations. En optant pour un format court -10 mois- et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des cioyens motivés par des défis d'intérêt général.**
+
+ _Si vous souhaitez entrer en contact avec nous au sujet de cette enquête, vous pouvez envoyer un mail à l'adresse entrepreneur-interet-general@data.gouv.fr. Nous serons ravis d'en discuter avec vous._ 
