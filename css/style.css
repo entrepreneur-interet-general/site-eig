@@ -973,9 +973,6 @@ body.screenshot {
   padding: 50px 40px;
 }
 .modBlogPost.big .info {
-  /* font-size: 0.78571rem; */
-  /* text-transform: uppercase; */
-  letter-spacing: 3px;
   color: #333;
 }
 .modBlogPost.big h3 {
@@ -1039,6 +1036,8 @@ body.screenshot {
 .modBlogPost.no_bg .content {
   padding: 10px 0 10px;
   background: none;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .modBlogPost.no_bg.no-media .content {
