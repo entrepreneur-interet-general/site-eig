@@ -32,10 +32,16 @@ Nous n'avons pas trouvé d'outil se rapprochant de notre besoin sur le marché e
 
 Au lieu d’interrompre le travail de tout le monde, notre outil permet à chaque équipe de faire un bilan écrit de la semaine écoulée. Les rétrospectives sont saisies dans un formulaire, que chaque équipe remplit quand bon lui semble — du moment qu’elle le remplit à temps. Une fois renseignées, les rétrospectives sont ensuite agrégées dans un e-mail qui est envoyé à tout le monde, et que chacun peut lire quand bon lui semble. Les informations circulent ainsi sans nécessiter de réunion.
 
-
 ![Formulaire web permettant de remplir sa rétrospective hebdomadaire](/img/blog/bulletins-form.png)_Capture d'écran du formulaire de la rétrospective hebdomadaire_
 
 ![Interface web permettant la consultation des précédentes rétrospectives](/img/blog/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
+
+Nous avons longuement réfléchi aux questions à poser et nous nous sommes arrêtés sur les questions suivantes :
+- quelle est votre priorité de la semaine ?
+- qu'est-ce qui a fonctionné et qu'est-ce qui était plus difficile ?
+- avez-vous besoin d'aide pour surmonter une difficulté ?
+
+Ces questions vont droit au but et permettent un partage efficace d'informations tout en laissant la place aux opportunités de collaborations.
 
 ## Fonctionnement
 
@@ -48,6 +54,8 @@ Les réponses saisies dans le formulaire de l'application ne sont pas publiques.
 
 ## Un outil générique et open source
 
-La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple et efficace de suivi hebdomadaire qui correspond à notre vision. Grâce à Bulletins, nous avons réussi à impliquer une trentaine de personnes de manière hebdomadaire. L'équipe de coordination dispose désormais d'un outil précieux pour suivre l'avancement de chacun.
+La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple et efficace de suivi hebdomadaire qui correspond à notre vision. Bulletins est disponible en français ou en anglais.
 
-Des collègues de la DINSIC sont en train d'envisager d'utiliser cet outil pour leur besoin. Nous serions heureux que vous utilisez vous aussi cet outil et nous serons heureux d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
+Grâce à Bulletins, nous avons réussi à impliquer une trentaine de personnes de manière hebdomadaire. L'équipe de coordination dispose désormais d'un outil précieux pour suivre l'avancement de chacun. Nous l'utilisons en complément d'autres outils, comme la discussion instantanée, où nous commentons régulièrement les rétrospectives.
+
+Des collègues de la DINSIC sont en train d'envisager d'utiliser cet outil pour leur besoin. Nous serions heureux que vous utilisez vous aussi cet outil et nous serons ravis d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
