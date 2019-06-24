@@ -4,7 +4,7 @@ jQuery(function () {
     const selector = ".gallery-nav li a";
 
     if ($(selector).length) {
-        $("body").append($('<button class="backToTop" title="Back to top">⤒</button>'))
+        $("body").append($('<div class="backToTop" title="Back to top">⤒</div>'))
     }
 
     $(selector).click((e) => {
