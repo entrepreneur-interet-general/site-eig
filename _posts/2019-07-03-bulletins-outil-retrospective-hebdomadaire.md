@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bulletins : notre outil de rétrospective hebdomadaire"
+title: "Bulletins : notre outil open source de rétrospective hebdomadaire"
 author: Antoine Augusti, EIG Link
 twitter: AntoineAugusti
 description: "Afin de partager et de suivre l'avancement des différents défis EIG relevés par une trentaine de personnes, nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous présentons dans cet article."
