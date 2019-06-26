@@ -67,10 +67,10 @@ COLLECTION MN 19 – NÉES DES ARCHIVES est un projet initiée par Camille Gasse
 
 ---
 
-**Pascal Bertrand, professeur d’histoire de l’art spécialisé dans les tapisseries à l’université de Bordeaux Montaigne** / _Constitue des corpus originaux et documentés_
+**Pascal-François Bertrand, professeur d’histoire de l’art, spécialiste de l'histoire des tapisseries à l’université de Bordeaux Montaigne** / _Constitue des corpus originaux et documentés_
 
-« Pour un chercheur en histoire de l'art ce site répond à de nombreux besoins : il permet de voir la remarquable collection du Mobilier national, de découvrir de nouveaux objets, d'accéder à une documentation riche et bien faite, de télécharger gratuitement des images en haute définition… le tout à distance. **Grâce aux multiples filtres et à la barre de recherche, l'outil est souple d'utilisation** et me permet de manier des corpus très vastes sur l'histoire de la tapisserie. J'ai pu découvrir des pièce que je ne connaissais pas et voir plus en détail certaines pièces dont j'avais entendu parler. 
-Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de partage des connaissances : il met ce qui constitue notre patrimoine à disposition de tout le monde**. Il s'adresse aux chercheurs, mais aussi au grand public. »
+« Pour un chercheur en histoire de l'art ce site répond à de nombreux besoins : il permet de connaître la remarquable collection du Mobilier national dans son ensemble, de découvrir de nouveaux objets, d'accéder à une documentation riche et bien faite, de télécharger gratuitement des images en haute définition… le tout à distance. **Grâce aux multiples filtres et à la barre de recherche, l'outil est souple d'utilisation** et me permet de manier des corpus très vastes sur l'histoire de la tapisserie. J'ai pu découvrir des pièce que je ne connaissais pas et voir plus en détail certaines pièces dont j'avais entendu parler. 
+Par ailleurs, **ce site s'inscrit dans une démarche très contemporaine de partage des connaissances : il met ce qui constitue notre patrimoine à disposition de tout le monde**. Il s'adresse aux chercheurs, et aussi au grand public. »
 
 ## Les évolutions du projet
 
