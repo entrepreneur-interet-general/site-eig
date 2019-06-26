@@ -33,7 +33,7 @@ Cependant, les résultats présentent des tendances intéressantes sur l'action 
 
 ## Quels sont les enseignements principaux de cette enquête ?
 
-**Le programme EIG permet des développer des outils qui répondent aux attentes des agents publics et des usagers**.
+**Le programme EIG permet de développer des outils qui répondent aux attentes des agents publics et des usagers**.
 
 La majorité des défis arrive à transformer l'essai et à utiliser les 10 mois du programme pour développer des outils pérennisés après le départ des EIG. Ainsi, la grande majorité des outils créés par les EIG ont soit déjà été mis en production, soit vont l'être prochainement. A noter que les outils sont souvent mis en production quelques mois après la fin des défis, ce qui justifie l'accent mis sur [la pérennisation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html) dès le lancement de chaque promotion. 
 
