@@ -7,7 +7,7 @@ description: "Dans le cadre de la démarche d'évaluation du programme menée pa
 ---
 ## Prendre du recul sur le programme grâce à une rétrospective
 
-**Qu'est ce que le programme Entrepreneurs d'Intérêt Général ?**
+**Qu'est-ce que le programme Entrepreneurs d'Intérêt Général ?**
 
 Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [Direction interministérielle du numérique](https://numerique.gouv.fr/dinsic/).
 
@@ -64,4 +64,4 @@ En conclusion, on peut donc affirmer que les EIG contribuent bien à la transfor
 
 La démarche d'évaluation se poursuit également, avec la publication prochaine d'une analyse de différentes initiatives de recrutement similaires au programme EIG dans d'autres pays.
 
-_Si vous avez envie d'en savoir plus sur [le rapport](https://entrepreneur-interet-general.etalab.gouv.fr/docs/ProgrammeEIG-Rapport_devaluation-WorkingPaper.pdf) après l'avoir lu, vous pouvez contacter [l'équipe de coordination du programme EIG par mail](mailto:entrepreneur-interet-general@data.gouv.fr). Nous serons ravis d'en discuter avec vous._
+_Si vous avez envie d'en savoir plus sur [le rapport](https://entrepreneur-interet-general.etalab.gouv.fr/docs/Rapport-analyse-EIG.pdf) après l'avoir lu, vous pouvez contacter [l'équipe de coordination du programme EIG par mail](mailto:entrepreneur-interet-general@data.gouv.fr). Nous serons ravis d'en discuter avec vous._
