@@ -62,6 +62,6 @@ Cette enquête a également permis d’identifier des **axes d'amélioration pou
 
 En conclusion, on peut donc affirmer que les EIG contribuent bien à la transformation numérique de l'administration grâce aux outils qu'ils développent et à la culture qu'ils diffusent, avec le soutien de la communauté EIG. Cependant, et nous ne l'avions pas anticipé : l'administration les transforme aussi.
 
-La démarche d'évaluation se poursuit également, avec la publication prochaine d'une analyse de différentes initiatives de recrutement similaires au programme EIG dans d'autres pays.
+La démarche d'évaluation se poursuit avec la publication prochaine d'une analyse de différentes initiatives de recrutement similaires au programme EIG dans d'autres pays.
 
 _Si vous avez envie d'en savoir plus sur [le rapport](https://entrepreneur-interet-general.etalab.gouv.fr/docs/Rapport-analyse-EIG.pdf) après l'avoir lu, vous pouvez contacter [l'équipe de coordination du programme EIG par mail](mailto:entrepreneur-interet-general@data.gouv.fr). Nous serons ravis d'en discuter avec vous._
