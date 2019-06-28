@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Le design de service dans l'administration - l'exemple du projet ACOSS-plateforme"
+title: "Comment faire du design de service dans l'administration ? L'exemple du projet ACOSS-plateforme"
 author: Coline Lebaratoux, EIG
 twitter: colinelbx
-description: "Il y a 5 mois, Coline Lebaratoux intégrait l'Acoss en tant qu'entrepreneure d'intérêt général designer de service. Sa mission, appliquer les méthode du design de service aux démarches des particuliers qui ont recours à l'emploi à domicile. Comment a-t- ?"
+description: "Il y a 5 mois, Coline Lebaratoux intégrait l'Acoss en tant qu'entrepreneure d'intérêt général designer de service. Sa mission, appliquer les méthode du design de service aux démarches des particuliers qui ont recours à l'emploi à domicile. Voici comment elle a mis en oeuvre la première étape de tout projet de design : la recherche utilisateur."
 ---
  
-[Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, leur mission est de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
+[Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
 
-Qu'est-ce que le design de services et comment a-t-elle mis en oeuvre cette démarche ? 
+**Qu'est-ce que le design de services ? Quels sont les outils et méthodes que Coline a mis en oeuvre à l'Acoss et pourquoi ?**
 
 
 ### Qu'est-ce qu'un designer de services ? 
@@ -69,6 +69,8 @@ A la fin de la phase de recherche utilisateurs, nous avons convié les équipes 
 
 **J’ai ensuite orchestré ces idées sous la forme d’une expérience utilisateur cible.** Un support visuel qui permet de rendre tangible une ambition de service et d’être en mesure de la présenter auprès des différentes parties prenantes. 
 Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressivement aux contraintes techniques et aux enjeux ds différents acteurs. Cette étape est périlleuse pour l’expérience utilisateur, qui prend le risque d’être dégradée à chaque difficulté. Le rôle d’« avocat de l’utilisateur » prend alors toute son importance.
+
+![On voit le coin d'une pièce dont les deux murs sont couverts de grandes feuilles de papier blanches. Dessus, des schémas et des post-its de couleurs. Devant le pan de droite se tiennent deux hommes : l'un est de face et pointe quelque chose du doigt sur la feuille blanche derrière lui, l'autre est de dos et l'écoute.](/img/blog/ux-mvp.jpg)_Discussion à la fois sur le parcours et les détails techniques de l'expérience utilisateur cible_
 
 ### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
 
