@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comment faire du design de service dans l'administration ? L'exemple du projet ACOSS-plateforme"
+title: "Comment faire du design de services dans l'administration ? L'exemple du projet ACOSS-plateforme"
 author: Coline Lebaratoux, EIG
 twitter: colinelbx
 description: "Il y a 4 mois, Coline Lebaratoux intégrait l'ACOSS en tant qu'entrepreneure d'intérêt général designer de service. Sa mission, appliquer les méthode du design de service aux démarches des particuliers qui ont recours à l'emploi à domicile. Voici comment elle a mis en oeuvre la première étape de tout projet de design : la recherche utilisateur."
