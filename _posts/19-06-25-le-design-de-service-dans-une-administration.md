@@ -18,6 +18,7 @@ En d’autres termes, en tant que designer, j’observe, j’analyse, je décort
 
 Cette approche « centrée utilisateur » est encore peu répandue dans l’administration publique, qui, comme dans beaucoup d’autres secteurs, a tendance à commencer par poser la solution technique avant celle de l’usage. Le design de services propose tout simplement l’inverse : **remettre au premier plan l’humain dans la conception d’un service**. C’est un véritable changement de paradigme dans les modes projets. 
 
+![Un groupe de personnes se tient devant une grande page blanche accrochée au mur. Sur cette page blanche, différents niveaux avec du texte, des images, des courbes, des post-its... Une jeune femme pointe du doigt quelque chose sur cette page blanche.](/img/blog/atelier-ux-map.jpg)_Atelier de restitution de la recherche utilisateur en présence des différents départements de l'ACOSS et des centres Pajemploi et CESU_
 
 ### Comment as-tu mis en oeuvre cette approche au sein de l’ACOSS ? 
 
@@ -48,7 +49,7 @@ C’est une phase exploratoire qui demande certes un investissement de temps au 
 
 **Le second outil clé du design de service, c’est le parcours utilisateur, aussi appelée “Customer journey” ou “experience map”.** 
 
-![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/blog/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
+![A gauche de la photo, une jeune femme de trois-quarts désigne un point sur une grande feuille blanche avec des post-its de couleurs, des dessins et des textes.](/img/blog/detail-atelier-ux-map.jpg)_Coline présente l'experience map de Beatrice, aidante de Colette, employeur d’une aide à domicile (CESU)_
 
 C’est une cartographie, qui permet d’analyser une expérience utilisateur en répertoriant sur un même support : 
 - les étapes : on détaille chaque étape de l’expérience utilisateur en couvrant les différentes phases de l’expérience : avant, pendant et après l'utilisation du service ;
@@ -60,17 +61,15 @@ C’est une cartographie, qui permet d’analyser une expérience utilisateur en
 **Grâce à ce support, on peut analyser finement l’expérience de l’usager en se penchant sur chaque détail de son parcours.** On cherche à identifier les besoins qui ne sont pas encore adressés ou les passerelles manquantes entre les organismes, qui sont à l’origines de “ruptures d’expérience”. Notre attention se porte également sur les détournements d’usage et pratiques créatives des usagers, qui représentent souvent une grande source d’inspiration. 
 C’est cette analyse fine qui permettra de répondre aux besoins des usagers, de déterminer la combinaison optimale des points de contact et de concevoir une expérience “sans couture” dans l'enchaînement de ses différentes étapes. 
 
+![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/blog/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
 
 ### Comment passer ensuite de la recherche à l’action ? 
 
 A la fin de la phase de recherche utilisateurs, nous avons convié les équipes des différents départements concernés à une journée d’atelier. **L’objectif : partager le diagnostic, en débattre collectivement puis faire émerger des pistes de solutions à mettre en place.** Lors de cet atelier, la consigne donnée aux équipes était de se détacher au maximum des contraintes du service, de l’offre actuelle, de s’inspirer des meilleures pratiques pour imaginer un service idéal. C’est cet atelier qui a marqué le début du passage à l’action puisque nous sommes repartis avec une centaine de nouvelles idées permettant d’améliorer l’expérience de usagers.
 
-![Un groupe de personnes se tient devant une grande page blanche accrochée au mur. Sur cette page blanche, différents niveaux avec du texte, des images, des courbes, des post-its... Une jeune femme pointe du doigt quelque chose sur cette page blanche.](/img/blog/atelier-ux-map.jpg)_Atelier de restitution en présence des différents services sollicités lors de la recherche utilisateur_
-
 **J’ai ensuite orchestré ces idées sous la forme d’une expérience utilisateur cible.** Un support visuel qui permet de rendre tangible une ambition de service et d’être en mesure de la présenter auprès des différentes parties prenantes. 
 Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressivement aux contraintes techniques et aux enjeux ds différents acteurs. Cette étape est périlleuse pour l’expérience utilisateur, qui prend le risque d’être dégradée à chaque difficulté. Le rôle d’« avocat de l’utilisateur » prend alors toute son importance.
 
-![On voit le coin d'une pièce dont les deux murs sont couverts de grandes feuilles de papier blanches. Dessus, des schémas et des post-its de couleurs. Devant le pan de droite se tiennent deux hommes : l'un est de face et pointe quelque chose du doigt sur la feuille blanche derrière lui, l'autre est de dos et l'écoute.](/img/blog/ux-mvp.jpg)_Discussion à la fois sur le parcours et les détails techniques de l'expérience utilisateur cible_
 
 ### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
 
@@ -82,3 +81,5 @@ Le mode projet actuel ne permet pas au designer de mettre à profit sa réelle v
 
 C’est ce qu’on a la chance d’expérimenter grâce au programme EIG. On a la possibilité de casser les silos historiques MOE/MOA, on teste une équipe projet allégée, on remplace l’expression des besoins par un customer journey, les cahiers des charges fonctionnels par des prototypes papiers et des user stories, on intègre les usagers dans des cycles itératifs de conception… c’est un changement de culture !
 Au delà de notre projet de simplification des démarches de l’emploi à domicile, l’ambition est de réaliser un projet démonstrateur d’un nouveau processus de conception au plus proche des besoins des usagers. 
+
+![On voit le coin d'une pièce dont les deux murs sont couverts de grandes feuilles de papier blanches. Dessus, des schémas et des post-its de couleurs. Devant le pan de droite se tiennent deux hommes : l'un est de face et pointe quelque chose du doigt sur la feuille blanche derrière lui, l'autre est de dos et l'écoute.](/img/blog/ux-mvp.jpg)_Co-construction des prototypes papiers et de l'architecture technique de la solution avec les équipes Pajemploi (de face, Anoureth, le binôme développeur de Coline)_
