@@ -11,7 +11,7 @@ description: "Il y a 4 mois, Coline Lebaratoux intégrait l'ACOSS en tant qu'ent
 **Après 4 mois passés au sein de l’ACOSS, Coline revient sur la première étape de son projet : la recherche utilisateur.**
 
 
-### Pour commencer, qu'est-ce qu'un designer de services ? 
+#### Pour commencer, qu'est-ce qu'un designer de services ? 
 
 **Un designer de services aide les organisations à concevoir leurs offres de services en partant des besoins des usagers** pour être en mesure de leur offrir l’expérience la plus simple, fluide et harmonieuse possible. Pour cela, il intervient dès la phase la plus en amont du projet pour pouvoir donner une orientation “centrée utilisateur” au cahier des charges. 
 En d’autres termes, en tant que designer, j’observe, j’analyse, je décortique un service à la recherche des points de friction rencontrés par les usagers. Puis, dans un second temps, j’imagine la solution la plus optimale pour les résoudre.
