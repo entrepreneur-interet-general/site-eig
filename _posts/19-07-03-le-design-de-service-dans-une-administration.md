@@ -58,7 +58,7 @@ C’est une cartographie, qui permet d’analyser une expérience utilisateur en
 - les +/- : on identifie les irritants et points d’émerveillements que l’on hiérarchise et matérialise sur une courbe d’émotion ;
 - les problématiques : enfin, on formule des problématiques nées des besoins des utilisateurs sous une forme ouverte de type : “Comment pourrions nous… ?”.
 
-**Grâce à ce support, on peut analyser finement l’expérience de l’usager en se penchant sur chaque détail de son parcours.** On cherche à identifier les besoins qui ne sont pas encore adressés ou les passerelles manquantes entre les organismes, qui sont à l’origines de “ruptures d’expérience”. Notre attention se porte également sur les détournements d’usage et pratiques créatives des usagers, qui représentent souvent une grande source d’inspiration. 
+**Grâce à ce support, on peut analyser finement l’expérience de l’usager en se penchant sur chaque détail de son parcours.** On cherche à identifier les besoins qui ne sont pas encore adressés ou les passerelles manquantes entre les organismes, qui sont à l’origine de “ruptures d’expérience”. Notre attention se porte également sur les détournements d’usage et pratiques créatives des usagers, qui représentent souvent une grande source d’inspiration. 
 C’est cette analyse fine qui permettra de répondre aux besoins des usagers, de déterminer la combinaison optimale des points de contact et de concevoir une expérience “sans couture” dans l'enchaînement de ses différentes étapes. 
 
 ![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/blog/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
@@ -68,7 +68,7 @@ C’est cette analyse fine qui permettra de répondre aux besoins des usagers, d
 A la fin de la phase de recherche utilisateurs, nous avons convié les équipes des différents départements concernés à une journée d’atelier. **L’objectif : partager le diagnostic, en débattre collectivement puis faire émerger des pistes de solutions à mettre en place.** Lors de cet atelier, la consigne donnée aux équipes était de se détacher au maximum des contraintes du service, de l’offre actuelle, de s’inspirer des meilleures pratiques pour imaginer un service idéal. C’est cet atelier qui a marqué le début du passage à l’action puisque nous sommes repartis avec une centaine de nouvelles idées permettant d’améliorer l’expérience de usagers.
 
 **J’ai ensuite orchestré ces idées sous la forme d’une expérience utilisateur cible.** Un support visuel qui permet de rendre tangible une ambition de service et d’être en mesure de la présenter auprès des différentes parties prenantes. 
-Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressivement aux contraintes techniques et aux enjeux ds différents acteurs. Cette étape est périlleuse pour l’expérience utilisateur, qui prend le risque d’être dégradée à chaque difficulté. Le rôle d’« avocat de l’utilisateur » prend alors toute son importance.
+Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressivement aux contraintes techniques et aux enjeux des différents acteurs. Cette étape est périlleuse pour l’expérience utilisateur, qui prend le risque d’être dégradée à chaque difficulté. Le rôle d’« avocat de l’utilisateur » prend alors toute son importance.
 
 
 #### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
