@@ -20,7 +20,7 @@ Cette approche « centrée utilisateur » est encore peu répandue dans l’admi
 
 ![Un groupe de personnes se tient devant une grande page blanche accrochée au mur. Sur cette page blanche, différents niveaux avec du texte, des images, des courbes, des post-its... Une jeune femme pointe du doigt quelque chose sur cette page blanche.](/img/blog/atelier-ux-map.jpg)_Atelier de restitution de la recherche utilisateur en présence des différents départements de l'ACOSS et des centres Pajemploi et CESU_
 
-### Comment as-tu mis en oeuvre cette approche au sein de l’ACOSS ? 
+#### Comment as-tu mis en oeuvre cette approche au sein de l’ACOSS ? 
 
 L'ACOSS souhaite simplifier les démarches des particuliers qui ont recours à l'emploi à domicile. A notre arrivée, une solution était déjà envisagée : construire une API pour faciliter la transmission des informations entre les différents organismes et ainsi diminuer les saisies redondantes des utilisateurs. Mais le risque d'aller trop vite dans la solution technique, c’est de passer à côté de la réelle problématique d’usage et d’occulter les différentes manières de l’aborder. 
 
@@ -28,13 +28,13 @@ L'ACOSS souhaite simplifier les démarches des particuliers qui ont recours à l
 Mes mentors ayant pour volonté d’expérimenter l’approche du Design thinking comme levier de transformation du mode de gestion de projet interne, ils ont naturellement joué le jeu.
 
 
-### En quoi consiste la recherche utilisateur? 
+#### En quoi consiste la recherche utilisateur? 
 
 **Cela consiste à effectuer un diagnostic global de l’expérience des usagers, en extraire les irritants pour identifier les problématiques clés d’amélioration du service.** 
 C’est une phase exploratoire qui demande certes un investissement de temps au démarrage mais qui permet de sécuriser le projet et de faire un pas de géant en termes de qualité de service.
 
 
-### Concrètement, comment se déroule une phase de recherche utilisateur ?
+#### Concrètement, comment se déroule une phase de recherche utilisateur ?
 
 **Notre première étape a été de nous immerger au sein des différents services.** Nous avons échangé avec les collaborateurs, découvert leurs projets et ambitions, collecté leur perception de la relation de services aux usagers mais aussi les difficultés rencontrées au quotidien. Une première étape clé qui permet de s’imprégner du contexte et d’être au plus près des enjeux des différents acteurs. 
 
@@ -43,7 +43,7 @@ C’est une phase exploratoire qui demande certes un investissement de temps au 
 À l’issue de cette phase de recherche, nous sommes ressortis avec des montagnes de post-its, de photos, de documents de prises de notes et de verbatims. **L'enjeu est alors d’analyser cette information mais également de la rendre visible pour favoriser le partage avec les équipes.** 
 
 
-### Quels sont les outils privilégiés pour analyser et matérialiser toutes les informations récoltées pendant la recherche utilisateur ? 
+#### Quels sont les outils privilégiés pour analyser et matérialiser toutes les informations récoltées pendant la recherche utilisateur ? 
 
 **J’utilise souvent l’outil du persona pour synthétiser les comportements.** Ce sont des usagers fictifs que l’on dote d’une personnalité, d’un visage, d’une histoire. On caractérise leurs différents usages du service, leurs objectifs et attentes. Cet outil permet de construire des solutions sur la base de cas d’usages concrets et de conserver continuellement un regard centré sur les usagers. Ainsi, sur notre projet, plutôt que de parler du process de fin de contrat pour les seniors on se demandera : “Comment aider Colette, 84 ans, qui n’a pas internet chez elle, à effectuer ses démarches de fin de contrat avec Maria, son aide ménagère”. C’est essentiel pour redonner sa dimension humaine au projet. 
 
@@ -63,7 +63,7 @@ C’est cette analyse fine qui permettra de répondre aux besoins des usagers, d
 
 ![Une grande page blanche présente plusieurs niveaux avec du texte, des images, des courbes, des post-its...](/img/blog/ux-map-christophe.jpg)_Expérience map de Christophe, parent employeur d’une assistante maternelle (Pajemploi)_
 
-### Comment passer ensuite de la recherche à l’action ? 
+#### Comment passer ensuite de la recherche à l’action ? 
 
 A la fin de la phase de recherche utilisateurs, nous avons convié les équipes des différents départements concernés à une journée d’atelier. **L’objectif : partager le diagnostic, en débattre collectivement puis faire émerger des pistes de solutions à mettre en place.** Lors de cet atelier, la consigne donnée aux équipes était de se détacher au maximum des contraintes du service, de l’offre actuelle, de s’inspirer des meilleures pratiques pour imaginer un service idéal. C’est cet atelier qui a marqué le début du passage à l’action puisque nous sommes repartis avec une centaine de nouvelles idées permettant d’améliorer l’expérience de usagers.
 
@@ -71,7 +71,7 @@ A la fin de la phase de recherche utilisateurs, nous avons convié les équipes 
 Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressivement aux contraintes techniques et aux enjeux ds différents acteurs. Cette étape est périlleuse pour l’expérience utilisateur, qui prend le risque d’être dégradée à chaque difficulté. Le rôle d’« avocat de l’utilisateur » prend alors toute son importance.
 
 
-### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
+#### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
 
 J’ai intégré une administration dans laquelle le design est un métier relativement nouveau. On compte 4 designers pour plus de 10 000 collaborateurs à l’ACOSS. 
 Dans ce contexte naissant, le rôle du designer est encore confus pour les équipes et son potentiel n’est pas encore pleinement exploité : une sollicitation trop tardive dans le projet, des tâches “décoratives”, un brief non détaillé limitant le designer au rôle d'exécutant. 
