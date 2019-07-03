@@ -8,10 +8,10 @@ description: "Il y a 5 mois, Coline Lebaratoux intégrait l'Acoss en tant qu'ent
  
 [Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
 
-**Qu'est-ce que le design de services ? Quels sont les outils et méthodes que Coline a mis en oeuvre à l'Acoss et pourquoi ?**
+**Après 4 mois passés au sein de l’ACOSS, Coline revient sur la première étape de son projet : la recherche utilisateur.**
 
 
-### Qu'est-ce qu'un designer de services ? 
+### Pour commencer, qu'est-ce qu'un designer de services ? 
 
 **Un designer de services aide les organisations à concevoir leurs offres de services en partant des besoins des usagers** pour être en mesure de leur offrir l’expérience la plus simple, fluide et harmonieuse possible. Pour cela, il intervient dès la phase la plus en amont du projet pour pouvoir donner une orientation “centrée utilisateur” au cahier des charges. 
 En d’autres termes, en tant que designer, j’observe, j’analyse, je décortique un service à la recherche des points de friction rencontrés par les usagers. Puis, dans un second temps, j’imagine la solution la plus optimale pour les résoudre.
@@ -23,7 +23,7 @@ Cette approche « centrée utilisateur » est encore peu répandue dans l’admi
 
 L'ACOSS souhaite simplifier les démarches des particuliers qui ont recours à l'emploi à domicile. A notre arrivée, une solution était déjà envisagée : construire une API pour faciliter la transmission des informations entre les différents organismes et ainsi diminuer les saisies redondantes des utilisateurs. Mais le risque d'aller trop vite dans la solution technique, c’est de passer à côté de la réelle problématique d’usage et d’occulter les différentes manières de l’aborder. 
 
-**En démarrage de projet, le - mauvais - rôle du designer est donc de poser la question naïve du « pourquoi ? ».**  Une question pas toujours confortable car elle nous oblige souvent à faire un pas en arrière pour s’assurer que notre projet est porteur de sens. A ce titre, j’ai suggéré à nos mentors de mettre temporiser la construction de l’API, le design d’écrans et les développements pour démarrer par une phase de recherche utilisateur. 
+**En démarrage de projet, le - mauvais - rôle du designer est donc de poser la question naïve du « pourquoi ? ».**  Une question pas toujours confortable car elle nous oblige souvent à faire un pas en arrière pour s’assurer que notre projet est porteur de sens. A ce titre, j’ai suggéré à nos mentors de temporiser la construction de l’API, le design d’écrans et les développements pour démarrer par une phase de recherche utilisateur. 
 Mes mentors ayant pour volonté d’expérimenter l’approche du Design thinking comme levier de transformation du mode de gestion de projet interne, ils ont naturellement joué le jeu.
 
 
@@ -74,7 +74,7 @@ Aujourd’hui, nous faisons évoluer l’expérience en la confrontant progressi
 
 ### Pour conclure, selon toi comment réussir l’intégration de la compétence design au sein d’une administration ? 
 
-J’ai intégré une administration dans laquelle le design est un métier relativement nouveau. On compte 3 designers pour +10 000 collaborateurs à l’ACOSS. 
+J’ai intégré une administration dans laquelle le design est un métier relativement nouveau. On compte 4 designers pour plus de 10 000 collaborateurs à l’ACOSS. 
 Dans ce contexte naissant, le rôle du designer est encore confus pour les équipes et son potentiel n’est pas encore pleinement exploité : une sollicitation trop tardive dans le projet, des tâches “décoratives”, un brief non détaillé limitant le designer au rôle d'exécutant. 
 Le mode projet actuel ne permet pas au designer de mettre à profit sa réelle valeur stratégique au sein d’un projet. 
 
