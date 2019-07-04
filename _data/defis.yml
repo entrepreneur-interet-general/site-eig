@@ -169,6 +169,8 @@
   duration_months: 10
   administration: Ministère de l’Intérieur et Agence nationale du traitement automatisé des infractions (ANTAI)
   administration_website: https://www.antai.gouv.fr/
+  source_code: https://github.com/ia-flash
+  website: https://iaflash.fr
   eigs:
     - "Victor Journé"
     - "Cristian Perez Brokate"
