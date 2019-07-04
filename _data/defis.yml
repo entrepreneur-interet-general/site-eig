@@ -251,6 +251,27 @@
   mentors:
     - "Philéas Condemine"
     - "Stéphanie Combes"
+  projects:
+    - image: img/realisations/2019/documentation-collaborative-snds.PNG
+      title: "Documentation collaborative du SNDS"
+      description: "Nous avons mis en place une documentation collaborative sur le Système National des Données de Santé. Ce site a vocation à être alimenté par tout sachant sur le SNDS."
+      url: https://documentation-snds.health-data-hub.fr/
+      call_to_action: "Visiter la documentation"
+    - image: img/realisations/2019/dictionnaire-interactif-snds.PNG
+      title: "Dictionnaire interactif du SNDS"
+      description: "Nous avons contribué et rendu disponible en Open Source ce dictionnaire interactif développé par des membres de la DREES."
+      url: https://drees.shinyapps.io/dico-snds/
+      call_to_action: "Découvrir le dico SNDS"
+    - image: img/realisations/2019/groupe-meetup-health-data-hub.PNG
+      title: "Groupe Meetup Health Data Hub"
+      description: "En collaboration avec l'Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d'organiser des rencontres informelles au sujet du SNDS"
+      url: https://www.meetup.com/fr-FR/Health-Data-Hub/
+      call_to_action: "S'inscrire au groupe Meetup"
+    - image: img/realisations/2019/forum-entraide-health-data-hub.PNG
+      title: "Forum d'entraide sur le SNDS"
+      description: "Ce forum d'entraide permet aux différents utilisateurs du SNDS d'échanger des informations."
+      url: https://entraide.health-data-hub.fr/
+      call_to_action: "Participer aux échanges"
 
 "Open Justice":
   image: /img/logo-open-justice.png
