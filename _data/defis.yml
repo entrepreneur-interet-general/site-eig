@@ -271,7 +271,6 @@
     - "Valentin Barrière"
   mentors:
     - "Edouard Rottier"
-    
   key_figures:
     -
       amount: 00
@@ -285,7 +284,6 @@
       -
       amount: 00
       description: "decisions traitées en plus par jour grâce au modèle mathématique"
-      
   projects:
     -
       image: img/realisations/2018/carte-snosan.png
