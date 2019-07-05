@@ -3,7 +3,7 @@ layout: post
 title: "Bulletins : notre outil open source de rétrospective hebdomadaire"
 author: Antoine Augusti, EIG Link
 twitter: AntoineAugusti
-description: "Afin de partager et de suivre l'avancement des différents défis EIG relevés par une trentaine de personnes, nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous présentons dans cet article."
+description: "Afin de partager et de suivre l'avancement des différents défis relevés par une trentaine de personnes au sein du programme Entrepreneurs d'Intérêt Général, nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous présentons dans cet article."
 ---
 
 Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux :c'est la mission que relève au quotidien l'équipe du programme Entrepreneurs d'Intérêt Général (EIG). Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.
