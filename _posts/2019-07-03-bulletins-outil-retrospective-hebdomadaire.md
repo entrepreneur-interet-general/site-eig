@@ -6,7 +6,7 @@ twitter: AntoineAugusti
 description: "Afin de partager et de suivre l'avancement des différents défis EIG relevés par une trentaine de personnes, nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous présentons dans cet article."
 ---
 
-Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux. C'est la mission que relève au quotidien l'équipe du programme EIG. Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de défi, évaluation, communication par exemple.
+Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux :c'est la mission que relève au quotidien l'équipe du programme Entrepreneurs d'Intérêt Général (EIG). Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.
 
 Nous vous partageons un des moyens de communication que nous avons mis en place pour mener à bien notre mission d'accompagnement : **la rétrospective hebdomadaire**.
 
@@ -16,7 +16,7 @@ L'équipe du programme EIG est en capacité de suivre l'avancement de chaque dé
 
 - partager sa rétrospective hebdomadaire de manière asynchrone ;
 - archiver les rétrospectives ;
-- faciliter la lecture des autres rétrospectives (les autres défis se déroulant dans d'autres administrations, ceci ne laisse la place qu'à un rapide temps d'attention).
+- faciliter la lecture des autres rétrospectives (les autres défis se déroulant dans d'autres administrations, ceci ne laisse la place qu'à un court temps d'attention).
 
 ## Alternatives envisagées
 
@@ -24,7 +24,7 @@ Pour répondre à ce besoin de circulation de l'information entre équipes, on o
 
 Problème : les stand-up demandent à plusieurs personnes d’interrompre leur travail respectif au même moment pour absorber des informations qui ne leur seront sans doute pas utiles au même moment. Par ailleurs, nos équipes sont dans des lieux de travail différents et n'ont pas un besoin crucial de connaître l’avancement des autres défis pour mener à bien leurs tâches. Enfin, la tenue d'une rétrospective via un outil de communication en ligne (vidéo ou conversation instantanée) ne permet pas de véritablement être asynchrone ni de proposer un archivage efficace.
 
-Il est donc crucial que l'outil soit **asynchrone, rapide à utiliser et propose une consultation rapide des rétrospectives des collègues**.
+Il était donc crucial que l'outil soit **asynchrone, rapide à utiliser et qu'il propose une consultation rapide des rétrospectives des collègues**.
 
 ## Solution retenue
 
@@ -37,7 +37,7 @@ Au lieu d’interrompre le travail de tout le monde, notre outil permet à chaqu
 ![Interface web permettant la consultation des précédentes rétrospectives](/img/blog/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
 
 Nous avons longuement réfléchi aux questions à poser et nous nous sommes arrêtés sur les questions suivantes :
-- quelle est votre priorité de la semaine ?
+- quelle a été votre priorité de la semaine ?
 - qu'est-ce qui a fonctionné et qu'est-ce qui était plus difficile ?
 - avez-vous besoin d'aide pour surmonter une difficulté ?
 
@@ -54,8 +54,8 @@ Les réponses saisies dans le formulaire de l'application ne sont pas publiques.
 
 ## Un outil générique et open source
 
-La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple et efficace de suivi hebdomadaire qui correspond à notre vision. Bulletins est disponible en français ou en anglais.
+La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple, efficace de suivi hebdomadaire et qui correspond à notre vision. 
 
 Grâce à Bulletins, nous avons réussi à impliquer une trentaine de personnes de manière hebdomadaire. L'équipe de coordination dispose désormais d'un outil précieux pour suivre l'avancement de chacun. Nous l'utilisons en complément d'autres outils, comme la discussion instantanée, où nous commentons régulièrement les rétrospectives.
 
-Des collègues de la DINSIC sont en train d'envisager d'utiliser cet outil pour leur besoin. Nous serions heureux que vous utilisez vous aussi cet outil et nous serons ravis d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
+Des collègues de la DINSIC sont en train d'envisager l'utilisation de cet outil ; nous serions heureux que vous en fassiez de même. Bulletins est open source et disponible en français ou en anglais pour démultiplier le potentiel d'utilisation. Si vous avez des questions, nous serons ravis d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
