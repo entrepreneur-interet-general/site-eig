@@ -302,7 +302,6 @@
   class: 2019 data web
   skills: EIG 3 // Data // Web
   colorback: red
-  description: Améliorer la confiance des consommateurs en détectant des faux avis
   year: 2019
   promotion: 3
   duration_months: 10
@@ -314,6 +313,11 @@
     - "Luc Salommez"
   mentors:
     - "Audrey Istace"
+  key_figures:
+    - amount: 30000000
+      description: "avis analysés"
+    - amount: 14
+      description: "indicateurs calculés"
 
 "Archifiltre":
   image: /img/defis/9_ARCHEMSE.png
