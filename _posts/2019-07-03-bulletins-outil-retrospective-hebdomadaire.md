@@ -37,6 +37,7 @@ Au lieu d’interrompre le travail de tout le monde, notre outil permet à chaqu
 ![Interface web permettant la consultation des précédentes rétrospectives](/img/blog/bulletins-history.png)_Capture d'écran de la consultation des précédentes rétrospectives d'un projet_
 
 Nous avons longuement réfléchi aux questions à poser et nous nous sommes arrêtés sur les questions suivantes :
+- quel est votre état d'esprit ?
 - quelle a été votre priorité de la semaine ?
 - qu'est-ce qui a fonctionné et qu'est-ce qui était plus difficile ?
 - avez-vous besoin d'aide pour surmonter une difficulté ?
@@ -58,4 +59,4 @@ La problématique de partage d'informations entre équipes ou projets est récur
 
 Grâce à Bulletins, nous avons réussi à impliquer une trentaine de personnes de manière hebdomadaire. L'équipe de coordination dispose désormais d'un outil précieux pour suivre l'avancement de chacun. Nous l'utilisons en complément d'autres outils, comme la discussion instantanée, où nous commentons régulièrement les rétrospectives.
 
-Des collègues de la DINSIC sont en train d'envisager l'utilisation de cet outil ; nous serions heureux que vous en fassiez de même. Bulletins est open source et disponible en français ou en anglais pour démultiplier le potentiel d'utilisation. Si vous avez des questions, nous serons ravis d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
+Des collègues de la DINSIC sont en train d'envisager l'utilisation de cet outil ; nous serions heureux que vous en fassiez de même. Bulletins est open source et disponible en français ou en anglais pour démultiplier le potentiel d'utilisation. Vous pouvez consulter [sa documentation en ligne](https://bulletins.eig-forever.org). Si vous avez des questions, nous serons ravis d'échanger avec vous [sur GitHub](https://github.com/entrepreneur-interet-general/bulletins) ou par e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>.
