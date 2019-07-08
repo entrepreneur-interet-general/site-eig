@@ -245,6 +245,7 @@
   duration_months: 10
   administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
+  source_code: https://gitlab.com/healthdatahub
   eigs:
     - "Pierre-Alain Jachiet"
     - "Viktor Jarry"
