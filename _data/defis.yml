@@ -259,12 +259,12 @@
       call_to_action: "Visiter la documentation"
     - image: img/realisations/2019/dictionnaire-interactif-snds.png
       title: "Dictionnaire interactif du SNDS"
-      description: "Nous avons contribué et rendu disponible en Open Source ce dictionnaire développé par des membres de la DREES contenant des informations sur les tables et variables du SNDS ."
+      description: "Nous avons contribué et rendu disponible en Open Source ce dictionnaire développé par des membres de la DREES contenant des informations sur les tables et variables du SNDS."
       url: https://drees.shinyapps.io/dico-snds/
       call_to_action: "Découvrir le dico SNDS"
     - image: img/realisations/2019/groupe-meetup-health-data-hub.png
       title: "Groupe Meetup Health Data Hub"
-      description: "En collaboration avec l'Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d'organiser des rencontres informelles au sujet du SNDS"
+      description: "En collaboration avec l'Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d'organiser des rencontres informelles au sujet du SNDS."
       url: https://www.meetup.com/fr-FR/Health-Data-Hub/
       call_to_action: "S'inscrire au groupe Meetup"
 
