@@ -18,9 +18,9 @@ Nous nous sommes intéressés aux initiatives suivantes :
 - [Prototype Fund](https://prototypefund.de/), Allemagne
 La liste des initiatives utilisées pour effectuer cette analyse n’est pas exhaustive, mais elle permet de déceler certaines tendances de fond qui nous paraissent utiles pour mieux comprendre notre environnement et pour constater nos points de convergence.
 
-Voir le tour d’horizon complet [au format PDF](/docs/Tour d'horizon des initiatives de recrutements de compétences numériques.pdf).
+**Voir le tour d’horizon complet [au format PDF](http://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)**
 
-![Icônes des différentes initiatives évoquées dans l'articles](img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
+![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
 ## Quels sont les enseignements que nous retirons de cette analyse ? 
 
@@ -34,6 +34,7 @@ Les financements peuvent provenir de fonds publics mais aussi de fonds privés q
 ### Ces programmes font face à des problématiques communes, comme l'attractivité et la capacité à mesurer leurs résultats
 
 Une attention particulière est portée par ces initiatives sur les conditions de travail, la rémunération et la capacité d’action importante offertes aux personnes recrutées. Cela entre dans une réflexion plus large sur l’attractivité de ces programmes, qui sont en concurrence avec des acteurs privés du numérique qui recherchent également ces compétences très prisées. Cette concurrence est d’autant plus importante que des prérequis en terme de diplôme, d’expérience dans différents domaines ou de capacité au travail en équipe sont souvent demandés, afin que les participants soient capable de manœuvrer avec succès dans des structures administratives complexes.
+
 L’attractivité de ces initiatives passe aussi par une mise en avant des recrues qui ont la possibilité de s’exprimer dans des articles de blog (comme le PIF avec les contributions des fellows sur le blog [digital.gov](https://digital.gov/)), de participer à des conférences et de jouer le rôle d’ambassadeur des programmes.
 La production de livrables et la « mesurabilité » des résultats des travaux entrepris par ces recrues est une problématique commune. Ces initiatives mobilisent des budgets conséquents, d’où l’importance de prouver – notamment via des données ou des indicateurs chiffrés (comme le font notamment les projets de Code For America, par exemple l'initiative [GetCalFresh](https://www.codeforamerica.org/programs/getcalfresh)) – la capacité des programmes à avoir un impact.
 
@@ -42,12 +43,15 @@ La production de livrables et la « mesurabilité » des résultats des travaux 
 ### Ces programmes participent à la transformation numérique de leurs administrations
 
 De nombreux programmes mettent l'accent sur la complémentarité de leurs initiatives de recrutements avec d’autres dispositifs pour rendre la transformation numérique durable. Ces organisations recrutent, mais proposent aussi des formations qui permettent de faire monter en compétences les agents, notamment ceux qui seront amenés à gérer des projets innovants. Cette logique se retrouve dans les [formations mises en place par Code For Canada](https://codefor.ca/fr/education-et-formation/), le [Tech for non Tech](https://codeforaustralia.org/tech-for-non-tech/) de Code For Australia, ou encore par la [complémentarité entre le PIF et 18F](https://18f.gsa.gov/2019/05/16/how-18f-and-pif-work-together-in-agencies/) aux États-Unis. Les PIF permettent une première exploration stratégique des thématiques numériques dans les administrations, afin d’instaurer un premier changement culturel. Les services peuvent par la suite faire appel à 18F pour lancer des projets de plus grande ampleur.
+
 D’autres enjeux sont au cœur du développement de ces initiatives : la pérennisation des outils produits ou encore le maintien des nouvelles méthodes de travail apportées par ces recrues dans l’administration. Ce n’est que comme ça qu’il est possible de mettre en place une véritable transformation numérique. Le portage politique est également un facteur de succès de ce genre d’initiatives, comme le démontre le portage présidentiel du PIF.
 
 ### En quoi le programme EIG se démarque-t-il ? 
 
 En comparaison avec les programmes analysés, le programme EIG se démarque par un nombre relativement plus important de recrues par promotions, mais aussi par un recrutement de professionnels avec des profils moins seniors que ne peut le faire Code for Canada par exemple.
+
 Le programme EIG se concentre sur 3 compétences spécifiques : data science, développement et design. Le rôle de *product owner* est pris en charge par le mentor du défi. Cette organisation diffère dans d’autres initiatives, comme le Presidential Innovation Fellows, [qui recrute de plus en plus de profils davantage stratégiques et de gestion de projets]( https://www.fedscoop.com/new-pif-cohort-officially-introduced-white-house-ceremony/).
+
 Par ailleurs, le programme EIG travaille quasiment en exclusivité avec des administrations centrales ou ayant un rayonnement national. Cela n’est pas le cas de certains *Code For*, comme Code for Australia qui travaillait à l’origine principalement dans [l’Etat de Victoria](https://codeforaustralia.org/case-studies/) avant d’envisager un déploiement national.
 De nombreuses initiatives visent aussi à créer des outils qui ont vocation à avoir un impact direct sur les citoyens, tandis que le programme EIG crée majoritairement des outils qui améliorent l’efficacité de l’administration et du service public, ce qui participera *in fine* à l’amélioration de l’expérience des citoyens utilisateurs de ces services.
 
