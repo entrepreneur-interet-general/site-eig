@@ -32,6 +32,18 @@
   defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
   class: 2019 mentor
 
+"Alexis Deny":
+  image: img/communaute/miniatures/alexis-deny.png
+  title: Alexis Deny
+  link_to: /communaute/dig/alexis-deny.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/CNAM.html" target="new">CNAM</a>
+  class: 
+  - DIG
+  - designer
+  
 "Amaury Fouret":
   image: img/communaute/miniatures/Amaury-Fouret.jpg
   title: Amaury Fouret
@@ -223,6 +235,18 @@
   - eig
   - webdev
 
+"Cécile Canel":
+  image: img/communaute/miniatures/cecile-canel.png
+  title: Cécile Canel
+  link_to: /communaute/dig/cecile-canel.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/SHOM.html" target="new">SHOM</a>
+  class: 
+  - DIG
+  - designer
+
 "Carine Stolz":
   image: img/communaute/miniatures/carine-stolz.jpg
   title: Carine Stolz
@@ -249,6 +273,30 @@
   - eig
   - datascientist
 
+"Charlotte Bourcier":
+  image: img/communaute/miniatures/charlotte-bourcier.png
+  title: Charlotte Bourcier
+  link_to: /communaute/dig/charlotte-bourcier.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/EducNat.html" target="new">Education Nationale</a>
+  class: 
+  - DIG
+  - designer
+  
+"Charlotte Marmet":
+  image: img/communaute/miniatures/charlotte-marmet.png
+  title: Charlotte Marmet
+  link_to: /communaute/dig/charlotte-marmet.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/CGDD.html" target="new">CGDD</a>
+  class: 
+  - DIG
+  - designer
+  
 "Christophe Ninucci":
   image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
@@ -515,6 +563,18 @@
   - eig
   - webdev
 
+"Flavien Colsenet":
+  image: img/communaute/miniatures/flavien-colsenet.png
+  title: Flavien Colsenet
+  link_to: /communaute/dig/flavien-colsenet.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/SCHAPI.html" target="new">SCHAPI</a>
+  class: 
+  - DIG
+  - designer
+
 "Florent Laboy":
   image: img/communaute/miniatures/florent-laboy.png
   title: Florent Laboy
@@ -646,6 +706,18 @@
   profil: Mentor
   defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
   class: 2019 mentor
+  
+"Iris Naudin":
+  image: img/communaute/miniatures/iris-naudin.png
+  title: Iris Naudin
+  link_to: /communaute/dig/iris-naudin.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/DGGN.html" target="new">DGGN</a>
+  class: 
+  - DIG
+  - designer
 
 "Jean-Baptiste Assouad":
   image: img/communaute/miniatures/JeanBaptiste-Assouad.png
@@ -675,6 +747,17 @@
   - eig
   - designer
 
+"Jean-Edouard Sastre":
+  image: img/communaute/miniatures/jean-edouard-sastre.png
+  title: Jean-Edouard Sastre
+  link_to: /communaute/dig/jean-edouard-sastre.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/MuseumHistNat.html" target="new">Muséum d'Histoire naturelle</a>
+  class: 
+  - DIG
+  
 "Jean-René Duscher":
   image: img/communaute/miniatures/photo-duscher-v2.png
   title: Jean-René Duscher
@@ -684,6 +767,18 @@
   profil: Mentor
   defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
   class: 2019 mentor
+
+"Jérémie Baboukhian":
+  image: img/communaute/miniatures/jeremie-baboukhian.png
+  title: Jérémie Baboukhian
+  link_to: /communaute/dig/jeremie-baboukhian.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/IdentitéNumérique.html" target="new">Mission Identité Numérique</a>
+  class: 
+  - DIG
+  - designer
 
 "Julien Bouquillon":
   image: img/communaute/miniatures/julien-bouquillon.png
@@ -695,6 +790,18 @@
   defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
   class: 2019 mentor
 
+"Julien Dubedout":
+  image: img/communaute/miniatures/julien-dubedout.png
+  title: Julien Dubedout
+  link_to: /communaute/dig/julien-dubedout.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/NexSIS.html" target="new">NexSIS</a>
+  class: 
+  - DIG
+  - designer
+  
 "Julien Naour":
   image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
@@ -734,6 +841,18 @@
   - eig
   - datascientist
 
+"Laure Dubuc":
+  image: img/communaute/miniatures/laure-dubuc.png
+  title: Laure Dubuc
+  link_to: /communaute/dig/laure-dubuc.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/DIHAL.html" target="new">DIHAL</a>
+  class: 
+  - DIG
+  - designer
+
 "Laurence Matringe":
   image: img/communaute/miniatures/Sans-photo.png
   title: Laurence Matringe
@@ -745,6 +864,18 @@
   class:
   - eig-2
   - mentor
+  
+"Laurent Darellis":
+  image: img/communaute/miniatures/laurent-darellis.png
+  title: Laurent Darellis
+  link_to: /communaute/dig/laurent-darellis.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/AcademieLyon.html" target="new">Académie de Lyon</a>
+  class: 
+  - DIG
+  - designer
 
 "Laurent Dupont":
   image: img/communaute/miniatures/Laurent-Dupont.png
@@ -821,6 +952,18 @@
   - eig
   - webdev
 
+"Marc Bouteiller":
+  image: img/communaute/miniatures/marc-bouteiller.png
+  title: Marc Bouteiller
+  link_to: /communaute/dig/marc-bouteiller.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/MinArmees.html" target="new">Ministère des Armées</a>
+  class: 
+  - DIG
+  - designer
+
 "Marie Feucher":
   image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
@@ -830,6 +973,18 @@
   profil: Mentor
   defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
   class: 2019 mentor
+
+"Marie Ramon-Daré":
+  image: img/communaute/miniatures/marie-ramon-dare.png
+  title: Marie Ramon-Daré
+  link_to: /communaute/dig/marie-ramon-dare.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/CDGG.html" target="new">CGDD</a>
+  class: 
+  - DIG
+  - designer
 
 "Marielle Chrisment":
   image: img/communaute/miniatures/marielle-chrisment.jpg
@@ -931,6 +1086,18 @@
   defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
   class: 2019 mentor
 
+"Maxime Beaugrand":
+  image: img/communaute/miniatures/maxime-beaugrand.png
+  title: Maxime Beaugrand
+  link_to: /communaute/dig/maxime-beaugrand.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/IDNUM.html" target="new">Mission Identité Numérique, DINSIC</a>
+  class:
+  - DIG
+  - designer
+
 "Maxime Pierrot":
   image: img/communaute/miniatures/Maxime-Pierrot.png
   title: Maxime Pierrot
@@ -979,6 +1146,30 @@
   profil: Mentor
   defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
   class: 2019 mentor
+
+"Nicolas Grandjean":
+  image: img/communaute/miniatures/nicolas-grandjean.png
+  title: Nicolas Granjean
+  link_to: /communaute/dig/nicolas-grandjean.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/DGGN.html" target="new">DGGN</a>
+  class:
+  - DIG
+  - designer
+
+"Nicolas Patriarca":
+  image: img/communaute/miniatures/nicolas-patriarca.png
+  title: Nicolas Patriarca
+  link_to: /communaute/dig/nicolas-patriarca.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/MinInt.html" target="new">Ministère de l'Intérieur</a>
+  class:
+  - DIG
+  - designer
 
 "Nikos Peteinatos":
   image: img/communaute/miniatures/nikos-peteinatos.jpg
@@ -1089,6 +1280,18 @@
   - eig
   - datascientist
 
+"Pierre Charreaux":
+  image: img/communaute/miniatures/pierre-charreaux.png
+  title: Pierre Charreaux
+  link_to: /communaute/dig/pierre-charreaux.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/AcademieClermont.html" target="new">Académie de Clermont Ferrand</a>
+  class:
+  - DIG
+  - designer
+
 "Quentin Loridant":
   image: img/communaute/miniatures/quentin-loridant.jpg
   title: Quentin Loridant
@@ -1125,6 +1328,18 @@
   class:
   - eig-2
   - mentor
+
+"Rosine Bernez":
+  image: img/communaute/miniatures/rosine-bernez.png
+  title: Rosine Bernez
+  link_to: /communaute/dig/rosine-bernez.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/DILA.html" target="new">DILA</a>
+  class:
+  - DIG
+  - designer
 
 "Samah Ghalloussi":
   image: img/communaute/miniatures/Samah-Ghalloussi.png
@@ -1171,6 +1386,18 @@
   profil: Mentor
   defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
   class: 2019 mentor
+
+"Sarah Lepreux":
+  image: img/communaute/miniatures/sarah-lepreux.png
+  title: Sarah Lepreux
+  link_to: /communaute/dig/sarah-lepreux.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/EducNat.html" target="new">Ministère de l'Éducation Nationale</a>
+  class:
+  - DIG
+  - designer
 
 "Sébastien Cossin":
   image: img/communaute/miniatures/Sebastien-Cossin.png
@@ -1222,6 +1449,18 @@
   - eig-3
   - eig
   - datascientist
+
+"Sofia Boulaarab":
+  image: img/communaute/miniatures/sofia-boulaarab.png
+  title: Sofia Boulaarab
+  link_to: /communaute/dig/sofia-boulaarab.html
+  annees:
+  - DIG
+  profil: Designer
+  defi: <a href="/defis/dig/AcademieClermont.html" target="new">Académie de Clermont-Ferrand</a>
+  class:
+  - DIG
+  - designer
 
 "Sophie Miljkovic":
   image: img/communaute/miniatures/sophie-milkovitch.jpg
