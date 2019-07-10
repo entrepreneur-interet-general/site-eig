@@ -1,1 +1,4 @@
----layout: defititle: "Académie de Clermont-Ferrand"---
+---
+layout: defi
+title: "Académie de Clermont-Ferrand"
+---

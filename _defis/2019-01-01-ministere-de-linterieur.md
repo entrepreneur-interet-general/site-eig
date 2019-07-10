@@ -1,1 +1,5 @@
----layout: defititle: "Ministère de l'Intérieur"---
+---
+layout: defi
+title: "Ministère de l'Intérieur"
+---
+

@@ -1,1 +1,6 @@
----layout: defititle: "Muséum dHistoire Naturelle"---Test
+---
+layout: defi
+title: "Muséum dHistoire Naturelle"
+---
+
+Test

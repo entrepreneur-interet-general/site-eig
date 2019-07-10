@@ -1,1 +1,5 @@
----layout: defititle: "Ministère des Armées"---Foo
+---
+layout: defi
+title: "Ministère des Armées"
+---
+Foo

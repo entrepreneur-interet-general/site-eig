@@ -1,1 +1,4 @@
----layout: defititle: "Académie de Lyon"---
+---
+layout: defi
+title: "Académie de Lyon"
+---
