@@ -7,7 +7,7 @@ website:
 annees: DIG
 defis: 
   - nom: Académie de Clermont Ferrand
-    site: /defis/dig/AcademieClermont.html
+    site: /defis/2019/AcademieClermont.html
 profil: Designer
 images:
   - /img/communaute/pierre-charreaux.png

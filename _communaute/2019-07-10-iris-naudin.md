@@ -7,7 +7,7 @@ website:
 annees: DIG
 defis: 
   - nom: DGGN
-    site: /defis/dig/DGGN.html
+    site: /defis/2019/DGGN.html
 profil: Designer
 images:
   - /img/communaute/iris-naudin.png

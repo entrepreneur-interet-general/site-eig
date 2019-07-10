@@ -7,7 +7,7 @@ website:
 annees: DIG
 defis: 
   - nom: NexSIS
-    site: /defis/dig/NexSIS.html
+    site: /defis/2019/NexSIS.html
 profil: Designer
 images:
   - /img/communaute/julien-dubedout.png

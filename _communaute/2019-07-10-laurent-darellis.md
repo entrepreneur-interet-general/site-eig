@@ -7,7 +7,7 @@ website:
 annees: DIG
 defis: 
   - nom: Académie de Lyon
-    site: /defis/dig/AcademieLyon.html
+    site: /defis/2019/AcademieLyon.html
 profil: Designer
 images:
   - /img/communaute/laurent-darellis.png

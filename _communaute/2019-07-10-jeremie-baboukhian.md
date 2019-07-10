@@ -7,7 +7,7 @@ website:
 annees: DIG
 defis: 
   - nom: Mission Identité Numérique
-    site: /defis/dig/IdentitéNumérique.html
+    site: /defis/2019/IdentitéNumérique.html
 profil: Designer
 images:
   - /img/communaute/jeremie-baboukhian.png
