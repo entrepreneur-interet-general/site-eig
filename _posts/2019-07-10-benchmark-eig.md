@@ -6,7 +6,8 @@ twitter: @CarreGuenole
 description: "En France comme ailleurs, de nombreuses administrations font face à une problématique commune : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
 ---
 
-Le programme Entrepreneurs d'Intérêt Général (EIG) permet aux administrations de recruter des citoyens dotés de compétences numériques de pointe. Ils ont 10 mois pour relever des défis d’amélioration du service public à l’aide du numérique et des données. 
+Le programme Entrepreneurs d'Intérêt Général (EIG) permet aux administrations de recruter des citoyens dotés de compétences numériques de pointe. Ils ont 10 mois pour relever des défis d’amélioration du service public à l’aide du numérique et des données.
+
 Afin de poursuivre la [démarche d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html) du programme, nous nous sommes intéressés à des initiatives similaires mises en place par des administrations dans d’autres pays. Notre objectif était de mieux comprendre leur fonctionnement, leurs sources de financement, leurs rapports aux administrations de leur pays, les types de projets menés et les profils recrutés. 
 Nous nous sommes intéressés aux initiatives suivantes : 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), Etats-Unis
