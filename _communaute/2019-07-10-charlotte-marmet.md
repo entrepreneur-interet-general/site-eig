@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: CGDD
     site: /defis/dig/CGDD.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/charlotte-marmet.png
 ---

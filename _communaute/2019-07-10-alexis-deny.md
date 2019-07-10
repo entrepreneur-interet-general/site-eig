@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: CNAM
     site: /defis/dig/CNAM.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/alexis-deny.png
 ---

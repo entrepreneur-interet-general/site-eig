@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: DIHAL
     site: /defis/dig/DIHAL.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/laure-dubuc.png
 ---

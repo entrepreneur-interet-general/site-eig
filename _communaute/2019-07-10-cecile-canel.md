@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Shom
     site: /defis/dig/SHOM.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/cecile-canel.png
 ---

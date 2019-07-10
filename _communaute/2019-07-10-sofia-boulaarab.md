@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Académie de Clermont-Ferrand
     site: /defis/dig/AcademieClermont.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/sofia-boulaarab.png
 ---

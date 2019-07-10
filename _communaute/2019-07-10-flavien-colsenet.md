@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: SCHAPI
     site: /defis/dig/SCHAPI.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/flavien-colsenet.png
 ---

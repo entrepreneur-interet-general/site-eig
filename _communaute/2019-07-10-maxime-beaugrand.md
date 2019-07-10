@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Mission Identité Numérique, DINSIC
     site: /defis/dig/IDNUM.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/maxime-beaugrand.png
 ---

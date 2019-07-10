@@ -35,15 +35,15 @@
 "Alexis Deny":
   image: img/communaute/miniatures/alexis-deny.png
   title: Alexis Deny
-  link_to: /communaute/dig/alexis-deny.html
+  link_to: /communaute/2019/alexis-deny.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/CNAM.html" target="new">CNAM</a>
-  class: 
+  class:
   - DIG
   - designer
-  
+
 "Amaury Fouret":
   image: img/communaute/miniatures/Amaury-Fouret.jpg
   title: Amaury Fouret
@@ -238,12 +238,12 @@
 "Cécile Canel":
   image: img/communaute/miniatures/cecile-canel.png
   title: Cécile Canel
-  link_to: /communaute/dig/cecile-canel.html
+  link_to: /communaute/2019/cecile-canel.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/SHOM.html" target="new">SHOM</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -276,27 +276,27 @@
 "Charlotte Bourcier":
   image: img/communaute/miniatures/charlotte-bourcier.png
   title: Charlotte Bourcier
-  link_to: /communaute/dig/charlotte-bourcier.html
+  link_to: /communaute/2019/charlotte-bourcier.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/EducNat.html" target="new">Education Nationale</a>
-  class: 
+  class:
   - DIG
   - designer
-  
+
 "Charlotte Marmet":
   image: img/communaute/miniatures/charlotte-marmet.png
   title: Charlotte Marmet
-  link_to: /communaute/dig/charlotte-marmet.html
+  link_to: /communaute/2019/charlotte-marmet.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/CGDD.html" target="new">CGDD</a>
-  class: 
+  class:
   - DIG
   - designer
-  
+
 "Christophe Ninucci":
   image: img/communaute/miniatures/Christophe-Ninucci.png
   title: Christophe Ninucci
@@ -566,12 +566,12 @@
 "Flavien Colsenet":
   image: img/communaute/miniatures/flavien-colsenet.png
   title: Flavien Colsenet
-  link_to: /communaute/dig/flavien-colsenet.html
+  link_to: /communaute/2019/flavien-colsenet.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/SCHAPI.html" target="new">SCHAPI</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -706,16 +706,16 @@
   profil: Mentor
   defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
   class: 2019 mentor
-  
+
 "Iris Naudin":
   image: img/communaute/miniatures/iris-naudin.png
   title: Iris Naudin
-  link_to: /communaute/dig/iris-naudin.html
+  link_to: /communaute/2019/iris-naudin.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/DGGN.html" target="new">DGGN</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -750,14 +750,14 @@
 "Jean-Edouard Sastre":
   image: img/communaute/miniatures/jean-edouard-sastre.png
   title: Jean-Edouard Sastre
-  link_to: /communaute/dig/jean-edouard-sastre.html
+  link_to: /communaute/2019/jean-edouard-sastre.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/MuseumHistNat.html" target="new">Muséum d'Histoire naturelle</a>
-  class: 
+  class:
   - DIG
-  
+
 "Jean-René Duscher":
   image: img/communaute/miniatures/photo-duscher-v2.png
   title: Jean-René Duscher
@@ -771,12 +771,12 @@
 "Jérémie Baboukhian":
   image: img/communaute/miniatures/jeremie-baboukhian.png
   title: Jérémie Baboukhian
-  link_to: /communaute/dig/jeremie-baboukhian.html
+  link_to: /communaute/2019/jeremie-baboukhian.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/IdentitéNumérique.html" target="new">Mission Identité Numérique</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -793,15 +793,15 @@
 "Julien Dubedout":
   image: img/communaute/miniatures/julien-dubedout.png
   title: Julien Dubedout
-  link_to: /communaute/dig/julien-dubedout.html
+  link_to: /communaute/2019/julien-dubedout.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/NexSIS.html" target="new">NexSIS</a>
-  class: 
+  class:
   - DIG
   - designer
-  
+
 "Julien Naour":
   image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
@@ -844,12 +844,12 @@
 "Laure Dubuc":
   image: img/communaute/miniatures/laure-dubuc.png
   title: Laure Dubuc
-  link_to: /communaute/dig/laure-dubuc.html
+  link_to: /communaute/2019/laure-dubuc.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/DIHAL.html" target="new">DIHAL</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -864,16 +864,16 @@
   class:
   - eig-2
   - mentor
-  
+
 "Laurent Darellis":
   image: img/communaute/miniatures/laurent-darellis.png
   title: Laurent Darellis
-  link_to: /communaute/dig/laurent-darellis.html
+  link_to: /communaute/2019/laurent-darellis.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/AcademieLyon.html" target="new">Académie de Lyon</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -955,12 +955,12 @@
 "Marc Bouteiller":
   image: img/communaute/miniatures/marc-bouteiller.png
   title: Marc Bouteiller
-  link_to: /communaute/dig/marc-bouteiller.html
+  link_to: /communaute/2019/marc-bouteiller.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/MinArmees.html" target="new">Ministère des Armées</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -977,12 +977,12 @@
 "Marie Ramon-Daré":
   image: img/communaute/miniatures/marie-ramon-dare.png
   title: Marie Ramon-Daré
-  link_to: /communaute/dig/marie-ramon-dare.html
+  link_to: /communaute/2019/marie-ramon-dare.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/CDGG.html" target="new">CGDD</a>
-  class: 
+  class:
   - DIG
   - designer
 
@@ -1089,9 +1089,9 @@
 "Maxime Beaugrand":
   image: img/communaute/miniatures/maxime-beaugrand.png
   title: Maxime Beaugrand
-  link_to: /communaute/dig/maxime-beaugrand.html
+  link_to: /communaute/2019/maxime-beaugrand.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/IDNUM.html" target="new">Mission Identité Numérique, DINSIC</a>
   class:
@@ -1150,9 +1150,9 @@
 "Nicolas Grandjean":
   image: img/communaute/miniatures/nicolas-grandjean.png
   title: Nicolas Granjean
-  link_to: /communaute/dig/nicolas-grandjean.html
+  link_to: /communaute/2019/nicolas-grandjean.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/DGGN.html" target="new">DGGN</a>
   class:
@@ -1162,9 +1162,9 @@
 "Nicolas Patriarca":
   image: img/communaute/miniatures/nicolas-patriarca.png
   title: Nicolas Patriarca
-  link_to: /communaute/dig/nicolas-patriarca.html
+  link_to: /communaute/2019/nicolas-patriarca.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/MinInt.html" target="new">Ministère de l'Intérieur</a>
   class:
@@ -1283,9 +1283,9 @@
 "Pierre Charreaux":
   image: img/communaute/miniatures/pierre-charreaux.png
   title: Pierre Charreaux
-  link_to: /communaute/dig/pierre-charreaux.html
+  link_to: /communaute/2019/pierre-charreaux.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/AcademieClermont.html" target="new">Académie de Clermont Ferrand</a>
   class:
@@ -1332,9 +1332,9 @@
 "Rosine Bernez":
   image: img/communaute/miniatures/rosine-bernez.png
   title: Rosine Bernez
-  link_to: /communaute/dig/rosine-bernez.html
+  link_to: /communaute/2019/rosine-bernez.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/DILA.html" target="new">DILA</a>
   class:
@@ -1390,9 +1390,9 @@
 "Sarah Lepreux":
   image: img/communaute/miniatures/sarah-lepreux.png
   title: Sarah Lepreux
-  link_to: /communaute/dig/sarah-lepreux.html
+  link_to: /communaute/2019/sarah-lepreux.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/EducNat.html" target="new">Ministère de l'Éducation Nationale</a>
   class:
@@ -1453,9 +1453,9 @@
 "Sofia Boulaarab":
   image: img/communaute/miniatures/sofia-boulaarab.png
   title: Sofia Boulaarab
-  link_to: /communaute/dig/sofia-boulaarab.html
+  link_to: /communaute/2019/sofia-boulaarab.html
   annees:
-  - DIG
+  - 2019
   profil: Designer
   defi: <a href="/defis/dig/AcademieClermont.html" target="new">Académie de Clermont-Ferrand</a>
   class:

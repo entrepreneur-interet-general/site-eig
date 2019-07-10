@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Ministère de l'Intérieur
     site: /defis/dig/MinInt.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/alexis-deny.png
 ---

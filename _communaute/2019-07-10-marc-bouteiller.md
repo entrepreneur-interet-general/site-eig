@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Ministères des Armées
     site: /defis/dig/MinArmees.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/marc-bouteiller.png
 ---

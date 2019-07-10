@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: Muséum d'Histoire naturelle
     site: /defis/dig/MuseumHistNat.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/Jean-Edouard Sastre.png
 ---

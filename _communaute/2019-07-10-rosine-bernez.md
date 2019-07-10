@@ -8,7 +8,7 @@ annees: DIG
 defis: 
   - nom: DILA
     site: /defis/dig/DILA.html
-profil: DIG
+profil: Designer
 images:
   - /img/communaute/rosine-bernez.png
 ---
