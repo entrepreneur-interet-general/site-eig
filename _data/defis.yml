@@ -9,7 +9,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Julien Dubedout"
@@ -24,7 +24,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 12
+  duration_months: 12
   colorback: blue
   eigs:
     - "Rosine Bernez"
@@ -39,7 +39,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Maxime Beaugrand"
@@ -54,7 +54,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 12
+  duration_months: 12
   colorback: blue
   eigs:
     - "Jérémie Baboukhian"
@@ -69,7 +69,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Alexis Deny"
@@ -84,7 +84,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Flavien Colsenet"
@@ -99,7 +99,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 12
+  duration_months: 12
   colorback: blue
   eigs:
     - "Cécile Canel"
@@ -114,7 +114,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 12
+  duration_months: 12
   colorback: blue
   eigs:
     - "Marie Ramon-Daré"
@@ -130,7 +130,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 8
+  duration_months: 8
   colorback: blue
   eigs:
     - "Marc Bouteiller "
@@ -145,7 +145,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 12
+  duration_months: 12
   colorback: blue
   eigs:
     - "Charlotte Bourcier"
@@ -161,7 +161,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Jean-Edouard Sastre"
@@ -176,7 +176,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Laure Dubuc"
@@ -191,7 +191,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 9
+  duration_months: 9
   colorback: blue
   eigs:
     - "Iris Villagra Naudin"
@@ -207,7 +207,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 6
+  duration_months: 6
   colorback: blue
   eigs:
     - "Laurent Darellis"
@@ -222,7 +222,7 @@
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
-  duration_month: 7
+  duration_months: 7
   colorback: blue
   eigs:
     - "Nicolas Patriarca"
@@ -235,7 +235,7 @@
   colorback: blue
   description: "Simplifier le parcours des familles dont les enfants sont en situation de handicap"
   administration: Académie de Clermont-Ferrand, Ministère de l'Éducation Nationale
-  duration_month: 6
+  duration_months: 6
   year: 2019
   administration_website: http://example.com
   promotion: "dig"
