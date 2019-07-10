@@ -1,3 +1,247 @@
+"Agence de la Sécurité Civile":
+  image: /img/dig/01.png
+  title: "Agence de la Sécurité Civile"
+  link_to: /defis/2019/agence-de-la-securite-civile.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS)"
+  administration: Agence de la Sécurité Civile, Ministère de l'Intérieur
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Julien Dubedout"
+"DILA":
+  image: /img/dig/17.png
+  title: "DILA"
+  link_to: /defis/2019/dila.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Faciliter le regroupement familial des étrangers en France grâce à un service en ligne "
+  administration: Direction de l'Information Légale et Administrative (DILA)
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 12
+  colorback: blue
+  eigs:
+    - "Rosine Bernez"
+"DINSIC":
+  image: /img/dig/07.png
+  title: "DINSIC"
+  link_to: /defis/2019/dinsic.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible "
+  administration: Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État(DINSIC),
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Maxime Beaugrand"
+"Mission Identité numérique":
+  image: /img/dig/06.png
+  title: "Mission Identité numérique"
+  link_to: /defis/2019/mission-identite-numerique.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée "
+  administration: Mission Identité Numérique, Ministère de l'Intérieur
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 12
+  colorback: blue
+  eigs:
+    - "Jérémie Baboukhian"
+"Caisse nationale d'Assurance maladie":
+  image: /img/dig/04.png
+  title: "Caisse nationale d'Assurance maladie"
+  link_to: /defis/2019/caisse-nationale-dassurance-maladie.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli"
+  administration: Caisse Nationale d'Assurance Maladie
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Alexis Deny"
+"SCHAPI":
+  image: /img/dig/16.png
+  title: "SCHAPI"
+  link_to: /defis/2019/schapi.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Mieux informer les citoyens sur les risques de crues via le site vigicrues.gouv.fr (VigicrUX)"
+  administration: Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI), Ministère de la Transition Ecologique et Solidaire
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Flavien Colsenet"
+"Shom":
+  image: /img/dig/15.png
+  title: "Shom"
+  link_to: /defis/2019/shom.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)"
+  administration: Service hydrographique et océanographique de la marine (Shom), Ministère des Armées
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 12
+  colorback: blue
+  eigs:
+    - "Cécile Canel"
+"CGDD":
+  image: /img/dig/11.png
+  title: "CGDD"
+  link_to: /defis/2019/cgdd.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif"
+  administration: Commissariat Général au Développement Durable, Ministère de la Transition Ecologique et Solidaire
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 12
+  colorback: blue
+  eigs:
+    - "Marie Ramon-Daré"
+    - "Charlotte Marmet"
+"Ministère des Armées":
+  image: /img/dig/11.png
+  title: "Ministère des Armées"
+  link_to: /defis/2019/ministere-des-armees.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne"
+  administration: Ministère des Armées
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 8
+  colorback: blue
+  eigs:
+    - "Marc Bouteiller "
+"Ministère de l'Education Nationale":
+  image: /img/dig/02.png
+  title: "Ministère de l'Education Nationale"
+  link_to: /defis/2019/ministere-de-leducation-nationale.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques"
+  administration: Ministère de l'Éducation Nationale
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 12
+  colorback: blue
+  eigs:
+    - "Charlotte Bourcier"
+    - "Sarah Lepreux"
+"Muséum d'Histoire Naturelle":
+  image: /img/dig/12.png
+  title: "Muséum d'Histoire Naturelle"
+  link_to: /defis/2019/museum-dhistoire-naturelle.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Faire découvrir les espaces naturels grâce à une application de géolocalisation"
+  administration: Muséum Histoire Naturelle
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Jean-Edouard Sastre"
+"Dihal":
+  image: /img/dig/13.png
+  title: "Dihal"
+  link_to: /defis/2019/dihal.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles)"
+  administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Laure Dubuc"
+"DGGN":
+  image: /img/dig/14.png
+  title: "DGGN"
+  link_to: /defis/2019/dggn.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Parcours candidat optimisé"
+  administration: Direction Générale de la endarmerie Nationale (DGGN),
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 9
+  colorback: blue
+  eigs:
+    - "Iris Villagra Naudin"
+    - "Nicolas Grandjean"
+"Académie de Lyon":
+  image: /img/dig/05.png
+  title: "Académie de Lyon"
+  link_to: /defis/2019/academie-de-lyon.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Apporter des réponses en ligne aux agents de l’Éducation nationale (Proxi RH) "
+  administration: Académie de Lyon, Ministère de l'Éducation Nationale
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 6
+  colorback: blue
+  eigs:
+    - "Laurent Darellis"
+"Ministère de l'Intérieur":
+  image: /img/dig/10.png
+  title: "Ministère de l'Intérieur"
+  link_to: /defis/2019/ministere-de-linterieur.html
+  class: 2019 dig design
+  skills: DIG // Design
+  description: "Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne"
+  administration: Ministère de l'Intérieur
+  administration_website: http://example.com
+  year: 2019
+  promotion: "dig"
+  duration_month: 7
+  colorback: blue
+  eigs:
+    - "Nicolas Patriarca"
+"Académie de Clermont-Ferrand":
+  image: /img/dig/03.png
+  title: "Académie de Clermont-Ferrand"
+  link_to: /defis/2019/academie-de-clermont-ferrand.html
+  class: 2019 dig design
+  skills: DIG // Design
+  colorback: blue
+  description: "Simplifier le parcours des familles dont les enfants sont en situation de handicap"
+  administration: Académie de Clermont-Ferrand, Ministère de l'Éducation Nationale
+  duration_month: 6
+  year: 2019
+  administration_website: http://example.com
+  promotion: "dig"
+  eigs:
+    - "Sofia Boulaarab"
+    - "Pierre Charreaux"
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
