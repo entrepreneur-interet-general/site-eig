@@ -389,6 +389,7 @@
   promotion: 2
   administration: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
+  source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
   eigs:
     - "Dora Crisan"
     - "Jean-Baptiste Le Dévéhat"
