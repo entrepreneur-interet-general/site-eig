@@ -12,7 +12,7 @@ Afin de poursuivre la [démarche d’évaluation](https://entrepreneur-interet-g
 
 Nous nous sommes intéressés aux initiatives suivantes : 
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), Etats-Unis
-- [Code for America](https://www.codeforamerica.org/), Etats-Unis
+- [Code for America](https://www.codeforamerica.org/), États-Unis
 - [Digital Transformation Agency](https://www.dta.gov.au/), Australie
 - [Code For Australia](https://codeforaustralia.org/), Australie
 - [Code For Canada](https://codeforaustralia.org/), Canada
