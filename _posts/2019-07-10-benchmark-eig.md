@@ -2,7 +2,7 @@
 layout: post
 title: "Comment les administrations recrutent des compétences numériques ? Tour d’horizon international des initiatives similaires au programme Entrepreneurs d’Intérêt Général"
 author: Guénolé Carré, équipe EIG
-twitter: @CarreGuenole
+twitter: CarreGuenole
 description: "En France comme ailleurs, de nombreuses administrations font face à une problématique commune : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
 ---
 
