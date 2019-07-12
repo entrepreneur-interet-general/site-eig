@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: http://linkedin.com/in/rosine-bernez
 nom: Rosine Bernez 
 website: 
 annees: DIG
