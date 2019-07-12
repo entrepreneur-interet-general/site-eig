@@ -21,7 +21,7 @@ Nous nous sommes intéressés aux initiatives suivantes :
 - [Code for America](https://www.codeforamerica.org/), États-Unis
 - [Digital Transformation Agency](https://www.dta.gov.au/), Australie
 - [Code For Australia](https://codeforaustralia.org/), Australie
-- [Code For Canada](https://codeforaustralia.org/), Canada
+- [Code For Canada](https://codefor.ca/fr/), Canada
 - [Team Digitale](https://teamdigitale.governo.it/), Italie
 - [Prototype Fund](https://prototypefund.de/), Allemagne
 
