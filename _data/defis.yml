@@ -13,6 +13,9 @@
   colorback: blue
   eigs:
     - "Julien Dubedout"
+mentors:
+    - "Nicolas Mathieu"
+
 "DILA":
   image: /img/dig/17.png
   title: "DILA"
