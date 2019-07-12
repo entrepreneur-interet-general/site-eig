@@ -48,9 +48,9 @@ Une attention particulière est portée par ces initiatives sur les conditions d
 
 L’attractivité de ces initiatives passe aussi par une mise en avant des recrues qui ont la possibilité de s’exprimer dans des articles de blog (comme le PIF avec les contributions des fellows sur le blog [digital.gov](https://digital.gov/)), de participer à des conférences et de jouer le rôle d’ambassadeur des programmes.
 
-La production de livrables et la « mesurabilité » des résultats des travaux entrepris par ces recrues est une problématique commune. Ces initiatives mobilisent des budgets conséquents, d’où l’importance de prouver – notamment via des données ou des indicateurs chiffrés (comme le font notamment les projets de Code For America, par exemple l'initiative [GetCalFresh](https://www.codeforamerica.org/programs/getcalfresh)) – la capacité des programmes à avoir un impact.
-
 ![Capture d'écran du blog digital.gov](/img/blog/year-as-pif.PNG)_Capture d'écran d'un article de blog issu de [digital.gov](https://digital.gov/2019/03/26/a-year-in-life-a-pif/)_
+
+La production de livrables et la « mesurabilité » des résultats des travaux entrepris par ces recrues est une problématique commune. Ces initiatives mobilisent des budgets conséquents, d’où l’importance de prouver – notamment via des données ou des indicateurs chiffrés (comme le font notamment les projets de Code For America, par exemple l'initiative [GetCalFresh](https://www.codeforamerica.org/programs/getcalfresh)) – la capacité des programmes à avoir un impact.
 
 **Ces programmes participent à la transformation numérique de leurs administrations**
 
