@@ -146,6 +146,18 @@
   - eig
   - datascientist
 
+"Armando De Oliveira":
+  image: img/communaute/miniatures/armando-de-oliveira.jpg
+  title: Armando De Oliveira
+  link_to: /communaute/2019/armando-de-oliveira.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dggn.html" target="new">DGGN</a>
+  class:
+  - dig
+  - mentor
+
 "Arnaud Ménard":
   image: img/communaute/miniatures/Arnaud-Menard.png
   title: Arnaud Ménard
@@ -210,6 +222,30 @@
   - eig
   - webdev
 
+"Béatrice Clément":
+  image: img/communaute/miniatures/beatrice-clement.jpg
+  title: Béatrice Clément
+  link_to: /communaute/2019/beatrice-clement.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/academie-de-clermont-ferrand.html" target="new">Académie de Clermont-Ferrand</a>
+  class:
+  - dig
+  - mentor
+  
+"Bénédicte Ezvan":
+  image: img/communaute/miniatures/benedicte-ezvan.jpg
+  title: Bénédicte Ezvan
+  link_to: /communaute/2019/benedicte-ezvan.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/shom.html" target="new">Shom</a>
+  class:
+  - dig
+  - mentor
+
 "Bénédicte Pachod":
   image: img/communaute/miniatures/benedicte-pachod.png
   title: Bénédicte Pachod
@@ -260,6 +296,18 @@
   - eig
   - datascientist
 
+"Catherine Duyck-Bagot":
+  image: img/communaute/miniatures/catherine-duyck-bagot.jpg
+  title: Catherine Duyck-Bagot
+  link_to: /communaute/2019/catherine-duyck-bagot.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/caisse-nationale-dassurance-maladie.html" target="new">CNAM</a>
+  class:
+  - dig
+  - mentor
+
 "Cédric Malherbe":
   image: img/communaute/miniatures/cedric-malherbe.jpg
   title: Cédric Malherbe
@@ -296,6 +344,18 @@
   class:
   - DIG
   - designer
+
+"Christophe Astier":
+  image: img/communaute/miniatures/christophe-astier.png
+  title: Christophe Astier
+  link_to: /communaute/2019/christophe-astier.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/schapi.html" target="new">SCHAPI</a>
+  class:
+  - dig
+  - mentor
 
 "Christophe Ninucci":
   image: img/communaute/miniatures/Christophe-Ninucci.png
@@ -401,6 +461,18 @@
   - eig-2
   - eig
   - datascientist
+
+"David Vigier":
+  image: img/communaute/miniatures/david-vigier.jpg
+  title: David Vigier
+  link_to: /communaute/2019/david-vigier.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/agence-de-la-securite-civile.html" target="new">Agence de la Sécurité Civile</a>
+  class:
+  - dig
+  - mentor
 
 "Delphine Lê":
   image: img/communaute/miniatures/7_DelphineLE.png
@@ -525,6 +597,18 @@
   - eig-2
   - mentor
 
+"Evelyne Vezinet":
+  image: img/communaute/miniatures/evelyne-vezinet.jpg
+  title: Evelyne Vezinet
+  link_to: /communaute/2019/evelyne-vezinet.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/academie-de-clermont-ferrand.html" target="new">Académie de Clermont-Ferrand</a>
+  class:
+  - dig
+  - mentor
+
 "Éric Le Guen":
   image: img/communaute/miniatures/eric_le_guen.jpg
   title: "Éric Le Guen"
@@ -638,6 +722,30 @@
   - eig
   - datascientist
 
+"Géraldine Da Sylva":
+  image: img/communaute/miniatures/geraldine-da-sylva.jpg
+  title: Géraldine Da Sylva
+  link_to: /communaute/2019/geraldine-da-sylva.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dila.html" target="new">DILA</a>
+  class:
+  - dig
+  - mentor
+
+"Gilles Martinoty":
+  image: img/communaute/miniatures/gilles-martinoty.jpg
+  title: Gilles Martinoty
+  link_to: /communaute/2019/gilles-martinoty.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/shom.html" target="new">Shom</a>
+  class:
+  - dig
+  - mentor
+
 "Guénolé Carré":
   image: img/communaute/miniatures/Guenole-Carre-miniature.jpg
   title: Guénolé Carré
@@ -672,6 +780,18 @@
   defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
   class:
   - eig-2
+  - mentor
+
+"Hervé Béguinot":
+  image: img/communaute/miniatures/herve-beguinot.jpg
+  title: Hervé Béguinot
+  link_to: /communaute/2019/herve-beguinot.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dggn.html" target="new">DGGN</a>
+  class:
+  - dig
   - mentor
 
 "Hervé Brulé":
@@ -758,6 +878,30 @@
   class:
   - DIG
 
+"Jean-Denis Vigne":
+  image: img/communaute/miniatures/jean-denis-vigne.jpg
+  title: Jean-Denis Vigne
+  link_to: /communaute/2019/jean-denis-vigne.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/museum-dhistoire-naturelle.html" target="new">Muséum d'Histoire Naturelle</a>
+  class:
+  - dig
+  - mentor
+
+"Jean-Marie Coulomb":
+  image: img/communaute/miniatures/jean-marie-coulomb.jpg
+  title: Jean-Marie Coulomb
+  link_to: /communaute/2019/jean-marie-coulomb.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/schapi.html" target="new">SCHAPI</a>
+  class:
+  - dig
+  - mentor
+
 "Jean-René Duscher":
   image: img/communaute/miniatures/photo-duscher-v2.png
   title: Jean-René Duscher
@@ -779,6 +923,42 @@
   class:
   - DIG
   - designer
+
+"Jérémy Bakkalian":
+  image: img/communaute/miniatures/jeremy-bakkalian.jpg
+  title: Jérémy Bakkalian
+  link_to: /communaute/2019/jeremy-bakkalian.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-des-armees.html" target="new">Ministère des Armées</a>
+  class:
+  - dig
+  - mentor
+
+"Jérôme Blondon":
+  image: img/communaute/miniatures/jerome-blondon.jpg
+  title: Jérôme Blondon
+  link_to: /communaute/2019/jerome-blondon.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/academie-de-lyon.html" target="new">Académie de Lyon</a>
+  class:
+  - dig
+  - mentor
+
+"Jérôme Letanou":
+  image: img/communaute/miniatures/jerome-blondon.jpg
+  title: Jérôme Blondon
+  link_to: /communaute/2019/jerome-blondon.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-de-leducation-nationale.html" target="new">Ministère de l'Education Nationale</a>
+  class:
+  - dig
+  - mentor
 
 "Julien Bouquillon":
   image: img/communaute/miniatures/julien-bouquillon.png
@@ -802,6 +982,18 @@
   - DIG
   - designer
 
+"Julien Laffargue":
+  image: img/communaute/miniatures/julien-laffargue.jpg
+  title: Julien Laffargue
+  link_to: /communaute/2019/julien-laffargue.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/schapi.html" target="new">SCHAPI</a>
+  class:
+  - dig
+  - mentor
+  
 "Julien Naour":
   image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
@@ -864,6 +1056,30 @@
   class:
   - eig-2
   - mentor
+  
+"Laurence Monnoyer-Smith":
+  image: img/communaute/miniatures/laurence-monnoyer-smith.jpg
+  title: Laurence Monnoyer-Smith
+  link_to: /communaute/2019/laurence-monnoyer-smith.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/cgdd.html" target="new">CGDD</a>
+  class:
+  - dig
+  - mentor
+
+"Laurent Buchaillat":
+  image: img/communaute/miniatures/laurent-buchaillat.jpg
+  title: Laurent Buchaillat
+  link_to: /communaute/2019/laurent-buchaillat.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-de-linterieur.html" target="new">Ministère de l'Intérieur</a>
+  class:
+  - dig
+  - mentor
 
 "Laurent Darellis":
   image: img/communaute/miniatures/laurent-darellis.png
@@ -889,6 +1105,18 @@
   - eig-1
   - eig
   - webdev
+
+"Laurent Le Prieur":
+  image: img/communaute/miniatures/laurent-le-prieur.jpg
+  title: Laurent Le Prieur
+  link_to: /communaute/2019/laurent-le-prieur.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-de-leducation-nationale.html" target="new">Ministère de l'Education Nationale</a>
+  class:
+  - dig
+  - mentor
 
 "Laurent Toustou":
   image: img/communaute/miniatures/laurent-toustou.jpg
@@ -952,6 +1180,18 @@
   - eig
   - webdev
 
+"Manuel Demougeot":
+  image: img/communaute/miniatures/manuel-demougeot.jpg
+  title: Manuel Demougeot
+  link_to: /communaute/2019/manuel-demougeot.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dihal.html" target="new">DIHAL</a>
+  class:
+  - dig
+  - mentor
+
 "Marc Bouteiller":
   image: img/communaute/miniatures/marc-bouteiller.png
   title: Marc Bouteiller
@@ -964,6 +1204,18 @@
   - DIG
   - designer
 
+"Marc Loutrel":
+  image: img/communaute/miniatures/marc-loutrel.jpg
+  title: Marc Loutrel
+  link_to: /communaute/2019/marc-loutrel.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/mission-identite-numerique.html" target="new">Mission Identité Numérique</a>
+  class:
+  - dig
+  - mentor
+
 "Marie Feucher":
   image: img/communaute/miniatures/marie-feucher-2.png
   title: Marie Feucher
@@ -973,6 +1225,18 @@
   profil: Mentor
   defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
   class: 2019 mentor
+
+"Marie Juille":
+  image: img/communaute/miniatures/marie-juille.jpg
+  title: Marie Juille
+  link_to: /communaute/2019/marie-juille.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-de-linterieur.html" target="new">Ministère de l'Intérieur</a>
+  class:
+  - dig
+  - mentor
 
 "Marie Ramon-Daré":
   image: img/communaute/miniatures/marie-ramon-dare.png
@@ -998,6 +1262,18 @@
   - eig-2
   - mentor
 
+"Marine Gout":
+  image: img/communaute/miniatures/marine-gout.jpg
+  title: Marine Gout
+  link_to: /communaute/2019/marine-gout.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-de-leducation-nationale.html" target="new">Ministère de l'Education Nationale</a>
+  class:
+  - dig
+  - mentor
+  
 "Marion Paclot":
   image: img/communaute/miniatures/Marion-Paclot.png
   title: Marion Paclot
@@ -1034,6 +1310,18 @@
   defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
   class: 2019 mentor
 
+"Mathieu Clair":
+  image: img/communaute/miniatures/mathieu-clair.jpg
+  title: Mathieu Clair
+  link_to: /communaute/2019/mathieu-clair.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/museum-dhistoire-naturelle.html" target="new">Muséum d'Histoire Naturelle</a>
+  class:
+  - dig
+  - mentor
+
 "Mathieu Havel":
   image: img/communaute/miniatures/mathieu-havel.jpg
   title: Mathieu Havel
@@ -1046,6 +1334,18 @@
   - eig-3
   - eig
   - datascientist
+
+"Mathieu Nicolas":
+  image: img/communaute/miniatures/mathieu-nicolas.jpg
+  title: Mathieu Nicolas
+  link_to: /communaute/2019/mathieu-nicolas.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/agence-de-la-securite-civile.html" target="new">Agence de la Sécurité Civile</a>
+  class:
+  - dig
+  - mentor
 
 "Mathieu Perez":
   image: img/communaute/miniatures/mathieu-perez.jpg
@@ -1110,6 +1410,18 @@
   - eig-2
   - eig
   - webdev
+
+"Michael Fumery":
+  image: img/communaute/miniatures/michael-fumery.jpg
+  title: Michael Fumery
+  link_to: /communaute/2019/michael-fumery.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dggn.html" target="new">DGGN</a>
+  class:
+  - dig
+  - mentor
 
 "Ned Baldessin":
   image: img/communaute/miniatures/Ned-Baldessin.png
@@ -1194,6 +1506,18 @@
   defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
   class: 2019 mentor
 
+"Olivier Garry":
+  image: img/communaute/miniatures/olivier-garry.jpg
+  title: Olivier Garry
+  link_to: /communaute/2019/olivier-garry.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/cgdd.html" target="new">CGDD</a>
+  class:
+  - dig
+  - mentor
+
 "Pascal Guy":
   image: img/communaute/miniatures/pascal-guy.jpg
   title: Pascal Guy
@@ -1267,6 +1591,18 @@
   - eig
   - datascientist
 
+"Pierre Arène":
+  image: img/communaute/miniatures/pierre-arene.jpg
+  title: Pierre Arène
+  link_to: /communaute/2019/pierre-arene.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/academie-de-lyon.html" target="new">Académie de Lyon</a>
+  class:
+  - dig
+  - mentor
+
 "Pierre Camilleri":
   image: img/communaute/miniatures/pierre-camilleri.png
   title: Pierre Camilleri
@@ -1280,10 +1616,10 @@
   - eig
   - datascientist
 
-"Pierre Charreaux":
-  image: img/communaute/miniatures/pierre-charreaux.png
-  title: Pierre Charreaux
-  link_to: /communaute/2019/pierre-charreaux.html
+"Pierre Charreau":
+  image: img/communaute/miniatures/pierre-charreau.png
+  title: Pierre Charreau
+  link_to: /communaute/2019/pierre-charreau.html
   annees:
   - 2019
   profil: Designer
@@ -1304,6 +1640,18 @@
   - eig-3
   - eig
   - datascientist
+
+"Régis Perol":
+  image: img/communaute/miniatures/regis-perol.jpg
+  title: Régis Perol
+  link_to: /communaute/2019/regis-perol.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dila.html" target="new">DILA</a>
+  class:
+  - dig
+  - mentor
 
 "Renaud Périn":
   image: img/communaute/miniatures/Sans-photo.png
@@ -1462,6 +1810,18 @@
   - DIG
   - designer
 
+"Sophie Jacquemont":
+  image: img/communaute/miniatures/sophie-jacquemont.jpg
+  title: Sophie Jacquemont
+  link_to: /communaute/2019/sophie-jacquemont.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dihal.html" target="new">DIHAL</a>
+  class:
+  - dig
+  - mentor
+
 "Sophie Miljkovic":
   image: img/communaute/miniatures/sophie-milkovitch.jpg
   title: Sophie Miljkovic
@@ -1487,6 +1847,30 @@
   - eig
   - webdev
 
+"Stephane Mavel":
+  image: img/communaute/miniatures/stephane-mavel.jpg
+  title: Stephane Mavel
+  link_to: /communaute/2019/stephane-mavel.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dinsic.html" target="new">DINSIC</a>
+  class:
+  - dig
+  - mentor
+
+"Stephane Petit":
+  image: img/communaute/miniatures/stephane-petit.jpg
+  title: Stephane Petit
+  link_to: /communaute/2019/stephane-petit.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/ministere-des-armees.html" target="new">Ministère des Armées</a>
+  class:
+  - dig
+  - mentor
+
 "Stéphanie Combes":
   image: img/communaute/miniatures/stephanie-combes.jpg
   title: Stéphanie Combes
@@ -1497,6 +1881,18 @@
   defi: <a href="/defis/2018/labsante.html" target="new">Lab Santé</a>
   class:
   - eig-2
+  - mentor
+
+"Stephanie Devigne":
+  image: img/communaute/miniatures/stephanie-devigne.jpg
+  title: Stephanie Devigne
+  link_to: /communaute/2019/stephanie-devigne.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/caisse-nationale-dassurance-maladie.html" target="new">CNAM</a>
+  class:
+  - dig
   - mentor
 
 "Stéphanie Schaer":
@@ -1576,6 +1972,18 @@
   - eig
   - datascientist
 
+"Valérie Peneau":
+  image: img/communaute/miniatures/valerie-peneau.jpg
+  title: Valérie Peneau
+  link_to: /communaute/2019/valerie-peneau.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/mission-identite-numerique.html" target="new">Mission Identité Numérique</a>
+  class:
+  - dig
+  - mentor
+
 "Victor Journé":
   image: img/communaute/miniatures/victor-journe.jpg
   title: Victor Journé
@@ -1614,6 +2022,18 @@
   - eig-3
   - eig
   - datascientist
+
+"Vincent Bataille":
+  image: img/communaute/miniatures/vincent-bataille.jpg
+  title: Vincent Bataille
+  link_to: /communaute/2019/vincent-bataille.html
+  annees:
+  - 2019
+  profil: Mentor
+  defi: <a href="/defis/2019/dinsic.html" target="new">DINSIC</a>
+  class:
+  - dig
+  - mentor
 
 "Wojtek Sitarz":
   image: img/communaute/miniatures/wojtek-sitarz.jpg
