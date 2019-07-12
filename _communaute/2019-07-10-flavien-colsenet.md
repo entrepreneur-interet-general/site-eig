@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: 
+github:
+linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
 nom: Flavien Colsenet
 website: 
 annees: DIG
