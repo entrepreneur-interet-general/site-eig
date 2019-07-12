@@ -13,9 +13,9 @@
   colorback: blue
   eigs:
     - "Julien Dubedout"
-mentors:
+  mentors:
     - "Nicolas Mathieu"
-
+    - "David Vigier"
 "DILA":
   image: /img/dig/17.png
   title: "DILA"
@@ -31,6 +31,9 @@ mentors:
   colorback: blue
   eigs:
     - "Rosine Bernez"
+  mentors:
+    - "Géraldine Da Sylva"
+    - "Régis Perol"
 "DINSIC":
   image: /img/dig/07.png
   title: "DINSIC"
@@ -46,6 +49,9 @@ mentors:
   colorback: blue
   eigs:
     - "Maxime Beaugrand"
+  mentors:
+    - "Stéphane Mavel"
+    - "Vincent Bataille"
 "Mission Identité numérique":
   image: /img/dig/06.png
   title: "Mission Identité numérique"
@@ -61,6 +67,9 @@ mentors:
   colorback: blue
   eigs:
     - "Jérémie Baboukhian"
+  mentors:
+    - "Marc Loutrel"
+    - "Valérie Peneau"
 "Caisse nationale d'Assurance maladie":
   image: /img/dig/04.png
   title: "Caisse nationale d'Assurance maladie"
@@ -76,6 +85,9 @@ mentors:
   colorback: blue
   eigs:
     - "Alexis Deny"
+  mentors:
+    - "Stéphanie Devigne"
+    - "Catherine Duyck-Bagot"
 "SCHAPI":
   image: /img/dig/16.png
   title: "SCHAPI"
@@ -91,6 +103,10 @@ mentors:
   colorback: blue
   eigs:
     - "Flavien Colsenet"
+  mentors:
+    - "Christophe Astier"
+    - "Julien Laffargue"
+    - "Jean-Marie Coulomb"
 "Shom":
   image: /img/dig/15.png
   title: "Shom"
@@ -106,6 +122,9 @@ mentors:
   colorback: blue
   eigs:
     - "Cécile Canel"
+  mentors:
+    - "Bénédicte Ezvan"
+    - "Gilles Martinoty"
 "CGDD":
   image: /img/dig/11.png
   title: "CGDD"
@@ -122,6 +141,9 @@ mentors:
   eigs:
     - "Marie Ramon-Daré"
     - "Charlotte Marmet"
+  mentors:
+    - "Olivier Garry"
+    - "Laurence Monnoyer-Smith"
 "Ministère des Armées":
   image: /img/dig/11.png
   title: "Ministère des Armées"
@@ -137,6 +159,9 @@ mentors:
   colorback: blue
   eigs:
     - "Marc Bouteiller "
+  mentors:
+    - "Jérémy Bakkalian"
+    - "Stephane Petit"
 "Ministère de l'Education Nationale":
   image: /img/dig/02.png
   title: "Ministère de l'Education Nationale"
@@ -153,6 +178,10 @@ mentors:
   eigs:
     - "Charlotte Bourcier"
     - "Sarah Lepreux"
+  mentors:
+    - "Marine Gout"
+    - "Jérôme Letanou"
+    - "Laurent Le Prieur"
 "Muséum d'Histoire Naturelle":
   image: /img/dig/12.png
   title: "Muséum d'Histoire Naturelle"
@@ -168,6 +197,9 @@ mentors:
   colorback: blue
   eigs:
     - "Jean-Edouard Sastre"
+  mentors:
+    - "Mathieu Clair"
+    - "Jean-Denis Vigne"
 "Dihal":
   image: /img/dig/13.png
   title: "Dihal"
@@ -183,6 +215,9 @@ mentors:
   colorback: blue
   eigs:
     - "Laure Dubuc"
+  mentors:
+    - "Sophie Jacquemont"
+    - "Manuel Demougeot"
 "DGGN":
   image: /img/dig/14.png
   title: "DGGN"
@@ -199,6 +234,10 @@ mentors:
   eigs:
     - "Iris Villagra Naudin"
     - "Nicolas Grandjean"
+  mentors:
+    - "Hervé Beguinot"
+    - "Michael Fumery"
+    - "Armando De Oliveira"
 "Académie de Lyon":
   image: /img/dig/05.png
   title: "Académie de Lyon"
@@ -214,6 +253,9 @@ mentors:
   colorback: blue
   eigs:
     - "Laurent Darellis"
+  mentors:
+    - "Jérôme Blondon"
+    - "Pierre Arène"
 "Ministère de l'Intérieur":
   image: /img/dig/10.png
   title: "Ministère de l'Intérieur"
@@ -229,6 +271,9 @@ mentors:
   colorback: blue
   eigs:
     - "Nicolas Patriarca"
+  mentors:
+    - "Marie Juille"
+    - "Laurent Buchaillat"
 "Académie de Clermont-Ferrand":
   image: /img/dig/03.png
   title: "Académie de Clermont-Ferrand"
@@ -245,6 +290,9 @@ mentors:
   eigs:
     - "Sofia Boulaarab"
     - "Pierre Charreaux"
+  mentors:
+    - "Evelyne Vezinet"
+    - "Béatrice Clément"
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
