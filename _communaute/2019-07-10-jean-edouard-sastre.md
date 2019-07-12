@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: https://www.linkedin.com/in/edouard-sastre
 nom: Jean-Edouard Sastre
 website: 
 annees: DIG
