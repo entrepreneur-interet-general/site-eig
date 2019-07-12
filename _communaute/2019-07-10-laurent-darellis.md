@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: www.linkedin.com/in/laurentdarellis/
 nom: Laurent Darellis
 website: 
 annees: DIG
