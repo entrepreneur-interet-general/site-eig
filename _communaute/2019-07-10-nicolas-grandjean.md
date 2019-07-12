@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: www.linkedin.com/in/nicolas-grandjean-64b325107
 nom: Nicolas Grandjean
 website: 
 annees: DIG
