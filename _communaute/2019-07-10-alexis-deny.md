@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin : https://www.linkedin.com/in/alexis-deny-581a3a9a/
 nom: Alexis Deny
 website: 
 annees: DIG
