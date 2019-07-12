@@ -6,7 +6,7 @@ twitter: CarreGuenole
 description: "En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
 ---
 
-## Prendre du recul sur le programme grâce à un tour d'horizon international d'initiatives similaires
+## Tour d'horizon international d'initiatives similaires au programme Entrepreneurs d'Intérêt Général
 
 **Qu'est-ce que le programme Entrepreneurs d'Intérêt Général ?**
 
@@ -27,7 +27,7 @@ Nous nous sommes intéressés aux initiatives suivantes :
 
 La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler certaines tendances de fond qui nous paraissent utiles pour mieux comprendre notre environnement et pour constater nos points de convergence.
 
-### [Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
+**[Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)**
 
 ![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
