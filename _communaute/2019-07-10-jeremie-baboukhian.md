@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: baboukhian
+github: marzchew
+linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
 nom: Jérémie Baboukhian
 website: 
 annees: DIG
