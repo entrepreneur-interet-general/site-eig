@@ -27,7 +27,7 @@ Nous nous sommes intéressés aux initiatives suivantes :
 
 La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler certaines tendances de fond qui nous paraissent utiles pour mieux comprendre notre environnement et pour constater nos points de convergence.
 
-**[Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)**
+#### [Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
 
 ![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
