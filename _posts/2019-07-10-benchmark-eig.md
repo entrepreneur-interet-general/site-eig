@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Comment les administrations recrutent-elles des compétences numériques ? Tour d’horizon international des initiatives similaires au programme Entrepreneurs d’Intérêt Général"
+title: "Mobiliser des compétences numériques dans l'administration : quelles initiatives à l'étranger ?"
 author: Guénolé Carré, équipe EIG
 twitter: CarreGuenole
 description: "En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
 ---
 
-Le programme Entrepreneurs d'Intérêt Général (EIG) permet aux administrations de recruter des citoyens dotés de compétences numériques de pointe. Ils ont 10 mois pour relever des défis d’amélioration du service public à l’aide du numérique et des données.
+## Prendre du recul sur le programme grâce à un tour d'horizon international d'initiatives similaires
+
+**Qu'est-ce que le programme Entrepreneurs d'Intérêt Général ?**
+
+Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [Direction interministérielle du numérique](https://numerique.gouv.fr/dinsic/).
+
+**Quels sont les objectifs de cette démarche ?**
 
 Afin de poursuivre la [démarche d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html) du programme, nous nous sommes intéressés à des initiatives similaires mises en place par des administrations dans d’autres pays. Notre objectif était de mieux comprendre leur fonctionnement, leur source de financement, leur rapport aux administrations de leur pays, ainsi que les types de projets menés et les profils recrutés.
 
@@ -21,11 +27,11 @@ Nous nous sommes intéressés aux initiatives suivantes :
 
 La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler certaines tendances de fond qui nous paraissent utiles pour mieux comprendre notre environnement et pour constater nos points de convergence.
 
-## Voir le tour d’horizon complet [au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
+### [Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
 
 ![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
-## Quels sont les enseignements que nous retirons de cette analyse ? 
+## Quels enseignements retirons-nous de cette analyse ? 
 
 **Plusieurs réponses pour une même problématique : la recherche de compétences spécifiques au numérique**
 
@@ -61,5 +67,8 @@ Le programme EIG se concentre sur 3 compétences spécifiques : data science, d�
 Par ailleurs, le programme EIG travaille quasiment en exclusivité avec des administrations centrales ou ayant un rayonnement national. Cela n’est pas le cas de certains *Code For*, comme Code for Australia qui travaillait à l’origine principalement dans [l’Etat de Victoria](https://codeforaustralia.org/case-studies/) avant d’envisager un déploiement national.
 De nombreuses initiatives visent aussi à créer des outils qui ont vocation à avoir un impact direct sur les citoyens, tandis que le programme EIG crée majoritairement des outils qui améliorent l’efficacité de l’administration et du service public, ce qui participera *in fine* à l’amélioration de l’expérience des citoyens utilisateurs de ces services.
 
-**Ce tour d'horizon de différentes initiatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place dans un mouvement qui touche toutes les administrations. En optant pour un format court -10 mois- et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des citoyens motivés par des défis d'intérêt général.**
+---
+
+Ce tour d'horizon de différentes initiatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place dans un mouvement qui touche toutes les administrations. En optant pour un format court -10 mois- et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des citoyens motivés par des défis d'intérêt général.
+
  _Si vous souhaitez entrer en contact avec nous au sujet de cette enquête, vous pouvez envoyer un e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>. Nous serons ravis d'en discuter avec vous._ 
