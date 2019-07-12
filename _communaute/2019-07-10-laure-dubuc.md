@@ -2,6 +2,7 @@
 layout: personne
 twitter: 
 github: 
+linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
 nom: Laure Dubuc
 website: 
 annees: DIG
