@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter: FlavienColsenet
 github:
 linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
 nom: Flavien Colsenet
