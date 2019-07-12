@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter: judbd
+github: judbd
 nom: Julien Dubedout
 website: 
 annees: DIG
