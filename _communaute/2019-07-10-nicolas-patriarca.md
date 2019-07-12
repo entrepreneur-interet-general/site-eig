@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: 
+github: Nik165790
+linkedin: https://www,linkedin.com/in/nicolas-patriarca-5a94b67b
 nom: Nicolas Patriarca
 website: 
 annees: DIG
