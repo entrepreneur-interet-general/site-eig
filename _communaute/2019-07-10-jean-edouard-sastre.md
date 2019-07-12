@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter: EdouardSastre
 github: 
 linkedin: https://www.linkedin.com/in/edouard-sastre
 nom: Jean-Edouard Sastre
