@@ -29,8 +29,6 @@ La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler
 
 #### [Voir le tour d’horizon complet au format PDF](https://entrepreneur-interet-general.etalab.gouv.fr/docs/initiatives-recrutements-competences-numériques.pdf)
 
-</br>
-
 ![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
 ## Quels enseignements retirons-nous de cette analyse ? 
