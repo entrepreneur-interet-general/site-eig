@@ -2,7 +2,7 @@
 layout: personne
 twitter: 
 github: 
-nom: Pierre Charreaux
+nom: Pierre Charreau
 website: 
 annees: DIG
 defis: 
@@ -10,5 +10,5 @@ defis:
     site: /defis/2019/AcademieClermont.html
 profil: Designer
 images:
-  - /img/communaute/pierre-charreaux.png
+  - /img/communaute/pierre-charreau.png
 ---
