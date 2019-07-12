@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: mbout92
 github: 
+linkedin: www.linkedin.com/in/marc-bouteiller-511431a8
 nom: Marc Bouteiller
 website: 
 annees: DIG
