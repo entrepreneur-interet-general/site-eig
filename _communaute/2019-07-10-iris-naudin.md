@@ -1,7 +1,8 @@
 ---
 layout: personne
 twitter: 
-github: 
+github:
+linkedin: https://www.linkedin.com/in/irisvnaudin/
 nom: Iris Naudin
 website: 
 annees: DIG
