@@ -65,7 +65,7 @@
   class: 2019 data web
   skills: EIG 3 // Data // Web
   colorback: red
-  description: Aider au contrôle des navires profesionnels
+  description: Aider au contrôle des navires professionnels
   year: 2019
   promotion: 3
   duration_months: 10
@@ -85,7 +85,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: Construire un référentiel d'indémnisation des préjudices corporels
+  description: Construire un référentiel d'indemnisation des préjudices corporels
   year: 2019
   promotion: 3
   duration_months: 10
@@ -169,11 +169,26 @@
   duration_months: 10
   administration: Ministère de l’Intérieur et Agence nationale du traitement automatisé des infractions (ANTAI)
   administration_website: https://www.antai.gouv.fr/
+  source_code: https://github.com/ia-flash
+  website: https://iaflash.fr
   eigs:
     - "Victor Journé"
     - "Cristian Perez Brokate"
   mentors:
     - "Daniel Ansellem"
+  projects:
+    -
+      image: img/realisations/2019/matchvec.png
+      title: "Détection des marque et modèle du véhicule"
+      description: "Nous avons conçu une brique d'intelligence artificielle pour détecter la marque et modèle de véhicules dans une photo."
+      url: https://iaflash.fr
+      call_to_action: "Tester l'API"
+    -
+      image: img/realisations/2019/sivnorm.png
+      title: "Match flou de la marque et modèle des véhicules dans la carte grise à partir d'un référentiel"
+      description: "Nous avons développé un outil pour nettoyer les champs marque et modèle de la carte grise en le rapprochant à un référentiel."
+      url: https://iaflash.fr/sivnorm
+      call_to_action: "Tester l'API"
 
 "Karfu'R":
   image: /img/logo-karfur.png
@@ -230,12 +245,34 @@
   duration_months: 10
   administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
+  source_code: https://gitlab.com/healthdatahub
   eigs:
     - "Pierre-Alain Jachiet"
     - "Viktor Jarry"
   mentors:
     - "Philéas Condemine"
     - "Stéphanie Combes"
+  projects:
+    - image: img/realisations/2019/documentation-collaborative-snds.png
+      title: "Documentation collaborative du SNDS"
+      description: "Nous avons mis en place une documentation collaborative sur le Système National des Données de Santé. Ce site a vocation à être alimenté par tout sachant sur le SNDS."
+      url: https://documentation-snds.health-data-hub.fr/
+      call_to_action: "Visiter la documentation"
+    - image: img/realisations/2019/dictionnaire-interactif-snds.png
+      title: "Dictionnaire interactif du SNDS"
+      description: "Nous avons contribué et rendu disponible en Open Source ce dictionnaire développé par des membres de la DREES contenant des informations sur les tables et variables du SNDS."
+      url: https://drees.shinyapps.io/dico-snds/
+      call_to_action: "Découvrir le dico SNDS"
+    - image: img/realisations/2019/groupe-meetup-health-data-hub.png
+      title: "Groupe Meetup Health Data Hub"
+      description: "En collaboration avec l'Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d'organiser des rencontres informelles au sujet du SNDS."
+      url: https://www.meetup.com/fr-FR/Health-Data-Hub/
+      call_to_action: "S'inscrire au groupe Meetup"
+    - image: img/realisations/2019/gitlab-health-data-hub.png
+      title: "Logiciels libres"
+      description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans plusieurs répertoires, tous publiés sous licences libres."
+      url: https://gitlab.com/healthdatahub
+      call_to_action: "Explorer le code"
 
 "Open Justice":
   image: /img/logo-open-justice.png
@@ -287,7 +324,6 @@
   class: 2019 data web
   skills: EIG 3 // Data // Web
   colorback: red
-  description: Améliorer la confiance des consommateurs en détectant des faux avis
   year: 2019
   promotion: 3
   duration_months: 10
@@ -299,6 +335,11 @@
     - "Luc Salommez"
   mentors:
     - "Audrey Istace"
+  key_figures:
+    - amount: 30000000
+      description: "avis analysés"
+    - amount: 14
+      description: "indicateurs calculés"
 
 "Archifiltre":
   image: /img/defis/9_ARCHEMSE.png
@@ -389,6 +430,7 @@
   promotion: 2
   administration: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
+  source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
   eigs:
     - "Dora Crisan"
     - "Jean-Baptiste Le Dévéhat"
@@ -1111,6 +1153,11 @@
       id: x5qme82
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
+    -
+      id: x7bmkan
+      platform: dailymotion
+      description: "Découvrez l'outil CartAv"
       show: true
 
 "MI - matchID":

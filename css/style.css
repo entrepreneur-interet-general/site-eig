@@ -973,9 +973,6 @@ body.screenshot {
   padding: 50px 40px;
 }
 .modBlogPost.big .info {
-  /* font-size: 0.78571rem; */
-  /* text-transform: uppercase; */
-  letter-spacing: 3px;
   color: #333;
 }
 .modBlogPost.big h3 {
@@ -1039,6 +1036,8 @@ body.screenshot {
 .modBlogPost.no_bg .content {
   padding: 10px 0 10px;
   background: none;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .modBlogPost.no_bg.no-media .content {
@@ -3749,7 +3748,7 @@ blockquote, ul, p {
   color: #20459a;
   box-shadow: 0 0px 0px 0 rgb(0, 0, 0), 0 1px 10px 0 rgba(0, 0, 0, 0.3);
 
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bolder;
 
   cursor: pointer;
