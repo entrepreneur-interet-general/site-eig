@@ -4,6 +4,7 @@ title: Les entrepreneurs d'intérêt général transforment-ils vraiment l'admin
 author: Guénolé Carré, équipe EIG
 twitter: carreguenole
 description: "Dans le cadre de la démarche d'évaluation du programme menée par l'équipe de coordination du programme EIG, nous vous présentons les résultats de l'enquête menée auprès des entrepreneurs d'intérêt général (EIG) et des mentors des deux premières promotions."
+image : https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/datajust-pac.jpg
 ---
 ## Prendre du recul sur le programme grâce à une rétrospective
 
