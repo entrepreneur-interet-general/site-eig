@@ -1,7 +1,8 @@
 ---
 layout: personne
-twitter: 
+twitter: CarreGuenole
 github: guenolec
+linkedin: https://fr.linkedin.com/in/gu%C3%A9nol%C3%A9-carr%C3%A9-101462a8
 nom: Guénolé Carré
 website:
 annees: 2019

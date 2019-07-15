@@ -69,6 +69,6 @@ De nombreuses initiatives visent aussi à créer des outils qui ont vocation à 
 
 ---
 
-Ce tour d'horizon de différentes initiatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place dans un mouvement qui touche toutes les administrations. En optant pour un format court -10 mois- et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des citoyens motivés par des défis d'intérêt général.
+Ce tour d'horizon de différentes initiatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place dans un mouvement qui touche toutes les administrations. En optant pour un format court – 10 mois – et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des citoyens motivés par des défis d'intérêt général.
 
  _Si vous souhaitez entrer en contact avec nous au sujet de cette enquête, vous pouvez envoyer un e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>. Nous serons ravis d'en discuter avec vous._ 
