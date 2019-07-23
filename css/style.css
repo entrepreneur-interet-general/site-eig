@@ -3487,7 +3487,8 @@ body {
 
   .modDefaultSlider.advanced .sequence .title h2 {
     letter-spacing: 1px;
-    font-size: 1.5rem
+    font-size: 1.5rem;
+    line-height: 1.5;
   }
   .modDefaultSlider.advanced .sequence p {
     font-size: 1.14286rem;
