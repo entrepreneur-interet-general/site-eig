@@ -70,24 +70,28 @@ communiques:
   <div class="three spacing"></div>
 
   <div class="row">
-    <h2>Kit de presse</h2>
+    <div class="medium-12 columns">
+      <h2>Kit de presse</h2>
 
-    <h5 class="mt-2">Logo du programme</h5>
-    <a href="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoEIG.png"><img src="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoEIG.png" alt="Logo du programme" class="thumbnail" width="500"></a>
+      <h5 class="mt-2">Logo du programme</h5>
+      <a href="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoEIG.png"><img src="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoEIG.png" alt="Logo du programme" class="thumbnail" width="500"></a>
 
-    <h5 class="mt-2">Logo du programme avec Marianne</h5>
-    <a href="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoMarianneEIG.png"><img src="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoMarianneEIG.png" alt="Logo du programme avec Marianne" class="thumbnail" width="500"></a>
+      <h5 class="mt-2">Logo du programme avec Marianne</h5>
+      <a href="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoMarianneEIG.png"><img src="https://raw.githubusercontent.com/entrepreneur-interet-general/design-system/master/Visuel/Logo/LogoEIG-Programme/LogoMarianneEIG.png" alt="Logo du programme avec Marianne" class="thumbnail" width="500"></a>
+    </div>
   </div>
 
   <div class="three spacing"></div>
 
   <div class="row">
-    <h2>Communiqués de presse</h2>
-    <ul>
-      {% for communique in page.communiques %}
-      <li><a href="{{ communique.url }}">{{ communique.title }}</a> ({{ communique.date }})</li>
-      {% endfor %}
-    </ul>
+    <div class="medium-12 columns">
+      <h2>Communiqués de presse</h2>
+      <ul>
+        {% for communique in page.communiques %}
+        <li><a href="{{ communique.url }}">{{ communique.title }}</a> ({{ communique.date }})</li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 
   <div class="four spacing"></div>
