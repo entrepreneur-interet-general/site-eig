@@ -535,6 +535,10 @@ ul.info i:hover {
   text-decoration: underline;
 }
 
+.kit-presse li {
+  margin-bottom: 2em;
+}
+
 form#contact_form {
   width: 97%;
 }
