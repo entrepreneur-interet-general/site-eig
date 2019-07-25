@@ -10,7 +10,7 @@ domicile en développant des APIs autour des données liées aux
 salariés, employeurs, et autres organismes intervenants dans les
 prélèvements sociaux.
 
-## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur 
+## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur
 
 ### La problématique
 
@@ -28,7 +28,7 @@ valorisation de ces données, elle souhaite développer de nouveaux
 services pour toutes ses parties prenantes : partenaires de la
 sécurité sociale, secteur privé, particuliers...
 
-### Le défi : proposer de nouveaux services pour améliorer l'expérience utilisateur des différents publics de l'ACOSS 
+### Le défi : proposer de nouveaux services pour améliorer l'expérience utilisateur des différents publics de l'ACOSS
 
 Un mot d'ordre préside à ce défi : expérience utilisateur. Les
 nouveaux services développés devront être construits en fonction de

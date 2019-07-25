@@ -4,7 +4,7 @@ title: "Académie de Clermont-Ferrand"
 ---
 
 
-### La problématique 
+### La problématique
 
 À la veille de la mise en œuvre de sa nouvelle offre téléphonique (un numéro unique avec un accueil humain renforcé), l’académie de Clermont-Ferrand souhaite poursuivre la dynamique par la création d’une interface numérique pour les usagers, dédiée à l’école inclusive, pour apporter des réponses de 1er niveau. L’enjeu est de simplifier le parcours des parents ayant des enfants en situation de handicap et d’expérimenter ainsi une solution innovante au profit du projet d’école inclusive.
 

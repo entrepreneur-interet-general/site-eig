@@ -9,6 +9,6 @@ Aujourd’hui, près de 25 000 espaces naturels sur tous les territoires frança
 
 Ainsi l’enjeu porte sur la sensibilisation, l’éducation, la formation et la prise de conscience des citoyens à leur environnement et de rendre accessible l’information de façon personnalisée, via de nouveaux projets numériques. La solution proposée est de mettre en place une application mobile permettant à tous les citoyens de découvrir les espaces à enjeux (espaces protégés, Natura 2000, ZNIEFF, etc.) qui les entourent, sur l’ensemble des territoires français (métropole et outre-mer). Le développement d’applications mobiles est une extension des outils web de l’Inventaire national du patrimoine naturel (INPN) permettant de rendre plus accessible l’information sur la nature et d’accompagner le citoyen dans son quotidien. L’information mise à jour en continu sera disponible en temps réel sur le mobile de l’utilisateur.
 
-## Le défi 
+## Le défi
 
 Mettre en place le parcours utilisateur, de la connexion à l’application jusqu’à la diffusion de l’information
