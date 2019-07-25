@@ -1,13 +1,13 @@
 ---
 layout: personne
-twitter: 
+twitter:
 nom: Daniel Ansellem
 website:
-annees: 
-  - 2017, 
-  - 2018, 
+annees:
+  - 2017,
+  - 2018,
   - 2019
-defis: 
+defis:
   - nom: MI - cartAV
     site: /defis/2017/mi-cartav-securite-routiere.html
   - nom: MI - matchID

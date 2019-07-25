@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/in/antoineaugusti/
 nom: Antoine Augusti
 website: https://www.antoine-augusti.fr
 annees: 2018
-defis: 
+defis:
   - nom: PrédiSauvetage /
     site: /defis/2018/donneesauvetagemaritime.html
   - nom: EIG Link

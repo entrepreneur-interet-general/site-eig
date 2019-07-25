@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: Nik165790
 linkedin: https://www.linkedin.com/in/nicolas-patriarca-5a94b67b
 nom: Nicolas Patriarca
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: Ministère de l'Intérieur
     site: /defis/2019/MinInt.html
 profil: Designer

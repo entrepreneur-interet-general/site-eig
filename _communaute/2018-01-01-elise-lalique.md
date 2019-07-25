@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: Eliselalique
 nom: Élise Lalique
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Social Connect
     site: /defis/2018/socialconnect.html
 profil: Designeuse UX

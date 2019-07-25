@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 nom: Quentin Loridant
 website:
 annees: 2019
-defis: 
+defis:
   - nom: CibNav
     site: /defis/2019/cibnav.html
 profil: Data scientist

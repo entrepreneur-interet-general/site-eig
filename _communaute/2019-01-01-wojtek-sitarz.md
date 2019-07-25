@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: wojteksitarz
 linkedin: https://www.linkedin.com/in/wojtek-sitarz/
 nom: Wojtek Sitarz
 website:
 annees: 2019
-defis: 
+defis:
   - nom: CartoBio
     site: /defis/2019/cartobio.html
 profil: Data scientist

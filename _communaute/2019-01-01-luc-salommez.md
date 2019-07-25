@@ -1,12 +1,12 @@
 ---
 layout: personne
 twitter: LucSalommez
-github: 
+github:
 linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa
 nom: Luc Salommez
 website:
 annees: 2019
-defis: 
+defis:
   - nom: PolyGraphe
     site: /defis/2019/polygraphe.html
 profil: Développeur

@@ -4,7 +4,7 @@ twitter: BenedictePachod
 nom: Bénédicte Pachod
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Social Connect
     site: /defis/2018/socialconnect.html
 profil: Mentor

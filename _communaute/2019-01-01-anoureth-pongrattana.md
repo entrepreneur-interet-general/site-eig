@@ -6,7 +6,7 @@ linkedin: https://fr.linkedin.com/in/anoureth-pongrattana-3946b2a5
 nom: Anoureth Pongrattana
 website:
 annees: 2019
-defis: 
+defis:
   - nom: ACOSS-plateforme
     site: /defis/2019/acossplateforme.html
 profil: Développeur

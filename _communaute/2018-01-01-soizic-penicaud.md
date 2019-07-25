@@ -5,10 +5,10 @@ github : soizicpenicaud
 nom: Soizic Pénicaud
 website:
 annees: 2018
-defis: 
+defis:
   - nom: EIG Node
-    site: 
-profil: 
+    site:
+profil:
 images:
   - /img/communaute/soizic_penicaud.jpg
 ---

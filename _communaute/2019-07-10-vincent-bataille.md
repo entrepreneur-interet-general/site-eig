@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Vincent Bataille
 website:
 annees: 2019
-defis: 
+defis:
   - nom: DINSIC
     site: /defis/2019/dinsic.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/vincent-bataille.jpg
 ---

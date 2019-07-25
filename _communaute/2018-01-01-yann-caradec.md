@@ -4,7 +4,7 @@ twitter: y_caradec
 nom: Yann Caradec
 website:
 annees: 2018
-defis: 
+defis:
   - nom: MESRI - La machine à données
     site: /defis/2017/mesri-magical-merge-machine.html
   - nom: DataESR

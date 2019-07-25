@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Nicolas Bizet
 website:
 annees: 2019
-defis: 
+defis:
   - nom: ACOSS-Plateforme
     site: /defis/2019/acossplateforme.html
 profil: Mentor

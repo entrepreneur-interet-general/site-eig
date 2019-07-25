@@ -5,10 +5,10 @@ github: lamat92
 nom: Laurence Matringe
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Prédisauvetage
     site: /defis/2018/donneesauvetagemaritime.html
-profil: 
+profil:
 images:
   -
 ---
@@ -16,7 +16,7 @@ images:
 « Je suis chargée de mission transformation numérique
 et adjointe à la sous-directrice « activités maritimes » au sein de la
 direction des affaires maritimes du Ministère de la Transition
-écologique et solidaire. 
+écologique et solidaire.
 
 J'ai participé en équipe à plusieurs hackathons publics (Cour des
 Comptes, Ministère des affaires étrangères) et remporté celui sur la

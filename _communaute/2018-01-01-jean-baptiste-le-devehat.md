@@ -5,12 +5,12 @@ github: jbledevehat
 nom: Jean-Baptiste Le Dévéhat
 website:
 annees: 2018, 2019
-defis: 
+defis:
   - nom: Brigade numérique /
     site: /defis/2018/brigadenumerique.html
   - nom: EIG Link
     site: /defis/2019/eiglink.html
-profil: Designer 
+profil: Designer
 images:
   - /img/communaute/jean-baptiste-le-devehat.png
 ---
@@ -23,5 +23,5 @@ Transitionum en transition numérique. Aujourd’hui, je propose des
 méthodes et des outils durables, où les utilisateurs sont en capacité
 d’élaborer leurs solutions, offrant ainsi un cadre à l’innovation
 sociale et l’intérêt général. Permaculteur et engagé dans les villes
-en transition, je m’engage dans de nombreux réseaux 
+en transition, je m’engage dans de nombreux réseaux
 civiques, associatifs, locaux et des "communs". »

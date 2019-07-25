@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Cédric Malherbe
-website: 
+website:
 annees: 2019
-defis: 
+defis:
   - nom: DataJust
     site: /defis/2019/datajust.html
 profil: Data scientist

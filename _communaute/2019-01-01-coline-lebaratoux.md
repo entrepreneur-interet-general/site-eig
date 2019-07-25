@@ -1,12 +1,12 @@
 ---
 layout: personne
 twitter: colinelbx
-github: 
+github:
 linkedin : http://linkedin.com/in/coline-lebaratoux
 nom: Coline Lebaratoux
 website:
 annees: 2019
-defis: 
+defis:
   - nom: ACOSS-Plateforme
     site: /defis/2019/acossplateforme.html
 profil: Designer de Services/UX

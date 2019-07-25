@@ -5,7 +5,7 @@ github: EtienneDavid
 nom: Etienne David
 website:
 annees: 2017
-defis: 
+defis:
   - nom: AFD - Geodata
     site: /defis/2017/afd-geodata.html
 profil: Datascientist

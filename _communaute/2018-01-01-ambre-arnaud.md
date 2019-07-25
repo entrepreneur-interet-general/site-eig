@@ -5,7 +5,7 @@ github: ambreelmee
 nom: Ambre Arnaud
 website:
 annees: 2018
-defis: 
+defis:
   - nom: DataESR
     site: /defis/2018/dataesr.html
 profil: Développeuse

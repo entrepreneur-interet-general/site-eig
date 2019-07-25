@@ -5,7 +5,7 @@ github: trojette
 nom: Mohammed Adnène Trojette
 website:
 annees: 2017, 2019
-defis: 
+defis:
   - nom: CC - API rapports
     site: /defis/2017/cc-api-rapports.html
   - nom: Plume

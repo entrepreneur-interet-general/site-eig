@@ -1,12 +1,12 @@
 ---
 layout: personne
 twitter: MthPrz
-github: 
+github:
 linkedin : https://www.linkedin.com/in/mathieujperez/
 nom: Mathieu Perez
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Open Justice
     site: /defis/2019/openjustice.html
 profil: Développeur

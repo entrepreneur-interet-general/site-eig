@@ -5,10 +5,10 @@ github: lauriechap
 nom: Laurie Chapotte
 website: http://chapottelaurie.fr/
 annees: 2018
-defis: 
+defis:
   - nom: Gobelins
     site: /defis/2018/gobelins.html
-profil: 
+profil:
 images:
   - /img/communaute/Laurie-Chapotte.png
 ---

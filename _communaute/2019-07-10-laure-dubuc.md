@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
 nom: Laure Dubuc
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: DIHAL
     site: /defis/2019/DIHAL.html
 profil: Designer

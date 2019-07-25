@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Marie Feucher
 website:
 annees: 2019

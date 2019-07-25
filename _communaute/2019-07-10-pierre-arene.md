@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Pierre Arène
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Académie de Lyon
     site: /defis/2019/academie-de-lyon.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/pierre-arene.jpg
 ---

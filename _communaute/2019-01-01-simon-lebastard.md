@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: slebastard
-nom: Simon Lebastard 
+nom: Simon Lebastard
 linkedin: https://www.linkedin.com/in/simon-lebastard/
 annees: 2019
-defis: 
+defis:
   - nom: ADLER
     site: /defis/2019/adler.html
 profil: Data scientist

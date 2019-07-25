@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: Elsalune
 nom: Elsa Luneville
 website:

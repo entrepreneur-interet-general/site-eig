@@ -5,7 +5,7 @@ github: scossin
 nom: Sébastien Cossin
 website:
 annees: 2017
-defis: 
+defis:
   - nom: ARS - Parcours de soin
     site: /defis/2017/ars-occitanie-parcours-de-soin.html
 profil: Développeur

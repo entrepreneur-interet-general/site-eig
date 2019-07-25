@@ -6,10 +6,10 @@ linkedin: https://fr.linkedin.com/in/amaury-fouret-283422125
 nom: Amaury Fouret
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Open Justice
     site: /defis/2019/openjustice.html
-profil: 
+profil:
   - Data scientist
 images:
   - /img/communaute/amaury-fouret.png

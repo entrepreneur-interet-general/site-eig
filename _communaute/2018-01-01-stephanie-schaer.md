@@ -1,13 +1,13 @@
 ---
 layout: personne
-twitter: 
+twitter:
 nom: Stéphanie Schaer
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Signaux Faibles
     site: /defis/2018/signauxfaibles.html
-profil: 
+profil:
 images:
   - /img/communaute/stephanie-schaer.png
 ---

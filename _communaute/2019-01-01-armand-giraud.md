@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: ArmandGiraud
 nom: Armand Giraud
 linkedin: https://www.linkedin.com/in/armandgiraud/
 annees: 2019
-defis: 
+defis:
   - nom: ExploCode
     site: /defis/2019/explocode.html
 profil: Data scientist

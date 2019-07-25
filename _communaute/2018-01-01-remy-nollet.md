@@ -1,10 +1,10 @@
 ---
 layout: personne
-twitter: 
+twitter:
 nom: Rémy Nollet
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Brigade Numérique
     site: /defis/2018/brigadenumerique.html
 profil:
@@ -12,7 +12,7 @@ images:
   - /img/communaute/remynollet.jpg
 ---
 
-« Ingénieur issu de l’école Polytechnique et après avoir effectué 
+« Ingénieur issu de l’école Polytechnique et après avoir effectué
 un stage de recherche à l’université de Berkeley, j'ai
 choisi de devenir officier de gendarmerie en 2005. Optant pour une
 dominante de carrière en sécurité publique générale, j'ai commandé

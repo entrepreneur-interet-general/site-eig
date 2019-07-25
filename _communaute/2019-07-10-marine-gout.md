@@ -2,7 +2,7 @@
 layout: personne
 twitter: MarineGout
 github:
-linkedin: https://www.linkedin.com/in/mgout 
+linkedin: https://www.linkedin.com/in/mgout
 nom: Marine Gout
 website:
 annees: DIG

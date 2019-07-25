@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Stéphane Mavel
 website:
 annees: 2019
-defis: 
+defis:
   - nom: France Connect
     site: /defis/2019/dinsic.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/stephane-mavel.png
 ---

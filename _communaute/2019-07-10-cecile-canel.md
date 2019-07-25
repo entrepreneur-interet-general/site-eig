@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Cécile Canel
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: Shom
     site: /defis/2019/SHOM.html
 profil: Designer

@@ -4,9 +4,9 @@ twitter: Charlotte_Bcr
 github:
 linkedin: https://www.linkedin.com/in/charlottebourcier/
 nom: Charlotte Bourcier
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: Ministère de l'Education Nationale
     site: /defis/2019/EducNat.html
 profil: Designer

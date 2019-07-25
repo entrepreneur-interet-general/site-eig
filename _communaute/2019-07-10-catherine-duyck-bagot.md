@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Catherine Duyck-Bagot
 website:
 annees: 2019
-defis: 
+defis:
   - nom: CNAM
     site: /defis/2019/caisse-nationale-dassurance-maladie.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/catherine-duyck-bagot.jpg
 ---

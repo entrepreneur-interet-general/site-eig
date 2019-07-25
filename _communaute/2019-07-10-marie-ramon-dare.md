@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
 nom: Marie Ramon-Daré
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: CGDD
     site: /defis/2019/CGDD.html
 profil: Designer

@@ -1,15 +1,15 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Mathieu Andro
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Plume
     site: /defis/2019/plume.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/mathieu-andro.png
 ---
 

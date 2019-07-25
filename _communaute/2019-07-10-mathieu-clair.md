@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Mathieu Clair
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Muséum d'Histoire Naturelle
     site: /defis/2019/museum-dhistoire-naturelle.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/mathieu-clair.jpg
 ---

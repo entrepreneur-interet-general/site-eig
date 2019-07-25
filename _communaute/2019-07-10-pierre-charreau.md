@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Pierre Charreau
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: Académie de Clermont Ferrand
     site: /defis/2019/AcademieClermont.html
 profil: Designer

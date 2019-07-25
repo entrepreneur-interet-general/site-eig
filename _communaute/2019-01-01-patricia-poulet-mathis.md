@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Patricia Poulet-Mathis
 website:
 annees: 2019

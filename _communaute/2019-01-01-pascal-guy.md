@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Pascal Guy
 website:
 annees: 2019
@@ -10,7 +10,7 @@ defis:
     site: /defis/2019/plume.html
 profil: Mentor
 images:
-  - /img/communaute/pascal-guy.png 
+  - /img/communaute/pascal-guy.png
 
 ---
 

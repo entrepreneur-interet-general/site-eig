@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Hervé Béguinot
 website:
 annees: 2019
-defis: 
+defis:
   - nom: DGGN
     site: /defis/2019/dggn.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/herve-beguinot.jpg
 ---

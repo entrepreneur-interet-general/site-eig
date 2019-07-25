@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Marc Loutrel
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Mission Identité Numérique
     site: /defis/2019/mission-identite-numerique.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/marc-loutrel.png
 ---

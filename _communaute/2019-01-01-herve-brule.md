@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Hervé Brulé
 website:
 annees: 2019

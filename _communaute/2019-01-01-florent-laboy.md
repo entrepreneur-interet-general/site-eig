@@ -1,12 +1,12 @@
 ---
 layout: personne
 twitter: "@F__Lab"
-github: 
+github:
 linkedin: https://fr.linkedin.com/in/florent-laboy
 nom: Florent Laboy
-website: 
+website:
 annees: 2019
-defis: 
+defis:
   - nom: Plume
     site: /defis/2019/plume.html
 profil: Mentor

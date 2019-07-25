@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: madageomapping
 nom: Thierry Razanajao
 website:
 annees: 2019
-defis: 
+defis:
   - nom: DataReg
     site: /defis/2019/datareg.html
 profil: Data scientist

@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: mhavel
 linkedin : https://www.linkedin.com/in/mathieu-havel/
 nom: Mathieu Havel

@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Laurence Monnoyer-Smith
 website:
 annees: 2019
-defis: 
+defis:
   - nom: CGDD
     site: /defis/2019/cgdd.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/laurence-monnoyer-smith.jpg
 ---

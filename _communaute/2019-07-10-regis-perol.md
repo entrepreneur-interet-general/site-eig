@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Régis Perol
 website:
 annees: 2019
-defis: 
+defis:
   - nom: DILa
     site: /defis/2019/DILA.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/regis-perol.jpg
 ---

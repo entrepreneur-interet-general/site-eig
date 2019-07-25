@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Simon Karleskind
-website: 
+website:
 annees: 2019
-defis: 
+defis:
   - nom: Karfu'R
     site: /defis/2019/karfur.html
 profil: Mentor

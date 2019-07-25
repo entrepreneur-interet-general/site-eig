@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Béatrice Clément
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Académie de Clermont Ferrand
     site: /defis/2019/academie-de-clermont-ferrand.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/beatrice-clement.png
 ---

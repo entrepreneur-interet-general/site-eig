@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Sarah Lepreux
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: Ministère de l'Education Nationale
     site: /defis/2019/EducNat.html
 profil: Designer

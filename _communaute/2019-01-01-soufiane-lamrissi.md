@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: Tony4469
 nom: Soufiane Lamrissi
 linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
 annees: 2019
-defis: 
+defis:
   - nom: Karfu'R
     site: /defis/2019/karfur.html
 profil: Développeur

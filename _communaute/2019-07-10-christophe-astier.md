@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Christope Astier
 website:
 annees: 2019
-defis: 
+defis:
   - nom: SCHAPI
     site: /defis/2019/schapi.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/christophe-astier.png
 ---

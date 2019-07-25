@@ -4,10 +4,10 @@ twitter: fbocquet
 nom: François Bocquet
 website:
 annees: 2018
-defis: 
+defis:
   - nom: CoachÉlèves
     site: /defis/2018/coacheleves.html
-profil: 
+profil:
 images:
   - /img/communaute/francois-bocquet.png
 ---

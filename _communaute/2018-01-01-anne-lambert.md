@@ -4,7 +4,7 @@ twitter:
 nom: Anne Lambert
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Archifiltre
     site: /defis/2018/archifiltre.html
 profil: Mentor

@@ -1,15 +1,15 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Edouard Rottier
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Open Justice
     site: /defis/2019/openjustice.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/edouard-rottier.png
 ---
 

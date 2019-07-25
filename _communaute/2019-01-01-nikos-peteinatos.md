@@ -6,7 +6,7 @@ nom: Nikos Peteinatos
 linkedin: https://linkedin.com/in/nikosgpet
 website: http://nikosgpet.com
 annees: 2019
-defis: 
+defis:
   - nom: Plume
     site: /defis/2019/plume.html
 profil: Designer

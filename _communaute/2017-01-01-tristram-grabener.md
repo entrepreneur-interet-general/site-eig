@@ -5,7 +5,7 @@ github: Tristramg
 nom: Tristram Gräbener
 website:
 annees: 2017
-defis: 
+defis:
   - nom: MI - cartAV
     site: /defis/2017/mi-cartav-securite-routiere.html
 profil: Développeur

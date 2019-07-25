@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Gilles Martinoty
 website:
 annees: 2019
-defis: 
+defis:
   - nom: Shom
     site: /defis/2019/shom.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/gilles-martinoty.jpg
 ---

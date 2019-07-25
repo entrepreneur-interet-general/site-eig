@@ -1,6 +1,6 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: victorjourne
 nom: Victor Journé
 linkedin: https://www.linkedin.com/in/victorjourne/

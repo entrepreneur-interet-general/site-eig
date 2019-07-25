@@ -3,10 +3,10 @@ layout: personne
 twitter: delphinel
 nom: Delphine Lê
 website:
-annees: 
-  - 2018, 
+annees:
+  - 2018,
   - 2019
-defis: 
+defis:
   - nom: Hopkins
     site: /defis/2018/hopkins.html
   - nom: Adler

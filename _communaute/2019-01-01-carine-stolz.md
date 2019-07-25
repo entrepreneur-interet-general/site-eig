@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Carine Stolz
 linkedin: https://www.linkedin.com/in/carinestolz/
 annees: 2019
-defis: 
+defis:
   - nom: DataReg
     site: /defis/2019/datareg.html
 profil: Data scientist

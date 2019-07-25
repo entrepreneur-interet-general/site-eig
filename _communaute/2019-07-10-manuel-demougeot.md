@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Manuel Demougeot
 website:
 annees: 2019
-defis: 
+defis:
   - nom: DIHAL
     site: /defis/2019/dihal.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/manuel-demougeot.jpg
 ---

@@ -1,13 +1,13 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 gitlab: jnaour
 nom: Julien Naour
 website:
 annees: 2018
 defis: Lab Santé
-profil: 
+profil:
   - nom: Datascience
     site: /defis/2018/datascience.html
 images:

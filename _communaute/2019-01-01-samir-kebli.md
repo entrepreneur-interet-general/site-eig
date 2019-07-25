@@ -1,7 +1,7 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Samir Kebli
 website:
 annees: 2019

@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Hélène Cavalié
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Gobelins
     site: /defis/2018/gobelins.html
-profil: 
+profil:
 images:
   - /img/communaute/helene_cavalie.jpg
 ---
@@ -18,5 +18,5 @@ images:
 documentation et photos du Mobilier national. Impliquée dans la mise
 en ligne des données (en masse pour l'ouverture du portail européen
 des Archives, ciblée dans des éditions collaboratives de manuscrits
-sur Wikisource), je suis le mentor opérationnel des entrepreneurs 
+sur Wikisource), je suis le mentor opérationnel des entrepreneurs
 d'intérêt général du déif Gobelins. »

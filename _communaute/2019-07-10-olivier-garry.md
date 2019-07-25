@@ -1,14 +1,14 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Olivier Garry
 website:
 annees: 2019
-defis: 
+defis:
   - nom: CGDD
     site: /defis/2019/cgdd.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/olivier-garry.jpg
 ---

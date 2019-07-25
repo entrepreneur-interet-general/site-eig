@@ -8,8 +8,8 @@ website:
 annees: 2019
 defis:
   - nom: Accompagnement
-    site: 
-profil: 
+    site:
+profil:
 images:
   - /img/communaute/guenole-carre.jpg
 ---

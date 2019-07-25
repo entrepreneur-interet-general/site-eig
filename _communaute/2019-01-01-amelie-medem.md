@@ -2,10 +2,10 @@
 layout: personne
 linkedin: https://www.linkedin.com/in/amelie-medem
 github: letnotimitateothers
-twitter: 
+twitter:
 nom: Amélie Medem
 annees: 2019
-defis: 
+defis:
   - nom: Plume
     site: /defis/2019/plume.html
 profil: Data scientist

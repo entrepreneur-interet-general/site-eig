@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 linkedin: http://linkedin.com/in/rosine-bernez
-nom: Rosine Bernez 
-website: 
+nom: Rosine Bernez
+website:
 annees: DIG
-defis: 
+defis:
   - nom: DILA
     site: /defis/2019/DILA.html
 profil: Designer

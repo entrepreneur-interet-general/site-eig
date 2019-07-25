@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/in/pierrealainjachiet/
 nom: Pierre-Alain Jachiet
 website:
 annees: 2019
-defis: 
+defis:
   - nom: OpenChronic
     site: /defis/2019/openchronic.html
 profil: Data scientist

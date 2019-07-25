@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github:
 linkedin: https://www.linkedin.com/in/irisvnaudin/
 nom: Iris Naudin
-website: 
+website:
 annees: DIG
-defis: 
+defis:
   - nom: DGGN
     site: /defis/2019/DGGN.html
 profil: Designer

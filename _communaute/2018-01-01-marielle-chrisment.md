@@ -1,10 +1,10 @@
 ---
 layout: personne
-twitter: 
+twitter:
 nom: Marielle Chrisment
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Brigade Numérique
     site: /defis/2018/brigadenumerique.html
 profil:

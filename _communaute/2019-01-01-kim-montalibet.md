@@ -1,12 +1,12 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github:
 gitlab: kimi_mtb
 nom: Kim Montalibet
 linkedin: https://www.linkedin.com/in/kim-montalibet-1a01a265
 annees: 2019
-defis: 
+defis:
   - nom: DataJust
     site: /defis/2019/datajust.html
 profil: Data scientist

@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: phileas-condemine
 nom: Phileas Condemine
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Lab Santé
     site: /defis/2018/labsante.html
 profil: Datascience

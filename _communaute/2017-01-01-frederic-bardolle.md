@@ -5,7 +5,7 @@ github: seiteta
 nom: Frédéric Bardolle
 website:
 annees: 2017
-defis: 
+defis:
   - nom: Cour des comptes - API rapports
     site: /defis/2017/cc-api-rapports.html
 profil: Développeur

@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: retdop
 nom: Gabriel Bastard
 linkedin: https://www.linkedin.com/in/gbastard/
 annees: 2019
-defis: 
+defis:
   - nom: PolyGraphe
     site: /defis/2019/polygraphe.html
 profil: Data scientist

@@ -5,7 +5,7 @@ github: SebastienTouze
 nom: Sébastien Touzé
 linkedin: https://www.linkedin.com/in/sebastientouze
 annees: 2019
-defis: 
+defis:
   - nom: CibNAV
     site: /defis/2019/cibnav.html
 profil: Développeur

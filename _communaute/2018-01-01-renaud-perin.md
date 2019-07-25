@@ -1,13 +1,13 @@
 ---
 layout: personne
-twitter: 
+twitter:
 nom: Renaud Périn
 website:
 annees: 2018
-defis: 
+defis:
   - nom: PrédiSauvetage
     site: /defis/2018/donneesauvetagemaritime.html
-profil: 
+profil:
 images:
   -
 ---

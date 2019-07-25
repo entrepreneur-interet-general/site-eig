@@ -3,7 +3,7 @@ layout: personne
 nom: Nicolas Berkouk
 website:
 annees: 2019
-defis: 
+defis:
   - nom: ADLER
     site: /defis/2019/adler.html
 profil: Data scientist

@@ -5,7 +5,7 @@ github: dora27
 nom: Dora Crisan
 website:
 annees: 2018
-defis: 
+defis:
   - nom: Bridage Numérique
     site: /defis/2018/brigadenumerique.html
 profil: Développeuse

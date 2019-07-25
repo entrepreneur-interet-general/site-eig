@@ -1,15 +1,15 @@
 ---
 layout: personne
-twitter: 
-github: 
+twitter:
+github:
 nom: Julien Bouquillon
 website:
 annees: 2019
-defis: 
+defis:
   - nom: ExploCode
     site: /defis/2019/explocode.html
 profil: Mentor
-images: 
+images:
   - /img/communaute/julien-bouquillon.png
 ---
 

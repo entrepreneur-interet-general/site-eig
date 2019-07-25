@@ -1,11 +1,11 @@
 ---
 layout: personne
-twitter: 
+twitter:
 github: guillim
 nom: Guillaume Lancrenon
 website: https://guillim.github.io
 annees: 2018
-defis: 
+defis:
   - nom: Prévisecours
     site: /defis/2018/previsecours.html
 profil: Développement
