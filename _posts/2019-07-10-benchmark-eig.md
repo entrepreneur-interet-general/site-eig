@@ -3,6 +3,10 @@ layout: post
 title: "Mobiliser des compétences numériques dans l'administration : quelles initiatives à l'étranger ?"
 author: Guénolé Carré, équipe EIG
 twitter: CarreGuenole
+tags:
+  - foo
+  - bar
+  - baz
 description: "En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
 ---
 
