@@ -3,7 +3,6 @@ layout: defi
 title: "Académie de Lyon"
 ---
 
-## Proxi RH : Apporter des réponses en ligne aux agents de l’Éducation nationale 
 
 ### La problématique
 

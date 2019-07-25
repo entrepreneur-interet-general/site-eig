@@ -3,7 +3,6 @@ layout: defi
 title: "Académie de Clermont-Ferrand"
 ---
 
-## Simplifier le parcours des familles dont les enfants sont en situation de handicap
 
 ### La problématique 
 
