@@ -509,8 +509,34 @@ ul.info i:hover {
 }
 
 /*Contact page */
-.contact-details h4 {
-  margin-bottom: 5px;
+.mt-0 {
+  margin-top: 0;
+}
+
+.mt-1 {
+  margin-top: 1em;
+}
+.mt-2 {
+  margin-top: 2em;
+}
+
+.contact-details {
+  padding: 2em 3em;
+  background: #1c419b;
+  color: white;
+}
+
+.contact-details h3 {
+  color: white;
+}
+
+.contact-details a {
+  color: white;
+  text-decoration: underline;
+}
+
+.kit-presse li {
+  margin-bottom: 2em;
 }
 
 form#contact_form {
