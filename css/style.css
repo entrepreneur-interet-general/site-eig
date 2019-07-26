@@ -945,6 +945,22 @@ body.screenshot {
   opacity: 0.75;
 }
 
+.post-nav {
+  margin-top: 2em;
+  border-top: 1px solid #c1c1c1;
+  padding-top: 1.5em;
+}
+
+.post-nav a:last-child {
+  text-align: right;
+}
+
+.post-nav a {
+  display: block;
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
 .modBlogPost {
   margin-bottom: 40px;
   background: #fff;
