@@ -237,25 +237,10 @@ slides:
 
       <div class="two spacing"></div>
 
-      <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-      {% for post in site.posts limit: 3 %}
+      <ul class="small-block-grid-1 medium-block-grid-2">
+      {% for post in site.posts limit: 4 %}
       <li style="padding: 0 .2em">
-        <div class="card" style="height: 100%">
-          {% if post.image %}
-          <div class="card__cover">
-            <img src="{{ post.image }}" alt="">
-          </div>
-          {% endif %}
-          <div class="card__content">
-            <h3>{{ post.title }}</h3>
-            <p>{{ post.description }}</p>
-          </div>
-          <div class="card__extra">
-            <a class="button small" href="{{ post.url }}">
-              Lire la suite
-            </a>
-          </div>
-        </div>
+        {% include post_card.html %}
       </li>
       {% endfor %}
       </ul>

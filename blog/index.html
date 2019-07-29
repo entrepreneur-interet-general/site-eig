@@ -6,57 +6,7 @@ section_id: blog
 <ul class="small-block-grid-1 large-block-grid-2">
 {% for post in paginator.posts %}
   <li style="padding: 0 .3em">
-    <div class="card" style="height: 100%">
-      {% if post.image %}
-      <div class="card__cover">
-        <img src="{{ post.image }}" alt="">
-      </div>
-      {% endif %}
-      <div class="card__content">
-        <h3>{{ post.title }}</h3>
-        <p class='info'>
-          Le
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%-d" }}
-          {% case m %}
-          {% when '1' %}janvier
-          {% when '2' %}février
-          {% when '3' %}mars
-          {% when '4' %}avril
-          {% when '5' %}mai
-          {% when '6' %}juin
-          {% when '7' %}juillet
-          {% when '8' %}août
-          {% when '9' %}septembre
-          {% when '10' %}octobre
-          {% when '11' %}novembre
-          {% when '12' %}décembre
-          {% endcase %}
-          {{ post.date | date: "%Y" }}
-            par
-            <a href="{{post.author_link}}">{{post.author}}</a>
-      <a href="https://twitter.com/{{post.twitter}}"><i class='fa fa-twitter'></i></a>
-        </p>
-        <p>{{ post.description }}</p>
-      </div>
-      <div class="card__extra">
-        {% if post.tags %}
-        <div class="post-tags">
-          <ul>
-            {% for tag in post.tags %}
-            <li class="button tiny grey">{{ tag }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-
-        <div class="mt-1">
-          <a class="button small" href="{{ post.url }}">
-            Lire la suite
-          </a>
-        </div>
-      </div>
-    </div>
+    {% include post_card.html %}
   </li>
 {% endfor %}
 </ul>

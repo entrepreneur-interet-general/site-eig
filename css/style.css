@@ -3771,7 +3771,7 @@ blockquote, ul, p {
   background-color: #f9f9f9;
 }
 .card__content {
-  padding: 1.5em;
+  padding: 1em;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
@@ -3781,7 +3781,7 @@ blockquote, ul, p {
 }
 .card__extra {
   border-top: 1px solid #adb9c9;
-  padding: 1em;
+  padding: .5em;
 }
 .card__extra .button {
   margin-bottom: 0;
