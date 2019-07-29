@@ -218,6 +218,10 @@ ul.shortcode-list i {
   border: 0px solid #7298F5;
 }
 
+.button.tiny {
+  padding: .2rem .5rem;
+}
+
 .button:hover {
   background-color: #7298F5;
 }
@@ -232,6 +236,15 @@ ul.shortcode-list i {
 
 .button.red:hover {
   background-color: #871212;
+}
+
+.button.grey {
+  background: #26353f;
+  color: #c1c1c1;
+}
+
+.button.grey:hover {
+  color: #ebeff3;
 }
 
 .button.boxed {
@@ -3797,4 +3810,13 @@ blockquote, ul, p {
   cursor: pointer;
 
   z-index: 1000;
+}
+
+.post-tags ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.post-tags li{
+  display: inline-block;
 }

@@ -13,7 +13,7 @@ layout: blog
     <p class='info'>
       <span>
 	{% assign m = page.date | date: "%-m" %}
-	{{ page.date | date: "%d" }}
+	{{ page.date | date: "%-d" }}
 	{% case m %}
 	{% when '1' %}janvier
 	{% when '2' %}février
@@ -41,8 +41,21 @@ layout: blog
       </span>
     </p>
     {% include share-bar.html %}
-    {{content}}
+
+    {{ content }}
+
     {% include share-bar.html %}
+
+    {% if page.tags %}
+    <div class="post-tags">
+      <ul>
+        {% for tag in page.tags %}
+        <li class="button grey">{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
     <div class="post-nav">
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">

@@ -3,8 +3,6 @@ layout: blog
 section_id: blog
 ---
 
-<div class='mod modBlogPost'>
-
 <ul class="small-block-grid-1 large-block-grid-2">
 {% for post in paginator.posts %}
   <li style="padding: 0 .3em">
@@ -19,7 +17,7 @@ section_id: blog
         <p class='info'>
           Le
           {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%d" }}
+          {{ post.date | date: "%-d" }}
           {% case m %}
           {% when '1' %}janvier
           {% when '2' %}février
@@ -42,15 +40,26 @@ section_id: blog
         <p>{{ post.description }}</p>
       </div>
       <div class="card__extra">
-        <a class="button small" href="{{ post.url }}">
-          Lire la suite
-        </a>
+        {% if post.tags %}
+        <div class="post-tags">
+          <ul>
+            {% for tag in post.tags %}
+            <li class="button tiny grey">{{ tag }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+        <div class="mt-1">
+          <a class="button small" href="{{ post.url }}">
+            Lire la suite
+          </a>
+        </div>
       </div>
     </div>
   </li>
 {% endfor %}
 </ul>
-</div>
 
 {% include pagination.html root="blog" %}
 
