@@ -5,7 +5,7 @@ github:
 linkedin: https://linkedin.com/in/marc-bouteiller-511431a8
 nom: Marc Bouteiller
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Ministères des Armées
     site: /defis/2019/MinArmees.html

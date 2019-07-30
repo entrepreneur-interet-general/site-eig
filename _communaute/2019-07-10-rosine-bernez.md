@@ -5,7 +5,7 @@ github:
 linkedin: http://linkedin.com/in/rosine-bernez
 nom: Rosine Bernez
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: DILA
     site: /defis/2019/DILA.html

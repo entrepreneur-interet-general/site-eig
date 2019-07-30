@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/nicolas-grandjean-64b325107
 nom: Nicolas Grandjean
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: DGGN
     site: /defis/2019/DGGN.html

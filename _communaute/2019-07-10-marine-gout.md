@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/mgout
 nom: Marine Gout
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Ministère de l'Education Nationale
     site: /defis/2019/ministere-de-leducation-nationale.html

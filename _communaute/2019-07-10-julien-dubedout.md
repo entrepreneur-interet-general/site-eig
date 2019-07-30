@@ -4,7 +4,7 @@ twitter: judbd
 github: judbd
 nom: Julien Dubedout
 website: https://mariejulien.com
-annees: DIG
+annees: 2019
 defis:
   - nom: NexSIS
     site: /defis/2019/NexSIS.html

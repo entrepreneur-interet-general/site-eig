@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/laurentdarellis/
 nom: Laurent Darellis
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Académie de Lyon
     site: /defis/2019/AcademieLyon.html

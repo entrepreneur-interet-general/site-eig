@@ -4,7 +4,7 @@ twitter:
 github:
 nom: Pierre Charreau
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Académie de Clermont Ferrand
     site: /defis/2019/AcademieClermont.html

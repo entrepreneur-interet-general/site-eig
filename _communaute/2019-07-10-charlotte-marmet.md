@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
 nom: Charlotte Marmet
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: CGDD
     site: /defis/2019/CGDD.html

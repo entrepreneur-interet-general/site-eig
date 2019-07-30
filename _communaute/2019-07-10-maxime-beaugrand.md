@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/maximebeaugrand
 nom: Maxime Beaugrand
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Mission Identité Numérique, DINSIC
     site: /defis/2019/IDNUM.html

@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
 nom: Flavien Colsenet
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: SCHAPI
     site: /defis/2019/SCHAPI.html

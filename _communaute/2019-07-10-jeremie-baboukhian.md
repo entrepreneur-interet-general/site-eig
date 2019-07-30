@@ -5,7 +5,7 @@ github: marzchew
 linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
 nom: Jérémie Baboukhian
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Mission Identité Numérique
     site: /defis/2019/IdentitéNumérique.html

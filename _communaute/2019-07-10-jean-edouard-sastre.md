@@ -5,7 +5,7 @@ github:
 linkedin: https://www.linkedin.com/in/edouard-sastre
 nom: Jean-Edouard Sastre
 website:
-annees: DIG
+annees: 2019
 defis:
   - nom: Muséum d'Histoire naturelle
     site: /defis/2019/MuseumHistNat.html
