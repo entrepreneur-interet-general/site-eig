@@ -3755,7 +3755,7 @@ blockquote, ul, p {
   margin-bottom: 1.5rem;
 }
 .card__cover {
-  height: 250px;
+  height: 200px;
   width: 100%;
   overflow: hidden;
   position: relative;
