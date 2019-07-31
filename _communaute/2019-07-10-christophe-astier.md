@@ -2,7 +2,7 @@
 layout: personne
 twitter:
 github:
-nom: Christope Astier
+nom: Christophe Astier
 website:
 annees: 2019
 defis:

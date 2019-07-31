@@ -11,4 +11,4 @@ defis:
 profil: Mentor
 images:
   - /img/communaute/stephane-petit.jpg
-  ---
+---

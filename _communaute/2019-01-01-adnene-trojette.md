@@ -2,7 +2,7 @@
 layout: personne
 twitter: trojette
 github: trojette
-nom: Mohammed Adnène Trojette
+nom: Adnène Trojette
 website:
 annees: 2017, 2019
 defis:

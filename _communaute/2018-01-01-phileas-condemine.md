@@ -2,7 +2,7 @@
 layout: personne
 twitter:
 github: phileas-condemine
-nom: Phileas Condemine
+nom: Philéas Condemine
 website:
 annees: 2018
 defis:

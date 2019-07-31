@@ -3,7 +3,7 @@ layout: personne
 twitter: HugoStephan
 github:
 linkedin: https://www.linkedin.com/in/hugo-stephan/
-nom: Hugo Stephan
+nom: Hugo Stéphan
 website:
 annees: 2019
 defis:

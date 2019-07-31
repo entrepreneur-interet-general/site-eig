@@ -1,7 +1,7 @@
 ---
 layout: personne
 twitter:
-nom: Éric Le Guen
+nom: "Éric Le Guen"
 website:
 annees: 2018
 defis:

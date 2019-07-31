@@ -233,7 +233,7 @@
   class:
   - dig
   - mentor
-  
+
 "Bénédicte Ezvan":
   image: img/communaute/miniatures/benedicte-ezvan.jpg
   title: Bénédicte Ezvan
@@ -993,7 +993,7 @@
   class:
   - dig
   - mentor
-  
+
 "Julien Naour":
   image: img/communaute/miniatures/JulienNaour.png
   title: Julien Naour
@@ -1056,7 +1056,7 @@
   class:
   - eig-2
   - mentor
-  
+
 "Laurence Monnoyer-Smith":
   image: img/communaute/miniatures/laurence-monnoyer-smith.jpg
   title: Laurence Monnoyer-Smith
@@ -1273,7 +1273,7 @@
   class:
   - dig
   - mentor
-  
+
 "Marion Paclot":
   image: img/communaute/miniatures/Marion-Paclot.png
   title: Marion Paclot
@@ -1335,10 +1335,10 @@
   - eig
   - datascientist
 
-"Mathieu Nicolas":
-  image: img/communaute/miniatures/mathieu-nicolas.jpg
-  title: Mathieu Nicolas
-  link_to: /communaute/2019/mathieu-nicolas.html
+"Nicolas Mathieu":
+  image: img/communaute/miniatures/nicolas-mathieu.jpg
+  title: Nicolas Mathieu
+  link_to: /communaute/2019/nicolas-mathieu.html
   annees:
   - 2019
   profil: Mentor
@@ -1461,7 +1461,7 @@
 
 "Nicolas Grandjean":
   image: img/communaute/miniatures/nicolas-grandjean.png
-  title: Nicolas Granjean
+  title: Nicolas Grandjean
   link_to: /communaute/2019/nicolas-grandjean.html
   annees:
   - 2019
@@ -1847,9 +1847,9 @@
   - eig
   - webdev
 
-"Stephane Mavel":
+"Stéphane Mavel":
   image: img/communaute/miniatures/stephane-mavel.jpg
-  title: Stephane Mavel
+  title: Stéphane Mavel
   link_to: /communaute/2019/stephane-mavel.html
   annees:
   - 2019
@@ -1859,9 +1859,9 @@
   - dig
   - mentor
 
-"Stephane Petit":
+"Stéphane Petit":
   image: img/communaute/miniatures/stephane-petit.jpg
-  title: Stephane Petit
+  title: Stéphane Petit
   link_to: /communaute/2019/stephane-petit.html
   annees:
   - 2019
@@ -1883,9 +1883,9 @@
   - eig-2
   - mentor
 
-"Stephanie Devigne":
+"Stéphanie Devigne":
   image: img/communaute/miniatures/stephanie-devigne.jpg
-  title: Stephanie Devigne
+  title: Stéphanie Devigne
   link_to: /communaute/2019/stephanie-devigne.html
   annees:
   - 2019

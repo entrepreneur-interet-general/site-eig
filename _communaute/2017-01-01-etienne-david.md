@@ -2,7 +2,7 @@
 layout: personne
 twitter: EtienneDavid
 github: EtienneDavid
-nom: Etienne David
+nom: Étienne David
 website:
 annees: 2017
 defis:
