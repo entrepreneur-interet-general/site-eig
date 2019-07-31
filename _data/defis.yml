@@ -476,13 +476,13 @@
       image: img/realisations/2019/matchvec.png
       title: "Détection des marque et modèle du véhicule"
       description: "Nous avons conçu une brique d'intelligence artificielle pour détecter la marque et modèle de véhicules dans une photo."
-      url: https://iaflash.fr
+      url: https://iaflash.fr/testapi/matchvec
       call_to_action: "Tester l'API"
     -
       image: img/realisations/2019/sivnorm.png
       title: "Match flou de la marque et modèle des véhicules dans la carte grise à partir d'un référentiel"
       description: "Nous avons développé un outil pour nettoyer les champs marque et modèle de la carte grise en le rapprochant à un référentiel."
-      url: https://iaflash.fr/sivnorm
+      url: https://iaflash.fr/testapi/sivnorm
       call_to_action: "Tester l'API"
 
 "Karfu'R":
