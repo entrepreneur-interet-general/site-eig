@@ -9,7 +9,7 @@ annees: 2017, 2018
 defis:
   - nom: MCC - Inventaire des orgues
     site: /defis/2017/mcc-inventaire-des-orgues.html
-  - nom: EIG Link
+  - nom: EIG Link 2018
     site: /defis/2018/eiglink.html
 profil: Développeur
 images:

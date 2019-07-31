@@ -6,7 +6,7 @@ nom: Régis Perol
 website:
 annees: 2019
 defis:
-  - nom: DILa
+  - nom: DILA
     site: /defis/2019/DILA.html
 profil: Mentor
 images:

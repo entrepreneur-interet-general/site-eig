@@ -5,7 +5,7 @@ nom: Arnaud Ménard
 website:
 annees: 2018
 defis:
-  - nom: B@liseNAV
+  - nom: b@liseNAV
     site: /defis/2018/balisenav.html
 profil: Géomatique
 images:

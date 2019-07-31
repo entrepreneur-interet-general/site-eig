@@ -6,7 +6,7 @@ nom: Sébastien Touzé
 linkedin: https://www.linkedin.com/in/sebastientouze
 annees: 2019
 defis:
-  - nom: CibNAV
+  - nom: CibNav
     site: /defis/2019/cibnav.html
 profil: Développeur
 images:

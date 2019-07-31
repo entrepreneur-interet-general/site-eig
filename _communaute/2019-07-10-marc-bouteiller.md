@@ -7,7 +7,7 @@ nom: Marc Bouteiller
 website:
 annees: 2019
 defis:
-  - nom: Ministères des Armées
+  - nom: Ministère des Armées
     site: /defis/2019/MinArmees.html
 profil: Designer
 images:

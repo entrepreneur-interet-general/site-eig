@@ -6,7 +6,7 @@ nom: Laurence Matringe
 website:
 annees: 2018
 defis:
-  - nom: Prédisauvetage
+  - nom: PrédiSauvetage
     site: /defis/2018/donneesauvetagemaritime.html
 profil:
 images:

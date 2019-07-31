@@ -6,7 +6,7 @@ nom: Julien Paris
 website: http://www.jpylab.com
 annees: 2018
 defis:
-  - nom: SocialConnect
+  - nom: Social Connect
     site: /defis/2018/socialconnect.html
 profil: Développeur
 images:

@@ -7,7 +7,7 @@ nom: Jean-Edouard Sastre
 website:
 annees: 2019
 defis:
-  - nom: Muséum d'Histoire naturelle
+  - nom: Muséum d'Histoire Naturelle
     site: /defis/2019/MuseumHistNat.html
 profil: Designer
 images:

@@ -7,7 +7,7 @@ nom: Maxime Beaugrand
 website:
 annees: 2019
 defis:
-  - nom: Mission Identité Numérique, DINSIC
+  - nom: Mission Identité Numérique
     site: /defis/2019/IDNUM.html
 profil: Designer
 images:

@@ -9,7 +9,7 @@ annees:
 defis:
   - nom: Hopkins
     site: /defis/2018/hopkins.html
-  - nom: Adler
+  - nom: ADLER
     site: /defis/2019/adler.html
 profil: Mentor
 images:

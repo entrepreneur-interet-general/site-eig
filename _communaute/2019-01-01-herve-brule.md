@@ -6,7 +6,7 @@ nom: Hervé Brulé
 website:
 annees: 2019
 defis:
-  - nom: CibNAV
+  - nom: CibNav
     site: /defis/2019/cibnav.html
 profil: Mentor
 images:

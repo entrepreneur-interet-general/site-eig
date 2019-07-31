@@ -6,7 +6,7 @@ nom: Dora Crisan
 website:
 annees: 2018
 defis:
-  - nom: Bridage Numérique
+  - nom: Brigade Numérique
     site: /defis/2018/brigadenumerique.html
 profil: Développeuse
 images:

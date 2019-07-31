@@ -7,7 +7,7 @@ nom: Anoureth Pongrattana
 website:
 annees: 2019
 defis:
-  - nom: ACOSS-plateforme
+  - nom: ACOSS-Plateforme
     site: /defis/2019/acossplateforme.html
 profil: Développeur
 images:

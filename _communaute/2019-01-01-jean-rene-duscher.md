@@ -6,7 +6,7 @@ nom: Jean-René Duscher
 website:
 annees: 2019
 defis:
-  - nom: Explocode
+  - nom: ExploCode
     site: /defis/2019/explocode.html
 profil: Mentor
 images: /img/communaute/photo-duscher-v2.png

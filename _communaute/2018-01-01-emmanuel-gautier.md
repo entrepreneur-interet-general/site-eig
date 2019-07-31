@@ -6,7 +6,7 @@ nom: Emmanuel Gautier
 website:
 annees: 2018
 defis:
-  - nom: ArchiFiltre
+  - nom: Archifiltre
     site: /defis/2018/archifiltre.html
 profil: Datascientist
 images:

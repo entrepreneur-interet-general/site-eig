@@ -6,7 +6,7 @@ nom: Béatrice Clément
 website:
 annees: 2019
 defis:
-  - nom: Académie de Clermont Ferrand
+  - nom: Académie de Clermont-Ferrand
     site: /defis/2019/academie-de-clermont-ferrand.html
 profil: Mentor
 images:
