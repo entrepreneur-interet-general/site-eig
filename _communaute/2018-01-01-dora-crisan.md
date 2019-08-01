@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: DoraCrisan
-github: dora27
 nom: Dora Crisan
-website:
-annees: 2018
-defis:
-  - nom: Brigade Numérique
-    site: /defis/2018/brigadenumerique.html
-profil: Développeuse
-images:
-  - /img/communaute/Dora-Crisan.png
 ---
 
 « Je suis une techno-optimiste, convaincue que les nouvelles

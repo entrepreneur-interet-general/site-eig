@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter:
 nom: Anne Lambert
-website:
-annees: 2018
-defis:
-  - nom: Archifiltre
-    site: /defis/2018/archifiltre.html
-profil: Mentor
-images:
-  - /img/communaute/anne-lambert.png
 ---
 
 "J'ai rejoint le secrétariat général des ministères sociaux

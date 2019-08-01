@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: jparis_py
-github: Jpy
 nom: Julien Paris
-website: http://www.jpylab.com
-annees: 2018
-defis:
-  - nom: Social Connect
-    site: /defis/2018/socialconnect.html
-profil: Développeur
-images:
-  - /img/communaute/JulienParis.png
 ---
 
 « Après une formation d'architecte DPLG (Lyon puis Paris-La Villette),

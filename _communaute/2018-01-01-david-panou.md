@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: pandav2
 nom: David Panou
-website:
-annees: 2018
-defis:
-  - nom: CoachÉlèves
-    site: /defis/2018/coacheleves.html
-profil: Datascientist
-images:
-  -
 ---
 
 « Suite à des études d’ingénieur en apprentissage automatique (Arts et

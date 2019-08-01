@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: archivist_chloe
 nom: Chloé Moser
-website:
-annees: 2018
-defis:
-  - nom: Archifiltre
-    site: /defis/2018/archifiltre.html
-profil: Mentor
-images:
-  -
 ---
 
 « J'ai rejoint le secrétariat général des ministères sociaux en

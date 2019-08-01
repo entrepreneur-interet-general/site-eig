@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github:
 nom: Anne-Sophie Hutin
-website:
-annees: 2019
-defis:
-  - nom: DataJust
-    site: /defis/2019/datajust.html
-profil: Mentor
-images:
-  - /img/communaute/anne-sophie-hutin.png
 ---
 
 Anne-Sophie Hutin est magistrate et exerce ses fonctions au sein du bureau du droit des obligations de la Direction des affaires civiles et du sceau depuis janvier 2018. Chargée pendant plusieurs années de l’indemnisation des victimes de dommage corporel au sein de tribunaux de l’ordre judiciaire, elle travaille désormais sur un projet de réforme de la responsabilité civile devant être prochainement débattu au Parlement.

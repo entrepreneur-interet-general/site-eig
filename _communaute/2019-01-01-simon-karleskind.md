@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github:
 nom: Simon Karleskind
-website:
-annees: 2019
-defis:
-  - nom: Karfu'R
-    site: /defis/2019/karfur.html
-profil: Mentor
-images:
-  - /img/communaute/simon-karleskind.png
 ---
 
 **Simon Karleskind, mentor opérationnel du défi Agi’R, est conseiller

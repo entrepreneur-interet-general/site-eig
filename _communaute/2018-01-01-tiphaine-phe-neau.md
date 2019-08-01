@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: datatiph
-github: tiphaine
 nom: Tiphaine Phe-Neau
-website: http://www.phe-neau.com/
-annees: 2018
-defis:
-  - nom: Prévisecours
-    site: /defis/2018/previsecours.html
-profil: Datascience
-images:
-  - /img/communaute/Tiphaine-PheNeau.png
 ---
 
 « Je suis titulaire d'un doctorat en informatique de l'Université

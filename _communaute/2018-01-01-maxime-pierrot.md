@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: mpierrax
-github: pierrax
 nom: Maxime Pierrot
-website:
-annees: 2018
-defis:
-  - nom: DataESR
-    site: /defis/2018/dataesr.html
-profil: Tout !
-images:
-  - /img/communaute/Maxime-Pierrot.png
 ---
 
 « Entrepreneur et développeur, j'adore les nouveaux challenges. J'ai

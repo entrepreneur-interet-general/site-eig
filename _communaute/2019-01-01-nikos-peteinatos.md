@@ -1,17 +1,6 @@
 ---
 layout: personne
-twitter: nikosgpet
-github: nikosgpet
 nom: Nikos Peteinatos
-linkedin: https://linkedin.com/in/nikosgpet
-website: http://nikosgpet.com
-annees: 2019
-defis:
-  - nom: Plume
-    site: /defis/2019/plume.html
-profil: Designer
-images:
-  - /img/communaute/nikos-peteinatos.png
 ---
 
 Nikos Peteinatos est un Service Designer spécialisé dans le déploiement de services publics numériques. Son parcours l’amène à combiner plusieurs casquettes en tant que designer, product manager et développeur web dans le privé et pour le service public.  Aujourd’hui, il rejoint le défi Plume de la Cour des Comptes pour faciliter la transformation des métiers des juridictions financières.

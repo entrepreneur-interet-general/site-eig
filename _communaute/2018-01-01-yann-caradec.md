@@ -1,17 +1,6 @@
 ---
 layout: personne
-twitter: y_caradec
 nom: Yann Caradec
-website:
-annees: 2018
-defis:
-  - nom: MESRI - La machine à données
-    site: /defis/2017/mesri-magical-merge-machine.html
-  - nom: DataESR
-    site: /defis/2018/dataesr.html
-profil: Mentor
-images:
-  - /img/communaute/Sans-photo.png
 ---
 
 « Avec Emmanuel Weisenburger je co-anime le département des

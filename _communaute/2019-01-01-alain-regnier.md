@@ -1,19 +1,7 @@
 ---
 layout: personne
-twitter:
-github:
 nom: Alain Régnier
-website:
-annees: 2019
-defis:
-  - nom: Karfu'R
-    site: /defis/2019/karfur.html
-profil: Mentor
-images:
-  - /img/communaute/alain-regnier.png
-
 ---
-
 
 **Alain Régnier, mentor de haut niveau du défi Agi’R, est délégué interministériel chargé de l’accueil et de l’intégration des réfugiés (DiAir)**. Dès sa nomination en janvier 2018, il avait la volonté de se saisir des outils numériques pour apporter des solutions concrètes aux personnes réfugiées. Travailler avec des entrepreneurs d’intérêt général pour créer une plateforme numérique offrant des données fiables aux personnes réfugiés est, pour Alain Régnier, une formidable chance qui allie nouvelles technologies, impact social et défi humain.
 

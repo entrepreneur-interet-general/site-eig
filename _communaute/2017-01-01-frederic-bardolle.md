@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: seiteta
-github: seiteta
 nom: Frédéric Bardolle
-website:
-annees: 2017
-defis:
-  - nom: CC - API rapports
-    site: /defis/2017/cc-api-rapports.html
-profil: Développeur
-images:
-  - /img/communaute/Frederic-Bardolle.png
 ---
 
 "J'ai passé les 7 dernières années à résoudre des problèmes grâce

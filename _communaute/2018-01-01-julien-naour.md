@@ -1,17 +1,6 @@
 ---
 layout: personne
-twitter:
-github:
-gitlab: jnaour
 nom: Julien Naour
-website:
-annees: 2018
-defis:
-  - nom: Lab Santé
-    site: /defis/2018/labsante.html
-profil: Datascience
-images:
-  - /img/communaute/JulienNaour.png
 ---
 
 « Je suis data scientist spécialisé en Big Data et couteau suisse

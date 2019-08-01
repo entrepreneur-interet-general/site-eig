@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: signoOngis
-github: sign0
 nom: Adrien Signorino
-website:
-annees: 2018
-defis:
-  - nom: b@liseNAV
-    site: /defis/2018/balisenav.html
-profil: Géomaticien
-images:
-  - /img/communaute/AdrienSignorino.png
 ---
 
 "Je suis passionné depuis toujours par l'entrepreneuriat,

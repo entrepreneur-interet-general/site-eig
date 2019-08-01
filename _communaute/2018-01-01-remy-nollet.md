@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter:
 nom: Rémy Nollet
-website:
-annees: 2018
-defis:
-  - nom: Brigade Numérique
-    site: /defis/2018/brigadenumerique.html
-profil:
-images:
-  - /img/communaute/remynollet.jpg
 ---
 
 « Ingénieur issu de l’école Polytechnique et après avoir effectué

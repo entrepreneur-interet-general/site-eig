@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: SamahNLP
 nom: Samah Ghalloussi
-website:
-annees: 2018
-defis:
-  - nom: Lab Santé
-    site: /defis/2018/labsante.html
-profil: Datascience
-images:
-  - /img/communaute/Samah-Ghalloussi.png
 ---
 
 « Je suis ingénieure spécialisée en Technologies de l'information pour

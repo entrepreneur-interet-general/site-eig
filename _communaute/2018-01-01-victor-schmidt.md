@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: vict0rsch
-github: vict0rsch
 nom: Victor Schmidt
-website: https://metada.org
-annees: 2018
-defis:
-  - nom: Hopkins
-    site: /defis/2018/hopkins.html
-profil: Datascience
-images:
-  - /img/communaute/VictorSchmidt.png
 ---
 
 «Récemment diplômé de l'École polytechnique et du University College

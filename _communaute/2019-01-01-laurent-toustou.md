@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github:
 nom: Laurent Toustou
-website:
-annees: 2019
-defis:
-  - nom: DataReg
-    site: /defis/2019/datareg.html
-profil: Mentor
-images:
-  - /img/communaute/laurent-toustou.png
 ---
 
 **Laurent Toustou est chef de l'unité régulation par la donnée.** De profil économiste, il s’est spécialisé dans la régulation des acteurs numériques et les nouveaux modes de régulation. Il a été rapporteur de la revue stratégique de l’Arcep en 2015 et a ensuite été nommé chef de l’unité régulation par la donnée pour développer cette nouvelle approche de la régulation au sein de l’Arcep.

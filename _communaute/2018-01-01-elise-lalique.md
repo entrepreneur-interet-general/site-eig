@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: Eliselalique
 nom: Élise Lalique
-website:
-annees: 2018
-defis:
-  - nom: Social Connect
-    site: /defis/2018/socialconnect.html
-profil: Designeuse UX
-images:
-  - /img/communaute/elise-250.jpg
 ---
 
 « Diplômée d’un Master en Design, Innovation, Société à l’université de

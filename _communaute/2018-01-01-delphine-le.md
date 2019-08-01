@@ -1,19 +1,6 @@
 ---
 layout: personne
-twitter: delphinel
 nom: Delphine Lê
-website:
-annees:
-  - 2018,
-  - 2019
-defis:
-  - nom: Hopkins
-    site: /defis/2018/hopkins.html
-  - nom: ADLER
-    site: /defis/2019/adler.html
-profil: Mentor
-images:
-  - /img/communaute/delphine-le.png
 ---
 
 « Suite à un parcours mixte (dans le privé et le public, en recherche et

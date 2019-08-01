@@ -1,18 +1,6 @@
 ---
 layout: personne
-twitter: jbledevehat
-github: jbledevehat
 nom: Jean-Baptiste Le Dévéhat
-website:
-annees: 2018, 2019
-defis:
-  - nom: Brigade Numérique
-    site: /defis/2018/brigadenumerique.html
-  - nom: EIG Link 2019
-    site: /defis/2019/eiglink.html
-profil: Designer
-images:
-  - /img/communaute/jean-baptiste-le-devehat.png
 ---
 
 « À l’image de mon expertise en progiciel, je suis un

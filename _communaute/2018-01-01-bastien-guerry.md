@@ -1,19 +1,6 @@
 ---
 layout: personne
-twitter: bzg2
-github: bzg
-gitlab: bzg
 nom: Bastien Guerry
-website: https://bzg.fr
-annees: 2017, 2018
-defis:
-  - nom: MCC - Inventaire des orgues
-    site: /defis/2017/mcc-inventaire-des-orgues.html
-  - nom: EIG Link 2018
-    site: /defis/2018/eiglink.html
-profil: Développeur
-images:
-  - /img/communaute/Bastien-Guerry.png
 ---
 
 "Je suis programmeur indépendant et hacktiviste du libre. Après des

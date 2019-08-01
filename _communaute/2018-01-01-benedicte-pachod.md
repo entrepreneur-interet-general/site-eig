@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: BenedictePachod
 nom: Bénédicte Pachod
-website:
-annees: 2018
-defis:
-  - nom: Social Connect
-    site: /defis/2018/socialconnect.html
-profil: Mentor
-images:
-  - /img/communaute/benedicte-pachod.png
 ---
 
 "Engagée dans l’exploration de réponses collectives pour le bien-être
@@ -25,5 +16,3 @@ scientifique et innovation du Commissariat général à l’égalité des
 territoires, je me suis concentrée sur des projets de soutien à
 l’essaimage d’innovations sociales, au service des territoires et
 d’une action publique optimisée."
-
-

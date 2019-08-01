@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: TainMar
-github: SuperKiwi
 nom: Martin Gross
-website:
-annees: 2017
-defis:
-  - nom: MI - matchID
-    site: /defis/2017/mi-matchid.html
-profil: Développeur
-images:
-  - /img/communaute/Martin-Gross.png
 ---
 
 "Ingénieur Supélec (2012), passionné par les problématiques de data (et

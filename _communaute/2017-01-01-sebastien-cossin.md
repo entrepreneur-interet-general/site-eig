@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: sebcossin
-github: scossin
 nom: Sébastien Cossin
-website:
-annees: 2017
-defis:
-  - nom: ARS - Parcours de soin
-    site: /defis/2017/ars-occitanie-parcours-de-soin.html
-profil: Développeur
-images:
-  - /img/communaute/Sebastien-Cossin.png
 ---
 
 "Je suis médecin spécialisé en santé publique et en informatique médicale formé

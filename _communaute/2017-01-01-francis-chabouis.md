@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: fchabouis
 nom: Francis Chabouis
-website:
-annees: 2017
-defis:
-  - nom: MI - cartAV
-    site: /defis/2017/mi-cartav-securite-routiere.html
-profil: Développeur
-images:
-  - /img/communaute/Francis-Chabouis.png
 ---
 
 "Ingénieur de formation (Centrale Lyon 2006) avec une spécialité en

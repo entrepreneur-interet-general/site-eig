@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: Lauriechapotte
-github: lauriechap
 nom: Laurie Chapotte
-website: http://chapottelaurie.fr/
-annees: 2018
-defis:
-  - nom: Gobelins
-    site: /defis/2018/gobelins.html
-profil:
-images:
-  - /img/communaute/Laurie-Chapotte.png
 ---
 
 « Designer graphique et de service, j'ai d’abord travaillé

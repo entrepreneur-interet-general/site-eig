@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: Nono400
 nom: Arnaud Ménard
-website:
-annees: 2018
-defis:
-  - nom: b@liseNAV
-    site: /defis/2018/balisenav.html
-profil: Géomatique
-images:
-  - /img/communaute/Arnaud-Menard.png
 ---
 
 "Arnaud, 48 ans, entre Paris et Lorient, une fille de 22 ans.Rêvant design,

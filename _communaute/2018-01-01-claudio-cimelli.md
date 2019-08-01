@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: ClaudioCimelli
 nom: Claudio Cimelli
-website:
-annees: 2018
-defis:
-  - nom: CoachÉlèves
-    site: /defis/2018/coacheleves.html
-profil: Mentor
-images:
-  -
 ---
 
 « Je suis chef de la mission d’incubation des projets
@@ -26,4 +17,3 @@ Direction du numérique pour l’éducation :
 
 - Encadrement des programmes d’expérimentations de la DNE, portant sur
   les technologies nouvelles (Big data, IA,…). »
-

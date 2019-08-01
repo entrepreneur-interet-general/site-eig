@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github:
 nom: Hélène Cavalié
-website:
-annees: 2018
-defis:
-  - nom: Gobelins
-    site: /defis/2018/gobelins.html
-profil:
-images:
-  - /img/communaute/helene_cavalie.jpg
 ---
 
 « Je suis chartiste et conservateur du Patrimoine. Depuis

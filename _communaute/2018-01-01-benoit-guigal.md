@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: BGuigal
-github: benoitguigal
 nom: Benoît Guigal
-website:
-annees: 2018
-defis:
-  - nom: Hopkins
-    site: /defis/2018/hopkins.html
-profil: Data Engineer
-images:
-  - /img/communaute/Benoit-Guigal.png
 ---
 
 « Diplômé de l’école des Mines de Paris, j’effectue mon stage de fin

@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: marion-paclot
 nom: Marion Paclot
-website:
-annees: 2017
-defis:
-  - nom: DGFiP - fraude fiscale
-    site: /defis/2017/dgfip-fraude-fiscale.html
-profil: Datascientiste
-images:
-  - /img/communaute/Marion-Paclot.png
 ---
 
 "Datascientist venue du monde l'économie et passée par le conseil,

@@ -1,17 +1,6 @@
 ---
 layout: personne
-twitter: "@F__Lab"
-github:
-linkedin: https://fr.linkedin.com/in/florent-laboy
 nom: Florent Laboy
-website:
-annees: 2019
-defis:
-  - nom: Plume
-    site: /defis/2019/plume.html
-profil: Mentor
-images:
-  - /img/communaute/florent-laboy.png
 ---
 
 Florent Laboy est directeur des méthodes et des données à la Cour des comptes. Cette direction, rattachée au centre d'appui métier des juridictions financières, fournit aux chambres de la Cour et aux chambres régionales et territoriales des comptes des services spécialisés notamment dans le traitement scientifique des données et l'audit des systèmes d'information.

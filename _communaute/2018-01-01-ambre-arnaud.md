@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: ambreelmee
-github: ambreelmee
 nom: Ambre Arnaud
-website:
-annees: 2018
-defis:
-  - nom: DataESR
-    site: /defis/2018/dataesr.html
-profil: Développeuse
-images:
-  - /img/communaute/ambre-arnaud.png
 ---
 
 "Diplômée de l'Ecole Centrale Paris, avec une spécialité en

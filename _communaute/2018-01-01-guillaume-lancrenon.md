@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: guillim
 nom: Guillaume Lancrenon
-website: https://guillim.github.io
-annees: 2018
-defis:
-  - nom: Prévisecours
-    site: /defis/2018/previsecours.html
-profil: Développement
-images:
-  - /img/communaute/Guillaume-Lancrenon.png
 ---
 
 « J'ai débuté comme ingénieur d’exploration sismique

@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: matringel
-github: lamat92
 nom: Laurence Matringe
-website:
-annees: 2018
-defis:
-  - nom: PrédiSauvetage
-    site: /defis/2018/donneesauvetagemaritime.html
-profil:
-images:
-  -
 ---
 
 « Je suis chargée de mission transformation numérique

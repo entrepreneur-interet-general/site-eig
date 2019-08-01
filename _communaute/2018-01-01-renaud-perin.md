@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter:
 nom: Renaud Périn
-website:
-annees: 2018
-defis:
-  - nom: PrédiSauvetage
-    site: /defis/2018/donneesauvetagemaritime.html
-profil:
-images:
-  -
 ---
 
 « Je suis chargé de mission sécurité des navires et analyse
