@@ -5,7 +5,7 @@ nom: Emmanuel Weisenburger
 website:
 annees: 2018
 defis:
-  - nom: dataESR
+  - nom: DataESR
     site: /defis/2018/dataesr.html
 profil: Mentor
 images:

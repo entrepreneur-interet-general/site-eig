@@ -6,7 +6,7 @@ nom: Stéphane Mavel
 website:
 annees: 2019
 defis:
-  - nom: France Connect
+  - nom: DINSIC
     site: /defis/2019/dinsic.html
 profil: Mentor
 images:

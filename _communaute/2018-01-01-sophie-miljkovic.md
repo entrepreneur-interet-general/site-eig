@@ -5,9 +5,6 @@ github: milkosofi
 nom: Sophie Miljkovic
 website:
 annees: 2018 2019
-defis:
-  - nom: Accompagnement
-    site:
 profil:
 images:
   - /img/communaute/sophie-milkovitch.png

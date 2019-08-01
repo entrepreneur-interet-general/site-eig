@@ -6,7 +6,7 @@ nom: Laurent Toustou
 website:
 annees: 2019
 defis:
-  - nom: Arcep
+  - nom: DataReg
     site: /defis/2019/datareg.html
 profil: Mentor
 images:

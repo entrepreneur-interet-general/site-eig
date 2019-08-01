@@ -52,9 +52,9 @@
   mentors:
     - "Stéphane Mavel"
     - "Vincent Bataille"
-"Mission Identité numérique":
+"Mission Identité Numérique":
   image: /img/dig/06.png
-  title: "Mission Identité numérique"
+  title: "Mission Identité Numérique"
   link_to: /defis/2019/mission-identite-numerique.html
   class: 2019 dig design
   skills: DIG // Design
@@ -752,9 +752,9 @@
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
 
-"CoachÉlève":
+"CoachÉlèves":
   image: /img/defis/12_CoachElevesAssistProf.png
-  title: CoachÉlève
+  title: CoachÉlèves
   link_to: /defis/2018/coacheleves.html
   class: 2018 data
   skills: EIG 2 // Data

@@ -7,7 +7,7 @@ nom: Alexis Deny
 website:
 annees: 2019
 defis:
-  - nom: CNAM
+  - nom: Caisse nationale d'Assurance maladie
     site: /defis/2019/CNAM.html
 profil: Designer
 images:

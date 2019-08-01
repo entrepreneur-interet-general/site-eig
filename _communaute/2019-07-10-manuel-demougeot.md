@@ -6,7 +6,7 @@ nom: Manuel Demougeot
 website:
 annees: 2019
 defis:
-  - nom: DIHAL
+  - nom: Dihal
     site: /defis/2019/dihal.html
 profil: Mentor
 images:

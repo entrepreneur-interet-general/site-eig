@@ -7,7 +7,7 @@ nom: Laure Dubuc
 website:
 annees: 2019
 defis:
-  - nom: DIHAL
+  - nom: Dihal
     site: /defis/2019/DIHAL.html
 profil: Designer
 images:

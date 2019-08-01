@@ -6,7 +6,7 @@ nom: Stéphanie Devigne
 website:
 annees: 2019
 defis:
-  - nom: CNAM
+  - nom: Caisse nationale d'Assurance maladie
     site: /defis/2019/caisse-nationale-dassurance-maladie.html
 profil: Mentor
 images:

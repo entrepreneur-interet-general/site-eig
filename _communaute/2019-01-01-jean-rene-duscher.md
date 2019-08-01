@@ -9,7 +9,8 @@ defis:
   - nom: ExploCode
     site: /defis/2019/explocode.html
 profil: Mentor
-images: /img/communaute/photo-duscher-v2.png
+images:
+    - /img/communaute/photo-duscher-v2.png
 
 ---
 

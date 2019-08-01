@@ -7,7 +7,7 @@ nom: Pierre-Alain Jachiet
 website:
 annees: 2019
 defis:
-  - nom: OpenChronic
+  - nom: Open Chronic
     site: /defis/2019/openchronic.html
 profil: Data scientist
 images:

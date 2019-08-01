@@ -6,9 +6,6 @@ linkedin: https://fr.linkedin.com/in/gu%C3%A9nol%C3%A9-carr%C3%A9-101462a8
 nom: Guénolé Carré
 website:
 annees: 2019
-defis:
-  - nom: Accompagnement
-    site:
 profil:
 images:
   - /img/communaute/guenole-carre.jpg

@@ -6,7 +6,7 @@ nom: Julien Dubedout
 website: https://mariejulien.com
 annees: 2019
 defis:
-  - nom: NexSIS
+  - nom: "Agence de la Sécurité Civile"
     site: /defis/2019/NexSIS.html
 profil: Designer
 images:
