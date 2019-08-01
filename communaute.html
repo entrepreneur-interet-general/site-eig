@@ -3,49 +3,53 @@ layout: default
 section_id: communaute
 ---
 
-<div class='full'>
-    <div class='row'>
-	<div class='mod modGallery'>
-	    <div class='gallery-nav'>
-		<ul>
-		    <li class='current'><a data-cat='all' href='#'>Tout</a></li>
-		    <li><a data-cat='eig-1' href='#'>EIG 1</a></li>
-		    <li><a data-cat='eig-2' href='#'>EIG 2</a></li>
-		    <li><a data-cat='eig-3' href='#'>EIG 3</a></li>
-		    <li><a data-cat='DIG' href='#'>DIG</a></li>
-		    <li><a data-cat='eig' href='#'>EIG</a></li>
-		    <li><a data-cat='mentor' href='#'>Mentor</a></li>
-		    <li><a data-cat='datascientist' href='#'>Data scientist</a></li>
-		    <li><a data-cat='webdev' href='#'>Développeur web</a></li>
-		    <li><a data-cat='designer' href='#'>Designer</a></li>
-		</ul>
-	    </div>
+<div class="full">
+  <div class="row">
+    <div class="mod modGallery">
+      <div class="gallery-nav">
+        <ul>
+          <li class="current"><a data-cat="all" href="#">Tout</a></li>
+          <li><a data-cat="eig-1" href="#">EIG 1</a></li>
+          <li><a data-cat="eig-2" href="#">EIG 2</a></li>
+          <li><a data-cat="eig-3" href="#">EIG 3</a></li>
+          <li><a data-cat="DIG" href="#">DIG</a></li>
+          <li><a data-cat="eig" href="#">EIG</a></li>
+          <li><a data-cat="mentor" href="#">Mentor</a></li>
+          <li><a data-cat="datascientist" href="#">Data scientist</a></li>
+          <li><a data-cat="webdev" href="#">Développeur web</a></li>
+          <li><a data-cat="designer" href="#">Designer</a></li>
+        </ul>
+      </div>
 
-	    <ul class='gallery large-block-grid-3 medium-block-grid-2 seperated small-block-grid-2'>
-		{% for personne_hash in site.data.personnes %}
-		{% assign personne = personne_hash[1] %}
-		<li class='
-			   {% for single-class in personne.class %}
-			   {{single-class}}
-			   {% endfor %}
-			   '>
+      <ul class="gallery large-block-grid-3 medium-block-grid-2 seperated small-block-grid-2">
+        {% for personne_hash in site.data.personnes %}
+        {% assign personne = personne_hash[1] %}
+        <li class="
+             {% for single-class in personne.class %}
+             {{ single-class }}
+             {% endfor %}
+             ">
 
-		    <div class='small-6 columns'>
-			<a style='border-radius:50%;' href='{{personne.link_to}}'>
-			    <img alt="" src="{{site.url}}/{{personne.image}}" />
-			    <div class='overlay'></div>
-			</a>
-		    </div>
-		    <div class='small-6 columns'>
-			<h3><a href='{{personne.link_to}}'>{{personne.title}}</a></h3>
-			<p style="font-size:80%;">{{personne.profil}}<br/>
-			    {{personne.defi}}
-			    {{ personne.annees | join: ', '}}</p>
-		    </div>
-		</li>
-		{% endfor %}
-	    </ul>
-	</div>
+          <div class="small-6 columns">
+            <a style="border-radius:50%;" href="{{ personne.link_to }}">
+              <img alt="Photo {{ personne.title }}" src="{{site.url}}/{{ personne.image_url }}" />
+              <div class="overlay"></div>
+            </a>
+          </div>
+          <div class="small-6 columns">
+            <h3><a href="{{ personne.link_to }}">{{ personne.title }}</a></h3>
+            <p style="font-size: 80%;">{{ personne.profil }}<br/>
+              {% for defi in personne.defis %}
+                <a href="{{ site.data.defis[defi].link_to }}">
+                  {{ site.data.defis[defi].title }}
+                </a>
+              {% endfor %}
+            </p>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
     </div>
-    <div class='four spacing'></div>
+  </div>
+  <div class="four spacing"></div>
 </div>
