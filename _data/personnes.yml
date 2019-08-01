@@ -8,7 +8,6 @@ Adnène Trojette:
   - Plume
   github: trojette
   gitlab:
-  image: img/communaute/miniatures/adnene-trojette.png
   image_url: /img/communaute/adnene-trojette.png
   link_to: /communaute/2019/adnene-trojette.html
   linkedin:
@@ -27,7 +26,6 @@ Adrien Signorino:
   - b@liseNAV
   github: sign0
   gitlab:
-  image: img/communaute/miniatures/AdrienSignorino.png
   image_url: /img/communaute/AdrienSignorino.png
   link_to: /communaute/2018/adrien-signorino.html
   linkedin:
@@ -43,7 +41,6 @@ Alain Régnier:
   - Karfu'R
   github:
   gitlab:
-  image: img/communaute/miniatures/alain-regnier.png
   image_url: /img/communaute/alain-regnier.png
   link_to: /communaute/2019/alain-regnier.html
   linkedin:
@@ -61,7 +58,6 @@ Alexis Deny:
   - Caisse nationale d'Assurance maladie
   github:
   gitlab:
-  image: img/communaute/miniatures/alexis-deny.png
   image_url: /img/communaute/alexis-deny.png
   link_to: /communaute/2019/alexis-deny.html
   linkedin: https://www.linkedin.com/in/alexis-deny-581a3a9a/
@@ -80,7 +76,6 @@ Amaury Fouret:
   - Open Justice
   github: mauryaland
   gitlab:
-  image: img/communaute/miniatures/Amaury-Fouret.jpg
   image_url: /img/communaute/amaury-fouret.png
   link_to: /communaute/2019/amaury-fouret.html
   linkedin: https://fr.linkedin.com/in/amaury-fouret-283422125
@@ -99,7 +94,6 @@ Ambre Arnaud:
   - DataESR
   github: ambreelmee
   gitlab:
-  image: img/communaute/miniatures/ambre-arnaud.jpg
   image_url: /img/communaute/ambre-arnaud.png
   link_to: /communaute/2018/ambre-arnaud.html
   linkedin:
@@ -118,7 +112,6 @@ Amélie Medem:
   - Plume
   github: letnotimitateothers
   gitlab:
-  image: img/communaute/miniatures/amelie-medem.jpg
   image_url: /img/communaute/amelie-medem.png
   link_to: /communaute/2019/amelie-medem.html
   linkedin: https://www.linkedin.com/in/amelie-medem
@@ -136,7 +129,6 @@ Anne Lambert:
   - Archifiltre
   github:
   gitlab:
-  image: img/communaute/miniatures/anne-lambert.jpg
   image_url: /img/communaute/anne-lambert.png
   link_to: /communaute/2018/anne-lambert.html
   linkedin:
@@ -152,7 +144,6 @@ Anne-Sophie Hutin:
   - DataJust
   github:
   gitlab:
-  image: img/communaute/miniatures/anne-sophie-hutin.png
   image_url: /img/communaute/anne-sophie-hutin.png
   link_to: /communaute/2019/anne-sophie-hutin.html
   linkedin:
@@ -171,7 +162,6 @@ Anoureth Pongrattana:
   - ACOSS-Plateforme
   github: BarbeNoash
   gitlab:
-  image: img/communaute/miniatures/anoureth-pongrattana.jpg
   image_url: /img/communaute/anoureth-pongrattana.png
   link_to: /communaute/2019/anoureth-pongrattana.html
   linkedin: https://fr.linkedin.com/in/anoureth-pongrattana-3946b2a5
@@ -193,7 +183,6 @@ Antoine Augusti:
   - EIG Link 2019
   github: AntoineAugusti
   gitlab:
-  image: img/communaute/miniatures/Antoine-Augusti.png
   image_url: /img/communaute/Antoine-Augusti.png
   link_to: /communaute/2018/antoine-augusti.html
   linkedin: https://www.linkedin.com/in/antoineaugusti/
@@ -212,7 +201,6 @@ Armand Giraud:
   - ExploCode
   github: ArmandGiraud
   gitlab:
-  image: img/communaute/miniatures/armand-giraud.jpg
   image_url: /img/communaute/Armand-Giraud.png
   link_to: /communaute/2019/armand-giraud.html
   linkedin: https://www.linkedin.com/in/armandgiraud/
@@ -230,8 +218,7 @@ Armando De Oliveira:
   - DGGN
   github:
   gitlab:
-  image: img/communaute/miniatures/armando-de-oliveira.jpg
-  image_url: /img/communaute/armando-de-oliveira.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/armando-de-oliveira.html
   linkedin:
   profil: Mentor
@@ -249,7 +236,6 @@ Arnaud Ménard:
   - b@liseNAV
   github:
   gitlab:
-  image: img/communaute/miniatures/Arnaud-Menard.png
   image_url: /img/communaute/Arnaud-Menard.png
   link_to: /communaute/2018/arnaud-menard.html
   linkedin:
@@ -268,8 +254,7 @@ Arnaud Rachez:
   - CoachÉlèves
   github: zermelozf
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/arnaud-rachez.html
   linkedin:
   profil: Data scientist
@@ -284,7 +269,6 @@ Audrey Istace:
   - PolyGraphe
   github:
   gitlab:
-  image: img/communaute/miniatures/audrey-istace.png
   image_url: /img/communaute/audrey-istace.png
   link_to: /communaute/2019/audrey-istace.html
   linkedin:
@@ -303,8 +287,7 @@ Augustin Wenger:
   - LexImpact
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/augustin-wenger.html
   linkedin: https://www.linkedin.com/in/augustin-wenger-11530189/
   profil: Développeur
@@ -325,7 +308,6 @@ Bastien Guerry:
   - EIG Link 2018
   github: bzg
   gitlab: bzg
-  image: img/communaute/miniatures/Bastien-Guerry.png
   image_url: /img/communaute/Bastien-Guerry.png
   link_to: /communaute/2018/bastien-guerry.html
   linkedin:
@@ -344,7 +326,6 @@ Benoît Guigal:
   - Hopkins
   github: benoitguigal
   gitlab:
-  image: img/communaute/miniatures/Benoit-Guigal.png
   image_url: /img/communaute/Benoit-Guigal.png
   link_to: /communaute/2018/benoit-guigal.html
   linkedin:
@@ -362,8 +343,7 @@ Béatrice Clément:
   - Académie de Clermont-Ferrand
   github:
   gitlab:
-  image: img/communaute/miniatures/beatrice-clement.jpg
-  image_url: /img/communaute/beatrice-clement.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/beatrice-clement.html
   linkedin:
   profil: Mentor
@@ -380,8 +360,7 @@ Bénédicte Ezvan:
   - Shom
   github:
   gitlab:
-  image: img/communaute/miniatures/benedicte-ezvan.jpg
-  image_url: /img/communaute/benedicte-ezvan.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/benedicte-ezvan.html
   linkedin: https://www.linkedin.com/in/bénédicte-ezvan-aab450b0
   profil: Mentor
@@ -398,7 +377,6 @@ Bénédicte Pachod:
   - Social Connect
   github:
   gitlab:
-  image: img/communaute/miniatures/benedicte-pachod.png
   image_url: /img/communaute/benedicte-pachod.png
   link_to: /communaute/2018/benedicte-pachod.html
   linkedin:
@@ -417,7 +395,6 @@ Carine Stolz:
   - DataReg
   github:
   gitlab:
-  image: img/communaute/miniatures/carine-stolz.jpg
   image_url: /img/communaute/carine-stolz.png
   link_to: /communaute/2019/carine-stolz.html
   linkedin: https://www.linkedin.com/in/carinestolz/
@@ -435,8 +412,7 @@ Catherine Duyck-Bagot:
   - Caisse nationale d'Assurance maladie
   github:
   gitlab:
-  image: img/communaute/miniatures/catherine-duyck-bagot.jpg
-  image_url: /img/communaute/catherine-duyck-bagot.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/catherine-duyck-bagot.html
   linkedin:
   profil: Mentor
@@ -453,7 +429,6 @@ Charlotte Bourcier:
   - Ministère de l'Education Nationale
   github:
   gitlab:
-  image: img/communaute/miniatures/charlotte-bourcier.png
   image_url: /img/communaute/charlotte-bourcier.png
   link_to: /communaute/2019/charlotte-bourcier.html
   linkedin: https://www.linkedin.com/in/charlottebourcier/
@@ -471,7 +446,6 @@ Charlotte Marmet:
   - CGDD
   github:
   gitlab:
-  image: img/communaute/miniatures/charlotte-marmet.png
   image_url: /img/communaute/charlotte-marmet.png
   link_to: /communaute/2019/charlotte-marmet.html
   linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
@@ -489,8 +463,7 @@ Chloé Moser:
   - Archifiltre
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/chloe-moser.html
   linkedin:
   profil: Mentor
@@ -507,8 +480,7 @@ Christophe Astier:
   - SCHAPI
   github:
   gitlab:
-  image: img/communaute/miniatures/christophe-astier.png
-  image_url: /img/communaute/christophe-astier.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/christophe-astier.html
   linkedin:
   profil: Mentor
@@ -526,7 +498,6 @@ Christophe Ninucci:
   - Signaux Faibles
   github: chrnin
   gitlab:
-  image: img/communaute/miniatures/Christophe-Ninucci.png
   image_url: /img/communaute/Christophe-Ninucci.png
   link_to: /communaute/2018/christophe-ninucci.html
   linkedin:
@@ -544,8 +515,7 @@ Claudio Cimelli:
   - CoachÉlèves
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/claudio-cimelli.html
   linkedin:
   profil: Mentor
@@ -563,7 +533,6 @@ Coline Lebaratoux:
   - ACOSS-Plateforme
   github:
   gitlab:
-  image: img/communaute/miniatures/coline-lebaratoux.jpg
   image_url: /img/communaute/coline-lebaratoux.png
   link_to: /communaute/2019/coline-lebaratoux.html
   linkedin: http://linkedin.com/in/coline-lebaratoux
@@ -582,7 +551,6 @@ Constance de Quatrebarbes:
   - BNF - catalogage
   github: c24b
   gitlab:
-  image: img/communaute/miniatures/Constance-Quatrebarbes.png
   image_url: /img/communaute/Constance-Quatrebarbes.png
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   linkedin:
@@ -601,7 +569,6 @@ Cristian Perez Brokate:
   - IA Flash
   github: cristianpb
   gitlab:
-  image: img/communaute/miniatures/cristian-perez.jpg
   image_url: /img/communaute/cristian-perez.jpg
   link_to: /communaute/2019/cristian-perez.html
   linkedin:
@@ -619,7 +586,6 @@ Cécile Canel:
   - Shom
   github:
   gitlab:
-  image: img/communaute/miniatures/cecile-canel.png
   image_url: /img/communaute/cecile-canel.png
   link_to: /communaute/2019/cecile-canel.html
   linkedin:
@@ -638,7 +604,6 @@ Cédric Malherbe:
   - DataJust
   github:
   gitlab:
-  image: img/communaute/miniatures/cedric-malherbe.jpg
   image_url: /img/communaute/cedric-malherbe.png
   link_to: /communaute/2019/cedric-malherbe.html
   linkedin:
@@ -662,7 +627,6 @@ Daniel Ansellem:
   - Prévisecours
   github:
   gitlab:
-  image: img/communaute/miniatures/Daniel-Ansellem-2.png
   image_url: /img/communaute/Daniel-Ansellem-2.png
   link_to: /communaute/2018/daniel-ansellem.html
   linkedin:
@@ -681,8 +645,7 @@ David Panou:
   - CoachÉlèves
   github: pandav2
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/david-panou.html
   linkedin:
   profil: Data scientist
@@ -699,8 +662,7 @@ David Vigier:
   - Agence de la Sécurité Civile
   github:
   gitlab:
-  image: img/communaute/miniatures/david-vigier.jpg
-  image_url: /img/communaute/david-vigier.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/david-vigier.html
   linkedin:
   profil: Mentor
@@ -720,7 +682,6 @@ Delphine Lê:
   - ADLER
   github:
   gitlab:
-  image: img/communaute/miniatures/7_DelphineLE.png
   image_url: /img/communaute/delphine-le.png
   link_to: /communaute/2018/delphine-le.html
   linkedin:
@@ -739,7 +700,6 @@ Dora Crisan:
   - Brigade Numérique
   github: dora27
   gitlab:
-  image: img/communaute/miniatures/Dora-Crisan.png
   image_url: /img/communaute/Dora-Crisan.png
   link_to: /communaute/2018/dora-crisan.html
   linkedin:
@@ -755,7 +715,6 @@ Dorian Flechet:
   - CartoBio
   github:
   gitlab:
-  image: img/communaute/miniatures/Photo-DorianFLECHET.png
   image_url: /img/communaute/Photo-DorianFLECHET.png
   link_to: /communaute/2019/dorian-flechet.html
   linkedin:
@@ -774,7 +733,6 @@ Dorine Lambinet:
   - LexImpact
   github:
   gitlab:
-  image: img/communaute/miniatures/dorine-lambinet.jpg
   image_url: /img/communaute/dorine-lambinet.png
   link_to: /communaute/2019/dorine-lambinet.html
   linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
@@ -790,7 +748,6 @@ Edouard Rottier:
   - Open Justice
   github:
   gitlab:
-  image: img/communaute/miniatures/edouard-rottier.png
   image_url: /img/communaute/edouard-rottier.png
   link_to: /communaute/2019/edouard-rottier.html
   linkedin:
@@ -809,7 +766,6 @@ Elsa Luneville:
   - PrédiSauvetage
   github: Elsalune
   gitlab:
-  image: img/communaute/miniatures/Elsa-Luneville.png
   image_url: /img/communaute/Elsa-Luneville.png
   link_to: /communaute/2018/elsa-luneville.html
   linkedin:
@@ -828,7 +784,6 @@ Emmanuel Gautier:
   - Archifiltre
   github: emmanuelgautier1994
   gitlab:
-  image: img/communaute/miniatures/Emmanuel-Gautier.png
   image_url: /img/communaute/Emmanuel-Gautier.png
   link_to: /communaute/2018/emmanuel-gautier.html
   linkedin:
@@ -848,7 +803,6 @@ Emmanuel Weisenburger:
   - DataESR
   github:
   gitlab:
-  image: img/communaute/miniatures/Emmanuel-Weisenburger.png
   image_url: /img/communaute/Emmanuel-Weisenburger.png
   link_to: /communaute/2018/emmanuel-weisenburger.html
   linkedin:
@@ -867,8 +821,7 @@ Erica Marco:
   - Plume
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url: /img/communaute/Sans-photo.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/erica-marco.html
   linkedin: https://www.linkedin.com/in/erica-marco-9abb0697
   profil: Développeuse
@@ -885,8 +838,7 @@ Evelyne Vezinet:
   - Académie de Clermont-Ferrand
   github:
   gitlab:
-  image: img/communaute/miniatures/evelyne-vezinet.jpg
-  image_url: /img/communaute/evelyne-vezinet.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/evelyne-vezinet.html
   linkedin:
   profil: Mentor
@@ -903,8 +855,7 @@ Flavien Colsenet:
   - SCHAPI
   github:
   gitlab:
-  image: img/communaute/miniatures/flavien-colsenet.png
-  image_url: /img/communaute/flavien-colsenet.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/flavien-colsenet.html
   linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
   profil: Designer
@@ -921,8 +872,7 @@ Florent Laboy:
   - Plume
   github:
   gitlab:
-  image: img/communaute/miniatures/florent-laboy.png
-  image_url: /img/communaute/florent-laboy.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/florent-laboy.html
   linkedin: https://fr.linkedin.com/in/florent-laboy
   profil: Mentor
@@ -940,7 +890,6 @@ Francis Chabouis:
   - MI - cartAV
   github: fchabouis
   gitlab:
-  image: img/communaute/miniatures/Francis-Chabouis.png
   image_url: /img/communaute/Francis-Chabouis.png
   link_to: /communaute/2017/francis-chabouis.html
   linkedin:
@@ -958,7 +907,6 @@ François Bocquet:
   - CoachÉlèves
   github:
   gitlab:
-  image: img/communaute/miniatures/francois-bocquet.png
   image_url: /img/communaute/francois-bocquet.png
   link_to: /communaute/2018/francois-bocquet.html
   linkedin:
@@ -977,7 +925,6 @@ Frédéric Bardolle:
   - CC - API rapports
   github: seiteta
   gitlab:
-  image: img/communaute/miniatures/Frederic-Bardolle.png
   image_url: /img/communaute/Frederic-Bardolle.png
   link_to: /communaute/2017/frederic-bardolle.html
   linkedin:
@@ -996,7 +943,6 @@ Gabriel Bastard:
   - PolyGraphe
   github: retdop
   gitlab:
-  image: img/communaute/miniatures/Gabriel-Bastard.jpg
   image_url: /img/communaute/Gabriel-Bastard.png
   link_to: /communaute/2019/gabriel-bastard.html
   linkedin: https://www.linkedin.com/in/gbastard/
@@ -1014,8 +960,7 @@ Gilles Martinoty:
   - Shom
   github:
   gitlab:
-  image: img/communaute/miniatures/gilles-martinoty.jpg
-  image_url: /img/communaute/gilles-martinoty.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/gilles-martinoty.html
   linkedin:
   profil: Mentor
@@ -1033,7 +978,6 @@ Guillaume Lancrenon:
   - Prévisecours
   github: guillim
   gitlab:
-  image: img/communaute/miniatures/Guillaume-Lancrenon.png
   image_url: /img/communaute/Guillaume-Lancrenon.png
   link_to: /communaute/2018/guillaume-lancrenon.html
   linkedin:
@@ -1049,8 +993,7 @@ Guénolé Carré:
   defis: []
   github: guenolec
   gitlab:
-  image: img/communaute/miniatures/Guenole-Carre-miniature.jpg
-  image_url: /img/communaute/guenole-carre.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/guenole-carre.html
   linkedin: https://fr.linkedin.com/in/gu%C3%A9nol%C3%A9-carr%C3%A9-101462a8
   profil: Accompagnement
@@ -1067,8 +1010,7 @@ Géraldine Da Sylva:
   - DILA
   github:
   gitlab:
-  image: img/communaute/miniatures/geraldine-da-sylva.jpg
-  image_url: /img/communaute/geraldine-da-sylva.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/geraldine-da-sylva.html
   linkedin:
   profil: Mentor
@@ -1083,7 +1025,6 @@ Hervé Brulé:
   - CibNav
   github:
   gitlab:
-  image: img/communaute/miniatures/herve-brule.png
   image_url: /img/communaute/herve-brule.png
   link_to: /communaute/2019/herve-brule.html
   linkedin:
@@ -1101,8 +1042,7 @@ Hervé Béguinot:
   - DGGN
   github:
   gitlab:
-  image: img/communaute/miniatures/herve-beguinot.jpg
-  image_url: /img/communaute/herve-beguinot.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/herve-beguinot.html
   linkedin:
   profil: Mentor
@@ -1120,7 +1060,6 @@ Hugo Stéphan:
   - Karfu'R
   github:
   gitlab:
-  image: img/communaute/miniatures/hugo-stephan.jpg
   image_url: /img/communaute/Hugo-Stephan.png
   link_to: /communaute/2019/hugo-stephan.html
   linkedin: https://www.linkedin.com/in/hugo-stephan/
@@ -1138,7 +1077,6 @@ Hélène Cavalié:
   - Gobelins
   github:
   gitlab:
-  image: img/communaute/miniatures/helene_cavalie.jpg
   image_url: /img/communaute/helene_cavalie.jpg
   link_to: /communaute/2018/helene-cavalie.html
   linkedin:
@@ -1154,7 +1092,6 @@ Iana Ivanov:
   - DataJust
   github:
   gitlab:
-  image: img/communaute/miniatures/iana-ivanov.jpg
   image_url: /img/communaute/iana-ivanov.jpg
   link_to: /communaute/2019/iana-ivanov.html
   linkedin:
@@ -1172,8 +1109,7 @@ Iris Naudin:
   - DGGN
   github:
   gitlab:
-  image: img/communaute/miniatures/iris-naudin.png
-  image_url: /img/communaute/iris-naudin.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/iris-naudin.html
   linkedin: https://www.linkedin.com/in/irisvnaudin/
   profil: Designer
@@ -1191,7 +1127,6 @@ Jean-Baptiste Assouad:
   - Archifiltre
   github: jeanbaptisteassouad
   gitlab:
-  image: img/communaute/miniatures/JeanBaptiste-Assouad.png
   image_url: /img/communaute/JeanBaptiste-Assouad.png
   link_to: /communaute/2018/jean-baptiste-assouad.html
   linkedin:
@@ -1213,7 +1148,6 @@ Jean-Baptiste Le Dévéhat:
   - EIG Link 2019
   github: jbledevehat
   gitlab:
-  image: img/communaute/miniatures/jean-baptiste-le-devehat.jpg
   image_url: /img/communaute/jean-baptiste-le-devehat.png
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   linkedin:
@@ -1231,8 +1165,7 @@ Jean-Denis Vigne:
   - Muséum d'Histoire Naturelle
   github:
   gitlab:
-  image: img/communaute/miniatures/jean-denis-vigne.jpg
-  image_url: /img/communaute/jean-denis-vigne.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jean-denis-vigne.html
   linkedin:
   profil: Mentor
@@ -1248,8 +1181,7 @@ Jean-Edouard Sastre:
   - Muséum d'Histoire Naturelle
   github:
   gitlab:
-  image: img/communaute/miniatures/jean-edouard-sastre.png
-  image_url: /img/communaute/Jean-Edouard Sastre.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jean-edouard-sastre.html
   linkedin: https://www.linkedin.com/in/edouard-sastre
   profil: Designer
@@ -1266,8 +1198,7 @@ Jean-Marie Coulomb:
   - SCHAPI
   github:
   gitlab:
-  image: img/communaute/miniatures/jean-marie-coulomb.jpg
-  image_url: /img/communaute/jean-marie-coulomb.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jean-marie-coulomb.html
   linkedin:
   profil: Mentor
@@ -1282,7 +1213,6 @@ Jean-René Duscher:
   - ExploCode
   github:
   gitlab:
-  image: img/communaute/miniatures/photo-duscher-v2.png
   image_url: /img/communaute/photo-duscher-v2.png
   link_to: /communaute/2019/jean-rene-duscher.html
   linkedin:
@@ -1298,7 +1228,6 @@ Julien Bouquillon:
   - ExploCode
   github:
   gitlab:
-  image: img/communaute/miniatures/julien-bouquillon.png
   image_url: /img/communaute/julien-bouquillon.png
   link_to: /communaute/2019/julien-bouquillon.html
   linkedin:
@@ -1316,8 +1245,7 @@ Julien Dubedout:
   - Agence de la Sécurité Civile
   github: judbd
   gitlab:
-  image: img/communaute/miniatures/julien-dubedout.png
-  image_url: /img/communaute/julien-dubedout.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/julien-dubedout.html
   linkedin:
   profil: Designer
@@ -1334,8 +1262,7 @@ Julien Laffargue:
   - SCHAPI
   github:
   gitlab:
-  image: img/communaute/miniatures/julien-laffargue.jpg
-  image_url: /img/communaute/julien-laffargue.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/julien-laffargue.html
   linkedin:
   profil: Mentor
@@ -1353,7 +1280,6 @@ Julien Naour:
   - Lab Santé
   github:
   gitlab: jnaour
-  image: img/communaute/miniatures/JulienNaour.png
   image_url: /img/communaute/JulienNaour.png
   link_to: /communaute/2018/julien-naour.html
   linkedin:
@@ -1372,7 +1298,6 @@ Julien Paris:
   - Social Connect
   github: Jpy
   gitlab:
-  image: img/communaute/miniatures/JulienParis.png
   image_url: /img/communaute/JulienParis.png
   link_to: /communaute/2018/julien-paris.html
   linkedin:
@@ -1390,8 +1315,7 @@ Jérémie Baboukhian:
   - Mission Identité Numérique
   github: marzchew
   gitlab:
-  image: img/communaute/miniatures/jeremie-baboukhian.png
-  image_url: /img/communaute/jeremie-baboukhian.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jeremie-baboukhian.html
   linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
   profil: Designer
@@ -1408,8 +1332,7 @@ Jérémy Bakkalian:
   - Ministère des Armées
   github:
   gitlab:
-  image: img/communaute/miniatures/jeremy-bakkalian.jpg
-  image_url: /img/communaute/jeremy-bakkalian.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jeremy-bakkalian.html
   linkedin: https://www.linkedin.com/in/jbakkalian
   profil: Mentor
@@ -1426,8 +1349,7 @@ Jérôme Blondon:
   - Académie de Lyon
   github:
   gitlab:
-  image: img/communaute/miniatures/jerome-blondon.jpg
-  image_url: /img/communaute/jerome-blondon.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jerome-blondon.html
   linkedin: https://www.linkedin.com/in/jeromeblondon/
   profil: Mentor
@@ -1444,8 +1366,7 @@ Jérôme Letanou:
   - Ministère de l'Education Nationale
   github:
   gitlab:
-  image: img/communaute/miniatures/jerome-letanou.jpg
-  image_url: /img/communaute/jerome-letanou.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/jerome-letanou.html
   linkedin:
   profil: Mentor
@@ -1463,7 +1384,6 @@ Kim Montalibet:
   - DataJust
   github:
   gitlab: kimi_mtb
-  image: img/communaute/miniatures/kim-montalibet.jpg
   image_url: /img/communaute/kim-montalibet.png
   link_to: /communaute/2019/kim-montalibet.html
   linkedin: https://www.linkedin.com/in/kim-montalibet-1a01a265
@@ -1481,8 +1401,7 @@ Laure Dubuc:
   - Dihal
   github:
   gitlab:
-  image: img/communaute/miniatures/laure-dubuc.png
-  image_url: /img/communaute/laure-dubuc.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/laure-dubuc.html
   linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
   profil: Designer
@@ -1499,8 +1418,7 @@ Laurence Matringe:
   - PrédiSauvetage
   github: lamat92
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/laurence-matringe.html
   linkedin:
   profil: Mentor
@@ -1517,8 +1435,7 @@ Laurence Monnoyer-Smith:
   - CGDD
   github:
   gitlab:
-  image: img/communaute/miniatures/laurence-monnoyer-smith.jpg
-  image_url: /img/communaute/laurence-monnoyer-smith.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/laurence-monnoyer-smith.html
   linkedin:
   profil: Mentor
@@ -1535,8 +1452,7 @@ Laurent Buchaillat:
   - Ministère de l'Intérieur
   github:
   gitlab:
-  image: img/communaute/miniatures/laurent-buchaillat.jpg
-  image_url: /img/communaute/laurent-buchaillat.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/laurent-buchaillat.html
   linkedin:
   profil: Mentor
@@ -1553,7 +1469,6 @@ Laurent Darellis:
   - Académie de Lyon
   github:
   gitlab:
-  image: img/communaute/miniatures/laurent-darellis.png
   image_url: /img/communaute/laurent-darellis.png
   link_to: /communaute/2019/laurent-darellis.html
   linkedin: https://www.linkedin.com/in/laurentdarellis/
@@ -1572,7 +1487,6 @@ Laurent Dupont:
   - MESRI - La machine à données
   github: duplau
   gitlab:
-  image: img/communaute/miniatures/Laurent-Dupont.png
   image_url: /img/communaute/Laurent-Dupont.png
   link_to: /communaute/2017/laurent-dupont.html
   linkedin:
@@ -1590,8 +1504,7 @@ Laurent Le Prieur:
   - Ministère de l'Education Nationale
   github:
   gitlab:
-  image: img/communaute/miniatures/laurent-le-prieur.jpg
-  image_url: /img/communaute/laurent-le-prieur.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/laurent-le-prieur.html
   linkedin:
   profil: Mentor
@@ -1606,7 +1519,6 @@ Laurent Toustou:
   - DataReg
   github:
   gitlab:
-  image: img/communaute/miniatures/laurent-toustou.jpg
   image_url: /img/communaute/laurent-toustou.png
   link_to: /communaute/2019/laurent-toustou.html
   linkedin:
@@ -1625,7 +1537,6 @@ Laurie Chapotte:
   - Gobelins
   github: lauriechap
   gitlab:
-  image: img/communaute/miniatures/Laurie-Chapotte.png
   image_url: /img/communaute/Laurie-Chapotte.png
   link_to: /communaute/2018/laurie-chapotte.html
   linkedin:
@@ -1644,7 +1555,6 @@ Luc Salommez:
   - PolyGraphe
   github:
   gitlab:
-  image: img/communaute/miniatures/luc-salommez.jpg
   image_url: /img/communaute/Luc-Salommez.png
   link_to: /communaute/2019/luc-salommez.html
   linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa
@@ -1663,7 +1573,6 @@ Lucas Bchini:
   - CartoBio
   github: Hold7
   gitlab:
-  image: img/communaute/miniatures/lucas-bchini.jpg
   image_url: /img/communaute/lucas-bchini.png
   link_to: /communaute/2019/lucas-bchini.html
   linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
@@ -1682,7 +1591,6 @@ Léo Bouloc:
   - MESRI - La machine à données
   github: Leobouloc
   gitlab:
-  image: img/communaute/miniatures/Leo-Bouloc.png
   image_url: /img/communaute/Leo-Bouloc.png
   link_to: /communaute/2017/leo-bouloc.html
   linkedin:
@@ -1700,8 +1608,7 @@ Manuel Demougeot:
   - Dihal
   github:
   gitlab:
-  image: img/communaute/miniatures/manuel-demougeot.jpg
-  image_url: /img/communaute/manuel-demougeot.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/manuel-demougeot.html
   linkedin:
   profil: Mentor
@@ -1718,7 +1625,6 @@ Marc Bouteiller:
   - Ministère des Armées
   github:
   gitlab:
-  image: img/communaute/miniatures/marc-bouteiller.png
   image_url: /img/communaute/marc-bouteiller.png
   link_to: /communaute/2019/marc-bouteiller.html
   linkedin: https://linkedin.com/in/marc-bouteiller-511431a8
@@ -1736,8 +1642,7 @@ Marc Loutrel:
   - Mission Identité Numérique
   github:
   gitlab:
-  image: img/communaute/miniatures/marc-loutrel.jpg
-  image_url: /img/communaute/marc-loutrel.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/marc-loutrel.html
   linkedin:
   profil: Mentor
@@ -1752,7 +1657,6 @@ Marie Feucher:
   - CibNav
   github:
   gitlab:
-  image: img/communaute/miniatures/marie-feucher-2.png
   image_url: /img/communaute/marie-feucher-2.png
   link_to: /communaute/2019/marie-feucher.html
   linkedin:
@@ -1770,8 +1674,7 @@ Marie Juille:
   - Ministère de l'Intérieur
   github:
   gitlab:
-  image: img/communaute/miniatures/marie-juille.jpg
-  image_url: /img/communaute/marie-juille.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/marie-juille.html
   linkedin:
   profil: Mentor
@@ -1788,8 +1691,7 @@ Marie Ramon-Daré:
   - CGDD
   github:
   gitlab:
-  image: img/communaute/miniatures/marie-ramon-dare.png
-  image_url: /img/communaute/marie-ramon-dare.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/marie-ramon-dare.html
   linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
   profil: Designer
@@ -1806,7 +1708,6 @@ Marielle Chrisment:
   - Brigade Numérique
   github:
   gitlab:
-  image: img/communaute/miniatures/marielle-chrisment.jpg
   image_url: /img/communaute/marielle-chrisment.jpg
   link_to: /communaute/2018/marielle-chrisment.html
   linkedin:
@@ -1824,8 +1725,7 @@ Marine Gout:
   - Ministère de l'Education Nationale
   github:
   gitlab:
-  image: img/communaute/miniatures/marine-gout.jpg
-  image_url: /img/communaute/marine-gout.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/marine-gout.html
   linkedin: https://www.linkedin.com/in/mgout
   profil: Mentor
@@ -1843,7 +1743,6 @@ Marion Paclot:
   - DGFiP - fraude fiscale
   github: marion-paclot
   gitlab:
-  image: img/communaute/miniatures/Marion-Paclot.png
   image_url: /img/communaute/Marion-Paclot.png
   link_to: /communaute/2017/marion-paclot.html
   linkedin:
@@ -1862,7 +1761,6 @@ Martin Gross:
   - MI - matchID
   github: SuperKiwi
   gitlab:
-  image: img/communaute/miniatures/Martin-Gross.png
   image_url: /img/communaute/Martin-Gross.png
   link_to: /communaute/2017/martin-gross.html
   linkedin:
@@ -1878,7 +1776,6 @@ Mathieu Andro:
   - Plume
   github:
   gitlab:
-  image: img/communaute/miniatures/mathieu-andro.jpg
   image_url: /img/communaute/mathieu-andro.png
   link_to: /communaute/2019/mathieu-andro.html
   linkedin:
@@ -1896,8 +1793,7 @@ Mathieu Clair:
   - Muséum d'Histoire Naturelle
   github:
   gitlab:
-  image: img/communaute/miniatures/mathieu-clair.jpg
-  image_url: /img/communaute/mathieu-clair.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/mathieu-clair.html
   linkedin:
   profil: Mentor
@@ -1915,7 +1811,6 @@ Mathieu Havel:
   - ExploCode
   github: mhavel
   gitlab:
-  image: img/communaute/miniatures/mathieu-havel.jpg
   image_url: /img/communaute/mathieu-havel.png
   link_to: /communaute/2019/mathieu-havel.html
   linkedin: https://www.linkedin.com/in/mathieu-havel/
@@ -1934,7 +1829,6 @@ Mathieu Perez:
   - Open Justice
   github:
   gitlab:
-  image: img/communaute/miniatures/mathieu-perez.jpg
   image_url: /img/communaute/mathieu-perez.png
   link_to: /communaute/2019/mathieu-perez.html
   linkedin: https://www.linkedin.com/in/mathieujperez/
@@ -1955,7 +1849,6 @@ Mathilde Bras:
   defis: []
   github: MathildeBras
   gitlab:
-  image: img/communaute/miniatures/mathilde_bras.jpg
   image_url: /img/communaute/mathilde_bras.jpg
   link_to: /communaute/2018/mathilde-bras.html
   linkedin:
@@ -1971,7 +1864,6 @@ Mauko Quiroga:
   - LexImpact
   github: maukoquiroga
   gitlab:
-  image: img/communaute/miniatures/mauko-quiroga.png
   image_url: /img/communaute/mauko-quiroga.png
   link_to: /communaute/2019/mauko-quiroga.html
   linkedin: https://www.linkedin.com/in/maukoquiroga/
@@ -1989,7 +1881,6 @@ Maxime Beaugrand:
   - Mission Identité Numérique
   github:
   gitlab:
-  image: img/communaute/miniatures/maxime-beaugrand.png
   image_url: /img/communaute/maxime-beaugrand.png
   link_to: /communaute/2019/maxime-beaugrand.html
   linkedin: https://www.linkedin.com/in/maximebeaugrand
@@ -2008,7 +1899,6 @@ Maxime Pierrot:
   - DataESR
   github: pierrax
   gitlab:
-  image: img/communaute/miniatures/Maxime-Pierrot.png
   image_url: /img/communaute/Maxime-Pierrot.png
   link_to: /communaute/2018/maxime-pierrot.html
   linkedin:
@@ -2026,8 +1916,7 @@ Michael Fumery:
   - DGGN
   github:
   gitlab:
-  image: img/communaute/miniatures/michael-fumery.jpg
-  image_url: /img/communaute/michael-fumery.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/michael-fumery.html
   linkedin: https://www.linkedin.com/in/m-fumery
   profil: Mentor
@@ -2045,7 +1934,6 @@ Ned Baldessin:
   - Gobelins
   github: nedbaldessin
   gitlab:
-  image: img/communaute/miniatures/Ned-Baldessin.png
   image_url: /img/communaute/Ned-Baldessin.png
   link_to: /communaute/2018/ned-baldessin.html
   linkedin:
@@ -2064,7 +1952,7 @@ Nicolas Berkouk:
   - ADLER
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/nicolas-berkouk.html
   linkedin:
   profil: Data scientist
@@ -2079,7 +1967,6 @@ Nicolas Bizet:
   - ACOSS-Plateforme
   github:
   gitlab:
-  image: img/communaute/miniatures/nicolas-bizet.png
   image_url: /img/communaute/nicolas-bizet.png
   link_to: /communaute/2019/nicolas-bizet.html
   linkedin:
@@ -2097,7 +1984,6 @@ Nicolas Grandjean:
   - DGGN
   github:
   gitlab:
-  image: img/communaute/miniatures/nicolas-grandjean.png
   image_url: /img/communaute/nicolas-grandjean.png
   link_to: /communaute/2019/nicolas-grandjean.html
   linkedin: https://www.linkedin.com/in/nicolas-grandjean-64b325107
@@ -2115,8 +2001,7 @@ Nicolas Mathieu:
   - Agence de la Sécurité Civile
   github:
   gitlab:
-  image: img/communaute/miniatures/nicolas-mathieu.jpg
-  image_url: /img/communaute/nicolas-mathieu.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/nicolas-mathieu.html
   linkedin:
   profil: Mentor
@@ -2133,7 +2018,6 @@ Nicolas Patriarca:
   - Ministère de l'Intérieur
   github: Nik165790
   gitlab:
-  image: img/communaute/miniatures/nicolas-patriarca.png
   image_url: /img/communaute/alexis-deny.png
   link_to: /communaute/2019/nicolas-patriarca.html
   linkedin: https://www.linkedin.com/in/nicolas-patriarca-5a94b67b
@@ -2152,7 +2036,6 @@ Nikos Peteinatos:
   - Plume
   github: nikosgpet
   gitlab:
-  image: img/communaute/miniatures/nikos-peteinatos.jpg
   image_url: /img/communaute/nikos-peteinatos.png
   link_to: /communaute/2019/nikos-peteinatos.html
   linkedin: https://linkedin.com/in/nikosgpet
@@ -2168,7 +2051,6 @@ Olivier Brandouy:
   - Plume
   github:
   gitlab:
-  image: img/communaute/miniatures/olivier-brandouy.jpg
   image_url: /img/communaute/olivier-brandouy.png
   link_to: /communaute/2019/olivier-brandouy.html
   linkedin:
@@ -2186,8 +2068,7 @@ Olivier Garry:
   - CGDD
   github:
   gitlab:
-  image: img/communaute/miniatures/olivier-garry.jpg
-  image_url: /img/communaute/olivier-garry.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/olivier-garry.html
   linkedin:
   profil: Mentor
@@ -2202,7 +2083,6 @@ Pascal Guy:
   - Plume
   github:
   gitlab:
-  image: img/communaute/miniatures/pascal-guy.jpg
   image_url: /img/communaute/pascal-guy.png
   link_to: /communaute/2019/pascal-guy.html
   linkedin:
@@ -2218,7 +2098,6 @@ Patricia Poulet-Mathis:
   - ACOSS-Plateforme
   github:
   gitlab:
-  image: img/communaute/miniatures/patricia-poulet-mathis.png
   image_url: /img/communaute/patricia-poulet-mathis.png
   link_to: /communaute/2019/patricia-poulet-mathis.html
   linkedin:
@@ -2237,7 +2116,6 @@ Paul Boosz:
   - Hopkins
   github: paulboosz
   gitlab:
-  image: img/communaute/miniatures/Paul-Boosz.png
   image_url: /img/communaute/Paul-Boosz.png
   link_to: /communaute/2018/paul-boosz.html
   linkedin:
@@ -2254,7 +2132,6 @@ Paul Schmite:
   defis: []
   github: PaulEtalab
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
   image_url: /img/communaute/paul_schmite.jpg
   link_to: /communaute/2018/paul-schmite.html
   linkedin:
@@ -2275,7 +2152,6 @@ Philéas Condemine:
   - Lab Santé
   github: phileas-condemine
   gitlab:
-  image: img/communaute/miniatures/phileas-condemine.png
   image_url: /img/communaute/phileas-condemine.png
   link_to: /communaute/2018/phileas-condemine.html
   linkedin:
@@ -2293,8 +2169,7 @@ Pierre Arène:
   - Académie de Lyon
   github:
   gitlab:
-  image: img/communaute/miniatures/pierre-arene.jpg
-  image_url: /img/communaute/pierre-arene.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/pierre-arene.html
   linkedin:
   profil: Mentor
@@ -2312,7 +2187,6 @@ Pierre Camilleri:
   - Signaux Faibles
   github: jazzypierrot
   gitlab:
-  image: img/communaute/miniatures/pierre-camilleri.png
   image_url: /img/communaute/pierre-camilleri.png
   link_to: /communaute/2018/pierre-camilleri.html
   linkedin:
@@ -2330,8 +2204,7 @@ Pierre Charreau:
   - Académie de Clermont-Ferrand
   github:
   gitlab:
-  image: img/communaute/miniatures/pierre-charreau.png
-  image_url: /img/communaute/pierre-charreau.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/pierre-charreau.html
   linkedin:
   profil: Designer
@@ -2349,7 +2222,6 @@ Pierre-Alain Jachiet:
   - Open Chronic
   github: pajachiet
   gitlab:
-  image: img/communaute/miniatures/pierre-alain-jachiet.jpg
   image_url: /img/communaute/pierre-alain-jachiet.png
   link_to: /communaute/2019/pierre-alain-jachiet.html
   linkedin: https://www.linkedin.com/in/pierrealainjachiet/
@@ -2368,7 +2240,6 @@ Quentin Loridant:
   - CibNav
   github:
   gitlab:
-  image: img/communaute/miniatures/quentin-loridant.jpg
   image_url: /img/communaute/Quentin-Loridant.png
   link_to: /communaute/2019/quentin-loridant.html
   linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
@@ -2386,8 +2257,7 @@ Renaud Périn:
   - PrédiSauvetage
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/renaud-perin.html
   linkedin:
   profil: Mentor
@@ -2404,8 +2274,7 @@ Rosine Bernez:
   - DILA
   github:
   gitlab:
-  image: img/communaute/miniatures/rosine-bernez.png
-  image_url: /img/communaute/rosine-bernez.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/rosine-bernez.html
   linkedin: http://linkedin.com/in/rosine-bernez
   profil: Designer
@@ -2422,8 +2291,7 @@ Régis Perol:
   - DILA
   github:
   gitlab:
-  image: img/communaute/miniatures/regis-perol.jpg
-  image_url: /img/communaute/regis-perol.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/regis-perol.html
   linkedin:
   profil: Mentor
@@ -2440,7 +2308,6 @@ Rémy Nollet:
   - Brigade Numérique
   github:
   gitlab:
-  image: img/communaute/miniatures/remynollet.jpg
   image_url: /img/communaute/remynollet.jpg
   link_to: /communaute/2018/remy-nollet.html
   linkedin:
@@ -2459,7 +2326,6 @@ Samah Ghalloussi:
   - Lab Santé
   github:
   gitlab:
-  image: img/communaute/miniatures/Samah-Ghalloussi.png
   image_url: /img/communaute/Samah-Ghalloussi.png
   link_to: /communaute/2018/samah-ghalloussi.html
   linkedin:
@@ -2478,7 +2344,6 @@ Sami Moustachir:
   - DataESR
   github: sammous
   gitlab:
-  image: img/communaute/miniatures/sami-moustachir.jpg
   image_url: /img/communaute/sami-moustachir.png
   link_to: /communaute/2018/sami-moustachir.html
   linkedin:
@@ -2494,7 +2359,6 @@ Samir Kebli:
   - CartoBio
   github:
   gitlab:
-  image: img/communaute/miniatures/samir-kebli.jpg
   image_url: /img/communaute/samir-kebli.png
   link_to: /communaute/2019/samir-kebli.html
   linkedin:
@@ -2510,7 +2374,6 @@ Sandra Chakroun:
   - LexImpact
   github:
   gitlab:
-  image: img/communaute/miniatures/sandra-chakroun.jpg
   image_url: /img/communaute/sandra-chakroun.jpg
   link_to: /communaute/2019/sandra-chakroun.html
   linkedin: https://www.linkedin.com/in/sandra-chakroun/
@@ -2528,8 +2391,7 @@ Sarah Lepreux:
   - Ministère de l'Education Nationale
   github:
   gitlab:
-  image: img/communaute/miniatures/sarah-lepreux.png
-  image_url: /img/communaute/sarah-lepreux.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/sarah-lepreux.html
   linkedin:
   profil: Designer
@@ -2546,7 +2408,6 @@ Simon Karleskind:
   - Karfu'R
   github:
   gitlab:
-  image: img/communaute/miniatures/simon-karleskind.png
   image_url: /img/communaute/simon-karleskind.png
   link_to: /communaute/2019/simon-karleskind.html
   linkedin:
@@ -2565,7 +2426,6 @@ Simon Lebastard:
   - ADLER
   github: slebastard
   gitlab:
-  image: img/communaute/miniatures/simon-lebastard.jpg
   image_url: /img/communaute/simon-lebastard.png
   link_to: /communaute/2019/simon-lebastard.html
   linkedin: https://www.linkedin.com/in/simon-lebastard/
@@ -2583,8 +2443,7 @@ Sofia Boulaarab:
   - Académie de Clermont-Ferrand
   github:
   gitlab:
-  image: img/communaute/miniatures/sofia-boulaarab.png
-  image_url: /img/communaute/sofia-boulaarab.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/sofia-boulaarab.html
   linkedin:
   profil: Designer
@@ -2601,7 +2460,6 @@ Soizic Pénicaud:
   defis: []
   github: soizicpenicaud
   gitlab:
-  image: img/communaute/miniatures/soizic_penicaud.jpg
   image_url: /img/communaute/soizic_penicaud.jpg
   link_to: /communaute/2018/soizic-penicaud.html
   linkedin:
@@ -2619,8 +2477,7 @@ Sophie Jacquemont:
   - Dihal
   github:
   gitlab:
-  image: img/communaute/miniatures/sophie-jacquemont.jpg
-  image_url: /img/communaute/sophie-jacquemont.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/sophie-jacquemont.html
   linkedin:
   profil: Mentor
@@ -2636,7 +2493,6 @@ Sophie Miljkovic:
   defis: []
   github: milkosofi
   gitlab:
-  image: img/communaute/miniatures/sophie-milkovitch.jpg
   image_url: /img/communaute/sophie-milkovitch.png
   link_to: /communaute/2018/sophie-miljkovic.html
   linkedin:
@@ -2655,7 +2511,6 @@ Soufiane Lamrissi:
   - Karfu'R
   github: Tony4469
   gitlab:
-  image: img/communaute/miniatures/Soufiane-Lamrissi.jpg
   image_url: /img/communaute/soufiane-lamrissi.png
   link_to: /communaute/2019/soufiane-lamrissi.html
   linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
@@ -2673,8 +2528,7 @@ Stéphane Mavel:
   - DINSIC
   github:
   gitlab:
-  image: img/communaute/miniatures/stephane-mavel.jpg
-  image_url: /img/communaute/stephane-mavel.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/stephane-mavel.html
   linkedin:
   profil: Mentor
@@ -2691,8 +2545,7 @@ Stéphane Petit:
   - Ministère des Armées
   github:
   gitlab:
-  image: img/communaute/miniatures/stephane-petit.jpg
-  image_url: /img/communaute/stephane-petit.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/stephane-petit.html
   linkedin:
   profil: Mentor
@@ -2709,7 +2562,6 @@ Stéphanie Combes:
   - Lab Santé
   github:
   gitlab:
-  image: img/communaute/miniatures/stephanie-combes.jpg
   image_url: /img/communaute/2_photostephaniecombes.png
   link_to: /communaute/2018/stephanie-combes.html
   linkedin:
@@ -2727,8 +2579,7 @@ Stéphanie Devigne:
   - Caisse nationale d'Assurance maladie
   github:
   gitlab:
-  image: img/communaute/miniatures/stephanie-devigne.jpg
-  image_url: /img/communaute/stephanie-devigne.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/stephanie-devigne.html
   linkedin:
   profil: Mentor
@@ -2745,7 +2596,6 @@ Stéphanie Schaer:
   - Signaux Faibles
   github:
   gitlab:
-  image: img/communaute/miniatures/stephanie-schaer.jpg
   image_url: /img/communaute/stephanie-schaer.png
   link_to: /communaute/2018/stephanie-schaer.html
   linkedin:
@@ -2764,7 +2614,6 @@ Sébastien Cossin:
   - ARS - Parcours de soin
   github: scossin
   gitlab:
-  image: img/communaute/miniatures/Sebastien-Cossin.png
   image_url: /img/communaute/Sebastien-Cossin.png
   link_to: /communaute/2017/sebastien-cossin.html
   linkedin:
@@ -2783,7 +2632,6 @@ Sébastien Touzé:
   - CibNav
   github: SebastienTouze
   gitlab:
-  image: img/communaute/miniatures/sebastien-touze.jpg
   image_url: /img/communaute/Sebastien-Touze.png
   link_to: /communaute/2019/sebastien-touze.html
   linkedin: https://www.linkedin.com/in/sebastientouze
@@ -2802,7 +2650,6 @@ Thierry Razanajao:
   - DataReg
   github: madageomapping
   gitlab:
-  image: img/communaute/miniatures/thierry-razanajao.jpg
   image_url: /img/communaute/thierry-razanajao.png
   link_to: /communaute/2019/thierry-razanajao.html
   linkedin:
@@ -2821,7 +2668,6 @@ Tiphaine Phe-Neau:
   - Prévisecours
   github: tiphaine
   gitlab:
-  image: img/communaute/miniatures/Tiphaine-PheNeau.png
   image_url: /img/communaute/Tiphaine-PheNeau.png
   link_to: /communaute/2018/tiphaine-phe-neau.html
   linkedin:
@@ -2840,7 +2686,6 @@ Tristram Gräbener:
   - MI - cartAV
   github: Tristramg
   gitlab:
-  image: img/communaute/miniatures/Tristram-Grabener.png
   image_url: /img/communaute/Tristram-Grabener.png
   link_to: /communaute/2017/tristram-grabener.html
   linkedin:
@@ -2859,7 +2704,6 @@ Valentin Barrière:
   - Open Justice
   github:
   gitlab:
-  image: img/communaute/miniatures/Valentin-Barriere.jpg
   image_url: /img/communaute/Valentin-Barriere.png
   link_to: /communaute/2019/valentin-barriere.html
   linkedin:
@@ -2877,8 +2721,7 @@ Valérie Peneau:
   - Mission Identité Numérique
   github:
   gitlab:
-  image: img/communaute/miniatures/valerie-peneau.jpg
-  image_url: /img/communaute/valerie-peneau.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/valerie-peneau.html
   linkedin:
   profil: Mentor
@@ -2896,7 +2739,6 @@ Victor Journé:
   - IA Flash
   github: victorjourne
   gitlab:
-  image: img/communaute/miniatures/victor-journe.jpg
   image_url: /img/communaute/victor-journe.png
   link_to: /communaute/2019/victor-journe.html
   linkedin: https://www.linkedin.com/in/victorjourne/
@@ -2915,7 +2757,6 @@ Victor Schmidt:
   - Hopkins
   github: vict0rsch
   gitlab:
-  image: img/communaute/miniatures/victor-schmidt.jpg
   image_url: /img/communaute/VictorSchmidt.png
   link_to: /communaute/2018/victor-schmidt.html
   linkedin:
@@ -2934,7 +2775,6 @@ Viktor Jarry:
   - Open Chronic
   github: vjarry
   gitlab:
-  image: img/communaute/miniatures/viktor-jarry.jpg
   image_url: /img/communaute/viktor-jarry.png
   link_to: /communaute/2019/viktor-jarry.html
   linkedin: https://www.linkedin.com/in/viktor-jarry-b2998690/
@@ -2952,8 +2792,7 @@ Vincent Bataille:
   - DINSIC
   github:
   gitlab:
-  image: img/communaute/miniatures/vincent-bataille.jpg
-  image_url: /img/communaute/vincent-bataille.jpg
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/vincent-bataille.html
   linkedin:
   profil: Mentor
@@ -2971,7 +2810,6 @@ Wojtek Sitarz:
   - CartoBio
   github: wojteksitarz
   gitlab:
-  image: img/communaute/miniatures/wojtek-sitarz.jpg
   image_url: /img/communaute/wojtek-sitarz.png
   link_to: /communaute/2019/wojtek-sitarz.html
   linkedin: https://www.linkedin.com/in/wojtek-sitarz/
@@ -2990,8 +2828,7 @@ Yann Caradec:
   - DataESR
   github:
   gitlab:
-  image: img/communaute/miniatures/Sans-photo.png
-  image_url: /img/communaute/Sans-photo.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/yann-caradec.html
   linkedin:
   profil: Mentor
@@ -3009,7 +2846,6 @@ Yann Caradec:
   - Social Connect
   github: Eliselalique
   gitlab:
-  image: img/communaute/miniatures/elise-250.jpg
   image_url: /img/communaute/elise-250.jpg
   link_to: /communaute/2018/elise-lalique.html
   linkedin:
@@ -3025,7 +2861,6 @@ Yann Caradec:
   - Open Justice
   github:
   gitlab:
-  image: img/communaute/miniatures/eloi-buat-menard.jpg
   image_url: /img/communaute/eloi-bluat-menard.png
   link_to: /communaute/2019/eloi-buat-menard.html
   linkedin:
@@ -3043,7 +2878,6 @@ Yann Caradec:
   - b@liseNAV
   github:
   gitlab:
-  image: img/communaute/miniatures/eric_le_guen.jpg
   image_url: /img/communaute/eric_le_guen.jpg
   link_to: /communaute/2018/eric-le-guen.html
   linkedin:
@@ -3062,7 +2896,6 @@ Yann Caradec:
   - AFD - Geodata
   github: EtienneDavid
   gitlab:
-  image: img/communaute/miniatures/Etienne-David.png
   image_url: /img/communaute/Etienne-David.png
   link_to: /communaute/2017/etienne-david.html
   linkedin:
