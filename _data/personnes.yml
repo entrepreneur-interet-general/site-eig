@@ -2,7 +2,8 @@ Adnène Trojette:
   annees:
   - 2017
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - CC - API rapports
   - Plume
@@ -12,6 +13,7 @@ Adnène Trojette:
   link_to: /communaute/2019/adnene-trojette.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Adnène Trojette
   twitter: trojette
   website:
@@ -30,13 +32,15 @@ Adrien Signorino:
   link_to: /communaute/2018/adrien-signorino.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Adrien Signorino
   twitter: signoOngis
   website:
 Alain Régnier:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Karfu'R
   github:
@@ -45,6 +49,7 @@ Alain Régnier:
   link_to: /communaute/2019/alain-regnier.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Alain Régnier
   twitter:
   website:
@@ -52,8 +57,8 @@ Alexis Deny:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Caisse nationale d'Assurance maladie
   github:
@@ -62,6 +67,7 @@ Alexis Deny:
   link_to: /communaute/2019/alexis-deny.html
   linkedin: https://www.linkedin.com/in/alexis-deny-581a3a9a/
   profil: Designer
+  programme: EIG
   title: Alexis Deny
   twitter:
   website:
@@ -80,6 +86,7 @@ Amaury Fouret:
   link_to: /communaute/2019/amaury-fouret.html
   linkedin: https://fr.linkedin.com/in/amaury-fouret-283422125
   profil: Data scientist
+  programme: EIG
   title: Amaury Fouret
   twitter: mopodono
   website:
@@ -98,6 +105,7 @@ Ambre Arnaud:
   link_to: /communaute/2018/ambre-arnaud.html
   linkedin:
   profil: Développeuse
+  programme: EIG
   title: Ambre Arnaud
   twitter: ambreelmee
   website:
@@ -116,6 +124,7 @@ Amélie Medem:
   link_to: /communaute/2019/amelie-medem.html
   linkedin: https://www.linkedin.com/in/amelie-medem
   profil: Data scientist
+  programme: EIG
   title: Amélie Medem
   twitter:
   website:
@@ -133,13 +142,15 @@ Anne Lambert:
   link_to: /communaute/2018/anne-lambert.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Anne Lambert
   twitter:
   website:
 Anne-Sophie Hutin:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - DataJust
   github:
@@ -148,6 +159,7 @@ Anne-Sophie Hutin:
   link_to: /communaute/2019/anne-sophie-hutin.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Anne-Sophie Hutin
   twitter:
   website:
@@ -166,6 +178,7 @@ Anoureth Pongrattana:
   link_to: /communaute/2019/anoureth-pongrattana.html
   linkedin: https://fr.linkedin.com/in/anoureth-pongrattana-3946b2a5
   profil: Développeur
+  programme: EIG
   title: Anoureth Pongrattana
   twitter: barbenoash
   website:
@@ -187,6 +200,7 @@ Antoine Augusti:
   link_to: /communaute/2018/antoine-augusti.html
   linkedin: https://www.linkedin.com/in/antoineaugusti/
   profil: Développeur
+  programme: EIG
   title: Antoine Augusti
   twitter: AntoineAugusti
   website: https://www.antoine-augusti.fr
@@ -205,6 +219,7 @@ Armand Giraud:
   link_to: /communaute/2019/armand-giraud.html
   linkedin: https://www.linkedin.com/in/armandgiraud/
   profil: Data scientist
+  programme: EIG
   title: Armand Giraud
   twitter:
   website:
@@ -222,6 +237,7 @@ Armando De Oliveira:
   link_to: /communaute/2019/armando-de-oliveira.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Armando De Oliveira
   twitter:
   website:
@@ -240,6 +256,7 @@ Arnaud Ménard:
   link_to: /communaute/2018/arnaud-menard.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Arnaud Ménard
   twitter: Nono400
   website:
@@ -258,13 +275,15 @@ Arnaud Rachez:
   link_to: /communaute/2018/arnaud-rachez.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Arnaud Rachez
   twitter: zermelozf
   website:
 Audrey Istace:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - PolyGraphe
   github:
@@ -273,6 +292,7 @@ Audrey Istace:
   link_to: /communaute/2019/audrey-istace.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Audrey Istace
   twitter:
   website:
@@ -291,6 +311,7 @@ Augustin Wenger:
   link_to: /communaute/2019/augustin-wenger.html
   linkedin: https://www.linkedin.com/in/augustin-wenger-11530189/
   profil: Développeur
+  programme: EIG
   title: Augustin Wenger
   twitter:
   website:
@@ -312,6 +333,7 @@ Bastien Guerry:
   link_to: /communaute/2018/bastien-guerry.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Bastien Guerry
   twitter: bzg2
   website: https://bzg.fr
@@ -330,6 +352,7 @@ Benoît Guigal:
   link_to: /communaute/2018/benoit-guigal.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Benoît Guigal
   twitter: BGuigal
   website:
@@ -347,6 +370,7 @@ Béatrice Clément:
   link_to: /communaute/2019/beatrice-clement.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Béatrice Clément
   twitter:
   website:
@@ -364,6 +388,7 @@ Bénédicte Ezvan:
   link_to: /communaute/2019/benedicte-ezvan.html
   linkedin: https://www.linkedin.com/in/bénédicte-ezvan-aab450b0
   profil: Mentor
+  programme: DIG
   title: Bénédicte Ezvan
   twitter: EZVANB
   website:
@@ -381,6 +406,7 @@ Bénédicte Pachod:
   link_to: /communaute/2018/benedicte-pachod.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Bénédicte Pachod
   twitter: BenedictePachod
   website:
@@ -399,6 +425,7 @@ Carine Stolz:
   link_to: /communaute/2019/carine-stolz.html
   linkedin: https://www.linkedin.com/in/carinestolz/
   profil: Data scientist
+  programme: EIG
   title: Carine Stolz
   twitter:
   website:
@@ -416,6 +443,7 @@ Catherine Duyck-Bagot:
   link_to: /communaute/2019/catherine-duyck-bagot.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Catherine Duyck-Bagot
   twitter:
   website:
@@ -423,8 +451,8 @@ Charlotte Bourcier:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Ministère de l'Education Nationale
   github:
@@ -433,6 +461,7 @@ Charlotte Bourcier:
   link_to: /communaute/2019/charlotte-bourcier.html
   linkedin: https://www.linkedin.com/in/charlottebourcier/
   profil: Designer
+  programme: EIG
   title: Charlotte Bourcier
   twitter: Charlotte_Bcr
   website:
@@ -440,8 +469,8 @@ Charlotte Marmet:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - CGDD
   github:
@@ -450,6 +479,7 @@ Charlotte Marmet:
   link_to: /communaute/2019/charlotte-marmet.html
   linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
   profil: Designer
+  programme: EIG
   title: Charlotte Marmet
   twitter:
   website:
@@ -467,6 +497,7 @@ Chloé Moser:
   link_to: /communaute/2018/chloe-moser.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Chloé Moser
   twitter: archivist_chloe
   website:
@@ -484,6 +515,7 @@ Christophe Astier:
   link_to: /communaute/2019/christophe-astier.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Christophe Astier
   twitter:
   website:
@@ -502,6 +534,7 @@ Christophe Ninucci:
   link_to: /communaute/2018/christophe-ninucci.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Christophe Ninucci
   twitter: ChrisNinucci
   website:
@@ -519,6 +552,7 @@ Claudio Cimelli:
   link_to: /communaute/2018/claudio-cimelli.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Claudio Cimelli
   twitter: ClaudioCimelli
   website:
@@ -537,6 +571,7 @@ Coline Lebaratoux:
   link_to: /communaute/2019/coline-lebaratoux.html
   linkedin: http://linkedin.com/in/coline-lebaratoux
   profil: Designer
+  programme: EIG
   title: Coline Lebaratoux
   twitter: colinelbx
   website:
@@ -555,6 +590,7 @@ Constance de Quatrebarbes:
   link_to: /communaute/2017/constance-de-quatrebarbes.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Constance de Quatrebarbes
   twitter: c4barbes
   website:
@@ -573,6 +609,7 @@ Cristian Perez Brokate:
   link_to: /communaute/2019/cristian-perez.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Cristian Perez Brokate
   twitter: cris_perez_b
   website: https://cristianpb.github.io
@@ -580,8 +617,8 @@ Cécile Canel:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Shom
   github:
@@ -590,6 +627,7 @@ Cécile Canel:
   link_to: /communaute/2019/cecile-canel.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Cécile Canel
   twitter:
   website:
@@ -608,6 +646,7 @@ Cédric Malherbe:
   link_to: /communaute/2019/cedric-malherbe.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Cédric Malherbe
   twitter:
   website:
@@ -631,6 +670,7 @@ Daniel Ansellem:
   link_to: /communaute/2018/daniel-ansellem.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Daniel Ansellem
   twitter:
   website:
@@ -649,6 +689,7 @@ David Panou:
   link_to: /communaute/2018/david-panou.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: David Panou
   twitter:
   website:
@@ -666,6 +707,7 @@ David Vigier:
   link_to: /communaute/2019/david-vigier.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: David Vigier
   twitter:
   website:
@@ -686,6 +728,7 @@ Delphine Lê:
   link_to: /communaute/2018/delphine-le.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Delphine Lê
   twitter: delphinel
   website:
@@ -704,13 +747,15 @@ Dora Crisan:
   link_to: /communaute/2018/dora-crisan.html
   linkedin:
   profil: Développeuse
+  programme: EIG
   title: Dora Crisan
   twitter: DoraCrisan
   website:
 Dorian Flechet:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - CartoBio
   github:
@@ -719,6 +764,7 @@ Dorian Flechet:
   link_to: /communaute/2019/dorian-flechet.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Dorian Flechet
   twitter:
   website:
@@ -737,13 +783,15 @@ Dorine Lambinet:
   link_to: /communaute/2019/dorine-lambinet.html
   linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
   profil: Designer
+  programme: EIG
   title: Dorine Lambinet
   twitter:
   website:
 Edouard Rottier:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Open Justice
   github:
@@ -752,6 +800,7 @@ Edouard Rottier:
   link_to: /communaute/2019/edouard-rottier.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Edouard Rottier
   twitter:
   website:
@@ -770,6 +819,7 @@ Elsa Luneville:
   link_to: /communaute/2018/elsa-luneville.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Elsa Luneville
   twitter:
   website:
@@ -788,6 +838,7 @@ Emmanuel Gautier:
   link_to: /communaute/2018/emmanuel-gautier.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Emmanuel Gautier
   twitter: manutaust
   website:
@@ -807,6 +858,7 @@ Emmanuel Weisenburger:
   link_to: /communaute/2018/emmanuel-weisenburger.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Emmanuel Weisenburger
   twitter: weisenburger_e
   website:
@@ -825,6 +877,7 @@ Erica Marco:
   link_to: /communaute/2019/erica-marco.html
   linkedin: https://www.linkedin.com/in/erica-marco-9abb0697
   profil: Développeuse
+  programme: EIG
   title: Erica Marco
   twitter:
   website:
@@ -842,6 +895,7 @@ Evelyne Vezinet:
   link_to: /communaute/2019/evelyne-vezinet.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Evelyne Vezinet
   twitter:
   website:
@@ -849,8 +903,8 @@ Flavien Colsenet:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - SCHAPI
   github:
@@ -859,6 +913,7 @@ Flavien Colsenet:
   link_to: /communaute/2019/flavien-colsenet.html
   linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
   profil: Designer
+  programme: EIG
   title: Flavien Colsenet
   twitter: FlavienColsenet
   website:
@@ -876,6 +931,7 @@ Florent Laboy:
   link_to: /communaute/2019/florent-laboy.html
   linkedin: https://fr.linkedin.com/in/florent-laboy
   profil: Mentor
+  programme: EIG
   title: Florent Laboy
   twitter: '@F__Lab'
   website:
@@ -894,6 +950,7 @@ Francis Chabouis:
   link_to: /communaute/2017/francis-chabouis.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Francis Chabouis
   twitter:
   website:
@@ -911,6 +968,7 @@ François Bocquet:
   link_to: /communaute/2018/francois-bocquet.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: François Bocquet
   twitter: fbocquet
   website:
@@ -929,6 +987,7 @@ Frédéric Bardolle:
   link_to: /communaute/2017/frederic-bardolle.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Frédéric Bardolle
   twitter: seiteta
   website:
@@ -947,6 +1006,7 @@ Gabriel Bastard:
   link_to: /communaute/2019/gabriel-bastard.html
   linkedin: https://www.linkedin.com/in/gbastard/
   profil: Data scientist
+  programme: EIG
   title: Gabriel Bastard
   twitter:
   website:
@@ -964,6 +1024,7 @@ Gilles Martinoty:
   link_to: /communaute/2019/gilles-martinoty.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Gilles Martinoty
   twitter:
   website:
@@ -982,6 +1043,7 @@ Guillaume Lancrenon:
   link_to: /communaute/2018/guillaume-lancrenon.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Guillaume Lancrenon
   twitter:
   website: https://guillim.github.io
@@ -997,6 +1059,7 @@ Guénolé Carré:
   link_to: /communaute/2019/guenole-carre.html
   linkedin: https://fr.linkedin.com/in/gu%C3%A9nol%C3%A9-carr%C3%A9-101462a8
   profil: Accompagnement
+  programme: EIG
   title: Guénolé Carré
   twitter: CarreGuenole
   website:
@@ -1014,13 +1077,15 @@ Géraldine Da Sylva:
   link_to: /communaute/2019/geraldine-da-sylva.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Géraldine Da Sylva
   twitter:
   website:
 Hervé Brulé:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - CibNav
   github:
@@ -1029,6 +1094,7 @@ Hervé Brulé:
   link_to: /communaute/2019/herve-brule.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Hervé Brulé
   twitter:
   website:
@@ -1046,6 +1112,7 @@ Hervé Béguinot:
   link_to: /communaute/2019/herve-beguinot.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Hervé Béguinot
   twitter:
   website:
@@ -1064,6 +1131,7 @@ Hugo Stéphan:
   link_to: /communaute/2019/hugo-stephan.html
   linkedin: https://www.linkedin.com/in/hugo-stephan/
   profil: Designer
+  programme: EIG
   title: Hugo Stéphan
   twitter: HugoStephan
   website:
@@ -1081,13 +1149,15 @@ Hélène Cavalié:
   link_to: /communaute/2018/helene-cavalie.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Hélène Cavalié
   twitter:
   website:
 Iana Ivanov:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - DataJust
   github:
@@ -1096,6 +1166,7 @@ Iana Ivanov:
   link_to: /communaute/2019/iana-ivanov.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Iana Ivanov
   twitter:
   website:
@@ -1103,8 +1174,8 @@ Iris Naudin:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - DGGN
   github:
@@ -1113,6 +1184,7 @@ Iris Naudin:
   link_to: /communaute/2019/iris-naudin.html
   linkedin: https://www.linkedin.com/in/irisvnaudin/
   profil: Designer
+  programme: EIG
   title: Iris Naudin
   twitter:
   website:
@@ -1131,6 +1203,7 @@ Jean-Baptiste Assouad:
   link_to: /communaute/2018/jean-baptiste-assouad.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Jean-Baptiste Assouad
   twitter:
   website:
@@ -1152,6 +1225,7 @@ Jean-Baptiste Le Dévéhat:
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Jean-Baptiste Le Dévéhat
   twitter: jbledevehat
   website:
@@ -1169,6 +1243,7 @@ Jean-Denis Vigne:
   link_to: /communaute/2019/jean-denis-vigne.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Jean-Denis Vigne
   twitter:
   website:
@@ -1176,7 +1251,7 @@ Jean-Edouard Sastre:
   annees:
   - 2019
   class:
-  - DIG
+  - dig
   defis:
   - Muséum d'Histoire Naturelle
   github:
@@ -1185,6 +1260,7 @@ Jean-Edouard Sastre:
   link_to: /communaute/2019/jean-edouard-sastre.html
   linkedin: https://www.linkedin.com/in/edouard-sastre
   profil: Designer
+  programme: EIG
   title: Jean-Edouard Sastre
   twitter: EdouardSastre
   website:
@@ -1202,13 +1278,15 @@ Jean-Marie Coulomb:
   link_to: /communaute/2019/jean-marie-coulomb.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Jean-Marie Coulomb
   twitter:
   website:
 Jean-René Duscher:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - ExploCode
   github:
@@ -1217,13 +1295,15 @@ Jean-René Duscher:
   link_to: /communaute/2019/jean-rene-duscher.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Jean-René Duscher
   twitter:
   website:
 Julien Bouquillon:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - ExploCode
   github:
@@ -1232,6 +1312,7 @@ Julien Bouquillon:
   link_to: /communaute/2019/julien-bouquillon.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Julien Bouquillon
   twitter:
   website:
@@ -1239,8 +1320,8 @@ Julien Dubedout:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Agence de la Sécurité Civile
   github: judbd
@@ -1249,6 +1330,7 @@ Julien Dubedout:
   link_to: /communaute/2019/julien-dubedout.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Julien Dubedout
   twitter: judbd
   website: https://mariejulien.com
@@ -1266,6 +1348,7 @@ Julien Laffargue:
   link_to: /communaute/2019/julien-laffargue.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Julien Laffargue
   twitter:
   website:
@@ -1284,6 +1367,7 @@ Julien Naour:
   link_to: /communaute/2018/julien-naour.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Julien Naour
   twitter:
   website:
@@ -1302,6 +1386,7 @@ Julien Paris:
   link_to: /communaute/2018/julien-paris.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Julien Paris
   twitter: jparis_py
   website: http://www.jpylab.com
@@ -1309,8 +1394,8 @@ Jérémie Baboukhian:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Mission Identité Numérique
   github: marzchew
@@ -1319,6 +1404,7 @@ Jérémie Baboukhian:
   link_to: /communaute/2019/jeremie-baboukhian.html
   linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
   profil: Designer
+  programme: EIG
   title: Jérémie Baboukhian
   twitter: baboukhian
   website:
@@ -1336,6 +1422,7 @@ Jérémy Bakkalian:
   link_to: /communaute/2019/jeremy-bakkalian.html
   linkedin: https://www.linkedin.com/in/jbakkalian
   profil: Mentor
+  programme: DIG
   title: Jérémy Bakkalian
   twitter: J_Bakka
   website:
@@ -1353,6 +1440,7 @@ Jérôme Blondon:
   link_to: /communaute/2019/jerome-blondon.html
   linkedin: https://www.linkedin.com/in/jeromeblondon/
   profil: Mentor
+  programme: DIG
   title: Jérôme Blondon
   twitter: jbl2024
   website:
@@ -1370,6 +1458,7 @@ Jérôme Letanou:
   link_to: /communaute/2019/jerome-letanou.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Jérôme Letanou
   twitter:
   website:
@@ -1388,6 +1477,7 @@ Kim Montalibet:
   link_to: /communaute/2019/kim-montalibet.html
   linkedin: https://www.linkedin.com/in/kim-montalibet-1a01a265
   profil: Data scientist
+  programme: EIG
   title: Kim Montalibet
   twitter:
   website:
@@ -1395,8 +1485,8 @@ Laure Dubuc:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Dihal
   github:
@@ -1405,6 +1495,7 @@ Laure Dubuc:
   link_to: /communaute/2019/laure-dubuc.html
   linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
   profil: Designer
+  programme: EIG
   title: Laure Dubuc
   twitter:
   website:
@@ -1422,6 +1513,7 @@ Laurence Matringe:
   link_to: /communaute/2018/laurence-matringe.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Laurence Matringe
   twitter: matringel
   website:
@@ -1439,6 +1531,7 @@ Laurence Monnoyer-Smith:
   link_to: /communaute/2019/laurence-monnoyer-smith.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Laurence Monnoyer-Smith
   twitter:
   website:
@@ -1456,6 +1549,7 @@ Laurent Buchaillat:
   link_to: /communaute/2019/laurent-buchaillat.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Laurent Buchaillat
   twitter:
   website:
@@ -1463,8 +1557,8 @@ Laurent Darellis:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Académie de Lyon
   github:
@@ -1473,6 +1567,7 @@ Laurent Darellis:
   link_to: /communaute/2019/laurent-darellis.html
   linkedin: https://www.linkedin.com/in/laurentdarellis/
   profil: Designer
+  programme: EIG
   title: Laurent Darellis
   twitter:
   website:
@@ -1491,6 +1586,7 @@ Laurent Dupont:
   link_to: /communaute/2017/laurent-dupont.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Laurent Dupont
   twitter:
   website:
@@ -1508,13 +1604,15 @@ Laurent Le Prieur:
   link_to: /communaute/2019/laurent-le-prieur.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Laurent Le Prieur
   twitter:
   website:
 Laurent Toustou:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - DataReg
   github:
@@ -1523,6 +1621,7 @@ Laurent Toustou:
   link_to: /communaute/2019/laurent-toustou.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Laurent Toustou
   twitter:
   website:
@@ -1541,6 +1640,7 @@ Laurie Chapotte:
   link_to: /communaute/2018/laurie-chapotte.html
   linkedin:
   profil: Designeuse
+  programme: EIG
   title: Laurie Chapotte
   twitter: Lauriechapotte
   website: http://chapottelaurie.fr/
@@ -1559,6 +1659,7 @@ Luc Salommez:
   link_to: /communaute/2019/luc-salommez.html
   linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa
   profil: Développeur
+  programme: EIG
   title: Luc Salommez
   twitter: LucSalommez
   website:
@@ -1577,6 +1678,7 @@ Lucas Bchini:
   link_to: /communaute/2019/lucas-bchini.html
   linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
   profil: Développeur
+  programme: EIG
   title: Lucas Bchini
   twitter: lucasbchini
   website:
@@ -1595,6 +1697,7 @@ Léo Bouloc:
   link_to: /communaute/2017/leo-bouloc.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Léo Bouloc
   twitter:
   website:
@@ -1612,6 +1715,7 @@ Manuel Demougeot:
   link_to: /communaute/2019/manuel-demougeot.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Manuel Demougeot
   twitter:
   website:
@@ -1619,8 +1723,8 @@ Marc Bouteiller:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Ministère des Armées
   github:
@@ -1629,6 +1733,7 @@ Marc Bouteiller:
   link_to: /communaute/2019/marc-bouteiller.html
   linkedin: https://linkedin.com/in/marc-bouteiller-511431a8
   profil: Designer
+  programme: EIG
   title: Marc Bouteiller
   twitter: mbout92
   website:
@@ -1646,13 +1751,15 @@ Marc Loutrel:
   link_to: /communaute/2019/marc-loutrel.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Marc Loutrel
   twitter:
   website:
 Marie Feucher:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - CibNav
   github:
@@ -1661,6 +1768,7 @@ Marie Feucher:
   link_to: /communaute/2019/marie-feucher.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Marie Feucher
   twitter:
   website:
@@ -1678,6 +1786,7 @@ Marie Juille:
   link_to: /communaute/2019/marie-juille.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Marie Juille
   twitter:
   website:
@@ -1685,8 +1794,8 @@ Marie Ramon-Daré:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - CGDD
   github:
@@ -1695,6 +1804,7 @@ Marie Ramon-Daré:
   link_to: /communaute/2019/marie-ramon-dare.html
   linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
   profil: Designer
+  programme: EIG
   title: Marie Ramon-Daré
   twitter:
   website:
@@ -1712,6 +1822,7 @@ Marielle Chrisment:
   link_to: /communaute/2018/marielle-chrisment.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Marielle Chrisment
   twitter:
   website:
@@ -1729,6 +1840,7 @@ Marine Gout:
   link_to: /communaute/2019/marine-gout.html
   linkedin: https://www.linkedin.com/in/mgout
   profil: Mentor
+  programme: DIG
   title: Marine Gout
   twitter: MarineGout
   website:
@@ -1747,6 +1859,7 @@ Marion Paclot:
   link_to: /communaute/2017/marion-paclot.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Marion Paclot
   twitter:
   website:
@@ -1765,13 +1878,15 @@ Martin Gross:
   link_to: /communaute/2017/martin-gross.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Martin Gross
   twitter: TainMar
   website:
 Mathieu Andro:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Plume
   github:
@@ -1780,6 +1895,7 @@ Mathieu Andro:
   link_to: /communaute/2019/mathieu-andro.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Mathieu Andro
   twitter:
   website:
@@ -1797,6 +1913,7 @@ Mathieu Clair:
   link_to: /communaute/2019/mathieu-clair.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Mathieu Clair
   twitter:
   website:
@@ -1815,6 +1932,7 @@ Mathieu Havel:
   link_to: /communaute/2019/mathieu-havel.html
   linkedin: https://www.linkedin.com/in/mathieu-havel/
   profil: Data scientist
+  programme: EIG
   title: Mathieu Havel
   twitter:
   website:
@@ -1833,6 +1951,7 @@ Mathieu Perez:
   link_to: /communaute/2019/mathieu-perez.html
   linkedin: https://www.linkedin.com/in/mathieujperez/
   profil: Développeur
+  programme: EIG
   title: Mathieu Perez
   twitter: MthPrz
   website:
@@ -1853,13 +1972,15 @@ Mathilde Bras:
   link_to: /communaute/2018/mathilde-bras.html
   linkedin:
   profil: Accompagnement
+  programme: EIG
   title: Mathilde Bras
   twitter: Mathilde_Bras
   website:
 Mauko Quiroga:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - LexImpact
   github: maukoquiroga
@@ -1868,6 +1989,7 @@ Mauko Quiroga:
   link_to: /communaute/2019/mauko-quiroga.html
   linkedin: https://www.linkedin.com/in/maukoquiroga/
   profil: Mentor
+  programme: EIG
   title: Mauko Quiroga
   twitter: maukoquiroga
   website:
@@ -1875,8 +1997,8 @@ Maxime Beaugrand:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Mission Identité Numérique
   github:
@@ -1885,6 +2007,7 @@ Maxime Beaugrand:
   link_to: /communaute/2019/maxime-beaugrand.html
   linkedin: https://www.linkedin.com/in/maximebeaugrand
   profil: Designer
+  programme: EIG
   title: Maxime Beaugrand
   twitter: BeaugrandMaxime
   website:
@@ -1903,6 +2026,7 @@ Maxime Pierrot:
   link_to: /communaute/2018/maxime-pierrot.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Maxime Pierrot
   twitter: mpierrax
   website:
@@ -1920,6 +2044,7 @@ Michael Fumery:
   link_to: /communaute/2019/michael-fumery.html
   linkedin: https://www.linkedin.com/in/m-fumery
   profil: Mentor
+  programme: DIG
   title: Michael Fumery
   twitter:
   website:
@@ -1938,6 +2063,7 @@ Ned Baldessin:
   link_to: /communaute/2018/ned-baldessin.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Ned Baldessin
   twitter: ned
   website:
@@ -1956,13 +2082,15 @@ Nicolas Berkouk:
   link_to: /communaute/2019/nicolas-berkouk.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Nicolas Berkouk
   twitter:
   website:
 Nicolas Bizet:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - ACOSS-Plateforme
   github:
@@ -1971,6 +2099,7 @@ Nicolas Bizet:
   link_to: /communaute/2019/nicolas-bizet.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Nicolas Bizet
   twitter:
   website:
@@ -1978,8 +2107,8 @@ Nicolas Grandjean:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - DGGN
   github:
@@ -1988,6 +2117,7 @@ Nicolas Grandjean:
   link_to: /communaute/2019/nicolas-grandjean.html
   linkedin: https://www.linkedin.com/in/nicolas-grandjean-64b325107
   profil: Designer
+  programme: EIG
   title: Nicolas Grandjean
   twitter:
   website:
@@ -2005,6 +2135,7 @@ Nicolas Mathieu:
   link_to: /communaute/2019/nicolas-mathieu.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Nicolas Mathieu
   twitter:
   website:
@@ -2012,8 +2143,8 @@ Nicolas Patriarca:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Ministère de l'Intérieur
   github: Nik165790
@@ -2022,6 +2153,7 @@ Nicolas Patriarca:
   link_to: /communaute/2019/nicolas-patriarca.html
   linkedin: https://www.linkedin.com/in/nicolas-patriarca-5a94b67b
   profil: Designer
+  programme: EIG
   title: Nicolas Patriarca
   twitter:
   website:
@@ -2040,13 +2172,15 @@ Nikos Peteinatos:
   link_to: /communaute/2019/nikos-peteinatos.html
   linkedin: https://linkedin.com/in/nikosgpet
   profil: Designer
+  programme: EIG
   title: Nikos Peteinatos
   twitter: nikosgpet
   website: http://nikosgpet.com
 Olivier Brandouy:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Plume
   github:
@@ -2055,6 +2189,7 @@ Olivier Brandouy:
   link_to: /communaute/2019/olivier-brandouy.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Olivier Brandouy
   twitter:
   website:
@@ -2072,13 +2207,15 @@ Olivier Garry:
   link_to: /communaute/2019/olivier-garry.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Olivier Garry
   twitter:
   website:
 Pascal Guy:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Plume
   github:
@@ -2087,13 +2224,15 @@ Pascal Guy:
   link_to: /communaute/2019/pascal-guy.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Pascal Guy
   twitter:
   website:
 Patricia Poulet-Mathis:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - ACOSS-Plateforme
   github:
@@ -2102,6 +2241,7 @@ Patricia Poulet-Mathis:
   link_to: /communaute/2019/patricia-poulet-mathis.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Patricia Poulet-Mathis
   twitter:
   website:
@@ -2120,6 +2260,7 @@ Paul Boosz:
   link_to: /communaute/2018/paul-boosz.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Paul Boosz
   twitter:
   website:
@@ -2136,6 +2277,7 @@ Paul Schmite:
   link_to: /communaute/2018/paul-schmite.html
   linkedin:
   profil: Accompagnement
+  programme: EIG
   title: Paul Schmite
   twitter: schmitologie
   website:
@@ -2156,6 +2298,7 @@ Philéas Condemine:
   link_to: /communaute/2018/phileas-condemine.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Philéas Condemine
   twitter:
   website:
@@ -2173,6 +2316,7 @@ Pierre Arène:
   link_to: /communaute/2019/pierre-arene.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Pierre Arène
   twitter:
   website:
@@ -2191,6 +2335,7 @@ Pierre Camilleri:
   link_to: /communaute/2018/pierre-camilleri.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Pierre Camilleri
   twitter:
   website:
@@ -2198,8 +2343,8 @@ Pierre Charreau:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Académie de Clermont-Ferrand
   github:
@@ -2208,6 +2353,7 @@ Pierre Charreau:
   link_to: /communaute/2019/pierre-charreau.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Pierre Charreau
   twitter:
   website:
@@ -2226,6 +2372,7 @@ Pierre-Alain Jachiet:
   link_to: /communaute/2019/pierre-alain-jachiet.html
   linkedin: https://www.linkedin.com/in/pierrealainjachiet/
   profil: Data scientist
+  programme: EIG
   title: Pierre-Alain Jachiet
   twitter: pa_jachiet
   website:
@@ -2244,6 +2391,7 @@ Quentin Loridant:
   link_to: /communaute/2019/quentin-loridant.html
   linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
   profil: Data scientist
+  programme: EIG
   title: Quentin Loridant
   twitter:
   website:
@@ -2261,6 +2409,7 @@ Renaud Périn:
   link_to: /communaute/2018/renaud-perin.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Renaud Périn
   twitter:
   website:
@@ -2268,8 +2417,8 @@ Rosine Bernez:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - DILA
   github:
@@ -2278,6 +2427,7 @@ Rosine Bernez:
   link_to: /communaute/2019/rosine-bernez.html
   linkedin: http://linkedin.com/in/rosine-bernez
   profil: Designer
+  programme: EIG
   title: Rosine Bernez
   twitter:
   website:
@@ -2295,6 +2445,7 @@ Régis Perol:
   link_to: /communaute/2019/regis-perol.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Régis Perol
   twitter:
   website:
@@ -2312,6 +2463,7 @@ Rémy Nollet:
   link_to: /communaute/2018/remy-nollet.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Rémy Nollet
   twitter:
   website:
@@ -2330,6 +2482,7 @@ Samah Ghalloussi:
   link_to: /communaute/2018/samah-ghalloussi.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Samah Ghalloussi
   twitter: SamahNLP
   website:
@@ -2348,13 +2501,15 @@ Sami Moustachir:
   link_to: /communaute/2018/sami-moustachir.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Sami Moustachir
   twitter: sa_mous
   website:
 Samir Kebli:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - CartoBio
   github:
@@ -2363,13 +2518,15 @@ Samir Kebli:
   link_to: /communaute/2019/samir-kebli.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Samir Kebli
   twitter:
   website:
 Sandra Chakroun:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - LexImpact
   github:
@@ -2378,6 +2535,7 @@ Sandra Chakroun:
   link_to: /communaute/2019/sandra-chakroun.html
   linkedin: https://www.linkedin.com/in/sandra-chakroun/
   profil: Mentor
+  programme: EIG
   title: Sandra Chakroun
   twitter:
   website:
@@ -2385,8 +2543,8 @@ Sarah Lepreux:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Ministère de l'Education Nationale
   github:
@@ -2395,6 +2553,7 @@ Sarah Lepreux:
   link_to: /communaute/2019/sarah-lepreux.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Sarah Lepreux
   twitter:
   website:
@@ -2412,6 +2571,7 @@ Simon Karleskind:
   link_to: /communaute/2019/simon-karleskind.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Simon Karleskind
   twitter:
   website:
@@ -2430,6 +2590,7 @@ Simon Lebastard:
   link_to: /communaute/2019/simon-lebastard.html
   linkedin: https://www.linkedin.com/in/simon-lebastard/
   profil: Data scientist
+  programme: EIG
   title: Simon Lebastard
   twitter:
   website:
@@ -2437,8 +2598,8 @@ Sofia Boulaarab:
   annees:
   - 2019
   class:
-  - DIG
   - designer
+  - dig
   defis:
   - Académie de Clermont-Ferrand
   github:
@@ -2447,6 +2608,7 @@ Sofia Boulaarab:
   link_to: /communaute/2019/sofia-boulaarab.html
   linkedin:
   profil: Designer
+  programme: EIG
   title: Sofia Boulaarab
   twitter:
   website:
@@ -2464,6 +2626,7 @@ Soizic Pénicaud:
   link_to: /communaute/2018/soizic-penicaud.html
   linkedin:
   profil: Accompagnement
+  programme: EIG
   title: Soizic Pénicaud
   twitter: soizicpenicaud
   website:
@@ -2481,6 +2644,7 @@ Sophie Jacquemont:
   link_to: /communaute/2019/sophie-jacquemont.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Sophie Jacquemont
   twitter:
   website:
@@ -2497,6 +2661,7 @@ Sophie Miljkovic:
   link_to: /communaute/2018/sophie-miljkovic.html
   linkedin:
   profil: Accompagnement
+  programme: EIG
   title: Sophie Miljkovic
   twitter: MiljkovicSophie
   website:
@@ -2515,6 +2680,7 @@ Soufiane Lamrissi:
   link_to: /communaute/2019/soufiane-lamrissi.html
   linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
   profil: Développeur
+  programme: EIG
   title: Soufiane Lamrissi
   twitter:
   website:
@@ -2532,6 +2698,7 @@ Stéphane Mavel:
   link_to: /communaute/2019/stephane-mavel.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Stéphane Mavel
   twitter:
   website:
@@ -2549,6 +2716,7 @@ Stéphane Petit:
   link_to: /communaute/2019/stephane-petit.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Stéphane Petit
   twitter:
   website:
@@ -2566,6 +2734,7 @@ Stéphanie Combes:
   link_to: /communaute/2018/stephanie-combes.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Stéphanie Combes
   twitter:
   website:
@@ -2583,6 +2752,7 @@ Stéphanie Devigne:
   link_to: /communaute/2019/stephanie-devigne.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Stéphanie Devigne
   twitter:
   website:
@@ -2600,6 +2770,7 @@ Stéphanie Schaer:
   link_to: /communaute/2018/stephanie-schaer.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Stéphanie Schaer
   twitter:
   website:
@@ -2618,6 +2789,7 @@ Sébastien Cossin:
   link_to: /communaute/2017/sebastien-cossin.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Sébastien Cossin
   twitter: sebcossin
   website:
@@ -2636,6 +2808,7 @@ Sébastien Touzé:
   link_to: /communaute/2019/sebastien-touze.html
   linkedin: https://www.linkedin.com/in/sebastientouze
   profil: Développeur
+  programme: EIG
   title: Sébastien Touzé
   twitter: sebtouze
   website:
@@ -2654,6 +2827,7 @@ Thierry Razanajao:
   link_to: /communaute/2019/thierry-razanajao.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Thierry Razanajao
   twitter:
   website:
@@ -2672,6 +2846,7 @@ Tiphaine Phe-Neau:
   link_to: /communaute/2018/tiphaine-phe-neau.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Tiphaine Phe-Neau
   twitter: datatiph
   website: http://www.phe-neau.com/
@@ -2690,6 +2865,7 @@ Tristram Gräbener:
   link_to: /communaute/2017/tristram-grabener.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Tristram Gräbener
   twitter: tristramg
   website:
@@ -2708,6 +2884,7 @@ Valentin Barrière:
   link_to: /communaute/2019/valentin-barriere.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Valentin Barrière
   twitter:
   website:
@@ -2725,6 +2902,7 @@ Valérie Peneau:
   link_to: /communaute/2019/valerie-peneau.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Valérie Peneau
   twitter:
   website:
@@ -2743,6 +2921,7 @@ Victor Journé:
   link_to: /communaute/2019/victor-journe.html
   linkedin: https://www.linkedin.com/in/victorjourne/
   profil: Data scientist
+  programme: EIG
   title: Victor Journé
   twitter:
   website:
@@ -2761,6 +2940,7 @@ Victor Schmidt:
   link_to: /communaute/2018/victor-schmidt.html
   linkedin:
   profil: Data scientist
+  programme: EIG
   title: Victor Schmidt
   twitter: vict0rsch
   website: https://metada.org
@@ -2779,6 +2959,7 @@ Viktor Jarry:
   link_to: /communaute/2019/viktor-jarry.html
   linkedin: https://www.linkedin.com/in/viktor-jarry-b2998690/
   profil: Data scientist
+  programme: EIG
   title: Viktor Jarry
   twitter:
   website:
@@ -2796,6 +2977,7 @@ Vincent Bataille:
   link_to: /communaute/2019/vincent-bataille.html
   linkedin:
   profil: Mentor
+  programme: DIG
   title: Vincent Bataille
   twitter:
   website:
@@ -2814,6 +2996,7 @@ Wojtek Sitarz:
   link_to: /communaute/2019/wojtek-sitarz.html
   linkedin: https://www.linkedin.com/in/wojtek-sitarz/
   profil: Data scientist
+  programme: EIG
   title: Wojtek Sitarz
   twitter:
   website:
@@ -2832,6 +3015,7 @@ Yann Caradec:
   link_to: /communaute/2018/yann-caradec.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Yann Caradec
   twitter: y_caradec
   website:
@@ -2850,13 +3034,15 @@ Yann Caradec:
   link_to: /communaute/2018/elise-lalique.html
   linkedin:
   profil: Designeuse
+  programme: EIG
   title: Élise Lalique
   twitter:
   website:
 Éloi Buat-Ménard:
   annees:
   - 2019
-  class: 2019 mentor
+  class:
+  - mentor
   defis:
   - Open Justice
   github:
@@ -2865,6 +3051,7 @@ Yann Caradec:
   link_to: /communaute/2019/eloi-buat-menard.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Éloi Buat-Ménard
   twitter:
   website:
@@ -2882,6 +3069,7 @@ Yann Caradec:
   link_to: /communaute/2018/eric-le-guen.html
   linkedin:
   profil: Mentor
+  programme: EIG
   title: Éric Le Guen
   twitter:
   website:
@@ -2900,6 +3088,7 @@ Yann Caradec:
   link_to: /communaute/2017/etienne-david.html
   linkedin:
   profil: Développeur
+  programme: EIG
   title: Étienne David
   twitter: EtienneDavid
   website:
