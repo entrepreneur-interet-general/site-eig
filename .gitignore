@@ -3,3 +3,5 @@ _site
 _old
 Gemfile.lock
 .jekyll-metadata
+venv
+tests/__pycache__/
