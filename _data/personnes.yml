@@ -664,6 +664,7 @@ Daniel Ansellem:
   - MI - cartAV
   - MI - matchID
   - Prévisecours
+  - IA Flash
   github:
   gitlab:
   image_url: /img/communaute/Daniel-Ansellem-2.png
@@ -1965,7 +1966,7 @@ Mathilde Bras:
   - eig-2
   - eig-3
   - mentor
-  defis: []
+  defis: ["EIG Link 2018", "EIG Link 2019"]
   github: MathildeBras
   gitlab:
   image_url: /img/communaute/mathilde_bras.jpg
@@ -2000,7 +2001,7 @@ Maxime Beaugrand:
   - designer
   - dig
   defis:
-  - Mission Identité Numérique
+  - DINSIC
   github:
   gitlab:
   image_url: /img/communaute/maxime-beaugrand.png
@@ -2292,6 +2293,7 @@ Philéas Condemine:
   - datascientist
   defis:
   - Lab Santé
+  - Open Chronic
   github: phileas-condemine
   gitlab:
   image_url: /img/communaute/phileas-condemine.png
@@ -2728,6 +2730,7 @@ Stéphanie Combes:
   - mentor
   defis:
   - Lab Santé
+  - Open Chronic
   github:
   gitlab:
   image_url: /img/communaute/2_photostephaniecombes.png

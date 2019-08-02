@@ -158,10 +158,10 @@
   duration_months: 8
   colorback: blue
   eigs:
-    - "Marc Bouteiller "
+    - "Marc Bouteiller"
   mentors:
     - "Jérémy Bakkalian"
-    - "Stephane Petit"
+    - "Stéphane Petit"
 "Ministère de l'Education Nationale":
   image: /img/dig/02.png
   title: "Ministère de l'Education Nationale"
@@ -232,10 +232,10 @@
   duration_months: 9
   colorback: blue
   eigs:
-    - "Iris Villagra Naudin"
+    - "Iris Naudin"
     - "Nicolas Grandjean"
   mentors:
-    - "Hervé Beguinot"
+    - "Hervé Béguinot"
     - "Michael Fumery"
     - "Armando De Oliveira"
 "Académie de Lyon":
@@ -289,7 +289,7 @@
   promotion: "dig"
   eigs:
     - "Sofia Boulaarab"
-    - "Pierre Charreaux"
+    - "Pierre Charreau"
   mentors:
     - "Evelyne Vezinet"
     - "Béatrice Clément"
