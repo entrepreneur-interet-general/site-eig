@@ -1,12 +1,21 @@
 ---
-layout: post
-title: "Comment faire du design de services dans l'administration ? L'exemple du projet ACOSS-plateforme"
 author: Coline Lebaratoux, EIG
+description: 'Il y a 4 mois, Coline Lebaratoux intégrait l''ACOSS en tant qu''entrepreneure
+  d''intérêt général designer de service. Sa mission, appliquer les méthode du design
+  de service aux démarches des particuliers qui ont recours à l''emploi à domicile.
+  Voici comment elle a mis en oeuvre la première étape de tout projet de design :
+  la recherche utilisateur.'
+image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/detail-atelier-ux-map.jpg
+layout: post
+tags:
+- témoignage
+- réalisation
+- design
+title: Comment faire du design de services dans l'administration ? L'exemple du projet
+  ACOSS-plateforme
 twitter: colinelbx
-description: "Il y a 4 mois, Coline Lebaratoux intégrait l'ACOSS en tant qu'entrepreneure d'intérêt général designer de service. Sa mission, appliquer les méthode du design de service aux démarches des particuliers qui ont recours à l'emploi à domicile. Voici comment elle a mis en oeuvre la première étape de tout projet de design : la recherche utilisateur."
-image : https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/detail-atelier-ux-map.jpg
 ---
- 
+
 [Coline Lebaratoux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/coline-lebaratoux.html) a un diplôme supérieur d’arts appliqués en design de services et un master 2 en innovation sociale par le design. Après 4 années passées en agence en tant que designer de services, elle a intégré la promotion EIG 3 pour relever le défi [ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html). En binôme avec [Anoureth Pongrattana](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/anoureth-pongrattana.html), développeur full stack, ils ont pour mission de simplifier les démarches administratives liées au secteur de l’emploi à domicile. 
 
 **Après 4 mois passés au sein de l’ACOSS, Coline revient sur la première étape de son projet : la recherche utilisateur.**

@@ -4,6 +4,9 @@ description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur
   Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
 image: /img/blog/tiphaine-guillaume.jpg
 layout: post
+tags:
+- témoignage
+- datascience
 title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 twitter: datatiph
 ---

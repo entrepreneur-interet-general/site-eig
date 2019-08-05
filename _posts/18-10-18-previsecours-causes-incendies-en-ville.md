@@ -5,6 +5,10 @@ description: Guillaume est développeur au Ministère de l'Intérieur pour le d�
   plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.
 image: /img/communaute/guillaume-lancrenon.png
 layout: post
+tags:
+- témoignage
+- réalisation
+- datascience
 title: Comment prédire les incendies en ville ?
 twitter: etalab
 ---

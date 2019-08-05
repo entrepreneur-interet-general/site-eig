@@ -6,6 +6,10 @@ description: Mercredi 16 mai, entrepreneurs d'intérêt général et mentors ven
   la feuille de route de pérennisation de leurs défis.
 image: /img/blog/dsi-pyramide-perennisation.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- pérennisation
 title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
 twitter: etalab
 ---

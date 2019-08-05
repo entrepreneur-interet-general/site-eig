@@ -8,6 +8,10 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   de logiciels libres, ouverts aux contributions extérieures.'
 image: /img/blog/xkcd-open-source.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- open
 title: L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)
 twitter: schmitologie
 ---

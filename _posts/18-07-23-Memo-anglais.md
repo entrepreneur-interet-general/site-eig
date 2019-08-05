@@ -6,6 +6,10 @@ description: Here at Etalab, we are convinced that the « Public Interest Entrep
   how we do it.
 image: /img/logo-marianne-eig-site.png
 layout: post
+tags:
+- accompagnement
+- méthode
+- international
 title: Public Interest Entrepreneurs, why, what and how
 twitter: MiljkovicSophie
 ---

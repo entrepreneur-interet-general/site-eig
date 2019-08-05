@@ -5,6 +5,9 @@ description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réuni
   et de tirer quelques enseignements de ces cinq premiers mois.
 image: /img/blog/session-mentors-3.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
 title: Quels apprentissages pour les agents publics mentors du programme EIG ?
 twitter: soizicpenicaud
 ---

@@ -7,6 +7,10 @@ description: 'Du 5 au 9 février derniers, l''équipe du programme Entrepreneur�
   et ce qui en est ressorti.'
 image: /img/blog/bootcamp/promotion2.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- collectif
 title: Comment souder un collectif de talents et assurer sa réussite - Retour sur
   le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
 twitter: soizicpenicaud

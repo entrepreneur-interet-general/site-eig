@@ -6,6 +6,11 @@ description: Quelles sont les « stacks » des défis EIG ?  Font-ils de « 
   après deux mois de cette deuxième année EIG.
 image: /img/blog/bulloterie_apercu.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- outil
+- collectif
 title: Un point technique après deux mois du programme EIG
 twitter: bzg2
 ---

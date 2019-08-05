@@ -1,10 +1,19 @@
 ---
-layout: post
-title: "Accélérer les défis et fédérer la promotion : retours du premier séminaire « hors-les-murs » de la promotion EIG 3"
 author: Antoine Augusti et Jean-Baptiste le Dévéhat, EIG Link
-twitter: eigforever
-description: "L'équipe de coordination du programme EIG a organisé un premier séminaire « hors-les-mur s» pour la promotion 3. Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ? Comment organiser des temps de travail efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis différents ?"
+description: L'équipe de coordination du programme EIG a organisé un premier séminaire
+  « hors-les-mur s» pour la promotion 3. Pourquoi sortir les EIG de leurs administrations
+  pendant deux jours et les réunir au vert ? Comment organiser des temps de travail
+  efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis
+  différents ?
 image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/seminaire-2019/promo-3.jpg
+layout: post
+tags:
+- accompagnement
+- méthode
+- collectif
+title: 'Accélérer les défis et fédérer la promotion : retours du premier séminaire
+  « hors-les-murs » de la promotion EIG 3'
+twitter: eigforever
 ---
 
 Les 16 et 17 mai 2019, les entrepreneurs d'intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l'année. Fort du succès de ce [format que nous avons testé l’année dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html), nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d'accélérateur aux défis et de commencer à réfléchir à leur pérennisation. 

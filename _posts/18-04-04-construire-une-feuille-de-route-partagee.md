@@ -6,6 +6,9 @@ description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se so
   à renforcer et à clarifier.
 image: /img/blog/lll-1-canvas.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
 title: 'Réaliser un défi en 10 mois : construire une feuille de route partagée et
   accepter de la faire évoluer'
 twitter: null

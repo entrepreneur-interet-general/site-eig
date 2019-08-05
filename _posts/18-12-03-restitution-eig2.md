@@ -8,6 +8,10 @@ description: De janvier à novembre 2018, le programme Entrepreneur·e d'Intér�
   leurs réalisations et proposent quelques conseils à la prochaine promotion.
 image: /img/blog/bootcamp/promotion2.jpg
 layout: post
+tags:
+- réalisation
+- open
+- accompagnement
 title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations
   de la Promotion 2
 twitter: etalab

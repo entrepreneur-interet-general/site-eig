@@ -5,6 +5,10 @@ description: Antoine Augusti, entrepreneur d'intérêt général pour le défi P
   de les rendre disponible en open data pour mieux servir la société.
 image: /img/blog/article-antoine-photo-avec-elsa.jpg
 layout: post
+tags:
+- témoignage
+- datascience
+- open
 title: 'Travailler avec des données d''exception et les rendre disponibles : retour
   d''expérience d''Antoine Augusti'
 twitter: AntoineAugusti

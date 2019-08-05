@@ -8,6 +8,10 @@ description: 'Le 15 mai, l''équipe EIG a organisé au Liberté Living Lab une r
   par d’autres services, voire hors de l’administration ?'
 image: /img/blog/facteurs_reussite.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- évaluation
 title: Appel à projets EIG 3 - les 6 facteurs clés de succès d’un défi EIG
 twitter: soizicpenicaud
 ---

@@ -6,6 +6,10 @@ description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement d
   et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: /img/blog/design-site-affreux.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- design
 title: Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour
   sur les ateliers du 22 mars (3/3)
 twitter: MiljkovicSophie

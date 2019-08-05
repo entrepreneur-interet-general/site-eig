@@ -6,6 +6,10 @@ description: Le 14 juin dernier s'est tenue une session de bilan à mi-parcours.
   qu'offre l'équipe EIG. En voici une synthèse.
 image: /img/blog/matrice-social-connect.jpg
 layout: post
+tags:
+- accompagnement
+- méthode
+- évaluation
 title: 'Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et
   l''accompagnement de l''équipe EIG'
 twitter: MiljkovicSophie

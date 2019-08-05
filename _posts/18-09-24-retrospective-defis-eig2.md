@@ -6,6 +6,9 @@ description: Les 6 et 7 septembre 2018, la promotion 2 des entrepreneurs d'inté
   a été organisé. Restitutions (en images).
 image: /img/blog/win-fails-tableau.jpg
 layout: post
+tags:
+- accompagnement
+- évaluation
 title: Rétrospective - les EIG2 font le bilan. Ce qu'ils ont réussi, appris, transmis,
   ce qui les a surpris, ce qu'ils auraient fait autrement
 twitter: Mathilde_Bras
