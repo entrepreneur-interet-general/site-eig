@@ -33,20 +33,21 @@
     <p>{{ post.description }}</p>
   </div>
   <div class="card__extra">
-    {% if post.tags %}
-    <div class="post-tags text-right">
-      <ul>
-        {% for tag in post.tags %}
-        <li class="button tiny outline">#{{ tag }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    <div class="mt-1">
-      <a class="button small" href="{{ post.url }}">
-        Lire la suite
-      </a>
+    <div class="row">
+      <div class="columns small-12 medium-8">
+        <div class="post-tags">
+          <ul>
+            {% for tag in post.tags %}
+            <li class="button tiny outline">#{{ tag }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="columns small-12 medium-4 text-right">
+        <a class="button small" href="{{ post.url }}">
+          Lire la suite
+        </a>
+      </div>
     </div>
   </div>
 </div>
