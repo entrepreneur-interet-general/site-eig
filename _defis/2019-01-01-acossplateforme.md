@@ -1,24 +1,6 @@
 ---
 layout: defi
-title: ACOSS-plateforme
-site: /defis/2019/acossplateforme.html
-annees: 2019
-description: "Simplifier les démarches des cotisants et construire de nouveaux services à l’aide des données du réseau Urssaf"
-administration: Agence centrale des organismes de sécurité sociale (ACOSS)
-administration-website: https://www.acoss.fr/home.html
-type: Design & Développement
-eigs:
-  - nom: Coline Lebaratoux
-    site: /communaute/2019/coline-lebaratoux.html
-  - nom: Anoureth Pongrattana
-    site: /communaute/2019/anoureth-pongrattana.html
-mentors:
-  - nom: Nicolas Bizet
-    site: /communaute/2019/nicolas-bizet.html
-  - nom: Patricia Poulet-Mathis
-    site: /communaute/2019/patricia-poulet-mathis.html
-images: 
-  - /img/logo-acoss-plateforme.png
+title: ACOSS-Plateforme
 ---
 
 [L’Agence centrale des organismes de sécurité sociale
@@ -27,10 +9,6 @@ l’expérience utilisateur des démarches du secteur de l’emploi à
 domicile en développant des APIs autour des données liées aux
 salariés, employeurs, et autres organismes intervenants dans les
 prélèvements sociaux.
-
-Voir le [défi ACOSS Plateforme](https://speakerdeck.com/eig2018/pitch-acoss-plateforme-defi-eig3) en quelques slides.
-
-<br/>
 
 ## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur 
 
@@ -75,71 +53,3 @@ pertinent d'exploration pour le défi qui aura un double-objectif :
 
 Dans une approche _design thinking_, d'autres sujets pourront être
 explorés.
-
-<br/>
-
-## Les EIG 
-
-### [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), designer UX / designer de services
-
-**Missions principales** : recherche utilisateur, analyse des besoins internes et des besoins
-des partenaires, conception de service, test et itérations, animation d'ateliers.
-
-**Compétences** : design de services avec une forte
-sensibilité usage et expérience utilisateur. Une sensibilité pour le design d'interface utilisateur UI serait un plus.
-
-### [Anoureth Pongrattana](/communaute/2019/anoureth-pongrattana.html), développeur web / web services
-
-**Missions principales** : gestion des données, développement et mise
-en production des nouveaux services.
-
-**Compétences** : développement full stack, Oauth2. 
-
-Les entrepreneurs recrutés auront toute latitude pour analyser les
-données, identifier des utilisations nouvelles. Dans un esprit
-d’ouverture, des propositions sortant de nos standards pourront être
-formulées. L'environnement mis à leur disposition (sponsor métier d'un
-membre du CODIR, mentor de la DSI, proximité avec la direction
-digitale et innovation et de la DSI, espace Lab...) créera un cadre
-facilitant. Le concours des équipes DSI internes contribuera à
-l’atteinte des objectifs.
-
-En outre, un profil UX Designer est en cours de recrutement et
-contribuera au projet EIG.
-
-_Lieu de travail : ACOSS 36, rue de Valmy, Montreuil._
-
-<br/>
-
-## L'équipe autour des EIG
-
-### Nicolas Bizet, mentor opérationnel
-
-![Nicolas Bizet](/img/communaute/nicolas-bizet.png)
-
-_"Ingénieur en informatique de formation, je rejoins rapidement l’ACOSS
-d’abord en tant que prestataire de service puis en tant que
-collaborateur. Après avoir exercé les fonctions de développeur,
-responsable technique et chef de projets au sein des Etudes &
-Développements, je contribue à la création de l’équipe d’Architecture
-d’Entreprise, transverse à la DSI. Puis, j’y anime notamment la
-définition du besoin et le suivi du déploiement de la plateforme d’API
-Management. Au mois de septembre prochain, je suis amené à rejoindre
-l’équipe Digital et Offre de services de la DSI, pour développer
-l’exposition d’API, avec la création d’un portail dédié."_
-
-### Patricia Poulet-Mathis, mentor métier
-
-![Patricia Poulet-Mathis](/img/communaute/patricia-poulet-mathis.png)
-
-_"De formation ingénieure informatique je rejoins la CARSAT Rhône Alpes
-à la fin des années 80’s et suis séduite par les valeurs de solidarité
-véhiculées par la sécurité sociale où je décide de suivre le parcours
-de l’Ecole Nationale Supérieure de Sécurité Sociale (EN3S). Cela me
-permet de rejoindre la direction de l’URSSAF Rhône Alpes en 2004 où
-j’exerce de nombreuses missions de cheffe de projet autours des
-thématiques organisationnelles, informatique et qualité en parallèle
-d’une direction métier. Je rejoins ensuite en janvier 2018 l’Acoss en
-tant que Directrice des offres particulières (TESE, CEA, CESU,
-PAJE). Experte dans ces domaines, je mettrai tout en œuvre pour faire
-de ce projet EIG une réussite."_

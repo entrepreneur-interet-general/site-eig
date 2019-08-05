@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/brigadenumerique.html
 profil:
 images:
-  - /img/communaute/10.MarielleChrisment.jpg
+  - /img/communaute/marielle-chrisment.jpg
 ---
 
 « Officier de gendarmerie, ingénieure et titulaire

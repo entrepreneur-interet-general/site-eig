@@ -1,11 +1,24 @@
 ---
-layout: post
-title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs d'intérêt général
 author: Sophie Miljkovic, équipe EIG
-twitter: 
-description: "Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée par l'équipe de coordination du programme à Etalab. Un des objectifs : leur faire découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un projet numérique autour des données au sein de l’État ? 
+description: 'Du 11 au 15 février, les entrepreneurs d’intérêt général de la troisième
+  promotion ont participé à une semaine d’intégration - un « bootcamp » - organisée
+  par l''équipe de coordination du programme à Etalab. Un des objectifs : leur faire
+  découvrir les acteurs qui œuvrent à la transformation numérique de l’État et qu’ils
+  pourront mobiliser pendant les 10 mois de leurs défis. Vous aussi, vous menez un
+  projet numérique autour des données au sein de l’État ?
 
-Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles vous pourrez vous appuyer pour les résoudre."
+  Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles
+  vous pourrez vous appuyer pour les résoudre.'
+image: /img/blog/photo-blogpost-bootcamp-eig3.jpg
+layout: post
+tags:
+- accompagnement
+- méthode
+- écosystème
+title: Quelles ressources mobiliser pour mener à bien un projet numérique autour des
+  données ? - Retour sur la semaine d'intégration de la promotion 3 des entrepreneurs
+  d'intérêt général
+twitter: null
 ---
 
 _Retour sur le bootcamp d'intégration de la promotion 3 des entrepreneurs d'intérêt général_

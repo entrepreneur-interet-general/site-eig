@@ -1,9 +1,16 @@
 ---
-layout: post
-title: Et le logiciel libre dans tout ça ?
 author: Bastien Guerry, EIG Link
+description: Qu'est-ce que le logiciel libre ?  Les EIG en ont-ils utilisé ?  En ont-ils
+  publiés ?  Comment aller plus loin ?  Quelques réflexions à l'issue de cette deuxième
+  année du programme EIG.
+image: https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png
+layout: post
+tags:
+- méthode
+- outil
+- open
+title: Et le logiciel libre dans tout ça ?
 twitter: bzg2
-description: Qu'est-ce que le logiciel libre ?  Les EIG en ont-ils utilisé ?  En ont-ils publiés ?  Comment aller plus loin ?  Quelques réflexions à l'issue de cette deuxième année du programme EIG.
 ---
 
 ## Le logiciel libre et l'administration publique

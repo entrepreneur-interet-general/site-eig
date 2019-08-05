@@ -1,133 +1,164 @@
 ---
 layout: default
 section_id: presentation
+key_figures:
+  -
+    amount: 37
+    description: "défis accompagnés"
+  -
+    amount: 29
+    description: "administrations participantes"
+  -
+    amount: 68
+    description: "EIG recrutés"
+  -
+    amount: 45
+    description: "agents publics embarqués"
 ---
 
 <div class='full'>
-    <div class='row'>
-	<!-- <a href="/img/document.pdf" target="new">Le texte de mon lien</a> -->
-	<div class='large-12 columns'>
-	    <h2>Entrepreneurs d'Intérêt Général : faire du numérique un levier de transformation du service public</h2>
-	    <div class='one spacing'></div>
-		
-		<p><strong>La transformation numérique a révolutionné les technologies, mais aussi les usages et les attentes des citoyens.</strong> Conscient du potentiel que représente le numérique, l’État a décidé d’en faire un levier pour transformer le service public.</p>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Ouvrir l’administration à des talents du numérique pour résoudre des défis publics en 10 mois</h2>
 
-		    <p>En 2016, la présidence de la République française crée le programme Entrepreneurs d’Intérêt Général. Il part du constat que les administrations veulent mener des projets ambitieux de transformation numérique mais n’ont pas les compétences pointues nécessaires en interne pour les réaliser.</p> 
-		    
-		    <p><strong>L’objectif du programme ? Intégrer pour 10 mois des profils d’exception dans les administrations pour relever des défis d'amélioration du service publique à l'aide du numérique et des données.</strong></p>
-		    
-		   <p>Chaque année, le programme constitue une promotion d'entrepreneurs d'intérêt général. Des data scientists, designers, développeuses et développeurs intègrent des administrations par équipes pluridisciplinaires de 2 ou 3 pour relever des défis variés : accès au droit, aide à la décision...</p>
-		
-	</div>
+      <p>En 2016, la présidence de la République française annonce la création du programme Entrepreneurs d’Intérêt Général. Il part du constat que les administrations veulent mener des projets ambitieux de transformation numérique mais n’ont pas les compétences pointues nécessaires en interne pour les réaliser.</p>
+
+      <p><strong>Le principe du programme : intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données.</strong></p>
     </div>
-</div>
+  </div>
 
-<div class='full'>
-    <div class='row'>
-	<!-- <a href="/img/document.pdf" target="new">Le texte de mon lien</a> -->
-	<div class='large-12 columns'>
-	    <h2>Comment constitue-t-on une promotion d’entrepreneurs d’intérêt général ?</h2>
-	    <div class='two spacing'></div>
-		<img alt="La frise du programme EIG indique les 4 étapes du programme : la sélection des défis, la sélection des candidats, l'accompagnement des défis et les itérations sur le programme" src="/img/frise-programme-eig.png"/>
-		<div class='two spacing'></div>
-
-		<p><strong>À l’origine d’une promotion, il y a des
-		défis.</strong> Ils sont sélectionnés par appel à
-		projets selon des critères d’impact pour les métiers
-		de l’administration et les citoyens, d’innovation
-		technique et d’ouverture à de nouvelles méthodes de
-		travail.</p>
-		
-		<p><strong>Composante essentielle d’une promotion, les
-		entrepreneurs d'intérêt général</strong> sont ensuite
-		sélectionnés grâce à un appel à candidatures. Les
-		mentors de chaque défi participent au jury de
-		sélection des candidats pour être sûrs de trouver
-		leurs perles rares.</p>
-		
-		<p><strong>La promotion peut alors commencer</strong>,
-		rythmée par des sessions d’accompagnement, des
-		sessions d’apprentissage pair à pair et des événements
-		de multiples factures.</p>
-		
-		<p><em>Le programme est porté par <a target="new" href="https://www.etalab.gouv.fr/qui-sommes-nous">Etalab</a> et bénéficie du financement du Programme d'investissements d'avenir, piloté par le <a traget="new" href="https://www.gouvernement.fr/le-secretariat-general-pour-l-investissement">Secrétariat général pour l'investissement</a> et la <a target="new" href="https://www.caissedesdepots.fr/">Caisse des dépôts et consignations</a>.</em></p>
-		
-	</div>
+  <div class="row">
+    <div class="columns medium-6">
+      <p>
+        Pour cela, chaque année, le programme constitue une promotion d'entrepreneurs d'intérêt général. Des data scientists, designers, développeuses et développeurs intègrent des administrations par équipes pluridisciplinaires de 2 ou 3 pour relever des défis variés dans des domaines variés : accès au droit, intégration des réfugiés, lutte contre la fraude...
+      </p>
     </div>
-    <div class='one spacing'></div>
+    <div class="columns medium-6">
+      <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x75h2pz" allowfullscreen allow="autoplay"></iframe>
+    </div>
+  </div>
 
-</div>	
-	
+  <div class="two spacing"></div>
 
-    <div class='one spacing'></div>
-    <div class='row'>
-	<div class='medium-8 columns'>
-	    <h2>Un programme pour recruter</h2>
+  <div class="row">
+    {% for key_figure in page.key_figures %}
+    <div class="small-6 columns text-center large-3">
+      <div class="mod modMilestone no-icon">
+        <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
+        <span>{{ key_figure.description }}</span>
+        <div class="spacing"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Comment constitue-t-on une promotion d’entrepreneurs d’intérêt général ?</h2>
+      <div class='two spacing'></div>
+      <img alt="La frise du programme EIG indique les 4 étapes du programme : la sélection des défis, la sélection des candidats, l'accompagnement des défis et les itérations sur le programme" src="/img/frise-programme-eig.png"/>
+      <div class='two spacing'></div>
+
+      <p><strong>1. À l’origine d’une promotion, il y a des
+      défis.</strong> Ils sont sélectionnés par appel à
+      projets selon des critères d’impact pour les métiers
+      de l’administration et les citoyens, d’innovation
+      technique et d’ouverture à de nouvelles méthodes de
+      travail. <a target="new" href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html">Pour en savoir plus, rendez-vous sur la page "défis".</a></p>
+
+      <p><strong>2. Composante essentielle d’une promotion, les
+      entrepreneurs d'intérêt général</strong> sont ensuite
+      sélectionnés grâce à un appel à candidatures. Les
+      mentors de chaque défi participent au jury de
+      sélection des candidats pour être sûrs de trouver
+      leurs perles rares. <a target="new" href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html">Pour découvrir les profils recrutés, rendez-vous sur la page "communauté".</a></p>
+
+      <p><strong>3. La promotion peut alors commencer</strong>,
+      rythmée par des sessions d’accompagnement, des
+      sessions d’apprentissage pair à pair et des événements
+      de multiples factures. <a target="new" href="https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html">Pour en savoir plus sur l'accompagnement des promotions, rendez-vous la page "offre d'accompagnement".</a></p>
+
+      <p><strong>4. Le programme évolue en fonction des retours.</strong> Cette posture apprenante permet d'ajuster l'offre d'accompagnement et de favoriser le succès des défis. <a target="new" href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/">Pour en savoir plus sur les itérations du programme, rendez-vous sur la page "blog".</a></p>
+
+      <p><em>Le programme est porté par <a target="new" href="https://www.etalab.gouv.fr/qui-sommes-nous">Etalab</a> et bénéficie du financement du Programme d'investissements d'avenir, piloté par le <a target="new" href="https://www.gouvernement.fr/le-secretariat-general-pour-l-investissement">Secrétariat général pour l'investissement</a> et la <a target="new" href="https://www.caissedesdepots.fr/">Caisse des dépôts et consignations</a>.</em></p>
+    </div>
+  </div>
+
+  <div class='two spacing'></div>
+
+  <div class='row'>
+	  <div class='medium-6 columns'>
+	    <img class="fadeinleft" width="500" height="340" alt="" src="/img/eig_2_livret.png">
+	  </div>
+	  <div class='medium-6 columns'>
+	    <h2>Public Interest Entrepreneurs in English</h2>
 	    <div class='spacing'></div>
 	    <ul class='shortcode-list'>
-		<li>
-		  <p><i class='fa fa-check'></i>Entrepreneurs
-		  d’Intérêt Général cherche à intégrer dans les
-		  administrations des personnes aux compétences
-		  pointues (datascience, développement, design)
-		  qu’elles n’ont pas en interne.</p>
-		</li>
-		<li>
-		  <p><i class='fa fa-check'></i>Les EIG sont recrutés
-		  en CDD pour une durée de 10 mois… et plus si
-		  affinités.</p>
+		    <li>
+		      <p><i class='fa fa-check'></i>In this memo, you will find an explanation as to why our program was built and how it carries out its mission.</p>
+		    </li>
 	    </ul>
-	</div>
-	<div class='medium-4 columns'>
-	    <img class="fadeinright" width="380" height="340" alt="" src="/img/programme-recruter.jpg">
-	</div>
-    </div>
-    
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-4 columns'>
-	    <img class="fadeinleft" width="380" height="340" alt="" src="/img/programme-experimenter.jpg">
-	</div>
-	<div class='medium-8 columns'>
-	    <h2>Un programme pour expérimenter</h2>
-	    <div class='spacing'></div>
-		<p>Entrepreneurs d’Intérêt Général a un double-objectif d’expérimentation :</p>
-	    	<ul class='shortcode-list'>
-			<li>
-		   	<p><i class='fa fa-check'></i>Les administrations expérimentent de nouvelles méthodes de travail au contact des EIG.</p>
-			</li>
-			<li>
-		   	<p><i class='fa fa-check'></i>Les EIG explorent plusieurs solutions dans le cadre inédit pour eux de l’administration.</p>
-			</li>
-	    	</ul>
-	</div>
-    </div>
-    
-    <div class='two spacing'></div>
-    <div class='row'>
-	<div class='medium-8 columns'>
-	    <h2>Un programme pour agir</h2>
+	  <div class='spacing'></div>
+	    <a class='button large' href='/docs/VF-EN-memo.pdf'>Learn more about the program</a>
+	  </div>
+  </div>
+
+  <div class='two spacing'></div>
+
+  <div class='row'>
+	  <div class='medium-6 columns'>
+	    <h2>Livret de présentation du programme</h2>
 	    <div class='spacing'></div>
 	    <ul class='shortcode-list'>
-		<li>
-		    <p><i class='fa fa-check'></i>Entrepreneurs d’Intérêt Général a pour vocation de donner aux administrations les moyens d’accélérer des projets numériques à fort impact pour les citoyens.</p>
-		</li>
-		<li>
-		    <p><i class='fa fa-check'></i>Le programme donne également la possibilité à des particuliers de mettre leurs compétences techniques au service de l’intérêt général.</p>
-		</li>
+		    <li>
+		      <p><i class='fa fa-check'></i>Ce livret présente à la fois le programme, la promotion 3 et les réalisations des promotion 1 et 2.</p>
+		    </li>
 	    </ul>
+	  <div class='spacing'></div>
+	    <a class='button large' href='/docs/2019-livret-presentation-programme-EIG.pdf'>Télécharger le livret de présentation</a>
 	</div>
-	<div class='medium-4 columns'>
-	    <img class="fadeinright" width="380" height="340" alt="" src="/img/programme-agir.jpg">
-	</div>
-    </div>
+	  <div class='medium-6 columns'>
+	    <img class="fadeinright" width="500" height="340" alt="Couverture du livret de présentation" src="/img/illustration-livret-presentation.png">
+	  </div>
+  </div>
+
+  <div class='two spacing'></div>
+
+  <div class='row'>
+	  <div class='medium-6 columns'>
+	    <img class="fadeinleft" width="500" height="340" alt="Couverture du rapport d'analyse" src="img/couverture-rapport-analyse.PNG">
+	  </div>
+	  <div class='medium-6 columns'>
+      <h2>Rapport d'analyse du programme</h2>
+	    <div class='spacing'></div>
+	    <ul class='shortcode-list'>
+		    <li>
+		      <p><i class='fa fa-check'></i>Afin de mesurer l'impact du programme, nous avons fait une étude dont nous vous livrons les conclusions dans ce rapport d'analyse.</p>
+		    </li>
+	    </ul>
+	  <div class='spacing'></div>
+	    <a class='button large' href='docs/Rapport-analyse-EIG-VF.pdf'>Découvrir le rapport d'analyse</a>
+	  </div>
+  </div>
+
+  <div class='two spacing'></div>
+
+  <div class='row'>
+	  <div class='medium-6 columns'>
+	    <h2>Les réalisations de la promotion 2</h2>
+	    <div class='spacing'></div>
+	    <ul class='shortcode-list'>
+		    <li>
+		      <p><i class='fa fa-check'></i>Livret de restitution de la promotion 2, présentant le programme et les réalisations principales des 13 défis.</p>
+		    </li>
+	    </ul>
+	  <div class='spacing'></div>
+	    <a class='button large' href='/docs/Livret_restitution_EIG_2.pdf'>Découvrir les réalisations des EIG promotion 2</a>
+	  </div>
+	  <div class='medium-6 columns'>
+	    <img class="fadeinright" width="500" height="340" alt="Couverture du livret de restitution" src="/img/eig_2_livret.png">
+	  </div>
+  </div>
+
+  <div class='two spacing'></div>
 </div>
-
-
-		<!--Le principe ? Intégrer pour 10 mois des profils
- 		d’exception dans les administrations pour relever des
- 	      défis numériques grâce aux données publiques. Chaque année, un appel à projets et un appel à candidature sont ouverts pour sélectionner les défis et les entrepreneurs d'intérêt général. <a target="new" href="/participer.html">En savoir plus </a>.</p>
-	    <p>Le programme est porté par <a target="new" href="https://www.etalab.gouv.fr/qui-sommes-nous">Etalab</a> et bénéficie du financement du Programme d'investissements d'avenir, piloté par le <a traget="new" href="https://www.gouvernement.fr/le-secretariat-general-pour-l-investissement">Secrétariat général pour l'investissement</a> et la <a target="new" href="https://www.caissedesdepots.fr/">Caisse des dépôts et consignations</a>. </p>
-		<p><a target="new" href="/docs/2019-livret-presentation-programme-EIG.pdf">Dans notre livret de présentation</a>, vous trouverez plus de détails sur le fonctionnement et les valeurs du programme, ainsi que des informations les entrepreneurs d'intérêt général, les mentors et les défis de la 3ème promotion.</p> -->
-		
-

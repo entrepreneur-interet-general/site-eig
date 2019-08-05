@@ -212,11 +212,14 @@ ul.shortcode-list i {
 
 /*Button styles */
 .button {
-  text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
   border: 0px solid #7298F5;
+}
+
+.button.tiny {
+  padding: .2rem .5rem;
 }
 
 .button:hover {
@@ -233,6 +236,17 @@ ul.shortcode-list i {
 
 .button.red:hover {
   background-color: #871212;
+}
+
+.button.outline {
+  color: #1c419b;
+  background: transparent;
+  border: 1px solid #1c419b;
+}
+
+.button.outline:hover {
+  color: #fff;
+  background: #1c419b;
 }
 
 .button.boxed {
@@ -510,8 +524,34 @@ ul.info i:hover {
 }
 
 /*Contact page */
-.contact-details h4 {
-  margin-bottom: 5px;
+.mt-0 {
+  margin-top: 0;
+}
+
+.mt-1 {
+  margin-top: 1em;
+}
+.mt-2 {
+  margin-top: 2em;
+}
+
+.contact-details {
+  padding: 2em 3em;
+  background: #1c419b;
+  color: white;
+}
+
+.contact-details h3 {
+  color: white;
+}
+
+.contact-details a {
+  color: white;
+  text-decoration: underline;
+}
+
+.kit-presse li {
+  margin-bottom: 2em;
 }
 
 form#contact_form {
@@ -920,6 +960,22 @@ body.screenshot {
   opacity: 0.75;
 }
 
+.post-nav {
+  margin-top: 2em;
+  border-top: 1px solid #c1c1c1;
+  padding-top: 1.5em;
+}
+
+.post-nav a:last-child {
+  text-align: right;
+}
+
+.post-nav a {
+  display: block;
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
 .modBlogPost {
   margin-bottom: 40px;
   background: #fff;
@@ -974,9 +1030,6 @@ body.screenshot {
   padding: 50px 40px;
 }
 .modBlogPost.big .info {
-  /* font-size: 0.78571rem; */
-  /* text-transform: uppercase; */
-  letter-spacing: 3px;
   color: #333;
 }
 .modBlogPost.big h3 {
@@ -1014,9 +1067,7 @@ body.screenshot {
 
 .modBlogPost.big img {
     display: block;
-    width: 80%;
     height: auto;
-    max-width: 80%;
     max-height: auto;
     margin: 1em auto 1em;
 }
@@ -1040,6 +1091,8 @@ body.screenshot {
 .modBlogPost.no_bg .content {
   padding: 10px 0 10px;
   background: none;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .modBlogPost.no_bg.no-media .content {
@@ -2422,7 +2475,7 @@ body.screenshot {
   margin: 0 auto 30px;
   text-align: center;
 }
-.modGallery .gallery-nav li {
+/* .modGallery .gallery-nav li {
   float: none;
   display: inline-block;
   border: 1px solid #8393a7;
@@ -2438,6 +2491,24 @@ body.screenshot {
 }
 .modGallery .gallery-nav li.current a {
   color: #1C419B;
+} */
+
+.modGallery .gallery-nav li {
+  float: none;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.modGallery .gallery-nav li a {
+  color: #8393a7;
+  border: 1px solid #8393a7;
+  padding: 8px 12px;
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.modGallery .gallery-nav li.current a {
+  color: #1C419B;
+  border: 1px solid #1C419B;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -3462,16 +3533,17 @@ body {
 }
 @media only screen and (max-width: 480px) {
   .modDefaultSlider .sequence .title h2 {
-    font-size: 2.14286rem;
-    line-height: 2.14286rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
   }
   .modDefaultSlider .sequence .small-title h2 {
     font-size: 1rem;
   }
 
   .modDefaultSlider.advanced .sequence .title h2 {
-    letter-spacing: 4px;
-    font-size: 2.57143rem;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    line-height: 1.5;
   }
   .modDefaultSlider.advanced .sequence p {
     font-size: 1.14286rem;
@@ -3620,3 +3692,135 @@ blockquote, ul, p {
     font-size: 1.15rem;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+/* Défis */
+.defi .logo {
+  width: 150px;
+  margin-top: 1em;
+}
+.defi .personne_container {
+  margin-bottom: 1em;
+}
+.defi .personne {
+  border-radius: 50%;
+  width: 150px;
+  margin-bottom: 1em;
+}
+.defi .role {
+  color: #333;
+}
+.defi .metadata {
+  font-family: "Evolventa", "Trebuchet MS", sans-serif;
+  font-size: 1em;
+  margin-bottom: 1em;
+  letter-spacing: 1px;
+}
+.defi [class*="column"] + [class*="column"]:last-child {
+  float: left;
+}
+.defi .modMilestone strong {
+  font-size: 3rem;
+}
+
+/* Carte */
+.card {
+  background: #fff;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 1px 2px rgba(201, 211, 223, 0.2);
+  box-shadow: 0 1px 2px rgba(201, 211, 223, 0.2);
+  position: relative;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  border: 1px solid #c9d3df;
+  margin-bottom: 1.5rem;
+}
+.card__cover {
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+.card__content {
+  padding: 1em;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+.card__content p {
+  font-size: 1rem;
+}
+.card__extra {
+  border-top: 1px solid #adb9c9;
+  padding: .5em;
+}
+.card__extra .button {
+  margin-bottom: 0;
+}
+.backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+
+  display: none;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 100px;
+  border: 4px solid #e9222e;
+
+  background: white;
+  color: #20459a;
+  box-shadow: 0 0px 0px 0 rgb(0, 0, 0), 0 1px 10px 0 rgba(0, 0, 0, 0.3);
+
+  font-size: 2rem;
+  font-weight: bolder;
+
+  cursor: pointer;
+
+  z-index: 1000;
+}
+
+.post-tags ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.post-tags li {
+  display: inline-block;
+}
+
+.post-tags li:first-child {
+  margin-left: 0 !important;
+}

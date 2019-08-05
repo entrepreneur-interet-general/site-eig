@@ -1,3 +1,7 @@
+- question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
+  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général s’inspire du programme EIG. Là où le programme EIG vise à recruter des compétences numériques variées pour résoudre des défis liés à la circulation des données et à l’amélioration de l’action publique, Designers d’Intérêt Général s’intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG intègrent les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils rejoignent ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p>"
+  ancre: difference-EIG-DIG
+
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
   reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes de la promotion 2 et 3 étaient constituées de 2 EIG.<p>"
   ancre: recruter-2-3-eig

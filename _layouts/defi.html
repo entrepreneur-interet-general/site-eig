@@ -2,75 +2,138 @@
 layout: default
 ---
 
-<div class='full'>
+{% assign defi_data = site.data.defis[page.title] %}
+
+<div class='full defi'>
   <div class='row'>
-    <div class='large-7 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          {% for image in page.images %}
-          <div class="slide">
-            <img src="{{site.url}}/{{image}}" alt="">
-          </div>
-          {% endfor %}
-        </div>
-      </div>
+    <div class="medium-2 columns">
+        <img
+          src="{{ defi_data.image }}"
+          alt="Logo {{ defi_data.title }}"
+          class="logo"
+        >
     </div>
-    <div class='large-5 columns'>
-      <h3>{{page.titre}}</h3>
-      <ul class='info'>
-        <li>
-          <strong>Année :</strong>
-          {{page.annees}}
-        </li>
-        <li>
-          <strong>Administration :</strong>
-          <a href='{{page.administration-website}}' target='new'>{{page.administration}}</a>
-        </li>
-        <li>
-          <strong>Mission :</strong>
-          {{page.description}}
-        </li>
-	{% if page.type %}
-        <li>
-          <strong>Type :</strong> <!-- FIXME: type est mauvais -->
-          {{page.type}} 
-        </li>
-	{% endif %}
-        <li>
-            <strong>EIGs :</strong>
-	    {% for eig in page.eigs %}
-	    {% if eig.site %}
-	    <a href='{{eig.site}}'>{{eig.nom}}</a>
-	    {% else %}
-	    {{eig.nom}}
-	    {% endif %}
-	    {% unless forloop.last %}
-            /
-            {% endunless %}
-	    {% endfor %}
-        </li>
-        <li>
-            <strong>Mentors :</strong>
-	    {% for mentor in page.mentors %}
-	    {% if mentor.site %}
-	    <a href='{{mentor.site}}'>{{mentor.nom}}</a>
-	    {% else %}
-	    {{mentor.nom}}
-	    {% endif %}
-	    {% unless forloop.last %}
-            /
-            {% endunless %}
-	    {% endfor %}
-        </li>
-      </ul>
-      <div class='spacing'></div>
-      {% if page.site %}
-      <a class='button small' href='/defis.html'>Voir les autres défis</a>
-      {% endif %}
-    </div>
-    <div class='large-12 columns'>
-      {{content}}
+    <div class='medium-10 columns'>
+      <h1>{{ defi_data.title }}</h1>
+      <h3>{{ defi_data.description}}</h3>
     </div>
   </div>
+  <div class="spacing"></div>
+  <div class="row">
+    <div class="medium-12 columns">
+      <div class="metadata">
+        <i class="fa fa-building" title="Administration de rattachement"></i>
+        <span class="sr-only">Administration de rattachement :</span>
+        <a href='{{ defi_data.administration_website }}' target='new'>{{ defi_data.administration }}</a>
+      </div>
+      <div class="metadata">
+        <i class="fa fa-calendar" title="Année et durée"></i>
+        <span class="sr-only">Année et durée :</span>
+        {{ defi_data.year }} — EIG {{ defi_data.promotion }} — {{ defi_data.duration_months }} mois
+      </div>
+    </div>
+  </div>
+
+  <div class="two spacing"></div>
+
+  <div class="row">
+    {% assign total = defi_data.eigs.size | plus: defi_data.mentors.size %}
+
+    {% case total %}
+    {% when 2 %}{% assign col_class = 'large-4' %}
+    {% when 3 %}{% assign col_class = 'large-4' %}
+    {% when 4 %}{% assign col_class = 'large-3' %}
+    {% when 5 %}{% assign col_class = 'large-3' %}
+    {% else %}{% assign col_class = 'large-3' %}
+    {% endcase %}
+
+    {% for eig in defi_data.eigs %}
+      {% include personne_small.html extra_class=col_class name=eig %}
+    {% endfor %}
+    {% for mentor in defi_data.mentors %}
+      {% include personne_small.html extra_class=col_class name=mentor %}
+    {% endfor %}
+  </div>
+
+  <div class="row">
+    <div class="medium-12 columns">
+      {% if defi_data.website or defi_data.source_code %}
+      <div class="two spacing"></div>
+      {% endif %}
+
+      {% if defi_data.website %}
+      <a class="button small" href="{{ defi_data.website }}">
+        <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Démonstration
+      </a>
+      {% endif %}
+      {% if defi_data.source_code %}
+      <a class="button small" href="{{ defi_data.source_code }}" title="Code source de {{ defi_data.title }}">
+        <i class="fa fa-code" title="Lien vers le code source"></i> Code source
+      </a>
+      {% endif %}
+      <div class="two spacing"></div>
+
+      {{ content }}
+
+
+      {% if defi_data.key_figures %}
+      <div class="two spacing"></div>
+      <div class="row">
+        {% for key_figure in defi_data.key_figures %}
+        <div class="small-6 columns text-center large-3">
+          <div class="mod modMilestone no-icon">
+            <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
+            <span>{{ key_figure.description }}</span>
+            <div class="spacing"></div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+
+      {% if defi_data.projects %}
+      <div class="two spacing"></div>
+      <h2>Réalisations</h2>
+
+      <ul class="small-block-grid-1 large-block-grid-3">
+      {% for project in defi_data.projects %}
+      <li style="padding: 0 .3em">
+        <div class="card">
+          <div class="card__cover">
+            <img src="/{{ project.image }}" alt="{{ project.title }}">
+          </div>
+          <div class="card__content">
+            <h3>{{ project.title }}</h3>
+            <p>{{ project.description }}</p>
+          </div>
+          <div class="card__extra">
+            <a class="button small" href="{{ project.url }}">
+              <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
+            </a>
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+
+      {% if defi_data.end_of_project_videos %}
+      <div class="two spacing"></div>
+      <h2>Rétrospective</h2>
+      {% for video in defi_data.end_of_project_videos %}
+        {% if video.platform == 'dailymotion' and video.show %}
+        <p>
+          {{ video.description }}
+        </p>
+        <iframe frameborder="0" width="720" height="400" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% endif %}
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
   <div class='four spacing'></div>
+
 </div>

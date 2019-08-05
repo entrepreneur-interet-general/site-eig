@@ -1,18 +1,6 @@
 ---
 layout: defi
 title: AFD - Geodata
-site: /defis/2017/afd-geodata.html
-annees: 2017
-description: "Informer la prise de décision des agents de l’AFD grâce aux données"
-administration: Agence Française de Développement
-administration-website: http://www.afd.fr
-type: Développement
-eigs:
-  - nom: Etienne David
-    site: /communaute/2017/etienne-david.html
-mentors: 
-  - nom: Antoine Chèvre
-images:
 ---
 
 Quand l’Agence Française de Développement (AFD) cherche à construire
@@ -32,14 +20,3 @@ permettre au projet d’évoluer après son départ, Étienne a également
 développé AFDLab4Dev, une bibliothèque de documentation qui explique
 comment créer des visualisations de données à partir des API ouvertes
 de l’AFD. La transformation numérique de l’AFD est en bonne voie.
-
-_Pour aller plus loin_
-
-* Le [github](https://github.com/entrepreneur-interet-general/AFD_projects) du défi
-* Le [site](https://data.afd.fr/urban.html) du défi
-* [La restitution, après 10 mois de travail](https://www.dailymotion.com/video/x6b9mca?playlist=x54m4i)
-
-Interview d'Etienne David sur son parcours et sur le défi AFD - Geodata : 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5qmebk" allowfullscreen allow="autoplay"></iframe>
-
-[Retour d'expérience sur l'aventure EIG](https://www.dailymotion.com/video/x64z39y)_

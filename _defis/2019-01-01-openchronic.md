@@ -1,24 +1,6 @@
 ---
 layout: defi
 title: Open Chronic
-site: /defis/2019/openchronic.html
-annees: 2019
-description: "Améliorer la prise en charge des malades chroniques avec une nouvelle base de données de santé"
-administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
-administration-website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
-type: Data science
-eigs:
-  - nom: Pierre-Alain Jachiet
-    site: /communaute/2019/pierre-alain-jachiet.html
-  - nom: Viktor Jarry
-    site: /communaute/2019/viktor-jarry.html
-mentors: 
-  - nom: Philéas Condemine
-    site: /communaute/2018/phileas-condemine.html
-  - nom: Stéphanie Combes
-    site: /communaute/2018/stephanie-combes.html
-images: 
-  - /img/logo-open-chronic.png
 ---
 
 La [Direction de la recherche, des études, de l’évaluation et des
@@ -29,10 +11,6 @@ malades chroniques et faciliter, pour les agences et établissements
 de santé, le développement d’une variété d’outils, notamment pour 
 mieux comprendre les variabilités de prise en charge des malades et 
 mieux coordonner les différents professionnels de santé (ville/hôpital).
-
-Voir le [défi Open Chronic](https://speakerdeck.com/eig2018/pitch-open-chronic-defi-eig3) en quelques slides.
-
-<br/>
 
 ## Open Chronic : améliorer la prise en charge des maladies chroniques et grâce à une nouvelle base de données de santé
 
@@ -55,43 +33,3 @@ A partir des données exhaustives du SNDS sur un an et en profondeur sur un éch
    - la mise en place de modèles prédictifs de détection de patients présentant un fort risque de développer une ALD ;
    - l'analyse de la coordination des professionnels de santé ville/hôpital ;
    - l'analyse de la variabilité de la prise en charge tout au long du parcours de soins...
-
-<br/>
-
-## Les EIG 
-
-### [Pierre-Alain Jachiet](/communaute/2019/pierre-alain-jachiet.html), data engineer
-
-**Missions principales** : Optimmiser l'exploitation du serveur, produire des scripts d'industrialisation et la documentation des procédures d'extraction des parcours de soins anonymisés pour générer Open Chronic.
-
-**Compétences** : maîtrise des librairies adaptées à l'exploitation de données volumineuses (plusieurs To), administration système, compétences en machine learning (GLM, Recurrent Neural Network, random forests).
-
-### [Viktor Jarry](/communaute/2019/viktor-jarry.html), data scientist
-
-**Missions principales** : mise en place d'un algorithme d'anonymisation, mesure du risque de ré-identification et calibrage de la base Open Chronic en consééquence.
-
-**Compétences** : algorithmique et en particulier algorithmique d’anonymisation, maîtrise des méthodes état de l'art -k-anonymisation, l-diversité, confidentialité différentielle, compétences en machine learning (GLM, Recurrent Neural Network, random forests).
-
-_Lieu de travail : 75014 métro Pasteur/Gaité/Montparnasse._
-
-<br/>
-
-## L'équipe autour des EIG
-
-### Philéas Condemine, mentor opérationnel
-
-![Philéas Condemine](/img/communaute/phileas-condemine.png)
-
-Actuaire, data scientist chez AXA pendant 3 ans, Philéas Condemine a rejoint le programme EIG 2018 et a décidé de poursuivre l'aventure au LabSanté du ministère de la santé.
-
-_"En data science la majorité des projets dans le privé sont du marketing ou de la tarification. On est parfois déçu par le manque de sens de nos projets ; au LabSanté du ministère de la Santé je peux travailler sur des sujets concrets, utiles avec comme objectif : améliorer la santé de tous. En plus, il s'agit d'une des bases de données (de santé) les plus riches au monde !"_ 
-
-### Stéphanie Combes, mentor de haut niveau
-
-![Stéphanie Combes](/img/communaute/photostephaniecombes.png)
-
-_« Je travaille la donnée depuis 7 ans, données structurées, données
-géolocalisées, données textuelles. Python, R, Rshiny sont mes amis.
-Data-scientist à l'Insee ces dernières années, je suis arrivée à la
-DREES avec l'envie d'exploiter le potentiel de ces données de santé
-avec un nouveau regard. »_ 

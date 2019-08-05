@@ -1,9 +1,19 @@
 ---
-layout: post
-title: "Accélérer les défis et fédérer la promotion : retours du premier séminaire « hors-les-murs » de la promotion EIG 3"
 author: Antoine Augusti et Jean-Baptiste le Dévéhat, EIG Link
+description: L'équipe de coordination du programme EIG a organisé un premier séminaire
+  « hors-les-mur s» pour la promotion 3. Pourquoi sortir les EIG de leurs administrations
+  pendant deux jours et les réunir au vert ? Comment organiser des temps de travail
+  efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis
+  différents ?
+image: /img/blog/seminaire-2019/promo-3.jpg
+layout: post
+tags:
+- accompagnement
+- méthode
+- collectif
+title: 'Accélérer les défis et fédérer la promotion : retours du premier séminaire
+  « hors-les-murs » de la promotion EIG 3'
 twitter: eigforever
-description: "L'équipe de coordination du programme EIG a organisé un premier séminaire « hors-les-mur s» pour la promotion 3. Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ? Comment organiser des temps de travail efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis différents ?"
 ---
 
 Les 16 et 17 mai 2019, les entrepreneurs d'intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l'année. Fort du succès de ce [format que nous avons testé l’année dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html), nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d'accélérateur aux défis et de commencer à réfléchir à leur pérennisation. 
@@ -29,7 +39,7 @@ Nous avions donc un cadre de travail, grâce au [planning fixé en amont](https:
 Une promotion d'EIG est composée de data scientists, designers, développeuses et développeurs aux parcours et spécialisations diverses : le programme fait ainsi le pari de la complémentarité des profils. Le séminaire « hors-les-murs » est l'occasion d'impulser une dynamique d'entraide et d'accélérer les défis grâce aux compétences des uns et des autres. 
 De fait, ce séminaire a fait la part belle à la collaboration et permis d'initier des rapprochements durables entre défis autour de problématiques métiers ou de collaborations techniques.
 
-![Trois hommes et une femme en extérieur sont assis autour d'une table et parlent en regardant un écran d'ordinateur.](/img/blog/seminaire-2019/designers.jpg) _[Hugo Stéphan](/communaute/2019/hugo-stephan.html), [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), [Nikos Peteinatos](/communaute/2019/nikos-peteinatos.html) et [Jean-Baptiste Le Dévéhat](communaute/2018/jean-baptiste-le-devehat.html), designers, partagent leurs méthodes de travail_
+![Trois hommes et une femme en extérieur sont assis autour d'une table et parlent en regardant un écran d'ordinateur.](/img/blog/seminaire-2019/designers.jpg) _[Hugo Stéphan](/communaute/2019/hugo-stephan.html), [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), [Nikos Peteinatos](/communaute/2019/nikos-peteinatos.html) et [Jean-Baptiste Le Dévéhat](/communaute/2018/jean-baptiste-le-devehat.html), designers, partagent leurs méthodes de travail_
 
 **Comme nous l'avions souhaité, les entrepreneurs d'intérêt général ont profité de ce séminaire pour travailler plus étroitement entre défis**. On peut noter par exemple la collaboration entre [Polygraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) et [ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html) sur la modélisation et les algorithmes de graphes, les échanges de [LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html) et [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) sur l'utilisation de la librairie JS React et la présentation de [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) d'une approche basée sur les moteurs de règles. 
 
@@ -37,7 +47,7 @@ Parce que les défis qui disposent à la fois de compétences en _data science_,
 
 **Enfin, les représentants de chaque spécialité, _data science_, développement et design, ont pu se retrouver entre eux pour échanger sur des problématiques qui leurs sont propres**. Ainsi, les EIG designers ont pu partager leur pratique et leurs problématiques de designer au sein de leurs défis. Ils ont également organisé un atelier sur l’approche _atomic design_ et _design system_ en collaboration avec des développeurs.
 
-![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
+![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 
 ## Souder un collectif d'entrepreneurs d'intérêt général

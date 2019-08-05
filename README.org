@@ -45,53 +45,15 @@ Voici un [[https://openclassrooms.com/courses/redigez-en-markdown][tutoriel]] po
 
 * Comment ajouter un défi ?
 
-Pour ajouter un défi, vous devez modifier le fichier =defis.html= et
-ajouter un fichier au format markdown =.md= dans le répertoire =_defis=
-avec un en-tête de ce format :
+Pour ajouter un défi, vous devez modifier le fichier =_data/defis.yml= et
+ajouter un fichier au format markdown =.md= dans le répertoire =_defis=.
 
-: ---
-: layout: defi
-: title: B@liseNAV
-: site: /defis/2018/balisenav.html
-: annees: 2018
-: description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
-: administration: SHOM
-: administration-website: http://www.shom.fr/
-: type: Datascience
-: eigs:
-:   - nom: Arnaud Ménard
-:     site: /communaute/2018/arnaud-menard.html
-:   - nom: Adrien Signorino
-:     site: /communaute/2018/adrien-signorino.html
-: mentors:
-:   - nom: Éric Le Guen
-:     site: /communaute/2018/eric-le-guen.html
-: images:
-:   -  /img/defis/5_balisage.png
-: ---
-
-Les images proposées dans =defis.html= sont de taille =600x500= et celles
-proposées dans chaque défi de taille =800x500=.
 
 * Comment ajouter une personne ?
 
 Pour ajouter une personne, vous devez modifier le fichier
-=communaute.html= et ajouter un fichier au format markdown =.md= dans le
-répertoire =_communaute= avec un en-tête de ce format :
-
-: ---
-: layout: personne
-: twitter: Nono400
-: nom: Arnaud Ménard
-: website:
-: annees: 2018
-: defis:
-:   - nom: B@liseNAV
-:     site: /defis/2018/balisenav.html
-: profil: Géomatique
-: images:
-:   - /img/communaute/Arnaud-Menard.png
-: ---
+=_data/personnes.yml= et ajouter un fichier au format markdown =.md= dans le
+répertoire =_communaute=.
 
 Les images proposées dans =communaute.html= et dans le fichier de chaque
 personne sont de taille =500x500=.
