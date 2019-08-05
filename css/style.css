@@ -218,6 +218,10 @@ ul.shortcode-list i {
   border: 0px solid #7298F5;
 }
 
+.button.tiny {
+  padding: .2rem .5rem;
+}
+
 .button:hover {
   background-color: #7298F5;
 }
@@ -232,6 +236,17 @@ ul.shortcode-list i {
 
 .button.red:hover {
   background-color: #871212;
+}
+
+.button.outline {
+  color: #1c419b;
+  background: transparent;
+  border: 1px solid #1c419b;
+}
+
+.button.outline:hover {
+  color: #fff;
+  background: #1c419b;
 }
 
 .button.boxed {
@@ -945,6 +960,22 @@ body.screenshot {
   opacity: 0.75;
 }
 
+.post-nav {
+  margin-top: 2em;
+  border-top: 1px solid #c1c1c1;
+  padding-top: 1.5em;
+}
+
+.post-nav a:last-child {
+  text-align: right;
+}
+
+.post-nav a {
+  display: block;
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}
+
 .modBlogPost {
   margin-bottom: 40px;
   background: #fff;
@@ -1036,9 +1067,7 @@ body.screenshot {
 
 .modBlogPost.big img {
     display: block;
-    width: 80%;
     height: auto;
-    max-width: 80%;
     max-height: auto;
     margin: 1em auto 1em;
 }
@@ -3726,7 +3755,7 @@ blockquote, ul, p {
   margin-bottom: 1.5rem;
 }
 .card__cover {
-  height: 250px;
+  height: 200px;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -3742,7 +3771,7 @@ blockquote, ul, p {
   background-color: #f9f9f9;
 }
 .card__content {
-  padding: 1.5em;
+  padding: 1em;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
@@ -3752,7 +3781,7 @@ blockquote, ul, p {
 }
 .card__extra {
   border-top: 1px solid #adb9c9;
-  padding: 1em;
+  padding: .5em;
 }
 .card__extra .button {
   margin-bottom: 0;
@@ -3781,4 +3810,17 @@ blockquote, ul, p {
   cursor: pointer;
 
   z-index: 1000;
+}
+
+.post-tags ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.post-tags li {
+  display: inline-block;
+}
+
+.post-tags li:first-child {
+  margin-left: 0 !important;
 }

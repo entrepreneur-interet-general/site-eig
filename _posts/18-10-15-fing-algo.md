@@ -1,9 +1,17 @@
 ---
-layout: post
-title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est lancée avec la Promotion 2 des EIG !
 author: La Fondation Internet Nouvelle Génération (auteur invité)
+description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" sur l'exemplarité
+  et la responsabilité sociale des algorithmes, dans le cadre de son partenariat avec
+  Etalab. Des projets EIG 2018 et d'autres partenaires ont participé. Retours sur
+  la méthode et les prochaines étapes
+image: /img/blog/atelier-fing-algo-ensemble.jpg
+layout: post
+tags:
+- partenariat
+- algorithme
+title: Construire des algorithmes publics exemplaires, la mission Fing-Etalab est
+  lancée avec la Promotion 2 des EIG !
 twitter: la_fing
-description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" sur l'exemplarité et la responsabilité sociale des algorithmes, dans le cadre de son partenariat avec Etalab. Des projets EIG 2018 et d'autres partenaires ont participé. Retours sur la méthode et les prochaines étapes
 ---
 
 _Cet article a été rédigé par l'équipe Nos Systèmes de la Fing : Hubert Guillaud et Thierry Marcou. Merci à la Fing, Simon Chignard et Loup Cellard pour l'animation de cet atelier !_
@@ -65,5 +73,3 @@ N'hésitez pas à nous contacter très rapidement si vous souhaitez être candid
 - [tmarcou@fing.org](mailto:tmarcou@fing.org)
 - [hguillaud@fing.org](mailto:hguillaud@fing.org)
 - [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)
-
-

@@ -1,9 +1,15 @@
 ---
-layout: post
-title: Mesurer l'impact du programme EIG
 author: Soizic Pénicaud, équipe EIG
+description: Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît
+  important de prendre du recul sur ce qui a été produit, les axes à approfondir et
+  ceux à améliorer.
+image: /img/blog/evaluation-ogp.jpg
+layout: post
+tags:
+- accompagnement
+- évaluation
+title: Mesurer l'impact du programme EIG
 twitter: soizicpenicaud
-description: "Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît important de prendre du recul sur ce qui a été produit, les axes à approfondir et ceux à améliorer."
 ---
 
 Le programme Entrepreneurs d'Intérêt Général existe depuis bientôt trois ans. Il compte à son actif 37 défis accompagnés dans 29 administrations différentes et une communauté de plus de 100 personnes (45 mentors et 68 EIG toutes promotions confondues). Après [une première promotion pionnière](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) et [une deuxième de passage à l'échelle](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2), [la troisième promotion](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general), lancée il y a presque 6 mois, est celle de la consolidation.
@@ -50,4 +56,4 @@ Dans cette lignée de coopération internationale, nous avons également été �
 
 ![3 femmes et 3 hommes sont alignés et assis sur le bord d'une estrade. Une femme, au milieu, parle dans un micro.](/img/blog/evaluation-ogp.jpg)_Mathilde Bras, cheffe du programme Entrepreneurs d'Intérêt Général, parle à la table ronde « encourager l'engagement citoyen à travers le numérique d'intérêt général »._
 
-Ce travail de rétrospective nous permet d'être plus conscients des bonnes pratiques du programme et ce qui reste à améliorer ou à renforcer. Il nourrit notre réflexion sur la suite du programme, dont nous vous donnerons des nouvelles très bientôt ! 
+Ce travail de rétrospective nous permet d'être plus conscients des bonnes pratiques du programme et ce qui reste à améliorer ou à renforcer. Il nourrit notre réflexion sur la suite du programme, dont nous vous donnerons des nouvelles très bientôt !

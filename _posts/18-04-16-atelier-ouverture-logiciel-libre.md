@@ -1,10 +1,21 @@
 ---
-layout: post
-title: "L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)"
 author: Paul Schmite, équipe EIG
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des EIG.  Elle
+  était organisée autour de trois ateliers : l’un sur les questions à se poser pour
+  définir son produit ; l’autre sur la façon d’impliquer les utilisateurs dans sa
+  conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux
+  majeurs du programme EIG étant de permettre le développement, au sein de l’administration,
+  de logiciels libres, ouverts aux contributions extérieures.'
+image: /img/blog/xkcd-open-source.jpg
+layout: post
+tags:
+- accompagnement
+- méthode
+- open
+title: L’ouverture d’un logiciel libre.  Retour sur les ateliers du 22 mars (2/3)
 twitter: schmitologie
-description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des EIG.  Elle était organisée autour de trois ateliers : l’un sur les questions à se poser pour définir son produit ; l’autre sur la façon d’impliquer les utilisateurs dans sa conception ; le dernier sur l’ouverture du code source &#x2013; l’un des enjeux majeurs du programme EIG étant de permettre le développement, au sein de l’administration, de logiciels libres, ouverts aux contributions extérieures."
 ---
+
 Voici un petit retour d’expérience sur ma participation à cet atelier,
 animé par Bastien, qui nous a aidé à nous frayer un chemin au milieu
 de ces questions : pourquoi ouvrir ?  pour quelles contributions ?
@@ -152,4 +163,3 @@ suivez-nous !
     de l’administration](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org), accompagnées d’une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org).
 
 - The Joel Test: [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/).
-

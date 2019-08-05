@@ -1,9 +1,18 @@
 ---
+author: Sophie Miljkovic, équipe EIG
+description: Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion
+  pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la
+  feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement
+  qu'offre l'équipe EIG. En voici une synthèse.
+image: /img/blog/matrice-social-connect.jpg
 layout: post
-title: "Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et l'accompagnement de l'équipe EIG"
-author: "Sophie Miljkovic, équipe EIG"
+tags:
+- accompagnement
+- méthode
+- évaluation
+title: 'Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et
+  l''accompagnement de l''équipe EIG'
 twitter: MiljkovicSophie
-description: "Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse."
 ---
 
 « **Itération** » fait partie des mots clés du programme
@@ -125,6 +134,3 @@ route pour les 5 mois à venir : EIG et mentors ont décidé ensemble des
 priorités et se sont alignés sur les objectifs de court, moyen et long
 termes. Des objectifs intégrés aux présentations qu'ont faites les EIG
 lors d'un Demo-day de mi-parcours. Blogpost à suivre.
-
-
-
