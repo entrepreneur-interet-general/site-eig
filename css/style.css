@@ -238,13 +238,15 @@ ul.shortcode-list i {
   background-color: #871212;
 }
 
-.button.grey {
-  background: #26353f;
-  color: #c1c1c1;
+.button.outline {
+  color: #1c419b;
+  background: transparent;
+  border: 1px solid #1c419b;
 }
 
-.button.grey:hover {
-  color: #ebeff3;
+.button.outline:hover {
+  color: #fff;
+  background: #1c419b;
 }
 
 .button.boxed {
@@ -1065,9 +1067,7 @@ body.screenshot {
 
 .modBlogPost.big img {
     display: block;
-    width: 80%;
     height: auto;
-    max-width: 80%;
     max-height: auto;
     margin: 1em auto 1em;
 }
@@ -3817,6 +3817,10 @@ blockquote, ul, p {
   margin-left: 0;
 }
 
-.post-tags li{
+.post-tags li {
   display: inline-block;
+}
+
+.post-tags li:first-child {
+  margin-left: 0 !important;
 }

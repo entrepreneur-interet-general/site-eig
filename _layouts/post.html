@@ -3,13 +3,6 @@ layout: blog
 ---
 
 <div class='mod modBlogPost big no_bg'>
-  {% if page.image %}
-  <div class='images'>
-    <div class='image'>
-      <img alt="Image d'illustration" src="{{ page.image }}" />
-    </div>
-  </div>
-  {% endif %}
 
   <div class='content'>
     <h1>{{ page.title }}</h1>
@@ -53,7 +46,7 @@ layout: blog
     <div class="post-tags">
       <ul>
         {% for tag in page.tags %}
-        <li class="button grey">{{ tag }}</li>
+        <li class="button outline">#{{ tag }}</li>
         {% endfor %}
       </ul>
     </div>
