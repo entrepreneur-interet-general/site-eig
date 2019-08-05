@@ -1,9 +1,16 @@
 ---
-layout: post
-title: Comment les EIG et les mentors apprennent et progressent ?
 author: Bastien Guerry, EIG Link
+description: 'Au printemps dernier, les EIG et les mentors se sont retrouvés pour
+  une session d''accompagnement au cours de laquelle deux ateliers ont été organisés
+  autour de deux questions simples : comment apprenons-nous ? quelles stratégies pour
+  progresser dans la résolution des problèmes ?'
+image: /img/blog/win-fails-tableau.jpg
+layout: post
+tags:
+- témoignage
+- méthode
+title: Comment les EIG et les mentors apprennent et progressent ?
 twitter: bzg2
-description: "Au printemps dernier, les EIG et les mentors se sont retrouvés pour une session d'accompagnement au cours de laquelle deux ateliers ont été organisés autour de deux questions simples : comment apprenons-nous ? quelles stratégies pour progresser dans la résolution des problèmes ?"
 ---
 
 ## Quatre types de façon d'apprendre et résoudre des problèmes

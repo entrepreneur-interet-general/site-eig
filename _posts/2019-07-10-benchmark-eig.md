@@ -1,13 +1,18 @@
 ---
-layout: post
-title: "Mobiliser des compétences numériques dans l'administration : quelles initiatives à l'étranger ?"
 author: Guénolé Carré, équipe EIG
-twitter: CarreGuenole
+description: 'En France comme ailleurs, de nombreuses administrations font face à
+  une même problématique : le recrutement de compétences numériques. Pour y parvenir,
+  différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci
+  au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre
+  environnement et pour constater nos éventuels points de convergence.'
+image: /img/blog/initiatives.PNG
+layout: post
 tags:
-  - foo
-  - bar
-  - baz
-description: "En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence."
+- écosystème
+- international
+title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives
+  à l''étranger ?'
+twitter: CarreGuenole
 ---
 
 ## Tour d'horizon international d'initiatives similaires au programme Entrepreneurs d'Intérêt Général
@@ -75,4 +80,4 @@ De nombreuses initiatives visent aussi à créer des outils qui ont vocation à 
 
 Ce tour d'horizon de différentes initiatives de mobilisation de talents dans le numérique d'intérêt général montre donc que le programme EIG se place dans un mouvement qui touche toutes les administrations. En optant pour un format court – 10 mois – et une intégration à temps plein dans les administrations, le programme EIG fait le pari de faire se rencontrer des agents publics volontaires pour faire évoluer leurs pratiques avec des citoyens motivés par des défis d'intérêt général.
 
- _Si vous souhaitez entrer en contact avec nous au sujet de cette enquête, vous pouvez envoyer un e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>. Nous serons ravis d'en discuter avec vous._ 
+ _Si vous souhaitez entrer en contact avec nous au sujet de cette enquête, vous pouvez envoyer un e-mail à l'adresse <entrepreneur-interet-general@data.gouv.fr>. Nous serons ravis d'en discuter avec vous._
