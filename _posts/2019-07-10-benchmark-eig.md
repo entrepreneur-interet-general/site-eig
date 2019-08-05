@@ -5,7 +5,7 @@ description: 'En France comme ailleurs, de nombreuses administrations font face 
   différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci
   au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre
   environnement et pour constater nos éventuels points de convergence.'
-image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/initiatives.PNG
+image: /img/blog/initiatives.PNG
 layout: post
 tags:
 - écosystème

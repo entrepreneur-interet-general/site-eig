@@ -9,7 +9,7 @@ description: 'Du 11 au 15 février, les entrepreneurs d’intérêt général de
 
   Voici les problèmes que vous rencontrerez peut-être… et les ressources sur lesquelles
   vous pourrez vous appuyer pour les résoudre.'
-image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/photo-blogpost-bootcamp-eig3.jpg
+image: /img/blog/photo-blogpost-bootcamp-eig3.jpg
 layout: post
 tags:
 - accompagnement

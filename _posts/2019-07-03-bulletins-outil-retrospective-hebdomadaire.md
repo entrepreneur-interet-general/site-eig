@@ -4,7 +4,7 @@ description: Afin de partager et de suivre l'avancement des différents défis r
   par une trentaine de personnes au sein du programme Entrepreneurs d'Intérêt Général,
   nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous
   présentons dans cet article.
-image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/bulletins-form.png
+image: /img/blog/bulletins-form.png
 layout: post
 tags:
 - réalisation

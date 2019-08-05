@@ -2,7 +2,7 @@
 author: Guénolé Carré, équipe EIG
 description: 'Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétrospective
   du programme en données chiffrées, découvrez-les ! '
-image: https://entrepreneur-interet-general.etalab.gouv.fr/img/promo.PNG
+image: /img/promo.PNG
 layout: post
 tags:
 - évaluation

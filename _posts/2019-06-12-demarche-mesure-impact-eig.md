@@ -3,7 +3,7 @@ author: Soizic Pénicaud, équipe EIG
 description: Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît
   important de prendre du recul sur ce qui a été produit, les axes à approfondir et
   ceux à améliorer.
-image: https://entrepreneur-interet-general.etalab.gouv.fr/img/blog/evaluation-ogp.jpg
+image: /img/blog/evaluation-ogp.jpg
 layout: post
 tags:
 - accompagnement
