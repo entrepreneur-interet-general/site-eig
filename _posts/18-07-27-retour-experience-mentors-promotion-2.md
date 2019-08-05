@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Quels apprentissages pour les agents publics mentors du programme EIG ? 
 author: Soizic Pénicaud, équipe EIG
+description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réunis pour
+  la troisième session collaborative de l'année. Ce fut l'occasion de prendre du recul
+  et de tirer quelques enseignements de ces cinq premiers mois.
+image: /img/blog/session-mentors-3.jpg
+layout: post
+title: Quels apprentissages pour les agents publics mentors du programme EIG ?
 twitter: soizicpenicaud
-description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réunis pour la troisième session collaborative de l'année. Ce fut l'occasion de prendre du recul et de tirer quelques enseignements de ces cinq premiers mois. 
 ---
-
 
 Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [mobiliser un collectif engagé de professionnels du numérique](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html), mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG. 
 
@@ -36,4 +38,3 @@ Durant les réflexions de l'après-midi, une question dépassant le champ du pro
 
 ![Photo de classe des mentors EIG2](/img/blog/session-mentors-3.jpg)
 _Photo de classe des mentors EIG2. De gauche à droite : Renaud Périn, Hélène Cavalié, Emmanuel Weisenburger, Mathilde Bras, Yann Caradec, Bénédicte Pachod, Anne Lambert, Chloé Moser, Rémy Nollet, Delphine Le, Stéphanie Schaer, Caroline Pisarz, Eric Le Guen © Sophie Miljkovic_
-

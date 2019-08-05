@@ -1,9 +1,14 @@
 ---
-layout: post
-title: "Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour sur les ateliers du 22 mars (3/3)"
 author: Sophie Miljkovic, équipe EIG
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs
+  d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3
+  ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design
+  et conception du produit avec ses utilisateurs, ouverture du code source.'
+image: /img/blog/design-site-affreux.jpg
+layout: post
+title: Comment mettre son utilisateur au centre du design de son site ou de son outil ?  Retour
+  sur les ateliers du 22 mars (3/3)
 twitter: MiljkovicSophie
-description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source."
 ---
 
 Comment concevoir un produit qui corresponde aux besoins de ses
@@ -142,4 +147,3 @@ autres.
 Pour aller plus loin, n'hésitez pas à lire [le diaporama de
 l'atelier](https://speakerdeck.com/bzg/ui-entrepreneur-e-s-dinteret-general-2018)
 sur lequel se sont appuyés Laurie et Jean-Baptiste.
-

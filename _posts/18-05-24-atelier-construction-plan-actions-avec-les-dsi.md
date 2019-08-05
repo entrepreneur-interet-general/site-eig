@@ -1,9 +1,13 @@
 ---
+author: L'équipe EIG (Bastien et Mathilde)
+description: Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient
+  à la rencontre de leurs correspondants dans les directions des systèmes d'informations
+  de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit
+  la feuille de route de pérennisation de leurs défis.
+image: /img/blog/dsi-pyramide-perennisation.jpg
 layout: post
 title: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
-author: L'équipe EIG (Bastien et Mathilde)
 twitter: etalab
-description: "Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient à la rencontre de leurs correspondants dans les directions des systèmes d'informations de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit la feuille de route de pérennisation de leurs défis."
 ---
 
 Les designers, datascientistes et développeurs du programme EIG
@@ -165,4 +169,3 @@ Jean-Baptiste).
 
 ![La matrice d'Eisenhower](/img/blog/20180517_BrigadeNumerique2.png)
 *La matrice d'Eisenhower : faire, déléguer, planifier, éliminer.*
-

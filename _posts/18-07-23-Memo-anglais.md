@@ -1,12 +1,16 @@
 ---
+author: Sophie Miljkovic, Etalab team
+description: Here at Etalab, we are convinced that the « Public Interest Entrepreneurs
+  » program is a way for governments to transform the administration from within.
+  That is the reason why we have put together a memo on what we do, why we do it and
+  how we do it.
+image: /img/logo-marianne-eig-site.png
 layout: post
-title: "Public Interest Entrepreneurs, why, what and how"
-author: "Sophie Miljkovic, Etalab team"
+title: Public Interest Entrepreneurs, why, what and how
 twitter: MiljkovicSophie
-description: "Here at Etalab, we are convinced that the « Public Interest Entrepreneurs » program is a way for governments to transform the administration from within. That is the reason why we have put together a memo on what we do, why we do it and how we do it."
 ---
 
- Inspired by the [Presidential Innovation
+Inspired by the [Presidential Innovation
  Fellows](https://presidentialinnovationfellows.gov/), the “Public
  Interest Entrepreneurs” program seeks to inspire in return.
  
