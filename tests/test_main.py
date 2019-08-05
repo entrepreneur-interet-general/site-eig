@@ -24,6 +24,12 @@ class TestMain(unittest.TestCase):
                     res[defi].append(personne)
         return res
 
+    def clean_filename(self, filename, prefix):
+        file_no_prefix = filename.replace(f"_{prefix}/", "")
+        year = file_no_prefix.split("-")[0]
+        slug = "-".join(file_no_prefix.split("-")[3:]).replace(".md", "")
+        return f"/{prefix}/{year}/{slug}.html"
+
     def test_personnes_yaml(self):
         noms_defis = self.defis.keys()
 
@@ -79,26 +85,22 @@ class TestMain(unittest.TestCase):
 
         for file in glob.glob("_communaute/*.md"):
             content = frontmatter.load(file)
+            nom = content["nom"]
 
             # Check name in individual file
-            if content["nom"] not in noms_personnes:
-                nom = content["nom"]
+            if nom not in noms_personnes:
                 suggestions = difflib.get_close_matches(nom, noms_personnes)
 
                 self.fail(
-                    f"Fichier {file} invalide. Le nom `{nom} n'existe pas. Suggestions : {', '.join(suggestions)}"
+                    f"Fichier {file} invalide. Le nom `{nom}` n'existe pas. Suggestions : {', '.join(suggestions)}"
                 )
 
             # Check link_to
-            year = file.replace("_communaute/", "").split("-")[0]
-            slug = "-".join(file.replace("_communaute/", "").split("-")[3:]).replace(
-                ".md", ""
-            )
-            filepath = f"/communaute/{year}/{slug}.html"
+            filepath = self.clean_filename(file, "communaute")
             self.assertEquals(
                 filepath,
-                self.personnes[content["nom"]]["link_to"],
-                f"Le lien `link_to` de {content['nom']} semble invalide.",
+                self.personnes[nom]["link_to"],
+                f"Le lien `link_to` de {nom} semble invalide.",
             )
 
     def test_defis_yaml(self):
@@ -120,11 +122,12 @@ class TestMain(unittest.TestCase):
         ]
         for defi, content in self.defis.items():
             for key in required_keys:
+                # Required key
                 if key not in content:
                     self.fail(
                         f"La clé `{key}` est absente de {defi} et est obligatoire."
                     )
-
+                # Check promotion
                 if key == "promotion":
                     self.assertIn(
                         content[key],
@@ -132,6 +135,7 @@ class TestMain(unittest.TestCase):
                         f"Mauvaise valeur de promotion pour {defi}",
                     )
 
+                # Check colorback
                 if key == "colorback":
                     self.assertIn(
                         content[key],
@@ -139,10 +143,12 @@ class TestMain(unittest.TestCase):
                         f"Mauvaise valeur de colorback pour {defi}",
                     )
 
+                # Check people
                 if key in ["eigs", "mentors"]:
                     noms_personnes = self.personnes.keys()
                     for personne in content[key]:
-                        if personne not in noms_personnes:
+                        # TODO: don't skip for EIG 1
+                        if personne not in noms_personnes and content["promotion"] != 1:
                             suggestions = difflib.get_close_matches(
                                 personne, noms_personnes
                             )
@@ -151,10 +157,36 @@ class TestMain(unittest.TestCase):
                                 f"La personne `{personne}` de `{defi}` n'existe pas. Suggestion : {suggestions}"
                             )
 
+            # TODO: don't skip for EIG 1
+            if content["promotion"] == 1:
+                continue
             personnes_defi = content["eigs"]
             personnes_defi.extend(content["mentors"])
             self.assertSetEqual(
                 set(personnes_defi),
                 set(self.personnes_par_defi()[defi]),
                 f"Les personnes ne sont pas les bonnes pour {defi}.",
+            )
+
+    def test_defis_fiches(self):
+        noms_defis = self.defis.keys()
+
+        for file in glob.glob("_defis/*.md"):
+            content = frontmatter.load(file)
+            nom_defi = content["title"]
+
+            # Check name in individual file
+            if nom_defi not in noms_defis:
+                suggestions = difflib.get_close_matches(nom, noms_defis)
+
+                self.fail(
+                    f"Fichier {file} invalide. Le défi `{nom}` n'existe pas. Suggestions : {', '.join(suggestions)}"
+                )
+
+            # Check link_to
+            filepath = self.clean_filename(file, "defis")
+            self.assertEquals(
+                filepath,
+                self.defis[nom_defi]["link_to"],
+                f"Le lien `link_to` de {nom_defi} semble invalide.",
             )
