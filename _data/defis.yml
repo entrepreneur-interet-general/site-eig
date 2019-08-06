@@ -799,13 +799,13 @@
     -
       image: img/realisations/2018/previsecours-correlations.png
       title: "Étude de corrélation"
-      description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactant dans chaque catégorie d'intervention"
+      description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactants dans chaque catégorie d'intervention."
       url: https://previsecours.fr/assets/pdf/correlations.pdf
       call_to_action: "Voir les corrélations"
     -
       image: img/realisations/2018/previsecours-carte.png
       title: "Carte météo des interventions"
-      description: "Nous avons réalisé une carte intéractive pour visualiser les interventions à venir des pompiers de l'Essonne. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
+      description: "Nous avons réalisé une carte interactive pour visualiser les interventions à venir des pompiers de l'Essonne. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
       url: https://viz.previsecours.fr/#/
       call_to_action: "Voir la carte"
     -
