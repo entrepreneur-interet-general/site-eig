@@ -591,18 +591,19 @@
     - "Ned Baldessin"
   mentors:
     - "Hélène Cavalié"
+    - "Jérôme Poulain"
   key_figures:
     -
-      amount: 70000
+      amount: 65000
       description: "objets en ligne"
     -
-      amount: 36000
+      amount: 25000
       description: "photos d'objets"
     -
-      amount: 316
+      amount: 337
       description: "photos des métiers d'art sur Wikimedia Commons"
     -
-      amount: 15000
+      amount: 11000
       description: "photos téléchargeables et réutilisables"
   end_of_project_videos:
     -
