@@ -795,6 +795,25 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Prévisecours"
       show: true
+  projects:
+    -
+      image: img/realisations/2018/previsecours-correlations.png
+      title: "Étude de corrélation"
+      description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactant dans chaque catégorie d'intervention"
+      url: https://previsecours.fr/assets/pdf/correlations.pdf
+      call_to_action: "Voir les corrélations"
+    -
+      image: img/realisations/2018/previsecours-carte.png
+      title: "Carte météo des interventions"
+      description: "Nous avons réalisé une carte intéractive pour visualiser les interventions à venir des pompiers de l'Essonne. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
+      url: https://viz.previsecours.fr/#/
+      call_to_action: "Voir la carte"
+    -
+      image: img/realisations/2018/previsecours-opendata.png
+      title: "Open data"
+      description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l'Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
+      url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
+      call_to_action: "Voir les données"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
