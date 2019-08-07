@@ -611,6 +611,29 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Gobelins"
       show: true
+      
+projects:
+    -
+      image: img/realisations/2018/gobelins-collection-mn.jpg
+      title: "La collection du Mobilier national"
+      description: "Nous avons mis en ligne les meubles, textiles, œuvres… de l’institution et réalisé un site pour faciliter l’accès et la découvrabilité de ces ressources."
+      url: https://collection.mobiliernational.culture.gouv.fr/
+      call_to_action: "Consulter la collection"
+    -
+      image: img/realisations/2018/gobelins-wikipedia-mn.jpg
+      title: "Atelier Wikimedia"
+      description: "Nous avons initier différents partenariats comme celui avec Wikimedia afin d’enrichir les données  et documenter les savoir-faire de l’institution."
+      url: https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018
+      call_to_action: "Parcourir les photographies"
+    -
+      image: img/realisations/2018/gobelins-github.jpg
+      title: "Logiciel Libre"
+      description: "Nous avons mis à disposition les données brutes des opérations d'assistance et de sauvetage coordonnées par la France depuis 1985. Ces données correspondent à près de 300 000 opérations et sont mises à jour de manière quotidienne automatiquement."
+      url: https://github.com/entrepreneur-interet-general/gobelins
+      call_to_action: "Explorer le code"
+
+      
+     
 
 "Hopkins":
   image: /img/defis/7_MACP.png
