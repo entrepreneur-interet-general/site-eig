@@ -611,8 +611,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Gobelins"
       show: true
-      
-projects:
+  projects:
     -
       image: img/realisations/2018/gobelins-collection-mn.jpg
       title: "La collection du Mobilier national"
@@ -632,8 +631,7 @@ projects:
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
 
-      
-     
+       
 
 "Hopkins":
   image: /img/defis/7_MACP.png
