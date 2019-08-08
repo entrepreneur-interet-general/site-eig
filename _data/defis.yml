@@ -621,13 +621,13 @@
     -
       image: img/realisations/2018/gobelins-wikipedia-mn.jpg
       title: "Atelier Wikimedia"
-      description: "Nous avons initié différents partenariats comme celui avec Wikimedia afin d’enrichir les données  et documenter les savoir-faire de l’institution."
+      description: "Nous avons initié différents partenariats comme celui avec Wikimedia afin d’enrichir les données et documenter les savoir-faire de l’institution, notamment grâce à des photographies."
       url: https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018
       call_to_action: "Parcourir les photographies"
     -
       image: img/realisations/2018/gobelins-github.jpg
-      title: "Logiciel Libre"
-      description: "Afin de faciliter la mise en ligne de nouvelles collections, l’ensemble du code est accessible et réutilisable."
+      title: "Code source ouvert"
+      description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d'autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
 
