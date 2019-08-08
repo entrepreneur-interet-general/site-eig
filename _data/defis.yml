@@ -16,13 +16,13 @@
   mentors:
     - "Nicolas Mathieu"
     - "David Vigier"
-"DILA":
+"Ma famille ici":
   image: /img/dig/17.png
-  title: "DILA"
-  link_to: /defis/2019/dila.html
+  title: "Ma famille ici"
+  link_to: /defis/2019/ma-famille-ici.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Faciliter le regroupement familial des étrangers en France grâce à un service en ligne "
+  description: "Faciliter le regroupement familial des étrangers en France"
   administration: Direction de l'Information Légale et Administrative (DILA)
   administration_website: http://example.com
   year: 2019
@@ -70,13 +70,13 @@
   mentors:
     - "Marc Loutrel"
     - "Valérie Peneau"
-"Caisse nationale d'Assurance maladie":
+"RembourSanté":
   image: /img/dig/04.png
-  title: "Caisse nationale d'Assurance maladie"
-  link_to: /defis/2019/caisse-nationale-dassurance-maladie.html
+  title: "RembourSanté"
+  link_to: /defis/2019/remboursante.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli"
+  description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte Ameli"
   administration: Caisse Nationale d'Assurance Maladie
   administration_website: http://example.com
   year: 2019
@@ -88,13 +88,13 @@
   mentors:
     - "Stéphanie Devigne"
     - "Catherine Duyck-Bagot"
-"SCHAPI":
+"vigicr'UX":
   image: /img/dig/16.png
-  title: "SCHAPI"
-  link_to: /defis/2019/schapi.html
+  title: "vigicr'UX"
+  link_to: /defis/2019/vigicrux.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Mieux informer les citoyens sur les risques de crues via le site vigicrues.gouv.fr (VigicrUX)"
+  description: "Mieux informer les citoyens sur les risques de crues"
   administration: Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI), Ministère de la Transition Ecologique et Solidaire
   administration_website: http://example.com
   year: 2019
@@ -125,13 +125,13 @@
   mentors:
     - "Bénédicte Ezvan"
     - "Gilles Martinoty"
-"CGDD":
+"SIED":
   image: /img/dig/11.png
-  title: "CGDD"
-  link_to: /defis/2019/cgdd.html
+  title: "SIED"
+  link_to: /defis/2019/sied.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif"
+  description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable, Ministère de la Transition Ecologique et Solidaire
   administration_website: http://example.com
   year: 2019
@@ -144,13 +144,13 @@
   mentors:
     - "Olivier Garry"
     - "Laurence Monnoyer-Smith"
-"Ministère des Armées":
+"AchaDef":
   image: /img/dig/11.png
-  title: "Ministère des Armées"
-  link_to: /defis/2019/ministere-des-armees.html
+  title: "AchaDef"
+  link_to: /defis/2019/achadef.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne"
+  description: "Faciliter l’accès aux achats hors armements du ministère des Armées"
   administration: Ministère des Armées
   administration_website: http://example.com
   year: 2019
@@ -162,13 +162,13 @@
   mentors:
     - "Jérémy Bakkalian"
     - "Stéphane Petit"
-"Ministère de l'Education Nationale":
+"Alphabet":
   image: /img/dig/02.png
-  title: "Ministère de l'Education Nationale"
-  link_to: /defis/2019/ministere-de-leducation-nationale.html
+  title: "Alphabet"
+  link_to: /defis/2019/alphabet.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques"
+  description: "Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale"
   administration: Ministère de l'Éducation Nationale
   administration_website: http://example.com
   year: 2019
@@ -200,13 +200,13 @@
   mentors:
     - "Mathieu Clair"
     - "Jean-Denis Vigne"
-"Dihal":
+"Résorption bidonvilles":
   image: /img/dig/13.png
-  title: "Dihal"
-  link_to: /defis/2019/dihal.html
+  title: "Résorption bidonvilles"
+  link_to: /defis/2019/resorption-bidonvilles.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles)"
+  description: "Favoriser la résorption des bidonvilles"
   administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
   administration_website: http://example.com
   year: 2019
@@ -218,14 +218,14 @@
   mentors:
     - "Sophie Jacquemont"
     - "Manuel Demougeot"
-"DGGN":
+"Recrues":
   image: /img/dig/14.png
-  title: "DGGN"
-  link_to: /defis/2019/dggn.html
+  title: "Recrues"
+  link_to: /defis/2019/recrues.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Parcours candidat optimisé"
-  administration: Direction Générale de la endarmerie Nationale (DGGN),
+  description: "Favoriser le recrutement à la Gendarmerie nationale"
+  administration: Direction Générale de la Gendarmerie nationale (DGGN)
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
@@ -256,13 +256,13 @@
   mentors:
     - "Jérôme Blondon"
     - "Pierre Arène"
-"Ministère de l'Intérieur":
+"RDVpref":
   image: /img/dig/10.png
-  title: "Ministère de l'Intérieur"
-  link_to: /defis/2019/ministere-de-linterieur.html
+  title: "RDVpref"
+  link_to: /defis/2019/rdvpref.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne"
+  description: "Faciliter la prise de rendez-vous en préfecture"
   administration: Ministère de l'Intérieur
   administration_website: http://example.com
   year: 2019

@@ -60,7 +60,7 @@ Alexis Deny:
   - designer
   - dig
   defis:
-  - Caisse nationale d'Assurance maladie
+  - RembourSanté
   github:
   gitlab:
   image_url: /img/communaute/alexis-deny.png
@@ -230,7 +230,7 @@ Armando De Oliveira:
   - dig
   - mentor
   defis:
-  - DGGN
+  - Recrues
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -436,7 +436,7 @@ Catherine Duyck-Bagot:
   - dig
   - mentor
   defis:
-  - Caisse nationale d'Assurance maladie
+  - RembourSanté
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -454,7 +454,7 @@ Charlotte Bourcier:
   - designer
   - dig
   defis:
-  - Ministère de l'Education Nationale
+  - Alphabet
   github:
   gitlab:
   image_url: /img/communaute/charlotte-bourcier.png
@@ -472,7 +472,7 @@ Charlotte Marmet:
   - designer
   - dig
   defis:
-  - CGDD
+  - SIED
   github:
   gitlab:
   image_url: /img/communaute/charlotte-marmet.png
@@ -508,7 +508,7 @@ Christophe Astier:
   - dig
   - mentor
   defis:
-  - SCHAPI
+  - "vigicr'UX"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -907,7 +907,7 @@ Flavien Colsenet:
   - designer
   - dig
   defis:
-  - SCHAPI
+  - "vigicr'UX"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1071,7 +1071,7 @@ Géraldine Da Sylva:
   - dig
   - mentor
   defis:
-  - DILA
+  - "Ma famille ici"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1106,7 +1106,7 @@ Hervé Béguinot:
   - dig
   - mentor
   defis:
-  - DGGN
+  - Recrues
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1178,7 +1178,7 @@ Iris Naudin:
   - designer
   - dig
   defis:
-  - DGGN
+  - Recrues
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1272,7 +1272,7 @@ Jean-Marie Coulomb:
   - dig
   - mentor
   defis:
-  - SCHAPI
+  - "vigicr'UX"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1342,7 +1342,7 @@ Julien Laffargue:
   - dig
   - mentor
   defis:
-  - SCHAPI
+  - "vigicr'UX"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1416,7 +1416,7 @@ Jérémy Bakkalian:
   - dig
   - mentor
   defis:
-  - Ministère des Armées
+  - AchaDef
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1452,7 +1452,7 @@ Jérôme Letanou:
   - dig
   - mentor
   defis:
-  - Ministère de l'Education Nationale
+  - Alphabet
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1489,7 +1489,7 @@ Laure Dubuc:
   - designer
   - dig
   defis:
-  - Dihal
+  - Résorption bidonvilles
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1525,7 +1525,7 @@ Laurence Monnoyer-Smith:
   - dig
   - mentor
   defis:
-  - CGDD
+  - SIED
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1543,7 +1543,7 @@ Laurent Buchaillat:
   - dig
   - mentor
   defis:
-  - Ministère de l'Intérieur
+  - RDVpref
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1598,7 +1598,7 @@ Laurent Le Prieur:
   - dig
   - mentor
   defis:
-  - Ministère de l'Education Nationale
+  - Alphabet
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1709,7 +1709,7 @@ Manuel Demougeot:
   - dig
   - mentor
   defis:
-  - Dihal
+  - Résorption bidonvilles
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1727,7 +1727,7 @@ Marc Bouteiller:
   - designer
   - dig
   defis:
-  - Ministère des Armées
+  - AchaDef
   github:
   gitlab:
   image_url: /img/communaute/marc-bouteiller.png
@@ -1780,7 +1780,7 @@ Marie Juille:
   - dig
   - mentor
   defis:
-  - Ministère de l'Intérieur
+  - RDVpref
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1798,7 +1798,7 @@ Marie Ramon-Daré:
   - designer
   - dig
   defis:
-  - CGDD
+  - SIED
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -1834,7 +1834,7 @@ Marine Gout:
   - dig
   - mentor
   defis:
-  - Ministère de l'Education Nationale
+  - Alphabet
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2038,7 +2038,7 @@ Michael Fumery:
   - dig
   - mentor
   defis:
-  - DGGN
+  - Recrues
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2111,7 +2111,7 @@ Nicolas Grandjean:
   - designer
   - dig
   defis:
-  - DGGN
+  - Recrues
   github:
   gitlab:
   image_url: /img/communaute/nicolas-grandjean.png
@@ -2147,7 +2147,7 @@ Nicolas Patriarca:
   - designer
   - dig
   defis:
-  - Ministère de l'Intérieur
+  - RDVpref
   github: Nik165790
   gitlab:
   image_url: /img/communaute/alexis-deny.png
@@ -2201,7 +2201,7 @@ Olivier Garry:
   - dig
   - mentor
   defis:
-  - CGDD
+  - SIED
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2422,7 +2422,7 @@ Rosine Bernez:
   - designer
   - dig
   defis:
-  - DILA
+  - "Ma famille ici"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2440,7 +2440,7 @@ Régis Perol:
   - dig
   - mentor
   defis:
-  - DILA
+  - "Ma famille ici"
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2548,7 +2548,7 @@ Sarah Lepreux:
   - designer
   - dig
   defis:
-  - Ministère de l'Education Nationale
+  - Alphabet
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2639,7 +2639,7 @@ Sophie Jacquemont:
   - dig
   - mentor
   defis:
-  - Dihal
+  - Résorption bidonvilles
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2711,7 +2711,7 @@ Stéphane Petit:
   - dig
   - mentor
   defis:
-  - Ministère des Armées
+  - AchaDef
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
@@ -2748,7 +2748,7 @@ Stéphanie Devigne:
   - dig
   - mentor
   defis:
-  - Caisse nationale d'Assurance maladie
+  - RembourSanté
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png

@@ -90,10 +90,10 @@ class TestDefis(BaseTest):
 
             # Check name in individual file
             if nom_defi not in noms_defis:
-                suggestions = difflib.get_close_matches(nom, noms_defis)
+                suggestions = difflib.get_close_matches(nom_defi, noms_defis)
 
                 self.fail(
-                    f"Fichier {file} invalide. Le défi `{nom}` n'existe pas. Suggestions : {', '.join(suggestions)}"
+                    f"Fichier {file} invalide. Le défi `{nom_defi}` n'existe pas. Suggestions : {', '.join(suggestions)}"
                 )
 
             # Check link_to
