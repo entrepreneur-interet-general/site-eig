@@ -11,9 +11,9 @@ scientist. J'ai travaillé dans des entreprises telles que
 Dailymotion, Clustree ou des entreprises de conseil sur une grande variété de sujets. En
 tant que data scientist, j'apprécie combiner les connaissances
 métiers avec les aspects techniques pour obtenir des solutions
-efficaces et réalistes. 
+efficaces et réalistes.
 
-Depuis la fin du défi EIG, je travaille chez Renault Digital 
+Depuis la fin du défi EIG, je travaille chez Renault Digital
 intégrée dans des features teams (nouvelles mobilités, marketing)
-et sur des sujets transverses d'architecture et de mise en qualité 
+et sur des sujets transverses d'architecture et de mise en qualité
 des processus data science. »

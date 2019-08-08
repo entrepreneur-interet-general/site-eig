@@ -1187,7 +1187,7 @@ Iris Naudin:
   profil: Designer
   programme: EIG
   title: Iris Naudin
-  twitter:
+  twitter: irisvnaudin
   website:
 Jean-Baptiste Assouad:
   annees:
@@ -2206,7 +2206,7 @@ Olivier Garry:
   gitlab:
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/olivier-garry.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ogarry/
   profil: Mentor
   programme: DIG
   title: Olivier Garry
@@ -2553,7 +2553,7 @@ Sarah Lepreux:
   gitlab:
   image_url: /img/communaute/sarah-lepreux.png
   link_to: /communaute/2019/sarah-lepreux.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/sarah-lepreux/
   profil: Designer
   programme: EIG
   title: Sarah Lepreux
