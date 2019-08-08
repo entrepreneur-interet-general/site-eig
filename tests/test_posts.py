@@ -7,7 +7,7 @@ from base import BaseTest
 import frontmatter
 
 
-class TestDefis(BaseTest):
+class TestPosts(BaseTest):
     REQUIRED_KEYS = [
         "author",
         "description",

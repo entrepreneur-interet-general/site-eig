@@ -3,9 +3,4 @@ layout: personne
 nom: Laurie Chapotte
 ---
 
-« Designer graphique et de service, j'ai d’abord travaillé
-pour le laboratoire de recherche « identités complexes » à
-l’Université de Strasbourg afin de rendre plus compréhensible et
-accessible cette institution complexe. J'ai ensuite développé mon
-activité de designer indépendante et conçu des outils imprimés ou
-numériques visant à faciliter l’accès à l’information. »
+« Designer de service, je travaille depuis 5 ans avec les institutions publiques afin d’imaginer leurs services et futurs outils. Précédemment intégrée au laboratoire de design « identités complexes » puis au Mobilier national, j’utilise mes formations de designer pour identifier les besoins, imaginer l’expérience utilisateur et concrétiser ces outils. »

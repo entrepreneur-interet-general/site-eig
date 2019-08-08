@@ -7,7 +7,7 @@
   </div>
   {% endif %}
   <div class="card__content">
-    <h3>{{ post.title }}</h3>
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
     <p class='info'>
       Le
       {% assign m = post.date | date: "%-m" %}

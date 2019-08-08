@@ -1,4 +1,4 @@
-#+title: Site Entrepreneur d’intérêt général
+#+title: Site Entrepreneurs d’intérêt général
 
 Site du programme Entrepreneur d'intérêt général.
 
