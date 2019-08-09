@@ -5,32 +5,31 @@ section_id: contact
 
 <div class='full'>
   <div class='row'>
-    <div class='medium-8 columns'>
+    <h2>Nous contacter</h2>
+    <div class='medium-8 columns mt-1'>
       <div class='form'>
-        <div class='row'>
-          <form method='POST' action='https://formspree.io/entrepreneur-interet-general@data.gouv.fr'>
-            <div class='large-12 columns'>
-              <p id='thanks' style='display: none;'>
-		Merci de nous avons contacté, nous vous répondrons
-		dans les meilleurs délais.
-              </p>
-            </div>
-            <div class='medium-12 columns'>
-              <input class='required' name='name' placeholder='Nom' type='text'>
-              <input class='required email' name='email' placeholder='E-mail' type='text'>
-              <input class='required' name='subject' placeholder='Sujet' type='text'>
-              <textarea class='required' name='message' placeholder='Message'></textarea>
-              <input class='button white' type='submit'>
-            </div>
-          </form>
-        </div>
+        <form method='POST' action='https://formspree.io/entrepreneur-interet-general@data.gouv.fr'>
+          <div class='large-12 columns'>
+            <p id='thanks' style='display: none;'>
+              Merci de nous avons contacté, nous vous répondrons
+              dans les meilleurs délais.
+            </p>
+          </div>
+          <div class='medium-12 columns'>
+            <input class='required' name='name' placeholder='Nom' type='text'>
+            <input class='required email' name='email' placeholder='Adresse e-mail' type='text'>
+            <input class='required' name='subject' placeholder='Sujet' type='text'>
+            <textarea class='required' name='message' placeholder='Message'></textarea>
+            <input class='button white' type='submit' value="Envoyer">
+          </div>
+        </form>
       </div>
       <div class='two spacing'></div>
-      <p>Lire les <a href="/cgu.html">conditions générales d'utilisation</a>.</p>
-      <br/>
-      <p>Vous inscrire à notre <a target="new" href="{{ site.list_url }}">liste de diffusion</a></a>.</p>
+      <p>
+        Vous pouvez vous inscrire à notre <a target="new" href="{{ site.list_url }}">liste de diffusion</a>.
+      </p>
     </div>
-    <div class='medium-4 columns'>
+    <div class='medium-4 columns mt-1'>
       <div class='contact-details'>
         <h3>Adresse postale</h3>
         <p>DINSIC / Programme EIG<br>20 avenue de Ségur<br>75007 Paris, France</p>
