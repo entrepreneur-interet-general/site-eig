@@ -40,7 +40,7 @@
   link_to: /defis/2019/dinsic.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible "
+  description: "Contribuer à la réussite de FranceConnect"
   administration: Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État(DINSIC),
   administration_website: http://example.com
   year: 2019
@@ -58,7 +58,7 @@
   link_to: /defis/2019/mission-identite-numerique.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée "
+  description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée"
   administration: Mission Identité Numérique, Ministère de l'Intérieur
   administration_website: http://example.com
   year: 2019
@@ -113,7 +113,7 @@
   link_to: /defis/2019/shom.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)"
+  description: "Faciliter l’accès à une information marine de qualité"
   administration: Service hydrographique et océanographique de la marine (Shom), Ministère des Armées
   administration_website: http://example.com
   year: 2019
@@ -182,10 +182,10 @@
     - "Marine Gout"
     - "Jérôme Letanou"
     - "Laurent Le Prieur"
-"Muséum d'Histoire Naturelle":
+"Sequoia":
   image: /img/dig/12.png
-  title: "Muséum d'Histoire Naturelle"
-  link_to: /defis/2019/museum-dhistoire-naturelle.html
+  title: "Sequoia"
+  link_to: /defis/2019/sequoia.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Faire découvrir les espaces naturels grâce à une application de géolocalisation"
@@ -274,10 +274,10 @@
   mentors:
     - "Marie Juille"
     - "Laurent Buchaillat"
-"Académie de Clermont-Ferrand":
+"plateforme Handicap":
   image: /img/dig/03.png
-  title: "Académie de Clermont-Ferrand"
-  link_to: /defis/2019/academie-de-clermont-ferrand.html
+  title: "plateforme Handicap"
+  link_to: /defis/2019/plateforme-handicap.html
   class: 2019 dig design
   skills: DIG // Design
   colorback: blue

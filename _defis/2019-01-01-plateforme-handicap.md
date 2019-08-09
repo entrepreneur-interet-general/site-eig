@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: "Académie de Clermont-Ferrand"
+title: "plateforme Handicap"
 ---
 
 
