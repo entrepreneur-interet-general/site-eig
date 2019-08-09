@@ -1,3 +1,10 @@
+"EIG 3": 
+  title: EIG 3
+  colorback: white
+  colorfront: blue
+  description: Découvrir la promotion 3 >>
+  card_promo : Yes
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
@@ -340,6 +347,13 @@
       description: "avis analysés"
     - amount: 14
       description: "indicateurs calculés"
+
+"EIG 2": 
+  title: EIG 2
+  colorback: white
+  colorfront: blue
+  description: Découvrir la promotion 2 >>
+  card_promo : Yes
 
 "Archifiltre":
   image: /img/defis/9_ARCHEMSE.png
@@ -894,6 +908,13 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
+
+"EIG 1": 
+  title: EIG 1
+  colorback: white
+  colorfront: blue
+  description: Découvrir la promotion 1 >>
+  card_promo : Yes
 
 "AFD - Geodata":
   image: /img/icone-eig.png
