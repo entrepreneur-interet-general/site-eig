@@ -182,13 +182,13 @@
     - "Marine Gout"
     - "Jérôme Letanou"
     - "Laurent Le Prieur"
-"Sequoia":
+"INPN Espaces":
   image: /img/dig/12.png
-  title: "Sequoia"
-  link_to: /defis/2019/sequoia.html
+  title: "INPN Espaces"
+  link_to: /defis/2019/inpn-espaces.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Faire découvrir les espaces naturels grâce à une application de géolocalisation"
+  description: "Informer les citoyens sur les espaces naturels autour de chez eux"
   administration: Muséum Histoire Naturelle
   administration_website: http://example.com
   year: 2019
