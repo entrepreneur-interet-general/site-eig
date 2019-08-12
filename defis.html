@@ -21,10 +21,10 @@ section_id: defis
         {% for promo_hash in site.data.promo %}
         {% assign promo = promo_hash[1] %}
           <li class="{{promo.class}}" style="background: #ffffff;">
-            <p href="" style="background: #1c419b; padding-top:30px;">
+            <div style="background: #1c419b; padding-top:30px;">
               <img alt="{{promo.title}}" style="width:40%;display: block; margin-left: auto;margin-right: auto" src="{{site.url}}/{{promo.image}}">
               <h2 style="color: #ffffff; text-align: center; font-size: 1.25rem; padding-bottom:3.8rem;margin-top:2rem;">{{promo.title}}</h2>
-            </p>
+            </div>
           </li>
         {% endfor %}
         {% for defi_hash in site.data.defis %}
