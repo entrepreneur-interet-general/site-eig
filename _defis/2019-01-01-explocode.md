@@ -20,7 +20,7 @@ Pour rendre le droit du travail accessible au plus grand nombre, une première b
 
 Pour aller plus loin et permettre aux usagers d’accéder de façon autonome, simplifiée et dématérialisée aux différents textes traitant du droit du travail applicables à leur situation, une deuxième brique a été imaginée : ExploCode.
 
-## Le défi développer une brique d’intelligence artificielle capable d’apporter une réponse juridique lisible et fiable aux questions posées par les usagers en droit du travail
+### Le défi : développer une brique d’intelligence artificielle capable d’apporter une réponse juridique lisible et fiable aux questions posées par les usagers en droit du travail
 
 Pour développer ExploCode, trois axes de travail ont été identifiés :
 
