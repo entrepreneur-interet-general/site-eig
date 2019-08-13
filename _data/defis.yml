@@ -256,10 +256,10 @@
   mentors:
     - "Jérôme Blondon"
     - "Pierre Arène"
-"RDVpref":
+"PlaniPref":
   image: /img/dig/10.png
-  title: "RDVpref"
-  link_to: /defis/2019/rdvpref.html
+  title: "PlaniPref"
+  link_to: /defis/2019/planipref.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Faciliter la prise de rendez-vous en préfecture"
