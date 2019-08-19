@@ -1,40 +1,41 @@
 {% if paginator %}
-  <div class="pager">
-    {% if paginator.next_page %}
-      {% if paginator.next_page == 1 %}
-        <a href="/blog" class="older">
-          <i class='fa fa-angle-double-left'></i>
-          Entrées plus anciennes
-        </a>
-      {% else %}
-        <a href="/blog/page{{ paginator.next_page }}" class="older">
-          <i class='fa fa-angle-double-left'></i>
-          Entrées plus anciennes
-        </a>
-      {% endif %}
-    {% else %}
-      <span class="older">
+<div class="pager">
+  {% if paginator.next_page %}
+    {% if paginator.next_page == 1 %}
+      <a href="/blog" class="older">
         <i class='fa fa-angle-double-left'></i>
-	Entrées plus anciennes
-      </span>
-    {% endif %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a href="/blog" class="newer">
-          Entrées plus récentes
-          <i class='fa fa-angle-double-right'></i>
-        </a>
-      {% else %}
-        <a href="/blog/page{{ paginator.previous_page }}" class="newer">
-          Entrées plus récentes
-          <i class='fa fa-angle-double-right'></i>
-        </a>
-      {% endif %}
+        Articles plus anciens
+      </a>
     {% else %}
-      <span class="newer">
-        Entrées plus récentes
-        <i class='fa fa-angle-double-right'></i>
-      </span>
+      <a href="/blog/page{{ paginator.next_page }}" class="older">
+        <i class='fa fa-angle-double-left'></i>
+        Articles plus anciens
+      </a>
     {% endif %}
-  </div>
+  {% else %}
+    <span class="older">
+      <i class='fa fa-angle-double-left'></i>
+      Articles plus anciens
+    </span>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/blog" class="newer">
+        Articles plus récents
+        <i class='fa fa-angle-double-right'></i>
+      </a>
+    {% else %}
+      <a href="/blog/page{{ paginator.previous_page }}" class="newer">
+        Articles plus récents
+        <i class='fa fa-angle-double-right'></i>
+      </a>
+    {% endif %}
+  {% else %}
+    <span class="newer">
+      Articles plus récents
+      <i class='fa fa-angle-double-right'></i>
+    </span>
+  {% endif %}
+</div>
 {% endif %}
