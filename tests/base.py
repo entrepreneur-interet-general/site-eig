@@ -11,6 +11,9 @@ class BaseTest(unittest.TestCase):
         with open("_data/personnes.yml") as f:
             self.personnes = yaml.safe_load(f)
 
+        with open("_data/promos.yml") as f:
+            self.promos = yaml.safe_load(f)
+
     def clean_md_filename(self, filename, prefix):
         file_no_prefix = filename.replace(f"_{prefix}/", "")
         year = file_no_prefix.split("-")[0]

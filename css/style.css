@@ -3732,6 +3732,64 @@ blockquote, ul, p {
   font-size: 3rem;
 }
 
+.promotion_container {
+  background: #1c419b;
+  padding-top:30px;
+}
+
+.promotion_title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.25rem;
+  padding-bottom: 3.8rem;
+  margin-top: 2rem;
+}
+
+.defis {
+  background: #fff;
+}
+
+.modGallery ul.gallery li.defis .image {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.modGallery ul.gallery li.defis a .title {
+  color:#222222;
+  text-align: center;
+  font-size: 1.25rem;
+  margin-bottom: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+.modGallery ul.gallery li.defis a .description {
+  color: #555555;
+  text-align: center;
+  font-size: 1.04rem;
+  margin-bottom: 0.88rem;
+}
+
+.modGallery ul.gallery li.defis .thumb_description {
+  margin: 0em 1em 0em 1em;
+  font-size: 1rem;
+}
+
+.modGallery ul.gallery li.defis .skills {
+  color: #888888;
+  text-align: center;
+  font-size: 0.84rem;
+  margin-bottom: 0.1rem;
+}
+
+.defis_overlay-blue {
+  background: #1c419b;
+}
+.defis_overlay-red {
+  background: #b01818
+}
+
 /* Carte */
 .card {
   background: #fff;
