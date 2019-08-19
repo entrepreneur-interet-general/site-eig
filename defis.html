@@ -21,20 +21,27 @@ section_id: defis
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
         {% for defi_hash in site.data.defis %}
         {% assign defi = defi_hash[1] %}
-          <li class='{{defi.class}} eig-{{defi.promotion}}'>
+          {% for promo_hash in site.data.promos %}
+            {% assign promo = promo_hash[1] %}
+            {% if defi.title == promo.defi %}
+              <li class="defis {{ promo.class }}">
+                <div class="promotion_container">
+                  <img alt="{{ promo.title }}" class="image" src="{{ promo.image }}">
+                  <h2 class="promotion_title">{{ promo.title }} →</h2>
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
+          <li class='defis {{defi.class}} eig-{{defi.promotion}}'>
             <a href='{{defi.link_to}}'>
-              <img alt="{{defi.title}}" style="width:40%;display: block; margin-left: auto;margin-right: auto" src="{{site.url}}/{{defi.image}}" /><h2 style="color:#222222; text-align: center; font-size: 1.25rem; margin-bottom:0.3rem;margin-top:0.3rem;">{{defi.title}}</h2><p style="color:#555555; text-align: center; font-size: 1.04rem; margin-bottom:0.88rem;">{{defi.description}}</p><p style="color:#888888; text-align: center; font-size: 0.84rem; margin-bottom:0.1rem;">{{defi.skills}}</p>
-              <div class='overlay' style='background:
-                  {% if defi.colorback == 'red' %}
-                    #b01818
-                  {% elsif defi.colorback == 'blue' %}
-                    #1c419b
-                  {% else %}
-                    #d8d8d8
-                  {% endif %};'>
+              <img alt="{{defi.title}}" class="image" src="{{defi.image}}" />
+              <h2 class="title">{{ defi.title }}</h2>
+              <p class="description">{{ defi.description }}</p>
+              <p class="skills">{{ defi.skills }}</p>
+              <div class='overlay defis_overlay-{{ defi.colorback }}'>
                 <div class='thumb-info'>
-                  <h3 style="margin-top: 0em;">{{defi.title}}</h3>
-                  <p style="margin: 0em 1em 0em 1em; font-size: 1rem;">{{defi.description}}</p>
+                  <h3 class="mt-0">{{ defi.title }}</h3>
+                  <p class="thumb_description">{{ defi.description }}</p>
                 </div>
               </div>
             </a>
@@ -45,3 +52,6 @@ section_id: defis
   </div>
   <div class='four spacing'></div>
 </div>
+
+
+
