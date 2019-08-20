@@ -51,9 +51,15 @@ layout: default
         {% endif %}
       </ul>
 
-      <p>
-        {{ content }}
-      </p>
+      {% if content.size > 1 %}
+        <p>
+          {{ content }}
+        </p>
+      {% else %}
+        <div class="color-blue mt-2">
+          La description de ce profil est en cours de rédaction et sera disponible prochainement.
+        </div>
+      {% endif %}
 
       <div class='spacing'></div>
       {% if personne.website %}
