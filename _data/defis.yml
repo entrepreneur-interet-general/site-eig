@@ -343,7 +343,7 @@
       description: "indicateurs calculés"
 
 "Agence de la Sécurité Civile":
-  image: /img/dig/01.png
+  image: /img/defis/dig/01.png
   title: "Agence de la Sécurité Civile"
   link_to: /defis/2019/agence-de-la-securite-civile.html
   class: 2019 dig design
@@ -361,7 +361,7 @@
     - "Nicolas Mathieu"
     - "David Vigier"
 "Ma famille ici":
-  image: /img/dig/17.png
+  image: /img/defis/dig/17.png
   title: "Ma famille ici"
   link_to: /defis/2019/ma-famille-ici.html
   class: 2019 dig design
@@ -379,7 +379,7 @@
     - "Géraldine Da Sylva"
     - "Régis Perol"
 "DINSIC":
-  image: /img/dig/07.png
+  image: /img/defis/dig/07.png
   title: "DINSIC"
   link_to: /defis/2019/dinsic.html
   class: 2019 dig design
@@ -397,7 +397,7 @@
     - "Stéphane Mavel"
     - "Vincent Bataille"
 "Mission Identité Numérique":
-  image: /img/dig/06.png
+  image: /img/defis/dig/06.png
   title: "Mission Identité Numérique"
   link_to: /defis/2019/mission-identite-numerique.html
   class: 2019 dig design
@@ -415,7 +415,7 @@
     - "Marc Loutrel"
     - "Valérie Peneau"
 "RembourSanté":
-  image: /img/dig/04.png
+  image: /img/defis/dig/04.png
   title: "RembourSanté"
   link_to: /defis/2019/remboursante.html
   class: 2019 dig design
@@ -433,7 +433,7 @@
     - "Stéphanie Devigne"
     - "Catherine Duyck-Bagot"
 "vigicr'UX":
-  image: /img/dig/16.png
+  image: /img/defis/dig/16.png
   title: "vigicr'UX"
   link_to: /defis/2019/vigicrux.html
   class: 2019 dig design
@@ -452,7 +452,7 @@
     - "Julien Laffargue"
     - "Jean-Marie Coulomb"
 "Shom":
-  image: /img/dig/15.png
+  image: /img/defis/dig/15.png
   title: "Shom"
   link_to: /defis/2019/shom.html
   class: 2019 dig design
@@ -470,7 +470,7 @@
     - "Bénédicte Ezvan"
     - "Gilles Martinoty"
 "SIED":
-  image: /img/dig/11.png
+  image: /img/defis/dig/11.png
   title: "SIED"
   link_to: /defis/2019/sied.html
   class: 2019 dig design
@@ -489,7 +489,7 @@
     - "Olivier Garry"
     - "Laurence Monnoyer-Smith"
 "AchaDef":
-  image: /img/dig/11.png
+  image: /img/defis/dig/AchaDef.png
   title: "AchaDef"
   link_to: /defis/2019/achadef.html
   class: 2019 dig design
@@ -507,7 +507,7 @@
     - "Jérémy Bakkalian"
     - "Stéphane Petit"
 "Alphabet":
-  image: /img/dig/02.png
+  image: /img/defis/dig/02.png
   title: "Alphabet"
   link_to: /defis/2019/alphabet.html
   class: 2019 dig design
@@ -527,7 +527,7 @@
     - "Jérôme Letanou"
     - "Laurent Le Prieur"
 "INPN Espaces":
-  image: /img/dig/12.png
+  image: /img/defis/dig/12.png
   title: "INPN Espaces"
   link_to: /defis/2019/inpn-espaces.html
   class: 2019 dig design
@@ -545,7 +545,7 @@
     - "Mathieu Clair"
     - "Jean-Denis Vigne"
 "Résorption bidonvilles":
-  image: /img/dig/13.png
+  image: /img/defis/dig/13.png
   title: "Résorption bidonvilles"
   link_to: /defis/2019/resorption-bidonvilles.html
   class: 2019 dig design
@@ -563,7 +563,7 @@
     - "Sophie Jacquemont"
     - "Manuel Demougeot"
 "Recrues":
-  image: /img/dig/14.png
+  image: /img/defis/dig/14.png
   title: "Recrues"
   link_to: /defis/2019/recrues.html
   class: 2019 dig design
@@ -583,7 +583,7 @@
     - "Michael Fumery"
     - "Armando De Oliveira"
 "Académie de Lyon":
-  image: /img/dig/05.png
+  image: /img/defis/dig/05.png
   title: "Académie de Lyon"
   link_to: /defis/2019/academie-de-lyon.html
   class: 2019 dig design
@@ -601,7 +601,7 @@
     - "Jérôme Blondon"
     - "Pierre Arène"
 "PlaniPref":
-  image: /img/dig/10.png
+  image: /img/defis/dig/10.png
   title: "PlaniPref"
   link_to: /defis/2019/planipref.html
   class: 2019 dig design
@@ -619,7 +619,7 @@
     - "Marie Juille"
     - "Laurent Buchaillat"
 "plateforme Handicap":
-  image: /img/dig/03.png
+  image: /img/defis/dig/03.png
   title: "plateforme Handicap"
   link_to: /defis/2019/plateforme-handicap.html
   class: 2019 dig design
