@@ -1054,10 +1054,9 @@ body.screenshot {
   padding: 0;
 }
 .modBlogPost.big blockquote p {
-  color: #ccc;
   font-style: italic;
   letter-spacing: 1px;
-  font-size: 1.7rem;
+  font-size: 1.3rem;
   padding: 0 20px;
 }
 
