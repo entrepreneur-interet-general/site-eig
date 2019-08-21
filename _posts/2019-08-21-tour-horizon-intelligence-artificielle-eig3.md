@@ -47,6 +47,9 @@ Le défi [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/
 
 Le défi [IA Flash](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html) fiabilise la constatation des infractions au sein du Ministère de l'Intérieur et de l’Agence nationale de traitement automatisé des infractions (ANTAI). Ce défi se concentre sur le traitement et la classification d'images. Il traite des millions d'images de radars automatiques en charge de relever les infractions routières. Les EIG ont recours à des techniques de traitement d'images et réalisent des classifications pour reconnaître automatiquement la marque et le modèle de véhicules en infraction. L’implémentation d’un réseau de neurone convolutif résiduel, entraîné parallèlement sur plusieurs processeurs graphiques (GPU) compte tenu du volume important de données d’apprentissage, donne déjà de bons résultats. Vous pouvez [tester leur modèle de classification en ligne](https://iaflash.fr).
 
+> J'ai été agréablement surpris de découvrir un patrimoine de données riche : images (radars, vidéoprotection), structurés et référencées (données de titres, visa, carte d'identité, permis de conduire), textes.
+
+**[Cristian Perez Brokate](/communaute/2019/cristian-perez.html), datascientist au sein du projet IA Flash**
 
 ## Assurer une navigation maritime sûre à l'aide d'algorithmes
 
