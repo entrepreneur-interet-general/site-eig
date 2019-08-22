@@ -71,3 +71,9 @@ class TestPosts(BaseTest):
                 self.assertIn(
                     tag, self.ALLOWED_TAGS, f"Le fichier `{file}` a un tag invalide."
                 )
+
+            self.assertIn(
+                len(post["tags"]),
+                range(1, 4 + 1),
+                f"Le fichier `{file}` doit comporter entre 1 et 4 tags",
+            )

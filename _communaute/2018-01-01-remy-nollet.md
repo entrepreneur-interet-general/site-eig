@@ -9,7 +9,7 @@ defis:
     site: /defis/2018/brigadenumerique.html
 profil:
 images:
-  - /img/communaute/remynollet.jpg
+  - /img/communaute/remy-nollet.png
 ---
 
 « Ingénieur issu de l’école Polytechnique et après avoir effectué 
