@@ -28,6 +28,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par Etalab, service 
 
 Dans la quasi totalité des administrations, [les défis data science du programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) sont une opportunité pour les administrations d'expérimenter des projets reposant sur l'exploitation de données. C’est pourquoi les entrepreneurs ont rencontré plusieurs difficultés : devoir expliquer leur métier, devoir exposer les limites et les prérequis pour appliquer des méthodes d'intelligence artificielle, travailler avec peu de données ou des données difficilement exploitables, ne pas disposer tout de suite d’un environnement de travail propice à la pratique de la data science (développement local et serveurs). Pour surmonter ces difficultés, les entrepreneurs ont organisé plusieurs [présentations de vulgarisation](https://speakerdeck.com/eig2018/vulgarisation-data-science) et mené des formations à destination des agents. Ils ont également rédigé plusieurs notes à destination de leur hiérarchie pour lever des freins ou saisir des opportunités. Grâce à cela ils ont pu implémenter des méthodes d’intelligence artificielle dont voici quelques cas d’usage.
 
+![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 ## Le traitement automatique du langage au service de la justice et du code du travail
 
@@ -37,7 +38,6 @@ Un enjeu pour ces défis est de reconnaître des entités nommées (_named-entit
 
 Notons que le défi OpenJustice bénéficie d'un corpus de décisions de justice conséquent : près de 3 millions de décisions de justice en base, une partie étant déjà pseudonymisée (les éléments identifiants à caractère personnel ont été retirés) et une plus petite partie annotée. Dans ce dernier cas, une classe (nom, prénom, adresse) est attribuée aux entités identifiantes de la décision afin d'entraîner des algorithmes. Ceci a été rendu possible par l'utilisation de logiciels de pseudonymisation en place depuis plusieurs années et par le travail de 10 annotateurs à temps plein au sein de la Cour de cassation.
 
-![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 ## Assister les juridictions financières avec des techniques de recherche d'information et de fouilles de textes
 
