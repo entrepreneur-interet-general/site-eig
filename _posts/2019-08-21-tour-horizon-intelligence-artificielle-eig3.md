@@ -37,6 +37,7 @@ Un enjeu pour ces défis est de reconnaître des entités nommées (_named-entit
 
 Notons que le défi OpenJustice bénéficie d'un corpus de décisions de justice conséquent : près de 3 millions de décisions de justice en base, une partie étant déjà pseudonymisée (les éléments identifiants à caractère personnel ont été retirés) et une plus petite partie annotée. Dans ce dernier cas, une classe (nom, prénom, adresse) est attribuée aux entités identifiantes de la décision afin d'entraîner des algorithmes. Ceci a été rendu possible par l'utilisation de logiciels de pseudonymisation en place depuis plusieurs années et par le travail de 10 annotateurs à temps plein au sein de la Cour de cassation.
 
+![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 ## Assister les juridictions financières avec des techniques de recherche d'information et de fouilles de textes
 
