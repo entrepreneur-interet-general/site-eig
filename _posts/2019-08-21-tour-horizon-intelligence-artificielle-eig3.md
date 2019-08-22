@@ -67,7 +67,7 @@ Le défi [Adler](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/
 Pour promouvoir une culture de l’expérimentation dans l’administration, le programme EIG encourage les data scientists à entretenir des liens avec le monde de la recherche, à utiliser des logiciels libres et à s’intégrer à la communauté des data scientists dans l’Etat.
 
 ![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)
-_Kim Montalibet et Cédric Malherbe, les EIG du défi DataJust, présentent leurs outils à Paul-Antoine Chevalier, data scientist à Etalab, lors du demo day interne organisé en juin 2019._
+_[Kim Montalibet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/kim-montalibet.html) et [Cédric Malherbe](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cedric-malherbe.html), les EIG du défi DataJust, présentent leurs outils à Paul-Antoine Chevalier, data scientist à Etalab, lors du demo day interne organisé en juin 2019._
 
 ### Les administrations s’inspirent de la recherche
 
