@@ -61,6 +61,8 @@ Le défi [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019
 
 Le défi [Adler](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html) lutte contre les comportements financiers illicites au Ministère de l’Action et des comptes publics, tandis que [PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) améliore la confiance des consommateurs en détectant des faux avis sur Internet à la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF). Ils utilisent les données pour prévenir et lutter contre des comportements illicites. Ils se reposent sur des données structurées ou semi-structurées et mettent en oeuvre diverses techniques de traitement du langage naturel, de détection d'anomalies et d'analyses de graphes. Les outils de fouilles de données mis en oeuvre grâce à ces techniques permettent à des agents de cibler plus finement les contrôles.
 
+![Deux hommes et une femme sont assis autour d'une table avec deux ordinateurs. Ils discutent et échangent.](/img/blog/datajust-pac.jpg)
+_Kim Montalibet et Cédric Malherbe, les EIG du défi DataJust, présentent leurs outils à Paul-Antoine Chevalier, data scientist à Etalab, lors du demo day interne organisé en juin 2019._
 
 ## Une communauté data science au cœur de l'administration
 
