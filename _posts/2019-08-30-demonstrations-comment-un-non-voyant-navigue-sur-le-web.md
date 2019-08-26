@@ -4,7 +4,7 @@ description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fern
 image: /img/blog/demo-a11y-20190404.jpeg
 layout: post
 tags:
-- acessiibilité
+- accessibilité
 - design
 - démonstration
 title: "Démonstrations : Comment un non-voyant navigue sur le web ?"
