@@ -38,6 +38,8 @@ Avec le département Qualité des services en ligne, nous avons organisé deux d
 
 Initialement destinées aux EIG, ces démonstrations ont suscité beaucoup d'intérêt et ont donc été ouvertes aux membres de la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/) et de la [communauté Qualité web](https://www.modernisation.gouv.fr/le-hub-des-communautes/qualite-des-demarches-en-ligne-et-accessibilite-numerique). Chaque démonstration a été filmée et livetwittée, vous pouvez donc les regarder ou les revoir. Elles durent environ 30 min et sont suivies d'un temps de questions-réponses qui témoignent des étonnements du public.
 
+![Jamshid Kohandel présente la plateforme data.gouv.fr](/img/blog/demo-a11y-20190404.jpeg) _Jamshid Kohandel présente la plateforme [data.gouv.fr](https://data.gouv.fr)_
+
 
 ### 1. Démonstration sur ordinateur - plateforme data.gouv.fr 
 
