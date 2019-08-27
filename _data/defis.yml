@@ -44,7 +44,7 @@
   class: 2019 data web
   skills: EIG 3 // Data // Web
   colorback: red
-  description: Cartographier les parcelles d'agricultures biologiques
+  description: "Cartographier les parcelles d'agricultures biologiques"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -85,7 +85,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: Construire un référentiel d'indemnisation des préjudices corporels
+  description: "Construire un référentiel d'indemnisation des préjudices corporels"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -105,7 +105,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: Maximiser l’exploitation des données de l'Arcep
+  description: "Maximiser l’exploitation des données de l'Arcep"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -124,8 +124,8 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: Accompagner un collectif numérique d’intérêt général au sein de l'État
-  administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
+  description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
+  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
@@ -192,7 +192,7 @@
 
 "Karfu'R":
   image: /img/logo-karfur.png
-  title: Karfu'R
+  title: "Karfu'R"
   link_to: /defis/2019/karfur.html
   class: 2019 web design
   skills: EIG 3 // Web // Design
@@ -201,7 +201,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)
+  administration : "Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)"
   administration_website: http://accueil-integration-refugies.fr
   eigs:
     - "Hugo Stéphan"
@@ -218,11 +218,11 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: Evaluer l'impact des réformes socio-fiscales sur les citoyens
+  description: "Evaluer l'impact des réformes socio-fiscales sur les citoyens"
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)
+  administration: "Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)"
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -424,11 +424,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: Moderniser la fonction d'accueil en brigade
+  description: "Moderniser la fonction d'accueil en brigade"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
+  administration: "Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)"
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
   eigs:
@@ -464,11 +464,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: Améliorer la réussite scolaire avec les données d'apprentissage
+  description: "Améliorer la réussite scolaire avec les données d'apprentissage"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation
+  administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
   administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
     - "David Panou"
@@ -501,7 +501,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
-  administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
+  administration: "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision"
   administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
   year: 2018
   duration_months: 10
@@ -541,7 +541,7 @@
   skills: EIG 2 // Web
   colorback: blue
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
+  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
@@ -640,11 +640,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: Lutter contre la fraude financière et enrayer l'économie souterraine
+  description: "Lutter contre la fraude financière et enrayer l'économie souterraine"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Action et des Comptes Publics
+  administration: "Ministère de l'Action et des Comptes Publics"
   administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
   eigs:
@@ -684,7 +684,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques
+  administration: "Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
     - "Samah Ghalloussi"
@@ -786,7 +786,7 @@
   skills: EIG 2 // Web // Data
   colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
-  administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
+  administration: "Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données"
   administration_website: https://www.interieur.gouv.fr
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
@@ -845,7 +845,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
-  administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
+  administration: "Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
   administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
@@ -883,11 +883,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: Repérer et mettre en réseau l'innovation sociale dans les territoires
+  description: "Repérer et mettre en réseau l'innovation sociale dans les territoires"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
+  administration: "Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales"
   administration_website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
@@ -1134,7 +1134,7 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
+  administration: "Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation"
   administration_website: http://www.enseignementsup-recherche.gouv.fr
   source_code: https://entrepreneur-interet-general/Merge-Machine
   eigs:
@@ -1171,7 +1171,7 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: Ministère de l'Intérieur
+  administration: "Ministère de l'Intérieur"
   administration_website: https://www.interieur.gouv.fr
   source_code: https://github.com/entrepreneur-interet-general/cartav
   eigs:
@@ -1209,7 +1209,7 @@
   skills: EIG 1 // Data // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
-  administration: Ministère de l'Intérieur
+  administration: "Ministère de l'Intérieur"
   administration_website: https://www.interieur.gouv.fr/
   source_code: https://matchid-project.github.io/
   year: 2017
