@@ -378,7 +378,7 @@
   mentors:
     - "Géraldine Da Sylva"
     - "Régis Perol"
-"DINSIC":
+"FranceCo":
   image: /img/defis/dig/07.png
   title: "DINSIC"
   link_to: /defis/2019/dinsic.html
@@ -396,10 +396,10 @@
   mentors:
     - "Stéphane Mavel"
     - "Vincent Bataille"
-"Mission Identité Numérique":
+"ID numérique":
   image: /img/defis/dig/06.png
-  title: "Mission Identité Numérique"
-  link_to: /defis/2019/mission-identite-numerique.html
+  title: "ID numérique"
+  link_to: /defis/2019/id-numerique.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée"
@@ -451,10 +451,10 @@
     - "Christophe Astier"
     - "Julien Laffargue"
     - "Jean-Marie Coulomb"
-"Shom":
+"Maritux":
   image: /img/defis/dig/15.png
-  title: "Shom"
-  link_to: /defis/2019/shom.html
+  title: "Maritux"
+  link_to: /defis/2019/maritux.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Faciliter l’accès à une information marine de qualité"
