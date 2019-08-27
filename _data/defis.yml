@@ -342,10 +342,10 @@
     - amount: 14
       description: "indicateurs calculés"
 
-"Agence de la Sécurité Civile":
+"App 112":
   image: /img/defis/dig/01.png
-  title: "Agence de la Sécurité Civile"
-  link_to: /defis/2019/agence-de-la-securite-civile.html
+  title: "App 112"
+  link_to: /defis/2019/app-112.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Aider à sauver des vies en situation d'urgence"
