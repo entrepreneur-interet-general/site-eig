@@ -469,10 +469,10 @@
   mentors:
     - "Bénédicte Ezvan"
     - "Gilles Martinoty"
-"SIED":
+"Sequoia":
   image: /img/defis/dig/11.png
-  title: "SIED"
-  link_to: /defis/2019/sied.html
+  title: "Sequoia"
+  link_to: /defis/2019/sequoia.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Améliorer l’information environnementale du citoyen"
