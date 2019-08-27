@@ -381,7 +381,7 @@
 "FranceCo":
   image: /img/defis/dig/07.png
   title: "DINSIC"
-  link_to: /defis/2019/dinsic.html
+  link_to: /defis/2019/franceco.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Contribuer à la réussite de FranceConnect"
@@ -487,7 +487,7 @@
     - "Charlotte Marmet"
   mentors:
     - "Olivier Garry"
-    - "Thomas Lesueur "
+    - "Thomas Lesueur"
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
   title: "AchaDef"
