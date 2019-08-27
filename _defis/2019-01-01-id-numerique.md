@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: "Mission Identité Numérique"
+title: "ID numérique"
 ---
 
 ### La problématique
