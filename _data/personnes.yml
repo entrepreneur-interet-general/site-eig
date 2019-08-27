@@ -1536,24 +1536,6 @@ Laurence Matringe:
   title: Laurence Matringe
   twitter: matringel
   website:
-Laurence Monnoyer-Smith:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - SIED
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2019/laurence-monnoyer-smith.html
-  linkedin:
-  profil: Mentor
-  programme: DIG
-  title: Laurence Monnoyer-Smith
-  twitter:
-  website:
 Laurent Buchaillat:
   annees:
   - 2019
@@ -2869,6 +2851,24 @@ Thierry Razanajao:
   profil: Data scientist
   programme: EIG
   title: Thierry Razanajao
+  twitter:
+  website:
+Thomas Lesueur:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - SIED
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/thomas-lesueur.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Thomas Lesueur
   twitter:
   website:
 Tiphaine Phe-Neau:
