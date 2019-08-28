@@ -403,7 +403,7 @@
 
 "FranceCo":
   image: /img/defis/dig/07.png
-  title: "DINSIC"
+  title: "FranceCo"
   link_to: /defis/2019/franceco.html
   class: 2019 dig design
   skills: DIG // Design
@@ -601,7 +601,7 @@
   link_to: /defis/2019/resorption-bidonvilles.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Favoriser la résorption des bidonvilles"
+  description: "Connaître, partager et agir pour résorber les bidonvilles"
   administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
   administration_website: http://example.com
   year: 2019
