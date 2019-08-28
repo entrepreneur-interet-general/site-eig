@@ -56,7 +56,7 @@ Nous avons ensuite cherché un jeu de donnée, un fichier Excel que nous avons p
 
 ### 2. Démonstration sur mobile - Ameli, Tchap... 
 
-Lors de la seconde démonstration, Jamshid a été accompagné de Fernando Pinto da Silva également expert en accessibilité numérique et non-voyant. 
+Lors de la seconde démonstration, Jamshid était accompagné de Fernando Pinto da Silva également expert en accessibilité numérique et non-voyant. 
 
 Pour la démonstration, ils ont utilisés un iPhone et le lecteur d'écran VoiceOver intégré au système d'exploitation MacOs (pour Android, il y a le lecteur d'écran TalkBack). Un utilisateur lambda qui navigue sur son smartphone déclenche une action à chaque fois qu'il touche un élément sur son écran. **Un aveugle utilise le lecteur d'écran pour décrire tout ce qu'il touche.** Il utilise ensuite des gestes supplémentaires pour déclencher une action. Il s'agit là du premier enseignement de la démonstration.
 
@@ -71,7 +71,7 @@ Enfin, **il est également possible de connecter un lecteur en braille nommé "p
 
 **Application Ameli**
 
-Dans le cadre de la démonstration nous avons pu ouvrir l'[application Ameli](https://apps.apple.com/fr/app/ameli-lassurance-maladie/id620447173) afin de comprendre ce qui était accessible et ce qui ne l'était pas. Nous avons pu observer un bouton sans label, nous questionnant sur l'utilité de celui-ci. De plus, nous avons visualiser un champ de texte décrit comme étant à saisir (malheureusement il ne l'était). Enfin, un bouton a été nommé par le lecteur d'ecran "Dashboard menu BTN white" nous offrant aucune aide à la navigation.
+Dans le cadre de la démonstration nous avons pu ouvrir l'[application Ameli](https://apps.apple.com/fr/app/ameli-lassurance-maladie/id620447173) afin de comprendre ce qui était accessible et ce qui ne l'était pas. Nous avons pu observer un bouton sans label, nous questionnant sur l'utilité de celui-ci. Nous avons aussi visualisé un champ de texte décrit comme étant à saisir (malheureusement il ne l'était). Enfin, le lecteur d'écran a détecté un bouton "Dashboard menu BTN white", ne nous offrant ainsi aucune aide à la navigation.
 
 **Application Tchap**
 
@@ -87,7 +87,7 @@ Enfin, Jamshid nous a présenté l'application [BlindSquare](https://apps.apple.
 
 L'observation de l'utilisateur, afin de comprendre son expérience particulière et ses usages, est riche d'enseignement ; pour nous concepteur, ces démonstrations ont permis d'appréhender les difficultés et les bonnes pratiques d'accessibilité, mais aussi d'utilisabilité, de nos interfaces. Nous vérifions trop souvent nos sites dans notre propre contexte : il est indispensable de se décentrer !
 
-Par ailleurs, l'accessibilité numérique semble être un domaine chargé de normes et de règles techniques. En réalité, elle définit uniquement ce qui doit être produit par les concepteurs et les développeurs web selon un standard. Cela demande de la rigueur.
+Par ailleurs, l'accessibilité numérique semble être un domaine chargé de normes et de règles techniques. En réalité, elle définit uniquement ce qui doit être produit par les concepteurs et les développeurs web selon un standard et demande de la rigueur.
 
 En un mot, nous vous recommandons fortement d'organiser cette démonstration pour sensibiliser vos concepteurs et  vos développeurs aux enjeux des normes d'accessibilité ! 
 
