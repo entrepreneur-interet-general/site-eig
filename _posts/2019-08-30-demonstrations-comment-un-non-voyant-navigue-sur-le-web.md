@@ -4,9 +4,8 @@ description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fern
 image: /img/blog/demo-a11y-20190404.jpeg
 layout: post
 tags:
-- accessibilité
 - design
-- démonstration
+- écosystème
 title: "Démonstrations : Comment un non-voyant navigue sur le web ?"
 twitter: jbledevehat
 ---
@@ -45,19 +44,19 @@ Initialement destinées aux EIG, ces démonstrations ont suscité beaucoup d'int
 
 La première démonstration a été réalisée par Jamshid Kohandel, expert accessibilité et non-voyant. 
 
-Pour commencer, il faut comprendre que **les aveugles travaillent sur un ordinateur grâce à un logiciel que l'on nomme un lecteur d'écran**. Le logiciel restitue les informations visibles à l'écran à travers une synthèse vocale et/ou un lecteur braille. Le lecteur d'écran retranscrit également la nature de l'élément en cours de consultation et indique s'il s'agit d'un lien, d'un bouton ou d'une case à cocher. Le lecteur d'écran lit donc dans le code source et intéprète les types de composants. Par conséquent, si un titre est visible uniquement par l'augmentation de la taille de ses caractères, il ne sera pas accessible facilement. Alors que s'il est borné par les balise `<h2>` et `</h2>`il sera repéré rapidement et facilitera la compréhension du contenu.
+Pour commencer, il faut comprendre que **les aveugles travaillent sur un ordinateur grâce à un logiciel que l'on nomme un lecteur d'écran**. Le logiciel restitue les informations visibles à l'écran à travers une synthèse vocale et/ou un lecteur braille. Le lecteur d'écran retranscrit également la nature de l'élément en cours de consultation. Par exemple, il indique s'il s'agit d'un lien, d'un bouton ou d'une case à cocher. Le lecteur d'écran lit donc dans le code source et intéprète les types de composants. Par conséquent, si un titre est visible uniquement par l'augmentation de la taille de ses caractères, il ne sera pas accessible facilement. Alors que s'il est borné par les balise `<h2>` et `</h2>`il sera repéré rapidement et facilitera la compréhension du contenu.
 
-Autre point important, pour naviguer sur un ordinateur, **un aveugle n'utilise pas sa souris**. La navigation passe alors exclusivement par des commandes du clavier, comme par exemple les flèches ou la tabulation. Cela conditionne les stratégies de navigation et de recherche de contenus, comme nous avons pu le voir en naviguant sur la plateforme data.gouv.fr. 
+Autre point important, pour naviguer sur un ordinateur, **un aveugle n'utilise pas sa souris**. La navigation passe alors exclusivement par des commandes du clavier, comme par exemple les flèches ou la tabulation. Cela conditionne les stratégies de navigation et de recherche de contenus, comme nous avons pu le voir en naviguant sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/). 
 Par exemple, la recherche plein texte sur l'ensemble du contenu de la page est un mode de navigation exhaustif mais long et fastidieux. Le mode de navigation par titres permet de découvrir tous les titres et de comprendre la hiérarchisation de l'information. Il existe aussi d'autres stratégies de navigation comme la recherche par liens, par boutons ou par champs de saisie de la page. Ce dernier permet bien souvent d'obtenir un accès au moteur de recherche du site.
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🔴 Démo <a href="https://twitter.com/hashtag/accessibilit%C3%A9?src=hash&amp;ref_src=twsrc%5Etfw">#accessibilité</a> web à la DINSIC par notre expert Jamshid Kohandel#a11y <a href="https://t.co/D3YNk6IyZo">https://t.co/D3YNk6IyZo</a></p>&mdash; _DINSIC (@_DINSIC) <a href="https://twitter.com/_DINSIC/status/1113729821161295872?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- _CLiquez sur le tweet pour revoir la démonstration de Jamshid_
+ _Cliquez sur le tweet pour revoir la démonstration de Jamshid_
 
 Nous avons ensuite cherché un jeu de donnée, un fichier Excel que nous avons pu télécharger et analyser. A la fin de cette première démonstration, une nouvelle question a émergé : comment un non-voyant navigue en ligne sur son mobile ?
 
 ### 2. Démonstration sur mobile - Ameli, Tchap... 
 
-Lors de la seconde démonstration, Jamshid était accompagné de Fernando Pinto da Silva également expert en accessibilité numérique et non-voyant. 
+Lors de la seconde démonstration, Jamshid a été accompagné de Fernando Pinto da Silva également expert en accessibilité numérique et non-voyant. 
 
 Pour la démonstration, ils ont utilisés un iPhone et le lecteur d'écran VoiceOver intégré au système d'exploitation MacOs (pour Android, il y a le lecteur d'écran TalkBack). Un utilisateur lambda qui navigue sur son smartphone déclenche une action à chaque fois qu'il touche un élément sur son écran. **Un aveugle utilise le lecteur d'écran pour décrire tout ce qu'il touche.** Il utilise ensuite des gestes supplémentaires pour déclencher une action. Il s'agit là du premier enseignement de la démonstration.
 
@@ -68,28 +67,28 @@ Deuxième enseignement : **il existe entre 50 et 60 gestuelles de navigation ave
 - la double tape sur l'écran pour ouvrir un dossier ou une application ;
 - le mouvement circulaire avec deux doigts sur l’écran, comme si l'on souhaitait remonter une vieille horloge, pour sélectionner une option.
 
-Enfin, **il est également possible de connecter un lecteur en braille nommé "plage braille"** (en bluetooth) afin de naviguer sur son mobile. Fernando a ainsi pu ouvrir l'application Ameli à travers sa plage braille, et en désactivant la voix. Ce dispositif est utile par exemple pour les personnes sourdes-aveugles.
+Enfin, **il est également possible de connecter un lecteur en braille nommé "plage braille"** (en bluetooth) afin de naviguer sur son mobile. Fernando a ainsi pu ouvrir l'application Ameli à travers sa plage braille, en désactivant la voix. Ce dispositif est utile par exemple pour les personnes sourdes-aveugles.
 
 **Application Ameli**
 
-Dans le cadre de la démonstration nous avons pu ouvrir l'[application Ameli](https://apps.apple.com/fr/app/ameli-lassurance-maladie/id620447173) afin de comprendre ce qui était accessible et ce qui ne l'était pas. Nous avons pu observer un bouton sans label, nous questionnant sur l'utilité de celui-ci, un champ de texte décrit comme étant à saisir alors qu'il ne l'était pas et un bouton cité comme "Dashboard menu BTN white" qui n'était donc d'aucune aide pour naviguer.
+Dans le cadre de la démonstration nous avons pu ouvrir l'[application Ameli](https://apps.apple.com/fr/app/ameli-lassurance-maladie/id620447173) afin de comprendre ce qui était accessible et ce qui ne l'était pas. Nous avons pu observer un bouton sans label, nous questionnant sur l'utilité de celui-ci. De plus, nous avons visualiser un champ de texte décrit comme étant à saisir (malheureusement il ne l'était). Enfin, un bouton a été nommé par le lecteur d'ecran "Dashboard menu BTN white" nous offrant aucune aide à la navigation.
 
 **Application Tchap**
 
-Jamshid nous a ensuite présenté l'[application Tchap](https://www.tchap.gouv.fr/). Dans la navigation, nous avons observé quelques éléments mal décrits ou même non définis, laissant planer rapidement un doute sur les actions à réaliser. Ensuite nous avons pu échanger des messages sur l'application Tchap, nous permettant de comprendre comment les aveugles utilisent le clavier virtuel du smartphone. (**COMMENTAIRE Sophie : est-ce que ça vaut le coup de décrire comment ils s'en servent ou d'expliquer ce que cela a d'intéressant en terme d'apprentissage pour les spectateurs ?**)
+Jamshid nous a ensuite présenté l'[application Tchap](https://www.tchap.gouv.fr/). Dans la navigation, nous avons observé quelques éléments mal décrits ou même non définis, laissant planer rapidement un doute sur les actions à réaliser. Ensuite nous avons pu échanger des messages sur l'application Tchap, nous permettant de comprendre comment les aveugles utilisent le clavier virtuel du smartphone (cf. vidéo ci-dessus).
 
 ### Au-delà de l'accessibilité numérique, le numérique comme outil d'accessibilité
 
-Jamshid nous a présenté l'application [Scanner](https://apps.apple.com/us/app/scanner/id1291962681https://apps.apple.com/us/app/scanner/id1291962681). Celle-ci permet de prendre en photo une page contenant du texte. Le texte est ensuite lu par la synthèse vocale ce qui permet, par exemple, de lire l'addition d'un restaurant ou un courrier administratif.
+Jamshid nous a également présenté l'application [Scanner](https://apps.apple.com/us/app/scanner/id1291962681https://apps.apple.com/us/app/scanner/id1291962681). Celle-ci permet de prendre en photo une page contenant du texte. Le texte est ensuite lu par la synthèse vocale ce qui permet, par exemple, de lire l'addition d'un restaurant ou un courrier administratif.
 
-Jamshid nous a également présenté l'application [BlindSquare](https://apps.apple.com/fr/app/blindsquare/id500557255). Cette application a été conçue pour les aveugles afin de connaître tout ce qui se situe dans leur environnement immédiat (restaurant, parc, musée, boutique...). Couplée à une application de navigation (Maps ou Plan), elle permet à Jamshid de se déplacer au quotidien.
+Enfin, Jamshid nous a présenté l'application [BlindSquare](https://apps.apple.com/fr/app/blindsquare/id500557255). Cette application a été conçue pour les aveugles afin de connaître tout ce qui se situe dans leur environnement immédiat (restaurant, parc, musée, boutique...). Couplée à une application de navigation (Maps ou Plan), elle permet à Jamshid de se déplacer au quotidien.
 
 ## Voir l'inaccessible
 
 L'observation de l'utilisateur, afin de comprendre son expérience particulière et ses usages, est riche d'enseignement ; pour nous concepteur, ces démonstrations ont permis d'appréhender les difficultés et les bonnes pratiques d'accessibilité, mais aussi d'utilisabilité, de nos interfaces. Nous vérifions trop souvent nos sites dans notre propre contexte : il est indispensable de se décentrer !
 
-Par ailleurs, l'accessibilité numérique semble être un domaine chargé de normes et de règles techniques. En réalité, elle définit uniquement ce qui doit être produit par les concepteurs et les développeurs web selon un standard. Cela demande de la rigueur et cela est utile car il existe quantité de contextes utilisateur que nous ne maîtrisons pas.
+Par ailleurs, l'accessibilité numérique semble être un domaine chargé de normes et de règles techniques. En réalité, elle définit uniquement ce qui doit être produit par les concepteurs et les développeurs web selon un standard. Cela demande de la rigueur.
 
 En un mot, nous vous recommandons fortement d'organiser cette démonstration pour sensibiliser vos concepteurs et  vos développeurs aux enjeux des normes d'accessibilité ! 
 
-Pour organiser une démonstration dans votre administration, vous pouvez prendre contact avec l'équipe Qualité des services en ligne : **COMMENTAIRE Sophie : ajouter une adresse**
+Pour organiser une démonstration dans votre administration, vous pouvez prendre contact avec l'équipe [Qualité des services en ligne](https://references.modernisation.gouv.fr/contact).
