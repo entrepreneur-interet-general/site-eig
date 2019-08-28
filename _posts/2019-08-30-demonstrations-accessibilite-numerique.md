@@ -1,12 +1,12 @@
 ---
 author: Jean-Baptiste Le Dévéhat, EIG Link
-description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fernando Pinto da Silva vous montrent comment un non-voyant navigue depuis son smartphone sur des sites internet et applications, grâce à un lecteur d’écran. Vous découvrirez ainsi les gestes et outils de navigation, ainsi que les problématiques auxquelles sont confrontés les aveugles sur smartphone. Vous comprendrez ainsi l’importance de bien concevoir les services numériques, en prenant en compte les spécificités de navigation des non-voyants, en vue de créer des services réellement accessibles à tous."
+description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fernando Pinto da Silva vous montrent comment un aveugle navigue depuis son ordinateur et depuis son smartphone sur des sites internet et applications. Ce que vous découvrirez : les outils et les gestes de navigation, les erreurs de conception les plus fréquentes, l'importance de bien concevoir les services numériques réellement accessibles à tous."
 image: /img/blog/demo-a11y-20190404.jpeg
 layout: post
 tags:
 - design
 - écosystème
-title: "Démonstrations : Comment un non-voyant navigue sur le web ?"
+title: "Démonstrations : comment un aveugle navigue sur le web ?"
 twitter: jbledevehat
 ---
 
