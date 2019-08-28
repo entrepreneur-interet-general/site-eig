@@ -341,7 +341,7 @@
       description: "avis analysés"
     - amount: 14
       description: "indicateurs calculés"
-      
+
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
   title: "AchaDef"
@@ -360,9 +360,9 @@
   mentors:
     - "Jérémy Bakkalian"
     - "Stéphane Petit"
-    
+
 "Alphabet":
-  image: /img/defis/dig/02.png
+  image: /img/defis/dig/Alphabet.png
   title: "Alphabet"
   link_to: /defis/2019/alphabet.html
   class: 2019 dig design
@@ -381,9 +381,9 @@
     - "Marine Gout"
     - "Jérôme Letanou"
     - "Laurent Le Prieur"
-    
+
 "App 112":
-  image: /img/defis/dig/01.png
+  image: /img/defis/dig/App-112.png
   title: "App 112"
   link_to: /defis/2019/app-112.html
   class: 2019 dig design
@@ -402,7 +402,7 @@
     - "David Vigier"
 
 "FranceCo":
-  image: /img/defis/dig/07.png
+  image: /img/defis/dig/FranceCo.png
   title: "FranceCo"
   link_to: /defis/2019/franceco.html
   class: 2019 dig design
@@ -421,7 +421,7 @@
     - "Vincent Bataille"
 
 "ID numérique":
-  image: /img/defis/dig/06.png
+  image: /img/defis/dig/ID-numerique.png
   title: "ID numérique"
   link_to: /defis/2019/id-numerique.html
   class: 2019 dig design
@@ -440,7 +440,7 @@
     - "Valérie Peneau"
 
 "INPN Espaces":
-  image: /img/defis/dig/12.png
+  image: /img/defis/dig/INPN-Espaces.png
   title: "INPN Espaces"
   link_to: /defis/2019/inpn-espaces.html
   class: 2019 dig design
@@ -457,9 +457,9 @@
   mentors:
     - "Mathieu Clair"
     - "Jean-Denis Vigne"
-    
+
 "Ma famille ici":
-  image: /img/defis/dig/17.png
+  image: /img/defis/dig/MaFamilleIci.png
   title: "Ma famille ici"
   link_to: /defis/2019/ma-famille-ici.html
   class: 2019 dig design
@@ -478,7 +478,7 @@
     - "Régis Perol"
 
 "Maritux":
-  image: /img/defis/dig/maritux.png
+  image: /img/defis/dig/Maritux.png
   title: "Maritux"
   link_to: /defis/2019/maritux.html
   class: 2019 dig design
@@ -497,7 +497,7 @@
     - "Gilles Martinoty"
 
 "PlaniPref":
-  image: /img/defis/dig/10.png
+  image: /img/defis/dig/PlaniPref.png
   title: "PlaniPref"
   link_to: /defis/2019/planipref.html
   class: 2019 dig design
@@ -515,9 +515,9 @@
     - "Marie Juille"
     - "Olivier Benoist"
     - "Laurent Buchaillat"
-    
+
 "plateforme Handicap":
-  image: /img/defis/dig/03.png
+  image: /img/defis/dig/Plateforme-Handicap.png
   title: "plateforme Handicap"
   link_to: /defis/2019/plateforme-handicap.html
   class: 2019 dig design
@@ -537,7 +537,7 @@
     - "Béatrice Clément"
 
 "ProxiRH":
-  image: /img/defis/dig/05.png
+  image: /img/defis/dig/ProxiRH.png
   title: "ProxiRH"
   link_to: /defis/2019/proxi-rh.html
   class: 2019 dig design
@@ -554,9 +554,9 @@
   mentors:
     - "Jérôme Blondon"
     - "Pierre Arène"
-  
+
 "Recrues":
-  image: /img/defis/dig/14.png
+  image: /img/defis/dig/Recrues.png
   title: "Recrues"
   link_to: /defis/2019/recrues.html
   class: 2019 dig design
@@ -575,9 +575,9 @@
     - "Hervé Béguinot"
     - "Michael Fumery"
     - "Armando De Oliveira"
-    
+
 "RembourSanté":
-  image: /img/defis/dig/04.png
+  image: /img/defis/dig/RembourSante.png
   title: "RembourSanté"
   link_to: /defis/2019/remboursante.html
   class: 2019 dig design
@@ -596,7 +596,7 @@
     - "Catherine Duyck-Bagot"
 
 "Résorption bidonvilles":
-  image: /img/defis/dig/13.png
+  image: /img/defis/dig/ResorptionBidonvilles.png
   title: "Résorption bidonvilles"
   link_to: /defis/2019/resorption-bidonvilles.html
   class: 2019 dig design
@@ -613,9 +613,9 @@
   mentors:
     - "Sophie Jacquemont"
     - "Manuel Demougeot"
-    
+
 "Sequoia":
-  image: /img/defis/dig/11.png
+  image: /img/defis/dig/Sequoia.png
   title: "Sequoia"
   link_to: /defis/2019/sequoia.html
   class: 2019 dig design
@@ -634,9 +634,9 @@
     - "Olivier Garry"
     - "Laurent Delgado"
     - "Thomas Lesueur"
-    
+
 "vigicr'UX":
-  image: /img/defis/dig/16.png
+  image: /img/defis/dig/VigicrUX.png
   title: "vigicr'UX"
   link_to: /defis/2019/vigicrux.html
   class: 2019 dig design
