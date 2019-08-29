@@ -1,6 +1,14 @@
 ---
 layout: personne
 nom: Sami Moustachir
+website:
+annees: 2018
+defis: 
+  - nom: DataESR
+    site: /defis/2018/dataesr.html
+profil: Datascientiste
+images:
+  - /img/communaute/sami-moustachir.png
 ---
 
 « J'ai découvert le monde de l'entrepreneuriat en 2015 où j'ai aidé des

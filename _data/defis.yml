@@ -44,7 +44,7 @@
   class: 2019 data web
   skills: EIG 3 // Data // Web
   colorback: red
-  description: Cartographier les parcelles d'agricultures biologiques
+  description: "Cartographier les parcelles d'agricultures biologiques"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -56,7 +56,6 @@
   mentors:
     - "Samir Kebli"
     - "Dorian Flechet"
-
 
 "CibNav":
   image: /img/logo-cib-nav.png
@@ -85,7 +84,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: Construire un référentiel d'indemnisation des préjudices corporels
+  description: "Construire un référentiel d'indemnisation des préjudices corporels"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -105,7 +104,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: Maximiser l’exploitation des données de l'Arcep
+  description: "Maximiser l’exploitation des données de l'Arcep"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -124,8 +123,8 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: Accompagner un collectif numérique d’intérêt général au sein de l'État
-  administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
+  description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
+  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
@@ -177,14 +176,12 @@
   mentors:
     - "Daniel Ansellem"
   projects:
-    -
-      image: img/realisations/2019/matchvec.png
+    - image: img/realisations/2019/matchvec.png
       title: "Détection des marque et modèle du véhicule"
       description: "Nous avons conçu une brique d'intelligence artificielle pour détecter la marque et modèle de véhicules dans une photo."
       url: https://iaflash.fr/testapi/matchvec
       call_to_action: "Tester l'API"
-    -
-      image: img/realisations/2019/sivnorm.png
+    - image: img/realisations/2019/sivnorm.png
       title: "Match flou de la marque et modèle des véhicules dans la carte grise à partir d'un référentiel"
       description: "Nous avons développé un outil pour nettoyer les champs marque et modèle de la carte grise en le rapprochant à un référentiel."
       url: https://iaflash.fr/testapi/sivnorm
@@ -192,7 +189,7 @@
 
 "Karfu'R":
   image: /img/logo-karfur.png
-  title: Karfu'R
+  title: "Karfu'R"
   link_to: /defis/2019/karfur.html
   class: 2019 web design
   skills: EIG 3 // Web // Design
@@ -201,7 +198,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)
+  administration : "Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)"
   administration_website: http://accueil-integration-refugies.fr
   eigs:
     - "Hugo Stéphan"
@@ -218,11 +215,11 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: Evaluer l'impact des réformes socio-fiscales sur les citoyens
+  description: "Evaluer l'impact des réformes socio-fiscales sur les citoyens"
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)
+  administration: "Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)"
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -677,18 +674,14 @@
     - "Chloé Moser"
     - "Anne Lambert"
   key_figures:
-    -
-      amount: 20
+    - amount: 20
       description: "ateliers utilisateurs réalisés"
-    -
-      amount: 10
+    - amount: 10
       description: "versions sorties"
-    -
-      amount: 1000
+    - amount: 1000
       description: "utilisateurs uniques depuis le lancement"
   end_of_project_videos:
-    -
-      id: x6y009x
+    - id: x6y009x
       platform: dailymotion
       description: "10 mois après : présentation du défi Archifiltre."
       show: true
@@ -712,21 +705,16 @@
   mentors:
     - "Éric Le Guen"
   key_figures:
-    -
-      amount: 8043
+    - amount: 8043
       description: "balises comparées"
-    -
-      amount: 800
+    - amount: 800
       description: "objets complétés"
-    -
-      amount: 5800
+    - amount: 5800
       description: "balises à publier"
-    -
-      amount: 42
+    - amount: 42
       description: "normes explorées"
   end_of_project_videos:
-    -
-      id: x6y2cl0
+    - id: x6y2cl0
       platform: dailymotion
       description: "10 mois après : présentation du défi b@liseNAV."
       show: true
@@ -738,11 +726,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: Moderniser la fonction d'accueil en brigade
+  description: "Moderniser la fonction d'accueil en brigade"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
+  administration: "Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)"
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
   eigs:
@@ -752,21 +740,16 @@
     - "Marielle Chrisment"
     - "Rémy Nollet"
   key_figures:
-    -
-      amount: 1300
+    - amount: 1300
       description: "demandes/semaine à la Brigade Numérique"
-    -
-      amount: 60
+    - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    -
-      amount: 8.7
+    - amount: 8.7
       description: "note moyenne de satisfaction des citoyens"
-    -
-      amount: 3080
+    - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
   end_of_project_videos:
-    -
-      id: x6y04vu
+    - id: x6y04vu
       platform: dailymotion
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
@@ -778,11 +761,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: Améliorer la réussite scolaire avec les données d'apprentissage
+  description: "Améliorer la réussite scolaire avec les données d'apprentissage"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation
+  administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
   administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
     - "David Panou"
@@ -791,18 +774,14 @@
     - "Claudio Cimelli"
     - "François Bocquet"
   key_figures:
-    -
-      amount: 250000
+    - amount: 250000
       description: "lignes de données analysées"
-    -
-      amount: 2
+    - amount: 2
       description: "bibliothèques open source publiées"
-    -
-      amount: 5
+    - amount: 5
       description: "ateliers de travail avec des chercheurs et pédagogues"
   end_of_project_videos:
-    -
-      id: x6y0472
+    - id: x6y0472
       platform: dailymotion
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
@@ -815,7 +794,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
-  administration: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
+  administration: "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision"
   administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
   year: 2018
   duration_months: 10
@@ -828,21 +807,16 @@
     - "Yann Caradec"
     - "Emmanuel Weisenburger"
   key_figures:
-    -
-      amount: 5
+    - amount: 5
       description: "API créées"
-    -
-      amount: 20000000
+    - amount: 20000000
       description: "publications traitées"
-    -
-      amount: 4000
+    - amount: 4000
       description: "établissements répertoriés"
-    -
-      amount: 12000
+    - amount: 12000
       description: "structures de recherche"
   end_of_project_videos:
-    -
-      id: x6y04gp
+    - id: x6y04gp
       platform: dailymotion
       description: "10 mois après : présentation du défi DataESR."
       show: true
@@ -855,7 +829,7 @@
   skills: EIG 2 // Web
   colorback: blue
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
+  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
@@ -866,21 +840,16 @@
   mentors:
     - "Mathilde Bras"
   key_figures:
-    -
-      amount: 2
+    - amount: 2
       description: "journées garagethon à Etalab"
-    -
-      amount: 2
+    - amount: 2
       description: "Etalab talk à Etalab"
-    -
-      amount: 1
+    - amount: 1
       description: "journée de contribution à Wikipédia"
-    -
-      amount: 1
+    - amount: 1
       description: "jeu de données publié"
   end_of_project_videos:
-    -
-      id: x6y04qm
+    - id: x6y04qm
       platform: dailymotion
       description: "10 mois après : présentation du défi EIG Link."
       show: true
@@ -907,45 +876,35 @@
     - "Hélène Cavalié"
     - "Jérôme Poulain"
   key_figures:
-    -
-      amount: 65000
+    - amount: 65000
       description: "objets en ligne"
-    -
-      amount: 25000
+    - amount: 25000
       description: "photos d'objets"
-    -
-      amount: 337
+    - amount: 337
       description: "photos des métiers d'art sur Wikimedia Commons"
-    -
-      amount: 11000
+    - amount: 11000
       description: "photos téléchargeables et réutilisables"
   end_of_project_videos:
-    -
-      id: x6y056l
+    - id: x6y056l
       platform: dailymotion
       description: "10 mois après : présentation du défi Gobelins"
       show: true
   projects:
-    -
-      image: img/realisations/2018/gobelins-collection-mn.jpg
+    - image: img/realisations/2018/gobelins-collection-mn.jpg
       title: "La collection du Mobilier national"
       description: "Nous avons mis en ligne les meubles, textiles, œuvres… de l’institution et réalisé un site pour faciliter l’accès et la découvrabilité de ces ressources."
       url: https://collection.mobiliernational.culture.gouv.fr/
       call_to_action: "Consulter la collection"
-    -
-      image: img/realisations/2018/gobelins-wikipedia-mn.jpg
+    - image: img/realisations/2018/gobelins-wikipedia-mn.jpg
       title: "Atelier Wikimedia"
       description: "Nous avons initié différents partenariats comme celui avec Wikimedia afin d’enrichir les données et documenter les savoir-faire de l’institution, notamment grâce à des photographies."
       url: https://commons.wikimedia.org/wiki/Category:Atelier_Mobilier_national_du_21_septembre_2018
       call_to_action: "Parcourir les photographies"
-    -
-      image: img/realisations/2018/gobelins-github.jpg
+    - image: img/realisations/2018/gobelins-github.jpg
       title: "Code source ouvert"
       description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d'autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
-
-
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -954,11 +913,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: Lutter contre la fraude financière et enrayer l'économie souterraine
+  description: "Lutter contre la fraude financière et enrayer l'économie souterraine"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère de l'Action et des Comptes Publics
+  administration: "Ministère de l'Action et des Comptes Publics"
   administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
   eigs:
@@ -968,21 +927,16 @@
   mentors:
     - "Delphine Lê"
   key_figures:
-    -
-      amount: 5
+    - amount: 5
       description: "ateliers data science"
-    -
-      amount: 3
+    - amount: 3
       description: "articles de blog"
-    -
-      amount: 100000
+    - amount: 100000
       description: "documents analysés"
-    -
-      amount: 500000
+    - amount: 500000
       description: "mots différents"
   end_of_project_videos:
-    -
-      id: x6y2cs5
+    - id: x6y2cs5
       platform: dailymotion
       description: "10 mois après : présentation du défi Hopkins"
       show: true
@@ -998,7 +952,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques
+  administration: "Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
     - "Samah Ghalloussi"
@@ -1007,21 +961,16 @@
   mentors:
     - "Stéphanie Combes"
   key_figures:
-    -
-      amount: 60
+    - amount: 60
       description: "agents formés à R et Python"
-    -
-      amount: 29
+    - amount: 29
       description: "projets créés sur Gitlab"
-    -
-      amount: 8
+    - amount: 8
       description: "sessions d'accompagnement à la datascience"
-    -
-      amount: 12
+    - amount: 12
       description: "applications open source"
   end_of_project_videos:
-    -
-      id: x6y04tp
+    - id: x6y04tp
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
@@ -1048,45 +997,36 @@
     - "Laurence Matringe"
     - "Renaud Périn"
   key_figures:
-    -
-      amount: 275000
+    - amount: 275000
       description: "opérations d'assistance et de sauvetage en mer en open data"
-    -
-      amount: 75
+    - amount: 75
       description: "pages de documents écrites pour convaincre l'administration"
-    -
-      amount: 20
+    - amount: 20
       description: "agents formés à l'analyse de données"
-    -
-      amount: 17
+    - amount: 17
       description: "répertoires sur GitHub"
   end_of_project_videos:
-    -
-      id: x6y04yt
+    - id: x6y04yt
       platform: dailymotion
       description: "10 mois après : présentation du défi PrédiSauvetage."
       show: true
   projects:
-    -
-      image: img/realisations/2018/carte-snosan.png
+    - image: img/realisations/2018/carte-snosan.png
       title: "Carte des opérations en mer"
       description: "Nous avons réalisé une carte intéractive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
       url: https://carte.snosan.fr
       call_to_action: "Parcourir les opérations"
-    -
-      image: img/realisations/2018/snosan.png
+    - image: img/realisations/2018/snosan.png
       title: "Observatoire interministériel"
       description: "Nous avons assisté et fait évoluer l'observatoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN. Il dispose de nouveaux outils suite à notre défi."
       url: https://www.snosan.fr
       call_to_action: "Visiter l'observatoire"
-    -
-      image: img/realisations/2018/snosan-opendata.png
+    - image: img/realisations/2018/snosan-opendata.png
       title: "Open data"
       description: "Nous avons mis à disposition les données brutes des opérations d'assistance et de sauvetage coordonnées par la France depuis 1985. Ces données correspondent à près de 300 000 opérations et sont mises à jour de manière quotidienne automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/
       call_to_action: "Voir les données brutes"
-    -
-      image: img/realisations/2018/snosan-code.png
+    - image: img/realisations/2018/snosan-code.png
       title: "Logiciels libres"
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
       url: https://github.com/search?q=topic%3Apredisauvetage
@@ -1100,7 +1040,7 @@
   skills: EIG 2 // Web // Data
   colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
-  administration: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
+  administration: "Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données"
   administration_website: https://www.interieur.gouv.fr
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
@@ -1113,39 +1053,31 @@
   mentors:
     - "Daniel Ansellem"
   key_figures:
-    -
-      amount: 1
+    - amount: 1
       description: "carte météo des interventions"
-    -
-      amount: 1200
+    - amount: 1200
       description: "jeux de données"
-    -
-      amount: 13
+    - amount: 13
       description: "sources de données"
-    -
-      amount: 4300
+    - amount: 4300
       description: "lignes de code"
   end_of_project_videos:
-    -
-      id: x6y055b
+    - id: x6y055b
       platform: dailymotion
       description: "10 mois après : présentation du défi Prévisecours"
       show: true
   projects:
-    -
-      image: img/realisations/2018/previsecours-correlations.png
+    - image: img/realisations/2018/previsecours-correlations.png
       title: "Étude de corrélation"
       description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactants dans chaque catégorie d'intervention."
       url: https://previsecours.fr/assets/pdf/correlations.pdf
       call_to_action: "Voir les corrélations"
-    -
-      image: img/realisations/2018/previsecours-carte.png
+    - image: img/realisations/2018/previsecours-carte.png
       title: "Carte météo des interventions"
       description: "Nous avons réalisé une carte interactive pour visualiser les interventions à venir des pompiers de l'Essonne. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
       url: https://viz.previsecours.fr/#/
       call_to_action: "Voir la carte"
-    -
-      image: img/realisations/2018/previsecours-opendata.png
+    - image: img/realisations/2018/previsecours-opendata.png
       title: "Open data"
       description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l'Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
@@ -1159,7 +1091,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
-  administration: Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
+  administration: "Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
   administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
@@ -1171,21 +1103,16 @@
   mentors:
     - "Stéphanie Schaer"
   key_figures:
-    -
-      amount: 24
+    - amount: 24
       description: "visites réalisées"
-    -
-      amount: 18
+    - amount: 18
       description: "entreprises accompagnées"
-    -
-      amount: 13
+    - amount: 13
       description: "agents utilisateurs en Bourgogne-Franche-Comté"
-    -
-      amount: 4
+    - amount: 4
       description: "services de l'État contributeurs"
   end_of_project_videos:
-    -
-      id: x6y059s
+    - id: x6y059s
       platform: dailymotion
       description: "10 mois après : présentation du défi Signaux Faibles"
       show: true
@@ -1197,11 +1124,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: Repérer et mettre en réseau l'innovation sociale dans les territoires
+  description: "Repérer et mettre en réseau l'innovation sociale dans les territoires"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales
+  administration: "Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales"
   administration_website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
@@ -1211,21 +1138,16 @@
   mentors:
     - "Bénédicte Pachod"
   key_figures:
-    -
-      amount: 17
+    - amount: 17
       description: "ateliers de co-construction"
-    -
-      amount: 3
+    - amount: 3
       description: "prototypes d'application open source"
-    -
-      amount: 1030
+    - amount: 1030
       description: "visites sur la version bêta"
-    -
-      amount: 12600
+    - amount: 12600
       description: "projets d'innovation sociale en ligne"
   end_of_project_videos:
-    -
-      id: x6y006d
+    - id: x6y006d
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
@@ -1250,18 +1172,15 @@
   mentors:
     - "Antoine Chèvre"
   end_of_project_videos:
-    -
-      id: x6b9mca
+    - id: x6b9mca
       platform: dailymotion
       description: "Restitution du défi AFD - Geodata."
       show: false
-    -
-      id: x5qmebk
+    - id: x5qmebk
       platform: dailymotion
       description: "Interview d'Étienne David sur son parcours et sur le défi AFD - Geodata."
       show: false
-    -
-      id: x64z39y
+    - id: x64z39y
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1285,18 +1204,15 @@
   mentors:
     - "Didier Hève"
   end_of_project_videos:
-    -
-      id: x6b9n0b
+    - id: x6b9n0b
       platform: dailymotion
       description: "Restitution du défi ARS - Parcours de soin."
       show: false
-    -
-      id: x5qmeal
+    - id: x5qmeal
       platform: dailymotion
       description: "Interview de Sébastien Cossin sur son parcours et sur le défi ARS - Parcours de soin."
       show: false
-    -
-      id: x64z39z
+    - id: x64z39z
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1319,13 +1235,11 @@
   mentors:
     - "Emmanuelle Bermès"
   end_of_project_videos:
-    -
-      id: x6b9b32
+    - id: x6b9b32
       platform: dailymotion
       description: "Restitution du défi BNF - catalogage."
       show: false
-    -
-      id: x5qme4i
+    - id: x5qme4i
       platform: dailymotion
       description: "Interview de Constance sur son défi au sein du Bibliothèque nationale de France."
       show: true
@@ -1349,18 +1263,15 @@
   mentors:
     - "Adnène Trojette"
   end_of_project_videos:
-    -
-      id: x6b9pl4
+    - id: x6b9pl4
       platform: dailymotion
       description: "Restitution du défi CC - API rapports."
       show: false
-    -
-      id: x5qmdzt
+    - id: x5qmdzt
       platform: dailymotion
       description: "Interview de Frédéric Bardolle sur son parcours et le défi CC-API Rapports."
       show: false
-    -
-      id: x64z39x
+    - id: x64z39x
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1383,18 +1294,15 @@
   mentors:
     - "Philippe Schall"
   end_of_project_videos:
-    -
-      id: x6b964b
+    - id: x6b964b
       platform: dailymotion
       description: "Restitution du défi DGFiP - fraude fiscale."
       show: false
-    -
-      id: x5qme9l
+    - id: x5qme9l
       platform: dailymotion
       description: "Interview de Marion Paclot sur son parcours et son défi au sein de la DGFIP."
       show: false
-    -
-      id: x64z39u
+    - id: x64z39u
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1421,18 +1329,15 @@
     - "Marie-Véronique Leroi"
     - "Sophie Cueille"
   end_of_project_videos:
-    -
-      id: x6b96fi
+    - id: x6b96fi
       platform: dailymotion
       description: "Restitution du défi MCC - Inventaire des orgues."
       show: false
-    -
-      id: x5qmec2
+    - id: x5qmec2
       platform: dailymotion
       description: "Interview de Bastien Guerry sur son parcours et sur le défi MCC - Inventaire des Orgues."
       show: false
-    -
-      id: x64z39q
+    - id: x64z39q
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1448,7 +1353,7 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation
+  administration: "Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation"
   administration_website: http://www.enseignementsup-recherche.gouv.fr
   source_code: https://entrepreneur-interet-general/Merge-Machine
   eigs:
@@ -1458,18 +1363,15 @@
     - "Emmanuel Weisenburger"
     - "Yann Caradec"
   end_of_project_videos:
-    -
-      id: x6b9mnj
+    - id: x6b9mnj
       platform: dailymotion
       description: "Restitution du défi MESRI - La machine à données."
       show: false
-    -
-      id: x5qmecy
+    - id: x5qmecy
       platform: dailymotion
       description: "Interview de Laurent Dupont sur son parcours et sur le défi MESRI - La machine à données."
       show: false
-    -
-      id: x64z39w
+    - id: x64z39w
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
@@ -1485,7 +1387,7 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: Ministère de l'Intérieur
+  administration: "Ministère de l'Intérieur"
   administration_website: https://www.interieur.gouv.fr
   source_code: https://github.com/entrepreneur-interet-general/cartav
   eigs:
@@ -1494,23 +1396,19 @@
     - "Tristram Gräbener"
     - "Daniel Ansellem"
   end_of_project_videos:
-    -
-      id: x6b7xxc
+    - id: x6b7xxc
       platform: dailymotion
       description: "Restitution du défi MI - cartAV."
       show: false
-    -
-      id: x64z28u
+    - id: x64z28u
       platform: dailymotion
       description: "Interview de Tristram Gräbener et de Francis Chabouis sur leurs parcours et le défi cartAV."
       show: false
-    -
-      id: x5qme82
+    - id: x5qme82
       platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
-    -
-      id: x7bmkan
+    - id: x7bmkan
       platform: dailymotion
       description: "Découvrez l'outil CartAv"
       show: true
@@ -1523,7 +1421,7 @@
   skills: EIG 1 // Data // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
-  administration: Ministère de l'Intérieur
+  administration: "Ministère de l'Intérieur"
   administration_website: https://www.interieur.gouv.fr/
   source_code: https://matchid-project.github.io/
   year: 2017
@@ -1534,18 +1432,15 @@
   mentors:
     - "Daniel Ansellem"
   end_of_project_videos:
-    -
-      id: x6b7xzu
+    - id: x6b7xzu
       platform: dailymotion
       description: "Restitution du MI - matchID."
       show: false
-    -
-      id: x5qmecy
+    - id: x5qmecy
       platform: dailymotion
       description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
       show: false
-    -
-      id: x64z39w
+    - id: x64z39w
       platform: x64z3a0
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
