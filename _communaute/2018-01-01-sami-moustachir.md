@@ -8,7 +8,7 @@ annees: 2018
 defis: 
   - nom: DataESR
     site: /defis/2018/dataesr.html
-profil: Datascience
+profil: Datascientiste
 images:
   - /img/communaute/sami-moustachir.png
 ---

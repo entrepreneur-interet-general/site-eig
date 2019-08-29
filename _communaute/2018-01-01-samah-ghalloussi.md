@@ -7,7 +7,7 @@ annees: 2018
 defis: 
   - nom: Lab Santé
     site: /defis/2018/labsante.html
-profil: Datascience
+profil: Datascientiste
 images:
   - /img/communaute/Samah-Ghalloussi.png
 ---
