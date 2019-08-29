@@ -1,18 +1,6 @@
 ---
 layout: personne
-twitter: trojette
-github: trojette
-nom: Mohammed Adnène Trojette
-website:
-annees: 2017, 2019
-defis: 
-  - nom: CC - API rapports
-    site: /defis/2017/cc-api-rapports.html
-  - nom: Plume
-    site: /defis/2019/plume.html
-profil: Mentor
-images:
-  - /img/communaute/adnene-trojette.png
+nom: Adnène Trojette
 ---
 
 Mohammed Adnène Trojette est secrétaire général adjoint de la Cour des

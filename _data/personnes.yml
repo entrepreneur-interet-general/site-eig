@@ -1,1402 +1,3152 @@
-"Adnène Trojette":
-  image: img/communaute/miniatures/adnene-trojette.png
-  title: Adnène Trojette
+Adnène Trojette:
+  annees:
+  - 2017
+  - 2019
+  class:
+  - mentor
+  defis:
+  - CC - API rapports
+  - Plume
+  github: trojette
+  gitlab:
+  image_url: /img/communaute/adnene-trojette.png
   link_to: /communaute/2019/adnene-trojette.html
-  annees:
-  - 2017
-  - 2019
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2019/plume.html" target="new">CC-API rapports, Plume</a>
-  class: 2019 mentor
-
-"Adrien Signorino":
-  image: img/communaute/miniatures/AdrienSignorino.png
-  title: Adrien Signorino
+  programme: EIG
+  title: Adnène Trojette
+  twitter: trojette
+  website:
+Adrien Signorino:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - datascientist
+  defis:
+  - b@liseNAV
+  github: sign0
+  gitlab:
+  image_url: /img/communaute/AdrienSignorino.png
   link_to: /communaute/2018/adrien-signorino.html
-  annees:
-  - 2018
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2018/balisenav.html" target="new">b@liseNAV</a>
+  programme: EIG
+  title: Adrien Signorino
+  twitter: signoOngis
+  website:
+Alain Régnier:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - eig
-  - datascientist
-
-"Alain Régnier":
-  image: img/communaute/miniatures/alain-regnier.png
-  title: Alain Régnier
+  - mentor
+  defis:
+  - Karfu'R
+  github:
+  gitlab:
+  image_url: /img/communaute/alain-regnier.png
   link_to: /communaute/2019/alain-regnier.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Alain Régnier
+  twitter:
+  website:
+Alexis Deny:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
-  class: 2019 mentor
-
-"Amaury Fouret":
-  image: img/communaute/miniatures/Amaury-Fouret.jpg
-  title: Amaury Fouret
+  class:
+  - designer
+  - dig
+  defis:
+  - RembourSanté
+  github:
+  gitlab:
+  image_url: /img/communaute/alexis-deny.png
+  link_to: /communaute/2019/alexis-deny.html
+  linkedin: https://www.linkedin.com/in/alexis-deny-581a3a9a/
+  profil: Designer
+  programme: EIG
+  title: Alexis Deny
+  twitter:
+  website:
+Amaury Fouret:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - Open Justice
+  github: mauryaland
+  gitlab:
+  image_url: /img/communaute/amaury-fouret.png
   link_to: /communaute/2019/amaury-fouret.html
-  annees:
-  - 2019
+  linkedin: https://fr.linkedin.com/in/amaury-fouret-283422125
   profil: Data scientist
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  programme: EIG
+  title: Amaury Fouret
+  twitter: mopodono
+  website:
+Ambre Arnaud:
+  annees:
+  - 2018
   class:
-  - eig-3
+  - eig-2
   - eig
-  - datascientist
-
-"Ambre Arnaud":
-  image: img/communaute/miniatures/ambre-arnaud.jpg
-  title: Ambre Arnaud
+  - webdev
+  defis:
+  - DataESR
+  github: ambreelmee
+  gitlab:
+  image_url: /img/communaute/ambre-arnaud.png
   link_to: /communaute/2018/ambre-arnaud.html
-  annees:
-  - 2018
+  linkedin:
   profil: Développeuse
-  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
+  programme: EIG
+  title: Ambre Arnaud
+  twitter: ambreelmee
+  website:
+Amélie Medem:
+  annees:
+  - 2019
   class:
-  - eig-2
+  - eig-3
   - eig
-  - webdev
-
-"Amélie Medem":
-  image: img/communaute/miniatures/amelie-medem.jpg
-  title: Amélie Medem
+  - datascientist
+  defis:
+  - Plume
+  github: letnotimitateothers
+  gitlab:
+  image_url: /img/communaute/amelie-medem.png
   link_to: /communaute/2019/amelie-medem.html
-  annees:
-  - 2019
+  linkedin: https://www.linkedin.com/in/amelie-medem
   profil: Data scientist
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  programme: EIG
+  title: Amélie Medem
+  twitter:
+  website:
+Anne Lambert:
+  annees:
+  - 2018
   class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Anne Lambert":
-  image: img/communaute/miniatures/anne-lambert.jpg
-  title: Anne Lambert
+  - eig-2
+  - mentor
+  defis:
+  - Archifiltre
+  github:
+  gitlab:
+  image_url: /img/communaute/anne-lambert.png
   link_to: /communaute/2018/anne-lambert.html
-  annees:
-  - 2018
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/archifiltre.html" target="new">Archifiltre</a>
+  programme: EIG
+  title: Anne Lambert
+  twitter:
+  website:
+Anne-Sophie Hutin:
+  annees:
+  - 2019
   class:
-  - eig-2
   - mentor
-
-"Anne-Sophie Hutin":
-  image: img/communaute/miniatures/anne-sophie-hutin.png
-  title: Anne-Sophie Hutin
+  defis:
+  - DataJust
+  github:
+  gitlab:
+  image_url: /img/communaute/anne-sophie-hutin.png
   link_to: /communaute/2019/anne-sophie-hutin.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Anne-Sophie Hutin
+  twitter:
+  website:
+Anoureth Pongrattana:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
-  class: 2019 mentor
-
-"Anoureth Pongrattana":
-  image: img/communaute/miniatures/anoureth-pongrattana.jpg
-  title: Anoureth Pongrattana
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - ACOSS-Plateforme
+  github: BarbeNoash
+  gitlab:
+  image_url: /img/communaute/anoureth-pongrattana.png
   link_to: /communaute/2019/anoureth-pongrattana.html
-  annees:
-  - 2019
+  linkedin: https://fr.linkedin.com/in/anoureth-pongrattana-3946b2a5
   profil: Développeur
-  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
+  programme: EIG
+  title: Anoureth Pongrattana
+  twitter: barbenoash
+  website:
+Antoine Augusti:
+  annees:
+  - 2018
+  - 2019
   class:
+  - eig-2
   - eig-3
   - eig
   - webdev
-
-"Antoine Augusti":
-  image: img/communaute/miniatures/Antoine-Augusti.png
-  title: Antoine Augusti
+  defis:
+  - PrédiSauvetage
+  - EIG Link 2019
+  github: AntoineAugusti
+  gitlab:
+  image_url: /img/communaute/Antoine-Augusti.png
   link_to: /communaute/2018/antoine-augusti.html
-  annees:
-  - 2018
-  - 2019
+  linkedin: https://www.linkedin.com/in/antoineaugusti/
   profil: Développeur
-  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a>, <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
+  programme: EIG
+  title: Antoine Augusti
+  twitter: AntoineAugusti
+  website: https://www.antoine-augusti.fr
+Armand Giraud:
+  annees:
+  - 2019
   class:
-  - eig-2
   - eig-3
   - eig
-  - webdev
-
-"Armand Giraud":
-  image: img/communaute/miniatures/armand-giraud.jpg
-  title: Armand Giraud
+  - datascientist
+  defis:
+  - ExploCode
+  github: ArmandGiraud
+  gitlab:
+  image_url: /img/communaute/Armand-Giraud.png
   link_to: /communaute/2019/armand-giraud.html
+  linkedin: https://www.linkedin.com/in/armandgiraud/
+  profil: Data scientist
+  programme: EIG
+  title: Armand Giraud
+  twitter:
+  website:
+Armando De Oliveira:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
   class:
-  - eig-3
+  - dig
+  - mentor
+  defis:
+  - Recrues
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/armando-de-oliveira.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Armando De Oliveira
+  twitter:
+  website:
+Arnaud Ménard:
+  annees:
+  - 2018
+  class:
+  - eig-2
   - eig
   - datascientist
-
-"Arnaud Ménard":
-  image: img/communaute/miniatures/Arnaud-Menard.png
-  title: Arnaud Ménard
+  defis:
+  - b@liseNAV
+  github:
+  gitlab:
+  image_url: /img/communaute/Arnaud-Menard.png
   link_to: /communaute/2018/arnaud-menard.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Arnaud Ménard
+  twitter: Nono400
+  website:
+Arnaud Rachez:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/balisenav.html" target="new">b@liseNAV</a>
   class:
   - eig-2
   - eig
   - datascientist
-
-"Arnaud Rachez":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Arnaud Rachez
+  defis:
+  - CoachÉlèves
+  github: zermelozf
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/arnaud-rachez.html
-  annees:
-  - 2018
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2018/coacheleves.html" target="new">CoachÉlèves</a>
+  programme: EIG
+  title: Arnaud Rachez
+  twitter: zermelozf
+  website:
+Audrey Istace:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - eig
-  - datascientist
-
-"Audrey Istace":
-  image: img/communaute/miniatures/audrey-istace.png
-  title: Audrey Istace
+  - mentor
+  defis:
+  - PolyGraphe
+  github:
+  gitlab:
+  image_url: /img/communaute/audrey-istace.png
   link_to: /communaute/2019/audrey-istace.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Audrey Istace
+  twitter:
+  website:
+Augustin Wenger:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
-  class: 2019 mentor
-
-"Augustin Wenger":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Augustin Wenger
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - LexImpact
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/augustin-wenger.html
-  annees:
-  - 2019
+  linkedin: https://www.linkedin.com/in/augustin-wenger-11530189/
   profil: Développeur
-  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
+  programme: EIG
+  title: Augustin Wenger
+  twitter:
+  website:
+Bastien Guerry:
+  annees:
+  - 2017
+  - 2018
   class:
-  - eig-3
+  - eig-1
+  - eig-2
   - eig
   - webdev
-
-"Bastien Guerry":
-  image: img/communaute/miniatures/Bastien-Guerry.png
-  title: Bastien Guerry
+  defis:
+  - MCC - Inventaire des orgues
+  - EIG Link 2018
+  github: bzg
+  gitlab: bzg
+  image_url: /img/communaute/Bastien-Guerry.png
   link_to: /communaute/2018/bastien-guerry.html
-  annees:
-  - 2017
-  - 2018
+  linkedin:
   profil: Développeur
-  defi: <a href="/defis/2017/mcc-inventaire-des-orgues.html" target="new">MCC-Inventaire des orgues, EIG Link</a>
+  programme: EIG
+  title: Bastien Guerry
+  twitter: bzg2
+  website: https://bzg.fr
+Benoît Guigal:
+  annees:
+  - 2018
   class:
-  - eig-1
   - eig-2
   - eig
   - webdev
-
-"Bénédicte Pachod":
-  image: img/communaute/miniatures/benedicte-pachod.png
-  title: Bénédicte Pachod
-  link_to: /communaute/2018/benedicte-pachod.html
-  annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/socialconnect.html" target="new">Social Connect</a>
-  class:
-  - eig-2
-  - mentor
-
-"Benoît Guigal":
-  image: img/communaute/miniatures/Benoit-Guigal.png
-  title: Benoît Guigal
+  defis:
+  - Hopkins
+  github: benoitguigal
+  gitlab:
+  image_url: /img/communaute/Benoit-Guigal.png
   link_to: /communaute/2018/benoit-guigal.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Benoît Guigal
+  twitter: BGuigal
+  website:
+Béatrice Clément:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - plateforme Handicap
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/beatrice-clement.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Béatrice Clément
+  twitter:
+  website:
+Bénédicte Ezvan:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Maritux
+  github:
+  gitlab:
+  image_url: /img/communaute/benedicte-ezvan.png
+  link_to: /communaute/2019/benedicte-ezvan.html
+  linkedin: https://www.linkedin.com/in/bénédicte-ezvan-aab450b0
+  profil: Mentor
+  programme: DIG
+  title: Bénédicte Ezvan
+  twitter: EZVANB
+  website:
+Bénédicte Pachod:
   annees:
   - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/hopkins.html" target="new">Hopkins</a>
   class:
   - eig-2
+  - mentor
+  defis:
+  - Social Connect
+  github:
+  gitlab:
+  image_url: /img/communaute/benedicte-pachod.png
+  link_to: /communaute/2018/benedicte-pachod.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Bénédicte Pachod
+  twitter: BenedictePachod
+  website:
+Carine Stolz:
+  annees:
+  - 2019
+  class:
+  - eig-3
   - eig
-  - webdev
-
-"Carine Stolz":
-  image: img/communaute/miniatures/carine-stolz.jpg
-  title: Carine Stolz
+  - datascientist
+  defis:
+  - DataReg
+  github:
+  gitlab:
+  image_url: /img/communaute/carine-stolz.png
   link_to: /communaute/2019/carine-stolz.html
+  linkedin: https://www.linkedin.com/in/carinestolz/
+  profil: Data scientist
+  programme: EIG
+  title: Carine Stolz
+  twitter:
+  website:
+Catherine Duyck-Bagot:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
   class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Cédric Malherbe":
-  image: img/communaute/miniatures/cedric-malherbe.jpg
-  title: Cédric Malherbe
-  link_to: /communaute/2019/cedric-malherbe.html
+  - dig
+  - mentor
+  defis:
+  - RembourSanté
+  github:
+  gitlab:
+  image_url: /img/communaute/catherine-duyck-bagot.png
+  link_to: /communaute/2019/catherine-duyck-bagot.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Catherine Duyck-Bagot
+  twitter:
+  website:
+Charlotte Bourcier:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
   class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Christophe Ninucci":
-  image: img/communaute/miniatures/Christophe-Ninucci.png
-  title: Christophe Ninucci
-  link_to: /communaute/2018/christophe-ninucci.html
+  - designer
+  - dig
+  defis:
+  - Alphabet
+  github:
+  gitlab:
+  image_url: /img/communaute/charlotte-bourcier.png
+  link_to: /communaute/2019/charlotte-bourcier.html
+  linkedin: https://www.linkedin.com/in/charlottebourcier/
+  profil: Designer
+  programme: EIG
+  title: Charlotte Bourcier
+  twitter: Charlotte_Bcr
+  website:
+Charlotte Marmet:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Sequoia
+  github:
+  gitlab:
+  image_url: /img/communaute/charlotte-marmet.png
+  link_to: /communaute/2019/charlotte-marmet.html
+  linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
+  profil: Designer
+  programme: EIG
+  title: Charlotte Marmet
+  twitter:
+  website:
+Chloé Moser:
   annees:
   - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/signauxfaibles.html" target="new">Signaux Faibles</a>
   class:
   - eig-2
-  - eig
-  - webdev
-
-"Chloé Moser":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Chloé Moser
+  - mentor
+  defis:
+  - Archifiltre
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/chloe-moser.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Chloé Moser
+  twitter: archivist_chloe
+  website:
+Christophe Astier:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - "vigicr'UX"
+  github:
+  gitlab:
+  image_url: /img/communaute/christophe-astier.png
+  link_to: /communaute/2019/christophe-astier.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Christophe Astier
+  twitter:
+  website:
+Christophe Ninucci:
   annees:
   - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/archifiltre.html" target="new">Archifiltre</a>
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Signaux Faibles
+  github: chrnin
+  gitlab:
+  image_url: /img/communaute/Christophe-Ninucci.png
+  link_to: /communaute/2018/christophe-ninucci.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Christophe Ninucci
+  twitter: ChrisNinucci
+  website:
+Claudio Cimelli:
+  annees:
+  - 2018
   class:
   - eig-2
   - mentor
-
-"Claudio Cimelli":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Claudio Cimelli
+  defis:
+  - CoachÉlèves
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/claudio-cimelli.html
-  annees:
-  - 2018
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/coacheleves.html" target="new">CoachÉlèves</a>
+  programme: EIG
+  title: Claudio Cimelli
+  twitter: ClaudioCimelli
+  website:
+Coline Lebaratoux:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - mentor
-
-"Coline Lebaratoux":
-  image: img/communaute/miniatures/coline-lebaratoux.jpg
-  title: Coline Lebaratoux
+  - eig-3
+  - eig
+  - designer
+  defis:
+  - ACOSS-Plateforme
+  github:
+  gitlab:
+  image_url: /img/communaute/coline-lebaratoux.png
   link_to: /communaute/2019/coline-lebaratoux.html
-  annees:
-  - 2019
+  linkedin: https://linkedin.com/in/coline-lebaratoux
   profil: Designer
-  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
+  programme: EIG
+  title: Coline Lebaratoux
+  twitter: colinelbx
+  website:
+Constance de Quatrebarbes:
+  annees:
+  - 2017
   class:
-  - eig-3
+  - eig-1
   - eig
-  - designer
-
-"Constance de Quatrebarbes":
-  image: img/communaute/miniatures/Constance-Quatrebarbes.png
-  title: Constance de Quatrebarbes
+  - datascientist
+  defis:
+  - BNF - catalogage
+  github: c24b
+  gitlab:
+  image_url: /img/communaute/Constance-Quatrebarbes.png
   link_to: /communaute/2017/constance-de-quatrebarbes.html
-  annees:
-  - 2017
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2017/bnf-catalogage.html" target="new">BNF-catalogage</a>
+  programme: EIG
+  title: Constance de Quatrebarbes
+  twitter: c4barbes
+  website:
+Cristian Perez Brokate:
+  annees:
+  - 2019
   class:
-  - eig-1
+  - eig-3
   - eig
   - datascientist
-
-"Cristian Perez Brokate":
-  image: img/communaute/miniatures/cristian-perez.jpg
-  title: Cristian Perez Brokate
+  defis:
+  - IA Flash
+  github: cristianpb
+  gitlab:
+  image_url: /img/communaute/cristian-perez.jpg
   link_to: /communaute/2019/cristian-perez.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Cristian Perez Brokate
+  twitter: cris_perez_b
+  website: https://cristianpb.github.io
+Cécile Canel:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
+  class:
+  - designer
+  - dig
+  defis:
+  - Maritux
+  github:
+  gitlab:
+  image_url: /img/communaute/cecile-canel.png
+  link_to: /communaute/2019/cecile-canel.html
+  linkedin:
+  profil: Designer
+  programme: EIG
+  title: Cécile Canel
+  twitter:
+  website:
+Cédric Malherbe:
+  annees:
+  - 2019
   class:
   - eig-3
   - eig
   - datascientist
-
-"Daniel Ansellem":
-  image: img/communaute/miniatures/Daniel-Ansellem-2.png
-  title: Daniel Ansellem
+  defis:
+  - DataJust
+  github:
+  gitlab:
+  image_url: /img/communaute/cedric-malherbe.png
+  link_to: /communaute/2019/cedric-malherbe.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Cédric Malherbe
+  twitter:
+  website:
+Daniel Ansellem:
+  annees:
+  - 2017
+  - 2018
+  - 2019
+  class:
+  - eig-1
+  - eig-2
+  - eig-3
+  - mentor
+  defis:
+  - MI - cartAV
+  - MI - matchID
+  - Prévisecours
+  - IA Flash
+  github:
+  gitlab:
+  image_url: /img/communaute/Daniel-Ansellem-2.png
   link_to: /communaute/2018/daniel-ansellem.html
-  annees:
-  - 2017
-  - 2018
-  - 2019
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/previsecours.html" target="new">MI-cartAV, MI-matchID, Prévisecours</a>
+  programme: EIG
+  title: Daniel Ansellem
+  twitter:
+  website:
+David Panou:
+  annees:
+  - 2018
   class:
-  - eig-1
   - eig-2
-  - eig-3
-  - mentor
-
-"David Panou":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: David Panou
+  - eig
+  - datascientist
+  defis:
+  - CoachÉlèves
+  github: pandav2
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2018/david-panou.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: David Panou
+  twitter:
+  website:
+David Vigier:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - App 112
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/david-vigier.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: David Vigier
+  twitter:
+  website:
+Delphine Lê:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/coacheleves.html" target="new">CoachÉlèves</a>
+  - 2019
   class:
   - eig-2
-  - eig
-  - datascientist
-
-"Delphine Lê":
-  image: img/communaute/miniatures/7_DelphineLE.png
-  title: Delphine Lê
+  - eig-3
+  - mentor
+  defis:
+  - Hopkins
+  - ADLER
+  github:
+  gitlab:
+  image_url: /img/communaute/delphine-le.png
   link_to: /communaute/2018/delphine-le.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Delphine Lê
+  twitter: delphinel
+  website:
+Dora Crisan:
   annees:
   - 2018
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2018/hopkins.html" target="new">Hopkins, ADLER</a>
   class:
   - eig-2
-  - eig-3
-  - mentor
-
-"Dora Crisan":
-  image: img/communaute/miniatures/Dora-Crisan.png
-  title: Dora Crisan
+  - eig
+  - webdev
+  defis:
+  - Brigade Numérique
+  github: dora27
+  gitlab:
+  image_url: /img/communaute/Dora-Crisan.png
   link_to: /communaute/2018/dora-crisan.html
-  annees:
-  - 2018
+  linkedin:
   profil: Développeuse
-  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a>
+  programme: EIG
+  title: Dora Crisan
+  twitter: DoraCrisan
+  website:
+Dorian Flechet:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - eig
-  - webdev
-
-"Dorian Flechet":
-  image: img/communaute/miniatures/Photo-DorianFLECHET.png
-  title: Dorian Flechet
+  - mentor
+  defis:
+  - CartoBio
+  github:
+  gitlab:
+  image_url: /img/communaute/Photo-DorianFLECHET.png
   link_to: /communaute/2019/dorian-flechet.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Dorian Flechet
+  twitter:
+  website:
+Dorine Lambinet:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
-  class: 2019 mentor
-
-"Dorine Lambinet":
-  image: img/communaute/miniatures/dorine-lambinet.jpg
-  title: Dorine Lambinet
+  class:
+  - eig-3
+  - eig
+  - designer
+  defis:
+  - LexImpact
+  github:
+  gitlab:
+  image_url: /img/communaute/dorine-lambinet.png
   link_to: /communaute/2019/dorine-lambinet.html
+  linkedin: https://www.linkedin.com/in/dorine-lambinet-99534b117/
+  profil: Designer
+  programme: EIG
+  title: Dorine Lambinet
+  twitter:
+  website:
+Edouard Rottier:
   annees:
   - 2019
-  profil: Designer
-  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
   class:
-  - eig-3
-  - eig
-  - designer
-
-"Edouard Rottier":
-  image: img/communaute/miniatures/edouard-rottier.png
-  title: Edouard Rottier
+  - mentor
+  defis:
+  - Open Justice
+  github:
+  gitlab:
+  image_url: /img/communaute/edouard-rottier.png
   link_to: /communaute/2019/edouard-rottier.html
-  annees:
-  - 2019
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
-  class: 2019 mentor
-
-"Élise Lalique":
-  image: img/communaute/miniatures/elise-250.jpg
-  title: Élise Lalique
-  link_to: /communaute/2018/elise-lalique.html
+  programme: EIG
+  title: Edouard Rottier
+  twitter:
+  website:
+Elsa Luneville:
   annees:
   - 2018
-  profil: Designeuse
-  defi: <a href="/defis/2018/socialconnect.html" target="new">Social Connect</a>
   class:
   - eig-2
   - eig
-  - designer
-
-"Éloi Buat-Ménard":
-  image: img/communaute/miniatures/eloi-buat-menard.jpg
-  title: Éloi Buat-Ménard
-  link_to: /communaute/2019/eloi-buat-menard.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
-  class: 2019 mentor
-
-"Elsa Luneville":
-  image: img/communaute/miniatures/Elsa-Luneville.png
-  title: Elsa Luneville
+  - datascientist
+  defis:
+  - PrédiSauvetage
+  github: Elsalune
+  gitlab:
+  image_url: /img/communaute/Elsa-Luneville.png
   link_to: /communaute/2018/elsa-luneville.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Elsa Luneville
+  twitter:
+  website:
+Emmanuel Gautier:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a>
   class:
   - eig-2
   - eig
   - datascientist
-
-"Emmanuel Gautier":
-  image: img/communaute/miniatures/Emmanuel-Gautier.png
-  title: Emmanuel Gautier
+  defis:
+  - Archifiltre
+  github: emmanuelgautier1994
+  gitlab:
+  image_url: /img/communaute/Emmanuel-Gautier.png
   link_to: /communaute/2018/emmanuel-gautier.html
-  annees:
-  - 2018
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2018/archifiltre.html" target="new">Archifiltre</a>
+  programme: EIG
+  title: Emmanuel Gautier
+  twitter: manutaust
+  website:
+Emmanuel Weisenburger:
+  annees:
+  - 2017
+  - 2018
   class:
+  - eig-1
   - eig-2
-  - eig
-  - datascientist
-
-"Emmanuel Weisenburger":
-  image: img/communaute/miniatures/Emmanuel-Weisenburger.png
-  title: Emmanuel Weisenburger
+  - mentor
+  defis:
+  - DataESR
+  github:
+  gitlab:
+  image_url: /img/communaute/Emmanuel-Weisenburger.png
   link_to: /communaute/2018/emmanuel-weisenburger.html
-  annees:
-  - 2017
-  - 2018
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/dataesr.html" target="new">MESRI-matchID, dataESR</a>
-  class:
-  - eig-1
-  - eig-2
-  - mentor
-
-"Éric Le Guen":
-  image: img/communaute/miniatures/eric_le_guen.jpg
-  title: "Éric Le Guen"
-  link_to: /communaute/2018/eric-le-guen.html
+  programme: EIG
+  title: Emmanuel Weisenburger
+  twitter: weisenburger_e
+  website:
+Erica Marco:
   annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/balisenav.html" target="new">b@liseNAV</a>
+  - 2019
   class:
-  - eig-2
-  - mentor
-
-"Erica Marco":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Erica Marco
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - Plume
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/erica-marco.html
-  annees:
-  - 2019
+  linkedin: https://www.linkedin.com/in/erica-marco-9abb0697
   profil: Développeuse
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  programme: EIG
+  title: Erica Marco
+  twitter:
+  website:
+Evelyne Vezinet:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - plateforme Handicap
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/evelyne-vezinet.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Evelyne Vezinet
+  twitter:
+  website:
+Flavien Colsenet:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - "vigicr'UX"
+  github:
+  gitlab:
+  image_url: /img/communaute/flavien-colsenet.png
+  link_to: /communaute/2019/flavien-colsenet.html
+  linkedin: https://www.linkedin.com/in/flavien-colsenet-591225107/
+  profil: Designer
+  programme: EIG
+  title: Flavien Colsenet
+  twitter: FlavienColsenet
+  website:
+Florent Laboy:
+  annees:
+  - 2019
   class:
   - eig-3
-  - eig
-  - webdev
-
-"Étienne David":
-  image: img/communaute/miniatures/Etienne-David.png
-  title: Étienne David
-  link_to: /communaute/2017/etienne-david.html
-  annees:
-  - 2017
-  profil: Développeur
-  defi: <a href="/defis/2017/afd-geodata.html" target="new">AFD-Geodata</a>
-  class:
-  - eig-1
-  - eig
-  - webdev
-
-"Florent Laboy":
-  image: img/communaute/miniatures/florent-laboy.png
-  title: Florent Laboy
+  - mentor
+  defis:
+  - Plume
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/florent-laboy.html
-  annees:
-  - 2019
+  linkedin: https://fr.linkedin.com/in/florent-laboy
   profil: Mentor
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  programme: EIG
+  title: Florent Laboy
+  twitter: F__Lab
+  website:
+Francis Chabouis:
+  annees:
+  - 2017
   class:
-  - eig-3
-  - mentor
-
-"Francis Chabouis":
-  title: Francis Chabouis
-  image: img/communaute/miniatures/Francis-Chabouis.png
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - MI - cartAV
+  github: fchabouis
+  gitlab:
+  image_url: /img/communaute/Francis-Chabouis.png
   link_to: /communaute/2017/francis-chabouis.html
-  annees:
-  - 2017
+  linkedin:
   profil: Développeur
-  defi: <a href="/defis/2017/mi-cartav-securite-routiere.html" target="new">MI-cartAV</a>
+  programme: EIG
+  title: Francis Chabouis
+  twitter:
+  website:
+François Bocquet:
+  annees:
+  - 2018
   class:
-  - eig-1
-  - eig
-  - webdev
-
-"François Bocquet":
-  image: img/communaute/miniatures/francois-bocquet.png
-  title: François Bocquet
+  - eig-2
+  - mentor
+  defis:
+  - CoachÉlèves
+  github:
+  gitlab:
+  image_url: /img/communaute/francois-bocquet.png
   link_to: /communaute/2018/francois-bocquet.html
-  annees:
-  - 2018
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/coacheleves.html" target="new">CoachÉlèves</a>
+  programme: EIG
+  title: François Bocquet
+  twitter: fbocquet
+  website:
+Frédéric Bardolle:
+  annees:
+  - 2017
   class:
-  - eig-2
-  - mentor
-
-"Frédéric Bardolle":
-  image: img/communaute/miniatures/Frederic-Bardolle.png
-  title: Frédéric Bardolle
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - CC - API rapports
+  github: seiteta
+  gitlab:
+  image_url: /img/communaute/Frederic-Bardolle.png
   link_to: /communaute/2017/frederic-bardolle.html
-  annees:
-  - 2017
+  linkedin:
   profil: Développeur
-  defi: <a href="/defis/2017/cc-api-rapports.html" target="new">CC-API rapports</a>
+  programme: EIG
+  title: Frédéric Bardolle
+  twitter: seiteta
+  website:
+Gabriel Bastard:
+  annees:
+  - 2019
   class:
-  - eig-1
+  - eig-3
   - eig
-  - webdev
-
-"Gabriel Bastard":
-  image: img/communaute/miniatures/Gabriel-Bastard.jpg
-  title: Gabriel Bastard
+  - datascientist
+  defis:
+  - PolyGraphe
+  github: retdop
+  gitlab:
+  image_url: /img/communaute/Gabriel-Bastard.png
   link_to: /communaute/2019/gabriel-bastard.html
-  annees:
-  - 2019
+  linkedin: https://www.linkedin.com/in/gbastard/
   profil: Data scientist
-  defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Guénolé Carré":
-  image: img/communaute/miniatures/Guenole-Carre-miniature.jpg
-  title: Guénolé Carré
-  link_to: /communaute/2019/guenole-carre.html
+  programme: EIG
+  title: Gabriel Bastard
+  twitter:
+  website:
+Gilles Martinoty:
   annees:
   - 2019
-  profil: Accompagnement
-  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
   class:
-  - eig-3
-
-"Guillaume Lancrenon":
-  image: img/communaute/miniatures/Guillaume-Lancrenon.png
-  title: Guillaume Lancrenon
+  - dig
+  - mentor
+  defis:
+  - Maritux
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/gilles-martinoty.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Gilles Martinoty
+  twitter:
+  website:
+Guillaume Lancrenon:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Prévisecours
+  github: guillim
+  gitlab:
+  image_url: /img/communaute/Guillaume-Lancrenon.png
   link_to: /communaute/2018/guillaume-lancrenon.html
-  annees:
-  - 2018
+  linkedin:
   profil: Développeur
-  defi: <a href="/defis/2018/previsecours.html" target="new">Prévisecours</a>
-  class:
-  - eig-2
-  - eig
-  - webdev
-
-"Hélène Cavalié":
-  image: img/communaute/miniatures/helene_cavalie.jpg
-  title: Hélène Cavalié
-  link_to: /communaute/2018/helene-cavalie.html
+  programme: EIG
+  title: Guillaume Lancrenon
+  twitter:
+  website: https://guillim.github.io
+Guénolé Carré:
   annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
+  - 2019
   class:
-  - eig-2
+  - eig-3
+  defis: []
+  github: guenolec
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/guenole-carre.html
+  linkedin: https://fr.linkedin.com/in/gu%C3%A9nol%C3%A9-carr%C3%A9-101462a8
+  profil: Accompagnement
+  programme: EIG
+  title: Guénolé Carré
+  twitter: CarreGuenole
+  website:
+Géraldine Da Sylva:
+  annees:
+  - 2019
+  class:
+  - dig
   - mentor
-
-"Hervé Brulé":
-  image: img/communaute/miniatures/herve-brule.png
-  title: Hervé Brulé
+  defis:
+  - "Ma famille ici"
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/geraldine-da-sylva.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Géraldine Da Sylva
+  twitter:
+  website:
+Hervé Brulé:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - CibNav
+  github:
+  gitlab:
+  image_url: /img/communaute/herve-brule.png
   link_to: /communaute/2019/herve-brule.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Hervé Brulé
+  twitter:
+  website:
+Hervé Béguinot:
   annees:
   - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Recrues
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/herve-beguinot.html
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
-  class: 2019 mentor
-
-"Hugo Stéphan":
-  image: img/communaute/miniatures/hugo-stephan.jpg
-  title: Hugo Stéphan
+  programme: DIG
+  title: Hervé Béguinot
+  twitter:
+  website:
+Hugo Stéphan:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - designer
+  defis:
+  - Karfu'R
+  github:
+  gitlab:
+  image_url: /img/communaute/Hugo-Stephan.png
   link_to: /communaute/2019/hugo-stephan.html
+  linkedin: https://www.linkedin.com/in/hugo-stephan/
+  profil: Designer
+  programme: EIG
+  title: Hugo Stéphan
+  twitter: HugoStephan
+  website:
+Hélène Cavalié:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - Gobelins
+  github:
+  gitlab:
+  image_url: /img/communaute/helene_cavalie.jpg
+  link_to: /communaute/2018/helene-cavalie.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Hélène Cavalié
+  twitter:
+  website:
+Iana Ivanov:
   annees:
   - 2019
-  profil: Designer
-  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
   class:
-  - eig-3
-  - eig
-  - designer
-
-"Iana Ivanov":
-  image: img/communaute/miniatures/iana-ivanov.jpg
-  title: Iana Ivanov
+  - mentor
+  defis:
+  - DataJust
+  github:
+  gitlab:
+  image_url: /img/communaute/iana-ivanov.jpg
   link_to: /communaute/2019/iana-ivanov.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Iana Ivanov
+  twitter:
+  website:
+Iris Naudin:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
-  class: 2019 mentor
-
-"Jean-Baptiste Assouad":
-  image: img/communaute/miniatures/JeanBaptiste-Assouad.png
-  title: Jean-Baptiste Assouad
+  class:
+  - designer
+  - dig
+  defis:
+  - Recrues
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/iris-naudin.html
+  linkedin: https://www.linkedin.com/in/irisvnaudin/
+  profil: Designer
+  programme: EIG
+  title: Iris Naudin
+  twitter: irisvnaudin
+  website:
+Jean-Baptiste Assouad:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Archifiltre
+  github: jeanbaptisteassouad
+  gitlab:
+  image_url: /img/communaute/JeanBaptiste-Assouad.png
   link_to: /communaute/2018/jean-baptiste-assouad.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Jean-Baptiste Assouad
+  twitter:
+  website:
+Jean-Baptiste Le Dévéhat:
   annees:
   - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/archifiltre.html" target="new">Archifiltre</a>
+  - 2019
   class:
   - eig-2
+  - eig-3
   - eig
-  - webdev
-
-"Jean-Baptiste Le Dévéhat":
-  image: img/communaute/miniatures/jean-baptiste-le-devehat.jpg
-  title: Jean-Baptiste Le Dévéhat
+  - designer
+  defis:
+  - Brigade Numérique
+  - EIG Link 2019
+  github: jbledevehat
+  gitlab:
+  image_url: /img/communaute/jean-baptiste-le-devehat.png
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
-  annees:
-  - 2018
-  - 2019
+  linkedin:
   profil: Designer
-  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a>, <a href="/defis/2019/eiglink.html" target="new">EIG Link</a>
+  programme: EIG
+  title: Jean-Baptiste Le Dévéhat
+  twitter: jbledevehat
+  website:
+Jean-Denis Vigne:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - eig-3
-  - eig
-  - designer
-
-"Jean-René Duscher":
-  image: img/communaute/miniatures/photo-duscher-v2.png
-  title: Jean-René Duscher
+  - dig
+  - mentor
+  defis:
+  - INPN Espaces
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/jean-denis-vigne.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Jean-Denis Vigne
+  twitter:
+  website:
+Jean-Edouard Sastre:
+  annees:
+  - 2019
+  class:
+  - dig
+  defis:
+  - INPN Espaces
+  github:
+  gitlab:
+  image_url: /img/communaute/edouard-sastre.png
+  link_to: /communaute/2019/jean-edouard-sastre.html
+  linkedin: https://www.linkedin.com/in/edouard-sastre
+  profil: Designer
+  programme: EIG
+  title: Jean-Edouard Sastre
+  twitter: EdouardSastre
+  website:
+Jean-Marie Coulomb:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - "vigicr'UX"
+  github:
+  gitlab:
+  image_url: /img/communaute/jean-marie-coulomb.png
+  link_to: /communaute/2019/jean-marie-coulomb.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Jean-Marie Coulomb
+  twitter:
+  website:
+Jean-René Duscher:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - ExploCode
+  github:
+  gitlab:
+  image_url: /img/communaute/photo-duscher-v2.png
   link_to: /communaute/2019/jean-rene-duscher.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Jean-René Duscher
+  twitter:
+  website:
+Julien Bouquillon:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
-  class: 2019 mentor
-
-"Julien Bouquillon":
-  image: img/communaute/miniatures/julien-bouquillon.png
-  title: Julien Bouquillon
+  class:
+  - mentor
+  defis:
+  - ExploCode
+  github:
+  gitlab:
+  image_url: /img/communaute/julien-bouquillon.png
   link_to: /communaute/2019/julien-bouquillon.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Julien Bouquillon
+  twitter:
+  website:
+Julien Dubedout:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
-  class: 2019 mentor
-
-"Julien Naour":
-  image: img/communaute/miniatures/JulienNaour.png
-  title: Julien Naour
-  link_to: /communaute/2018/julien-naour.html
-  annees:
-  - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/labsante.html" target="new">Lab Santé</a>
   class:
-  - eig-2
-  - eig
-  - datascientist
-
-"Julien Paris":
-  image: img/communaute/miniatures/JulienParis.png
-  title: Julien Paris
-  link_to: /communaute/2018/julien-paris.html
-  annees:
-  - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/socialconnect.html" target="new">Social Connect</a>
-  class:
-  - eig-2
-  - eig
-  - webdev
-
-"Kim Montalibet":
-  image: img/communaute/miniatures/kim-montalibet.jpg
-  title: Kim Montalibet
-  link_to: /communaute/2019/kim-montalibet.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/datajust.html" target="new">DataJust</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Laurence Matringe":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Laurence Matringe
-  link_to: /communaute/2018/laurence-matringe.html
-  annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a>
-  class:
-  - eig-2
-  - mentor
-
-"Laurent Dupont":
-  image: img/communaute/miniatures/Laurent-Dupont.png
-  title: Laurent Dupont
-  link_to: /communaute/2017/laurent-dupont.html
-  annees:
-  - 2017
-  profil: Développeur
-  defi: <a href="/defis/2017/mesri-magical-merge-machine.html" target="new">MESRI-La machine à données</a>
-  class:
-  - eig-1
-  - eig
-  - webdev
-
-"Laurent Toustou":
-  image: img/communaute/miniatures/laurent-toustou.jpg
-  title: Laurent Toustou
-  link_to: /communaute/2019/laurent-toustou.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
-  class: 2019 mentor
-
-"Laurie Chapotte":
-  image: img/communaute/miniatures/Laurie-Chapotte.png
-  title: Laurie Chapotte
-  link_to: /communaute/2018/laurie-chapotte.html
-  annees:
-  - 2018
-  profil: Designeuse
-  defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
-  class:
-  - eig-2
-  - eig
   - designer
-
-"Léo Bouloc":
-  image: img/communaute/miniatures/Leo-Bouloc.png
-  title: Léo Bouloc
-  link_to: /communaute/2017/leo-bouloc.html
-  annees:
-  - 2017
-  profil: Data scientist
-  defi: <a href="/defis/2017/mesri-magical-merge-machine.html" target="new">MESRI - La machine à données</a>
-  class:
-  - eig-1
-  - eig
-  - datascientist
-
-"Luc Salommez":
-  image: img/communaute/miniatures/luc-salommez.jpg
-  title: Luc Salommez
-  link_to: /communaute/2019/luc-salommez.html
-  annees:
-  - 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/polygraphe.html" target="new">PolyGraphe</a>
-  class:
-  - eig-3
-  - eig
-  - webdev
-
-"Lucas Bchini":
-  image: img/communaute/miniatures/lucas-bchini.jpg
-  title: Lucas Bchini
-  link_to: /communaute/2019/lucas-bchini.html
-  annees:
-  - 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
-  class:
-  - eig-3
-  - eig
-  - webdev
-
-"Marie Feucher":
-  image: img/communaute/miniatures/marie-feucher-2.png
-  title: Marie Feucher
-  link_to: /communaute/2019/marie-feucher.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
-  class: 2019 mentor
-
-"Marielle Chrisment":
-  image: img/communaute/miniatures/marielle-chrisment.jpg
-  title: Marielle Chrisment
-  link_to: /communaute/2018/marielle-chrisment.html
-  annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a>
-  class:
-  - eig-2
-  - mentor
-
-"Marion Paclot":
-  image: img/communaute/miniatures/Marion-Paclot.png
-  title: Marion Paclot
-  link_to: /communaute/2017/marion-paclot.html
-  annees:
-  - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2017/dgfip-fraude-fiscale.html" target="new">DGFiP-Fraude fiscale</a>
-  class:
-  - eig-1
-  - eig
-  - datascientist
-
-"Martin Gross":
-  image: img/communaute/miniatures/Martin-Gross.png
-  title: Martin Gross
-  link_to: /communaute/2017/martin-gross.html
-  annees:
-  - 2017
-  profil: Développeur
-  defi: <a href="/defis/2017/mi-matchid.html" target="new">MI-matchID</a>
-  class:
-  - eig-1
-  - eig
-  - webdev
-
-"Mathieu Andro":
-  image: img/communaute/miniatures/mathieu-andro.jpg
-  title: Mathieu Andro
-  link_to: /communaute/2019/mathieu-andro.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
-  class: 2019 mentor
-
-"Mathieu Havel":
-  image: img/communaute/miniatures/mathieu-havel.jpg
-  title: Mathieu Havel
-  link_to: /communaute/2019/mathieu-havel.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/explocode.html" target="new">ExploCode</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Mathieu Perez":
-  image: img/communaute/miniatures/mathieu-perez.jpg
-  title: Mathieu Perez
-  link_to: /communaute/2019/mathieu-perez.html
-  annees:
-  - 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
-  class:
-  - eig-3
-  - eig
-  - webdev
-
-"Mathilde Bras":
-  image: img/communaute/miniatures/mathilde_bras.jpg
-  title: Mathilde Bras
-  link_to: /communaute/2018/mathilde-bras.html
-  annees:
-  - 2017
-  - 2018
-  - 2019
-  profil: Accompagnement
-  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
-  class:
-  - eig-1
-  - eig-2
-  - eig-3
-  - mentor
-
-"Mauko Quiroga":
-  image: img/communaute/miniatures/mauko-quiroga.png
-  title: Mauko Quiroga
-  link_to: /communaute/2019/mauko-quiroga.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
-  class: 2019 mentor
-
-"Maxime Pierrot":
-  image: img/communaute/miniatures/Maxime-Pierrot.png
-  title: Maxime Pierrot
-  link_to: /communaute/2018/maxime-pierrot.html
-  annees:
-  - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
-  class:
-  - eig-2
-  - eig
-  - webdev
-
-"Ned Baldessin":
-  image: img/communaute/miniatures/Ned-Baldessin.png
-  title: Ned Baldessin
-  link_to: /communaute/2018/ned-baldessin.html
-  annees:
-  - 2018
-  profil: Développeur
-  defi: <a href="/defis/2018/gobelins.html" target="new">Gobelins</a>
-  class:
-  - eig-2
-  - eig
-  - webdev
-
-"Nicolas Berkouk":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Nicolas Berkouk
-  link_to: /communaute/2019/nicolas-berkouk.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/adler.html" target="new">ADLER</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Nicolas Bizet":
-  image: img/communaute/miniatures/nicolas-bizet.png
-  title: Nicolas Bizet
-  link_to: /communaute/2019/nicolas-bizet.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
-  class: 2019 mentor
-
-"Nikos Peteinatos":
-  image: img/communaute/miniatures/nikos-peteinatos.jpg
-  title: Nikos Peteinatos
-  link_to: /communaute/2019/nikos-peteinatos.html
-  annees:
-  - 2019
+  - dig
+  defis:
+  - App 112
+  github: judbd
+  gitlab:
+  image_url: /img/communaute/julien-dubedout.png
+  link_to: /communaute/2019/julien-dubedout.html
+  linkedin:
   profil: Designer
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
+  programme: EIG
+  title: Julien Dubedout
+  twitter: judbd
+  website: https://mariejulien.com
+Julien Laffargue:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - "vigicr'UX"
+  github:
+  gitlab:
+  image_url: /img/communaute/julien-laffargue.png
+  link_to: /communaute/2019/julien-laffargue.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Julien Laffargue
+  twitter:
+  website:
+Julien Naour:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - datascientist
+  defis:
+  - Lab Santé
+  github:
+  gitlab: jnaour
+  image_url: /img/communaute/JulienNaour.png
+  link_to: /communaute/2018/julien-naour.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Julien Naour
+  twitter:
+  website:
+Julien Paris:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Social Connect
+  github: Jpy
+  gitlab:
+  image_url: /img/communaute/JulienParis.png
+  link_to: /communaute/2018/julien-paris.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Julien Paris
+  twitter: jparis_py
+  website: http://www.jpylab.com
+Jérémie Baboukhian:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - ID numérique
+  github: marzchew
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/jeremie-baboukhian.html
+  linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
+  profil: Designer
+  programme: EIG
+  title: Jérémie Baboukhian
+  twitter: baboukhian
+  website:
+Jérémy Bakkalian:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - AchaDef
+  github:
+  gitlab:
+  image_url: /img/communaute/jeremy-bakkalian.png
+  link_to: /communaute/2019/jeremy-bakkalian.html
+  linkedin: https://www.linkedin.com/in/jbakkalian
+  profil: Mentor
+  programme: DIG
+  title: Jérémy Bakkalian
+  twitter: J_Bakka
+  website:
+Jérôme Blondon:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - ProxiRH
+  github:
+  gitlab:
+  image_url: /img/communaute/jerome-blondon.png
+  link_to: /communaute/2019/jerome-blondon.html
+  linkedin: https://www.linkedin.com/in/jeromeblondon/
+  profil: Mentor
+  programme: DIG
+  title: Jérôme Blondon
+  twitter: jbl2024
+  website:
+Jérôme Letanou:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Alphabet
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/jerome-letanou.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Jérôme Letanou
+  twitter:
+  website:
+Jérôme Poulain:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - Gobelins
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2018/jerome-poulain.html
+  linkedin: https://www.linkedin.com/in/jerome-poulain-b23a6064/
+  profil: Mentor
+  programme: EIG
+  title: Jérôme Poulain
+  twitter:
+  website:
+Kim Montalibet:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - DataJust
+  github:
+  gitlab: kimi_mtb
+  image_url: /img/communaute/kim-montalibet.png
+  link_to: /communaute/2019/kim-montalibet.html
+  linkedin: https://www.linkedin.com/in/kim-montalibet-1a01a265
+  profil: Data scientist
+  programme: EIG
+  title: Kim Montalibet
+  twitter:
+  website:
+Laure Dubuc:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Résorption bidonvilles
+  github:
+  gitlab:
+  image_url: /img/communaute/laure-dubuc.png
+  link_to: /communaute/2019/laure-dubuc.html
+  linkedin: https://www.linkedin.com/in/laure-dubuc-64419b104/
+  profil: Designer
+  programme: EIG
+  title: Laure Dubuc
+  twitter:
+  website:
+Laurence Matringe:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - PrédiSauvetage
+  github: lamat92
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2018/laurence-matringe.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Laurence Matringe
+  twitter: matringel
+  website:
+Laurent Buchaillat:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - PlaniPref
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/laurent-buchaillat.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Laurent Buchaillat
+  twitter:
+  website:
+Laurent Darellis:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - ProxiRH
+  github:
+  gitlab:
+  image_url: /img/communaute/laurent-darellis.png
+  link_to: /communaute/2019/laurent-darellis.html
+  linkedin: https://www.linkedin.com/in/laurentdarellis/
+  profil: Designer
+  programme: EIG
+  title: Laurent Darellis
+  twitter:
+  website:
+Laurent Delgado:
+  annees:
+  - 2018
+  class:
+  - dig
+  - designer
+  defis:
+  - Sequoia
+  github: 
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/laurent-delgado.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Laurent Delgado
+  twitter: 
+  website:
+Laurent Dupont:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - MESRI - La machine à données
+  github: duplau
+  gitlab:
+  image_url: /img/communaute/Laurent-Dupont.png
+  link_to: /communaute/2017/laurent-dupont.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Laurent Dupont
+  twitter:
+  website:
+Laurent Le Prieur:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Alphabet
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/laurent-le-prieur.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Laurent Le Prieur
+  twitter:
+  website:
+Laurent Toustou:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - DataReg
+  github:
+  gitlab:
+  image_url: /img/communaute/laurent-toustou.png
+  link_to: /communaute/2019/laurent-toustou.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Laurent Toustou
+  twitter:
+  website:
+Laurie Chapotte:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - designer
+  defis:
+  - Gobelins
+  github: lauriechap
+  gitlab:
+  image_url: /img/communaute/Laurie-Chapotte.png
+  link_to: /communaute/2018/laurie-chapotte.html
+  linkedin:
+  profil: Designeuse
+  programme: EIG
+  title: Laurie Chapotte
+  twitter: Lauriechapotte
+  website: http://chapottelaurie.fr/
+Luc Salommez:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - PolyGraphe
+  github:
+  gitlab:
+  image_url: /img/communaute/Luc-Salommez.png
+  link_to: /communaute/2019/luc-salommez.html
+  linkedin: https://www.linkedin.com/in/luc-salommez-6bb89baa
+  profil: Développeur
+  programme: EIG
+  title: Luc Salommez
+  twitter: LucSalommez
+  website:
+Lucas Bchini:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - CartoBio
+  github: Hold7
+  gitlab:
+  image_url: /img/communaute/lucas-bchini.png
+  link_to: /communaute/2019/lucas-bchini.html
+  linkedin: https://www.linkedin.com/in/lucas-bchini-9b1a09a8/
+  profil: Développeur
+  programme: EIG
+  title: Lucas Bchini
+  twitter: lucasbchini
+  website:
+Léo Bouloc:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - datascientist
+  defis:
+  - MESRI - La machine à données
+  github: Leobouloc
+  gitlab:
+  image_url: /img/communaute/Leo-Bouloc.png
+  link_to: /communaute/2017/leo-bouloc.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Léo Bouloc
+  twitter:
+  website:
+Manuel Demougeot:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Résorption bidonvilles
+  github:
+  gitlab:
+  image_url: /img/communaute/manuel-demougeot.png
+  link_to: /communaute/2019/manuel-demougeot.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Manuel Demougeot
+  twitter:
+  website:
+Marc Bouteiller:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - AchaDef
+  github:
+  gitlab:
+  image_url: /img/communaute/marc-bouteiller.png
+  link_to: /communaute/2019/marc-bouteiller.html
+  linkedin: https://linkedin.com/in/marc-bouteiller-511431a8
+  profil: Designer
+  programme: EIG
+  title: Marc Bouteiller
+  twitter: mbout92
+  website:
+Marc Loutrel:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - ID numérique
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/marc-loutrel.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Marc Loutrel
+  twitter:
+  website:
+Marie Feucher:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - CibNav
+  github:
+  gitlab:
+  image_url: /img/communaute/marie-feucher-2.png
+  link_to: /communaute/2019/marie-feucher.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Marie Feucher
+  twitter:
+  website:
+Marie Juille:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - PlaniPref
+  github:
+  gitlab:
+  image_url: /img/communaute/marie-juille.png
+  link_to: /communaute/2019/marie-juille.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Marie Juille
+  twitter:
+  website:
+Marie Ramon-Daré:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Sequoia
+  github:
+  gitlab:
+  image_url: /img/communaute/marie-ramon-dare.png
+  link_to: /communaute/2019/marie-ramon-dare.html
+  linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
+  profil: Designer
+  programme: EIG
+  title: Marie Ramon-Daré
+  twitter:
+  website:
+Marielle Chrisment:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - Brigade Numérique
+  github:
+  gitlab:
+  image_url: /img/communaute/marielle-chrisment.jpg
+  link_to: /communaute/2018/marielle-chrisment.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Marielle Chrisment
+  twitter:
+  website:
+Marine Gout:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Alphabet
+  github:
+  gitlab:
+  image_url: /img/communaute/marine-gout.png
+  link_to: /communaute/2019/marine-gout.html
+  linkedin: https://www.linkedin.com/in/mgout
+  profil: Mentor
+  programme: DIG
+  title: Marine Gout
+  twitter: MarineGout
+  website:
+Marion Paclot:
+  annees:
+  - 2018
+  class:
+  - eig-1
+  - eig
+  - datascientist
+  defis:
+  - DGFiP - fraude fiscale
+  github: marion-paclot
+  gitlab:
+  image_url: /img/communaute/Marion-Paclot.png
+  link_to: /communaute/2017/marion-paclot.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Marion Paclot
+  twitter:
+  website:
+Martin Gross:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - MI - matchID
+  github: SuperKiwi
+  gitlab:
+  image_url: /img/communaute/Martin-Gross.png
+  link_to: /communaute/2017/martin-gross.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Martin Gross
+  twitter: TainMar
+  website:
+Mathieu Andro:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - Plume
+  github:
+  gitlab:
+  image_url: /img/communaute/mathieu-andro.png
+  link_to: /communaute/2019/mathieu-andro.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Mathieu Andro
+  twitter:
+  website:
+Mathieu Clair:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - INPN Espaces
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/mathieu-clair.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Mathieu Clair
+  twitter:
+  website:
+Mathieu Havel:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - ExploCode
+  github: mhavel
+  gitlab:
+  image_url: /img/communaute/mathieu-havel.png
+  link_to: /communaute/2019/mathieu-havel.html
+  linkedin: https://www.linkedin.com/in/mathieu-havel/
+  profil: Data scientist
+  programme: EIG
+  title: Mathieu Havel
+  twitter:
+  website:
+Mathieu Perez:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - Open Justice
+  github:
+  gitlab:
+  image_url: /img/communaute/mathieu-perez.png
+  link_to: /communaute/2019/mathieu-perez.html
+  linkedin: https://www.linkedin.com/in/mathieujperez/
+  profil: Développeur
+  programme: EIG
+  title: Mathieu Perez
+  twitter: MthPrz
+  website:
+Mathilde Bras:
+  annees:
+  - 2017
+  - 2018
+  - 2019
+  class:
+  - eig-1
+  - eig-2
+  - eig-3
+  - mentor
+  defis: ["EIG Link 2018", "EIG Link 2019"]
+  github: MathildeBras
+  gitlab:
+  image_url: /img/communaute/mathilde_bras.jpg
+  link_to: /communaute/2018/mathilde-bras.html
+  linkedin:
+  profil: Accompagnement
+  programme: EIG
+  title: Mathilde Bras
+  twitter: Mathilde_Bras
+  website:
+Mauko Quiroga:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - LexImpact
+  github: maukoquiroga
+  gitlab:
+  image_url: /img/communaute/mauko-quiroga.png
+  link_to: /communaute/2019/mauko-quiroga.html
+  linkedin: https://www.linkedin.com/in/maukoquiroga/
+  profil: Mentor
+  programme: EIG
+  title: Mauko Quiroga
+  twitter: maukoquiroga
+  website:
+Maxime Beaugrand:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - FranceCo
+  github:
+  gitlab:
+  image_url: /img/communaute/maxime-beaugrand.png
+  link_to: /communaute/2019/maxime-beaugrand.html
+  linkedin: https://www.linkedin.com/in/maximebeaugrand
+  profil: Designer
+  programme: EIG
+  title: Maxime Beaugrand
+  twitter: BeaugrandMaxime
+  website:
+Maxime Pierrot:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - DataESR
+  github: pierrax
+  gitlab:
+  image_url: /img/communaute/Maxime-Pierrot.png
+  link_to: /communaute/2018/maxime-pierrot.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Maxime Pierrot
+  twitter: mpierrax
+  website:
+Michael Fumery:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Recrues
+  github:
+  gitlab:
+  image_url: /img/communaute/michael-fumery.png
+  link_to: /communaute/2019/michael-fumery.html
+  linkedin: https://www.linkedin.com/in/m-fumery
+  profil: Mentor
+  programme: DIG
+  title: Michael Fumery
+  twitter:
+  website:
+Ned Baldessin:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Gobelins
+  github: nedbaldessin
+  gitlab:
+  image_url: /img/communaute/Ned-Baldessin.png
+  link_to: /communaute/2018/ned-baldessin.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Ned Baldessin
+  twitter: ned
+  website:
+Nicolas Berkouk:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - ADLER
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/nicolas-berkouk.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Nicolas Berkouk
+  twitter:
+  website:
+Nicolas Bizet:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - ACOSS-Plateforme
+  github:
+  gitlab:
+  image_url: /img/communaute/nicolas-bizet.png
+  link_to: /communaute/2019/nicolas-bizet.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Nicolas Bizet
+  twitter:
+  website:
+Nicolas Grandjean:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Recrues
+  github:
+  gitlab:
+  image_url: /img/communaute/nicolas-grandjean.png
+  link_to: /communaute/2019/nicolas-grandjean.html
+  linkedin: https://www.linkedin.com/in/nicolas-grandjean-64b325107
+  profil: Designer
+  programme: EIG
+  title: Nicolas Grandjean
+  twitter:
+  website:
+Nicolas Mathieu:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - App 112
+  github:
+  gitlab:
+  image_url: /img/communaute/nicolas-mathieu.png
+  link_to: /communaute/2019/nicolas-mathieu.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Nicolas Mathieu
+  twitter:
+  website:
+Nicolas Patriarca:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - PlaniPref
+  github: Nik165790
+  gitlab:
+  image_url: /img/communaute/nicolas-patriarca.png
+  link_to: /communaute/2019/nicolas-patriarca.html
+  linkedin: https://www.linkedin.com/in/nicolas-patriarca-5a94b67b
+  profil: Designer
+  programme: EIG
+  title: Nicolas Patriarca
+  twitter:
+  website:
+Nikos Peteinatos:
+  annees:
+  - 2019
   class:
   - eig-3
   - eig
   - designer
-
-"Olivier Brandouy":
-  image: img/communaute/miniatures/olivier-brandouy.jpg
-  title: Olivier Brandouy
+  defis:
+  - Plume
+  github: nikosgpet
+  gitlab:
+  image_url: /img/communaute/nikos-peteinatos.png
+  link_to: /communaute/2019/nikos-peteinatos.html
+  linkedin: https://linkedin.com/in/nikosgpet
+  profil: Designer
+  programme: EIG
+  title: Nikos Peteinatos
+  twitter: nikosgpet
+  website: http://nikosgpet.com
+Olivier Benoist:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - PlaniPref
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/olivier-benoist.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Olivier Benoist
+  twitter:
+  website:
+Olivier Brandouy:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - Plume
+  github:
+  gitlab:
+  image_url: /img/communaute/olivier-brandouy.png
   link_to: /communaute/2019/olivier-brandouy.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Olivier Brandouy
+  twitter:
+  website:
+Olivier Garry:
   annees:
   - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - Sequoia
+  github:
+  gitlab:
+  image_url: /img/communaute/olivier-garry.png
+  link_to: /communaute/2019/olivier-garry.html
+  linkedin: https://www.linkedin.com/in/ogarry/
   profil: Mentor
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
-  class: 2019 mentor
-
-"Pascal Guy":
-  image: img/communaute/miniatures/pascal-guy.jpg
-  title: Pascal Guy
+  programme: DIG
+  title: Olivier Garry
+  twitter:
+  website:
+Pascal Guy:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - Plume
+  github:
+  gitlab:
+  image_url: /img/communaute/pascal-guy.png
   link_to: /communaute/2019/pascal-guy.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Pascal Guy
+  twitter:
+  website:
+Patricia Poulet-Mathis:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/plume.html" target="new">Plume</a>
-  class: 2019 mentor
-
-"Patricia Poulet-Mathis":
-  image: img/communaute/miniatures/patricia-poulet-mathis.png
-  title: Patricia Poulet-Mathis
+  class:
+  - mentor
+  defis:
+  - ACOSS-Plateforme
+  github:
+  gitlab:
+  image_url: /img/communaute/patricia-poulet-mathis.png
   link_to: /communaute/2019/patricia-poulet-mathis.html
-  annees:
-  - 2019
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2019/acossplateforme.html" target="new">ACOSS-plateforme</a>
-  class: 2019 mentor
-
-"Paul Boosz":
-  image: img/communaute/miniatures/Paul-Boosz.png
-  title: Paul Boosz
-  link_to: /communaute/2018/paul-boosz.html
+  programme: EIG
+  title: Patricia Poulet-Mathis
+  twitter:
+  website:
+Paul Boosz:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/hopkins.html" target="new">Hopkins</a>
   class:
   - eig-2
   - eig
   - datascientist
-
-"Paul Schmite":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Paul Schmite
-  link_to: /communaute/2018/paul-schmite.html
+  defis:
+  - Hopkins
+  github: paulboosz
+  gitlab:
+  image_url: /img/communaute/Paul-Boosz.png
+  link_to: /communaute/2018/paul-boosz.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Paul Boosz
+  twitter:
+  website:
+Paul Schmite:
   annees:
   - 2018
-  profil: Accompagnement
-  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
   class:
   - eig-1
   - eig-2
-
-"Philéas Condemine":
-  image: img/communaute/miniatures/phileas-condemine.png
-  title: Philéas Condemine
+  defis: []
+  github: PaulEtalab
+  gitlab:
+  image_url: /img/communaute/paul_schmite.jpg
+  link_to: /communaute/2018/paul-schmite.html
+  linkedin:
+  profil: Accompagnement
+  programme: EIG
+  title: Paul Schmite
+  twitter: schmitologie
+  website:
+Philéas Condemine:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig-3
+  - eig
+  - mentor
+  - datascientist
+  defis:
+  - Lab Santé
+  - Open Chronic
+  github: phileas-condemine
+  gitlab:
+  image_url: /img/communaute/phileas-condemine.png
   link_to: /communaute/2018/phileas-condemine.html
-  annees:
-  - 2018
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2019/openchronic.html" target="new">Lab Santé, Open Chronic</a>
+  programme: EIG
+  title: Philéas Condemine
+  twitter:
+  website:
+Pierre Arène:
+  annees:
+  - 2019
   class:
-  - eig-2
-  - eig-3
-  - eig
+  - dig
   - mentor
-  - datascientist
-
-"Pierre-Alain Jachiet":
-  image: img/communaute/miniatures/pierre-alain-jachiet.jpg
-  title: Pierre-Alain Jachiet
-  link_to: /communaute/2019/pierre-alain-jachiet.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/openchronic.html" target="new">Open Chronic</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Pierre Camilleri":
-  image: img/communaute/miniatures/pierre-camilleri.png
-  title: Pierre Camilleri
-  link_to: /communaute/2018/pierre-camilleri.html
-  annees:
-  - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/signauxfaibles.html" target="new">Signaux Faibles</a>
-  class:
-  - eig-2
-  - eig
-  - datascientist
-
-"Quentin Loridant":
-  image: img/communaute/miniatures/quentin-loridant.jpg
-  title: Quentin Loridant
-  link_to: /communaute/2019/quentin-loridant.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/cibnav.html" target="new">CibNav</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Renaud Périn":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Renaud Périn
-  link_to: /communaute/2018/renaud-perin.html
-  annees:
-  - 2018
+  defis:
+  - ProxiRH
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/pierre-arene.html
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/donneesauvetagemaritime.html" target="new">Prédisauvetage</a>
+  programme: DIG
+  title: Pierre Arène
+  twitter:
+  website:
+Pierre Camilleri:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - datascientist
+  defis:
+  - Signaux Faibles
+  github: jazzypierrot
+  gitlab:
+  image_url: /img/communaute/pierre-camilleri.png
+  link_to: /communaute/2018/pierre-camilleri.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Pierre Camilleri
+  twitter:
+  website:
+Pierre Charreau:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - plateforme Handicap
+  github:
+  gitlab:
+  image_url: /img/communaute/pierre-charreau.png
+  link_to: /communaute/2019/pierre-charreau.html
+  linkedin:
+  profil: Designer
+  programme: EIG
+  title: Pierre Charreau
+  twitter:
+  website:
+Pierre-Alain Jachiet:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - Open Chronic
+  github: pajachiet
+  gitlab:
+  image_url: /img/communaute/pierre-alain-jachiet.png
+  link_to: /communaute/2019/pierre-alain-jachiet.html
+  linkedin: https://www.linkedin.com/in/pierrealainjachiet/
+  profil: Data scientist
+  programme: EIG
+  title: Pierre-Alain Jachiet
+  twitter: pa_jachiet
+  website:
+Quentin Loridant:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - CibNav
+  github:
+  gitlab:
+  image_url: /img/communaute/Quentin-Loridant.png
+  link_to: /communaute/2019/quentin-loridant.html
+  linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
+  profil: Data scientist
+  programme: EIG
+  title: Quentin Loridant
+  twitter:
+  website:
+Renaud Périn:
+  annees:
+  - 2018
   class:
   - eig-2
   - mentor
-
-"Rémy Nollet":
-  image: img/communaute/remy-nollet.png
+  defis:
+  - PrédiSauvetage
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2018/renaud-perin.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Renaud Périn
+  twitter:
+  website:
+Rosine Bernez:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - "Ma famille ici"
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/rosine-bernez.html
+  linkedin: https://www.linkedin.com/in/rosine-bernez
+  profil: Designer
+  programme: EIG
+  title: Rosine Bernez
+  twitter:
+  website:
+Régis Perol:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - "Ma famille ici"
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/regis-perol.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Régis Perol
+  twitter:
+  website:
+Rémy Nollet:
   title: Rémy Nollet
   link_to: /communaute/2018/remy-nollet.html
   annees:
   - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/brigadenumerique.html" target="new">Brigade Numérique</a>
   class:
   - eig-2
   - mentor
-
-"Samah Ghalloussi":
-  image: img/communaute/miniatures/Samah-Ghalloussi.png
-  title: Samah Ghalloussi
+  defis:
+  - Brigade Numérique
+  github:
+  gitlab:
+  image_url: /img/communaute/remynollet.jpg
+  link_to: /communaute/2018/remy-nollet.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Rémy Nollet
+  twitter:
+  website:
+Samah Ghalloussi:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - datascientist
+  defis:
+  - Lab Santé
+  github:
+  gitlab:
+  image_url: /img/communaute/Samah-Ghalloussi.png
   link_to: /communaute/2018/samah-ghalloussi.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Samah Ghalloussi
+  twitter: SamahNLP
+  website:
+Sami Moustachir:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/labsante.html" target="new">Lab Santé</a>
   class:
   - eig-2
   - eig
   - datascientist
-
-"Sami Moustachir":
-  image: img/communaute/miniatures/sami-moustachir.jpg
-  title: Sami Moustachir
+  defis:
+  - DataESR
+  github: sammous
+  gitlab:
+  image_url: /img/communaute/sami-moustachir.png
   link_to: /communaute/2018/sami-moustachir.html
-  annees:
-  - 2018
+  linkedin:
   profil: Data scientist
-  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
+  programme: EIG
+  title: Sami Moustachir
+  twitter: sa_mous
+  website:
+Samir Kebli:
+  annees:
+  - 2019
   class:
-  - eig-2
+  - mentor
+  defis:
+  - CartoBio
+  github:
+  gitlab:
+  image_url: /img/communaute/samir-kebli.png
+  link_to: /communaute/2019/samir-kebli.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Samir Kebli
+  twitter:
+  website:
+Sandra Chakroun:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - LexImpact
+  github:
+  gitlab:
+  image_url: /img/communaute/sandra-chakroun.jpg
+  link_to: /communaute/2019/sandra-chakroun.html
+  linkedin: https://www.linkedin.com/in/sandra-chakroun/
+  profil: Mentor
+  programme: EIG
+  title: Sandra Chakroun
+  twitter:
+  website:
+Sarah Lepreux:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Alphabet
+  github:
+  gitlab:
+  image_url: /img/communaute/sarah-lepreux.png
+  link_to: /communaute/2019/sarah-lepreux.html
+  linkedin: https://www.linkedin.com/in/sarah-lepreux/
+  profil: Designer
+  programme: EIG
+  title: Sarah Lepreux
+  twitter:
+  website:
+Simon Karleskind:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - mentor
+  defis:
+  - Karfu'R
+  github:
+  gitlab:
+  image_url: /img/communaute/simon-karleskind.png
+  link_to: /communaute/2019/simon-karleskind.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Simon Karleskind
+  twitter:
+  website:
+Simon Lebastard:
+  annees:
+  - 2019
+  class:
+  - eig-3
   - eig
   - datascientist
-
-"Samir Kebli":
-  image: img/communaute/miniatures/samir-kebli.jpg
-  title: Samir Kebli
-  link_to: /communaute/2019/samir-kebli.html
+  defis:
+  - ADLER
+  github: slebastard
+  gitlab:
+  image_url: /img/communaute/simon-lebastard.png
+  link_to: /communaute/2019/simon-lebastard.html
+  linkedin: https://www.linkedin.com/in/simon-lebastard/
+  profil: Data scientist
+  programme: EIG
+  title: Simon Lebastard
+  twitter:
+  website:
+Sofia Boulaarab:
   annees:
   - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
-  class: 2019 mentor
-
-"Sandra Chakroun":
-  image: img/communaute/miniatures/sandra-chakroun.jpg
-  title: Sandra Chakroun
-  link_to: /communaute/2019/sandra-chakroun.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/leximpact.html" target="new">LexImpact</a>
-  class: 2019 mentor
-
-"Sébastien Cossin":
-  image: img/communaute/miniatures/Sebastien-Cossin.png
-  title: Sébastien Cossin
-  link_to: /communaute/2017/sebastien-cossin.html
+  class:
+  - designer
+  - dig
+  defis:
+  - plateforme Handicap
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/sofia-boulaarab.html
+  linkedin:
+  profil: Designer
+  programme: EIG
+  title: Sofia Boulaarab
+  twitter:
+  website:
+Soizic Pénicaud:
   annees:
   - 2017
-  profil: Développeur
-  defi: <a href="/defis/2017/ars-occitanie-parcours-de-soin.html" target="new">ARS-Parcours de soin</a>
+  - 2018
   class:
   - eig-1
-  - eig
-  - webdev
-
-"Sébastien Touzé":
-  image: img/communaute/miniatures/sebastien-touze.jpg
-  title: Sébastien Touzé
-  link_to: /communaute/2019/sebastien-touze.html
+  - eig-2
+  defis: []
+  github: soizicpenicaud
+  gitlab:
+  image_url: /img/communaute/soizic_penicaud.jpg
+  link_to: /communaute/2018/soizic-penicaud.html
+  linkedin:
+  profil: Accompagnement
+  programme: EIG
+  title: Soizic Pénicaud
+  twitter: soizicpenicaud
+  website:
+Sophie Jacquemont:
   annees:
   - 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/cibnav.html" target="new">CibNAV</a>
   class:
-  - eig-3
-  - eig
-  - webdev
-
-"Simon Karleskind":
-  image: img/communaute/miniatures/simon-karleskind.png
-  title: Simon Karleskind
-  link_to: /communaute/2019/simon-karleskind.html
-  annees:
-  - 2019
-  profil: Mentor
-  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
-  class:
-  - eig-3
+  - dig
   - mentor
-
-"Simon Lebastard":
-  image: img/communaute/miniatures/simon-lebastard.jpg
-  title: Simon Lebastard
-  link_to: /communaute/2019/simon-lebastard.html
-  annees:
-  - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/adler.html" target="new">ADLER</a>
-  class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Sophie Miljkovic":
-  image: img/communaute/miniatures/sophie-milkovitch.jpg
-  title: Sophie Miljkovic
-  link_to: /communaute/2018/sophie-miljkovic.html
+  defis:
+  - Résorption bidonvilles
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/sophie-jacquemont.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Sophie Jacquemont
+  twitter:
+  website:
+Sophie Miljkovic:
   annees:
   - 2018 2019
-  profil: Accompagnement
-  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
   class:
   - eig-2
   - eig-3
-
-"Soufiane Lamrissi":
-  image: img/communaute/miniatures/Soufiane-Lamrissi.jpg
-  title: Soufiane Lamrissi
+  defis: []
+  github: milkosofi
+  gitlab:
+  image_url: /img/communaute/sophie-milkovitch.png
+  link_to: /communaute/2018/sophie-miljkovic.html
+  linkedin:
+  profil: Accompagnement
+  programme: EIG
+  title: Sophie Miljkovic
+  twitter: MiljkovicSophie
+  website:
+Soufiane Lamrissi:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - Karfu'R
+  github: Tony4469
+  gitlab:
+  image_url: /img/communaute/soufiane-lamrissi.png
   link_to: /communaute/2019/soufiane-lamrissi.html
+  linkedin: https://www.linkedin.com/in/soufiane-lamrissi-15b79261/
+  profil: Développeur
+  programme: EIG
+  title: Soufiane Lamrissi
+  twitter:
+  website:
+Stéphane Mavel:
   annees:
   - 2019
-  profil: Développeur
-  defi: <a href="/defis/2019/karfur.html" target="new">Karfu'R</a>
   class:
-  - eig-3
-  - eig
-  - webdev
-
-"Stéphanie Combes":
-  image: img/communaute/miniatures/stephanie-combes.jpg
-  title: Stéphanie Combes
+  - dig
+  - mentor
+  defis:
+  - FranceCo
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/stephane-mavel.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Stéphane Mavel
+  twitter:
+  website:
+Stéphane Petit:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - AchaDef
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/stephane-petit.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Stéphane Petit
+  twitter:
+  website:
+Stéphanie Combes:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - Lab Santé
+  - Open Chronic
+  github:
+  gitlab:
+  image_url: /img/communaute/2_photostephaniecombes.png
   link_to: /communaute/2018/stephanie-combes.html
-  annees:
-  - 2018
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/labsante.html" target="new">Lab Santé</a>
-  class:
-  - eig-2
-  - mentor
-
-"Stéphanie Schaer":
-  image: img/communaute/miniatures/stephanie-schaer.jpg
-  title: Stéphanie Schaer
-  link_to: /communaute/2018/stephanie-schaer.html
-  annees:
-  - 2018
-  profil: Mentor
-  defi: <a href="/defis/2018/signauxfaibles">Signaux Faibles</a>
-  class:
-  - eig-2
-  - mentor
-
-"Soizic Pénicaud":
-  image: img/communaute/miniatures/soizic_penicaud.jpg
-  title: Soizic Pénicaud
-  link_to: /communaute/2018/soizic-penicaud.html
-  annees:
-  - 2017
-  - 2018
-  profil: Accompagnement
-  defi: <a href="/defis/2018/eiglink.html" target="new">Programme EIG</a>
-  class:
-  - eig-1
-  - eig-2
-
-"Thierry Razanajao":
-  image: img/communaute/miniatures/thierry-razanajao.jpg
-  title: Thierry Razanajao
-  link_to: /communaute/2019/thierry-razanajao.html
+  programme: EIG
+  title: Stéphanie Combes
+  twitter:
+  website:
+Stéphanie Devigne:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/datareg.html" target="new">DataReg</a>
   class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Tiphaine Phe-Neau":
-  image: img/communaute/miniatures/Tiphaine-PheNeau.png
-  title: Tiphaine Phe-Neau
-  link_to: /communaute/2018/tiphaine-phe-neau.html
+  - dig
+  - mentor
+  defis:
+  - RembourSanté
+  github:
+  gitlab:
+  image_url: img/communaute/stephanie-devigne.png
+  link_to: /communaute/2019/stephanie-devigne.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Stéphanie Devigne
+  twitter:
+  website:
+Stéphanie Schaer:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/previsecours.html" target="new">Prévisecours</a>
   class:
   - eig-2
-  - eig
-  - datascientist
-
-"Tristram Gräbener":
-  image: img/communaute/miniatures/Tristram-Grabener.png
-  title: Tristram Gräbener
-  link_to: /communaute/2017/tristram-grabener.html
+  - mentor
+  defis:
+  - Signaux Faibles
+  github:
+  gitlab:
+  image_url: /img/communaute/stephanie-schaer.png
+  link_to: /communaute/2018/stephanie-schaer.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Stéphanie Schaer
+  twitter:
+  website:
+Sébastien Cossin:
   annees:
   - 2017
-  profil: Développeur
-  defi: <a href="/defis/2017/mi-cartav-securite-routiere.html" target="new">MI-cartAV</a>
   class:
   - eig-1
   - eig
   - webdev
-
-"Valentin Barrière":
-  image: img/communaute/miniatures/Valentin-Barriere.jpg
-  title: Valentin Barrière
-  link_to: /communaute/2019/valentin-barriere.html
+  defis:
+  - ARS - Parcours de soin
+  github: scossin
+  gitlab:
+  image_url: /img/communaute/Sebastien-Cossin.png
+  link_to: /communaute/2017/sebastien-cossin.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Sébastien Cossin
+  twitter: sebcossin
+  website:
+Sébastien Touzé:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/openjustice.html" target="new">Open Justice</a>
+  class:
+  - eig-3
+  - eig
+  - webdev
+  defis:
+  - CibNav
+  github: SebastienTouze
+  gitlab:
+  image_url: /img/communaute/Sebastien-Touze.png
+  link_to: /communaute/2019/sebastien-touze.html
+  linkedin: https://www.linkedin.com/in/sebastientouze
+  profil: Développeur
+  programme: EIG
+  title: Sébastien Touzé
+  twitter: sebtouze
+  website:
+Thierry Razanajao:
+  annees:
+  - 2019
   class:
   - eig-3
   - eig
   - datascientist
-
-"Victor Journé":
-  image: img/communaute/miniatures/victor-journe.jpg
-  title: Victor Journé
-  link_to: /communaute/2019/victor-journe.html
+  defis:
+  - DataReg
+  github: madageomapping
+  gitlab:
+  image_url: /img/communaute/thierry-razanajao.png
+  link_to: /communaute/2019/thierry-razanajao.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Thierry Razanajao
+  twitter:
+  website:
+Thomas Lesueur:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/iaflash.html" target="new">IA Flash</a>
   class:
-  - eig-3
-  - eig
-  - datascientist
-
-"Victor Schmidt":
-  image: img/communaute/miniatures/victor-schmidt.jpg
-  title: Victor Schmidt
-  link_to: /communaute/2018/victor-schmidt.html
+  - dig
+  - mentor
+  defis:
+  - Sequoia
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/thomas-lesueur.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Thomas Lesueur
+  twitter:
+  website:
+Tiphaine Phe-Neau:
   annees:
   - 2018
-  profil: Data scientist
-  defi: <a href="/defis/2018/hopkins.html" target="new">Hopkins</a>
   class:
   - eig-2
   - eig
   - datascientist
-
-"Viktor Jarry":
-  image: img/communaute/miniatures/viktor-jarry.jpg
-  title: Viktor Jarry
-  link_to: /communaute/2019/viktor-jarry.html
+  defis:
+  - Prévisecours
+  github: tiphaine
+  gitlab:
+  image_url: /img/communaute/Tiphaine-PheNeau.png
+  link_to: /communaute/2018/tiphaine-phe-neau.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Tiphaine Phe-Neau
+  twitter: datatiph
+  website: http://www.phe-neau.com/
+Tristram Gräbener:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - MI - cartAV
+  github: Tristramg
+  gitlab:
+  image_url: /img/communaute/Tristram-Grabener.png
+  link_to: /communaute/2017/tristram-grabener.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Tristram Gräbener
+  twitter: tristramg
+  website:
+Valentin Barrière:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/openchronic.html" target="new">Open Chronic</a>
   class:
   - eig-3
   - eig
   - datascientist
-
-"Wojtek Sitarz":
-  image: img/communaute/miniatures/wojtek-sitarz.jpg
-  title: Wojtek Sitarz
-  link_to: /communaute/2019/wojtek-sitarz.html
+  defis:
+  - Open Justice
+  github:
+  gitlab:
+  image_url: /img/communaute/Valentin-Barriere.png
+  link_to: /communaute/2019/valentin-barriere.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Valentin Barrière
+  twitter:
+  website:
+Valérie Peneau:
   annees:
   - 2019
-  profil: Data scientist
-  defi: <a href="/defis/2019/cartobio.html" target="new">CartoBio</a>
+  class:
+  - dig
+  - mentor
+  defis:
+  - ID numérique
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/valerie-peneau.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Valérie Peneau
+  twitter:
+  website:
+Victor Journé:
+  annees:
+  - 2019
   class:
   - eig-3
   - eig
   - datascientist
-
-"Yann Caradec":
-  image: img/communaute/miniatures/Sans-photo.png
-  title: Yann Caradec
-  link_to: /communaute/2018/yann-caradec.html
+  defis:
+  - IA Flash
+  github: victorjourne
+  gitlab:
+  image_url: /img/communaute/victor-journe.png
+  link_to: /communaute/2019/victor-journe.html
+  linkedin: https://www.linkedin.com/in/victorjourne/
+  profil: Data scientist
+  programme: EIG
+  title: Victor Journé
+  twitter:
+  website:
+Victor Schmidt:
   annees:
   - 2018
+  class:
+  - eig-2
+  - eig
+  - datascientist
+  defis:
+  - Hopkins
+  github: vict0rsch
+  gitlab:
+  image_url: /img/communaute/VictorSchmidt.png
+  link_to: /communaute/2018/victor-schmidt.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Victor Schmidt
+  twitter: vict0rsch
+  website: https://metada.org
+Viktor Jarry:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - Open Chronic
+  github: vjarry
+  gitlab:
+  image_url: /img/communaute/viktor-jarry.png
+  link_to: /communaute/2019/viktor-jarry.html
+  linkedin: https://www.linkedin.com/in/viktor-jarry-b2998690/
+  profil: Data scientist
+  programme: EIG
+  title: Viktor Jarry
+  twitter:
+  website:
+Vincent Bataille:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - FranceCo
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/vincent-bataille.html
+  linkedin:
   profil: Mentor
-  defi: <a href="/defis/2018/dataesr.html" target="new">dataESR</a>
+  programme: DIG
+  title: Vincent Bataille
+  twitter:
+  website:
+Wojtek Sitarz:
+  annees:
+  - 2019
+  class:
+  - eig-3
+  - eig
+  - datascientist
+  defis:
+  - CartoBio
+  github: wojteksitarz
+  gitlab:
+  image_url: /img/communaute/wojtek-sitarz.png
+  link_to: /communaute/2019/wojtek-sitarz.html
+  linkedin: https://www.linkedin.com/in/wojtek-sitarz/
+  profil: Data scientist
+  programme: EIG
+  title: Wojtek Sitarz
+  twitter:
+  website:
+Yann Caradec:
+  annees:
+  - 2018
   class:
   - eig-2
   - mentor
+  defis:
+  - MESRI - La machine à données
+  - DataESR
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2018/yann-caradec.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Yann Caradec
+  twitter: y_caradec
+  website:
+Élise Lalique:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - designer
+  defis:
+  - Social Connect
+  github: Eliselalique
+  gitlab:
+  image_url: /img/communaute/elise-250.jpg
+  link_to: /communaute/2018/elise-lalique.html
+  linkedin:
+  profil: Designeuse
+  programme: EIG
+  title: Élise Lalique
+  twitter:
+  website:
+Éloi Buat-Ménard:
+  annees:
+  - 2019
+  class:
+  - mentor
+  defis:
+  - Open Justice
+  github:
+  gitlab:
+  image_url: /img/communaute/eloi-bluat-menard.png
+  link_to: /communaute/2019/eloi-buat-menard.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Éloi Buat-Ménard
+  twitter:
+  website:
+Éric Le Guen:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - b@liseNAV
+  github:
+  gitlab:
+  image_url: /img/communaute/eric_le_guen.jpg
+  link_to: /communaute/2018/eric-le-guen.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Éric Le Guen
+  twitter:
+  website:
+Étienne David:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - AFD - Geodata
+  github: EtienneDavid
+  gitlab:
+  image_url: /img/communaute/Etienne-David.png
+  link_to: /communaute/2017/etienne-david.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Étienne David
+  twitter: EtienneDavid
+  website:

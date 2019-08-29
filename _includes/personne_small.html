@@ -1,16 +1,11 @@
 <div class="small-6 columns text-center personne_container {{ include.extra_class }}">
-  <a href="{{site.data.personnes[include.name].link_to}}">
-    {% if site.data.personnes[include.name] %}
-    {% assign image_url = site.data.personnes[include.name].image %}
-    {% else %}
-    {% assign image_url = 'img/communaute/miniatures/Sans-photo.png' %}
-    {% endif %}
+  <a href="{{ site.data.personnes[include.name].link_to }}">
     <img
-      src="/{{ image_url }}"
+      src="{{ site.data.personnes[include.name].image_url }}"
       alt="Photo {{ include.name }}"
       class="personne"
     ><br>
     {{ include.name }}<br>
-    <span class="role">{{site.data.personnes[include.name].profil }}</span>
+    <span class="role">{{ site.data.personnes[include.name].profil }}</span>
   </a>
 </div>

@@ -3,8 +3,8 @@ layout: defi
 title: ExploCode
 ---
 
-La [Direction générale du Travail (DGT)](http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail) souhaite se doter d'un outil 
-qui permette de répondre à toute question concernant le droit du 
+La [Direction générale du Travail (DGT)](http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail) souhaite se doter d'un outil
+qui permette de répondre à toute question concernant le droit du
 travail grâce à de l’analyse sémantique, l’exploration de
 solutions d’IA, et le développement de services et API pour une
 diversité d’utilisateurs concernés par le droit du travail (agents
@@ -14,11 +14,11 @@ publics, syndicats, associations, entreprises, RH, etc.).
 
 ### La problématique
 
-En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes. Le nombre de ces demandes témoigne d’un besoin clair : quelle que soit sa situation particulière, être en mesure de trouver une réponse lisible et fiable à la question de droit du travail que l’on se pose. 
+En 2017, les services de renseignement en droit du travail des Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l’emploi (DIRECCTE) ont répondu à environ 900 000 demandes concernant le droit du travail, des questions les plus simples aux cas les plus complexes. Le nombre de ces demandes témoigne d’un besoin clair : quelle que soit sa situation particulière, être en mesure de trouver une réponse lisible et fiable à la question de droit du travail que l’on se pose.
 
 Pour rendre le droit du travail accessible au plus grand nombre, une première brique a été posée en septembre 2017 : le [Code du travail numérique](https://beta.gouv.fr/startup/codedutravail.html). En cours de construction itérative au sein de l’incubateur des ministères sociaux, cette brique a été conçue comme un outil pédagogique qui permet de naviguer dans le Code et propose des explications de textes à l’attention de ses utilisateurs.
 
-Pour aller plus loin et permettre aux usagers d’accéder de façon autonome, simplifiée et dématérialisée aux différents textes traitant du droit du travail applicables à leur situation, une deuxième brique a été imaginée : ExploCode. 
+Pour aller plus loin et permettre aux usagers d’accéder de façon autonome, simplifiée et dématérialisée aux différents textes traitant du droit du travail applicables à leur situation, une deuxième brique a été imaginée : ExploCode.
 
 ### Le défi : développer une brique d’intelligence artificielle capable d’apporter une réponse juridique lisible et fiable aux questions posées par les usagers en droit du travail
 

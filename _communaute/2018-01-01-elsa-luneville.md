@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: 
-github: Elsalune
 nom: Elsa Luneville
-website:
-annees: 2018
-defis:
-  - nom: Prédisauvetage
-    site: /defis/2018/donneesauvetagemaritime.html
-profil: Datascientiste
-images:
-  - /img/communaute/Elsa-Luneville.png
 ---
 
 « Je suis diplômée de l’IESEG d’un master en économie et je me suis

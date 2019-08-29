@@ -1,6 +1,5 @@
 ---
 layout: personne
-twitter: SamahNLP
 nom: Samah Ghalloussi
 website:
 annees: 2018

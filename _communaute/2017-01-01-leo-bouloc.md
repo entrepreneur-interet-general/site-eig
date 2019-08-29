@@ -1,7 +1,5 @@
 ---
 layout: personne
-twitter: 
-github: Leobouloc
 nom: Léo Bouloc
 website:
 annees: 2017

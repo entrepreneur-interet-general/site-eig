@@ -1,8 +1,5 @@
 ---
 layout: personne
-twitter: 
-github: 
-gitlab: jnaour
 nom: Julien Naour
 website:
 annees: 2018
