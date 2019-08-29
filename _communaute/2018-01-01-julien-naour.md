@@ -6,10 +6,10 @@ gitlab: jnaour
 nom: Julien Naour
 website:
 annees: 2018
-defis: Lab Santé
-profil: 
-  - nom: Datascience
-    site: /defis/2018/datascience.html
+defis: 
+  - nom: Lab Santé
+    site: /defis/2018/labsante.html
+profil: Datascientiste
 images:
   - /img/communaute/JulienNaour.png
 ---
