@@ -9,4 +9,4 @@ Le compte Ameli, créé en 2007 sur le web, comptabilise à ce jour plus de 30 m
 
 ### Le défi : améliorer la compréhension et l'utilisabilité de la rubrique « Mes Paiements » par les assurés
 
-Suivant une méthodologie agile, la résolution passera par une phase d'étude terrain, de tests utilisateurs, d'ateliers et de benchmark. Elle sera complétée par des phases itératives de co-conception des améliorations pour la page « Mes Paiements » avec les parties prenantes - les assurés, les agents en charge du compte ameli, le réseau de la Caisse primaire d'assurance maladie, le centre de recettes et l'équipe de développement. 
+Suivant une méthodologie agile, la résolution passera par une phase d'étude terrain, de tests utilisateurs, d'ateliers et de benchmark. Elle sera complétée par des phases itératives de co-conception des améliorations pour la page « Mes Paiements » avec les parties prenantes - les assurés, les agents en charge du compte ameli, le réseau de la Caisse primaire d'assurance maladie, le centre de recettes et l'équipe de développement.
