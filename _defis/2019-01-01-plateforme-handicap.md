@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: "plateforme Handicap"
+title: "Plateforme Handicap"
 ---
 
 
