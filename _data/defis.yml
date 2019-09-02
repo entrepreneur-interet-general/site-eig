@@ -853,6 +853,22 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi EIG Link."
       show: true
+  projects:
+    - image: img/eig-guides.png
+      title: "Base de connaissances pour les EIG"
+      description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l'administration et le développement de leurs projets."
+      url: https://github.com/entrepreneur-interet-general/eig-link/
+      call_to_action: "Parcourir la base de connaissances"
+    - image: img/realisations/2018/commons-mobilier.png
+      title: "Atelier de contributions à Wikipédia"
+      description: "Nous avons accompagné l'organisation d'une journée de contribution à Wikipédia et Wikimédia Commons autour des objets du Mobilier national, avec Laurie Chapotte et Ned Baldessin, EIG pour le défi Gobelins."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html
+      call_to_action: "Lire le compte-rendu de l'atelier sur le blog EIG"
+    - image: img/realisations/2018/mini-guide-open-source.png
+      title: "Guide pour l'ouverture des codes sources"
+      description: "Nous avons rédigé un mini-guide pour aider les administrations à publier les codes sources des défis EIG."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf
+      call_to_action: "Télécharger le mini-guide Open Source"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
