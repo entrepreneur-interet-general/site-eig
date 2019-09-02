@@ -29,7 +29,13 @@ layout: default
       <div class="metadata">
         <i class="fa fa-calendar" title="Année et durée"></i>
         <span class="sr-only">Année et durée :</span>
-        {{ defi_data.year }} — EIG {{ defi_data.promotion }} — {{ defi_data.duration_months }} mois
+        {{ defi_data.year }} —
+        {% if defi_data.promotion == 'dig' %}
+        Designers d'Intérêt Général —
+        {% else %}
+        EIG {{ defi_data.promotion }} —
+        {% endif %}
+        {{ defi_data.duration_months }} mois
       </div>
     </div>
   </div>

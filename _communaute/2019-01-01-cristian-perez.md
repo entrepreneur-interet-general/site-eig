@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: cris_perez_b
-github: cristianpb
 nom: Cristian Perez Brokate
-website: https://cristianpb.github.io
-annees: 2019
-defis:
-  - nom: IA Flash
-    site: /defis/2019/iaflash.html
-profil: Data Scientist
-images:
-  - /img/communaute/cristian-perez.jpg
 ---
 
 "Diplomé d'un doctorat en chimie physique à l'UPMC, j'ai fait de la

@@ -11,8 +11,6 @@ title: "Tour d’horizon des méthodes d’intelligence artificielle utilisées 
 twitter: AntoineAugusti
 ---
 
-# Tour d’horizon des méthodes d’intelligence artificielle utilisées dans les défis EIG 3
-
 Le programme Entrepreneurs d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration.
 
 

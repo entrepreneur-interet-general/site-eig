@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: soizicpenicaud
-github : soizicpenicaud
 nom: Soizic Pénicaud
-website:
-annees: 2018
-defis: 
-  - nom: EIG Node
-    site: 
-profil: 
-images:
-  - /img/communaute/soizic_penicaud.jpg
 ---
 
 « Diplômée en science politique de l'Université Paris 1 et titulaire d'un master interdisciplinaire en éducation et technologie du CRI Paris, je m'intéresse particulièrement aux liens entre numérique, action publique et inclusion.

@@ -8,5 +8,5 @@ class TestPromos(BaseTest):
             self.assertIn(
                 promo["defi"],
                 noms_defis,
-                f"La promotion `{promo_name}` comporte un nom de défi invalide.",
+                f"La promotion `{promo_name}` comporte un nom de défi invalide dans le fichier `_data/promos.yml`.",
             )

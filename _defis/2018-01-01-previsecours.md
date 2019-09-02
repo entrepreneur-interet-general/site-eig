@@ -3,7 +3,7 @@ layout: defi
 title: Prévisecours
 ---
 
-En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants… 
+En 2016, les sapeurs-pompiers ont effectué plus de 4 542 400 interventions. Chacune d’entre elles suppose la mise en œuvre d’une véritable logistique humaine et matérielle. Celle-ci est d’autant plus complexe que le volume d’interventions est volatile, les lieux variables, les horaires fluctuants…
 
 **Comment aider les pompiers dans leurs interventions ? Grâce à la combinaison de données et du machine learning, Prévisecours aide à mieux anticiper les besoins RH et logistiques des interventions.** 
 

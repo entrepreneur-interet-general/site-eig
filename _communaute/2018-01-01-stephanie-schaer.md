@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: 
 nom: Stéphanie Schaer
-website:
-annees: 2018
-defis: 
-  - nom: Signaux Faibles
-    site: /defis/2018/signauxfaibles.html
-profil: 
-images:
-  - /img/communaute/stephanie-schaer.png
 ---
 
 « Ingénieure de formation, j'ai été nommée en avril 2014

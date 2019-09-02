@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: EtienneDavid
-github: EtienneDavid
-nom: Etienne David
-website:
-annees: 2017
-defis: 
-  - nom: AFD - Geodata
-    site: /defis/2017/afd-geodata.html
-profil: Datascientist
-images:
-  - /img/communaute/Etienne-David.png
+nom: Étienne David
 ---
 
 " Je suis ingénieur AgroParisTech et entrepreneur. Spécialisé
