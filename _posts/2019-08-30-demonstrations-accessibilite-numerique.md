@@ -1,6 +1,6 @@
 ---
 author: Jean-Baptiste Le Dévéhat, EIG Link
-description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fernando Pinto da Silva vous montrent comment un aveugle navigue depuis son ordinateur et depuis son smartphone sur des sites internet et applications. Ce que vous découvrirez : les outils et les gestes de navigation, les erreurs de conception les plus fréquentes, l'importance de bien concevoir les services numériques réellement accessibles à tous."
+description: "Les experts en accessibilité numérique, Jamshid Kohandel et Fernando Pinto da Silva vous montrent comment un aveugle navigue depuis son ordinateur et depuis son smartphone sur des sites internet et applications. Ce que vous découvrirez : les outils et les gestes de navigation, les erreurs de conception les plus fréquentes, l'importance de concevoir des services numériques réellement accessibles à tous."
 image: /img/blog/demo-a11y-20190404.jpeg
 layout: post
 tags:
@@ -9,8 +9,6 @@ tags:
 title: "Démonstrations : comment un aveugle navigue sur le web ?"
 twitter: jbledevehat
 ---
-
-# Démonstrations : Comment un non-voyant navigue sur le web ?
 
 ## Qu'est-ce que l'accessibilité ?
  
@@ -61,6 +59,7 @@ Lors de la seconde démonstration, Jamshid était accompagné de Fernando Pinto 
 Pour la démonstration, ils ont utilisés un iPhone et le lecteur d'écran VoiceOver intégré au système d'exploitation MacOs (pour Android, il y a le lecteur d'écran TalkBack). Un utilisateur lambda qui navigue sur son smartphone déclenche une action à chaque fois qu'il touche un élément sur son écran. **Un aveugle utilise le lecteur d'écran pour décrire tout ce qu'il touche.** Il utilise ensuite des gestes supplémentaires pour déclencher une action. Il s'agit là du premier enseignement de la démonstration.
 
 <iframe frameborder="0" width="100%" height="480" src="https://www.dailymotion.com/embed/video/x7h7en4" allowfullscreen="" allow="autoplay"></iframe>
+_(Re)regardez la démonstration de navigation sur mobile grâce à la vidéo ci-dessus_
 
 Deuxième enseignement : **il existe entre 50 et 60 gestuelles de navigation avec le lecteur d'écran sur mobile**. La démonstration a permis d'en découvrir quelques unes comme par exemple : 
 - le balayage horizontal vers la droite ou la gauche pour aller respectivement vers l'élément suivant ou précédent ;
