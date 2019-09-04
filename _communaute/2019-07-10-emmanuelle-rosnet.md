@@ -1,6 +1,6 @@
 ---
 layout: personne
-nom: Jérémy Bakkalian
+nom: Emmanuelle Rosnet
 ---
 
 « Je suis cheffe de projet depuis janvier 2018 de l’expérimentation conduite par l’Académie de Clermont-Ferrand dans le cadre de la loi ESSOC sur le référent unique, sous l’autorité directe du secrétaire général de l’académie. Il s’agit de simplifier les relations entre usagers et services de l’Education nationale en mettant en œuvre de nouveaux outils de liaisons.
