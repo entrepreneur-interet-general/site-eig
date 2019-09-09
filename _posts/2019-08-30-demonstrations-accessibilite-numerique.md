@@ -90,4 +90,4 @@ Par ailleurs, l'accessibilité numérique semble être un domaine chargé de nor
 
 En un mot, nous vous recommandons fortement d'organiser cette démonstration pour sensibiliser vos concepteurs et  vos développeurs aux enjeux des normes d'accessibilité ! 
 
-Pour organiser une démonstration dans votre administration, vous pouvez prendre contact avec l'équipe [Qualité des services en ligne](https://references.modernisation.gouv.fr/contact).
+Pour organiser une démonstration dans votre administration, vous pouvez prendre contact avec l'équipe [Qualité des services en ligne](http://references.modernisation.gouv.fr/contact-rgaa).
