@@ -850,7 +850,7 @@ Emmanuelle Rosnet:
   - mentor
   defis:
   - Plateforme Handicap
-  github: 
+  github:
   gitlab:
   image_url: /img/communaute/emmanuelle-rosnet.png
   link_to: /communaute/2019/emmanuelle-rosnet.html
@@ -858,7 +858,7 @@ Emmanuelle Rosnet:
   profil: Mentor
   programme: DIG
   title: Emmanuelle Rosnet
-  twitter: 
+  twitter:
   website:
 Emmanuel Weisenburger:
   annees:
@@ -1597,7 +1597,7 @@ Laurent Delgado:
   - designer
   defis:
   - Sequoia
-  github: 
+  github:
   gitlab:
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/laurent-delgado.html
@@ -1605,7 +1605,7 @@ Laurent Delgado:
   profil: Mentor
   programme: EIG
   title: Laurent Delgado
-  twitter: 
+  twitter:
   website:
 Laurent Dupont:
   annees:
@@ -2675,7 +2675,7 @@ Soizic Pénicaud:
   class:
   - eig-1
   - eig-2
-  defis: []
+  defis: ["EIG Link 2019"]
   github: soizicpenicaud
   gitlab:
   image_url: /img/communaute/soizic_penicaud.jpg
