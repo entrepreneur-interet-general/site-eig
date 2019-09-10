@@ -134,6 +134,13 @@
     - "Jean-Baptiste Le Dévéhat"
   mentors:
     - "Mathilde Bras"
+  key_figures:
+    - amount: 32
+      description: "Entrepreneurs d'intérêt général accompagnés"
+    - amount: 21
+      description: "Temps de collaboration organisés"
+    - amount: 8
+      description: "Outils ou ressources produits"
 
 "ExploCode":
   image: /img/logo-explocode.png
