@@ -32,7 +32,7 @@ A partir des données exhaustives du SNDS sur un an et sur un échantillon de 4 
 * **évaluer les pratiques dans la prise en charge des malades chroniques**. Plusieurs pistes pourront être explorées :
    - l'analyse de la variabilité de la prise en charge tout au long du parcours de soins ;
    - la mise en place de modèles prédictifs de détection de patients présentant un fort risque de développer une ALD ;
-   - l'analyse de la coordination des professionnels de santé ville/hôpital ...
+   - l'analyse de la coordination des professionnels de santé ville/hôpital...
 
 * **faire évoluer le serveur Big Data de la DREES** à l'aide de technologies à l'état de l'art (Spark, Pytorch, JupyterHub, RStudio) et accompagner ses utilisateurs sur leurs projets.
 
