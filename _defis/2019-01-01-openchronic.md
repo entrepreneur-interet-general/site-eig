@@ -19,7 +19,7 @@ mieux coordonner les différents professionnels de santé (ville/hôpital).
 Le vieillissement de la population et les évolutions de comportement notamment autour de l'activité et de l'alimentation conduisent à une transformation épidémiologique majeure : une forte croissance des pathologies chroniques telles que les maladies cardio-vasculaires, pulmonaires, le diabète ou le cancer.
 En France, près de 10 millions de personnes souffrent d'une affection de longue durée (ALD), soit 15% de la population et le taux pourrait grimper à 20% en 2025.
 
- **Améliorer la détection précoce, la prise en charge et les parcours de soins des patients concernés constitue un défi majeur des années à venir pour le système de santé** sachant que la prise en charge de ces patients représentent plus de 70% des dépenses de l'assurance maladie.
+ **Améliorer la détection précoce, la prise en charge et les parcours de soins des patients concernés constitue un défi majeur des années à venir pour le système de santé** sachant que la prise en charge de ces patients représente plus de 70% des dépenses de l'assurance maladie.
 
 ### Le défi : constituer une base de données sur les affections de longue durée, complète et exploitable
 
