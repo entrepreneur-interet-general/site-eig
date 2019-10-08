@@ -25,7 +25,7 @@ En France, près de 10 millions de personnes souffrent d'une affection de longue
 
 La loi du 26 janvier 2016 de modernisation du système de santé français a créé et permis l'accès au Système national des données de santé (SNDS). Il regroupe la base de données des feuilles de soin, les données hospitalières et la base des causes médicales de décès.
 
-A partir des données exhaustives du SNDS sur un an et sur un échantillon de 4 millions de patients sur 10 ans, les EIG devront :
+À partir des données exhaustives du SNDS sur un an et sur un échantillon de 4 millions de patients sur 10 ans, les EIG devront :
 
 * **créer la base Open Chronic pour permettre l'analyse des parcours de malades souffrant d'ALD**. L'extraction des parcours de soins demandera des compétences poussées en data engineering pour parvenir à traiter la volumétrie (plusieurs centaines de To) et la complexité (structuration variable) des données du SNDS.
 
