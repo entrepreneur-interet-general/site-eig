@@ -12,7 +12,7 @@ de santé, le développement d’une variété d’outils, notamment pour
 mieux comprendre les variabilités de prise en charge des malades et
 mieux coordonner les différents professionnels de santé (ville/hôpital).
 
-## Open Chronic : Faciliter l'exploitation du SNDS pour améliorer la prise en charge des maladies chroniques
+## Open Chronic : faciliter l'exploitation du SNDS pour améliorer la prise en charge des maladies chroniques
 
 ### La problématique
 
