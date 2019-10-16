@@ -144,9 +144,9 @@
       description: "Outils ou ressources produits"
   projects:
     - image: img/realisations/2019/eig-link-accompagnement.png
-      title: "Temps d'échange"
+      title: "Animation et mentorat"
       description: "Nous avons défini des rituels d'accompagnement au sein de l'équipe de coordination du programme. Ces rituels permettent aux EIG de collaborer lors de plénières, sessions de coworking, séminaires et meetups."
-      url: https://doc.eig-forever.org/accompagnement.html
+      url: https://doc.eig-forever.org/animation.html
       call_to_action: "Voir le calendrier"
     - image: img/realisations/2019/eig-link-outils.png
       title: "Développement d'outils"
