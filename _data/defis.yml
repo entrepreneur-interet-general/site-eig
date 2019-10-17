@@ -140,8 +140,24 @@
       description: "Entrepreneurs d'intérêt général accompagnés"
     - amount: 21
       description: "Temps de collaboration organisés"
-    - amount: 8
+    - amount: 9
       description: "Outils ou ressources produits"
+  projects:
+    - image: img/realisations/2019/eig-link-accompagnement.png
+      title: "Animation et mentorat"
+      description: "Nous avons défini des rituels d'accompagnement au sein de l'équipe de coordination du programme. Ces rituels permettent aux EIG de collaborer lors de plénières, sessions de coworking, séminaires et meetups."
+      url: https://doc.eig-forever.org/animation.html
+      call_to_action: "Voir le calendrier"
+    - image: img/realisations/2019/eig-link-outils.png
+      title: "Développement d'outils"
+      description: "Pour épauler au mieux les entrepreneurs et faire évoluer le programme, nous avons créé plusieurs produits : rétrospective hebdomadaire, outil de standup, documentation interne. Les objectifs de ces produits et outils sont de diffuser la connaissance et faciliter les collaborations."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html
+      call_to_action: "Découvrir la démarche"
+    - image: img/realisations/2019/eig-link-etalab.png
+      title: "Assister Etalab"
+      description: "En tant qu'agents à Etalab et à la DINSIC, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
+      url: https://www.etalab.gouv.fr
+      call_to_action: Découvrir Etalab
 
 "ExploCode":
   image: /img/logo-explocode.png
