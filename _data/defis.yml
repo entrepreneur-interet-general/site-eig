@@ -130,6 +130,7 @@
   promotion: 3
   duration_months: 10
   source_code: https://github.com/entrepreneur-interet-general/eig-link
+  website: https://doc.eig-forever.org
   eigs:
     - "Antoine Augusti"
     - "Jean-Baptiste Le Dévéhat"
