@@ -360,10 +360,12 @@
   mentors:
     - "Audrey Istace"
   key_figures:
-    - amount: 30000000
-      description: "avis analysés"
     - amount: 14
       description: "indicateurs calculés"
+    - amount: 1200000
+      description: "professionnels analysés"
+    - amount: 65000000
+      description: "avis récupérés"
 
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
