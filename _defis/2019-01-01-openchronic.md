@@ -33,7 +33,7 @@ La loi du 26 janvier 2016 de modernisation du système de santé français a cr�
    - l'analyse de la variabilité de la prise en charge tout au long du parcours de soins ;
    - la mise en place de modèles prédictifs de détection de patients présentant un fort risque de développer une ALD ;
    - l'analyse de la coordination des professionnels de santé ville/hôpital...
-     
+
 * **faire évoluer le serveur Big Data de la DREES** à l'aide de technologies à l'état de l'art (Spark, Pytorch, JupyterHub, RStudio) et accompagner ses utilisateurs sur leurs projets.
 
 * **faciliter le partage de connaissances entre les différentes institutions publiques et les agences sanitaires dans le cadre de leur mission de service public**. Cela consistera à développer des outils collaboratifs et partagés favorisant le partage de connaissances et permettant le traitement simplifié des données.
