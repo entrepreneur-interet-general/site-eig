@@ -4,6 +4,8 @@ Adnène Trojette:
   - 2019
   class:
   - mentor
+  - eig-1
+  - eig-2
   defis:
   - CC - API rapports
   - Plume
@@ -41,6 +43,7 @@ Alain Régnier:
   - 2019
   class:
   - mentor
+  - eig-2
   defis:
   - Karfu'R
   github:
@@ -151,6 +154,7 @@ Anne-Sophie Hutin:
   - 2019
   class:
   - mentor
+  - eig-2
   defis:
   - DataJust
   github:
@@ -284,6 +288,7 @@ Audrey Istace:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - PolyGraphe
   github:
@@ -757,6 +762,7 @@ Dorian Flechet:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - CartoBio
   github:
@@ -793,6 +799,7 @@ Edouard Rottier:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - Open Justice
   github:
@@ -803,6 +810,43 @@ Edouard Rottier:
   profil: Mentor
   programme: EIG
   title: Edouard Rottier
+  twitter:
+  website:
+Élise Lalique:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - designer
+  defis:
+  - Social Connect
+  github: Eliselalique
+  gitlab:
+  image_url: /img/communaute/elise-250.jpg
+  link_to: /communaute/2018/elise-lalique.html
+  linkedin:
+  profil: Designeuse
+  programme: EIG
+  title: Élise Lalique
+  twitter:
+  website:
+Éloi Buat-Ménard:
+  annees:
+  - 2019
+  class:
+  - mentor
+  - eig-3
+  defis:
+  - Open Justice
+  github:
+  gitlab:
+  image_url: /img/communaute/eloi-bluat-menard.png
+  link_to: /communaute/2019/eloi-buat-menard.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Éloi Buat-Ménard
   twitter:
   website:
 Elsa Luneville:
@@ -848,6 +892,7 @@ Emmanuelle Rosnet:
   - 2019
   class:
   - mentor
+  - dig
   defis:
   - Plateforme Handicap
   github:
@@ -880,6 +925,24 @@ Emmanuel Weisenburger:
   title: Emmanuel Weisenburger
   twitter: weisenburger_e
   website:
+Éric Le Guen:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - b@liseNAV
+  github:
+  gitlab:
+  image_url: /img/communaute/eric_le_guen.jpg
+  link_to: /communaute/2018/eric-le-guen.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Éric Le Guen
+  twitter:
+  website:
 Erica Marco:
   annees:
   - 2019
@@ -898,6 +961,25 @@ Erica Marco:
   programme: EIG
   title: Erica Marco
   twitter:
+  website:
+Étienne David:
+  annees:
+  - 2017
+  class:
+  - eig-1
+  - eig
+  - webdev
+  defis:
+  - AFD - Geodata
+  github: EtienneDavid
+  gitlab:
+  image_url: /img/communaute/Etienne-David.png
+  link_to: /communaute/2017/etienne-david.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Étienne David
+  twitter: EtienneDavid
   website:
 Evelyne Vezinet:
   annees:
@@ -1104,6 +1186,7 @@ Hervé Brulé:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - CibNav
   github:
@@ -1176,6 +1259,7 @@ Iana Ivanov:
   - 2019
   class:
   - mentor
+  - eig-2
   defis:
   - DataJust
   github:
@@ -1270,6 +1354,7 @@ Jean-Edouard Sastre:
   - 2019
   class:
   - dig
+  - designer
   defis:
   - INPN Espaces
   github:
@@ -1305,6 +1390,7 @@ Jean-René Duscher:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - ExploCode
   github:
@@ -1322,6 +1408,7 @@ Julien Bouquillon:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - ExploCode
   github:
@@ -1649,6 +1736,7 @@ Laurent Toustou:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - DataReg
   github:
@@ -1796,6 +1884,7 @@ Marie Feucher:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - CibNav
   github:
@@ -1923,6 +2012,7 @@ Mathieu Andro:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - Plume
   github:
@@ -2114,7 +2204,7 @@ Nicolas Berkouk:
   - ADLER
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/NicolasBerkouk.png
   link_to: /communaute/2019/nicolas-berkouk.html
   linkedin:
   profil: Data scientist
@@ -2127,6 +2217,7 @@ Nicolas Bizet:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - ACOSS-Plateforme
   github:
@@ -2217,6 +2308,7 @@ Olivier Benoist:
   - 2019
   class:
   - mentor
+  - dig
   defis:
   - PlaniPref
   github:
@@ -2234,6 +2326,7 @@ Olivier Brandouy:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - Plume
   github:
@@ -2269,6 +2362,7 @@ Pascal Guy:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - Plume
   github:
@@ -2286,6 +2380,7 @@ Patricia Poulet-Mathis:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - ACOSS-Plateforme
   github:
@@ -2566,6 +2661,7 @@ Samir Kebli:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - CartoBio
   github:
@@ -2583,6 +2679,7 @@ Sandra Chakroun:
   - 2019
   class:
   - mentor
+  - eig-3
   defis:
   - LexImpact
   github:
@@ -3093,77 +3190,4 @@ Yann Caradec:
   programme: EIG
   title: Yann Caradec
   twitter: y_caradec
-  website:
-Élise Lalique:
-  annees:
-  - 2018
-  class:
-  - eig-2
-  - eig
-  - designer
-  defis:
-  - Social Connect
-  github: Eliselalique
-  gitlab:
-  image_url: /img/communaute/elise-250.jpg
-  link_to: /communaute/2018/elise-lalique.html
-  linkedin:
-  profil: Designeuse
-  programme: EIG
-  title: Élise Lalique
-  twitter:
-  website:
-Éloi Buat-Ménard:
-  annees:
-  - 2019
-  class:
-  - mentor
-  defis:
-  - Open Justice
-  github:
-  gitlab:
-  image_url: /img/communaute/eloi-bluat-menard.png
-  link_to: /communaute/2019/eloi-buat-menard.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Éloi Buat-Ménard
-  twitter:
-  website:
-Éric Le Guen:
-  annees:
-  - 2018
-  class:
-  - eig-2
-  - mentor
-  defis:
-  - b@liseNAV
-  github:
-  gitlab:
-  image_url: /img/communaute/eric_le_guen.jpg
-  link_to: /communaute/2018/eric-le-guen.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Éric Le Guen
-  twitter:
-  website:
-Étienne David:
-  annees:
-  - 2017
-  class:
-  - eig-1
-  - eig
-  - webdev
-  defis:
-  - AFD - Geodata
-  github: EtienneDavid
-  gitlab:
-  image_url: /img/communaute/Etienne-David.png
-  link_to: /communaute/2017/etienne-david.html
-  linkedin:
-  profil: Développeur
-  programme: EIG
-  title: Étienne David
-  twitter: EtienneDavid
   website:
