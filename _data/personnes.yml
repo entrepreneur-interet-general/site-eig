@@ -831,6 +831,24 @@ Edouard Rottier:
   title: Élise Lalique
   twitter:
   website:
+Élise Sanceaume:
+  annees:
+  - 2019
+  class:
+  - dig
+  - designer
+  defis:
+  - ID numérique
+  github: 
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/elise-sanceaume.html
+  linkedin:
+  profil: Designeuse
+  programme: DIG
+  title: Élise Sanceaume
+  twitter:
+  website:
 Éloi Buat-Ménard:
   annees:
   - 2019
@@ -2902,7 +2920,7 @@ Stéphanie Devigne:
   - RembourSanté
   github:
   gitlab:
-  image_url: img/communaute/stephanie-devigne.png
+  image_url: /img/communaute/stephanie-devigne.png
   link_to: /communaute/2019/stephanie-devigne.html
   linkedin:
   profil: Mentor
