@@ -19,7 +19,7 @@
     - "Patricia Poulet-Mathis"
   key_figures:
     - amount: 3
-      description: "services de l’État contributeurs : un objectif commun  ACOSS, Pôle emploi et Direction générale du travail de simplifier les démarches de l’emploi à domicile."
+      description: "services de l’État contributeurs: l'ACOSS, le Pôle emploi et la Direction générale du travail"
     - amount: 70
       description: "données en moins à compléter par l’utilisateur sur l’Attestation Employeur grâce à l’API"
     - amount: 9
