@@ -6,16 +6,15 @@ section_id: questions-frequentes
 <div class='full'>
     <div class='row'>
 	<div class='large-12 columns'>
-	    <h2>Questions relatives à l'appel à candidatures
-		(septembre-novembre)</h2>
+	    <h2>Questions relatives à l'appel à candidatures</h2>
 
 	    <div id="accordion">
-		
+
 		{% for faq in site.data.faq-eig %}
 		<h3>{{faq.question}}</h3>
 		<div>{{faq.reponse}}</div>
 		{% endfor %}
-		
+
 	    </div>
 	</div>
     </div>

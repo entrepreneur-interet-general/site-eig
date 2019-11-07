@@ -38,7 +38,11 @@ layout: default
           {{ personne.annees | join: ', ' }}
         </li>
         <li>
-          <strong>Défi :</strong>
+          {% if personne.defis.size > 1 %}
+            <strong>Défis :</strong>
+          {% else %}
+            <strong>Défi :</strong>
+          {% endif %}
             {% for defi in personne.defis %}
               <a href='{{ site.data.defis[defi].link_to }}'>{{ site.data.defis[defi].title }}</a>
             {% endfor %}

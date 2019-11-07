@@ -1,4 +1,4 @@
 ---
 layout: personne
-nom: Laurent Delgado
+nom: Élise Sanceaume
 ---
