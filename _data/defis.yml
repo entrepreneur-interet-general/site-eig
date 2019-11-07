@@ -130,7 +130,7 @@
       description: 
       show: false
   projects:
-    - image: img/realisations/2019/DataReg.png
+    - image: img/realisations/2019/DataReg_img.png
       title: "Projet EIG DataReg à l'Arcep"
       description: "A partir des données de couverture mobile fournies par les opérateurs, nous avons développé un système entièrement automatisé qui permet d'intégrer les données dans une base de données mobile dédiée. Depuis cette base, nous calculons automatiquement les taux de couverture des opérateurs, qui servent aux différentes unités de l'ARCEP dans leurs missions de suivi."
       url: 
