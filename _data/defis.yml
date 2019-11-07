@@ -51,7 +51,7 @@
   administration: Agence Française pour le Développement et la Promotion de l’Agriculture Biologique
   administration_website: http://www.agencebio.org
   source_code: https://github.com/entrepreneur-interet-general/CartoBio-Presentation
-  website: www.cartobio.org
+  website: http://cartobio.org/#/
   eigs:
     - "Lucas Bchini"
     - "Wojtek Sitarz"
@@ -69,7 +69,7 @@
     - image: img/realisations/2019/cartobio-oc.png
       title: "Application web CartoBIO"
       description: "Cette application permet aux organismes certificateurs d'accéder aux parcelles de leurs clients, d'en ajouter, et de modifier les informations des parcelles dans le cadre du contrôle bio annuel."
-      url: www.cartobio.org
+      url: http://cartobio.org/#/
       call_to_action: "Accéder à l'application"
 
 
