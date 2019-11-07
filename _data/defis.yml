@@ -192,6 +192,8 @@
   mentors:
     - "Julien Bouquillon"
     - "Jean-René Duscher"
+ source_code: https://github.com/SocialGouv/code-du-travail-numerique
+ website: https://code.travail.gouv.fr
  key_figures:
   - amount: 1
     description: "Nouvelle approche de recherche"
