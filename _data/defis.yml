@@ -140,6 +140,8 @@
   key_figures:
     - amount: 32
       description: "Entrepreneurs d'intérêt général accompagnés"
+    - amount: 15
+      description: "Projets EIG (défis) accompagnés"
     - amount: 21
       description: "Temps de collaboration organisés"
     - amount: 9
