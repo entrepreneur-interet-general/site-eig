@@ -70,12 +70,24 @@
   duration_months: 10
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
+  source_code: https://github.com/MTES-MCT/rapportNav
   eigs:
     - "Quentin Loridant"
     - "Sébastien Touzé"
   mentors:
     - "Marie Feucher"
     - "Hervé Brulé"
+  key_figures:
+    - amount: "85%"
+      description: "De la flotte de navires professionnels français est concernée par l'outil CibNAV"
+    - amount: 30
+      description: "Agents impliqués directement dans la conception des outils"
+    - amount: 3
+      description: "Autres administrations et agences impliquées dans le projet"
+    - amount: 2
+      description: "Outils développés"
+    - amount: 3
+      descriptions: "API réutilisables"
 
 "DataJust":
   image: /img/logo-themis.png
