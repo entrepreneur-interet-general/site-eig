@@ -21,7 +21,7 @@
     - amount: 3
       description: "services de l’État contributeurs: l'ACOSS, le Pôle emploi et la Direction générale du travail"
     - amount: 70
-      description: "données en moins à compléter par l’utilisateur sur l’Attestation Employeur grâce à l’API"
+      description: "jusqu'a 70 données en moins à compléter par l’utilisateur sur l’Attestation Employeur grâce à l’API"
     - amount: 9
       description: "calculs d’indemnités simulés pour les utilisateurs."
   projects:
