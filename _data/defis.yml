@@ -203,6 +203,13 @@
     - "Cristian Perez Brokate"
   mentors:
     - "Daniel Ansellem"
+  key_figures:
+    - amount: 10000000
+      description: "De clichés de véhicules pour la base d'entraînement"
+    - amount: 8000
+      description: "Avis de contravention et contestations évitées par an"
+    - amount: 2
+      description: "API en ligne sous licence libre pour la détection de la marque et modèle de véhicules"
   projects:
     - image: img/realisations/2019/matchvec.png
       title: "Détection des marque et modèle du véhicule"
