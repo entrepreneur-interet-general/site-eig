@@ -105,16 +105,36 @@
   skills: EIG 3 // Data
   colorback: red
   description: "Maximiser l’exploitation des données de l'Arcep"
+  administration: Autorité de régulation des communications électroniques et des Postes
+  administration_website: https://www.arcep.fr
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Autorité de régulation des communications électroniques et des Postes
-  administration_website: https://www.arcep.fr
   eigs:
     - "Carine Stolz"
     - "Thierry Razanajao"
   mentors:
     - "Laurent Toustou"
+    - "Pierre Dubreuil"
+    - "Loïc Duflot"
+  key_figures:
+    - amount: 100
+      description: "Fichiers désormais intégrés automatiquement dans la base de données mobile"
+    - amount: 1
+      description: "API - Prototype développé pour connaitre la couverture mobile et internet fixe à une adresse donnée"
+    - amount: 2
+      description: "Ateliers de vulgarisation sur le numérique organisés à l'Arcep - Atelier Géomatique et atelier Open data"
+  end_of_project_videos:
+    - id: 
+      platform: 
+      description: 
+      show: false
+  projects:
+    - image: img/realisations/2019/DataReg.png
+      title: "Projet EIG DataReg à l'Arcep"
+      description: "A partir des données de couverture mobile fournies par les opérateurs, nous avons développé un système entièrement automatisé qui permet d'intégrer les données dans une base de données mobile dédiée. Depuis cette base, nous calculons automatiquement les taux de couverture des opérateurs, qui servent aux différentes unités de l'ARCEP dans leurs missions de suivi."
+      url: 
+      call_to_action: "Sortir les fichiers en Open data"
 
 "EIG Link 2019":
   image: /img/defis/11_EIGLink.png
