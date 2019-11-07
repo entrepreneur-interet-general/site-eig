@@ -4,13 +4,9 @@ title: ACOSS-Plateforme
 ---
 
 [L’Agence centrale des organismes de sécurité sociale
-(ACOSS)](https://www.acoss.fr/home.html) souhaite améliorer
-l’expérience utilisateur des démarches du secteur de l’emploi à
-domicile en développant des APIs autour des données liées aux
-salariés, employeurs, et autres organismes intervenants dans les
-prélèvements sociaux.
+(ACOSS)](https://www.acoss.fr/home.html) souhaite améliorer l’expérience utilisateur des démarches du secteur de l’emploi à domicile en capitalisant sur les données de l’Urssaf.
 
-## ACOSS Plateforme : valoriser les données de l'Urssaf dans le sens d'une meilleure expérience utilisateur
+## ACOSS Plateforme : simplifier les démarches des utilisateurs de l’emploi à domicile à l’aide des données de l’Urssaf.
 
 ### La problématique
 
@@ -28,28 +24,13 @@ valorisation de ces données, elle souhaite développer de nouveaux
 services pour toutes ses parties prenantes : partenaires de la
 sécurité sociale, secteur privé, particuliers...
 
-### Le défi : proposer de nouveaux services pour améliorer l'expérience utilisateur des différents publics de l'ACOSS
+### Le défi : proposer de nouveaux services pour améliorer l’expérience utilisateur des particuliers employeurs et des salariés à domicile.
 
-Un mot d'ordre préside à ce défi : expérience utilisateur. Les
-nouveaux services développés devront être construits en fonction de
-**besoins identifiés auprès des différents publics** en relation avec
-l'Urssaf et proposer un **parcours utilisateur simple** (appliquant,
-par exemple, le principe de "dites-le nous une fois").
+Pajemploi est une offre de service du réseau des Urssaf qui permet 
+**aux parents qui emploient** une assistante maternelle ou une garde d'enfants
+à domicile **de déclarer leurs salaires**. Il a été identifié comme 
+un terrain pertinent d’exploration pour le défi qui aura comme objectifs :
 
-Le Chèque Emploi Service Universel (CESU) permet aux particuliers de
-déclarer facilement la rémunération d'un salaire à domicile pour des
-activités d'aide à la personne. Il a été identifié comme un terrain
-pertinent d'exploration pour le défi qui aura un double-objectif :
-
-* **permettre aux plateformes collaboratives et aux acteurs de l’économie numérique (exemples : plateformes de jobbing, émetteurs de CESU pré-financés...) de s'interfacer**. Ainsi, les particuliers auront accès
-  à de nouveaux services et de nouveaux acteurs économiques pourront
-  s'intéger dans un dispositif garantissant leurs droits ;
-
-* **permettre le partage des données relatives aux activités des
-  salariés à domicile avec d'autres services publics** -Assurance
-  maladie, Pôle Emploi, Portail numérique des droits sociaux. Cette
-  mise en oeuvre du principe « dites-le-nous une fois » a pour but de
-  faciliter les démarches des salariés à domicile.
-
-Dans une approche _design thinking_, d'autres sujets pourront être
-explorés.
+* **L’analyse des difficultés rencontrées par les utilisateur lors de l’accomplissement des démarches sur Pajemploi** et l’identification des opportunités d’amélioration du service.
+* **Le développement d’un service visant à simplifier les démarches des utilisateurs de l’emploi à domicile en mettant en oeuvre le principe du « dites-le-nous une fois »**
+* **Le partage des données relatives aux activités des salariés à domicile avec d’autres services publics** -Assurance maladie, Pôle Emploi, Portail numérique des droits sociaux.
