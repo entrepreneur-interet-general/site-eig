@@ -17,28 +17,16 @@ Pourtant, **mieux légiférer c’est aussi mieux connaître l'impact des réfor
 
 ### Le défi : Développer un outil accessible aux parlementaires, aux agents publics et à la société civile, permettant de connaître l'impact des réformes sur les citoyen·ne·s
 
-[OpenFisca](http://openfisca.org) est un logiciel open source qui comprend des règles de la législation socio-fiscale, et qui permet de simuler l'impact des réformes sur les situations des individus et des ménages.
+**LexImpact avait pour ambition de rendre la simulation d'impact accessible, et d'être utilisé largement lors du Projet de Loi de Finances 2020, afin de faire gagner du temps aux usagers, tout en leur permettant d’élaborer leurs amendements au plus près de leur vision politique** : En 10 mois, l'outil [Leximpact](https://leximpact.beta.gouv.fr) a été implémenté et publié. Il permet à tout citoyen de simuler l'impact d'une réforme paramétrique de l'impôt sur le revenu sur n'importe quelle situation particulière d'un foyer fiscal. 
 
-Il est en particulier utilisé par [Etalab](https://etalab.gouv.fr), l'Incubateur [beta.gouv.fr](https://beta.gouv.fr), l'[Institut des Politiques Publiques](https://www.ipp.eu), la [Mutualité sociale agricole](http://www.msa.fr) et l'[L'Institut d'Économie Publique](https://www.idep-fr.org).
+Par ailleurs, grâce à un accès inédit à des bases de données représentatives de la population, Leximpact permet également à un ensemble d'usagers authentifiés, travaillant à l'élaboration de la loi, de calculer en moins d'une minute l'estimation des effets d'une réforme sur les recettes de l'Etat, ainsi qu'un chiffrage indicatif de son impact redistributif sur la population.
 
-Or, aujourd'hui, ce logiciel n'est accessible qu'à des experts, puisque son usage requiert des compétences en code informatique.
+Développé avec l'appui la Commission des Finances de l'Assemblée nationale, à destination des députés, mais aussi de leurs collaborateurs et des administrateurs, Leximpact a été utilisé de manière étendue par les députés lors des débats sur la loi de finances 2020, permettant à chacun des différents groupes de préparer des amendements plus précisément adaptés à leurs objectifs. Cette meilleure mesure des effets potentiels sur les revenus des contribuables a permis à tous les parlementaires de débattre en meilleure connaissance de cause, et de proposer plus de modifications mieux ciblées au projet de loi.
 
-On s'appuyant sur [OpenFisca](http://openfisca.org), **LexImpact a pour ambition rendre la simulation d'impact accessible à tout·te·s**.
+**LexImpact est une interface qui permet d’estimer, en quelques secondes, l'impact des réformes paramétriques** sur un périmètre actuellement limité à l'impôt sur le revenu.
 
-Sur plusieurs axes :
+LexImpact se décline en deux interfaces : 
+- OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
+- LexImpact POP permettant, en plus des fonctionnalités déjà présente sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux député·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices de l'Assemblée nationale. 
 
-* Outil open source pour réaliser des simulations _ex ante_ de réformes, en particulier : changements d'assiettes et de taux, impacts sur le revenu disponible, transferts de charges, et budget de l'État et des collectivités ;
-
-* Recueillir des données pour construire et ouvrir une base représentative de la population française ;
-
-* Systématiser les tests utilisateurs avec les parlementaires, services administratifs et membres de la société civile ;
-
-* Réaliser des modules pédagogiques à destination de différents types d'utilisateurs, et développer l'usage de l'outil au sein des administrations partenaires ; et
-
-* Imaginer une généralisation de l'outil à l'ensemble des réformes législatives.
-
-Une grande partie de la législation est d'ores et déjà disponible dans le modèle [OpenFisca-France](https://fr.openfisca.org/legislation/). Des données du budget de l'État ainsi que des données démographiques sont en accès libre. Il reste à élaborer une base représentative de situations de personnes et à étendre la connaissance des structures de réformes usuelles.
-
-Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires - DINSIC, Assemblée Nationale, Cour des Comptes, Sénat- permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire.
-
-En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base aux travaux des EIG. Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
+Le moteur de Leximpact est construit sur le logiciel open source [OpenFisca](https://openfisca.org) qui comprend des règles de la législation socio-fiscale, et qui permet de simuler l'impact des réformes sur les situations des individus et des ménages.
