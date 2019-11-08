@@ -50,28 +50,12 @@
   duration_months: 10
   administration: Agence Française pour le Développement et la Promotion de l’Agriculture Biologique
   administration_website: http://www.agencebio.org
-  source_code: https://github.com/entrepreneur-interet-general/CartoBio-Presentation
-  website: http://cartobio.org/#/
   eigs:
     - "Lucas Bchini"
     - "Wojtek Sitarz"
   mentors:
     - "Samir Kebli"
     - "Dorian Flechet"
-  key_figures:
-    - amount: 41623
-      description: "Producteurs engagés en agriculture biologique en 2018 "
-    - amount: 20
-      description: "minutes économisées pour chaque contrôle bio"
-    - amount: 51
-      description: "Acteurs bénéficiant d'accès aux données de l'agriculture biologique"
-  projects:
-    - image: img/realisations/2019/cartobio-oc.png
-      title: "Application web CartoBIO"
-      description: "Cette application permet aux organismes certificateurs d'accéder aux parcelles de leurs clients, d'en ajouter, et de modifier les informations des parcelles dans le cadre du contrôle bio annuel."
-      url: http://cartobio.org/#/
-      call_to_action: "Accéder à l'application"
-
 
 "CibNav":
   image: /img/logo-cib-nav.png
