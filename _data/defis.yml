@@ -116,7 +116,7 @@
       description: "Critères à extraire des décisions"
     - amount: 4
       description: "Outils et ressources produits"
-    - amount: x2
+    - amount: 2
       description: "Une décision est annotée 2 fois plus rapidement"
   projects:
     - image: img/realisations/2019/DataJust.png
