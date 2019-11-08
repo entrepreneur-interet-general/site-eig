@@ -363,13 +363,6 @@
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans plusieurs répertoires, tous publiés sous licences libres."
       url: https://gitlab.com/healthdatahub
       call_to_action: "Explorer le code"
-  key_figures:
-    - amount: 10
-      description: "teraoctets de données exploitées sur le serveur Big Data"
-    - amount: 500
-      description: "membres du groupe meetup"
-    - amount: 20
-      description: "organisations expertes du SNDS formées à la collaboration sur GitLab"
 
 "Open Justice":
   image: /img/logo-open-justice.png
