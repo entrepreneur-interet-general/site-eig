@@ -1,16 +1,16 @@
 ---
 layout: defi
-title: PolyGraphe
+title: Polygraphe
 ---
 
 [La Direction générale de la concurrence, de la consommation
 et de la répression des fraudes (DGCCRF)](https://www.economie.gouv.fr/dgccrf)
-souhaite développer des nouvelles méthodes de text mining, d’analyse de données et de
-comportements pour aider les enquêteurs de sa direction à mieux
+développe des nouvelles méthodes de traitement automatique du langage naturel, d’analyse de données et de
+comportements pour aider ses enquêteurs à mieux
 détecter et qualifier des faux avis sur les plateformes de
 consommation en ligne.
 
-## PolyGraphe : Détecter les faux avis pour garantir la confiance sur Internet
+## Polygraphe : Détecter les faux avis pour garantir la confiance sur Internet
 
 ### La problématique
 
@@ -27,9 +27,9 @@ concurrence loyale.
 La [Direction Générale de la Concurrence, Consommation et Répression
 des Fraudes (DGCCRF)](https://www.economie.gouv.fr/dgccrf) effectue chaque année des enquêtes sur cette
 thématique. Afin de lutter plus efficacement contre cette pratique,
-elle souhaite se doter d’un outil permettant de détecter les avis
+il est nécessaire d'avoir un outil permettant de détecter les avis
 suspects sur Internet. Cet outil a vocation à être utilisé par les
-agents en charge des enquêtes sur ce sujet.
+agents en charge des enquêtes sur ce sujet pour mettre fin à ces pratiques.
 
 ### Le défi : développer un outil permettant de détecter les avis suspects parmi les commentaires, notes ou autres évaluations disponibles publiquement sur Internet
 
@@ -48,7 +48,6 @@ Le défi se décompose en trois axes principaux :
 * **La visualisation des résultats sous forme d’une interface à
   destination des enquêteurs.**
 
-_La DGCCRF a réalisé une analyse préliminaire en interne, et une preuve
-de concept est en cours auprès d’un prestataire externe et avec les équipes d'Etalab. Les EIG
-auront donc une base de travail et des données disponibles dès leur
-arrivée._
+Le défi a été prolongé de deux mois supplémentaires ce qui permettra le développement de nouveaux 
+algorithmes. L'outil est actuellement en phase de beta-testing auprès d'une sélection d'enquêteurs 
+du Service National des Enquêtes avant d'étendre son utilisation aux Directions Départementales.
