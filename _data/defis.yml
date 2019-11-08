@@ -236,14 +236,41 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : "Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)"
-  administration_website: http://accueil-integration-refugies.fr
+  administration : "Délégation Interministérielle pour l'Accueil et l'Intégration des Réfugiés (DiAir)"
+  administration_website: https://accueil-integration-refugies.fr
+  source_code: https://github.com/Tony4469/karfur
+  website: https://www.refugies.info
   eigs:
     - "Hugo Stéphan"
     - "Soufiane Lamrissi"
   mentors:
     - "Simon Karleskind"
     - "Alain Régnier"
+  key_figures:
+    - amount: 20
+      description: "structures partenaires"
+    - amount: 25
+      description: "tests utilisateurs"
+    - amount: 70
+      description: "bêta-testeurs"
+    - amount: 300000
+      description: "lignes de code"
+  projects:
+    - image: img/realisations/2019/karfur-site.png
+      title: "Plateforme contributive ouverte"
+      description: "La plateforme réfugiés.info permet de recenser et de traduire de manière collaborative les dispositifs d'accompagnement et les démarches administratives dédiés à l'intégration des réfugiés en France."
+      url: https://refugies.info
+      call_to_action: "Découvrir la plateforme"
+    - image: img/realisations/2019/karfur-mighty.png
+      title: "Un réseau social de contribution"
+      description: "Nous utilisons MightyNetwork pour réunir tous ceux qui souhaitent suivre et participer à l'évolution du projet."
+      url: https://refugies-info.mn.co/
+      call_to_action: "Découvrir le réseau"
+    - image: img/realisations/2019/karfur-github.png
+      title: "Un code open source"
+      description: "L'ensemble du projet est disponible en open source :  à la fois l'ensemble du code source, mais aussi le Design System produit sur mesure pour ce projet."
+      url: https://github.com/Tony4469/karfur
+      call_to_action: "Voir le code"
 
 "LexImpact":
   image: /img/logo-lex-impact.png
