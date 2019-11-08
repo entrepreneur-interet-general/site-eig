@@ -204,7 +204,7 @@
     description: "x2 Amélioration des métriques de pertinence"
   - amount: 325000
     description: "Questions sur le droit du travail analysées"
-
+    
 "IA Flash":
   image: /img/logo-ia-flash.png
   title: IA Flash
