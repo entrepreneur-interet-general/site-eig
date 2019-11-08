@@ -268,7 +268,7 @@
       description: "discours en séance publique parlent de LexImpact"
   end_of_project_videos:
     - id: x6y04yt
-      platform: dailymotion
+      platform: 
       description: "10 mois après : présentation du défi LexImpact."
       show: false
   projects:
