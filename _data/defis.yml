@@ -22,8 +22,8 @@
   image: /img/logo-adler.png
   title: ADLER
   link_to: /defis/2019/adler.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 data
+  skills: EIG 3 // Data
   colorback: red
   description: Lutter contre les comportements financiers illicites
   year: 2019
@@ -36,6 +36,11 @@
     - "Simon Lebastard"
   mentors:
     - "Delphine Lê"
+  key_figures:
+    - amount: 1000000
+      description: "Documents financiers analysés"
+    - amount: 4
+      description: "Applications métier réalisées"
 
 "CartoBio":
   image: /img/logo-cartobio.png
@@ -150,8 +155,6 @@
   key_figures:
     - amount: 32
       description: "Entrepreneurs d'intérêt général accompagnés"
-    - amount: 15
-      description: "Projets EIG (défis) accompagnés"
     - amount: 21
       description: "Temps de collaboration organisés"
     - amount: 9
