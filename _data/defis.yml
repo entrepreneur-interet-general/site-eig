@@ -197,13 +197,13 @@
   mentors:
     - "Julien Bouquillon"
     - "Jean-René Duscher"
- key_figures:
-  - amount: 1
-    description: "Nouvelle approche de recherche"
-  - amount: 2
-    description: "x2 Amélioration des métriques de pertinence"
-  - amount: 325000
-    description: "Questions sur le droit du travail analysées"
+  key_figures:
+    - amount: 1
+      description: "Nouvelle approche de recherche"
+    - amount: 2
+      description: "x2 Amélioration des métriques de pertinence"
+    - amount: 325000
+      description: "Questions sur le droit du travail analysées"
     
 "IA Flash":
   image: /img/logo-ia-flash.png
