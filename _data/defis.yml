@@ -272,7 +272,7 @@
       description: "10 mois après : présentation du défi LexImpact."
       show: false
   projects:
-    - image: 
+    - image: /img/realisations/2019/LexImpact-PhotoInterface.jpg
       title: "Le tableau de bord de LexImpact POP, accessibles aux parlementaires"
       description: "Nous avons créé une interface facile d'utilisation permettant aux parlementaires d'estimer les impacts de leur amendement à l'Article 197 du CGI. En plus des impacts sur des cas types qu'ils peuvent configurer, ils ont une vision macro des effets sur la population et les recettes."
     - image: 
