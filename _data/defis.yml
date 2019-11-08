@@ -277,7 +277,7 @@
       description: "Nous avons créé une interface facile d'utilisation permettant aux parlementaires d'estimer les impacts de leur amendement à l'Article 197 du CGI. En plus des impacts sur des cas types qu'ils peuvent configurer, ils ont une vision macro des effets sur la population et les recettes."
     - image: 
       title: "Estimer précisément les impacts sur les déciles de population"
-      description: "Nous avons pu proposer en temps et heure du Projet de loi de finances 2020, une visualisation précise des impacts par décile de population, de l'impôt moyen payés par un foyer aux recettes précises par décile.
+      description: "Nous avons pu proposer en temps et heure du Projet de loi de finances 2020, une visualisation précise des impacts, de l'impôt moyen payé par un foyer par déciles, au nombre de "gagnants/perdants."
     - image: /img/realisations/2019/LexImpact-version OPEN
       title: "Open LexImpact en accès grand public"
       description: "LexImpact POP s'appuyant sur des données protégées par le secret, il n'était pas possible d'ouvrir la version complète au grand public. Nous avons donc mis à disposition des citoyens le simulateur permettant de visualiser les effets sur des foyers fiscaux types."
