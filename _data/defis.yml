@@ -283,7 +283,7 @@
       description: "LexImpact POP s'appuyant sur des données protégées par le secret, il n'était pas possible d'ouvrir la version complète au grand public. Nous avons donc mis à disposition des citoyens le simulateur permettant de visualiser les effets sur des foyers fiscaux types."
       url: https://www.leximpact.beta.gouv.fr
       call_to_action: "Découvrir la version grand public"
-    - image: 
+    - image:  /img/realisations/2019/LexImapct-Demos-5.jpg 
       title: "Impliquer, sensibiliser et former les parlementaires"
       description: "Le produit livré par l'équipe a été accompagné par une présence régulière auprès des utilisateurs et par l'organisation de présentations pour former et sensibiliser les collaborateurs au chiffrage."
       url: https://www.leximpact.beta.gouv.fr
