@@ -111,6 +111,18 @@
   mentors:
     - "Anne-Sophie Hutin"
     - "Iana Ivanov"
+  key_figures:
+    - amount: 41
+      description: "Critères à extraire des décisions"
+    - amount: 4
+      description: "Outils et ressources produits"
+    - amount: 2
+      description: "Une décision est annotée 2 fois plus rapidement"
+  projects:
+    - image: img/realisations/2019/DataJust.png
+      title: "Interface de data visualisation développée dans le cadre du défi"
+      description: "Nous avons réalisé un outil de visualisation, permettant de visualiser sur le territoire les montants d'indemnisation alloués en matière de réparation du dommage corporel."
+    
 
 "DataReg":
   image: /img/logo-datareg.png
