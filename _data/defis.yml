@@ -217,13 +217,22 @@
   duration_months: 10
   administration: Direction générale du Travail
   administration_website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
+  source_code: https://github.com/SocialGouv/code-du-travail-numerique
+  website: https://code.travail.gouv.fr
   eigs:
     - "Armand Giraud"
     - "Mathieu Havel"
   mentors:
     - "Julien Bouquillon"
     - "Jean-René Duscher"
-
+  key_figures:
+    - amount: 1
+      description: "Nouvelle approche de recherche"
+    - amount: 2
+      description: "x2 Amélioration des métriques de pertinence"
+    - amount: 325000
+      description: "Questions sur le droit du travail analysées"
+    
 "IA Flash":
   image: /img/logo-ia-flash.png
   title: IA Flash
