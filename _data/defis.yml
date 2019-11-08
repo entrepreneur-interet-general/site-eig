@@ -226,6 +226,8 @@
   duration_months: 10
   administration : "Délégation Interministérielle pour l'Accueil et l'Intégration des Réfugiés (DiAir)"
   administration_website: https://accueil-integration-refugies.fr
+  source_code: https://github.com/Tony4469/karfur
+  website: https://www.refugies.info
   eigs:
     - "Hugo Stéphan"
     - "Soufiane Lamrissi"
