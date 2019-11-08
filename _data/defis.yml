@@ -400,9 +400,9 @@
     - "Mathieu Andro"
     - "Florent Laboy"
 
-"PolyGraphe":
+"Polygraphe":
   image: /img/logo-polygraphe.png
-  title: PolyGraphe
+  title: Polygraphe
   link_to: /defis/2019/polygraphe.html
   class: 2019 data web
   skills: EIG 3 // Data // Web
@@ -419,11 +419,11 @@
   mentors:
     - "Audrey Istace"
   key_figures:
-    - amount: 14
+    - amount: 15
       description: "indicateurs calculés"
-    - amount: 1200000
+    - amount: 2250000
       description: "professionnels analysés"
-    - amount: 65000000
+    - amount: 150000000
       description: "avis récupérés"
 
 "AchaDef":
