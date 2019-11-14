@@ -70,12 +70,22 @@
   duration_months: 10
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
+  source_code: https://github.com/MTES-MCT/rapportNav
   eigs:
     - "Quentin Loridant"
     - "Sébastien Touzé"
   mentors:
     - "Marie Feucher"
     - "Hervé Brulé"
+  key_figures:
+    - amount: 10000
+      description: "Navires de la flotte professionnelle française sont concernés par l'outil CibNAV, soit 85% !"
+    - amount: 30
+      description: "Agents impliqués directement dans la conception des outils"
+    - amount: 3
+      description: "Autres administrations et agences impliquées dans le projet"
+    - amount: 2
+      description: "Outils développés, et 3 API réutilisables"
 
 "DataJust":
   image: /img/logo-themis.png
@@ -96,6 +106,18 @@
   mentors:
     - "Anne-Sophie Hutin"
     - "Iana Ivanov"
+  key_figures:
+    - amount: 41
+      description: "Critères à extraire des décisions"
+    - amount: 4
+      description: "Outils et ressources produits"
+    - amount: 2
+      description: "Une décision est annotée 2 fois plus rapidement"
+  projects:
+    - image: img/realisations/2019/DataJust.png
+      title: "Interface de data visualisation développée dans le cadre du défi"
+      description: "Nous avons réalisé un outil de visualisation, permettant de visualiser sur le territoire les montants d'indemnisation alloués en matière de réparation du dommage corporel."
+    
 
 "DataReg":
   image: /img/logo-datareg.png
@@ -176,13 +198,22 @@
   duration_months: 10
   administration: Direction générale du Travail
   administration_website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
+  source_code: https://github.com/SocialGouv/code-du-travail-numerique
+  website: https://code.travail.gouv.fr
   eigs:
     - "Armand Giraud"
     - "Mathieu Havel"
   mentors:
     - "Julien Bouquillon"
     - "Jean-René Duscher"
-
+  key_figures:
+    - amount: 1
+      description: "Nouvelle approche de recherche"
+    - amount: 2
+      description: "x2 Amélioration des métriques de pertinence"
+    - amount: 325000
+      description: "Questions sur le droit du travail analysées"
+    
 "IA Flash":
   image: /img/logo-ia-flash.png
   title: IA Flash
@@ -203,6 +234,14 @@
     - "Cristian Perez Brokate"
   mentors:
     - "Daniel Ansellem"
+    - "Simone Nouwop-Tchinda"
+  key_figures:
+    - amount: 10000000
+      description: "De clichés de véhicules pour la base d'entraînement"
+    - amount: 8000
+      description: "Avis de contravention et contestations évitées par an"
+    - amount: 2
+      description: "API en ligne sous licence libre pour la détection de la marque et modèle de véhicules"
   projects:
     - image: img/realisations/2019/matchvec.png
       title: "Détection des marque et modèle du véhicule"
@@ -226,14 +265,41 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : "Délégation interministérielle pour l'accueil et l'intégration des réfugiés (DiAir)"
-  administration_website: http://accueil-integration-refugies.fr
+  administration : "Délégation Interministérielle pour l'Accueil et l'Intégration des Réfugiés (DiAir)"
+  administration_website: https://accueil-integration-refugies.fr
+  source_code: https://github.com/Tony4469/karfur
+  website: https://www.refugies.info
   eigs:
     - "Hugo Stéphan"
     - "Soufiane Lamrissi"
   mentors:
     - "Simon Karleskind"
     - "Alain Régnier"
+  key_figures:
+    - amount: 20
+      description: "structures partenaires"
+    - amount: 25
+      description: "tests utilisateurs"
+    - amount: 70
+      description: "bêta-testeurs"
+    - amount: 300000
+      description: "lignes de code"
+  projects:
+    - image: img/realisations/2019/karfur-site.png
+      title: "Plateforme contributive ouverte"
+      description: "La plateforme réfugiés.info permet de recenser et de traduire de manière collaborative les dispositifs d'accompagnement et les démarches administratives dédiés à l'intégration des réfugiés en France."
+      url: https://refugies.info
+      call_to_action: "Découvrir la plateforme"
+    - image: img/realisations/2019/karfur-mighty.png
+      title: "Un réseau social de contribution"
+      description: "Nous utilisons MightyNetwork pour réunir tous ceux qui souhaitent suivre et participer à l'évolution du projet."
+      url: https://refugies-info.mn.co/
+      call_to_action: "Découvrir le réseau"
+    - image: img/realisations/2019/karfur-github.png
+      title: "Un code open source"
+      description: "L'ensemble du projet est disponible en open source :  à la fois l'ensemble du code source, mais aussi le Design System produit sur mesure pour ce projet."
+      url: https://github.com/Tony4469/karfur
+      call_to_action: "Voir le code"
 
 "LexImpact":
   image: /img/logo-lex-impact.png
@@ -379,9 +445,9 @@ de sources hétérogènes."
       call_to_action: "Explore nos architectures"
 
 
-"PolyGraphe":
+"Polygraphe":
   image: /img/logo-polygraphe.png
-  title: PolyGraphe
+  title: Polygraphe
   link_to: /defis/2019/polygraphe.html
   class: 2019 data web
   skills: EIG 3 // Data // Web
@@ -398,11 +464,11 @@ de sources hétérogènes."
   mentors:
     - "Audrey Istace"
   key_figures:
-    - amount: 14
+    - amount: 15
       description: "indicateurs calculés"
-    - amount: 1200000
+    - amount: 2250000
       description: "professionnels analysés"
-    - amount: 65000000
+    - amount: 150000000
       description: "avis récupérés"
 
 "AchaDef":
