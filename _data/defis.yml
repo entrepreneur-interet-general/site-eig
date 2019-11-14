@@ -343,17 +343,17 @@
     - "Adnène Trojette"
     - "Mathieu Andro"
     - "Florent Laboy"
-key_figures:
-- amount: 1
-         description: "clic suffit pour changer de feuille de style"
-- amount: 1
- description: "journée de travail était nécessaire auparavant"
+  key_figures:
+    - amount: 1
+      description: "clic suffit pour changer de feuille de style"
+    - amount: 1
+      description: "journée de travail était nécessaire auparavant"
     - amount: 100 000
- description: " Documents consultables par les magistrats"
-- amount: 20
-description: "De corpus documentaire"
-- amount: 1
-description: "Lac de données expérimentale"
+      description: " Documents consultables par les magistrats"
+    - amount: 20
+      description: "De corpus documentaire"
+    - amount: 1
+      description: "Lac de données expérimentale"
 
   projects:
     - image: img/realisations/2019/coko.png
@@ -366,17 +366,17 @@ description: "Lac de données expérimentale"
       description: "Plume rédaction propose une plateforme de publication intégrant un éditeur collaboratif en ligne. La responsabilité de la mise en page  est entièrement déléguée à l'outil, ce qui permet au rédacteur de se concentrer exclusivement sur le fond de son document dans une interface totalement épurée. A tout moment, un simple clic lui permet d'obtenir un PDF normalisé, contenant page de garde et sommaire ainsi que des sections générées dynamiquement selon le contenu rédigé."
       url: https://eig-plume.gitlab.io
       call_to_action: "Découvre notre produit"
-- image: img/realisations/2019/poster_plume_explo_v2.jpg
-title: "Visuel d’une recherche avec l’expression « Marché public »"
-description: "Plume Exploration est un portail d’accès unique, fluide et efficace aux rapports, avec des résultats de recherche pertinents. Le magistrat peut chercher dans le texte intégral des documents (rapports, arrêts, etc.) et consulter les informations associées (auteur, organisme de contrôle, etc.). Ainsi, il peut prendre connaissance des positions déjà prises par la Cour sur ces sujets."
-url: http://explorationjf.ccomptes.fr
-call_to_action: "Trouve le document que tu cherche"
-- image: img/realisations/2019/archi_datalake_plume_explo_v2.png
-title: "Lac de données expérimentale"
-description: "L’architecture choisie rend accessible à un seul endroit des données
+   - image: img/realisations/2019/poster_plume_explo_v2.jpg
+     title: "Visuel d’une recherche avec l’expression « Marché public »"
+     description: "Plume Exploration est un portail d’accès unique, fluide et efficace aux rapports, avec des résultats de recherche pertinents. Le magistrat peut chercher dans le texte intégral des documents (rapports, arrêts, etc.) et consulter les informations associées (auteur, organisme de contrôle, etc.). Ainsi, il peut prendre connaissance des positions déjà prises par la Cour sur ces sujets."
+     url: http://explorationjf.ccomptes.fr
+     call_to_action: "Trouve le document que tu cherche"
+   - image: img/realisations/2019/archi_datalake_plume_explo_v2.png
+     title: "Lac de données expérimentale"
+     description: "L’architecture choisie rend accessible à un seul endroit des données
 de sources hétérogènes."
-url: 
-call_to_action: "Explore nos architectures"
+     url: 
+     call_to_action: "Explore nos architectures"
 
 
 "PolyGraphe":
