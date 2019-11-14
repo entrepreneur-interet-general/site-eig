@@ -414,7 +414,7 @@
       description: "clic suffit pour changer de feuille de style"
     - amount: 1
       description: "journée de travail était nécessaire auparavant"
-    - amount: 100 000
+    - amount: 100000
       description: " Documents consultables par les magistrats"
     - amount: 20
       description: "De corpus documentaire"
