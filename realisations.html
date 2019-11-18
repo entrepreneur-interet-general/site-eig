@@ -81,7 +81,7 @@ realisations:
       {% assign modulo_value = forloop.index | modulo: 2 %}
       {% if modulo_value == 1 %}
       <div class='medium-6 columns'>
-        <img class="fadeinleft" width="500" height="380" alt="" src="{{ realisation.image }}">
+        <img class="fadeinleft" width="500" height="380" alt="Interface de l'outil développé par le défi {{ site.data.defis[realisation.defi].title }}" src="{{ realisation.image }}">
       </div>
       <div class='medium-6 columns'>
         <h2>{{ realisation.title }}</h2>
