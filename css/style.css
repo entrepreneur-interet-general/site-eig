@@ -32,7 +32,11 @@ a {
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #7298F5;
+  color: #9D1F1D;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
 
 h1, h2 {
@@ -672,6 +676,7 @@ form input.error, form textarea.error {
 }
 #footer ul a:hover {
   color: #ebeff3;
+  text-decoration: underline;
 }
 #footer ul.socials li {
   display: inline-block;
