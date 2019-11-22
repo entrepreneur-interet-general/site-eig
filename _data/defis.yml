@@ -281,7 +281,7 @@
       title: "Estimer précisément les impacts sur les déciles de population"
       description: "Au moment des discussions sur le Projet de loi finances 2020, nous avons pu proposer une visualisation précise des impacts, de l'impôt moyen payé par un foyer par déciles, au nombre de \"gagnants/perdants\"."
       url: 
-      call_to_action: 
+      call_to_action: "Parcourir les amendements concernés"
     - image: /img/realisations/2019/LexImpact-version OPEN
       title: "Open LexImpact en accès grand public"
       description: "LexImpact POP s'appuyant sur des données protégées par le secret, il n'était pas possible d'ouvrir la version complète au grand public. Nous avons donc mis à disposition des citoyens le simulateur permettant de visualiser les effets sur des foyers fiscaux types."
