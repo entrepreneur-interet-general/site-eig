@@ -28,14 +28,19 @@
     - image: img/realisations/2019/acoss-realisation-1.jpg
       title: "Diagnostic de l’expérience utilisateur"
       description: "Identification des opportunités d’amélioration du service via une recherche utilisateur"
+      url: 
+      call_to_action: 
     - image: img/realisations/2019/acoss-realisation-2.jpg
       title: "Co-construction des écrans"
       description: "Co-construction des écrans du site avec les équipes du centre Pajemploi, sous la forme de prototypes papiers."
+      url: 
+      call_to_action: 
     - image: img/realisations/2019/acoss-realisation-3.jpg
-      title: "Conception d’un nouveau service Pajemploi, \"Mes démarches de fin de contrat\" comportant deux fonctionnalités"
-      description: "- Un simulateur d'indemnités de fin de contrat
-      - Une aide administrative pour réaliser en quelques clics les documents de fin de contrat.
+      title: "Conception d’un nouveau service Pajemploi, \"Mes démarches de fin de contrat\"
+      description: "Il comporte deux fonctionnalités : un simulateur d'indemnités de fin de contrat et une aide administrative pour réaliser en quelques clics les documents de fin de contrat.
       Ce site nommé \"Mes démarches de fin de contrat\" sera en ligne fin en mars 2020."
+      url: 
+      call_to_action: 
 
 "ADLER":
   image: /img/logo-adler.png
