@@ -17,16 +17,12 @@ Pourtant, **mieux légiférer c’est aussi mieux connaître l'impact des réfor
 
 ### Le défi : Développer un outil accessible aux parlementaires, aux agents publics et à la société civile, permettant de connaître l'impact des réformes sur les citoyen·ne·s
 
-**LexImpact avait pour ambition de rendre la simulation d'impact accessible, et d'être utilisé largement lors du Projet de Loi de Finances 2020, afin de faire gagner du temps aux usagers, tout en leur permettant d’élaborer leurs amendements au plus près de leur vision politique** : En 10 mois, l'outil [Leximpact](https://leximpact.beta.gouv.fr) a été implémenté et publié. Il permet à tout citoyen de simuler l'impact d'une réforme paramétrique de l'impôt sur le revenu sur n'importe quelle situation particulière d'un foyer fiscal. 
+**LexImpact avait pour ambition de permettre la simulation d'impact des réformes socio-fiscales et d'être utilisé largement lors du Projet de Loi de Finances 2020**, afin de faire gagner du temps aux usagers, tout en leur permettant d’élaborer des amendements au plus près de leur vision politique. 
 
-Par ailleurs, grâce à un accès inédit à des bases de données représentatives de la population, Leximpact permet également à un ensemble d'usagers authentifiés, travaillant à l'élaboration de la loi, de calculer en moins d'une minute l'estimation des effets d'une réforme sur les recettes de l'Etat, ainsi qu'un chiffrage indicatif de son impact redistributif sur la population.
+En 10 mois, l'outil [LexImpact](https://leximpact.beta.gouv.fr) a été implémenté et publié. Il se décline en deux interfaces :
+- OPEN LexImpact permet à tout citoyen de **simuler l'impact d'une réforme paramétrique de l'impôt sur le revenu sur des foyers fiscaux types**. 
+- LexImpact POP, grâce à un accès inédit à des bases de données représentatives de la population, permet à un ensemble d'usagers authentifiés travaillant à l'élaboration de la loi, de **calculer en moins d'une minute l'estimation des effets d'une réforme de l'impôt sur le revenu sur les recettes de l'Etat**, ainsi qu'un chiffrage indicatif de son impact redistributif sur la population.
 
-Développé avec l'appui la Commission des Finances de l'Assemblée nationale, à destination des députés, mais aussi de leurs collaborateurs et des administrateurs, Leximpact a été utilisé de manière étendue par les députés lors des débats sur la loi de finances 2020, permettant à chacun des différents groupes de préparer des amendements plus précisément adaptés à leurs objectifs. Cette meilleure mesure des effets potentiels sur les revenus des contribuables a permis à tous les parlementaires de débattre en meilleure connaissance de cause, et de proposer plus de modifications mieux ciblées au projet de loi.
-
-**LexImpact est une interface qui permet d’estimer, en quelques secondes, l'impact des réformes paramétriques** sur un périmètre actuellement limité à l'impôt sur le revenu.
-
-LexImpact se décline en deux interfaces : 
-- OPEN LexImpact, permettant d'estimer les **impacts d'une réforme sur des foyers fiscaux types**. 
-- LexImpact POP permettant, en plus des fonctionnalités déjà présente sur la version grand public, d'estimer **les impacts macros d'une réforme sur la population et les recettes de l'État**. LexImpact POP est, à ce jour, uniquement accessible aux député·e·s et leurs collaborat·eurs·rices, ainsi qu'aux administrat·eurs·rices de l'Assemblée nationale. 
+Développé avec l'appui la commission des Finances de l'Assemblée nationale, à destination des député·e·s et leurs collaborat·eurs·rices, ainsi que des administrat·eurs·rices de l'Assemblée, LexImpact a été utilisé de manière étendue par les député·e·s lors des débats sur la loi de finances 2020, permettant à chacun des différents groupes de préparer des amendements plus précisément adaptés à leurs objectifs. Cette meilleure mesure des effets potentiels sur les revenus des contribuables a permis à tous les parlementaires de débattre en meilleure connaissance de cause, et de proposer des modifications mieux ciblées.
 
 Le moteur de Leximpact est construit sur le logiciel open source [OpenFisca](https://openfisca.org) qui comprend des règles de la législation socio-fiscale, et qui permet de simuler l'impact des réformes sur les situations des individus et des ménages.
