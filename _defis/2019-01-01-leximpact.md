@@ -9,15 +9,15 @@ La Direction Interministérielle du Numérique et du Système d’Information et
 
 ### La problématique
 
-**Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ?** Probablement pas, et vous n'êtes pas seul·e ! L'Assemblée Nationale, le Sénat et la Cour des Comptes expriment régulièrement le besoin de disposer d'un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.
+Connaissez-vous les effets de la prochaine réforme sur votre situation personnelle ? Probablement pas, et vous n'êtes pas seul·e ! L'Assemblée nationale, le Sénat et la Cour des comptes expriment régulièrement le besoin de disposer d'un outil leur permettant de se positionner sur les projets de loi, grâce à une information indépendante sur ses effets.
 
 **Connaître l'impact des réformes reste un exercise particulièrement difficile à réaliser**, en particulier lorsque les délais sont courts. Dans les domaines social et fiscal, des modèles ont été développés par plusieurs administrations (DGFiP, INSEE, DINSIC...), mais leur usage reste limité, soit parce que les données ou les logiciels ne sont pas ouverts, soit parce qu'ils sont difficiles à prendre en main.
 
-Pourtant, **mieux légiférer c’est aussi mieux connaître l'impact des réformes avant qu'elles ne soient votées**. La capacité à réaliser plus facilement et rapidement des analyses d’impact apparaît comme un enjeu primordial de notre démocratie, tant pour améliorer le processus législatif que pour des questions de transparence et d’engagement de la société civile.
+**Pourtant, mieux légiférer c’est aussi mieux connaître l'impact des réformes avant qu'elles ne soient votées**. La capacité à réaliser plus facilement et rapidement des analyses d’impact apparaît comme un enjeu primordial de notre démocratie, tant pour améliorer le processus législatif que pour des questions de transparence et d’engagement de la société civile.
 
 ### Le défi : Développer un outil accessible aux parlementaires, aux agents publics et à la société civile, permettant de connaître l'impact des réformes sur les citoyen·ne·s
 
-**LexImpact avait pour ambition de permettre la simulation d'impact des réformes socio-fiscales et d'être utilisé largement lors du Projet de Loi de Finances 2020**, afin de faire gagner du temps aux usagers, tout en leur permettant d’élaborer des amendements au plus près de leur vision politique. 
+LexImpact avait pour ambition de permettre la simulation d'impact des réformes socio-fiscales et d'être utilisé largement lors du Projet de Loi de Finances 2020, afin de faire gagner du temps aux usagers, tout en leur permettant d’élaborer des amendements au plus près de leur vision politique. 
 
 En 10 mois, l'outil [LexImpact](https://leximpact.beta.gouv.fr) a été implémenté et publié. Il se décline en deux interfaces :
 - OPEN LexImpact permet à tout citoyen de **simuler l'impact d'une réforme paramétrique de l'impôt sur le revenu sur des foyers fiscaux types**. 
