@@ -26,11 +26,11 @@ sécurité sociale, secteur privé, particuliers...
 
 ### Le défi : proposer de nouveaux services pour améliorer l’expérience utilisateur des particuliers employeurs et des salariés à domicile.
 
-Pajemploi est une offre de service du réseau des Urssaf qui permet 
-**aux parents qui emploient** une assistante maternelle ou une garde d'enfants
+Pajemploi est une offre de service du réseau des Urssaf qui permet par exemple
+**à des parents qui emploient** une assistante maternelle ou une garde d'enfants
 à domicile **de déclarer leurs salaires**. Il a été identifié comme 
 un terrain pertinent d’exploration pour le défi qui aura comme objectifs :
 
-* **L’analyse des difficultés rencontrées par les utilisateur lors de l’accomplissement des démarches sur Pajemploi** et l’identification des opportunités d’amélioration du service.
-* **Le développement d’un service visant à simplifier les démarches des utilisateurs de l’emploi à domicile en mettant en oeuvre le principe du « dites-le-nous une fois »**
-* **Le partage des données relatives aux activités des salariés à domicile avec d’autres services publics** -Assurance maladie, Pôle Emploi, Portail numérique des droits sociaux.
+* **l’analyse des difficultés rencontrées par les utilisateur lors de l’accomplissement des démarches sur Pajemploi** et l’identification des opportunités d’amélioration du service ;
+* **le développement d’un service visant à simplifier les démarches des utilisateurs de l’emploi à domicile** en mettant en œuvre le principe du « dites-le-nous une fois ». Si l'utilisateur a fourni des informations à l'Urssaf une fois à l'occasion d'une démarche, elle ne lui seront pas redemandées lors d'une autre démarche ;
+* **le partage des données relatives aux activités des salariés à domicile avec d’autres services publics** comme l'Assurance maladie, Pôle Emploi ou encore le Portail numérique des droits sociaux.
