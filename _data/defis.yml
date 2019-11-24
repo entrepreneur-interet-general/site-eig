@@ -129,11 +129,11 @@
     - "Loïc Duflot"
   key_figures:
     - amount: 100
-      description: "Fichiers désormais intégrés automatiquement dans la base de données mobile"
+      description: "fichiers désormais intégrés automatiquement dans la base de données mobile"
     - amount: 1
-      description: "API - Prototype développé pour connaitre la couverture mobile et internet fixe à une adresse donnée"
+      description: "API prototype développée pour connaître la couverture mobile et internet fixe à une adresse donnée"
     - amount: 2
-      description: "Ateliers de vulgarisation sur le numérique organisés à l'Arcep - Atelier Géomatique et atelier Open data"
+      description: "ateliers de vulgarisation sur le numérique organisés à l'Arcep : géomatique et open data"
   end_of_project_videos:
     - id: 
       platform: 
