@@ -110,7 +110,8 @@
       description: "À partir du constat du temps passé par les agents sur la rédaction de PV, nous avons développé un outil pour centraliser la saisie de rapport de mission de contrôle. "
       url: https://github.com/MTES-MCT/rapportNav
       call_to_action: "Explorer le code"
-    - title: "Ouverture des données du registre des navires de la flotte française"
+    - image: img/realisations/2019/cibnav-datagouv-navires-pro.png
+      title: "Ouverture des données du registre des navires de la flotte française"
       description: "Nous avons ouvert en open data les données du registre des navires professionnels français ayant un permis d'armement actif."
       url: https://www.data.gouv.fr/fr/datasets/registre-des-navires-professionnels-francais/
       call_to_action: "Explorer les données"
