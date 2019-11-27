@@ -3888,3 +3888,9 @@ blockquote, ul, p {
 .post-tags li:first-child {
   margin-left: 0 !important;
 }
+
+.label-form {
+  font-size: 1em; 
+  font-weight: 600; 
+  margin-bottom:0.2em;
+}
