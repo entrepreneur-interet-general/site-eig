@@ -9,22 +9,30 @@ section_id: plan-site
     <div class='medium-8 columns mt-1'>
       <div class='two spacing'></div>
       <ul>
-        <li>Programme</li>
-          <ul>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html">Présentation du programme</a></li>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html">Offre d'accompagnement</a></li>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/realisations.html">Réalisations</a></li>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html">F.A.Q. Entrepreneur</a></li>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/faq-administrations.html">F.A.Q. Administration</a></li>
-          </ul>
-        <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/defis.html">Défis</a></li>
-        <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html">Communauté</a></li>
-        <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/blog/">Blog</a></li>
-        <li>Participer</li>
-          <ul>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html">Je suis candidat</a></li>
-            <li><a href="https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html">Je suis une administration</a></li>
-          </ul>
+        {% for item in site.data.nav %}
+          {% if item.section_id == page.section_id %}
+            {% assign active_class = "active" %}
+          {% else %}
+            {% assign active_class = "" %}
+          {% endif %}
+    {% if forloop.last %}
+      {% assign active_class = "lastmenu" %}
+          {% endif %}
+          {% if item.children %}
+            <li>{{ item.name }}
+              <ul>
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
       </ul>
     </div>
   </div>
