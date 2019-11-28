@@ -3,12 +3,12 @@ author: Sophie Miljkovic, équipe EIG
 description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneurs d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2020.
 image: /img/blog/session-mentors-2.jpg
 layout: post
-published: true
+published: false
 tags:
 - accompagnement
 - recrutement
-title: 'Rejoins l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre de stage « Chargé de mission programme EIG »'
-twitter: soizicpenicaud
+title: 'Rejoins l'équipe Entrepreneurs d''Intérêt Général à Etalab : offre de stage « Chargé de mission programme EIG »'
+twitter: MiljkovicSophie
 ---
 
 ### Offre de stage « Chargé de mission coordination du programme Entrepreneurs d’Intérêt Général» 
