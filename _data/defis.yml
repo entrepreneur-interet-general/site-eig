@@ -1543,7 +1543,7 @@
   promotion: 1
   administration: "Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation"
   administration_website: http://www.enseignementsup-recherche.gouv.fr
-  source_code: https://entrepreneur-interet-general/Merge-Machine
+  source_code: https://github.com/entrepreneur-interet-general/Merge-Machine
   eigs:
     - "Léo Bouloc"
   mentors:
