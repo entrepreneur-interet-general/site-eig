@@ -25,17 +25,17 @@ En 2020, nous allons lancer la 4ème promotion du programme qui promet d’être
 Tu auras deux missions complémentaires, la première sera axée sur la gestion de projet et la seconde sur la communication : 
 
 1.	**Constituer la 4ème promotion du programme** en : 
-•	coordonnant l’appel à projets auprès des administrations ainsi que l’appel à candidatures auprès des profils recherchés ;
-•	coordonnant la campagne de diffusion de ces deux appels ;
-•	aidant au cadrage des projets sélectionnés et à l’accompagnement de la promotion constituée ;
-•	évaluant le programme et proposant des évolutions de l’encadrement de la promotion.
+*	coordonnant l’appel à projets auprès des administrations ainsi que l’appel à candidatures auprès des profils recherchés ;
+*	coordonnant la campagne de diffusion de ces deux appels ;
+*	aidant au cadrage des projets sélectionnés et à l’accompagnement de la promotion constituée ;
+*	évaluant le programme et proposant des évolutions de l’encadrement de la promotion.
 
 2.	**Renforcer la visibilité du programme et appuyer son développement** en : 
-•	effectuant une veille sur le programme et les défis de la promotion 4 ;
-•	assurant la présence du programme sur les réseaux sociaux ;
-•	produisant du contenu pour le site du programme (présentation des défis, articles de blog) ;
-•	identifiant et participant à des événements locaux, nationaux et internationaux stratégiques pour le programme ;
-•	appuyant le développement de partenariats autour du programme.
+*	effectuant une veille sur le programme et les défis de la promotion 4 ;
+*	assurant la présence du programme sur les réseaux sociaux ;
+*	produisant du contenu pour le site du programme (présentation des défis, articles de blog) ;
+*	identifiant et participant à des événements locaux, nationaux et internationaux stratégiques pour le programme ;
+*	appuyant le développement de partenariats autour du programme.
 
 **Ce programme s’inscrit dans un écosystème** que tu pourras explorer et sur lequel tu pourras t’appuyer pour mener à bien tes missions : [Etalab](https://www.etalab.gouv.fr/), [betagouv](https://beta.gouv.fr/), [direction interministérielle du numérique](https://www.numerique.gouv.fr/)…
 
@@ -44,13 +44,13 @@ Tu auras deux missions complémentaires, la première sera axée sur la gestion 
 ### Rejoins-nous
 
 Soizic et moi-même avons intégré Etalab par ce biais. D’après notre expérience, ce stage est pour toi si :
-•	tu as un intérêt à la fois pour la tech et l’administration ;
-•	tu as envie d’un stage valorisant la créativité et la prise d’initiatives ;
-•	tu aimes écrire pour différents publics ;
-•	tu n’as pas peur de mettre les mains dans le cambouis et d’être autonome ;
-•	tu sais travailler en équipe, avec des personnes aux profils différents ;
-•	tu aimes apprendre et partager tes connaissances ;
-•	tu as envie de découvrir l’écosystème du numérique dans le secteur public.
+*	tu as un intérêt à la fois pour la tech et l’administration ;
+*	tu as envie d’un stage valorisant la créativité et la prise d’initiatives ;
+*	tu aimes écrire pour différents publics ;
+*	tu n’as pas peur de mettre les mains dans le cambouis et d’être autonome ;
+*	tu sais travailler en équipe, avec des personnes aux profils différents ;
+*	tu aimes apprendre et partager tes connaissances ;
+*	tu as envie de découvrir l’écosystème du numérique dans le secteur public.
 
 **Si tu penses cocher plusieurs de ces cases, n’hésite pas à postuler** en envoyant CV et lettre de motivation à l’adresse : [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr), avec pour objet « Candidature à l’offre n° 2019-290917 (Stagiaire au sein de la mission Etalab) », de préférence avant le 16 décembre 2019.
 
