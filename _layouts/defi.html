@@ -125,15 +125,16 @@ layout: default
       {% endif %}
     </div>
 
-      {% if defi_data.end_of_project_videos %}
-      <div class="two spacing"></div>
+    {% if defi_data.end_of_project_videos %}
+    <div class="two spacing"></div>
+    <div class="medium-12 columns">
       <h2>Rétrospective</h2>
       {% for video in defi_data.end_of_project_videos %}
         {% if video.platform == 'dailymotion' and video.show %}
         <p>
           {{ video.description }}
         </p>
-        <iframe frameborder="0" width="720" height="400" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        <iframe class="resp-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
         {% endif %}
       {% endfor %}
       {% endif %}
