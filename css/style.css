@@ -3883,13 +3883,13 @@ blockquote, ul, p {
   margin-left: 0 !important;
 }
 
-.resp-iframe {
+.responsive-iframe {
   width: 720px; 
   height: 400px; 
 }
 
 @media (max-width: 767px) {
-    .resp-iframe {
+    .responsive-iframe {
       width: 100%; 
     }
 }
