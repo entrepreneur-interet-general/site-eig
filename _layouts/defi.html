@@ -137,6 +137,22 @@ layout: default
       {% endfor %}
     </div>
     {% endif %}
+
+    {% if defi_data.poster %}
+    <div class="two spacing"></div>
+    <div class="medium-12 columns">
+      <h2>Poster</h2>
+      <p>À la fin du défi, le défi a réalisé un poster pour restituer son année de travail et exposer le travail accompli.</p>
+      <a href="{{ defi_data.poster }}" title="Consulter le poster de {{ defi_data.title }}">
+        <img src="/img/icone-pdf.png" title="Icône de PDF">
+        <br>
+        <button class="button small mt-1">
+          <i class="fa fa-external-link" aria-hidden="true"></i>Consulter le poster
+        </button>
+      </a>
+    </div>
+    {% endif %}
+
   </div>
 
   <div class='four spacing'></div>

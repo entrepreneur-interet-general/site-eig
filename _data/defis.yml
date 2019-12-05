@@ -218,6 +218,7 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi EIG Link"
       show: true
+  poster: "https://fichiers.eig-forever.org/2019/posters/eig-link.pdf"
 
 "ExploCode":
   image: /img/logo-explocode.png
