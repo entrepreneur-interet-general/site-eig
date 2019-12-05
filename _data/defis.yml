@@ -297,6 +297,11 @@
       platform: dailymotion
       description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi IA Flash"
       show: true
+    - id: x7okqx3
+      platform: dailymotion
+      description: "Découvrez l'outil IA Flash"
+      show: true
+
 
 "Karfu'R":
   image: /img/logo-karfur.png
@@ -1254,6 +1259,10 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Prévisecours"
       show: true
+    - id: x7okqx2
+      platform: dailymotion
+      description: "Découvrez l'outil Prévisecours"
+      show: true
   projects:
     - image: img/realisations/2018/previsecours-correlations.png
       title: "Étude de corrélation"
@@ -1631,4 +1640,8 @@
     - id: x64z39w
       platform: x64z3a0
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
+    - id: x7okqx1
+      platform: dailymotion
+      description: "Découvrez l'outil MatchID"
       show: true

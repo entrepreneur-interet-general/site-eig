@@ -3882,3 +3882,14 @@ blockquote, ul, p {
 .post-tags li:first-child {
   margin-left: 0 !important;
 }
+
+.responsive-iframe {
+  width: 720px; 
+  height: 400px; 
+}
+
+@media (max-width: 767px) {
+    .responsive-iframe {
+      width: 100%; 
+    }
+}
