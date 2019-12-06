@@ -83,6 +83,26 @@ class TestDefis(BaseTest):
                         self.assertIn(video["show"], [True, False])
                         self.assertIn(video["platform"], ["dailymotion"])
 
+                # Key figures
+                if key == "key_figures":
+                    self.assertIn(
+                        len(content[key]),
+                        [2, 3, 4],
+                        f"Il faut entre 2 et 4 chiffres clés pour {defi}",
+                    )
+
+                    for figure in content[key]:
+                        self.assertEquals(
+                            figure.keys(),
+                            set(["amount", "description"]),
+                            f"Clés manquantes pour chiffres clés du défi {defi}",
+                        )
+                        self.assertIsInstance(
+                            figure["amount"],
+                            int,
+                            f"La valeur {figure['amount']} défi {defi} n'est pas valide",
+                        )
+
             # TODO: don't skip for EIG 1
             if content["promotion"] == 1:
                 continue

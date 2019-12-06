@@ -921,7 +921,7 @@
       description: "demandes/semaine à la Brigade Numérique"
     - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    - amount: 8.7
+    - amount: 9
       description: "note moyenne de satisfaction des citoyens"
     - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
