@@ -91,12 +91,10 @@ class TestPersonnes(BaseTest):
             with Image.open(filepath) as img:
                 width, height = img.size
                 if width < 250:
-                    print(
+                    self.fail(
                         f"L'image `{filepath}` de {personne} n'est pas assez grande. Dimensions : {width}x{height}"
                     )
                 if width != height:
-                    print(
+                    self.fail(
                         f"L'image `{filepath}` de {personne} n'est pas carrée. Dimensions : {width}x{height}"
                     )
-
-        raise ValueError
