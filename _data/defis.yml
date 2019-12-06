@@ -1031,7 +1031,7 @@
       description: "10 mois après : présentation du défi EIG Link."
       show: true
   projects:
-    - image: img/eig-guides.png
+    - image: img/realisations/2018/eig-guides.png
       title: "Base de connaissances pour les EIG"
       description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l'administration et le développement de leurs projets."
       url: https://github.com/entrepreneur-interet-general/eig-link/

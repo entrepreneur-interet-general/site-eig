@@ -1,6 +1,7 @@
 import difflib
 from collections import defaultdict
 import glob
+import os.path
 
 from base import BaseTest
 
@@ -101,6 +102,32 @@ class TestDefis(BaseTest):
                             figure["amount"],
                             int,
                             f"La valeur {figure['amount']} du défi {defi} n'est pas un entier",
+                        )
+
+                # Projects
+                if key == "projects":
+                    self.assertIn(
+                        len(content[key]),
+                        range(1, 5),
+                        f"Il faut entre 1 et 4 projets clés pour {defi}",
+                    )
+
+                    for project in content[key]:
+                        self.assertEquals(
+                            project.keys(),
+                            set(["image", "title", "description", "url"]),
+                            f"Clés manquantes pour projets du défi {defi}",
+                        )
+                        image_filepath = project["image"]
+                        self.assertTrue(
+                            image_filepath.startswith(
+                                f"img/realisations/{content['year']}/"
+                            ),
+                            f"Fichier mal rangé : {image_filepath}",
+                        )
+                        self.assertTrue(
+                            os.path.isfile(image_filepath),
+                            f"Fichier {image_filepath} est introuvable",
                         )
 
             # TODO: don't skip for EIG 1
