@@ -100,7 +100,7 @@ class TestDefis(BaseTest):
                         self.assertIsInstance(
                             figure["amount"],
                             int,
-                            f"La valeur {figure['amount']} défi {defi} n'est pas valide",
+                            f"La valeur {figure['amount']} du défi {defi} n'est pas un entier",
                         )
 
             # TODO: don't skip for EIG 1
