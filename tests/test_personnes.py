@@ -1,9 +1,11 @@
 import difflib
 import glob
+import os.path
 
 from base import BaseTest
 
 import frontmatter
+from PIL import Image
 
 
 class TestPersonnes(BaseTest):
@@ -79,3 +81,22 @@ class TestPersonnes(BaseTest):
                 self.personnes[nom]["link_to"],
                 f"Le lien `link_to` de {nom} semble invalide.",
             )
+
+    def test_avatars(self):
+        for personne, content in self.personnes.items():
+            filepath = content["image_url"].replace("/img/", "img/")
+            if not os.path.isfile(filepath):
+                self.fail(f"Fichier `{filepath}` de {personne} n'existe pas")
+
+            with Image.open(filepath) as img:
+                width, height = img.size
+                if width < 250:
+                    print(
+                        f"L'image `{filepath}` de {personne} n'est pas assez grande. Dimensions : {width}x{height}"
+                    )
+                if width != height:
+                    print(
+                        f"L'image `{filepath}` de {personne} n'est pas carrée. Dimensions : {width}x{height}"
+                    )
+
+        raise ValueError
