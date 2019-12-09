@@ -36,7 +36,15 @@ class TestPersonnes(BaseTest):
                     )
 
             # Clés obligatoires
-            for key in ["link_to", "title", "profil", "programme", "class", "annees"]:
+            for key in [
+                "link_to",
+                "title",
+                "profil",
+                "programme",
+                "class",
+                "annees",
+                "image_url",
+            ]:
                 if key not in content:
                     self.fail(
                         f"La clé `{key}` est obligatoire et est absente pour {personne}."
