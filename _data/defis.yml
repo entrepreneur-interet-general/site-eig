@@ -297,6 +297,11 @@
       platform: dailymotion
       description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi IA Flash"
       show: true
+    - id: x7okqx3
+      platform: dailymotion
+      description: "Découvrez l'outil IA Flash"
+      show: true
+
 
 "Karfu'R":
   image: /img/logo-karfur.png
@@ -916,7 +921,7 @@
       description: "demandes/semaine à la Brigade Numérique"
     - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    - amount: 8.7
+    - amount: 9
       description: "note moyenne de satisfaction des citoyens"
     - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
@@ -1253,6 +1258,10 @@
     - id: x6y055b
       platform: dailymotion
       description: "10 mois après : présentation du défi Prévisecours"
+      show: true
+    - id: x7okqx2
+      platform: dailymotion
+      description: "Découvrez l'outil Prévisecours"
       show: true
   projects:
     - image: img/realisations/2018/previsecours-correlations.png
@@ -1629,6 +1638,10 @@
       description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
       show: false
     - id: x64z39w
-      platform: x64z3a0
+      platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      show: true
+    - id: x7okqx1
+      platform: dailymotion
+      description: "Découvrez l'outil MatchID"
       show: true

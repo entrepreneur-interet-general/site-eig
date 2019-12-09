@@ -34,12 +34,14 @@ class TestDefis(BaseTest):
             "mentors",
         ]
         for defi, content in self.defis.items():
+            # Required keys
             for key in required_keys:
-                # Required key
                 if key not in content:
                     self.fail(
                         f"La clé `{key}` est absente de {defi} et est obligatoire."
                     )
+
+            for key in content.keys():
                 # Check promotion
                 if key == "promotion":
                     self.assertIn(
@@ -69,6 +71,37 @@ class TestDefis(BaseTest):
                             self.fail(
                                 f"La personne `{personne}` de `{defi}` n'existe pas. Suggestion : {suggestions}"
                             )
+
+                # Check videos
+                if key == "end_of_project_videos":
+                    for video in content[key]:
+                        self.assertEquals(
+                            video.keys(),
+                            set(["id", "platform", "description", "show"]),
+                            f"Clés manquantes pour vidéos du défi {defi}",
+                        )
+                        self.assertIn(video["show"], [True, False])
+                        self.assertIn(video["platform"], ["dailymotion"])
+
+                # Key figures
+                if key == "key_figures":
+                    self.assertIn(
+                        len(content[key]),
+                        [2, 3, 4],
+                        f"Il faut entre 2 et 4 chiffres clés pour {defi}",
+                    )
+
+                    for figure in content[key]:
+                        self.assertEquals(
+                            figure.keys(),
+                            set(["amount", "description"]),
+                            f"Clés manquantes pour chiffres clés du défi {defi}",
+                        )
+                        self.assertIsInstance(
+                            figure["amount"],
+                            int,
+                            f"La valeur {figure['amount']} du défi {defi} n'est pas un entier",
+                        )
 
             # TODO: don't skip for EIG 1
             if content["promotion"] == 1:

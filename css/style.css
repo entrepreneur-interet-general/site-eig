@@ -3894,3 +3894,15 @@ blockquote, ul, p {
   font-weight: 600; 
   margin-bottom:0.2em;
 }
+
+.responsive-iframe {
+  width: 720px; 
+  height: 400px; 
+}
+
+@media (max-width: 767px) {
+    .responsive-iframe {
+      width: 100%; 
+    }
+}
+
