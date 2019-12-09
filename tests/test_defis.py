@@ -108,22 +108,22 @@ class TestDefis(BaseTest):
                 if key == "projects":
                     self.assertIn(
                         len(content[key]),
-                        range(1, 5),
-                        f"Il faut entre 1 et 4 projets clés pour {defi}",
+                        range(1, 11),
+                        f"Il faut entre 1 et 10 réalisations pour {defi}",
                     )
 
                     for project in content[key]:
                         self.assertEquals(
                             project.keys(),
                             set(["image", "title", "description", "url"]),
-                            f"Clés manquantes pour projets du défi {defi}",
+                            f"Clés manquantes pour réalisations du défi {defi}",
                         )
                         image_filepath = project["image"]
                         self.assertTrue(
                             image_filepath.startswith(
                                 f"img/realisations/{content['year']}/"
                             ),
-                            f"Fichier mal rangé : {image_filepath}",
+                            f"Fichier mal rangé : {image_filepath}. Il doit être dans le dossier `img/realisations/`",
                         )
                         self.assertTrue(
                             os.path.isfile(image_filepath),
