@@ -1,11 +1,11 @@
 ---
 author: Jean-Baptiste Le Dévéhat, EIG Link
-description: 'En septembre nous avons fait le point pendant notre séminaire, sur nos 
-  mois écoulés afin d’envisager la suite de nos défis. Ce temps nous a aussi permis 
-  d’identifier les difficultés que nous avions rencontrées afin d’en tirer quelques 
+description: 'Lors de notre séminaire de septembre, nous avons fait le point sur nos 
+  mois écoulés, afin d’envisager la suite de nos défis. Ce temps nous a aussi permis 
+  d’identifier les difficultés que nous avions rencontrées et d’en tirer quelques 
   apprentissages, possiblement utiles aux professionnel(le)s du numérique de 
   l’administration publique.'
-image: /img/blog/initiatives.PNG
+image: /img/blog/semaine-2019/seminaire-201909.jpeg
 layout: post
 tags:
 - collectif
