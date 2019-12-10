@@ -22,7 +22,7 @@ Pour que tous les défis réussissent, le programme a mis en place différents t
 
 [Tout comme la promotion des EIG 2, ](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html)nous avons passé deux jours à l’[Hermitage](https://www.hermitagelelab.com/), un tiers-lieu d’innovations rurales et citoyennes pour faire la rétrospective de 7 mois de travail et imaginer la suite. **Dans un effort de remise en question, nous avons organisé un _failcon_,** un atelier sur les difficultés que nous avons rencontrées dans nos défis, et ébauché des pistes pour les dépasser. Nous vous en livrons les conclusions, en espérant que cela aide les équipes des prochaines promotions à mener leurs barques. 
 
-![La promotion EIG 3 au lancement du séminaire](/img/blog/seminaire-2019/seminaire-2019-salle.jpg) _Début de journée pour la répartition en ateliers_
+![La promotion EIG 3 au lancement du séminaire](/img/blog/seminaire-2019/seminaire-201909-salle.jpg) _Début de journée pour la répartition en ateliers_
 
 
 ## Identifier nos difficultés pour les surpasser
@@ -55,7 +55,7 @@ Un tour de table nous a permis d’identifier les difficultés que nous avions r
 
     Le projet CibNav nous a fait part du fait qu’il était plus simple d’être dans une politique de l’ouverture par défaut avant d’être enlisé dans des contraintes internes pour arriver à ses fins. In fine, le code de leur solution RapportNav a été publié sur le [GitHub des ministères de la Transition écologique et solidaire & de la Cohésion des territoires](https://github.com/MTES-MCT/rapportNav). 
 
-![Petit mot d'Adnène Trojette devant les EIG en plein air](/img/blog/seminaire-2019/seminaire-2019-hermitage.jpg) _Petit message d'[Adnène Trojette](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/adnene-trojette.html) aux EIG en fin de séminaire_
+![Petit mot d'Adnène Trojette devant les EIG en plein air](/img/blog/seminaire-2019/seminaire-201909-hermitage.jpg) _Petit message d'[Adnène Trojette](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/adnene-trojette.html) aux EIG en fin de séminaire_
 
 
 ## “Après 10 mois, le défi ne fait que commencer”, un EIG
