@@ -1,4 +1,20 @@
-# Comprendre nos difficultés et partager nos apprentissages
+---
+author: Jean-Baptiste Le Dévéhat, EIG Link
+description: 'En septembre nous avons fait le point pendant notre séminaire, sur nos 
+  mois écoulés afin d’envisager la suite de nos défis. Ce temps nous a aussi permis 
+  d’identifier les difficultés que nous avions rencontrées afin d’en tirer quelques 
+  apprentissages, possiblement utiles aux professionnel(le)s du numérique de 
+  l’administration publique.'
+image: /img/blog/initiatives.PNG
+layout: post
+tags:
+- collectif
+- open 
+- accompagnement
+title: 'Comprendre nos difficultés et partager nos apprentissages'
+twitter: jbledevehat
+---
+ 
 
 Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d'amélioration du service public à l'aide du numérique et des données. En tant qu’entrepreneur(e)s d’intérêt général nous avons 10 mois pour résoudre un défi avec nos mentors et nos différentes parties prenantes.
 
