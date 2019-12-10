@@ -22,7 +22,7 @@ Pour que tous les défis réussissent, le programme a mis en place différents t
 
 [Tout comme la promotion des EIG 2, ](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html)nous avons passé deux jours à l’[Hermitage](https://www.hermitagelelab.com/), un tiers-lieu d’innovations rurales et citoyennes pour faire la rétrospective de 7 mois de travail et imaginer la suite. **Dans un effort de remise en question, nous avons organisé un _failcon_,** un atelier sur les difficultés que nous avons rencontrées dans nos défis, et ébauché des pistes pour les dépasser. Nous vous en livrons les conclusions, en espérant que cela aide les équipes des prochaines promotions à mener leurs barques. 
 
-## Identifier nos difficultés pour les surpasser**
+## Identifier nos difficultés pour les surpasser
 
 Un tour de table nous a permis d’identifier les difficultés que nous avions rencontrées et d’en tirer quelques apprentissages, possiblement utiles aux professionnel(le)s du numérique de l’administration publique :
 
