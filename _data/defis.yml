@@ -863,6 +863,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Archifiltre."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/archifiltre.pdf"
 
 "b@liseNAV":
   image: /img/defis/5_balisage.png
@@ -896,6 +897,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi b@liseNAV."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/balisenav.pdf"
 
 "Brigade Numérique":
   image: /img/defis/10_brigadenumerique.png
@@ -931,6 +933,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/brigade-numerique.pdf"
 
 "CoachÉlèves":
   image: /img/defis/12_CoachElevesAssistProf.png
@@ -963,6 +966,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
+
 
 "DataESR":
   image: /img/defis/13_dataESR.png
@@ -998,6 +1003,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi DataESR."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/dataesr.pdf"
 
 "EIG Link 2018":
   image: /img/defis/11_EIGLink.png
@@ -1047,6 +1053,7 @@
       description: "Nous avons rédigé un mini-guide pour aider les administrations à publier les codes sources des défis EIG."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf
       call_to_action: "Télécharger le mini-guide Open Source"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/eig-link.pdf"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
@@ -1099,6 +1106,7 @@
       description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d'autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/gobelins.pdf"
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -1134,6 +1142,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Hopkins"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/hopkins.pdf"
 
 "Lab Santé":
   image: /img/defis/2_Labsanté.png
@@ -1168,6 +1177,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/labsante.pdf"
+
 
 "PrédiSauvetage":
   image: /img/defis/1_MTES.png
@@ -1225,6 +1236,7 @@
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
       url: https://github.com/search?q=topic%3Apredisauvetage
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/predisauvetage.pdf"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -1280,6 +1292,7 @@
       description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l'Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
       call_to_action: "Voir les données"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/previsecours.pdf"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
@@ -1314,6 +1327,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Signaux Faibles"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/signaux-faibles.pdf"
+
 
 "Social Connect":
   image: /img/defis/8_CGET.png
@@ -1349,6 +1364,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/social-connect.pdf"
 
 "AFD - Geodata":
   image: /img/icone-eig.png
