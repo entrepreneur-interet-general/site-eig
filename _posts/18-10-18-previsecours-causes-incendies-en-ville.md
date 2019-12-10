@@ -3,7 +3,7 @@ author: Guillaume Lancrenon, EIG Prévisecours
 description: Guillaume est développeur au Ministère de l'Intérieur pour le défi Prévisecours.
   Il nous explique comment son équipe a travaillé pour déterminer les facteurs les
   plus corrélés avec le volume d'incendies urbains dans les différentes communes d'Essonne.
-image: /img/communaute/guillaume-lancrenon.png
+image: /img/communaute/Guillaume-Lancrenon.png
 layout: post
 tags:
 - témoignage
