@@ -939,7 +939,7 @@
       description: "demandes/semaine à la Brigade Numérique"
     - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    - amount: 8.7
+    - amount: 9
       description: "note moyenne de satisfaction des citoyens"
     - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
@@ -1053,7 +1053,7 @@
       description: "10 mois après : présentation du défi EIG Link."
       show: true
   projects:
-    - image: img/eig-guides.png
+    - image: img/realisations/2018/eig-guides.png
       title: "Base de connaissances pour les EIG"
       description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l'administration et le développement de leurs projets."
       url: https://github.com/entrepreneur-interet-general/eig-link/
@@ -1670,7 +1670,7 @@
       description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
       show: false
     - id: x64z39w
-      platform: x64z3a0
+      platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
     - id: x7okqx1
