@@ -113,11 +113,12 @@ class TestDefis(BaseTest):
                     )
 
                     for project in content[key]:
-                        self.assertEquals(
-                            project.keys(),
-                            set(["image", "title", "description", "url"]),
-                            f"Clés manquantes pour réalisations du défi {defi}",
-                        )
+                        for key in ["image", "title", "description"]:
+                            self.assertIn(
+                                key,
+                                project.keys(),
+                                f"La clé {key} est absente et est obligatoire pour les réalisations du défi {defi}",
+                            )
                         image_filepath = project["image"]
                         self.assertTrue(
                             image_filepath.startswith(
