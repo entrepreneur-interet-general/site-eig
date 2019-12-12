@@ -29,7 +29,7 @@ _1. Élargir le réseau du numérique d'intérêt général_
 
 Le programme EIG et Latitudes sont des acteurs clés du numérique d'intérêt général en France. Ils s’engagent à  :
 
-*   Mobiliser des experts sur des sujets qu’ils ont en commun comme l’intelligence artificielle, la transparence des algorithmes, le développement de produits numériques de manière agile&nbsp;
+*   Mobiliser des experts sur des sujets qu’ils ont en commun comme l’intelligence artificielle, la transparence des algorithmes, le développement de produits numériques de manière agile&nbsp;;
 *   Promouvoir leurs initiatives respectives. Par exemple, Latitudes diffusera les appels à candidatures du programme EIG dans l’enseignement supérieur, notamment les écoles d’ingénieurs et les cursus équivalents à l’université.
 
 _2. Construire des événements communs_
@@ -37,7 +37,7 @@ _2. Construire des événements communs_
 Le programme EIG et Latitudes organisent des événements pour faire rayonner leur action et toucher un large public. Pour augmenter leur impact, ils travailleront ensemble à  :
 
 
-*   organiser un meetup au cours de l’année à destination de communautés technologiques&nbsp;
+*   organiser un meetup au cours de l’année à destination de communautés technologiques&nbsp;;
 *   Organiser un hackathon. Grâce à son expérience dans le domaine, Latitudes pourra notamment apporter un appui logistique et méthodologique.
 
 _3. Proposer un accompagnement méthodologique_
@@ -45,8 +45,8 @@ _3. Proposer un accompagnement méthodologique_
 Le programme EIG et Latitudes sont amenés à sélectionner des projets et identifier des experts pour réaliser ces projets dans le cadre de leurs missions respectives. En concluant cette convention, ils s’engagent à :
 
 
-*   Sélectionner et cadrer les projets dans le cadre de l'appel à projets du programme Entrepreneurs d'Intérêt Général&nbsp;
-*   Ouvrir les appels à projets de Latitudes aux porteurs de projets du programme EIG&nbsp;
+*   Sélectionner et cadrer les projets dans le cadre de l'appel à projets du programme Entrepreneurs d'Intérêt Général&nbsp;;
+*   Ouvrir les appels à projets de Latitudes aux porteurs de projets du programme EIG&nbsp;;
 *   Partager les méthodes d’animation de communauté et de formation dans le domaine de l’innovation publique et du numérique.
 
 Nous espérons que ce partenariat permettra de resserrer les liens entre les filières numériques de l'enseignement supérieur et l'administration et de multiplier, à terme, les parcours de profils techniques au sein de l’administration. Nous espérons montrer que ce genre de partenariat peut être utile pour des structures plus grandes que le programme Entrepreneurs d’Intérêt Général comme Etalab ou encore la DINUM.
