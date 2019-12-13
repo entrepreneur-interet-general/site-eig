@@ -80,7 +80,7 @@ péril l'utilisation du site par d'autres usagers.
 
 **Editeur**
 
-Département Etalab, Direction interministérielle du numérique (DINUM), située au 20, avenue de Ségur, 75007 Paris.
+Département Etalab, direction interministérielle du numérique (DINUM), située au 20, avenue de Ségur, 75007 Paris.
 
 **Directrice de la
 publication**

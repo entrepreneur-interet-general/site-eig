@@ -3,7 +3,7 @@ layout: defi
 title: LexImpact
 ---
 
-La Direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.
+La direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.
 
 ## LexImpact : Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s
 
