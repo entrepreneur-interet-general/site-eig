@@ -181,7 +181,7 @@
   skills: EIG 3 // Web // Design
   colorback: red
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
+  administration: "Services du Premier ministre, direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
@@ -216,7 +216,7 @@
       call_to_action: "Découvrir la démarche"
     - image: img/realisations/2019/eig-link-etalab.png
       title: "Assister Etalab"
-      description: "En tant qu'agents à Etalab et à la DINSIC, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
+      description: "En tant qu'agents à Etalab et à la DINUM, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
       url: https://www.etalab.gouv.fr
       call_to_action: Découvrir Etalab
   end_of_project_videos:
@@ -377,7 +377,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: "Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)"
+  administration: "Direction interministérielle du numérique (DINUM)"
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -596,7 +596,7 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Contribuer à la réussite de FranceConnect"
-  administration: Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État(DINSIC),
+  administration: Direction interministérielle du numérique (DINUM),
   administration_website: http://example.com
   year: 2019
   promotion: "dig"

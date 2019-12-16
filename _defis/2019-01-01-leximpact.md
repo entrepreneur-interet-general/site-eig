@@ -3,7 +3,7 @@ layout: defi
 title: LexImpact
 ---
 
-La Direction Interministérielle du Numérique et du Système d’Information et de Communication de l’État ([DINSIC](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.
+La direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/)) souhaite développer, avec la collaboration du Parlement, de la Cour de Comptes, et de la société civile, un outil permettant de simuler l’impact des réformes socio-fiscales sur les citoyen·ne·s.
 
 ## LexImpact : Connaître l'impact des réformes socio-fiscales sur les citoyen·ne·s
 
@@ -39,6 +39,6 @@ Sur plusieurs axes :
 
 Une grande partie de la législation est d'ores et déjà disponible dans le modèle [OpenFisca-France](https://fr.openfisca.org/legislation/). Des données du budget de l'État ainsi que des données démographiques sont en accès libre. Il reste à élaborer une base représentative de situations de personnes et à étendre la connaissance des structures de réformes usuelles.
 
-Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires — DINSIC, Assemblée Nationale, Cour des Comptes, Sénat — permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire.
+Avant l'arrivée des EIG, des rencontres avec les principales institutions partenaires — DINUM, Assemblée Nationale, Cour des Comptes, Sénat — permettront d'identifier les conditions d'accès aux modèles de populations existants ou à co-construire.
 
 En parallèle, un ensemble de cas types décrivant des situations de personnes et de groupes de personnes sera rassemblé pour servir de base aux travaux des EIG. Les types de réformes que l'application serait amenée à traiter seront affinés par des entretiens utilisateurs.
