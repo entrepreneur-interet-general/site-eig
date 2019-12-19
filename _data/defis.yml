@@ -22,6 +22,7 @@
       platform: dailymotion
       description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi ACOSS-Plateforme"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/acoss-plateforme.pdf"
 
 "ADLER":
   image: /img/logo-adler.png
@@ -46,6 +47,7 @@
       platform: dailymotion
       description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi ADLER"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/adler.pdf"
 
 "CartoBio":
   image: /img/logo-cartobio.png
@@ -71,6 +73,7 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi CartoBio"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cartobio.pdf"
 
 "CibNav":
   image: /img/logo-cib-nav.png
@@ -106,6 +109,7 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi CibNav"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cibnav.pdf"
 
 "DataJust":
   image: /img/logo-themis.png
@@ -142,6 +146,7 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi DataJust"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datajust.pdf"
 
 "DataReg":
   image: /img/logo-datareg.png
@@ -166,6 +171,7 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi DataReg"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datareg.pdf"
 
 "EIG Link 2019":
   image: /img/defis/11_EIGLink.png
@@ -175,7 +181,7 @@
   skills: EIG 3 // Web // Design
   colorback: red
   description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
+  administration: "Services du Premier ministre, direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
@@ -210,7 +216,7 @@
       call_to_action: "Découvrir la démarche"
     - image: img/realisations/2019/eig-link-etalab.png
       title: "Assister Etalab"
-      description: "En tant qu'agents à Etalab et à la DINSIC, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
+      description: "En tant qu'agents à Etalab et à la DINUM, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
       url: https://www.etalab.gouv.fr
       call_to_action: Découvrir Etalab
   end_of_project_videos:
@@ -218,6 +224,7 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi EIG Link"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/eig-link.pdf"
 
 "ExploCode":
   image: /img/logo-explocode.png
@@ -252,6 +259,7 @@
       platform: dailymotion
       description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi ExploCode"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/explocode.pdf"
 
 "IA Flash":
   image: /img/logo-ia-flash.png
@@ -301,6 +309,7 @@
       platform: dailymotion
       description: "Découvrez l'outil IA Flash"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/iaflash.pdf"
 
 
 "Karfu'R":
@@ -354,6 +363,7 @@
       platform: dailymotion
       description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi Karfu'R"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/karfur.pdf"
 
 "LexImpact":
   image: /img/logo-lex-impact.png
@@ -367,7 +377,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: "Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)"
+  administration: "Direction interministérielle du numérique (DINUM)"
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -380,6 +390,8 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi LexImpact"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
+
 
 "Open Chronic":
   image: /img/logo-open-chronic.png
@@ -427,6 +439,7 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi Open Chronic"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openchronic.pdf"
 
 "Open Justice":
   image: /img/logo-open-justice.png
@@ -453,6 +466,7 @@
       platform: dailymotion
       description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi Open Justice"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openjustice.pdf"
 
 "Plume":
   image: /img/logo-plume.png
@@ -482,6 +496,7 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi Plume"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/plume.pdf"
 
 "Polygraphe":
   image: /img/logo-polygraphe.png
@@ -513,6 +528,7 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi Polygraphe"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/polygraphe.pdf"
 
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
@@ -580,7 +596,7 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Contribuer à la réussite de FranceConnect"
-  administration: Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État(DINSIC),
+  administration: Direction interministérielle du numérique (DINUM),
   administration_website: http://example.com
   year: 2019
   promotion: "dig"
@@ -862,6 +878,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Archifiltre."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/archifiltre.pdf"
 
 "b@liseNAV":
   image: /img/defis/5_balisage.png
@@ -895,6 +912,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi b@liseNAV."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/balisenav.pdf"
 
 "Brigade Numérique":
   image: /img/defis/10_brigadenumerique.png
@@ -921,7 +939,7 @@
       description: "demandes/semaine à la Brigade Numérique"
     - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    - amount: 8.7
+    - amount: 9
       description: "note moyenne de satisfaction des citoyens"
     - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
@@ -930,6 +948,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/brigade-numerique.pdf"
 
 "CoachÉlèves":
   image: /img/defis/12_CoachElevesAssistProf.png
@@ -962,6 +981,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
+
 
 "DataESR":
   image: /img/defis/13_dataESR.png
@@ -997,6 +1018,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi DataESR."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/dataesr.pdf"
 
 "EIG Link 2018":
   image: /img/defis/11_EIGLink.png
@@ -1031,7 +1053,7 @@
       description: "10 mois après : présentation du défi EIG Link."
       show: true
   projects:
-    - image: img/eig-guides.png
+    - image: img/realisations/2018/eig-guides.png
       title: "Base de connaissances pour les EIG"
       description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l'administration et le développement de leurs projets."
       url: https://github.com/entrepreneur-interet-general/eig-link/
@@ -1046,6 +1068,7 @@
       description: "Nous avons rédigé un mini-guide pour aider les administrations à publier les codes sources des défis EIG."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf
       call_to_action: "Télécharger le mini-guide Open Source"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/eig-link.pdf"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
@@ -1098,6 +1121,7 @@
       description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d'autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/gobelins.pdf"
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -1133,6 +1157,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Hopkins"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/hopkins.pdf"
 
 "Lab Santé":
   image: /img/defis/2_Labsanté.png
@@ -1167,6 +1192,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/labsante.pdf"
+
 
 "PrédiSauvetage":
   image: /img/defis/1_MTES.png
@@ -1224,6 +1251,7 @@
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
       url: https://github.com/search?q=topic%3Apredisauvetage
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/predisauvetage.pdf"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -1279,6 +1307,7 @@
       description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l'Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
       call_to_action: "Voir les données"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/previsecours.pdf"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
@@ -1313,6 +1342,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Signaux Faibles"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/signaux-faibles.pdf"
+
 
 "Social Connect":
   image: /img/defis/8_CGET.png
@@ -1348,6 +1379,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/social-connect.pdf"
 
 "AFD - Geodata":
   image: /img/icone-eig.png
@@ -1638,7 +1670,7 @@
       description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
       show: false
     - id: x64z39w
-      platform: x64z3a0
+      platform: dailymotion
       description: "10 mois après : retour d'expérience sur l'aventure EIG."
       show: true
     - id: x7okqx1

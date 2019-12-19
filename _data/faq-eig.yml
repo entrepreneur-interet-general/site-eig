@@ -15,36 +15,36 @@
   ancre: pas-un-contractuel-classique
 
 - question: "Où travaillent les EIG ?"
-  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi.  Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
+  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
   ancre: lieu-de-travail
-    
+
 - question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
   reponse: "<p>La possibilité de travailler à distance varie selon les administrations. La plupart le permettent et l'encadrent, mais il faudra que vous posiez la question aux mentors lors des entretiens. Gardez à l'esprit que les défis sont des défis d'équipe et que la proximité entre les EIG est un facteur de réussite important.</p>"
   ancre: teletravail
 
 - question: "Quelle est la forme du contrat des EIG avec leur administration d’accueil ?"
-  reponse: "<p>Les EIG, une fois sélectionnés, rentrent en contact avec l’administration d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10 mois rémunéré 4000 euros nets par mois.</p>"
+  reponse: "<p>Les EIG, une fois sélectionnés, rentrent en contact avec l’administration d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10 mois rémunéré 4 000 € net par mois.</p>"
   ancre: contrat-administration
 
 - question: "Pourquoi des défis de 10 mois ?"
-  reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les entrepreneurs, qui restent concentrés sur la tâche à accomplir.  Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
+  reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les entrepreneurs, qui restent concentrés sur la tâche à accomplir. Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
   ancre: pourquoi-dix-mois
 
 - question: "Au terme des 10 mois, comment les défis sont-ils pérennisés ?"
-  reponse: "<p>Les outils continuent à être maintenus et développés par les équipes de l’administration d’accueil. D’autres sont mêmes déployés dans d’autres services. De plus, l’obligation, sauf dérogation, de verser les développements réalisés en open source rend leur maintien possible par tous.  La 1ère promotion a créé une organisation sur Github pour y regrouper les dépôts publiés.</p>"
+  reponse: "<p>Les outils continuent à être maintenus et développés par les équipes de l’administration d’accueil. D’autres sont mêmes déployés dans d’autres services. De plus, l’obligation, sauf dérogation, de verser les développements réalisés en open source rend leur maintien possible par tous. Le programme EIG dispose d’une organisation sur GitHub pour y regrouper les dépôts publiés.</p>"
   ancre: perennisation-des-defis
 
 - question: "Comment sont préparés les mentors à l’accueil des EIG dans leur administration ?"
   reponse: "<p>Avant l’arrivée des EIG, les mentors sont accompagnés par l’équipe d’Etalab pour préparer plusieurs étapes : le recrutement administration, l’environnement de travail, le cadrage du défi (besoins technique, méthodes, agilité, etc.). Elles et ils participent également aux sessions de mentoring de la promotion, et peuvent ainsi partager leurs réussites et leurs difficultés.</p>"
   ancre: preparation-des-mentors
 
-- question: "Quels défis ont été réalisés par les membres de la première et de la deuxième promotions ?"
-  reponse: "<p>Nous vous invitons à consulter la page \"défis\" de l'onglet \"réalisations\" pour découvrir les défis en cours et déjà réalisés.<p>"
+- question: "Quels défis ont été relevés par les promotions précédentes ?"
+  reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les défis en cours et déjà réalisés.<p>"
   ancre: defis-eig1-eig2
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
-  reponse: "<p>Oui, c'est tout à fait possible.  Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
-  
+  reponse: "<p>Oui, c'est tout à fait possible. Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
+
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
-  reponse: "<p>Contactez-nous à l'adresse suivante : <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\">entrepreneur-interet-general@data.gouv.fr</a></p>"
+  reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
   ancre: autre

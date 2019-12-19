@@ -1,6 +1,7 @@
 import difflib
 from collections import defaultdict
 import glob
+import os
 
 from base import BaseTest
 
@@ -56,6 +57,13 @@ class TestPosts(BaseTest):
             image = post["image"]
             if not (image.startswith("/img/") or image.startswith("http")):
                 self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
+
+            if image.startswith("/img/") and not os.path.isfile(
+                image.replace("/img/", "img/")
+            ):
+                self.fail(
+                    f"L'image de `{file}` à l'emplacement `{image}` est introuvable."
+                )
 
             self.assertEquals(post["layout"], "post")
 

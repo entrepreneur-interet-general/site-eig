@@ -19,7 +19,7 @@ twitter: CarreGuenole
 
 **Qu'est-ce que le programme Entrepreneurs d'Intérêt Général ?**
 
-Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [Direction interministérielle du numérique](https://numerique.gouv.fr/dinsic/).
+Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [direction interministérielle du numérique](https://numerique.gouv.fr).
 
 **Quels sont les objectifs de cette démarche ?**
 

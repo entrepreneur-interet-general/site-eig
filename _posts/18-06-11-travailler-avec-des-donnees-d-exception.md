@@ -3,7 +3,7 @@ author: Antoine Augusti, EIG Prédisauvetage
 description: Antoine Augusti, entrepreneur d'intérêt général pour le défi Prédisauvetage,
   nous parle des données qui l'ont motivé à postuler au programme. Et de  la nécessité
   de les rendre disponible en open data pour mieux servir la société.
-image: /img/blog/article-antoine-photo-avec-elsa.jpg
+image: /img/blog/article-Antoine-photo-avec-Elsa.jpg
 layout: post
 tags:
 - témoignage

@@ -1,0 +1,40 @@
+---
+layout: default
+section_id: plan-site
+---
+
+<div class='full'>
+  <div class='row'>
+    <h2>Plan du site</h2>
+    <div class='medium-8 columns mt-1'>
+      <div class='two spacing'></div>
+      <ul>
+        {% for item in site.data.nav %}
+          {% if item.section_id == page.section_id %}
+            {% assign active_class = "active" %}
+          {% else %}
+            {% assign active_class = "" %}
+          {% endif %}
+    {% if forloop.last %}
+      {% assign active_class = "lastmenu" %}
+          {% endif %}
+          {% if item.children %}
+            <li>{{ item.name }}
+              <ul>
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+<div class='four spacing'></div>
