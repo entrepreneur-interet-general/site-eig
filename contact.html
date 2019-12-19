@@ -16,10 +16,16 @@ section_id: contact
             </p>
           </div>
           <div class='medium-12 columns'>
-            <input class='required' name='name' placeholder='Nom' type='text'>
-            <input class='required email' name='email' placeholder='Adresse e-mail' type='text'>
-            <input class='required' name='subject' placeholder='Sujet' type='text'>
-            <textarea class='required' name='message' placeholder='Message'></textarea>
+            <label for='name' class='label-form'>Votre nom</label>
+            <input id ='name' class='required' name='name' placeholder='Nom' type='text'>
+            <label for="language" style="display: none">Langue</label>
+            <input id="language" type="hidden" name="_language" value="fr">
+            <label for='email' class='label-form'>Votre adresse e-mail</label>
+            <input id='email' class='required email' name='email' placeholder='Adresse e-mail' type='text'>
+            <label for='subject' class='label-form'>Votre sujet</label>
+            <input id='subject' class='required' name='subject' placeholder='Sujet' type='text'>
+            <label for='message' class='label-form'>Votre message</label>
+            <textarea id='message' class='required' name='message' placeholder='Message'></textarea>
             <input class='button white' type='submit' value="Envoyer">
           </div>
         </form>
@@ -34,7 +40,7 @@ section_id: contact
         <h3>Adresse postale</h3>
         <p>DINUM / Programme EIG<br>20 avenue de Ségur<br>75007 Paris, France</p>
         <h3>E-mail</h3>
-        <p>entrepreneur-interet-general@data.gouv.fr</p>
+        <p>{{site.email}}</p>
       </div>
     </div>
   </div>
