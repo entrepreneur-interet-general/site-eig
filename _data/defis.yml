@@ -538,7 +538,7 @@
   skills: DIG // Design
   description: "Faciliter l’accès aux achats hors armement du ministère des Armées"
   administration: Ministère des Armées
-  administration_website: http://example.com
+  administration_website: https://www.defense.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 8
@@ -557,7 +557,7 @@
   skills: DIG // Design
   description: "Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale"
   administration: Ministère de l'Éducation Nationale
-  administration_website: http://example.com
+  administration_website: https://www.education.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -578,7 +578,7 @@
   skills: DIG // Design
   description: "Aider à sauver des vies en situation d'urgence"
   administration: Agence de la Sécurité Civile, Ministère de l'Intérieur
-  administration_website: http://example.com
+  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -597,7 +597,7 @@
   skills: DIG // Design
   description: "Contribuer à la réussite de FranceConnect"
   administration: Direction interministérielle du numérique (DINUM),
-  administration_website: http://example.com
+  administration_website: https://www.numerique.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -616,7 +616,7 @@
   skills: DIG // Design
   description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée"
   administration: Mission Identité Numérique, Ministère de l'Intérieur
-  administration_website: http://example.com
+  administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -636,7 +636,7 @@
   skills: DIG // Design
   description: "Informer les citoyens sur les espaces naturels autour de chez eux"
   administration: Muséum Histoire Naturelle
-  administration_website: http://example.com
+  administration_website: https://inpn.mnhn.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -655,7 +655,7 @@
   skills: DIG // Design
   description: "Faciliter le regroupement familial des étrangers en France"
   administration: Direction de l'Information Légale et Administrative (DILA)
-  administration_website: http://example.com
+  administration_website: https://www.dila.premier-ministre.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -674,7 +674,7 @@
   skills: DIG // Design
   description: "Faciliter l’accès à une information marine de qualité"
   administration: Service hydrographique et océanographique de la marine (Shom), Ministère des Armées
-  administration_website: http://example.com
+  administration_website: https://www.shom.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -693,7 +693,7 @@
   skills: DIG // Design
   description: "Faciliter la prise de rendez-vous en préfecture"
   administration: Ministère de l'Intérieur
-  administration_website: http://example.com
+  administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 7
@@ -716,7 +716,7 @@
   administration: Académie de Clermont-Ferrand, Ministère de l'Éducation Nationale
   duration_months: 6
   year: 2019
-  administration_website: http://example.com
+  administration_website: http://www.ac-clermont.fr/
   promotion: "dig"
   eigs:
     - "Sofia Boulaarab"
@@ -734,7 +734,7 @@
   skills: DIG // Design
   description: "Accompagner le développement professionnel des agents de l’académie de Lyon"
   administration: Académie de Lyon, Ministère de l'Éducation Nationale
-  administration_website: http://example.com
+  administration_website: http://www.ac-lyon.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -753,7 +753,7 @@
   skills: DIG // Design
   description: "Favoriser le recrutement à la Gendarmerie nationale"
   administration: Direction Générale de la Gendarmerie nationale (DGGN)
-  administration_website: http://example.com
+  administration_website: https://www.gendarmerie.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 9
@@ -774,7 +774,7 @@
   skills: DIG // Design
   description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte Ameli"
   administration: Caisse Nationale d'Assurance Maladie
-  administration_website: http://example.com
+  administration_website: https://assurance-maladie.ameli.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -793,7 +793,7 @@
   skills: DIG // Design
   description: "Connaître, partager et agir pour résorber les bidonvilles"
   administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
-  administration_website: http://example.com
+  administration_website: https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -812,7 +812,7 @@
   skills: DIG // Design
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable, Ministère de la Transition Ecologique et Solidaire
-  administration_website: http://example.com
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -833,7 +833,7 @@
   skills: DIG // Design
   description: "Mieux informer les citoyens sur les risques de crues"
   administration: Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI), Ministère de la Transition Ecologique et Solidaire
-  administration_website: http://example.com
+  administration_website: https://www.vigicrues.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
