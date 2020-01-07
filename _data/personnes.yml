@@ -1343,7 +1343,7 @@ Jean-Baptiste Le Dévéhat:
   gitlab:
   image_url: /img/communaute/jean-baptiste-le-devehat.png
   link_to: /communaute/2018/jean-baptiste-le-devehat.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jbledevehat/
   profil: Designer
   programme: EIG
   title: Jean-Baptiste Le Dévéhat
