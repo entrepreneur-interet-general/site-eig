@@ -1,5 +1,5 @@
 - question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
-  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général s’inspire du programme EIG. Là où le programme EIG vise à recruter des compétences numériques variées pour résoudre des défis liés à la circulation des données et à l’amélioration de l’action publique, Designers d’Intérêt Général s’intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG intègrent les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils rejoignent ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p>"
+  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général a été lancé en 2019 en s'ispirant du programme EIG. Il s'intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG ont intégré les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils ont rejoint ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p><p>La promotion EIG 4, en cours de constitution, regroupe les initiatives Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG). Si vous avez des défis design à proposer, c’est le moment de postuler !"
   ancre: difference-EIG-DIG
 
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
@@ -7,16 +7,20 @@
   ancre: recruter-2-3-eig
 
 - question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon défi ?"
-  reponse: "<p>Vous pouvez en premier lieu prendre contact avec votre direction des systèmes d'information.</p><p>Par ailleurs, n’hésitez pas à <a href=\"/contact.html\" title=\"Formulaire de contact\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration, notamment si celle-ci a accueilli des EIG.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, les profils EIG recherchés seront retravaillés et précisés avant le lancement de l’appel à candidatures.</p>"
+  reponse: "<p>Vous pouvez en premier lieu prendre contact avec votre direction des systèmes d'information.</p><p>Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans <a href="/defis.html">les défis passés</a>. N'hésitez pas à les contacter pour un retour d'expérience.</p><p>Par ailleurs, vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous avant le lancement de l’appel à candidatures.</p>"
   ancre: definir-les-profils
+
+- question: "Quel est le type de contrat des EIG ?"
+  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil : un CDD de 10 mois avec une rémunération de 4 000 € nets par mois pour tous les EIG.</p>"
+  ancre: contrat-type-eig
+ 
+- question: "À quelles conditions puis-je bénéficier du co-financement ?"
+  reponse: "<p>Le programme co-finance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil. Vous pouvez bénéficier du co-financement si le porteur administratif de votre défi est un ministère.</p><p>Le programme propose une subvention correspondant au coût total employeur de 4 mois (septembre-décembre 2020) d’une rémunération de 4 000€ nets par mois pour chaque EIG. L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du défi.</p>"
+  ancre: co-financement
 
 - question: "Puis-je autofinancer mon défi EIG ?"
   reponse: "<p>Vous pouvez tout à fait auto-financer votre défi EIG !</p>"
   ancre: autofinancement
-
-- question: "À quelles conditions puis-je bénéficier du co-financement ?"
-  reponse: "<p>Le programme co-finance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil. Vous pouvez bénéficier du co-financement si le porteur administratif de votre défi est un ministère.</p><p>Le co-financement est à hauteur de 30% par l’administration.</p>"
-  ancre: co-financement
 
 - question: "À la charge de qui sont les frais annexes liés à la présence des EIG, de type frais de déplacement ?"
   reponse: "<p>Les autres frais liés à la présence des EIG (notamment les frais de déplacement) sont à la charge de l’administration d’accueil.</p>"
@@ -39,7 +43,7 @@
   ancre: accueil-hors-de-paris
 
 - question: "Quel est généralement le profil des mentors opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les mentors opérationnels sont en charge de permettre aux EIG de mener au mieux leur défi, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG, et assistent aux sessions d’accompagnement.</p><p>En général, les mentors opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain.</p><p>On attend surtout d’un mentor qu’il soit passionné par le défi EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des défis. En moyenne, les mentors investissent 30 à 40% de leur temps dans leur défi EIG (et certains en investissent 100% !).</p>"
+  reponse: "<p>Les mentors opérationnels sont en charge de permettre aux EIG de mener au mieux leur défi, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les mentors opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain.</p><p>On attend surtout d’un mentor qu’il soit passionné par le défi EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des défis. En moyenne, les mentors investissent 30 à 40% de leur temps dans leur défi EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
 - question: "Les mentors opérationnels assistent-ils aux sessions d’accompagnement ?"
@@ -47,15 +51,11 @@
   ancre: sessions-accompagnement
 
 - question: "Le défi peut-il être encadré par 2 mentors opérationnels ?"
-  reponse: "<p>Oui, tout à fait ! C’est le cas pour plusieurs défis EIG 2 et 3.</p>"
+  reponse: "<p>Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2 et 3.</p>"
   ancre: plusieurs-mentors-operationnels
 
-- question: "Quel est le type de contrat des EIG ?"
-  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil (CDD de 10 mois).</p>"
-  ancre: contrat-type-eig
-
 - question: "Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidature ?"
-  reponse: "<p>Le temps de constitution est variable, mais nous avons volontairement limité la longueur du dossier cette année : n’hésitez pas à être clair et concis !</p>"
+  reponse: "<p>Le temps de constitution est variable, mais nous avons volontairement limité la longueur du dossier cette année : n’hésitez pas à être précis et concis !</p>"
   ancre: temps-constitution-dossier
 
 - question: "En cas de sélection, comment se passe le jury d’admission ?"
