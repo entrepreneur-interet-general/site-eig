@@ -4,7 +4,7 @@ description: La promotion EIG 3 a pris fin le 15 novembre 2019. Quel est le bila
 image: /img/blog/article-Antoine-photo-avec-Elsa.jpg
 layout: post
 tags:
-- evaluation
+- évaluation
 - open
 title: 'Promotion EIG 3 : on fait le bilan'
 twitter: soizicpenicaud
