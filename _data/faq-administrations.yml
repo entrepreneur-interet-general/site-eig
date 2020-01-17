@@ -14,9 +14,9 @@
   reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil : un CDD de 10 mois avec une rémunération de 4 000 € nets par mois pour tous les EIG.</p>"
   ancre: contrat-type-eig
  
-- question: "À quelles conditions puis-je bénéficier du co-financement ?"
-  reponse: "<p>Le programme co-finance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.</p><p>Le programme propose une subvention correspondant au coût total employeur de 4 mois (septembre - décembre 2020) d'une rémunération de 4 000€ nets par mois pour chaque EIG.  L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du défi.</p><p>Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du co-financement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le défi, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.</p>"
-  ancre: co-financement
+- question: "À quelles conditions puis-je bénéficier du cofinancement ?"
+  reponse: "<p>Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.</p><p>Le programme propose une subvention correspondant au coût total employeur de 4 mois (septembre - décembre 2020) d'une rémunération de 4 000€ nets par mois pour chaque EIG.  L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du défi.</p><p>Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le défi, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.</p>"
+  ancre: cofinancement
 
 - question: "Puis-je autofinancer mon défi EIG ?"
   reponse: "<p>Vous pouvez tout à fait auto-financer votre défi EIG !</p>"
@@ -27,7 +27,7 @@
   ancre: frais-annexes
 
 - question: "Je suis une collectivité territoriale : comment puis-je financer mon défi EIG ?"
-  reponse: "<p>La première solution est bien sûr l’autofinancement.</p><p>Afin de bénéficier du co-financement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du défi.</p>"
+  reponse: "<p>La première solution est bien sûr l’autofinancement.</p><p>Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du défi.</p>"
   ancre: collectivite
 
 - question: "Qui doit effectuer la simulation financière à inclure au dossier de réponse ?"
