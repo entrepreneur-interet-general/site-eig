@@ -16,7 +16,7 @@ Le 15 novembre 2019, après 10 mois de travail intense et près de 18 mois aprè
 
 **Nous souhaitions également évaluer les résultats collectifs de la promotion au regard des deux objectifs, ambitieux, du programme** : produire des outils utiles, ouverts et pérennes au sein des administrations, et contribuer à la transformation numérique de l’État et à l’internalisation des compétences numériques. 
 
-Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui gagnerait à être amélioré ou écarté ? 
+**Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui gagnerait à être amélioré ou écarté ?** 
 
 Les constats de cet article sont issus d'un ensemble de sources : questionnaires anonymes, ateliers, données collectée sur les défis. Ces différents dispositifs (et leurs limites) sont détaillés en fin d'article.
 
