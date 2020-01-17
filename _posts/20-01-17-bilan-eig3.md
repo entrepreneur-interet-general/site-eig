@@ -28,7 +28,7 @@ Les constats de cet article sont issus d'un ensemble de sources : questionnaires
 
 ### Internalisation des compétences & acculturation au numérique
 
-:round_pushpin: **Dans le programme, ce qui est important, ce sont les gens. Presque tous les mentors indiquent que** recruter des profils rares était un élément déterminant pour postuler au programme (le deuxième facteur est le cofinancement, pour la moitié des mentors). 
+&#x1F4CD; **Dans le programme, ce qui est important, ce sont les gens. Presque tous les mentors indiquent que** recruter des profils rares était un élément déterminant pour postuler au programme (le deuxième facteur est le cofinancement, pour la moitié des mentors). 
 
 **Cette année, la promotion réussit le pari de l’internalisation des compétences :** 5 équipes EIG ont été complètement ou partiellement embauchées par les administrations porteuses des défis. **⅓ des EIG continuent à travailler pour l’administration après le programme, y compris dans d’autres administrations**. 
 
@@ -36,11 +36,11 @@ C’est d’ailleurs pour renforcer le recrutement pérenne de profils innovants
 
 Un mentor a soulevé un effet inattendu du programme pour l’attractivité de l’Etat employeur, indiquant que “les EIG inspirent [d’autres] candidats pour rejoindre l’équipe”. 
 
-:round_pushpin: **Acculturation des administrations d’accueil :** plus de la moitié des défis ont organisé des formations pour les métiers, sur des thèmes variés : datascience, géomatique, open data, analyse sémantique, [accessibilité](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html). Les EIG ont également contribué à l’organisation de meetups et à la facilitation d’ateliers pour les services. 
+&#x1F4CD; **Acculturation des administrations d’accueil :** plus de la moitié des défis ont organisé des formations pour les métiers, sur des thèmes variés : datascience, géomatique, open data, analyse sémantique, [accessibilité](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html). Les EIG ont également contribué à l’organisation de meetups et à la facilitation d’ateliers pour les services. 
 
 Ces formations permettent une acculturation aux métiers et compétences du numérique. Un mentor explique ainsi : “le rôle d’UX designer est mieux compris dans l’administration et est plus recherché par les équipes”. Un autre note la “démystification très importante de l’intelligence artificielle et de la data science”. 
 
-:round_pushpin: **Montée en compétences des mentors :** les agents publics qui participent au programme attestent d’un gain de compétences, notamment hors de leur coeur de métier. Pour la plupart, il s’agit des compétences possédées par leurs EIG : plus de la moitié indiquent mieux connaître la data science, un tiers le développement et un tiers le design. 
+&#x1F4CD; **Montée en compétences des mentors :** les agents publics qui participent au programme attestent d’un gain de compétences, notamment hors de leur coeur de métier. Pour la plupart, il s’agit des compétences possédées par leurs EIG : plus de la moitié indiquent mieux connaître la data science, un tiers le développement et un tiers le design. 
 
 C’est également une expérience professionnelle enrichissante. Un mentor explique : “c’est une opportunité de management d’une petite équipe data très productive et compétente, difficile de s’en passer après".
 
@@ -53,11 +53,11 @@ Co-construction de prototypes pour le défi ACOSS Plateforme
 
 Quelques résultats sont également à noter du côté des réalisations produites par les défis, notamment sur le plan de l’ouverture.
  
-:round_pushpin: **La majorité des outils développés vont être pérennisés dans les administrations d’accueil**, sous différentes formes. 5 outils sont déjà intégrés dans les systèmes d’informations des administrations, et 9 autres le seront d’ici à mars 2020. 
+&#x1F4CD; **La majorité des outils développés vont être pérennisés dans les administrations d’accueil**, sous différentes formes. 5 outils sont déjà intégrés dans les systèmes d’informations des administrations, et 9 autres le seront d’ici à mars 2020. 
 
-:round_pushpin: **Sur le plan de l’open source**, 10 défis (sur 15) possèdent des dépôts de code en ligne. 2 défis (ExploCode et Open Chronic) ont publié des librairies réutilisables (voir [ici](https://github.com/SocialGouv/autosuggest) et [ici](https://pypi.org/project/tsfaker/)). Notons également la [collaboration de Plume avec la communauté open source Editoria](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) pour l’outil de rédaction de la Cour des comptes. 
+&#x1F4CD; **Sur le plan de l’open source**, 10 défis (sur 15) possèdent des dépôts de code en ligne. 2 défis (ExploCode et Open Chronic) ont publié des librairies réutilisables (voir [ici](https://github.com/SocialGouv/autosuggest) et [ici](https://pypi.org/project/tsfaker/)). Notons également la [collaboration de Plume avec la communauté open source Editoria](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) pour l’outil de rédaction de la Cour des comptes. 
 
-:round_pushpin: **En termes d’open data**, 3 défis (EIG Link, Open Chronic et CibNav) ont ouvert des jeux de données. Le défi [CartoBio](http://www.cartobio.org/#/) qui met à disposition les données parcellaires d’agriculture biologique sur demande, avec une mise en open data à venir. Ces résultats ne sont pas à la hauteur de nos attentes. Quelques pistes d’explication : les problématiques de certains défis ne se prêtaient pas à l’ouverture de jeux de données, d’autres ont manqué de temps et/ou de ressources pour le faire. Enfin, notre accompagnement sur ce volet gagnerait peut-être à être affiné. 
+&#x1F4CD; **En termes d’open data**, 3 défis (EIG Link, Open Chronic et CibNav) ont ouvert des jeux de données. Le défi [CartoBio](http://www.cartobio.org/#/) qui met à disposition les données parcellaires d’agriculture biologique sur demande, avec une mise en open data à venir. Ces résultats ne sont pas à la hauteur de nos attentes. Quelques pistes d’explication : les problématiques de certains défis ne se prêtaient pas à l’ouverture de jeux de données, d’autres ont manqué de temps et/ou de ressources pour le faire. Enfin, notre accompagnement sur ce volet gagnerait peut-être à être affiné. 
 
 _Nous ne nous concentrons pas ici sur l’efficacité et l’utilité des réalisations par défi. Si le sujet vous intéresse, des données sont disponibles [sur les pages individuelles de chaque défi.](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)_ 
 
@@ -66,19 +66,19 @@ _Vous pouvez également retrouver une description de chaque défi et des prochai
 
 ### Quel rôle pour le programme EIG ? 
 
-:round_pushpin: Depuis 3 ans, nous avons formé autour du programme EIG une importante communauté, dont le coeur est [la promotion EIG en cours et les anciens EIG et mentors](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), et qui est soutenue entre autres par les membres du jury, nos partenaires et les membres de la direction interministérielle du numérique. 
+&#x1F4CD; Depuis 3 ans, nous avons formé autour du programme EIG une importante communauté, dont le coeur est [la promotion EIG en cours et les anciens EIG et mentors](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), et qui est soutenue entre autres par les membres du jury, nos partenaires et les membres de la direction interministérielle du numérique. 
 
 **Cette communauté est vue comme essentielle par la promotion**. Un EIG explique : “je n’aurais pas postulé sans la communauté et je pense que le projet n’aurait probablement pas abouti à autant sans, elle est plus qu’indispensable”. 
 
-:round_pushpin: **Les éléments du programme d’accompagnement les plus plébiscités sont d’ailleurs les formats collectifs** : [bootcamp](https://doc.eig-forever.org/animation.html), [séminaires hors-les-murs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/27/retour-seminaire-mai-2019.html), sessions d’accompagnement collectif. 
+&#x1F4CD; **Les éléments du programme d’accompagnement les plus plébiscités sont d’ailleurs les formats collectifs** : [bootcamp](https://doc.eig-forever.org/animation.html), [séminaires hors-les-murs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/27/retour-seminaire-mai-2019.html), sessions d’accompagnement collectif. 
 
 **Cette communauté permet aussi un important apprentissage pair-à-pair :** 25 EIG expriment avoir développé des compétences hors de leur coeur de métier, notamment des connaissances juridiques et sur le fonctionnement de l’administration, des compétences tech d’autres EIG, et des compétences en gestion de projet. Un tiers dit avoir également progressé techniquement. 
 
-:round_pushpin: On note également **le succès de [l’outil de partage d’informations “Bulletins”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)**, mis en place par le programme, considéré comme très pertinent. Les bulletins hebdomadaires étaient lus au moins une fois par mois par plus de 80% des EIG. 
+&#x1F4CD; On note également **le succès de [l’outil de partage d’informations “Bulletins”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)**, mis en place par le programme, considéré comme très pertinent. Les bulletins hebdomadaires étaient lus au moins une fois par mois par plus de 80% des EIG. 
 
 L’écosystème des EIG s’étend au-delà de la promotion. **Ainsi, l’immense majorité a été en lien avec des membres de la direction interministérielle du numérique pendant l’année**, et notamment des membres d’Etalab. Ces interactions ont été très appréciées par les EIG. 
 
-:round_pushpin: **Une de nos grandes fiertés : la satisfaction des EIG et des mentors.** 75% des EIG et la très grande majorité des mentors se déclarent satisfaits ou très satisfaits des résultats de leur projet. 5 mentors sur 12 disent également que le programme a dépassé leurs attentes, ainsi que 10 EIG sur 27. 
+&#x1F4CD; **Une de nos grandes fiertés : la satisfaction des EIG et des mentors.** 75% des EIG et la très grande majorité des mentors se déclarent satisfaits ou très satisfaits des résultats de leur projet. 5 mentors sur 12 disent également que le programme a dépassé leurs attentes, ainsi que 10 EIG sur 27. 
 
 ![Un groupe de personnes posent pour une photo de groupe](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg)La promotion EIG 3 (EIG et mentors), lors de l'événement de restitution du 12 novembre.
 
