@@ -15,13 +15,13 @@ Le programme Entrepreneurs d'Intérêt Général  intègre pendant quelques mois
 
 Au quotidien, l’équipe de coordination échange avec une multitude d'acteurs de la communauté du numérique d'intérêt général. Aujourd'hui, nous sommes fiers d'annoncer un partenariat avec l’un d’entre eux, [l'association Latitudes](https://www.latitudes.cc).
 
-## Pourquoi nouer un partenariat avec Latitudes ? 
+## Pourquoi nouer un partenariat avec Latitudes ? 
 
 La mission de Latitudes est de mettre la technologie au service de l'intérêt général. Pour cela, l'association permet à des étudiants de l'enseignement supérieur de s'engager sur des projets numériques d'intérêt général dans le cadre de leur cursus. Elle permet également à des professionnels du monde technologique de mettre leur expertise au service du bien commun en proposant et accompagnant des projets numériques d’intérêt général. 
 
 Le programme EIG et Latitudes ont collaboré à de nombreuses occasions ces dernières années : sélection des défis à relever dans le cadre du pour le programme EIG, organisation d'événements communs comme [le hackathon « À l’asso des données »](https://www.etalab.gouv.fr/hackathon-a-lasso-des-donnees)), réflexions partagées sur l’engagement des profils techniques dans des projets numériques d’intérêt général, etc.
 
-## Quels sont les objectifs de ce partenariat ?
+## Quels sont les objectifs de ce partenariat ?
 
 Afin de formaliser une collaboration déjà fructueuse, le programme EIG et Latitudes ont noué un partenariat. Le programme a établi une convention de subvention pour l'année 2019-2020, représentant un montant de subvention de 10 000 €. Il est prévu que nous collaborions sur les thématiques suivantes :
 

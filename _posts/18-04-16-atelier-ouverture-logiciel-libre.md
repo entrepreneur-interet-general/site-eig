@@ -95,7 +95,7 @@ inventées par Richard Stallman, le père du logiciel libre ; et les
 licences dites « permissives », utilisées surtout dans le monde de
 l'entreprise.
 
-Quelle est la différence ?  Si un logiciel intègre du code placé sous
+Quelle est la différence ?  Si un logiciel intègre du code placé sous
 GNU GPL, il doit lui-même être publié sous licence GPL ou équivalente.
 Si un logiciel intègre du code publié sous licence Apache 2.0 (l'une
 des licences « permissive »), il n'y a pas d'obligation particulière
@@ -122,16 +122,16 @@ licence MIT, qui est la plus utilisée dans l’écosystème Ruby ; etc.
 Ces questions juridiques sont souvent stressantes pour les personnes
 qui les découvrent, notamment parce qu’elles sont l’objet de débats
 passionnés entre « libristes ».  Peut-on publier du code source sans
-licence libre ?  Que faire alors si la licence choisie ne correspond
+licence libre ?  Que faire alors si la licence choisie ne correspond
 pas aux finalités du projet ?  Est-ce que je peux modifier du code
-libre sur mon serveur sans partager mes modifications ?  Est-ce que je
-peux utiliser deux licences ?  Pour simplifier et encourager une
+libre sur mon serveur sans partager mes modifications ?  Est-ce que je
+peux utiliser deux licences ?  Pour simplifier et encourager une
 approche pragmatique, nous avons convenu de commencer [une
 FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org)
 sur ces questions de licence et d’ouverture&#x2026; c’est ouvert,
 n’hésitez pas à [ouvrir un
 ticket](https://github.com/entrepreneur-interet-general/eig-link/issues/new)
-pour poser une nouvelle question !
+pour poser une nouvelle question !
 
 Au final, Bastien a insisté sur le fait que nous pouvions imaginer des
 « dégrés » d’ouverture du code source, en allant du projet qui fait le
@@ -145,7 +145,7 @@ L’atelier s’est clôt sur l’engagement d’ouvrir et de partager autant
 que possible les outils développés dans le cadre du programme.  Les
 codes seront progressivement mis à jour sur [le compte d’organisation
 Github EIG](https://github.com/entrepreneur-interet-general/) -
-suivez-nous !
+suivez-nous !
 
 # Quelques lectures supplémentaires
 
