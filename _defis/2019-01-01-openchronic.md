@@ -25,16 +25,12 @@ En France, près de 10 millions de personnes souffrent d'une affection de longue
 
 La loi du 26 janvier 2016 de modernisation du système de santé français a créé et permis l'accès au Système national des données de santé (SNDS). Il regroupe la base de données des feuilles de soin, les données hospitalières et la base des causes médicales de décès.
 
-À partir des données exhaustives du SNDS sur un an et sur un échantillon de 4 millions de patients sur 10 ans, les EIG devront :
+À partir des données du SNDS sur un échantillon de 4 millions de patients sur 10 ans, les EIG devront :
 
-* **créer la base Open Chronic pour permettre l'analyse des parcours de malades souffrant d'ALD**. L'extraction des parcours de soins demandera des compétences poussées en data engineering pour parvenir à traiter la volumétrie (plusieurs centaines de To) et la complexité (structuration variable) des données du SNDS.
+* **créer la base Open Chronic pour permettre l'analyse des parcours de malades souffrant d'ALD**. L'extraction des parcours de soins demandera des compétences poussées en data engineering pour parvenir à traiter la volumétrie (plusieurs dizaines de To) et la complexité (structuration variable) des données du SNDS.
 
-* **évaluer les pratiques dans la prise en charge des malades chroniques**. Plusieurs pistes pourront être explorées :
-   - l'analyse de la variabilité de la prise en charge tout au long du parcours de soins ;
-   - la mise en place de modèles prédictifs de détection de patients présentant un fort risque de développer une ALD ;
-   - l'analyse de la coordination des professionnels de santé ville/hôpital...
+* **évaluer la variabilité de la prise en charge des malades chroniques tout au long du parcours de soins**.
 
-* **faire évoluer le serveur Big Data de la DREES** à l'aide de technologies à l'état de l'art (Spark, Pytorch, JupyterHub, RStudio) et accompagner ses utilisateurs sur leurs projets.
+* **faire évoluer la plateforme Big Data de la DREES** à l'aide de technologies à l'état de l'art (Spark, Pytorch, JupyterHub, RStudio) et accompagner ses utilisateurs sur leurs projets.
 
-* **faciliter le partage de connaissances entre les différentes institutions publiques et les agences sanitaires dans le cadre de leur mission de service public**. Cela consistera à développer des outils collaboratifs et partagés favorisant le partage de connaissances et permettant le traitement simplifié des données.
-
+* **faciliter le partage de connaissances sur le SNDS entre les différentes institutions publiques et les agences sanitaires dans le cadre de leur mission de service public**. Cela consistera à développer des outils collaboratifs favorisant le partage de connaissances et permettant le traitement simplifié des données.
