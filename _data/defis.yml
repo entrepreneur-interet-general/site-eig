@@ -438,7 +438,7 @@
     - amount: 10
       description: "teraoctets de données exploitées sur le serveur Big Data"
     - amount: 500
-      description: "membres du groupe meetup"
+      description: "membres dans le groupe meetup SNDS"
     - amount: 20
       description: "organisations expertes du SNDS formées à la collaboration sur GitLab"
   end_of_project_videos:
