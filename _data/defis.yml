@@ -797,9 +797,9 @@
     - amount: 28
       description: "agents impliqués sur le défi"
     - amout : 14
-      description: "heures d'immersion terain"
+      description: "heures d'immersion terrain"
     - amount: 88
-      description: "entretiens qulitatifs menés avec des assurés"
+      description: "entretiens qualitatifs menés avec des assurés"
    projects:
     - image: img/realisations/dig/RembourSante_ProtoDesktop.png
       title: "Présentation de synthèse"
