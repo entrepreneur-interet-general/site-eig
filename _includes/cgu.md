@@ -80,16 +80,13 @@ péril l'utilisation du site par d'autres usagers.
 
 **Editeur**
 
-Mission Étalab, Direction interministérielle du numérique et du
-système d'information et de communication de l'Etat (DINSIC), située au
-20, avenue de Ségur, 75007 Paris.
+Département Etalab, direction interministérielle du numérique (DINUM), située au 20, avenue de Ségur, 75007 Paris.
 
 **Directrice de la
 publication**
 
-Mme Laure LUCCHESI, Cheffe de la Mission Etalab, Direction
-interministérielle du numérique et du système d'information et de
-communication de l'Etat (DINSIC).
+Mme Laure LUCCHESI, Cheffe du département Etalab, Direction
+interministérielle du numérique (DINUM).
 
 **Prestataire d'hébergement**
 

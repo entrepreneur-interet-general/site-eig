@@ -79,71 +79,71 @@ lister l'ensemble des retours collectés lors de ces ateliers.
 
 ### *Think small!*
 
-- *Don't repeat yourself!* : l'idée est d'éviter de rédiger du code
+- *Don't repeat yourself!* : l'idée est d'éviter de rédiger du code
   redondant et de modulariser le plus possible.
-- *Small is beautiful* : faire des modules petits, avec des fonctions
+- *Small is beautiful* : faire des modules petits, avec des fonctions
   précises.  Apprendre par éléments.
-- *Less is more* : apprendre à faire *moins*.
-- *Do one thing and do it well* : la pierre angulaire de la
+- *Less is more* : apprendre à faire *moins*.
+- *Do one thing and do it well* : la pierre angulaire de la
   philosophie Unix pour le *design* de ses outils.
-- *Avoir un cahier d'apprentissage* : pour ne pas avoir à rechercher
+- *Avoir un cahier d'apprentissage* : pour ne pas avoir à rechercher
   ailleurs ce qu'on a déjà découvert.
-- *Se discipliner* : ne pas partir dans des grands plans ambitieux
+- *Se discipliner* : ne pas partir dans des grands plans ambitieux
   mais se forcer à rester au plus près d'éléments digestes.
 
 ### *Think real!*
 
-- *Résoudre des problèmes authentiques* : pas des problèmes
+- *Résoudre des problèmes authentiques* : pas des problèmes
   potentiels, juste pour la forme.  Se jeter dans le grand bain.
-- *The importance of being earnest* : le titre d'une comédie d'Oscar
+- *The importance of being earnest* : le titre d'une comédie d'Oscar
   Wilde mais aussi un principe régulièrement cité, pour ne pas
   sous-estimer ou surestimer ses capacités.
-- *Avoir un bon mentor* : quelqu'un qui peut nous aider à tester nos
+- *Avoir un bon mentor* : quelqu'un qui peut nous aider à tester nos
   connaissances et nos compétences.
-- *Faire les choses soi-même* : apprendre à se débrouiller en toutes
+- *Faire les choses soi-même* : apprendre à se débrouiller en toutes
   circonstances.
-- *Mettre tout en oeuvre pour une fin particulière* : ne pas aborder
+- *Mettre tout en oeuvre pour une fin particulière* : ne pas aborder
   un problème avec une seule solution toute faite, mais tout faire
   pour résoudre les problèmes.
-- *Avoir un profil d'apprentissage en T* : être excellent dans un
+- *Avoir un profil d'apprentissage en T* : être excellent dans un
   domaine précis et renforcer sa culture générale dans les autres.
-- *La meilleure méthode, c'est de ne pas en avoir* : ne pas rester
+- *La meilleure méthode, c'est de ne pas en avoir* : ne pas rester
   dans le « méta », mais foncer et mettre tout son savoir-faire pour
   proposer une solution.
 
 ### *Think different!*
 
-- *Step back* : Apprendre à prendre du recul, loin du clavier.
-- *Encourager la complémentarité dans les équipes* : l'écoute mutuelle
+- *Step back* : Apprendre à prendre du recul, loin du clavier.
+- *Encourager la complémentarité dans les équipes* : l'écoute mutuelle
   de points de vue complémentaires fait mieux avancer.
-- *Parler à sa brosse à dent* : quand on est bloqué, formuler le
+- *Parler à sa brosse à dent* : quand on est bloqué, formuler le
   problème à haute voix aide à avoir les idées claires.
-- *Lire du code* : plonger dans le code de quelqu'un aide à aborder
+- *Lire du code* : plonger dans le code de quelqu'un aide à aborder
   d'autres façons de résoudre un problème.
-- *Revenir aux fondamentaux* : le retour aux fondamentaux aide à
+- *Revenir aux fondamentaux* : le retour aux fondamentaux aide à
   prendre du recul.
-- *S'aérer l'esprit* : une pause dehors avec un peu de sport nous fait
+- *S'aérer l'esprit* : une pause dehors avec un peu de sport nous fait
   changer de point de vue, et c'est parfois l'occasion pour le cerveau
   d'envisager les problèmes sous un autre angle.
-- *Avoir des projets de code personnels* : de tels projets permettent
+- *Avoir des projets de code personnels* : de tels projets permettent
   d'expérimenter et de sortir de sa zone de confort technique.
-- *Hammoc driven development* : la proposition de Rich Hickey pour
+- *Hammoc driven development* : la proposition de Rich Hickey pour
   s'assurer qu'on aborde le problème de la bonne façon.
-- *Changer de tâches* : On bloque sur une question ?  Vidons-nous
+- *Changer de tâches* : On bloque sur une question ?  Vidons-nous
   l'esprit avec d'autres tâches le temps de revenir au problème
   initial avec les idées fraîches.
 
 ### *Think again!*
 
-- *Trouver sa boucle de rétroaction* : écrire et tester.  Ce sont à
+- *Trouver sa boucle de rétroaction* : écrire et tester.  Ce sont à
   peu près les deux activités principales d'un développeur.  Trouver
   sa boucle de rétroaction, c'est trouver la façon la plus efficace et
   rapide de faire cela.
-- *Fail early* : il faut échouer tôt pour réparer tôt.
-- *Enjoy often* : le plaisir est un élément indispensable de la
+- *Fail early* : il faut échouer tôt pour réparer tôt.
+- *Enjoy often* : le plaisir est un élément indispensable de la
   motivation, c'est lui qui renforce les boucles de rétroaction
   productives.
-- *Apprendre à apprendre* : introduire de la réflexivité non seulement
+- *Apprendre à apprendre* : introduire de la réflexivité non seulement
   dans nos activités de développeurs mais aussi dans notre attitude
   générale à l'égard de la façon dont on apprend et progresse.  Le
   cours en ligne « [Learning How to

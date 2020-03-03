@@ -5,7 +5,7 @@ layout: default
 <div class='full'>
   <div class='row'>
     <div class='large-8 columns'>
-      <h2>
+      <h2 class="mt-0">
         {{ page.nom }}
 
         {% if personne.twitter %}
@@ -76,7 +76,7 @@ layout: default
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           <div class="slide">
-            <img src="{{ site.url }}/{{ personne.image_url }}" alt="Photo {{ personne.title }}">
+            <img src="{{ site.url }}/{{ personne.image_url }}" alt="Photo {{ personne.title }}" width="250">
           </div>
         </div>
       </div>
