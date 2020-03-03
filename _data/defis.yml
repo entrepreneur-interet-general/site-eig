@@ -380,6 +380,9 @@
   administration: "Direction interministérielle du numérique (DINUM)"
   administration_website: https://www.numerique.gouv.fr/
   poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
+  key_figures:
+    - ...
+    - ...
   eigs:
     - "Augustin Wenger"
     - "Dorine Lambinet"
