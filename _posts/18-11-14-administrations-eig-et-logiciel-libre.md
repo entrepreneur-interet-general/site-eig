@@ -143,7 +143,7 @@ Quels premiers constats après dix mois d'avancées sur le sujet ?
    un peu d'éclaircissements au bon moment, ce n'est *jamais* un point
    bloquant.
 
-3. La démarche paraît naturelle pour tous les EIG : aucun ne s'est
+3. La démarche paraît naturelle pour tous les EIG : aucun ne s'est
    plaint d'avoir à aller dans ce sens.
 
 4. Il y a encore beaucoup à faire pour que les mentors soient à l'aise
