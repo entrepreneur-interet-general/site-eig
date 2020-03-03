@@ -406,7 +406,7 @@
       show: true
   poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
   projects:
-    - image: /img/realisations/2019/LexImpact-PhotoInterface.jpg
+    - image: /img/realisations/2019/blank.jpg
       title: "Le tableau de bord de LexImpact POP"
       description: "Nous avons créé une interface accessible aux parlementaires qui est facile d'utilisation et leur permet d'estimer les impacts de leur amendement à l'Article 197 du CGI. En plus des impacts sur des cas types qu'ils peuvent configurer, ils ont une vision macro des effets sur la population et les recettes."
       url: 
@@ -416,12 +416,12 @@
       description: "Au moment des discussions sur le Projet de loi finances 2020, nous avons pu proposer une visualisation précise des impacts, de l'impôt moyen payé par un foyer par déciles, au nombre de \"gagnants/perdants\"."
       url: 
       call_to_action: "Parcourir les amendements concernés"
-    - image: /img/realisations/2019/LexImpact-version OPEN
+    - image: /img/realisations/2019/blank.jpg
       title: "Open LexImpact en accès grand public"
       description: "LexImpact POP s'appuyant sur des données protégées par le secret, il n'était pas possible d'ouvrir la version complète au grand public. Nous avons donc mis à disposition des citoyens le simulateur permettant de visualiser les effets sur des foyers fiscaux types."
       url: https://www.leximpact.beta.gouv.fr
       call_to_action: "Découvrir la version grand public"
-    - image:  /img/realisations/2019/LexImapct-Demos-5.jpg 
+    - image:  /img/realisations/2019/blank.jpg
       title: "Impliquer, sensibiliser et former les parlementaires"
       description: "Le produit livré par l'équipe a été accompagné par une présence régulière auprès des utilisateurs et par l'organisation de présentations pour former et sensibiliser les collaborateurs au chiffrage."
       url: https://www.leximpact.beta.gouv.fr
