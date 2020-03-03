@@ -627,7 +627,7 @@
   mentors:
     - "Nicolas Mathieu"
     - "David Vigier"
-    key_figures:
+  key_figures:
     - amount: 275000
       description: "opérations d'assistance et de sauvetage en mer en open data"
     - amount: 75
