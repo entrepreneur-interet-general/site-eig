@@ -32,7 +32,11 @@ a {
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #7298F5;
+  color: #9D1F1D;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
 
 h1, h2 {
@@ -215,7 +219,7 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
-  border: 0px solid #7298F5;
+  border: 0px solid #9D1F1D;
 }
 
 .button.tiny {
@@ -223,7 +227,7 @@ ul.shortcode-list i {
 }
 
 .button:hover {
-  background-color: #7298F5;
+  background-color: #9D1F1D;
 }
 
 .button.red {
@@ -587,7 +591,7 @@ form input.error, form textarea.error {
   padding: 0 10px;
 }
 .pager a {
-  color: #7298F5;
+  color: #9D1F1D;
 }
 .pager a:hover {
   color: #1C419B;
@@ -624,7 +628,7 @@ form input.error, form textarea.error {
 }
 .comments-wrapper ul.comments .meta .datetime {
   font-size: 0.875rem;
-  color: #7298F5;
+  color: #9D1F1D;
 }
 
 #comments-form {
@@ -643,7 +647,7 @@ form input.error, form textarea.error {
   line-height: 1.8em;
 }
 .links a {
-  color: #7298F5;
+  color: #9D1F1D;
 }
 .links a:hover {
   color: #333;
@@ -672,6 +676,7 @@ form input.error, form textarea.error {
 }
 #footer ul a:hover {
   color: #ebeff3;
+  text-decoration: underline;
 }
 #footer ul.socials li {
   display: inline-block;
@@ -2114,7 +2119,7 @@ body.screenshot {
 }
 .modDefaultSlider .sequence .sequence-prev, .modDefaultSlider .sequence .sequence-next {
   display: inline-block;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0);
   padding: 30px 18px;
   color: #fff;
   position: absolute;
@@ -2136,7 +2141,7 @@ body.screenshot {
 .modDefaultSlider .sequence .sequence-prev span {
   border-right-style: solid;
   left: 0;
-  border-right-color: rgba(255, 255, 255, 0.7);
+  border-right-color: rgba(255, 255, 255, 0);
 }
 .modDefaultSlider .sequence .sequence-next {
   right: 0;
@@ -2145,7 +2150,7 @@ body.screenshot {
   border-left-style: solid;
   left: 50%;
   margin-left: -4px;
-  border-left-color: rgba(255, 255, 255, 0.7);
+  border-left-color: rgba(255, 255, 255, 0);
 }
 .modDefaultSlider .sequence .sequence-pagination {
   position: absolute;
@@ -2172,6 +2177,7 @@ body.screenshot {
 .modDefaultSlider.advanced .sequence .title h2 {
   letter-spacing: 4px;
   font-size: 2.28571rem;
+  background-color: rgba(30,30,30,0.5);
 }
 .modFullscreenSlider .fullscreen_slideshow {
   height: 700px;
@@ -2645,7 +2651,7 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #7298F5;
+  color: #9D1F1D;
 }
 .modMasonryGallery .gallery-nav li.current {
   border: 1px solid #1C419B;
@@ -2781,7 +2787,7 @@ body {
 }
 .modPriceBox li {
   background: #ebeff3;
-  color: #7298F5;
+  color: #9D1F1D;
 }
 .modPriceBox li.even {
   background: #f7f7f7;
@@ -2795,7 +2801,7 @@ body {
 .modPriceBox p.desc {
   font-size: 14px;
   margin-bottom: 20px;
-  color: #7298F5;
+  color: #9D1F1D;
 }
 .modPriceBox p.price {
   font-size: 16px;
@@ -2940,7 +2946,7 @@ body {
   text-indent: -3000px;
 }
 .modStylePanel a.color_scheme:hover, .modStylePanel a.bg_pattern:hover {
-  border: 1px solid #7298F5;
+  border: 1px solid #9D1F1D;
 }
 .modStylePanel a#yellow {
   background: #1C419B;
@@ -3407,7 +3413,7 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #7298F5;
+    color: #9D1F1D;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3421,7 +3427,7 @@ body {
     background: #f2f2f2;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li a {
-    color: #7298F5;
+    color: #9D1F1D;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
     background: #fff;
@@ -3440,7 +3446,7 @@ body {
     background-color: #1c1c1c;
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #7298F5;
+    color: #9D1F1D;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
@@ -3882,3 +3888,21 @@ blockquote, ul, p {
 .post-tags li:first-child {
   margin-left: 0 !important;
 }
+
+.label-form {
+  font-size: 1em; 
+  font-weight: 600; 
+  margin-bottom:0.2em;
+}
+
+.responsive-iframe {
+  width: 720px; 
+  height: 400px; 
+}
+
+@media (max-width: 767px) {
+    .responsive-iframe {
+      width: 100%; 
+    }
+}
+

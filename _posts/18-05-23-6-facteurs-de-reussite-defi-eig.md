@@ -2,10 +2,10 @@
 author: Soizic Pénicaud, équipe EIG
 description: 'Le 15 mai, l''équipe EIG a organisé au Liberté Living Lab une réunion
   d''information à l''occasion de l''appel à projets EIG 3. L''occasion d''aborder
-  un sujet crucial : les facteurs de succès d''un défi EIG. Qu’est-ce qui permet qu’à
+  un sujet crucial : les facteurs de succès d''un défi EIG. Qu’est-ce qui permet qu’à
   la fin d’un défi, les administrations disposent d’outils numériques répondant à
   leur problématique métier de départ, qui puissent être pérennisés et réutilisés
-  par d’autres services, voire hors de l’administration ?'
+  par d’autres services, voire hors de l’administration ?'
 image: /img/blog/facteurs_reussite.jpg
 layout: post
 tags:
@@ -22,7 +22,7 @@ Pour rappel, la promotion est constituée en 2 phases :
 * **Sélection des défis** : de mai à juin, un appel à projets est lancé auprès des administrations (administrations centrales, autorités administratives indépendantes, collectivités territoriales, etc.). Celles dont les défis sont présélectionnés seront auditionnées par un jury composé de personnalités issues de l’administration, du numérique ou de la recherche, qui sélectionnera les lauréats.
 * **Sélection des EIG** : de septembre à novembre, un appel à candidatures sera lancé afin de sélectionner les EIG qui relèveront les défis au sein de leurs administrations d’accueil à partir de janvier 2019.
 
-![Timeline de la constitution de la promotion EIG 3. Du 4 mai au 15 juin : appel à projets PIA. Début juillet : jury, débouchant sur l'annonce des défis choisis. De septembre à novembre, appel à candidatures EIG. Mi-novembre : jury débouchant sur l'annonce des EIG choisis. Janvier 2019 : démarrage des EIG dans leurs administrations.](/img/blog/timeline_eig3.png)
+![Timeline de la constitution de la promotion EIG 3. Du 4 mai au 15 juin : appel à projets PIA. Début juillet : jury, débouchant sur l'annonce des défis choisis. De septembre à novembre, appel à candidatures EIG. Mi-novembre : jury débouchant sur l'annonce des EIG choisis. Janvier 2019 : démarrage des EIG dans leurs administrations.](/img/blog/timeline_eig3.png)
 
 La session (dont vous trouverez les slides [**ici**](https://speakerdeck.com/eigforever/appel-a-projets-eig-3-session-dinformation)), avait pour but de présenter les nouveautés de l’appel à projets EIG 3, et notamment le co-financement par le PIA, et de permettre d’échanger directement avec les administrations intéressées.
 
@@ -76,7 +76,7 @@ Enfin, le défi doit **laisser aux EIG comme aux mentors la possibilité d’app
 * **Des formations** organisées par les EIG pour familiariser les administrations à la culture numérique (ateliers d’apprentissage de nouveaux langages et technologies, etc.) ;
 * **Des projets plus ou moins liés au défi initial**, mis en open source et réutilisables par d’autres administrations, comme [**Open Scraper**](http://www.cis-openscraper.com/), développé dans le cadre du défi Social Connect du CGET lors de la promotion 2, ou [**matchID**](https://matchid-project.github.io/), développé au Ministère de l’Intérieur lors de la promotion 1.
 
-_Administrations, votre défi remplit tous ces critères ? N’hésitez pas à répondre à [**l'appel à projets !**](/candidature-defi.html)_
+_Administrations, votre défi remplit tous ces critères ? N’hésitez pas à répondre à [**l'appel à projets !**](/candidature-defi.html)_
 
 Pour toute question : entrepreneur-interet-general@data.gouv.fr 
 

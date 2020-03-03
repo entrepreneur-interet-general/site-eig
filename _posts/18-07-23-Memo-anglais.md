@@ -25,8 +25,8 @@ Interest Entrepreneurs work within public administrations in teams of
 2 or 3 on challenges linked to data and digital transformation.
 
 All the rest –why we do it, how we do it and how we make it a
-success - is in the memo. Enjoy the read !
+success - is in the memo. Enjoy the read!
 
 <br/>
 
-## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général : why, what and how.](/docs/VF-EN-memo.pdf)
+## [Memo - Public Interest Entrepreneurs / Entrepreneur.e d'intérêt général: why, what and how.](/docs/VF-EN-memo.pdf)

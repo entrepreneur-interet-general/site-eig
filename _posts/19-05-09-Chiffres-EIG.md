@@ -1,13 +1,13 @@
 ---
 author: Guénolé Carré, équipe EIG
-description: 'Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétrospective
-  du programme en données chiffrées, découvrez-les ! '
+description: 'Le programme EIG a bientôt 3 ans ! Nous vous proposons une rétrospective
+  du programme en données chiffrées, découvrez-les ! '
 image: /img/promo.PNG
 layout: post
 tags:
 - évaluation
 - accompagnement
-title: 'Data EIG : un retour en chiffres sur 3 années du programme EIG'
+title: 'Data EIG : un retour en chiffres sur 3 années du programme EIG'
 twitter: eigforever
 ---
 
@@ -17,7 +17,7 @@ Pour mettre en relief les chiffres EIG, nous avons fait appel aux compétences d
 
 <iframe width="100%" height="650" src="https://data.eig-forever.org/#promo"> </iframe>
 
-Vous pouvez accéder aux différents graphes en utilisant le menu déroulant de gauche. Les graphes sont interactifs : vous pouvez donc les explorer en vous déplaçant dedans et les modifier en cliquant sur les légendes.
+Vous pouvez accéder aux différents graphes en utilisant le menu déroulant de gauche. Les graphes sont interactifs : vous pouvez donc les explorer en vous déplaçant dedans et les modifier en cliquant sur les légendes.
 
 #### Le programme EIG crée une communauté composée d’EIG et de mentors afin de répondre à des défis de transformation numérique
 
@@ -42,9 +42,9 @@ Les profils sélectionnés sont en majorité des data scientists, des développe
 ![Données sur le genre des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/img/genre.PNG)
 _Données sur le genre des EIG_
 
-Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions : **18% de femmes dans la promotion EIG 1, 25% dans EIG 2 et 19% dans EIG 3**. Cependant, il correspond au pourcentage de candidatures féminines aux différentes promotions : 12% en 2017, 30% en 2018 et 20% en 2019. 
+Le pourcentage de femmes parmi les EIG reste minoritaire au sein des promotions : **18% de femmes dans la promotion EIG 1, 25% dans EIG 2 et 19% dans EIG 3**. Cependant, il correspond au pourcentage de candidatures féminines aux différentes promotions : 12% en 2017, 30% en 2018 et 20% en 2019. 
 
-Par ailleurs, **la moyenne d’âge des EIG sélectionnés** est en baisse depuis le lancement du programme : elle **est passée de 31 ans à 30 ans, puis à 27 ans pour la promotion EIG 3**.
+Par ailleurs, **la moyenne d’âge des EIG sélectionnés** est en baisse depuis le lancement du programme : elle **est passée de 31 ans à 30 ans, puis à 27 ans pour la promotion EIG 3**.
 
 #### Un programme attractif pour les administrations comme pour les candidats
 
@@ -58,12 +58,12 @@ En trois ans, le programme s’implante dans l’écosystème de l’innovation 
 ![Données sur le financement d'EIG](https://entrepreneur-interet-general.etalab.gouv.fr/img/financement.PNG)
 _Données sur le financement du programme EIG_
 
-Depuis sa créations, près de 4,8 millions d’euros ont été alloués au programme EIG : 800 000 € en 2017, 2,5 millions € en 2018, 1,5 millions € en 2019.
+Depuis sa créations, près de 4,8 millions d’euros ont été alloués au programme EIG : 800 000 € en 2017, 2,5 millions € en 2018, 1,5 millions € en 2019.
 
 ![Données sur les dépenses des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/img/depenses.PNG)
 _Les dépenses indiquées pour 2017 et 2018 sont les dépenses effectives, les dépenses pour 2019 sont les dépenses prévisionnelles._
 
-Les dépenses du programme EIG sont réparties sur 4 domaines : les salaires des EIG, le programme d’accompagnement de la promotion, la communication et les liens avec la recherche. 
+Les dépenses du programme EIG sont réparties sur 4 domaines : les salaires des EIG, le programme d’accompagnement de la promotion, la communication et les liens avec la recherche. 
 
 Les salaires des EIG sont le plus grand poste de dépenses du programme. Cependant, le financement des salaires a connu des évolutions depuis le lancement du programme. Notamment, les administrations ont augmenté leur participation au financement des salaires. Ainsi, **la part de financement PIA dans le total des salaires versées aux EIG est passé de 91% à 55% entre la première et la troisième promotion**, tandis que **le reste des salaires est pris en charge par les administrations via des systèmes d'auto-financement et de co-financement des défis**.
 
@@ -93,4 +93,4 @@ Pour ce qui est du [blog Etalab](https://www.etalab.gouv.fr/), la mission qui ac
 La création du site EIG en février 2018 et du blog qu'il héberge a ouvert une autre plateforme de présentation du programme. 29 articles y ont été publiés et une attention particulière a été apportée à ce que les EIG y publient du contenu. Ils peuvent ainsi [faire des retours d'expériences](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html), [partager des points de vue](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-eig)...  C'est également l'endroit où peuvent s'exprimer les [acteurs de l'écosystème EIG comme la FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html).
 
 
-Ce retour sur le programme EIG via ces différentes données nous permet de constater que le programme continue de se déployer en répondant à son premier objectif : **associer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration.** Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
+Ce retour sur le programme EIG via ces différentes données nous permet de constater que le programme continue de se déployer en répondant à son premier objectif : **associer des agents publics désireux d'innover avec des profils et des compétences rares dans l'administration.** Ce travail sur les données du programme EIG fera d'ailleurs l'objet d'une publication en open data prochainement sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
