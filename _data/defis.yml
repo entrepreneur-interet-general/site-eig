@@ -832,17 +832,17 @@
     - amount: 88
       description: "entretiens qualitatifs menés avec des assurés"
    projects:
-    - image: img/realisations/dig/RembourSante_ProtoDesktop.png
+    - image: img/realisations/2019/RembourSante_ProtoDesktop.png
       title: "Présentation de synthèse"
       description: "Document de synthèse du travail réalisé sur les six mois du défi RembourSanté."
       url: docs/dig_realisations/RembourSante_Restitution.pdf
       call_to_action: "Consulter la présentation"
-    - image: img/realisations/dig/RembourSante_ProtoDesktop.png
+    - image: img/realisations/2019/RembourSante_ProtoDesktop.png
       title: "Prototype Web"
       description: "Prototype de l'interface web réalisé pour les tests utilisateurs."
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen&hints=off
       call_to_action: "Découvrir le prototype web"
-    - image: img/realisations/dig/RembourSante_ProtoMobile.png
+    - image: img/realisations/2019/RembourSante_ProtoMobile.png
       title: "Prototype Mobile"
       description: "Prototype de l'interface web réalisé pour les tests utilisateurs."
       url: https://xd.adobe.com/view/34ff7be8-469e-4a9f-78cc-6241beda025a-42ce/?fullscreen&hints=off
