@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Que sont devenus les EIG ? Entretien avec Léo Bouloc
+title: Que sont devenus les EIG ? Entretien avec Léo Bouloc
 author: Sophie Miljkovic et Bastien Guerry
 twitter: etalab
-description: "Léo Bouloc, Entrepreneur d'Intérêt Général de la première promotion, revient sur le défi qu'il a relevé avec Laurent Dupont au sein du ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation. Où en est-il ? Où en est l'outil qu'il a développé ? On fait le point, un an après."
+description: "Léo Bouloc, Entrepreneur d'Intérêt Général de la première promotion, revient sur le défi qu'il a relevé avec Laurent Dupont au sein du ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation. Où en est-il ? Où en est l'outil qu'il a développé ? On fait le point, un an après."
 ---
 
 *Ce billet est le premier d'une série d'entretiens avec les

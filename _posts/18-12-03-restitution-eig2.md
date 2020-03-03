@@ -19,14 +19,14 @@ twitter: etalab
 
 La transformation numérique des administrations doit se faire en
 collaboration avec les citoyens. Pour cela, le programme
-Entrepreneur·e d'Intérêt Général s'est fixé une mission : créer des
+Entrepreneur·e d'Intérêt Général s'est fixé une mission : créer des
 équipes constituées d'agents publics désireux d'innover et de
 professionnels du numérique engagés qui relèvent ensemble des défis
 d'intérêt général.
 
 Pour sa deuxième promotion, le programme a accueilli 28 EIG pour
 relever 13 défis. **Découvrez dès à présent le résultat de 10 mois de
-travail !**
+travail !**
 
 Pour les plus curieux, sachez que [**les codes sources sont publiés
 sous licence

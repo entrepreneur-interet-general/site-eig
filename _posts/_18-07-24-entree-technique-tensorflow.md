@@ -6,19 +6,19 @@ twitter: Vict0rSch
 description: "Victor Schmidt est datascientist et EIG dans le défi Hopkins.  Il publie des articles techniques sur https://vict0rsch.github.io pour apprendre et partager ce qu'il apprend.  Dans cette entrée de blog technique, il nous met dans la situation d'un développeur cherchant à corriger un problème qu'il rencontre avec son code."
 ---
 
-# Pourquoi une entrée de blog technique ?
+# Pourquoi une entrée de blog technique ?
 
 *Le programme EIG mise sur l'efficacité d'équipes restreintes, où les
 personnes ayant des compétences techniques (designers, développeurs ou
 analystes de données) travaillent en lien étroit avec les experts d'un
 service de l'administration.  Le dialogue qui se noue exige, pour être
-efficace, d'ajuster les fins (des mentors) aux moyens (des EIG) : cet
+efficace, d'ajuster les fins (des mentors) aux moyens (des EIG) : cet
 ajustement est plus efficace quand les EIG se familiarisent vite avec
 le domaine métier des mentors, et quand les mentors comprennent quels
 moyens sont mobilisables par les EIG.*
 
 *Avec cet article de Victor, le blog EIG accueille des articles plus
-techniques : nous sommes persuadés qu'il est important de comprendre
+techniques : nous sommes persuadés qu'il est important de comprendre
 comment les développeurs abordent leurs problèmes pour travailler avec
 eux.  Nous souhaitons aussi que ce blog participe du vaste dialogue
 technique que la culture de l'open source aide à nourrir.*
@@ -366,7 +366,7 @@ retrouver dans le graph !
 dataset_init_op = graph.get_operation_by_name('dataset_init')
 {% endhighlight %}
 
-Et voilà :) C'est tout. Pas si compliqué ! Mais comme souvent les deux
+Et voilà :) C'est tout. Pas si compliqué ! Mais comme souvent les deux
 étapes pour résoudre un problème sont :
 
 1. Savoir formuler son problème
