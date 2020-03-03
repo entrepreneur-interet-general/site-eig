@@ -1,3 +1,4 @@
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
@@ -843,7 +844,7 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Connaître, partager et agir pour résorber les bidonvilles"
-  administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
+  administration: "Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement"
   administration_website: https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
   year: 2019
   promotion: "dig"
@@ -854,7 +855,7 @@
   mentors:
     - "Sophie Jacquemont"
     - "Manuel Demougeot"
-     key_figures:
+  key_figures:
     - amount: 20
       description: "entretiens utilisateurs"
     - amount: 8
@@ -863,18 +864,18 @@
       description: "écrans co-conçus"
     - amount: 5
       description: "ateliers internes et externes"
-    projects:
+  projects:
     - image: img/realisations/dig/ResorptionBidonvilles_Panorama.jpg
       title: "Panorama de la problématique et des parcours"
       description: "Analyse de la problématique afin d’identifier les points d’amélioration et évolutions de la plateforme. Document réalisé en fin de mission afin de compiler la connaissance sur le projet."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Panorama_ProblematiqueParcours_Nov2019.pdf
       call_to_action: "Parcourir le panorama"
-      - image: img/realisations/dig/ResorptionBidonvilles_Synthese.jpg
+    - image: img/realisations/dig/ResorptionBidonvilles_Synthese.jpg
       title: "Synthèse des entretiens utilisateurs"
       description: "Les entretiens utilisateurs menés sur les processus de travail actuels des agents ont permis d'identifier l'évolution et l'intégration de la plateforme dans ces processus."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Syntheses_Aout2019.pdf
       call_to_action: "Parcourir la synthèse"
-      - image: img/realisations/dig/ResorptionBidonvilles_Maquette.jpg
+    - image: img/realisations/dig/ResorptionBidonvilles_Maquette.jpg
       title: "Exemple de maquettage"
       description: "La fonctionnalité « déclaration d’un dispositif » a été co-conçue avec l’équipe  à partir des besoins identifés et les tests utilisateurs."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Maquette_Oct2019.pdf
@@ -887,7 +888,7 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Améliorer l’information environnementale du citoyen"
-  administration: Commissariat Général au Développement Durable - Ministère de la Transition Ecologique et Solidaire
+  administration: Commissariat Général au Développement Durable - Ministère de la Transition Écologique et Solidaire
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   year: 2019
   promotion: "dig"
