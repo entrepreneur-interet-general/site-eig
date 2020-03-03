@@ -182,7 +182,7 @@
       description: "Faire des données un outil de régulation, l’exemple du défi DataReg"
       show: true
   projects:
-    - image: img/realisations/2019/blank.png
+    - image: img/realisations/2019/blank.jpg
       title: "Projet EIG DataReg à l'Arcep"
       description: "A partir des données de couverture mobile fournies par les opérateurs, nous avons développé un système entièrement automatisé qui permet d'intégrer les données dans une base de données mobile dédiée. Depuis cette base, nous calculons automatiquement les taux de couverture des opérateurs, qui servent aux différentes unités de l'ARCEP dans leurs missions de suivi."
       url: 
