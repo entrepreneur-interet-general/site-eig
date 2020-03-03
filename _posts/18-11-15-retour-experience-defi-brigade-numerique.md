@@ -62,7 +62,7 @@ est prévu pour mi-2019.
 # Un projet en inspire un autre
 
 Un deuxième projet de ce défi est né d'échanges quotidiens avec les
-divers acteurs de la gendarmerie : celui de publier sur internet les
+divers acteurs de la gendarmerie : celui de publier sur internet les
 horaires d'ouverture des unités accueillant du public.
 
 Depuis juillet 2018, ces horaires peuvent déjà être consultés par les

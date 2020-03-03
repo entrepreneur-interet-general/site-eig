@@ -20,8 +20,9 @@
   end_of_project_videos:
     - id: x7o1567
       platform: dailymotion
-      description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi ACOSS-Plateforme"
+      description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ACOSS-Plateforme"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/acoss-plateforme.pdf"
 
 "ADLER":
   image: /img/logo-adler.png
@@ -44,8 +45,9 @@
   end_of_project_videos:
     - id: x7o1568
       platform: dailymotion
-      description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi ADLER"
+      description: "Améliorer l’action publique à l’aide de la data science, l’exemple du défi ADLER"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/adler.pdf"
 
 "CartoBio":
   image: /img/logo-cartobio.png
@@ -71,6 +73,7 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi CartoBio"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cartobio.pdf"
 
 "CibNav":
   image: /img/logo-cib-nav.png
@@ -94,7 +97,7 @@
     - "Hervé Brulé"
   key_figures:
     - amount: 10000
-      description: "Navires de la flotte professionnelle française sont concernés par l'outil CibNAV, soit 85% !"
+      description: "Navires de la flotte professionnelle française sont concernés par l’outil CibNAV, soit 85% !"
     - amount: 30
       description: "Agents impliqués directement dans la conception des outils"
     - amount: 3
@@ -120,7 +123,8 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi CibNav"
       show: true
-  
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cibnav.pdf"
+
 "DataJust":
   image: /img/logo-themis.png
   title: DataJust
@@ -128,7 +132,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: "Construire un référentiel d'indemnisation des préjudices corporels"
+  description: "Construire un référentiel d’indemnisation des préjudices corporels"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -150,12 +154,13 @@
   projects:
     - image: img/realisations/2019/DataJust.png
       title: "Interface de data visualisation développée dans le cadre du défi"
-      description: "Nous avons réalisé un outil de visualisation, permettant de visualiser sur le territoire les montants d'indemnisation alloués en matière de réparation du dommage corporel."
+      description: "Nous avons réalisé un outil de visualisation, permettant de visualiser sur le territoire les montants d’indemnisation alloués en matière de réparation du dommage corporel."
   end_of_project_videos:
     - id: x7o1569
       platform: dailymotion
-      description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi DataJust"
+      description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi DataJust"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datajust.pdf"
 
 "DataReg":
   image: /img/logo-datareg.png
@@ -164,7 +169,7 @@
   class: 2019 data
   skills: EIG 3 // Data
   colorback: red
-  description: "Maximiser l’exploitation des données de l'Arcep"
+  description: "Maximiser l’exploitation des données de l’Arcep"
   year: 2019
   promotion: 3
   duration_months: 10
@@ -180,6 +185,7 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi DataReg"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datareg.pdf"
 
 "EIG Link 2019":
   image: /img/defis/11_EIGLink.png
@@ -188,8 +194,8 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
+  description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
+  administration: "Services du Premier ministre, direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   year: 2019
   promotion: 3
@@ -204,7 +210,7 @@
     - "Mathilde Bras"
   key_figures:
     - amount: 32
-      description: "Entrepreneurs d'intérêt général accompagnés"
+      description: "Entrepreneurs d’intérêt général accompagnés"
     - amount: 15
       description: "Projets EIG (défis) accompagnés"
     - amount: 21
@@ -214,24 +220,25 @@
   projects:
     - image: img/realisations/2019/eig-link-accompagnement.png
       title: "Animation et mentorat"
-      description: "Nous avons défini des rituels d'accompagnement au sein de l'équipe de coordination du programme. Ces rituels permettent aux EIG de collaborer lors de plénières, sessions de coworking, séminaires et meetups."
+      description: "Nous avons défini des rituels d’accompagnement au sein de l’équipe de coordination du programme. Ces rituels permettent aux EIG de collaborer lors de plénières, sessions de coworking, séminaires et meetups."
       url: https://doc.eig-forever.org/animation.html
       call_to_action: "Voir le calendrier"
     - image: img/realisations/2019/eig-link-outils.png
-      title: "Développement d'outils"
+      title: "Développement d’outils"
       description: "Pour épauler au mieux les entrepreneurs et faire évoluer le programme, nous avons créé plusieurs produits : rétrospective hebdomadaire, outil de standup, documentation interne. Les objectifs de ces produits et outils sont de diffuser la connaissance et faciliter les collaborations."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html
       call_to_action: "Découvrir la démarche"
     - image: img/realisations/2019/eig-link-etalab.png
       title: "Assister Etalab"
-      description: "En tant qu'agents à Etalab et à la DINSIC, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d'interfaces, conseils aux agents publics."
+      description: "En tant qu’agents à Etalab et à la DINUM, nous avons pu participer aux différentes missions de notre administration : apports du design, open source, rédaction de guides et bonnes pratiques, évaluations de systèmes et d’interfaces, conseils aux agents publics."
       url: https://www.etalab.gouv.fr
       call_to_action: Découvrir Etalab
   end_of_project_videos:
     - id: x7o1569
       platform: dailymotion
-      description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi EIG Link"
+      description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi EIG Link"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/eig-link.pdf"
 
 "ExploCode":
   image: /img/logo-explocode.png
@@ -264,8 +271,9 @@
   end_of_project_videos:
     - id: x7o1567
       platform: dailymotion
-      description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi ExploCode"
+      description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ExploCode"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/explocode.pdf"
 
 "IA Flash":
   image: /img/logo-ia-flash.png
@@ -290,7 +298,7 @@
     - "Simone Nouwop-Tchinda"
   key_figures:
     - amount: 10000000
-      description: "De clichés de véhicules pour la base d'entraînement"
+      description: "De clichés de véhicules pour la base d’entraînement"
     - amount: 8000
       description: "Avis de contravention et contestations évitées par an"
     - amount: 2
@@ -298,23 +306,29 @@
   projects:
     - image: img/realisations/2019/matchvec.png
       title: "Détection des marque et modèle du véhicule"
-      description: "Nous avons conçu une brique d'intelligence artificielle pour détecter la marque et modèle de véhicules dans une photo."
+      description: "Nous avons conçu une brique d’intelligence artificielle pour détecter la marque et modèle de véhicules dans une photo."
       url: https://iaflash.fr/testapi/matchvec
-      call_to_action: "Tester l'API"
+      call_to_action: "Tester l’API"
     - image: img/realisations/2019/sivnorm.png
-      title: "Match flou de la marque et modèle des véhicules dans la carte grise à partir d'un référentiel"
+      title: "Match flou de la marque et modèle des véhicules dans la carte grise à partir d’un référentiel"
       description: "Nous avons développé un outil pour nettoyer les champs marque et modèle de la carte grise en le rapprochant à un référentiel."
       url: https://iaflash.fr/testapi/sivnorm
-      call_to_action: "Tester l'API"
+      call_to_action: "Tester l’API"
   end_of_project_videos:
     - id: x7o1568
       platform: dailymotion
-      description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi IA Flash"
+      description: "Améliorer l’action publique à l’aide de la data science, l’exemple du défi IA Flash"
       show: true
+    - id: x7okqx3
+      platform: dailymotion
+      description: "Découvrez l’outil IA Flash"
+      show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/iaflash.pdf"
 
-"Karfu'R":
+
+"Karfu’R":
   image: /img/logo-karfur.png
-  title: "Karfu'R"
+  title: "Karfu’R"
   link_to: /defis/2019/karfur.html
   class: 2019 web design
   skills: EIG 3 // Web // Design
@@ -323,7 +337,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : "Délégation Interministérielle pour l'Accueil et l'Intégration des Réfugiés (DiAir)"
+  administration : "Délégation Interministérielle pour l’Accueil et l’Intégration des Réfugiés (DiAir)"
   administration_website: https://accueil-integration-refugies.fr
   source_code: https://github.com/Tony4469/karfur
   website: https://www.refugies.info
@@ -345,24 +359,25 @@
   projects:
     - image: img/realisations/2019/karfur-site.png
       title: "Plateforme contributive ouverte"
-      description: "La plateforme réfugiés.info permet de recenser et de traduire de manière collaborative les dispositifs d'accompagnement et les démarches administratives dédiés à l'intégration des réfugiés en France."
+      description: "La plateforme réfugiés.info permet de recenser et de traduire de manière collaborative les dispositifs d’accompagnement et les démarches administratives dédiés à l’intégration des réfugiés en France."
       url: https://refugies.info
       call_to_action: "Découvrir la plateforme"
     - image: img/realisations/2019/karfur-mighty.png
       title: "Un réseau social de contribution"
-      description: "Nous utilisons MightyNetwork pour réunir tous ceux qui souhaitent suivre et participer à l'évolution du projet."
+      description: "Nous utilisons MightyNetwork pour réunir tous ceux qui souhaitent suivre et participer à l’évolution du projet."
       url: https://refugies-info.mn.co/
       call_to_action: "Découvrir le réseau"
     - image: img/realisations/2019/karfur-github.png
       title: "Un code open source"
-      description: "L'ensemble du projet est disponible en open source :  à la fois l'ensemble du code source, mais aussi le Design System produit sur mesure pour ce projet."
+      description: "L’ensemble du projet est disponible en open source :  à la fois l’ensemble du code source, mais aussi le Design System produit sur mesure pour ce projet."
       url: https://github.com/Tony4469/karfur
       call_to_action: "Voir le code"
   end_of_project_videos:
     - id: x7o1567
       platform: dailymotion
-      description: "Assurer l'accès aux droits des citoyennes et citoyens, l’exemple du défi Karfu'R"
+      description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi Karfu’R"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/karfur.pdf"
 
 "LexImpact":
   image: /img/logo-lex-impact.png
@@ -372,11 +387,11 @@
   class: 2019 web design
   skills: EIG 3 // Web // Design
   colorback: red
-  description: "Evaluer l'impact des réformes socio-fiscales sur les citoyens"
+  description: "Evaluer l’impact des réformes socio-fiscales sur les citoyens"
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: "Direction interministérielle du numérique et du système d’information et de communication de l'État (DINSIC)"
+  administration: "Direction interministérielle du numérique (DINUM)"
   administration_website: https://www.numerique.gouv.fr/
   eigs:
     - "Augustin Wenger"
@@ -389,6 +404,8 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi LexImpact"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
+
 
 "Open Chronic":
   image: /img/logo-open-chronic.png
@@ -413,29 +430,37 @@
   projects:
     - image: img/realisations/2019/documentation-collaborative-snds.png
       title: "Documentation collaborative du SNDS"
-      description: "Nous avons mis en place une documentation collaborative sur le Système National des Données de Santé. Ce site a vocation à être alimenté par tout sachant sur le SNDS."
+      description: "Nous avons mis en place une documentation collaborative sur le système national des données de santé (SNDS). Ce site a vocation à être alimenté par tout sachant sur le SNDS."
       url: https://documentation-snds.health-data-hub.fr/
-      call_to_action: "Visiter la documentation"
+      call_to_action: "Lire la documentation"
     - image: img/realisations/2019/dictionnaire-interactif-snds.png
       title: "Dictionnaire interactif du SNDS"
-      description: "Nous avons contribué et ouvert en Open Source ce dictionnaire développé par des membres de la DREES contenant des informations sur les tables et variables du SNDS."
+      description: "Nous avons contribué et ouvert en open source ce dictionnaire développé par des membres de la DREES. Il contient des informations sur les tables et variables du SNDS."
       url: https://drees.shinyapps.io/dico-snds/
-      call_to_action: "Découvrir le dico SNDS"
+      call_to_action: "Découvrir le dictionnaire"
     - image: img/realisations/2019/groupe-meetup-health-data-hub.png
       title: "Groupe Meetup Health Data Hub"
-      description: "En collaboration avec l'Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d'organiser des rencontres informelles au sujet du SNDS."
+      description: "En collaboration avec l’Institut National des Données de Santé, nous avons créé un groupe sur la plateforme Meetup afin d’organiser des rencontres informelles au sujet du SNDS."
       url: https://www.meetup.com/fr-FR/Health-Data-Hub/
-      call_to_action: "S'inscrire au groupe Meetup"
+      call_to_action: "S’inscrire au groupe Meetup"
     - image: img/realisations/2019/gitlab-health-data-hub.png
       title: "Logiciels libres"
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans plusieurs répertoires, tous publiés sous licences libres."
       url: https://gitlab.com/healthdatahub
       call_to_action: "Explorer le code"
+  key_figures:
+    - amount: 10
+      description: "teraoctets de données exploitées sur le serveur Big Data"
+    - amount: 500
+      description: "membres dans le groupe meetup SNDS"
+    - amount: 20
+      description: "organisations expertes du SNDS formées à la collaboration sur GitLab"
   end_of_project_videos:
     - id: x7o1565
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi Open Chronic"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openchronic.pdf"
 
 "Open Justice":
   image: /img/logo-open-justice.png
@@ -460,8 +485,9 @@
   end_of_project_videos:
     - id: x7o1568
       platform: dailymotion
-      description: "Améliorer l'action publique à l'aide de la data science, l’exemple du défi Open Justice"
+      description: "Améliorer l’action publique à l’aide de la data science, l’exemple du défi Open Justice"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openjustice.pdf"
 
 "Plume":
   image: /img/logo-plume.png
@@ -489,8 +515,9 @@
   end_of_project_videos:
     - id: x7o1569
       platform: dailymotion
-      description: "Implémenter de nouveaux outils et méthodes de travail dans l'administration, l’exemple du défi Plume"
+      description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi Plume"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/plume.pdf"
 
 "Polygraphe":
   image: /img/logo-polygraphe.png
@@ -522,6 +549,7 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi Polygraphe"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig3/polygraphe.pdf"
 
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
@@ -531,7 +559,7 @@
   skills: DIG // Design
   description: "Faciliter l’accès aux achats hors armement du ministère des Armées"
   administration: Ministère des Armées
-  administration_website: http://example.com
+  administration_website: https://www.defense.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 8
@@ -548,9 +576,9 @@
   link_to: /defis/2019/alphabet.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale"
-  administration: Ministère de l'Éducation Nationale
-  administration_website: http://example.com
+  description: "Améliorer la communication et la collaboration des 1,2 million d’agents de l’Education nationale"
+  administration: "Ministère de l’Éducation Nationale"
+  administration_website: https://www.education.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -569,9 +597,9 @@
   link_to: /defis/2019/app-112.html
   class: 2019 dig design
   skills: DIG // Design
-  description: "Aider à sauver des vies en situation d'urgence"
-  administration: Agence de la Sécurité Civile, Ministère de l'Intérieur
-  administration_website: http://example.com
+  description: "Aider à sauver des vies en situation d’urgence"
+  administration: "Agence de la Sécurité Civile, Ministère de l’Intérieur"
+  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -589,8 +617,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Contribuer à la réussite de FranceConnect"
-  administration: Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État(DINSIC),
-  administration_website: http://example.com
+  administration: Direction interministérielle du numérique (DINUM),
+  administration_website: https://www.numerique.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -608,8 +636,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée"
-  administration: Mission Identité Numérique, Ministère de l'Intérieur
-  administration_website: http://example.com
+  administration: "Mission Identité Numérique, Ministère de l’Intérieur"
+  administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -629,7 +657,7 @@
   skills: DIG // Design
   description: "Informer les citoyens sur les espaces naturels autour de chez eux"
   administration: Muséum Histoire Naturelle
-  administration_website: http://example.com
+  administration_website: https://inpn.mnhn.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -647,8 +675,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Faciliter le regroupement familial des étrangers en France"
-  administration: Direction de l'Information Légale et Administrative (DILA)
-  administration_website: http://example.com
+  administration: "Direction de l’Information Légale et Administrative (DILA)"
+  administration_website: https://www.dila.premier-ministre.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -667,7 +695,7 @@
   skills: DIG // Design
   description: "Faciliter l’accès à une information marine de qualité"
   administration: Service hydrographique et océanographique de la marine (Shom), Ministère des Armées
-  administration_website: http://example.com
+  administration_website: https://www.shom.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -685,8 +713,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Faciliter la prise de rendez-vous en préfecture"
-  administration: Ministère de l'Intérieur
-  administration_website: http://example.com
+  administration: "Ministère de l’Intérieur"
+  administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 7
@@ -706,10 +734,10 @@
   skills: DIG // Design
   colorback: blue
   description: "Simplifier le parcours des familles dont les enfants sont en situation de handicap"
-  administration: Académie de Clermont-Ferrand, Ministère de l'Éducation Nationale
+  administration: "Académie de Clermont-Ferrand, Ministère de l’Éducation Nationale"
   duration_months: 6
   year: 2019
-  administration_website: http://example.com
+  administration_website: http://www.ac-clermont.fr/
   promotion: "dig"
   eigs:
     - "Sofia Boulaarab"
@@ -726,8 +754,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Accompagner le développement professionnel des agents de l’académie de Lyon"
-  administration: Académie de Lyon, Ministère de l'Éducation Nationale
-  administration_website: http://example.com
+  administration: "Académie de Lyon, Ministère de l’Éducation Nationale"
+  administration_website: http://www.ac-lyon.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -746,7 +774,7 @@
   skills: DIG // Design
   description: "Favoriser le recrutement à la Gendarmerie nationale"
   administration: Direction Générale de la Gendarmerie nationale (DGGN)
-  administration_website: http://example.com
+  administration_website: https://www.gendarmerie.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 9
@@ -766,8 +794,8 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte Ameli"
-  administration: Caisse Nationale d'Assurance Maladie
-  administration_website: http://example.com
+  administration: "Caisse Nationale d’Assurance Maladie"
+  administration_website: https://assurance-maladie.ameli.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -786,7 +814,7 @@
   skills: DIG // Design
   description: "Connaître, partager et agir pour résorber les bidonvilles"
   administration: Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement
-  administration_website: http://example.com
+  administration_website: https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -805,7 +833,7 @@
   skills: DIG // Design
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable, Ministère de la Transition Ecologique et Solidaire
-  administration_website: http://example.com
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   year: 2019
   promotion: "dig"
   duration_months: 12
@@ -818,15 +846,15 @@
     - "Laurent Delgado"
     - "Thomas Lesueur"
 
-"Vigicr'UX":
+"Vigicr’UX":
   image: /img/defis/dig/VigicrUX.png
-  title: "Vigicr'UX"
+  title: "Vigicr’UX"
   link_to: /defis/2019/vigicrux.html
   class: 2019 dig design
   skills: DIG // Design
   description: "Mieux informer les citoyens sur les risques de crues"
   administration: Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI), Ministère de la Transition Ecologique et Solidaire
-  administration_website: http://example.com
+  administration_website: https://www.vigicrues.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
@@ -871,6 +899,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Archifiltre."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/archifiltre.pdf"
 
 "b@liseNAV":
   image: /img/defis/5_balisage.png
@@ -904,6 +933,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi b@liseNAV."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/balisenav.pdf"
 
 "Brigade Numérique":
   image: /img/defis/10_brigadenumerique.png
@@ -912,11 +942,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: "Moderniser la fonction d'accueil en brigade"
+  description: "Moderniser la fonction d’accueil en brigade"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)"
+  administration: "Ministère de l’Intérieur, Direction générale de la gendarmerie nationale (DGGN)"
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
   eigs:
@@ -930,7 +960,7 @@
       description: "demandes/semaine à la Brigade Numérique"
     - amount: 60
       description: "Canaux de communication (Facebook, Twitter, ...)"
-    - amount: 8.7
+    - amount: 9
       description: "note moyenne de satisfaction des citoyens"
     - amount: 3080
       description: "gendarmeries ont leurs horaires en open data"
@@ -939,6 +969,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/brigade-numerique.pdf"
 
 "CoachÉlèves":
   image: /img/defis/12_CoachElevesAssistProf.png
@@ -947,11 +978,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: "Améliorer la réussite scolaire avec les données d'apprentissage"
+  description: "Améliorer la réussite scolaire avec les données d’apprentissage"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation"
+  administration: "Ministère de l’Éducation Nationale, Direction du numérique pour l’éducation"
   administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
   eigs:
     - "David Panou"
@@ -971,6 +1002,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
+
 
 "DataESR":
   image: /img/defis/13_dataESR.png
@@ -980,7 +1013,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
-  administration: "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision"
+  administration: "Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation, Département des outils d’aide à la décision"
   administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
   year: 2018
   duration_months: 10
@@ -1006,6 +1039,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi DataESR."
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/dataesr.pdf"
 
 "EIG Link 2018":
   image: /img/defis/11_EIGLink.png
@@ -1014,8 +1048,8 @@
   class: 2018 web
   skills: EIG 2 // Web
   colorback: blue
-  description: "Accompagner un collectif numérique d’intérêt général au sein de l'État"
-  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab"
+  description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
+  administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   year: 2018
@@ -1040,21 +1074,22 @@
       description: "10 mois après : présentation du défi EIG Link."
       show: true
   projects:
-    - image: img/eig-guides.png
+    - image: img/realisations/2018/eig-guides.png
       title: "Base de connaissances pour les EIG"
-      description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l'administration et le développement de leurs projets."
+      description: "Nous avons alimenté un dépôt collectant différentes ressources utiles aux EIG pour leur intégration dans l’administration et le développement de leurs projets."
       url: https://github.com/entrepreneur-interet-general/eig-link/
       call_to_action: "Parcourir la base de connaissances"
     - image: img/realisations/2018/commons-mobilier.png
       title: "Atelier de contributions à Wikipédia"
-      description: "Nous avons accompagné l'organisation d'une journée de contribution à Wikipédia et Wikimédia Commons autour des objets du Mobilier national, avec Laurie Chapotte et Ned Baldessin, EIG pour le défi Gobelins."
+      description: "Nous avons accompagné l’organisation d’une journée de contribution à Wikipédia et Wikimédia Commons autour des objets du Mobilier national, avec Laurie Chapotte et Ned Baldessin, EIG pour le défi Gobelins."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/12/retour-sur-atelier-wikipedia-au-mobilier-national.html
-      call_to_action: "Lire le compte-rendu de l'atelier sur le blog EIG"
+      call_to_action: "Lire le compte-rendu de l’atelier sur le blog EIG"
     - image: img/realisations/2018/mini-guide-open-source.png
-      title: "Guide pour l'ouverture des codes sources"
+      title: "Guide pour l’ouverture des codes sources"
       description: "Nous avons rédigé un mini-guide pour aider les administrations à publier les codes sources des défis EIG."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf
       call_to_action: "Télécharger le mini-guide Open Source"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/eig-link.pdf"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
@@ -1081,9 +1116,9 @@
     - amount: 65000
       description: "objets en ligne"
     - amount: 25000
-      description: "photos d'objets"
+      description: "photos d’objets"
     - amount: 337
-      description: "photos des métiers d'art sur Wikimedia Commons"
+      description: "photos des métiers d’art sur Wikimedia Commons"
     - amount: 11000
       description: "photos téléchargeables et réutilisables"
   end_of_project_videos:
@@ -1104,9 +1139,10 @@
       call_to_action: "Parcourir les photographies"
     - image: img/realisations/2018/gobelins-github.jpg
       title: "Code source ouvert"
-      description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d'autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
+      description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d’autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/gobelins.pdf"
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -1115,11 +1151,11 @@
   class: 2018 data
   skills: EIG 2 // Data
   colorback: blue
-  description: "Lutter contre la fraude financière et enrayer l'économie souterraine"
+  description: "Lutter contre la fraude financière et enrayer l’économie souterraine"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Ministère de l'Action et des Comptes Publics"
+  administration: "Ministère de l’Action et des Comptes Publics"
   administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
   eigs:
@@ -1142,6 +1178,7 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Hopkins"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/hopkins.pdf"
 
 "Lab Santé":
   image: /img/defis/2_Labsanté.png
@@ -1154,7 +1191,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l'évaluation et des statistiques"
+  administration: "Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l’évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   eigs:
     - "Samah Ghalloussi"
@@ -1168,7 +1205,7 @@
     - amount: 29
       description: "projets créés sur Gitlab"
     - amount: 8
-      description: "sessions d'accompagnement à la datascience"
+      description: "sessions d’accompagnement à la datascience"
     - amount: 12
       description: "applications open source"
   end_of_project_videos:
@@ -1176,6 +1213,8 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/labsante.pdf"
+
 
 "PrédiSauvetage":
   image: /img/defis/1_MTES.png
@@ -1200,11 +1239,11 @@
     - "Renaud Périn"
   key_figures:
     - amount: 275000
-      description: "opérations d'assistance et de sauvetage en mer en open data"
+      description: "opérations d’assistance et de sauvetage en mer en open data"
     - amount: 75
-      description: "pages de documents écrites pour convaincre l'administration"
+      description: "pages de documents écrites pour convaincre l’administration"
     - amount: 20
-      description: "agents formés à l'analyse de données"
+      description: "agents formés à l’analyse de données"
     - amount: 17
       description: "répertoires sur GitHub"
   end_of_project_videos:
@@ -1215,17 +1254,17 @@
   projects:
     - image: img/realisations/2018/carte-snosan.png
       title: "Carte des opérations en mer"
-      description: "Nous avons réalisé une carte intéractive des opérations en mer d'assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
+      description: "Nous avons réalisé une carte intéractive des opérations en mer d’assistance et de sauvetage réalisées par la France depuis 1985 et mise à jour en temps réel. Cette carte, accessible à tous, permet également d’extraire les données visualisées."
       url: https://carte.snosan.fr
       call_to_action: "Parcourir les opérations"
     - image: img/realisations/2018/snosan.png
       title: "Observatoire interministériel"
-      description: "Nous avons assisté et fait évoluer l'observatoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN. Il dispose de nouveaux outils suite à notre défi."
+      description: "Nous avons assisté et fait évoluer l’observatoire interministériel travaillant sur les accidents relatifs à la plaisance et aux activités nautiques récréatives et sportives en eaux françaises, le SNOSAN. Il dispose de nouveaux outils suite à notre défi."
       url: https://www.snosan.fr
-      call_to_action: "Visiter l'observatoire"
+      call_to_action: "Visiter l’observatoire"
     - image: img/realisations/2018/snosan-opendata.png
       title: "Open data"
-      description: "Nous avons mis à disposition les données brutes des opérations d'assistance et de sauvetage coordonnées par la France depuis 1985. Ces données correspondent à près de 300 000 opérations et sont mises à jour de manière quotidienne automatiquement."
+      description: "Nous avons mis à disposition les données brutes des opérations d’assistance et de sauvetage coordonnées par la France depuis 1985. Ces données correspondent à près de 300 000 opérations et sont mises à jour de manière quotidienne automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/
       call_to_action: "Voir les données brutes"
     - image: img/realisations/2018/snosan-code.png
@@ -1233,6 +1272,7 @@
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
       url: https://github.com/search?q=topic%3Apredisauvetage
       call_to_action: "Explorer le code"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/predisauvetage.pdf"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -1242,7 +1282,7 @@
   skills: EIG 2 // Web // Data
   colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
-  administration: "Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données"
+  administration: "Ministère de l’Intérieur, Mission de coordination et d’appui à la valorisation des données"
   administration_website: https://www.interieur.gouv.fr
   website: http://previsecours.fr
   source_code: https://github.com/previsecours
@@ -1268,22 +1308,27 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Prévisecours"
       show: true
+    - id: x7okqx2
+      platform: dailymotion
+      description: "Découvrez l’outil Prévisecours"
+      show: true
   projects:
     - image: img/realisations/2018/previsecours-correlations.png
       title: "Étude de corrélation"
-      description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactants dans chaque catégorie d'intervention."
+      description: "Nous avons réalisé une étude de corrélation pour mettre en avant les facteurs (salubrité des logements, météo, topographie, accès aux soins, pollution…) les plus impactants dans chaque catégorie d’intervention."
       url: https://previsecours.fr/assets/pdf/correlations.pdf
       call_to_action: "Voir les corrélations"
     - image: img/realisations/2018/previsecours-carte.png
       title: "Carte météo des interventions"
-      description: "Nous avons réalisé une carte interactive pour visualiser les interventions à venir des pompiers de l'Essonne. Cette carte, accessible à tous, permet également d'extraire les données visualisées."
+      description: "Nous avons réalisé une carte interactive pour visualiser les interventions à venir des pompiers de l’Essonne. Cette carte, accessible à tous, permet également d’extraire les données visualisées."
       url: https://viz.previsecours.fr/#/
       call_to_action: "Voir la carte"
     - image: img/realisations/2018/previsecours-opendata.png
       title: "Open data"
-      description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l'Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
+      description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l’Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
       call_to_action: "Voir les données"
+  poster: "https://fichiers.eig-forever.org/posters/eig2/previsecours.pdf"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
@@ -1293,7 +1338,7 @@
   skills: EIG 2 // Data // Web
   colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
-  administration: "Ministère de l'Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
+  administration: "Ministère de l’Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
   administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
   source_code: https://github.com/entrepreneur-interet-general/opensignauxfaibles
   year: 2018
@@ -1312,12 +1357,14 @@
     - amount: 13
       description: "agents utilisateurs en Bourgogne-Franche-Comté"
     - amount: 4
-      description: "services de l'État contributeurs"
+      description: "services de l’État contributeurs"
   end_of_project_videos:
     - id: x6y059s
       platform: dailymotion
       description: "10 mois après : présentation du défi Signaux Faibles"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/signaux-faibles.pdf"
+
 
 "Social Connect":
   image: /img/defis/8_CGET.png
@@ -1326,11 +1373,11 @@
   class: 2018 web design
   skills: EIG 2 // Web // Design
   colorback: blue
-  description: "Repérer et mettre en réseau l'innovation sociale dans les territoires"
+  description: "Repérer et mettre en réseau l’innovation sociale dans les territoires"
   year: 2018
   duration_months: 10
   promotion: 2
-  administration: "Services du Premier Ministre, Commissariat général à l'égalité des territoires, Carrefour des innovations sociales"
+  administration: "Services du Premier Ministre, Commissariat général à l’égalité des territoires, Carrefour des innovations sociales"
   administration_website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
@@ -1343,16 +1390,17 @@
     - amount: 17
       description: "ateliers de co-construction"
     - amount: 3
-      description: "prototypes d'application open source"
+      description: "prototypes d’application open source"
     - amount: 1030
       description: "visites sur la version bêta"
     - amount: 12600
-      description: "projets d'innovation sociale en ligne"
+      description: "projets d’innovation sociale en ligne"
   end_of_project_videos:
     - id: x6y006d
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
+  poster: "https://fichiers.eig-forever.org/posters/eig2/social-connect.pdf"
 
 "AFD - Geodata":
   image: /img/icone-eig.png
@@ -1380,11 +1428,11 @@
       show: false
     - id: x5qmebk
       platform: dailymotion
-      description: "Interview d'Étienne David sur son parcours et sur le défi AFD - Geodata."
+      description: "Interview d’Étienne David sur son parcours et sur le défi AFD - Geodata."
       show: false
     - id: x64z39y
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "ARS - Parcours de soin":
@@ -1416,7 +1464,7 @@
       show: false
     - id: x64z39z
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "BNF - catalogage":
@@ -1475,7 +1523,7 @@
       show: false
     - id: x64z39x
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "DGFiP - fraude fiscale":
@@ -1506,7 +1554,7 @@
       show: false
     - id: x64z39u
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "MCC - Inventaire des orgues":
@@ -1541,7 +1589,7 @@
       show: false
     - id: x64z39q
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "MESRI - La machine à données":
@@ -1555,9 +1603,9 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: "Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation"
+  administration: "Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation"
   administration_website: http://www.enseignementsup-recherche.gouv.fr
-  source_code: https://entrepreneur-interet-general/Merge-Machine
+  source_code: https://github.com/entrepreneur-interet-general/Merge-Machine
   eigs:
     - "Léo Bouloc"
   mentors:
@@ -1575,7 +1623,7 @@
       show: false
     - id: x64z39w
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
 
 "MI - cartAV":
@@ -1589,7 +1637,7 @@
   year: 2017
   duration_months: 10
   promotion: 1
-  administration: "Ministère de l'Intérieur"
+  administration: "Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr
   source_code: https://github.com/entrepreneur-interet-general/cartav
   eigs:
@@ -1608,11 +1656,11 @@
       show: false
     - id: x5qme82
       platform: dailymotion
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
       show: true
     - id: x7bmkan
       platform: dailymotion
-      description: "Découvrez l'outil CartAv"
+      description: "Découvrez l’outil CartAv"
       show: true
 
 "MI - matchID":
@@ -1623,7 +1671,7 @@
   skills: EIG 1 // Data // Web
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
-  administration: "Ministère de l'Intérieur"
+  administration: "Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/
   source_code: https://matchid-project.github.io/
   year: 2017
@@ -1643,6 +1691,10 @@
       description: "Interview de Martin Gross sur son parcours et sur le défi MI - MatchID."
       show: false
     - id: x64z39w
-      platform: x64z3a0
-      description: "10 mois après : retour d'expérience sur l'aventure EIG."
+      platform: dailymotion
+      description: "10 mois après : retour d’expérience sur l’aventure EIG."
+      show: true
+    - id: x7okqx1
+      platform: dailymotion
+      description: "Découvrez l’outil MatchID"
       show: true

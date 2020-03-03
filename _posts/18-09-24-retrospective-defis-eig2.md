@@ -26,7 +26,7 @@ rural, **les EIG ont fait le bilan de leurs réussites, leurs
 étonnements, ce qu'ils ont appris et transmis**. Retour sur leurs
 aventures de médiateurs.
 
-## Rapport d'étonnement : il existe, dans l'administration, un véritable espace pour l'expérimentation et la prise d'initiatives, et il faut s'en saisir et l'organiser !
+## Rapport d'étonnement : il existe, dans l'administration, un véritable espace pour l'expérimentation et la prise d'initiatives, et il faut s'en saisir et l'organiser !
 
 En arrivant dans le monde du service public, la plupart des
 entrepreneurs d'intérêt général ne connaissaient ni les codes de
@@ -42,7 +42,7 @@ voisin ou dans une autre administration. Un travail de réalignement
 est alors nécessaire pour faire en sorte d'avancer dans la même
 direction.
 
-Ces étonnements se compensent par d'autres enseignements : **il
+Ces étonnements se compensent par d'autres enseignements : **il
 existe, dans l'administration, un véritable esprit de recherche et
 d'expérimentation, qui se ressent parfois dans les profils qui
 composent les équipes**. Par exemple, à la DREES, l'équipe des EIG du
@@ -85,7 +85,7 @@ _Restitutions de l'atelier Rétrospective EIG2_
 En tant qu'entrepreneurs, les EIG ont aussi dû se mettre eux-mêmes
 dans une posture _d'apprentissage et de recherche_ :
 
-* sur les métiers de l'administration : archivistes, pompiers,
+* sur les métiers de l'administration : archivistes, pompiers,
   sauveteurs en mers, artisans du Mobilier national, enquêteurs,
   commissaires aux restructuration et à la prévention des entreprises
   en difficultué, enseignants et pédagogues, etc ;
@@ -93,7 +93,7 @@ dans une posture _d'apprentissage et de recherche_ :
   promotion a été très bénéfique pour les projets de datascience ou de
   développement de plateformes. Plusieurs EIG ont aussi appris de
   nouveaux langages et utilisé de nouvelles technologies ;
-* de compétences entrepreneuriales : communication, facilitation,
+* de compétences entrepreneuriales : communication, facilitation,
   négociation, rédaction de notes, etc.
 
 Pour une gestion de projet réussie et des défis aboutis, quelques
@@ -104,7 +104,7 @@ dans la production, communiquer régulièrement au sein du service sur
 l'avancée du défi, solliciter davantage de retours des mentors et des
 utilisateurs.
 
-## Les plus grandes fiertés : des défis réussis et un collectif EIG soudé
+## Les plus grandes fiertés : des défis réussis et un collectif EIG soudé
 
 Ouvrir les données d'accidentologie en mer, faire changer l'échelle de
 son projet, délivrer un produit utilisé par les agents du service,
@@ -123,4 +123,4 @@ promotion des EIG s'est entraidée, a partagé des connaissances, et est
 même partie en bateau !
 
 ![Ice-breaker hors les murs](/img/blog/team-building.jpg)
-_1er jour du séminaire hors les murs, 1er challenge : former un chemin pour éviter de mettre pied à terre !_
+_1er jour du séminaire hors les murs, 1er challenge : former un chemin pour éviter de mettre pied à terre !_
