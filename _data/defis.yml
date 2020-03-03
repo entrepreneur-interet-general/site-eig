@@ -403,7 +403,8 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi LexImpact"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"projects:
+  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
+  projects:
     - image: /img/realisations/2019/LexImpact-PhotoInterface.jpg
       title: "Le tableau de bord de LexImpact POP"
       description: "Nous avons créé une interface accessible aux parlementaires qui est facile d'utilisation et leur permet d'estimer les impacts de leur amendement à l'Article 197 du CGI. En plus des impacts sur des cas types qu'ils peuvent configurer, ils ont une vision macro des effets sur la population et les recettes."
@@ -436,7 +437,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
+  administration: "Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   source_code: https://gitlab.com/healthdatahub
   eigs:
@@ -1051,7 +1052,6 @@
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
   poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
-
 
 "DataESR":
   image: /img/defis/13_dataESR.png
