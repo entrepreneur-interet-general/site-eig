@@ -399,8 +399,6 @@
       description: "pourcent d'amendements concernés par l'outil ont cité LexImpact dans l'exposé des motifs"
     - amount: 84
       description: "parlementaires et collaborateurs/collaboratrices ont participé à une démonstration de l'outil"
-    - amount: 4
-      description: "discours en séance publique parlent de LexImpact"
   end_of_project_videos:
     - id: x7o1565
       platform: dailymotion
