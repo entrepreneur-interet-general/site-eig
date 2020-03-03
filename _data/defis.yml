@@ -483,7 +483,7 @@
       url:
       call_to_action: "Découvrir le moteur de recherche"
     - image: img/realisations/2018/carte-snosan.png
-      title: "Modèle d'anonymisation de décisions de justice disponible"
+      title: "Modèle d’anonymisation de décisions de justice disponible"
       description: "Classifieur Valentin Amaury"
       url:
       call_to_action: "Lien vers le code du classifieur"
@@ -493,10 +493,10 @@
       url:
       call_to_action: "Lien vers les modèles de langage pré-entrainés"
     - image: img/realisations/2018/carte-snosan.png
-      title: "Amélioration d'un modèle de reconnaissance d'entités nommées (selon acceptation conf)"
+      title: "Amélioration d’un modèle de reconnaissance d’entités nommées (selon acceptation conf)"
       description: "Modele CRF amélioré"
       url:
-      call_to_action: "Lien vers le code et l'article du modèle 'May I Check Again ?'"
+      call_to_action: "Lien vers le code et l’article du modèle ’May I Check Again ?’"
   end_of_project_videos:
     - id: x7o1568
       platform: dailymotion
@@ -891,7 +891,7 @@
       call_to_action: "Parcourir le panorama"
     - image: img/realisations/dig/ResorptionBidonvilles_Synthese.jpg
       title: "Synthèse des entretiens utilisateurs"
-      description: "Les entretiens utilisateurs menés sur les processus de travail actuels des agents ont permis d'identifier l'évolution et l'intégration de la plateforme dans ces processus."
+      description: "Les entretiens utilisateurs menés sur les processus de travail actuels des agents ont permis d’identifier l’évolution et l’intégration de la plateforme dans ces processus."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Syntheses_Aout2019.pdf
       call_to_action: "Parcourir la synthèse"
     - image: img/realisations/dig/ResorptionBidonvilles_Maquette.jpg
