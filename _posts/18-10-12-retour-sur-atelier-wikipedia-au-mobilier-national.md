@@ -2,7 +2,7 @@
 author: Bastien
 description: 'Le 21 septembre 2018, l''équipe EIG du Mobilier national a organisé
   une journée « Wikipédia » : le matin, les personnels du Mobilier ont offert aux
-  visiteurs (wikipédiens ou futurs wikipédiens) une visite privée des ateliers ; l''après-midi,
+  visiteurs (wikipédiens ou futurs wikipédiens) une visite privée des ateliers ; l''après-midi,
   chacun a mis en ligne et partagé ses photos sur le projet Wikimedia Commons puis
   enrichi des articles de l''encyclopédie libre et collaborative. Retour sur une expérience
   d''ouverture qui a fortement mobilisé et qui ne demande qu''à être prolongée !'
@@ -28,9 +28,9 @@ Au printemps 2018, lors d'une discussion portant sur les publics
 potentiels de ce futur site, Bastien, EIG Link 2018, évoque les réutilisations que
 pourront faire les wikipédiens des contenus qui seront publiés sous
 licence Ouverte. Mais pourquoi attendre la publication de ces
-contenus pour faire connaître les richesses du Mobilier national ?
+contenus pour faire connaître les richesses du Mobilier national ?
 Pourquoi ne pas inviter des passionnés à prendre des photos et à
-documenter les trésors de cet établissement ?
+documenter les trésors de cet établissement ?
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Pes%C3%A9e_de_pigments.png#/media/File:Pes%C3%A9e_de_pigments.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Pes%C3%A9e_de_pigments.png" alt="Pesée de pigments.png" width="1200" height="800"></a><br>By Isabelle Bideau - Give by the author, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73085571">Link</a></p>
 
@@ -46,7 +46,7 @@ les articles de [Wikipédia](https://fr.wikipedia.org).
 Deux processus parallèles se rejoignent : d'un côté, Hélène Cavalié et
 Laurie prennent le temps de contacter les équipes du Mobilier qui
 acceptent très volontiers le principe d'une demie-journée de visites
-particulières ; de l'autre, Bastien prend contact avec l'association
+particulières ; de l'autre, Bastien prend contact avec l'association
 Wikimédia France en se demandant quel forme d'accompagnement peut
 offrir l'association et quels contributeurs pourraient être intéressés
 et donner de leur temps.
@@ -54,8 +54,8 @@ et donner de leur temps.
 Nous ferons en tout trois réunions de préparation avec Wikimédia
 France : la première, à distance, pour une première prise de contact
 avec trois participants potentiels, dont Sylvain Boissel (Ash_Crow sur
-les projets Wikimedia) ; la deuxième, dans les locaux de Wikimédia
-France, où nous précisons les détails logistiques de l'opération ; une
+les projets Wikimedia) ; la deuxième, dans les locaux de Wikimédia
+France, où nous précisons les détails logistiques de l'opération ; une
 troisième, de nouveau dans les locaux de l'association, l'occasion
 pour Laurie et Ned de faire connaissance avec les volontaires.
 
@@ -82,7 +82,7 @@ restauration tapis.
 
 Tous les visiteurs s'accordent sur un point : il y a trop à voir et à
 noter ! Le plus difficile est de faire des photos tout en écoutant et
-en prenant des notes ; les plus organisés se seront réparti les tâches
+en prenant des notes ; les plus organisés se seront réparti les tâches
 ou auront pris le temps de revenir sur leurs pas pour sauver de
 l'oubli un outil, un détail ou une explication.
 
@@ -133,5 +133,5 @@ lien naissant entre le Mobilier national et les contributeurs.
 Un grand merci à l'équipe EIG pour sa mobilisation et à Wikimédia
 France pour son accompagnement - à suivre !
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Fin de l&#39;atelier <a href="https://twitter.com/Wikimedia_Fr?ref_src=twsrc%5Etfw">@Wikimedia_Fr</a> au <a href="https://twitter.com/MNGBS?ref_src=twsrc%5Etfw">@MNGBS</a> ! 12 personnes formées à <a href="https://twitter.com/Wikipedia_fr?ref_src=twsrc%5Etfw">@Wikipedia_fr</a> et à <a href="https://twitter.com/WikiCommons?ref_src=twsrc%5Etfw">@WikiCommons</a>, 236 fichiers importés cette après-midi.<a href="https://t.co/ixRPi3T5IO">https://t.co/ixRPi3T5IO</a><br><br>(Photos : CC-BY-SA <a href="https://twitter.com/ash_crow?ref_src=twsrc%5Etfw">@Ash_Crow</a>, Kenza-Marie Safraoui, PaulineR83, <a href="https://twitter.com/sukkoria?ref_src=twsrc%5Etfw">@Sukkoria</a>) <a href="https://t.co/kZ0LsBc4rz">pic.twitter.com/kZ0LsBc4rz</a></p>&mdash; Ash_Crow (@ash_crow) <a href="https://twitter.com/ash_crow/status/1043164416764723200?ref_src=twsrc%5Etfw">21 septembre 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Fin de l&#39;atelier <a href="https://twitter.com/Wikimedia_Fr?ref_src=twsrc%5Etfw">@Wikimedia_Fr</a> au <a href="https://twitter.com/MNGBS?ref_src=twsrc%5Etfw">@MNGBS</a> ! 12 personnes formées à <a href="https://twitter.com/Wikipedia_fr?ref_src=twsrc%5Etfw">@Wikipedia_fr</a> et à <a href="https://twitter.com/WikiCommons?ref_src=twsrc%5Etfw">@WikiCommons</a>, 236 fichiers importés cette après-midi.<a href="https://t.co/ixRPi3T5IO">https://t.co/ixRPi3T5IO</a><br><br>(Photos : CC-BY-SA <a href="https://twitter.com/ash_crow?ref_src=twsrc%5Etfw">@Ash_Crow</a>, Kenza-Marie Safraoui, PaulineR83, <a href="https://twitter.com/sukkoria?ref_src=twsrc%5Etfw">@Sukkoria</a>) <a href="https://t.co/kZ0LsBc4rz">pic.twitter.com/kZ0LsBc4rz</a></p>&mdash; Ash_Crow (@ash_crow) <a href="https://twitter.com/ash_crow/status/1043164416764723200?ref_src=twsrc%5Etfw">21 septembre 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
