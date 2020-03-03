@@ -124,7 +124,7 @@ class TestDefis(BaseTest):
                             image_filepath.startswith(
                                 f"img/realisations/{content['year']}/"
                             ),
-                            f"Fichier mal rangé : {image_filepath}. Il doit être dans le dossier `img/realisations/`",
+                            f"Fichier mal rangé : {image_filepath}. Il doit être dans le dossier `img/realisations/{content['year']}`",
                         )
                         self.assertTrue(
                             os.path.isfile(image_filepath),
