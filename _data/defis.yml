@@ -563,7 +563,7 @@
   class: 2019 dig design
   skills: DIG // Design
   description: "Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale"
-  administration: Ministère de l'Éducation Nationale
+  administration: "Ministère de l'Éducation Nationale"
   administration_website: https://www.education.gouv.fr/
   year: 2019
   promotion: "dig"
