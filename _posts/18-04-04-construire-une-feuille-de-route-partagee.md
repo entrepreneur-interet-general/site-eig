@@ -34,7 +34,7 @@ route », animé par Marylène Vicari du Liberté Living Lab.
 
 Pour mener un projet à bien, il est nécessaire de le doter de fondations
 solides. Première étape, donc, **définir précisément les objectifs à
-atteindre**. Petite subtilité : distinguer les objectifs stratégiques des
+atteindre**. Petite subtilité : distinguer les objectifs stratégiques des
 objectifs opérationnels d’un défi. Pour Bastien, notre « EIG Link »,
 soutien technique et méthodologique des EIG, *« assurer une forme de
 cohérence entre les défis sur la méthode, l’open source, l’impact… »*
@@ -115,7 +115,7 @@ s’entraîne à **bien présenter**.  Et oui, on apprend à faire un
 Cette session d’accompagnement avait pour objectif de dessiner une
 feuille de route globale pour les EIG. Conçue spécialement pour eux,
 elle n’est pourtant pas gravée dans le marbre et peut être amenée à
-évoluer. Tout comme les projets d’ailleurs. On vous tient au courant !
+évoluer. Tout comme les projets d’ailleurs. On vous tient au courant !
 
 Retrouvez la description des projets EIG - Promo 2 sur [notre site](https://entrepreneur-interet-general.etalab.gouv.fr/).
 Et sur le Github du [Programme EIG](https://github.com/entrepreneur-interet-general)
