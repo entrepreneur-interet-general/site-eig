@@ -480,22 +480,22 @@
     - image: img/realisations/2018/carte-snosan.png
       title: "Moteur de recherche de Jurisprudence"
       description: "Moteur de recherche de Matthieu"
-      url: 
+      url:
       call_to_action: "Découvrir le moteur de recherche"
     - image: img/realisations/2018/carte-snosan.png
       title: "Modèle d'anonymisation de décisions de justice disponible"
       description: "Classifieur Valentin Amaury"
-      url: 
+      url:
       call_to_action: "Lien vers le code du classifieur"
     - image: img/realisations/2018/carte-snosan.png
       title: "Modèle de langage adapté aux décisions de justice"
       description: "Modele de langage Fastext et Flair"
-      url: 
+      url:
       call_to_action: "Lien vers les modèles de langage pré-entrainés"
     - image: img/realisations/2018/carte-snosan.png
       title: "Amélioration d'un modèle de reconnaissance d'entités nommées (selon acceptation conf)"
       description: "Modele CRF amélioré"
-      url: 
+      url:
       call_to_action: "Lien vers le code et l'article du modèle 'May I Check Again ?'"
   end_of_project_videos:
     - id: x7o1568
