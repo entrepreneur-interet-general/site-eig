@@ -11,6 +11,7 @@
   duration_months: 10
   administration: Agence centrale des organismes de sécurité sociale (ACOSS)
   administration_website: https://www.acoss.fr/home.html
+  poster: "https://fichiers.eig-forever.org/posters/eig3/acoss-plateforme.pdf"
   eigs:
     - "Coline Lebaratoux"
     - "Anoureth Pongrattana"
@@ -22,7 +23,6 @@
       platform: dailymotion
       description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ACOSS-Plateforme"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/acoss-plateforme.pdf"
 
 "ADLER":
   image: /img/logo-adler.png
@@ -37,6 +37,7 @@
   duration_months: 10
   administration: Ministère de l’Action et des comptes publics
   administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
+  poster: "https://fichiers.eig-forever.org/posters/eig3/adler.pdf"
   eigs:
     - "Nicolas Berkouk"
     - "Simon Lebastard"
@@ -47,7 +48,6 @@
       platform: dailymotion
       description: "Améliorer l’action publique à l’aide de la data science, l’exemple du défi ADLER"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/adler.pdf"
 
 "CartoBio":
   image: /img/logo-cartobio.png
@@ -62,6 +62,7 @@
   duration_months: 10
   administration: Agence Française pour le Développement et la Promotion de l’Agriculture Biologique
   administration_website: http://www.agencebio.org
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cartobio.pdf"
   eigs:
     - "Lucas Bchini"
     - "Wojtek Sitarz"
@@ -73,7 +74,6 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi CartoBio"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/cartobio.pdf"
 
 "CibNav":
   image: /img/logo-cib-nav.png
@@ -89,6 +89,7 @@
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   administration: Direction des affaires maritimes, Ministère de la Transition écologique et solidaire
   source_code: https://github.com/MTES-MCT/rapportNav
+  poster: "https://fichiers.eig-forever.org/posters/eig3/cibnav.pdf"
   eigs:
     - "Quentin Loridant"
     - "Sébastien Touzé"
@@ -109,7 +110,6 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi CibNav"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/cibnav.pdf"
 
 "DataJust":
   image: /img/logo-themis.png
@@ -124,6 +124,7 @@
   duration_months: 10
   administration: Ministère de la Justice, Direction des affaires civiles et du Sceau (DACS)
   administration_website: http://www.justice.gouv.fr/le-ministere-de-la-justice-10017/direction-des-affaires-civiles-et-du-sceau-10023/
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datajust.pdf"
   eigs:
     - "Kim Montalibet"
     - "Cédric Malherbe"
@@ -146,7 +147,6 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi DataJust"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/datajust.pdf"
 
 "DataReg":
   image: /img/logo-datareg.png
@@ -161,6 +161,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
+  poster: "https://fichiers.eig-forever.org/posters/eig3/datareg.pdf"
   eigs:
     - "Carine Stolz"
     - "Thierry Razanajao"
@@ -186,7 +187,6 @@
       description: "A partir des données de couverture mobile fournies par les opérateurs, nous avons développé un système entièrement automatisé qui permet d'intégrer les données dans une base de données mobile dédiée. Depuis cette base, nous calculons automatiquement les taux de couverture des opérateurs, qui servent aux différentes unités de l'ARCEP dans leurs missions de suivi."
       url: 
       call_to_action: "Sortir les fichiers en Open data"
-  poster: "https://fichiers.eig-forever.org/posters/eig3/datareg.pdf"
 
 "EIG Link 2019":
   image: /img/defis/11_EIGLink.png
@@ -203,6 +203,7 @@
   duration_months: 10
   source_code: https://github.com/entrepreneur-interet-general/eig-link
   website: https://doc.eig-forever.org
+  poster: "https://fichiers.eig-forever.org/posters/eig3/eig-link.pdf"
   eigs:
     - "Antoine Augusti"
     - "Jean-Baptiste Le Dévéhat"
@@ -239,7 +240,6 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi EIG Link"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/eig-link.pdf"
 
 "ExploCode":
   image: /img/logo-explocode.png
@@ -256,6 +256,7 @@
   administration_website: http://travail-emploi.gouv.fr/ministere/organisation/article/dgt-direction-generale-du-travail
   source_code: https://github.com/SocialGouv/code-du-travail-numerique
   website: https://code.travail.gouv.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig3/explocode.pdf"
   eigs:
     - "Armand Giraud"
     - "Mathieu Havel"
@@ -274,7 +275,6 @@
       platform: dailymotion
       description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ExploCode"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/explocode.pdf"
 
 "IA Flash":
   image: /img/logo-ia-flash.png
@@ -291,6 +291,7 @@
   administration_website: https://www.antai.gouv.fr/
   source_code: https://github.com/ia-flash
   website: https://iaflash.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig3/iaflash.pdf"
   eigs:
     - "Victor Journé"
     - "Cristian Perez Brokate"
@@ -324,7 +325,6 @@
       platform: dailymotion
       description: "Découvrez l’outil IA Flash"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/iaflash.pdf"
 
 
 "Karfu’R":
@@ -342,6 +342,7 @@
   administration_website: https://accueil-integration-refugies.fr
   source_code: https://github.com/Tony4469/karfur
   website: https://www.refugies.info
+  poster: "https://fichiers.eig-forever.org/posters/eig3/karfur.pdf"
   eigs:
     - "Hugo Stéphan"
     - "Soufiane Lamrissi"
@@ -378,7 +379,6 @@
       platform: dailymotion
       description: "Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi Karfu’R"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/karfur.pdf"
 
 "LexImpact":
   image: /img/logo-lex-impact.png
@@ -394,6 +394,10 @@
   duration_months: 10
   administration: "Direction interministérielle du numérique (DINUM)"
   administration_website: https://www.numerique.gouv.fr/
+  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
+  key_figures:
+    - ...
+    - ...
   eigs:
     - "Augustin Wenger"
     - "Dorine Lambinet"
@@ -405,7 +409,6 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi LexImpact"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
 
 "Open Chronic":
   image: /img/logo-open-chronic.png
@@ -421,6 +424,7 @@
   administration: "Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   source_code: https://gitlab.com/healthdatahub
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openchronic.pdf"
   eigs:
     - "Pierre-Alain Jachiet"
     - "Viktor Jarry"
@@ -460,7 +464,6 @@
       platform: dailymotion
       description: "S’ouvrir à des communautés et à des partenaires, l’exemple du défi Open Chronic"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/openchronic.pdf"
 
 "Open Justice":
   image: /img/logo-open-justice.png
@@ -475,6 +478,7 @@
   duration_months: 10
   administration: Cour de cassation
   administration_website: https://www.courdecassation.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig3/openjustice.pdf"
   eigs:
     - "Amaury Fouret"
     - "Mathieu Perez"
@@ -517,7 +521,6 @@
       platform: dailymotion
       description: "Améliorer l’action publique à l’aide de la data science, l’exemple du défi Open Justice"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/openjustice.pdf"
 
 "Plume":
   image: /img/logo-plume.png
@@ -532,6 +535,7 @@
   duration_months: 10
   administration: Cour des comptes
   administration_website: https://www.ccomptes.fr/
+  poster: "https://fichiers.eig-forever.org/posters/eig3/plume.pdf"
   eigs:
     - "Amélie Medem"
     - "Erica Marco"
@@ -547,7 +551,6 @@
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi Plume"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/plume.pdf"
 
 "Polygraphe":
   image: /img/logo-polygraphe.png
@@ -560,8 +563,9 @@
   promotion: 3
   duration_months: 10
   description: "Améliorer la confiance des consommateurs en détectant des faux avis sur Internet"
-  administration: Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
+  administration: "Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)"
   administration_website: https://www.economie.gouv.fr/dgccrf
+  poster: "https://fichiers.eig-forever.org/posters/eig3/polygraphe.pdf"
   eigs:
     - "Gabriel Bastard"
     - "Luc Salommez"
@@ -579,7 +583,6 @@
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi Polygraphe"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig3/polygraphe.pdf"
 
 "AchaDef":
   image: /img/defis/dig/AchaDef.png
@@ -897,9 +900,9 @@
     - "Marie Ramon-Daré"
     - "Charlotte Marmet"
   mentors:
-    - "Olivier Garry"
-    - "Laurent Delgado"
-    - "Thomas Lesueur"
+    - Olivier Garry
+    - Laurent Delgado
+    - Thomas Lesueur
 
 "Vigicr’UX":
   image: /img/defis/dig/VigicrUX.png
@@ -917,9 +920,9 @@
   eigs:
     - "Flavien Colsenet"
   mentors:
-    - "Christophe Astier"
-    - "Julien Laffargue"
-    - "Jean-Marie Coulomb"
+    - Christophe Astier
+    - Julien Laffargue
+    - Jean-Marie Coulomb
 
 "Archifiltre":
   image: /img/defis/9_ARCHEMSE.png
@@ -936,6 +939,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
+  poster: "https://fichiers.eig-forever.org/posters/eig2/archifiltre.pdf"
   eigs:
     - "Emmanuel Gautier"
     - "Jean-Baptiste Assouad"
@@ -954,7 +958,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Archifiltre."
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/archifiltre.pdf"
 
 "b@liseNAV":
   image: /img/defis/5_balisage.png
@@ -969,6 +972,7 @@
   promotion: 2
   administration: Service Hydrographique et Océanographique de la Marine (SHOM)
   administration_website: http://www.shom.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig2/balisenav.pdf"
   eigs:
     - "Arnaud Ménard"
     - "Adrien Signorino"
@@ -988,7 +992,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi b@liseNAV."
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/balisenav.pdf"
 
 "Brigade Numérique":
   image: /img/defis/10_brigadenumerique.png
@@ -1004,6 +1007,7 @@
   administration: "Ministère de l’Intérieur, Direction générale de la gendarmerie nationale (DGGN)"
   administration_website: https://www.gendarmerie.interieur.gouv.fr/Notre-institution/Nos-composantes/Au-niveau-central/Direction-generale
   source_code: https://github.com/entrepreneur-interet-general/brigade-numerique
+  poster: "https://fichiers.eig-forever.org/posters/eig2/brigade-numerique.pdf"
   eigs:
     - "Dora Crisan"
     - "Jean-Baptiste Le Dévéhat"
@@ -1024,7 +1028,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Brigade Numérique."
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/brigade-numerique.pdf"
 
 "CoachÉlèves":
   image: /img/defis/12_CoachElevesAssistProf.png
@@ -1039,6 +1042,7 @@
   promotion: 2
   administration: "Ministère de l’Éducation Nationale, Direction du numérique pour l’éducation"
   administration_website: http://www.education.gouv.fr/cid77084/direction-du-numerique-pour-l-education-dne.html
+  poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
   eigs:
     - "David Panou"
     - "Arnaud Rachez"
@@ -1057,7 +1061,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
 
 "DataESR":
   image: /img/defis/13_dataESR.png
@@ -1072,6 +1075,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
+  poster: "https://fichiers.eig-forever.org/posters/eig2/dataesr.pdf"
   eigs:
     - "Ambre Arnaud"
     - "Maxime Pierrot"
@@ -1093,7 +1097,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi DataESR."
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/dataesr.pdf"
 
 "EIG Link 2018":
   image: /img/defis/11_EIGLink.png
@@ -1109,6 +1112,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
+  poster: "https://fichiers.eig-forever.org/posters/eig2/eig-link.pdf"
   eigs:
     - "Bastien Guerry"
   mentors:
@@ -1143,7 +1147,6 @@
       description: "Nous avons rédigé un mini-guide pour aider les administrations à publier les codes sources des défis EIG."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/mini-guide-logiciel-libre.pdf
       call_to_action: "Télécharger le mini-guide Open Source"
-  poster: "https://fichiers.eig-forever.org/posters/eig2/eig-link.pdf"
 
 "Gobelins":
   image: /img/defis/3_ Mobilier national.png
@@ -1160,6 +1163,7 @@
   administration_website: http://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/linstitution/notre-organisation
   source_code: https://github.com/entrepreneur-interet-general/gobelins
   website: https://collection.mobiliernational.culture.gouv.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig2/gobelins.pdf"
   eigs:
     - "Laurie Chapotte"
     - "Ned Baldessin"
@@ -1196,7 +1200,6 @@
       description: "Afin de faciliter la mise en ligne de nouvelles collections, notamment celles d’autres institutions culturelles, l’ensemble du code est accessible et réutilisable."
       url: https://github.com/entrepreneur-interet-general/gobelins
       call_to_action: "Explorer le code"
-  poster: "https://fichiers.eig-forever.org/posters/eig2/gobelins.pdf"
 
 "Hopkins":
   image: /img/defis/7_MACP.png
@@ -1212,6 +1215,7 @@
   administration: "Ministère de l’Action et des Comptes Publics"
   administration_website: https://www.gouvernement.fr/le-ministere-de-l-action-et-des-comptes-publics
   source_code: https://github.com/entrepreneur-interet-general/graph-explorer
+  poster: "https://fichiers.eig-forever.org/posters/eig2/hopkins.pdf"
   eigs:
     - "Paul Boosz"
     - "Victor Schmidt"
@@ -1232,7 +1236,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Hopkins"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/hopkins.pdf"
 
 "Lab Santé":
   image: /img/defis/2_Labsanté.png
@@ -1247,6 +1250,7 @@
   promotion: 2
   administration: "Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l’évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
+  poster: "https://fichiers.eig-forever.org/posters/eig2/labsante.pdf"
   eigs:
     - "Samah Ghalloussi"
     - "Philéas Condemine"
@@ -1267,7 +1271,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/labsante.pdf"
 
 
 "PrédiSauvetage":
@@ -1285,6 +1288,7 @@
   administration_website: https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_170825
   source_code: https://github.com/entrepreneur-interet-general/predisauvetage
   website: https://www.snosan.fr
+  poster: "https://fichiers.eig-forever.org/posters/eig2/predisauvetage.pdf"
   eigs:
     - "Elsa Luneville"
     - "Antoine Augusti"
@@ -1326,7 +1330,6 @@
       description: "Pour réaliser notre défi, nous avons construit plusieurs outils et bibliothèques. Ces logiciels sont répartis dans 17 répertoires, tous publiés sous licences libres."
       url: https://github.com/search?q=topic%3Apredisauvetage
       call_to_action: "Explorer le code"
-  poster: "https://fichiers.eig-forever.org/posters/eig2/predisauvetage.pdf"
 
 "Prévisecours":
   image: /img/defis/4_Previsecours.png
@@ -1343,6 +1346,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
+  poster: "https://fichiers.eig-forever.org/posters/eig2/previsecours.pdf"
   eigs:
     - "Tiphaine Phe-Neau"
     - "Guillaume Lancrenon"
@@ -1382,7 +1386,6 @@
       description: "Nous avons mis à disposition les données brutes des interventions des pompiers de l’Essonne depuis 2010. Ces données sont mises à jour de manière hebdomadaire automatiquement."
       url: https://www.data.gouv.fr/fr/datasets/interventions-des-pompiers/
       call_to_action: "Voir les données"
-  poster: "https://fichiers.eig-forever.org/posters/eig2/previsecours.pdf"
 
 "Signaux Faibles":
   image: /img/defis/6_Signauxfaibles.png
@@ -1398,6 +1401,7 @@
   year: 2018
   duration_months: 10
   promotion: 2
+  poster: "https://fichiers.eig-forever.org/posters/eig2/signaux-faibles.pdf"
   eigs:
     - "Pierre Camilleri"
     - "Christophe Ninucci"
@@ -1417,8 +1421,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Signaux Faibles"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/signaux-faibles.pdf"
-
 
 "Social Connect":
   image: /img/defis/8_CGET.png
@@ -1435,6 +1437,7 @@
   administration_website: http://www.cget.gouv.fr/
   website: http://www.carrefourdesinnovationssociales.fr
   source_code: https://github.com/entrepreneur-interet-general/OpenScraper
+  poster: "https://fichiers.eig-forever.org/posters/eig2/social-connect.pdf"
   eigs:
     - "Élise Lalique"
     - "Julien Paris"
@@ -1454,7 +1457,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Social Connect"
       show: true
-  poster: "https://fichiers.eig-forever.org/posters/eig2/social-connect.pdf"
 
 "AFD - Geodata":
   image: /img/icone-eig.png
