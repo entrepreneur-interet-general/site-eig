@@ -897,7 +897,7 @@
     - amount: 5
       description: "ateliers internes et externes"
   projects:
-    - image: img/realisations/dig/ResorptionBidonvilles_Panorama.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Panorama.jpg
       title: "Panorama de la problématique et des parcours"
       description: "Analyse de la problématique afin d’identifier les points d’amélioration et les développements futurs de la plateforme. Document réalisé en fin de mission afin de compiler la connaissance sur le projet."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/dig/ResorptionBidonvilles_Syntheses_Aout2019.pdf
