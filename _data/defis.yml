@@ -392,7 +392,6 @@
       show: true
   poster: "https://fichiers.eig-forever.org/posters/eig3/leximpact.pdf"
 
-
 "Open Chronic":
   image: /img/logo-open-chronic.png
   title: Open Chronic
@@ -404,7 +403,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques
+  administration: "Ministère de la santé, Direction de la recherche, des études, de l’évaluation et des statistiques"
   administration_website: http://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/la-drees/
   source_code: https://gitlab.com/healthdatahub
   eigs:
@@ -1019,7 +1018,6 @@
       description: "10 mois après : présentation du défi CoachÉlève."
       show: true
   poster: "https://fichiers.eig-forever.org/posters/eig2/coach-eleves.pdf"
-
 
 "DataESR":
   image: /img/defis/13_dataESR.png
