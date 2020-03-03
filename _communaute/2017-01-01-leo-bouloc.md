@@ -1,14 +1,12 @@
 ---
 layout: personne
-twitter: 
-github: Leobouloc
 nom: Léo Bouloc
 website:
 annees: 2017
 defis: 
   - nom: MESRI - La machine à données
     site: /defis/2017/mesri-magical-merge-machine.html
-profil: Datascientist
+profil: Datascientiste
 images:
   - /img/communaute/Leo-Bouloc.png
 ---

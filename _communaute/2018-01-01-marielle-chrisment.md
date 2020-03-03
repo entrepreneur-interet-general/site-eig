@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: 
 nom: Marielle Chrisment
-website:
-annees: 2018
-defis: 
-  - nom: Brigade Numérique
-    site: /defis/2018/brigadenumerique.html
-profil:
-images:
-  - /img/communaute/10.MarielleChrisment.jpg
 ---
 
 « Officier de gendarmerie, ingénieure et titulaire

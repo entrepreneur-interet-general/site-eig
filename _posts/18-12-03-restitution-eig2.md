@@ -1,21 +1,32 @@
 ---
-layout: post
-title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations de la Promotion 2
 author: L'équipe EIG
+description: De janvier à novembre 2018, le programme Entrepreneur·e d'Intérêt Général
+  (EIG) a accueilli sa deuxième promotion. Pendant 10 mois, 28 data scientists, designers
+  et développeurs répartis en équipes de 2 ou 3, ont vécu en immersion dans leurs
+  administrations centrales. Guidés par leurs mentors, ils ont relevé 13 défis autour
+  du numérique et des données. EIG et mentors reviennent ici sur leurs défis, présentent
+  leurs réalisations et proposent quelques conseils à la prochaine promotion.
+image: /img/blog/bootcamp/promotion2.jpg
+layout: post
+tags:
+- réalisation
+- open
+- accompagnement
+title: Entrepreneur·e d'Intérêt Général - retour en image et en équipe sur les réalisations
+  de la Promotion 2
 twitter: etalab
-description: "De janvier à novembre 2018, le programme Entrepreneur·e d'Intérêt Général (EIG) a accueilli sa deuxième promotion. Pendant 10 mois, 28 data scientists, designers et développeurs répartis en équipes de 2 ou 3, ont vécu en immersion dans leurs administrations centrales. Guidés par leurs mentors, ils ont relevé 13 défis autour du numérique et des données. EIG et mentors reviennent ici sur leurs défis, présentent leurs réalisations et proposent quelques conseils à la prochaine promotion."
 ---
 
 La transformation numérique des administrations doit se faire en
 collaboration avec les citoyens. Pour cela, le programme
-Entrepreneur·e d'Intérêt Général s'est fixé une mission : créer des
+Entrepreneur·e d'Intérêt Général s'est fixé une mission : créer des
 équipes constituées d'agents publics désireux d'innover et de
 professionnels du numérique engagés qui relèvent ensemble des défis
 d'intérêt général.
 
 Pour sa deuxième promotion, le programme a accueilli 28 EIG pour
 relever 13 défis. **Découvrez dès à présent le résultat de 10 mois de
-travail !**
+travail !**
 
 Pour les plus curieux, sachez que [**les codes sources sont publiés
 sous licence

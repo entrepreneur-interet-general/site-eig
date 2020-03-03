@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: weisenburger_e
 nom: Emmanuel Weisenburger
-website:
-annees: 2018
-defis: 
-  - nom: dataESR
-    site: /defis/2018/dataesr.html
-profil: Mentor
-images:
-  - /img/communaute/Emmanuel-Weisenburger.png
 ---
 
 « Avec Yann Caradec je co-anime le département des

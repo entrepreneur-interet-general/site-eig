@@ -1,14 +1,24 @@
 ---
-layout: post
-title: "Open source et open data : quels impacts pour les défis des entrepreneurs d'intérêt général ?"
 author: Sophie Milkjovic, équipe EIG
+description: Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés
+  pour leur première session d’accompagnement collectif autour du thème de l’ouverture
+  des codes source – « open source » -  et des données – « open data ». Voici pourquoi
+  on en parle et ce que cela change quand on mène un projet numérique porté au sein
+  d'une administration.
+image: /img/blog/documentation-snds.png
+layout: post
+tags:
+- méthode
+- accompagnement
+- open
+title: 'Open source et open data : quels impacts pour les défis des entrepreneurs
+  d''intérêt général ?'
 twitter: MiljkovicSophie
-description: "Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première session d’accompagnement collectif autour du thème de l’ouverture des codes source – « open source » -  et des données – « open data ». Voici pourquoi on en parle et ce que cela change quand on mène un projet numérique porté au sein d'une administration."
 ---
 
 Le jeudi 14 mars, les entrepreneurs d’intérêt général (EIG) se sont retrouvés pour leur première [session d’accompagnement collectif](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html) autour du thème de l’ouverture des codes source – *open source* -  et des données – *open data*. Cette ouverture est une valeur et une obligation légale que porte le programme et que les administrations d’accueil aussi bien que les EIG s’engagent à respecter. C’est aussi un sujet sur lequel l’équipe de coordination, aidée par [Etalab](https://www.etalab.gouv.fr/), s’engage à les accompagner. 
 
-L’objectif de cette première session d’accompagnement était donc de faire remonter les questions et les demandes d’aide sur l’*open source* et l’*open data*. Ce que cela nous a appris ? **Mettre l’ouverture au cœur d’un projet numérique a des impacts non seulement sur la façon dont on travaille, mais aussi sur la façon dont les administrations fonctionnent.**
+L’objectif de cette première session d’accompagnement était donc de faire remonter les questions et les demandes d’aide sur l’*open source* et l’*open data*. Ce que cela nous a appris ? **Mettre l’ouverture au cœur d’un projet numérique a des impacts non seulement sur la façon dont on travaille, mais aussi sur la façon dont les administrations fonctionnent.**
 
 
 ## Pourquoi parle-t-on de l’*open source* et de l'*open data* maintenant ?

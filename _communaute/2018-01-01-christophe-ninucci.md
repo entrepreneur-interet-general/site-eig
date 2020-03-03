@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: ChrisNinucci
-github: chrnin
 nom: Christophe Ninucci
-website:
-annees: 2018
-defis: 
-  - nom: Signaux Faibles
-    site: /defis/2018/signauxfaibles.html
-profil: Développeur
-images:
-  - /img/communaute/Christophe-Ninucci.png
 ---
 
 « J'ai débuté ma carrière dans le domaine de l'industrie

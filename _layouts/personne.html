@@ -1,32 +1,33 @@
 ---
 layout: default
 ---
+{% assign personne = site.data.personnes[page.nom] %}
 <div class='full'>
   <div class='row'>
     <div class='large-8 columns'>
-      <h2>
-        {{page.nom}}
+      <h2 class="mt-0">
+        {{ page.nom }}
 
-        {% if page.twitter %}
-          <a href="https://twitter.com/{{page.twitter}}">
+        {% if personne.twitter %}
+          <a href="https://twitter.com/{{ personne.twitter }}">
             <i class='big-social fa fa-twitter'></i>
           </a>
         {% endif %}
 
-        {% if page.github %}
-        <a href="https://github.com/{{page.github}}">
+        {% if personne.github %}
+        <a href="https://github.com/{{ personne.github }}">
           <i class='big-social fa fa-github'></i>
         </a>
         {% endif %}
 
-        {% if page.gitlab %}
-        <a href="https://gitlab.com/{{page.gitlab}}">
+        {% if personne.gitlab %}
+        <a href="https://gitlab.com/{{ personne.gitlab }}">
           <i class='big-social fa fa-code'></i>
         </a>
         {% endif %}
 
-        {% if page.linkedin %}
-        <a href="{{page.linkedin}}">
+        {% if personne.linkedin %}
+        <a href="{{ personne.linkedin }}">
           <i class='big-social fa fa-linkedin'></i>
         </a>
         {% endif %}
@@ -34,29 +35,39 @@ layout: default
       <ul class='info'>
         <li>
           <strong>Année :</strong>
-          {{page.annees}}
+          {{ personne.annees | join: ', ' }}
         </li>
         <li>
-          <strong>Défi :</strong>
-            {% for defi in page.defis %}
-              <a href='{{defi.site}}'>{{defi.nom}}</a>
+          {% if personne.defis.size > 1 %}
+            <strong>Défis :</strong>
+          {% else %}
+            <strong>Défi :</strong>
+          {% endif %}
+            {% for defi in personne.defis %}
+              <a href='{{ site.data.defis[defi].link_to }}'>{{ site.data.defis[defi].title }}</a>
             {% endfor %}
         </li>
-        {% if page.profil %}
+        {% if personne.profil %}
           <li>
             <strong>Profil :</strong>
-            {{page.profil}}
+            {{ personne.profil}}
           </li>
         {% endif %}
       </ul>
 
-      <p>
-        {{content}}
-      </p>
+      {% if content.size > 1 %}
+        <p>
+          {{ content }}
+        </p>
+      {% else %}
+        <div class="color-blue mt-2">
+          La description de ce profil est en cours de rédaction et sera disponible prochainement.
+        </div>
+      {% endif %}
 
       <div class='spacing'></div>
-      {% if page.website %}
-        <a class='button small' href='{{page.website}}'>Site personnel</a>
+      {% if personne.website %}
+        <a class='button small' href='{{ personne.website }}'>Site personnel</a>
       {% endif %}
       <div class='spacing'></div>
     </div>
@@ -64,15 +75,12 @@ layout: default
     <div class='large-4 columns'>
       <div class='mod modBoxedSlider'>
         <div class='slides'>
-          {% for image in page.images %}
           <div class="slide">
-            <img src="{{site.url}}/{{image}}" alt="">
+            <img src="{{ site.url }}/{{ personne.image_url }}" alt="Photo {{ personne.title }}" width="250">
           </div>
-          {% endfor %}
         </div>
       </div>
     </div>
   </div>
-
   <div class='four spacing'></div>
 </div>

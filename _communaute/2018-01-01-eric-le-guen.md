@@ -1,15 +1,6 @@
 ---
 layout: personne
-twitter: 
 nom: Éric Le Guen
-website:
-annees: 2018
-defis: 
-  - nom: B@liseNAV
-    site: /defis/2018/balisenav.html
-profil: Mentor
-images:
-  - /img/communaute/eric_le_guen.jpg
 ---
 
 « Depuis 2015, je suis le référent de l’infrastructure de

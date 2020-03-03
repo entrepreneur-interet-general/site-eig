@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: zermelozf
-github: zermelozf
 nom: Arnaud Rachez
-website:
-annees: 2018
-defis: 
-  - nom: CoachÉlèves
-    site: /defis/2018/coacheleves.html
-profil: Datascientist
-images:
-  - 
 ---
 
 "J'ai débuté comme ingénieur spécialisé dans le traitement

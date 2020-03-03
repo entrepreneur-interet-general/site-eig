@@ -3,17 +3,13 @@ layout: blog
 ---
 
 <div class='mod modBlogPost big no_bg'>
-  <div class='images'>
-    {% for image in page.images %}
-    <div class='image'><img alt="" src="{{site.url}}/{{image}}" /></div>
-    {% endfor %}
-  </div>
+
   <div class='content'>
     <h1>{{ page.title }}</h1>
     <p class='info'>
       <span>
 	{% assign m = page.date | date: "%-m" %}
-	{{ page.date | date: "%d" }}
+	{{ page.date | date: "%-d" }}
 	{% case m %}
 	{% when '1' %}janvier
 	{% when '2' %}février
@@ -41,8 +37,33 @@ layout: blog
       </span>
     </p>
     {% include share-bar.html %}
-    {{content}}
+
+    {{ content }}
+
     {% include share-bar.html %}
+
+    {% if page.tags %}
+    <div class="post-tags">
+      <ul>
+        {% for tag in page.tags %}
+        <li class="button outline">#{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <div class="post-nav">
+      {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">
+          &laquo; {{page.previous.title}}
+        </a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">
+          {{page.next.title}} &raquo;
+        </a>
+      {% endif %}
+    </div>
   </div>
 </div>
 

@@ -7,16 +7,16 @@ layout: default
 <div class='full defi'>
   <div class='row'>
     <div class="medium-2 columns">
-        <img
-          src="{{ defi_data.image }}"
-          alt="Logo {{ defi_data.title }}"
-          class="logo"
+      <img
+        src="{{ defi_data.image }}"
+        alt="Logo {{ defi_data.title }}"
+        class="logo"
         >
     </div>
-    <div class='medium-10 columns'>
-      <h1>{{ defi_data.title }}</h1>
-      <h3>{{ defi_data.description}}</h3>
-    </div>
+      <div class='medium-10 columns'>
+        <h1>{{ defi_data.title }}</h1>
+        <h3>{{ defi_data.description}}</h3>
+      </div>
   </div>
   <div class="spacing"></div>
   <div class="row">
@@ -29,7 +29,13 @@ layout: default
       <div class="metadata">
         <i class="fa fa-calendar" title="Année et durée"></i>
         <span class="sr-only">Année et durée :</span>
-        {{ defi_data.year }} — EIG {{ defi_data.promotion }} — {{ defi_data.duration_months }} mois
+        {{ defi_data.year }} —
+        {% if defi_data.promotion == 'dig' %}
+        Designers d'Intérêt Général —
+        {% else %}
+        EIG {{ defi_data.promotion }} —
+        {% endif %}
+        {{ defi_data.duration_months }} mois
       </div>
     </div>
   </div>
@@ -48,10 +54,10 @@ layout: default
     {% endcase %}
 
     {% for eig in defi_data.eigs %}
-      {% include personne_small.html extra_class=col_class name=eig %}
+    {% include personne_small.html extra_class=col_class name=eig %}
     {% endfor %}
     {% for mentor in defi_data.mentors %}
-      {% include personne_small.html extra_class=col_class name=mentor %}
+    {% include personne_small.html extra_class=col_class name=mentor %}
     {% endfor %}
   </div>
 
@@ -96,42 +102,65 @@ layout: default
       <div class="two spacing"></div>
       <h2>Réalisations</h2>
 
-      <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-      {% for project in defi_data.projects %}
-      <li style="padding: 0 .3em">
-        <div class="card">
-          <div class="card__cover">
-            <img src="/{{ project.image }}" alt="{{ project.title }}">
+      <ul class="small-block-grid-1 large-block-grid-3">
+        {% for project in defi_data.projects %}
+        <li style="padding: 0 .3em">
+          <div class="card">
+            <div class="card__cover">
+              <img src="/{{ project.image }}" alt="{{ project.title }}">
+            </div>
+            <div class="card__content">
+              <h3>{{ project.title }}</h3>
+              <p>{{ project.description }}</p>
+            </div>
+            <div class="card__extra">
+              <a class="button small" href="{{ project.url }}">
+                <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
+              </a>
+            </div>
           </div>
-          <div class="card__content">
-            <h3>{{ project.title }}</h3>
-            <p>{{ project.description }}</p>
-          </div>
-          <div class="card__extra">
-            <a class="button small" href="{{ project.url }}">
-              <i class="fa fa-external-link" title="Lien vers le projet"></i> {{ project.call_to_action | default: 'Démonstration' }}
-            </a>
-          </div>
-        </div>
-      </li>
-      {% endfor %}
+        </li>
+        {% endfor %}
       </ul>
       {% endif %}
     </div>
 
-      {% if defi_data.end_of_project_videos %}
-      <div class="two spacing"></div>
+    {% if defi_data.end_of_project_videos %}
+    <div class="two spacing"></div>
+    <div class="medium-12 columns">
       <h2>Rétrospective</h2>
       {% for video in defi_data.end_of_project_videos %}
         {% if video.platform == 'dailymotion' and video.show %}
-        <p>
-          {{ video.description }}
-        </p>
-        <iframe frameborder="0" width="720" height="400" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        <p>{{ video.description }}</p>
+        <iframe class="responsive-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
         {% endif %}
       {% endfor %}
-      {% endif %}
     </div>
+    {% endif %}
+
+    {% if defi_data.poster %}
+    <div class="two spacing"></div>
+    <div class="medium-12 columns">
+      <h2>Poster</h2>
+      <p>À la fin du défi, l'équipe a réalisé un poster pour restituer son année et exposer le travail accompli.</p>
+
+      <div class="row">
+        <div class="large-4 medium-12 columns">
+          <div class="card">
+            <div class="card__cover" style="height: 500px">
+              <img src="{{ defi_data.poster | replace: "pdf", "jpg" }}" alt="Poster de {{ defi_data.title }}">
+            </div>
+            <div class="card__extra">
+              <a class="button small" href="{{ defi_data.poster }}">
+                <i class="fa fa-external-link" aria-hidden="true"></i> Visualiser le poster
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
   </div>
 
   <div class='four spacing'></div>

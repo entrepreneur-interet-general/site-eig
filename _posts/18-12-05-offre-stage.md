@@ -1,10 +1,17 @@
 ---
+author: Soizic Pénicaud, équipe EIG
+description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du
+  programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6
+  mois à partir de janvier 2019.
+image: /img/blog/session-mentors-2.jpg
 layout: post
-title: "Rejoins l'équipe Entrepreneur·e d'Intérêt Général à Etalab\_: offre de stage « Appui à la coordination du programme EIG »"
-author: 'Soizic Pénicaud, équipe EIG'
-twitter: soizicpenicaud
-description: "Rejoins-nous\_! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneur·e d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2019."
 published: true
+tags:
+- accompagnement
+- recrutement
+title: 'Rejoins l''équipe Entrepreneur·e d''Intérêt Général à Etalab : offre de stage
+  « Appui à la coordination du programme EIG »'
+twitter: soizicpenicaud
 ---
 
 ### Offre de stage « Appui à la coordination du programme EIG »

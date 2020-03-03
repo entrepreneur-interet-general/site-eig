@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: c4barbes
-github: c24b
 nom: Constance de Quatrebarbes
-website:
-annees: 2017
-defis:
-  - nom: BNF - catalogage
-    site: /defis/2017/bnf-catalogage.html
-profil: Développeuse
-images:
-  - /img/communaute/Constance-Quatrebarbes.png
 ---
 
 « Littéraire de formation, et programmeuse passionnée, je me suis

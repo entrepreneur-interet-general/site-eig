@@ -5,37 +5,42 @@ section_id: contact
 
 <div class='full'>
   <div class='row'>
-    <div class='medium-8 columns'>
+    <h2>Nous contacter</h2>
+    <div class='medium-8 columns mt-1'>
       <div class='form'>
-        <div class='row'>
-          <form method='POST' action='https://formspree.io/entrepreneur-interet-general@data.gouv.fr'>
-            <div class='large-12 columns'>
-              <p id='thanks' style='display: none;'>
-		Merci de nous avons contacté, nous vous répondrons
-		dans les meilleurs délais.
-              </p>
-            </div>
-            <div class='medium-12 columns'>
-              <input class='required' name='name' placeholder='Nom' type='text'>
-              <input class='required email' name='email' placeholder='Courriel' type='text'>
-              <input class='required' name='subject' placeholder='Sujet' type='text'>
-              <textarea class='required' name='message' placeholder='Message'></textarea>
-              <input class='button white' type='submit'>
-            </div>
-          </form>
-        </div>
+        <form method='POST' action='https://formspree.io/entrepreneur-interet-general@data.gouv.fr'>
+          <div class='large-12 columns'>
+            <p id='thanks' style='display: none;'>
+              Merci de nous avons contacté, nous vous répondrons
+              dans les meilleurs délais.
+            </p>
+          </div>
+          <div class='medium-12 columns'>
+            <label for='name' class='label-form'>Votre nom</label>
+            <input id ='name' class='required' name='name' placeholder='Nom' type='text'>
+            <label for="language" style="display: none">Langue</label>
+            <input id="language" type="hidden" name="_language" value="fr">
+            <label for='email' class='label-form'>Votre adresse e-mail</label>
+            <input id='email' class='required email' name='email' placeholder='Adresse e-mail' type='text'>
+            <label for='subject' class='label-form'>Votre sujet</label>
+            <input id='subject' class='required' name='subject' placeholder='Sujet' type='text'>
+            <label for='message' class='label-form'>Votre message</label>
+            <textarea id='message' class='required' name='message' placeholder='Message'></textarea>
+            <input class='button white' type='submit' value="Envoyer">
+          </div>
+        </form>
       </div>
       <div class='two spacing'></div>
-      <p>Lire les <a href="/cgu.html">conditions générales d'utilisation</a>.</p>
-      <br/>
-      <p>Vous inscrire à notre <a target="new" href="{{ site.list_url }}">liste de diffusion</a></a>.</p>
+      <p>
+        Si vous souhaitez être tenu·e au courant des prochains appels à projet (pour proposer un défi) ou appels à candidature (pour devenir EIG), vous pouvez vous inscrire à notre <a target="new" href="{{ site.list_url }}">liste de diffusion</a>.
+      </p>
     </div>
-    <div class='medium-4 columns'>
+    <div class='medium-4 columns mt-1'>
       <div class='contact-details'>
-        <h4>Notre adresse :</h4>
-        <p>20 avenue de Ségur, 75007 Paris</p>
-        <h4>Notre courriel :</h4>
-        <p>entrepreneur-interet-general@data.gouv.fr</p>
+        <h3>Adresse postale</h3>
+        <p>DINUM / Programme EIG<br>20 avenue de Ségur<br>75007 Paris, France</p>
+        <h3>E-mail</h3>
+        <p>{{site.email}}</p>
       </div>
     </div>
   </div>

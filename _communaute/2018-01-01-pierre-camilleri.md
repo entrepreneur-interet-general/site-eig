@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter:
-github: jazzypierrot
 nom: Pierre Camilleri
-website:
-annees: 2018
-defis: 
-  - nom: Signaux Faibles
-    site: /defis/2018/signauxfaibles.html
-profil: Datascience
-images:
-  - /img/communaute/pierre-camilleri.png
 ---
 
 « Après avoir obtenu un diplôme de l'École polytechnique, j'ai effectué

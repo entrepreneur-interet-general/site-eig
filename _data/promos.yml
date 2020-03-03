@@ -1,0 +1,23 @@
+"DIG":
+  image: /img/icone-eig-white.png
+  title: Les défis DIG
+  class: 2019 dig
+  defi: "AchaDef"
+
+"EIG 3":
+  image: /img/icone-eig-white.png
+  title: Les défis EIG 3
+  class: 2019 eig-3
+  defi: ACOSS-Plateforme
+
+"EIG 2":
+  image: /img/icone-eig-white.png
+  title: Les défis EIG 2
+  class: 2018 eig-2
+  defi: Archifiltre
+
+"EIG 1":
+  image: /img/icone-eig-white.png
+  title: Les défis EIG 1
+  class: 2017 eig-1
+  defi: AFD - Geodata

@@ -11,7 +11,7 @@ baseurl: ""
 url: "https://entrepreneur-interet-general.etalab.gouv.fr"
 twitter_username: etalab
 github_username:  entrepreneur-interet-general
-list_url: https://lists.eig-forever.org/subscribe/entrepreneur-interet-general@mail.etalab.studio
+list_url: https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio
 
 plugins: [jekyll-paginate]
 gems: [jekyll-paginate]
@@ -20,7 +20,7 @@ include: [_redirects]
 
 # Build settings
 markdown: kramdown
-paginate: 4
+paginate: 8
 paginate_path: "blog/page:num"
 
 future: true

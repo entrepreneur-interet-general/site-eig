@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: CoachÉlève
+title: CoachÉlèves
 ---
 
 Aujourd’hui, quelles que soient les difficultés –ou les ambitions !-

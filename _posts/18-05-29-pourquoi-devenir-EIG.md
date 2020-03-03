@@ -1,17 +1,21 @@
 ---
-layout: post
-title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 author: Tiphaine Phe-Neau, EIG Prévisecours
+description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt
+  Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
+image: /img/blog/tiphaine-guillaume.jpg
+layout: post
+tags:
+- témoignage
+- datascience
+title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
 twitter: datatiph
-description: "Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt Général- et nous raconte ce qui l’a poussée à s’engager dans le programme."
 ---
-
 
 _Tiphaine revient sur son parcours – de Dailymotion à Entrepreneur·e
 d’Intérêt Général - et nous raconte ce qui l’a poussée à s’engager
 dans le programme._
 
-![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/blog/TiphainePheNeau.jpg)
+![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/blog/TiphainePheNeau.jpg)
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
 
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
@@ -30,10 +34,10 @@ l'intérêt de tous.
 ### Alors pourquoi œuvrer pour l’Intérêt Général?
 
 Tout le monde, EIG ou pas, a déjà été révolté contre un fait de notre
-société : une observation, une décision, une institution. Mais combien
-d'entre nous se sont dit que nous pouvions changer tout cela ? Sans
+société : une observation, une décision, une institution. Mais combien
+d'entre nous se sont dit que nous pouvions changer tout cela ? Sans
 être forcément passé par une grande école comme l'ENA, l'X ou un autre
-acronyme bien-vu ?(3) Est-ce seulement possible ? Oui, et pour moi,
+acronyme bien-vu ?(3) Est-ce seulement possible ? Oui, et pour moi,
 c'est l'essence du programme Entrepreneur·e d'Intérêt Général.
 
 « Liberté, Egalité, Fraternité », c’est la devise française : nous
@@ -45,16 +49,16 @@ apporter à la société, que ce soit d'un point de vue "maker" (4) ou
 
 Chacun, avec ses capacités propres, peut contribuer à améliorer notre
 société, et nous, en tant qu’EIG, le faisons avec ce que nous savons
-faire. Par exemple : quand je vois une distribution de ressources
+faire. Par exemple : quand je vois une distribution de ressources
 inefficace dans certains restaurants (oui, j’aime bien manger) je me
 mets automatiquement à optimiser le processus dans ma tête (bon, c’est
 peut être une déformation scientifique). Mais ne vous êtes-vous jamais
 dit que les choses se passeraient mieux si on les faisait différemment
 ? _Ou si on pensait les problématiques autrement, selon de nouvelles
-façons de faire ?_ Ou, tout simplement, avez-vous déjà voulu aider
-d’autres personnes dans leur quotidien ?
+façons de faire ?_ Ou, tout simplement, avez-vous déjà voulu aider
+d’autres personnes dans leur quotidien ?
 
-Un autre exemple personnel : quand j'entends la sirène des pompiers,
+Un autre exemple personnel : quand j'entends la sirène des pompiers,
 j'espère toujours que tout va bien se passer et que ce n’est rien de
 grave. Mais au-delà de cela et de passer mon brevet de secourisme, je
 ne peux pas faire beaucoup plus. Je suis incapable de transporter une
@@ -64,7 +68,7 @@ spécialisant dans la Data Science, j'ai acquis d'autres savoir-faire
 qui pourraient être utiles. A ma façon, peut-être moins directement
 qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
-### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
+### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
 
 ![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/blog/Tiphaine-Guillaume.jpg)
 _Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
@@ -74,11 +78,11 @@ Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/
 est développeur fullstack et vient du monde de l'entrepreneuriat, je
 suis data scientist avec un parcours dans le privé.
 
-**Ensemble, nous cherchons à aider les sapeurs-pompiers de l’Essonne. Leur besoin :
+**Ensemble, nous cherchons à aider les sapeurs-pompiers de l’Essonne. Leur besoin :
 mieux prévoir leurs opérations pour mieux s'y préparer et rendre un
 meilleur service aux citoyens**. 
 
-**Le travail en équipe est une réalité pour tous les défis EIG** : 
+**Le travail en équipe est une réalité pour tous les défis EIG** : 
 - designers, chefs de projet, ingénieurs de tout niveau, genre ou âge
 (je vous laisse naviguer sur le site pour vous en rendre compte)
 travaillent ensemble au sein des défis, mais aussi entre défis,
@@ -91,7 +95,7 @@ et d’autres spécialités du numérique (le design, la data science,
 l'administration système, la médiation voire la conduite de projet).
 
 **C’est aussi une façon de voir toutes les manières dont on peut
-s’engager pour aider le citoyen** : les défis de la 2e promotion EIG
+s’engager pour aider le citoyen** : les défis de la 2e promotion EIG
 vont de la création d'une plateforme de partage et d'agrégation des
 innovations sociales
 ([SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/))
@@ -137,4 +141,4 @@ qu'EIG.
 
 (4) Concepteur en anglais.
 
-_Autour du programme EIG, d'autres initiatives font écho à ce sens de l'engagement et de l'innovation pour l'intérêt général. Découvrez par exemple [Latitudes](http://www.latitudes.cc/) ou [Data For Good](http://www.dataforgood.fr/). Plusieurs membres de ces collectifs sont d'ailleurs devenus EIG !_
+_Autour du programme EIG, d'autres initiatives font écho à ce sens de l'engagement et de l'innovation pour l'intérêt général. Découvrez par exemple [Latitudes](http://www.latitudes.cc/) ou [Data For Good](http://www.dataforgood.fr/). Plusieurs membres de ces collectifs sont d'ailleurs devenus EIG !_

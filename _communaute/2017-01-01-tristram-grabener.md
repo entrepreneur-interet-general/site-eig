@@ -1,16 +1,6 @@
 ---
 layout: personne
-twitter: tristramg
-github: Tristramg
 nom: Tristram Gräbener
-website:
-annees: 2017
-defis: 
-  - nom: MI - cartAV
-    site: /defis/2017/mi-cartav-securite-routiere.html
-profil: Développeur
-images:
-  - /img/communaute/Tristram-Grabener.png
 ---
 
 "Diplômé de l’Institut Mines Télécom en optimisation, j'ai effectué
