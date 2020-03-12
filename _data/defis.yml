@@ -756,9 +756,25 @@
     - "Nicolas Patriarca"
   mentors:
     - "Marie Juille"
-    - "Olivier Benoist"
+    - "Stéphane Costaglioli"
     - "Laurent Buchaillat"
-
+  projects:
+    - image: img/realisations/2019/documentation-collaborative-snds.png
+      title: "Atelier de co-construction"
+      description: "Synthèse d’un atelier UX où des agents de préfectures ont imaginé autre mode d’accueil des usagers avec comme support un logiciel unifié de la gestion des RDV à l’instruction de dossier."
+      url: https://documentation-snds.health-data-hub.fr/
+      call_to_action: "Voir le compte-rendu"
+    - image: img/realisations/2019/dictionnaire-interactif-snds.png
+      title: "Résumé du défi"
+      description: "À la fin du défi, l'équipe a réalisé un poster pour restituer son année et exposer le travail accompli."
+      url: https://drees.shinyapps.io/dico-snds/
+      call_to_action: "Visualiser le poster "
+    - image: img/realisations/2019/groupe-meetup-health-data-hub.png
+      title: "Logigramme du logiciel unifié"
+      description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
+      url: https://www.meetup.com/fr-FR/Health-Data-Hub/
+      call_to_action: "Voir le logigramme"
+      
 "Plateforme Handicap":
   image: /img/defis/dig/Plateforme-Handicap.png
   title: "Plateforme Handicap"
