@@ -46,7 +46,7 @@ dans deux cas :
 
 #### a) Liste de diffusion
 
-Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://lists.eig-forever.org/subscribe/entrepreneur-interet-general@mail.etalab.studio).
+Nous constituons une liste de diffusion que vous rejoignez [sur demande via un formulaire](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio).
 
 A ce titre, nous traitons certaines données à caractère personnel (nom, prénom, courriel) pour pouvoir vous informer de l'actualité du programme et rester en contact avec vous. Ce traitement est fondé sur votre consentement que vous pouvez retirer à tout moment. Ont accès à ces données uniquement les personnes habilitées de la mission Etalab.
 
@@ -80,16 +80,13 @@ péril l'utilisation du site par d'autres usagers.
 
 **Editeur**
 
-Mission Étalab, Direction interministérielle du numérique et du
-système d'information et de communication de l'Etat (DINSIC), située au
-20, avenue de Ségur, 75007 Paris.
+Département Etalab, direction interministérielle du numérique (DINUM), située au 20, avenue de Ségur, 75007 Paris.
 
 **Directrice de la
 publication**
 
-Mme Laure LUCCHESI, Cheffe de la Mission Etalab, Direction
-interministérielle du numérique et du système d'information et de
-communication de l'Etat (DINSIC).
+Mme Laure LUCCHESI, Cheffe du département Etalab, Direction
+interministérielle du numérique (DINUM).
 
 **Prestataire d'hébergement**
 
