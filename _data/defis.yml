@@ -119,7 +119,7 @@
     - image: img/realisations/2019/cibnav-ciblage.jpg
       title: "Calcul de la note de risque des navires professionnels français"
       description: "Nous avons exploité les données sur les navires français et l'accidentologie pour identifier les caractéristiques et activités à risque. Cela permet d'identifier des navires à contrôler en priorité au titre de la sécurité maritime. "
-      url: 
+      url:
       call_to_action: Documentation à venir
   end_of_project_videos:
     - id: x7o1566
@@ -848,22 +848,22 @@
     - amount: 88
       description: "entretiens qualitatifs"
   projects:
-    - image: img/realisations/dig/RembourSante_Restit.png
+    - image: img/realisations/2019/RembourSante_Restit.png
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019
       call_to_action: "Consulter la synthèse"
-    - image: img/realisations/dig/RembourSante_ProtoDesktop.png
+    - image: img/realisations/2019/RembourSante_ProtoDesktop.png
       title: "Prototype web"
       description: "Prototype réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen
       call_to_action: "Découvrir la version Web"
-    - image: img/realisations/dig/RembourSante_ProtoMobile.png
+    - image: img/realisations/2019/RembourSante_ProtoMobile.png
       title: "Prototype mobile"
       description: "Prototype mobile réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/34ff7be8-469e-4a9f-78cc-6241beda025a-42ce/?fullscreen
       call_to_action: "Découvrir la version mobile"
-    - image: img/realisations/dig/RembourSante_GitHub.png
+    - image: img/realisations/2019/RembourSante_GitHub.png
       title: "Documentation du projet"
       description: "La documentation principale de ce projet est publiée en ligne et accessible librement."
       url: https://github.com/entrepreneur-interet-general/RembourSante
@@ -898,17 +898,17 @@
     - amount: 5
       description: "ateliers internes et externes"
   projects:
-    - image: img/realisations/dig/ResorptionBidonvilles_Panorama.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Panorama.jpg
       title: "Panorama de la problématique et des parcours"
       description: "Analyse de la problématique afin d’identifier les points d’amélioration et évolutions de la plateforme. Document réalisé en fin de mission afin de compiler la connaissance sur le projet."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Panorama_ProblematiqueParcours_Nov2019.pdf
       call_to_action: "Parcourir le panorama"
-    - image: img/realisations/dig/ResorptionBidonvilles_Synthese.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Synthese.jpg
       title: "Synthèse des entretiens utilisateurs"
       description: "Les entretiens utilisateurs menés sur les processus de travail actuels des agents ont permis d’identifier l’évolution et l’intégration de la plateforme dans ces processus."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Syntheses_Aout2019.pdf
       call_to_action: "Parcourir la synthèse"
-    - image: img/realisations/dig/ResorptionBidonvilles_Maquette.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Maquette.jpg
       title: "Exemple de maquettage"
       description: "La fonctionnalité « déclaration d’un dispositif » a été co-conçue avec l’équipe  à partir des besoins identifés et les tests utilisateurs."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Maquette_Oct2019.pdf
