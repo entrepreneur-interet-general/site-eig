@@ -759,17 +759,17 @@
     - "Stéphane Costaglioli"
     - "Laurent Buchaillat"
   projects:
-    - image: /img/realisations/2019/PlaniPref_200311_Restitution_atelier_thumb.jpg
+    - image: img/realisations/2019/PlaniPref_200311_Restitution_atelier_thumb.jpg
       title: "Atelier de co-construction"
       description: "Synthèse d’un atelier UX où des agents de préfectures ont imaginé autre mode d’accueil des usagers avec comme support un logiciel unifié de la gestion des RDV à l’instruction de dossier."
       url: /docs/DIG_livrables/PlaniPref_200311_Restitution_atelier.pdf
       call_to_action: "Voir le compte-rendu"
-    - image: /img/realisations/2019/PlaniPref_200311_Restitution_board_thumb.jpg
+    - image: img/realisations/2019/PlaniPref_200311_Restitution_board_thumb.jpg
       title: "Résumé du défi"
       description: "À la fin du défi, l'équipe a réalisé un poster pour restituer son année et exposer le travail accompli."
       url: /docs/DIG_livrables/PlaniPref_200311_Restitution_board.pdf
       call_to_action: "Visualiser le poster "
-    - image: /img/realisations/2019/PlaniPref_200311_Restitution_logigramme_thumb.jpg
+    - image: img/realisations/2019/PlaniPref_200311_Restitution_logigramme_thumb.jpg
       title: "Logigramme du logiciel unifié"
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
       url: docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
