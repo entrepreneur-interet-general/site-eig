@@ -11,4 +11,4 @@ Or ils ont parfois du mal à comprendre le fonctionnement du module de prise de 
 
 ### Le défi : concevoir un outil de prise de rendez-vous en ligne plus facile à utiliser pour les usagers, plus sécurisé et efficient pour les agents. 
 
-L'équipe projet souhaite s'appuyer sur des solutions techniques existantes et livrer un outil en 2020. Le designer a pour mission de comprendre et de porter les besoins des usagers et des agents. Il peut ainsi concevoir et produire des améliorations des solutions techniques sélectionnées. En optimisant l'outil pour la prise en main par les usagers et les agents, il œuvre à son adoption par les utilisateurs.
+Au terme des 7 mois d’immersion et de travail au sein de la DMAT, la mission n’a pu aboutir. Le prestataire, choisi pour répondre à l’impératif calendaire n’a pas été en mesure de reprendre l’ensemble de la contribution d’UX design. Néanmoins, les données récoltées par PlaniPref pourront alimenter d’autres projets ou défis qui ont des problématiques liées aux mêmes catégoriques d’usagers et d’agents (Exemples : ANEF, refugies.info, Ma famille ici, etc).
