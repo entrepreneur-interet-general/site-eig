@@ -772,7 +772,7 @@
     - image: img/realisations/2019/PlaniPref_200311_Restitution_logigramme_thumb.jpg
       title: "Logigramme du logiciel unifié"
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
-      url: docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
+      url: /docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
       call_to_action: "Voir le logigramme"
       
 "Plateforme Handicap":
