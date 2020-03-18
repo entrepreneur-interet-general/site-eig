@@ -944,12 +944,12 @@
     - amount: 4
       description: "ateliers internes et externes"
   projects:
-    - image: img/realisations/2019/Sequoia_résultat-recherche-utilisateur.jpg
+    - image: img/realisations/2019/Sequoia_résultat-recherche-utilisateur.png
       title: "Résultats de la recherche utilisateur"
       description: "Les résultats de la recherche utilisateur mêlent à la fois recherche quantitative et qualitative et ont permis d’identifier 3 axes majeurs à arbitrer."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_résultats-recherche-utilisateur.pdf
       call_to_action: "Parcourir la recherche utilisateur"
-    - image: img/realisations/2019/Sequoia_cas-d-usages.jpg
+    - image: img/realisations/2019/Sequoia_cas-d-usages.png
       title: "Cas d’usages"
       description: "À partir de la recherche utilisateur et des besoins identifiés, plusieurs parcours ont été améliorés et maquettés avec les équipes projets."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_cas-d-usages.pdf
