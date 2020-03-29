@@ -156,7 +156,7 @@ Pourquoi nous posons-nous toutes ces questions sur les meilleures
 façons d'apprendre et de résoudre des problèmes ?
 
 Parce que les représentations simplistes des projets informatiques
-donnent une fausse image de la complexité.  Le code peut-être obscur
+donnent une fausse image de la complexité.  Le code peut être obscur
 pour un non-initié (comme le serait une langue étrangère), mais la
 complexité réelle vient plutôt des dimensions multiples des projets :
 pertinence par rapport aux besoins des usagers, adéquation avec les
