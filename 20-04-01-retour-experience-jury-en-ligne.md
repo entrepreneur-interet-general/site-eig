@@ -36,7 +36,8 @@ Conserver l'aspect visuel lors du jury nous semblait important pour faciliter le
 
 **Notre conseil : prévoir une solution de repli.** Celle que nous avons mise en place s'est avérée fort utile : un numéro de conférence téléphonique. Les quelques fois où nous y avons eu recours, nous avons tout de même gardé la visioconférence active (en désactivant les micros) pour ceux qui arrivaient à se connecter, afin de faciliter la répartition de la parole entre les participants. Attention toutefois à prévoir suffisamment de forfait téléphonique.
 
-[Illustration : capture d'écran du jury] 
+![Les membres du jury réunis dans une salle de visioconférence](/img/photo_jury_EIG4.png)
+_Le jury rassemblé, photographié par [Clémence Pène](https://pbs.twimg.com/media/ET3MsKhXsAAsjQR.jpg)._
 
 ### Préparer le jury en asynchrone 
 
@@ -45,6 +46,9 @@ Une fois la solution de transmission du jury trouvée, il nous restait à prépa
 Puis nous avons constitué des équipes de jury et pour chacune d'entre elles, nous avons créé un dossier partagé contenant les dossiers de candidature des défis à évaluer. Les membres du jury étaient invités à les consulter dès réception. 
 
 **Notre conseil : favoriser les retours asynchrones.** Afin de faciliter le partage de l'information et des interrogations, nous avons mis en place des documents partagés par équipe de jury pour permettre des retours avant le jour J. 
+
+![Capture d'écran d'un "kit défi" à disposition du jury](/img/kit_jury_EIG4.png)
+_Un exemple de kit jury pour un défi, avec le dossier de candidature et une grille d'évaluation_
 
 ### Recréer les conditions du jury en ligne 
 
