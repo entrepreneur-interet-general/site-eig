@@ -1,14 +1,10 @@
 ---
 author: Laure Casellas, équipe EIG
-description: 'Chaque année, l''équipe du programme Entrepreneurs d''Intérêt Général 
-  part à la recherche de défis d''amélioration du service public à l''aide du numérique,
-  portés par des administrations.
-  Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. 
-  Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience.'
+description: 'Chaque année, l''équipe du programme Entrepreneurs d''Intérêt Général part à la recherche de défis d''amélioration du service public à l''aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience.'
 layout: post
 tags:
 - méthode
-title: Organiser un jury en ligne - Notre expérience avec la quatrième promotion EIG
+title: Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG
 twitter: laure_cslls
 ---
 
@@ -20,8 +16,6 @@ Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la
 La sélection des défis se fait en deux étapes :
 
 - la pré-sélection des défis sur la base des dossiers de candidature déposés par les administrations, interne à la direction interministérielle du numérique (DINUM). 
-
-
 - la sélection des défis sur la base d'une pésentation à l'oral des administrations devant un jury extérieur à la DINUM. 
 
 En raison des mesures de confinement prises par le gouvernement depuis le 17 mars 2020, le jury s’est tenu en ligne pour la première fois depuis la création du programme EIG. Il a impliqué près de 100 personnes sur 2 jours. Nous pensons que cette expérience peut bénéficier à d’autres organisations confrontées à la même situation, c’est pourquoi nous la partageons.
@@ -82,7 +76,6 @@ Enfin, lors des délibérations du jury, l'"organisateur jury" était chargé de
 
 **Notre conseil : prendre un temps d'appropriation des dossiers.** Avant de faire entrer les porteurs de défi, chaque jury était invité à prendre un temps pour se replonger dans le dossier et échanger. Les interactions s'en trouvaient fluidifiées lors de l'audition. Notre expérience nous a appris qu'il valait mieux limiter la taille du jury pour que chacun ait bien le temps de s'exprimer. 
 Fixer des **règles d'interaction claires**, comme le choix d'un modérateur qui distribue la parole, facilite également les échanges à distance.
-
 
 ### Le bilan : un jury sous le signe de la bienveillance
 
