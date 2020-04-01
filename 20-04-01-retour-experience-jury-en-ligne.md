@@ -88,8 +88,9 @@ Fixer des **règles d'interaction claires**, comme le choix d'un modérateur qui
 
 S'il fallait retenir une chose de ce jury, ce serait la bienveillance dont ont fait preuve à la fois les membres du jury et les porteurs de défi. Organiser un jury en ligne n'est pas une mince affaire, mais nous avons l'impression que la contrainte du confinement nous a permis d'améliorer notre process de sélection. Cela demande une préparation méthodique, en amont du jury, qui n'épargne pas des aléas techniques le jour J. Un partage des informations le plus clair et transparent possible en amont du jury nous semble essentiel, afin de privilégier l'interaction humaine lors du jury. 
 
-_Nous remercions les membres du jury, les équipes d'Etalab et de beta.gouv.fr pour leur précieux soutien dans la réalisation de ce jury à distance. Les résultats du jury seront publiés la semaine prochaine._
+Les résultats du jury seront publiés la semaine prochaine.
 
+_Nous remercions les membres du jury, les équipes d'Etalab et de beta.gouv.fr pour leur précieux soutien dans la réalisation de ce jury à distance._
 
 _Nous publierons régulièrement des nouvelles sur les EIG sur le [blog d’Etalab](http://etalab.gouv.fr/) et sur celui des EIG : leurs réalisations techniques, les temps forts de la promotion, l’avancée des défis… Pour rester informé, n’hésitez pas à vous abonner au [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) du blog EIG._
 
