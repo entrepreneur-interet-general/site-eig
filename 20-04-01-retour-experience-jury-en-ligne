@@ -14,7 +14,7 @@ twitter: laure_cslls
 
 ###  Notre expérience du jury en ligne avec la quatrième promotion EIG 
 
-Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. N'hésitez pas à consulter [les défis des promotions précédentes] (https://entrepreneur-interet-general.etalab.gouv.fr/defis/) pour en savoir plus.
+Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. N'hésitez pas à consulter [les défis des promotions précédentes](https://entrepreneur-interet-general.etalab.gouv.fr/defis/) pour en savoir plus.
 
 
 La sélection des défis se fait en deux étapes :
@@ -46,7 +46,7 @@ Conserver l'aspect visuel lors du jury nous semblait important pour faciliter le
 
 ### Préparer le jury en asynchrone 
 
-Une fois la solution de transmission du jury trouvée, il nous restait à préparer au mieux les membres du jury. Tout d'abord, nous avons constitué un guide jury, regroupant au même endroit les informations essentielles comme le déroulé des auditions ou encore les critères de sélection. Vous pouvez consulter ce guide pour inspiration[Mettre le lien vers le guide jury].
+Une fois la solution de transmission du jury trouvée, il nous restait à préparer au mieux les membres du jury. Tout d'abord, nous avons constitué un guide jury, regroupant au même endroit les informations essentielles comme le déroulé des auditions ou encore les critères de sélection. Vous pouvez [consulter ce guide](/docs/Guide_jury_EIG4.pdf) pour inspiration.
 
 Puis nous avons constitué des équipes de jury et pour chacune d'entre elles, nous avons créé un dossier partagé contenant les dossiers de candidature des défis à évaluer. Les membres du jury étaient invités à les consulter dès réception. 
 
@@ -68,7 +68,8 @@ L'organisation technique du jury se trouvait complexifiée par la tenue de deux 
 Conscientes que les membres du jury n'étaient pas dans des conditions de travail optimales, mais aussi que la visioconférence demandait une concentration accrue de la part de toutes et tous, nous avons choisi de ne pas mobiliser les jurés plus d'une demi-journée chacun et de **prévoir des pauses régulières (10 minutes toutes les 40 minutes)**. 
 Un "organisateur jury", désigné à l'avance, était chargé de la gestion du temps. 
 
-[Mettre une capture d'écran du planning d'une journée]
+![Aperçu du planning d'une demi-journée de jury, avec des pauses entre chaque défi auditionné.](/img/planning_jury_EIG4.png)
+_Planning type d'une demi-journée de jury_
 
 L'audition a été repensée pour **privilégier le temps d'échange** entre les porteurs de projet et les membres du jury. Pour chaque défi considéré, le jury se déroulait comme suit :
 
