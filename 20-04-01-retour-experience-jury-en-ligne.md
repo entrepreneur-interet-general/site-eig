@@ -4,6 +4,8 @@ description: 'Chaque année, l''équipe du programme Entrepreneurs d''Intérêt 
 layout: post
 tags:
 - méthode
+- outil
+- évaluation
 title: Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG
 twitter: laure_cslls
 ---
