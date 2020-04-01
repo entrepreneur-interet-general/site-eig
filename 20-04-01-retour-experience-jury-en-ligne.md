@@ -12,7 +12,7 @@ twitter: laure_cslls
 
 ###  Notre expérience du jury en ligne 
 
-Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. N'hésitez pas à consulter [les défis des promotions précédentes](https://entrepreneur-interet-general.etalab.gouv.fr/defis/) pour en savoir plus.
+Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. Pour en savoir plus, n'hésitez pas à consulter [les défis des promotions précédentes](https://entrepreneur-interet-general.etalab.gouv.fr/defis/).
 
 
 La sélection des défis se fait en deux étapes :
@@ -39,7 +39,7 @@ Conserver l'aspect visuel lors du jury nous semblait important pour faciliter le
 **Notre conseil : prévoir une solution de repli.** Celle que nous avons mise en place s'est avérée fort utile : un numéro de conférence téléphonique. Les quelques fois où nous y avons eu recours, nous avons tout de même gardé la visioconférence active (en désactivant les micros) pour ceux qui arrivaient à se connecter, afin de faciliter la répartition de la parole entre les participants. Attention toutefois à prévoir suffisamment de forfait téléphonique.
 
 ![Les membres du jury réunis dans une salle de visioconférence](/img/photo_jury_EIG4.png)
-_Le jury rassemblé, photographié par [Clémence Pène](https://pbs.twimg.com/media/ET3MsKhXsAAsjQR.jpg)._
+_Le jury rassemblé, photographié par [Clémence Pène](https://pbs.twimg.com/media/ET3MsKhXsAAsjQR.jpg)_
 
 ### Préparer le jury en asynchrone 
 
