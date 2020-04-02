@@ -1,13 +1,13 @@
 ---
 author: Laure Casellas, équipe EIG
-description: 'Chaque année, l''équipe du programme Entrepreneurs d''Intérêt Général part à la recherche de défis d''amélioration du service public à l''aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience.'
+description: "Chaque année, l''équipe du programme Entrepreneurs d''Intérêt Général part à la recherche de défis d''amélioration du service public à l''aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
 img: /img/photo_jury_EIG4.png
 layout: post
 tags:
 - méthode
 - outil
 - évaluation
-title: Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG
+title: "Organiser un jury en ligne - notre expérience avec la quatrième promotion EIG"
 twitter: laure_cslls
 ---
 
@@ -26,7 +26,7 @@ Dès les premières consignes de non-rassemblement, la question du maintien du j
 
 ## Une préparation méthodique appuyée par une communication claire
 
-La première étape de préparation du jury a consisté à répartir les 50 membres en plusieurs groupes de 5 à 8 membres, avec une répartition aussi équilibrée que possible des profils. Chaque groupe s'est enquite vu attribuer entre 2 et 3 défis à auditionner.
+La première étape de préparation du jury a consisté à répartir les 50 membres en plusieurs groupes de 5 à 8 membres, avec une répartition aussi équilibrée que possible des profils. Chaque groupe s'est ensuite vu attribuer entre 2 et 3 défis à auditionner.
 
 ### Anticiper les aspects techniques 
 
