@@ -87,4 +87,4 @@ Les résultats du jury seront publiés la semaine prochaine.
 
 _Nous remercions les membres du jury, les équipes d'Etalab et de beta.gouv.fr pour leur précieux soutien dans la réalisation de ce jury à distance._
 
-_Pour rester informé des prochaines étapes, notamment de l'appel à candidautres de mai, n’hésitez pas à vous abonner à [notre liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) et à nous suivre sur [Twitter](https://twitter.com/eigforever)._
+_Pour rester informé des prochaines étapes, notamment de l'appel à candidatures de mai, n’hésitez pas à vous abonner à [notre liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) et à nous suivre sur [Twitter](https://twitter.com/eigforever)._
