@@ -1,7 +1,7 @@
 ---
 author: Laure Casellas, équipe EIG
 description: "Chaque année, l'équipe du programme Entrepreneurs d'Intérêt Général part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
-img: /img/photo_jury_twitter_EIG4.png
+image: /img/photo_jury_twitter_EIG4.png
 layout: post
 tags:
 - méthode
