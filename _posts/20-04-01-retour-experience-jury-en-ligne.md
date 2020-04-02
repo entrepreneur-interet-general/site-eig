@@ -81,7 +81,7 @@ Enfin, lors des délibérations du jury, le "référent jury" était chargé de 
 
 ### Le bilan : un jury sous le signe de la bienveillance
 
-S'il fallait retenir une chose de ce jury, ce serait la bienveillance dont ont fait preuve à la fois les membres du jury et les porteurs de défi. Organiser un jury en ligne n'est pas une mince affaire, mais nous avons l'impression que la contrainte du confinement nous a permis d'améliorer notre processus de sélection. Cela nous a demandé une préparation méthodique en amont du jury, qui ne nous a pas épargné des aléas techniques le jour J. Une des clés du succès d'après nous : un partage des informations le plus clair et transparent possible en amont du jury afin de privilégier l'interaction humaine lors du jury. 
+S'il fallait retenir une chose de ce jury, ce serait la bienveillance dont ont fait preuve à la fois les membres du jury et les porteurs de défis. Organiser un jury en ligne n'est pas une mince affaire, mais nous avons l'impression que la contrainte du confinement nous a permis d'améliorer notre processus de sélection. Cela nous a demandé une préparation méthodique en amont du jury, qui ne nous a pas épargné des aléas techniques le jour J. Une des clés du succès d'après nous : un partage des informations le plus clair et transparent possible en amont du jury afin de privilégier l'interaction humaine lors du jury. 
 
 Les résultats du jury seront publiés la semaine prochaine.
 
