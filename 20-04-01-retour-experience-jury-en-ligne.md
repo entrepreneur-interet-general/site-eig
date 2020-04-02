@@ -1,7 +1,7 @@
 ---
 author: Laure Casellas, équipe EIG
 description: "Chaque année, l''équipe du programme Entrepreneurs d''Intérêt Général part à la recherche de défis d''amélioration du service public à l''aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
-img: /img/photo_jury_EIG4.png
+img: /img/photo_jury_twitter_EIG4.png
 layout: post
 tags:
 - méthode
@@ -36,7 +36,7 @@ Conserver l'aspect visuel lors du jury nous semblait important pour faciliter le
 
 **Notre conseil : prévoir une solution de repli.** Celle que nous avons mise en place s'est avérée fort utile : un numéro de conférence téléphonique. Les quelques fois où nous y avons eu recours, nous avons tout de même gardé la visioconférence active (en désactivant les micros) pour ceux qui arrivaient à se connecter, afin de faciliter la répartition de la parole entre les participants. Attention toutefois à prévoir suffisamment de forfait téléphonique.
 
-![Les membres du jury réunis dans une salle de visioconférence](/img/photo_jury_EIG4.png)
+![Les membres du jury réunis dans une salle de visioconférence](/img/photo_jury_twitter_EIG4.png)
 _Le jury du mardi matin rassemblé, photographié par [Clémence Pène](https://pbs.twimg.com/media/ET3MsKhXsAAsjQR.jpg)_
 
 ### Préparer le jury en asynchrone 
