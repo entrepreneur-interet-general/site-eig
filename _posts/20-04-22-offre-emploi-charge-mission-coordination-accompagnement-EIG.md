@@ -22,7 +22,7 @@ twitter: soizicpenicaud
 
 Nous cherchons dès mai 2020 une personne pour rejoindre l’équipe et assurer la réussite, la pérennisation et la valorisation des défis EIG, en :
 
-  * **Accompagnant les différentes promotions EIG** : construire le programme d’accompagnement collectif (calendrier, thématiques, formats, intervenants à mobiliser) en lien avec les EIG Link, coordonner le suivi individuel des défis, animer des formations et d’ateliers de travail, suivre la relation avec les prestataires, valoriser les résultats à travers des événements et d’autres actions de communication (en lien avec Sophie).
+  * **Accompagnant les différentes promotions EIG** : construire le programme d’accompagnement collectif (calendrier, thématiques, formats, intervenants à mobiliser) en lien avec les EIG Link, coordonner le suivi individuel des défis, animer des formations et ateliers de travail, suivre la relation avec les prestataires, valoriser les résultats à travers des événements et d’autres actions de communication (en lien avec Sophie).
   
   * **Construisant les prochaines promotions EIG** : concevoir les appels à projets et les appels à candidatures de bout en bout. La promotion EIG 4 est en ce moment en phase d’appel à candidatures. 
   
