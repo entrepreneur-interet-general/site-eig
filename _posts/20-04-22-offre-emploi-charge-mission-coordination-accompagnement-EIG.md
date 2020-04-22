@@ -1,14 +1,12 @@
 ---
 author: Soizic Pénicaud, équipe EIG
-description: 'Rejoignez-nous ! Nous cherchons quelqu''un pour assurer la réussite, 
-  la pérennisation et la valorisation des défis EIG à partir de mai 2020.'
+description: "Rejoignez-nous ! Nous cherchons quelqu'un pour assurer la réussite, la pérennisation et la valorisation des défis EIG à partir de mai 2020."
 image: /img/offre-emploi.png
 layout: post
 tags:
 - accompagnement
 - recrutement
-title: 'Rejoignez l''équipe Entrepreneurs d''Intérêt Général à Etalab : offre d'emploi 
-  « Chargé de mission coordination et accompagnement du programme EIG (F/H)»'
+title: "Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H)»"
 twitter: soizicpenicaud
 ---
 
