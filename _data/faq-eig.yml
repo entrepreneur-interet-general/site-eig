@@ -13,9 +13,13 @@
 - question: "En quoi un EIG est-elle ou il différent d’un contractuel en CDD de 3 ans dans l’administration ?"
   reponse: "<p>À la différence d’un contractuel classique, les EIG sont mobilisés sur un seul projet, et pendant 10 mois. Cela leur permet de mener un projet de bout en bout, de sa conception à sa réalisation. Les mentors sont garants de ce format, en permettant aux EIG de rentrer en contact avec tous les interlocuteurs nécessaires à la réalisation du projet.</p>"
   ancre: pas-un-contractuel-classique
+  
+- question: "Dois-je démissioner de mon emploi actuel pour rejoindre le programme ?"
+  reponse: "<p>Certains candidats ont opté pour le congé sans solde plutôt que pour la démission. Il nécessite l'accord de l'employeur, mais les délais de préavis sont souvent plus courts.</p>"
+  ancre: demission
 
 - question: "Où travaillent les EIG ?"
-  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
+  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. La majorité des défis se dérouleront à Paris ou en région parisienne. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
   ancre: lieu-de-travail
 
 - question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
@@ -29,6 +33,10 @@
 - question: "Pourquoi des défis de 10 mois ?"
   reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les entrepreneurs, qui restent concentrés sur la tâche à accomplir. Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
   ancre: pourquoi-dix-mois
+  
+- question: "Puis-je commencer après la date de début du programme ?"
+  reponse: "<p>Malheureusement, pour des raisons administratives, nous ne pouvons pas décaler le début de la promotion. Si le problème vient du délai de préavis, vous pouvez le raccourcir avec l’accord de votre employeur en optant pour un congé sans solde.</p>"
+  ancre: commencer-apres
 
 - question: "Au terme des 10 mois, comment les défis sont-ils pérennisés ?"
   reponse: "<p>Les outils continuent à être maintenus et développés par les équipes de l’administration d’accueil. D’autres sont mêmes déployés dans d’autres services. De plus, l’obligation, sauf dérogation, de verser les développements réalisés en open source rend leur maintien possible par tous. Le programme EIG dispose d’une organisation sur GitHub pour y regrouper les dépôts publiés.</p>"
@@ -44,6 +52,10 @@
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible. Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
+  
+- question: "Y a-t-il un niveau de diplôme requis ?"
+  reponse: "<p>Nous privilégions l'expérience des candidats et encourageons les administrations à en faire de même.</p>"  
+  ancre: niveau-requis
 
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
   reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
