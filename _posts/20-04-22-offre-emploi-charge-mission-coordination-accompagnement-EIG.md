@@ -49,6 +49,8 @@ Ce poste est pour vous si :
 
 Idéalement, vous connaissez déjà bien l’écosystème du numérique public et de l’innovation publique.
 
-**Si vous vous reconnaissez dans le profil décrit ci-dessus, n’hésitez pas à postuler** en envoyant CV et lettre de motivation à l’adresse : candidatures-dinum@pm.gouv.fr, après avoir pris connaissance de la [fiche de poste officielle](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-coordination-et-accompagnement-hf-reference-2020-375131) sur la Place de l’emploi public.
+**Si vous vous reconnaissez dans le profil décrit ci-dessus, n’hésitez pas à postuler** en envoyant CV et lettre de motivation à l’adresse : candidatures-dinum@pm.gouv.fr et candidatures@data.gouv.fr, après avoir pris connaissance de la [fiche de poste officielle](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-coordination-et-accompagnement-hf-reference-2020-375131) sur la Place de l’emploi public.
+
+Pour les contractuels, le format de contrat proposé est un CDD de 3 ans de la fonction publique. 
 
 ### À bientôt !
