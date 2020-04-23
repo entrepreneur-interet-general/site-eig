@@ -6,7 +6,7 @@ layout: post
 tags:
 - accompagnement
 - recrutement
-title: "Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H)»"
+title: "Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H) »"
 twitter: soizicpenicaud
 ---
 
