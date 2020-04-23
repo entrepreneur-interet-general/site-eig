@@ -53,7 +53,7 @@
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible. Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
   
-- question: "Y a-t-il un niveau de diplôme requis ?"
+- question: "Y a-t-il un niveau minimum de diplôme requis ?"
   reponse: "<p>Nous privilégions l'expérience des candidats et encourageons les administrations à en faire de même.</p>"  
   ancre: niveau-requis
 
