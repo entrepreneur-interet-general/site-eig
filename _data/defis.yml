@@ -16,6 +16,25 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"CapQualif":
+  image: /img/eig4/capqualif.png
+  title: CapQualif
+  link_to: /defis/2020/capqualif.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Simplifier la remise des titres des marins professionnels
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction des affaires maritimes
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Nicolas Singellos"
+    - "Laurence Denis"
+    - "Yves Le Nozahic"
+
 "Datalympics":
   image: /img/eig4/datalympics.png
   title: Datalympics
