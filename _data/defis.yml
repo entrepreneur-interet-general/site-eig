@@ -16,6 +16,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"Datalympics":
+  image: /img/eig4/datalympics.png
+  title: Datalympics
+  link_to: /defis/2020/datalympics.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024.
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction du budget
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "René Carlet"
+    - "Xavier Michelet"
+
 "SIANCE":
   image: /img/eig4/siance.png
   title: SIANCE
