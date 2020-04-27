@@ -1,3 +1,41 @@
+Clément Bultheel:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - France Transition
+  github:
+  gitlab:
+  image_url: /img/communaute/clement-bultheel.jpg
+  link_to: /communaute/2020/clement-bultheel.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Clément Bultheel
+  twitter:
+  website:
+
+Hélène Costa:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - France Transition
+  github:
+  gitlab:
+  image_url: /img/communaute/helene-costa.jpg
+  link_to: /communaute/2020/helene-costa.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Hélène Costa
+  twitter:
+  website:
+
 Alexandre Leonardi:
   annees:
   - 2020
@@ -3495,11 +3533,14 @@ Thierry Razanajao:
 Thomas Lesueur:
   annees:
   - 2019
+  - 2020
   class:
   - dig
+  - eig4
   - mentor
   defis:
   - Sequoia
+  - France Transition
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png

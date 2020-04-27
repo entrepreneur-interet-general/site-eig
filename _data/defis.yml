@@ -15,6 +15,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"France Transition":
+  image: /img/eig4/france-transition.png
+  title: France Transition
+  link_to: /defis/2020/france-transition.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Faciliter l'accès aux aides publiques à la transition écologique et énergétique
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Commissariat général au développement durable
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Clément Bultheel"
+    - "Hélène Costa"
+    - "Thomas Lesueur"
+
 "Consolidex":
   image: /img/eig4/consolidex.png
   title: Consolidex
