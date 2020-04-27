@@ -32,6 +32,23 @@
     - "Céline Guillou"
     - "Célia d'Hervé"
     - "Thierry Coquil"
+"Opérations 18":
+  image: /img/eig4/operations-18.png
+  title: Opérations 18
+  link_to: /defis/2020/operations-18.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Brigade de Sapeurs-Pompiers de Paris
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Nicolas Mallejac"
+    - "Denis Daviau"
+    - "Stéphane Tollemer"
 
 "Open Collectivités":
   image: /img/eig4/open-collectivites.png
