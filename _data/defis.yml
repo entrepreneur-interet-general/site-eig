@@ -4,7 +4,6 @@
   link_to: /defis/2020/adex.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Prévenir les conflits d'intérêts dans le domaine médical
   year: 2020
   promotion: 4
@@ -22,7 +21,6 @@
   link_to: /defis/2020/consolidex.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Faciliter le contrôle environnemental des sites industriels
   year: 2020
   promotion: 4
@@ -40,7 +38,6 @@
   link_to: /defis/2020/datamed.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Accompanger l'ouverture des données sur les médicaments
   year: 2020
   promotion: 4
@@ -59,7 +56,6 @@
   link_to: /defis/2020/eig-link.html
   class: 2020 dev design
   skills: EIG 4 // Développement // Design
-  colorback: red
   description: Assurer la réussite de la promotion EIG 4
   year: 2020
   promotion: 4
@@ -76,7 +72,6 @@
   link_to: /defis/2020/capqualif.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Simplifier la remise des titres des marins professionnels
   year: 2020
   promotion: 4
@@ -95,7 +90,6 @@
   link_to: /defis/2020/datalympics.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024.
   year: 2020
   promotion: 4
@@ -113,7 +107,6 @@
   link_to: /defis/2020/siance.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Améliorer le contrôle des activités nucléaires
   year: 2020
   promotion: 4
@@ -132,7 +125,6 @@
   link_to: /defis/2020/nexsis.html
   class: 2020 dev design
   skills: EIG 4 // TODO
-  colorback: red
   description: Mieux informer les autorités et services d'urgence lors d'une crise
   year: 2020
   promotion: 4
@@ -150,7 +142,6 @@
   link_to: /defis/2019/acossplateforme.html
   class: 2019 dev design
   skills: EIG 3 // Développement // Design
-  colorback: red
   description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
   promotion: 3
@@ -176,7 +167,6 @@
   link_to: /defis/2019/adler.html
   class: 2019 datascience dev
   skills: EIG 3 // Datascience // Développement
-  colorback: red
   description: Lutter contre les comportements financiers illicites
   year: 2019
   promotion: 3
@@ -201,7 +191,6 @@
   link_to: /defis/2019/cartobio.html
   class: 2019 datascience dev
   skills: EIG 3 // Datascience // Développement
-  colorback: red
   description: "Cartographier les parcelles cultivées en agriculture biologique"
   year: 2019
   promotion: 3
@@ -227,7 +216,6 @@
   link_to: /defis/2019/cibnav.html
   class: 2019 datascience dev
   skills: EIG 3 // Datascience // Développement
-  colorback: red
   description: Aider au contrôle des navires professionnels
   year: 2019
   promotion: 3
@@ -279,7 +267,6 @@
   link_to: /defis/2019/datajust.html
   class: 2019 datascience
   skills: EIG 3 // Datascience
-  colorback: red
   description: "Construire un référentiel d’indemnisation des préjudices corporels"
   year: 2019
   promotion: 3
@@ -316,7 +303,6 @@
   link_to: /defis/2019/datareg.html
   class: 2019 datascience
   skills: EIG 3 // Datascience
-  colorback: red
   description: "Maximiser l’exploitation des données de l’Arcep"
   year: 2019
   promotion: 3
@@ -343,7 +329,6 @@
   link_to: /defis/2019/eiglink.html
   class: 2019 dev design
   skills: EIG 3 // Développement // Design
-  colorback: red
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier ministre, direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
@@ -396,7 +381,6 @@
   link_to: /defis/2019/explocode.html
   class: 2019 datascience
   skills: EIG 3 // Datascience
-  colorback: red
   description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
   promotion: 3
@@ -431,7 +415,6 @@
   link_to: /defis/2019/iaflash.html
   class: 2019 datascience
   skills: EIG 3 // Datascience
-  colorback: red
   description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
   promotion: 3
@@ -482,7 +465,6 @@
   link_to: /defis/2019/karfur.html
   class: 2019 dev design
   skills: EIG 3 // Développement // Design
-  colorback: red
   description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
   promotion: 3
@@ -536,7 +518,6 @@
   source_code: https://github.com/betagouv/leximpact-client
   class: 2019 dev design
   skills: EIG 3 // Développement // Design
-  colorback: red
   description: "Evaluer l’impact des réformes socio-fiscales sur les citoyens"
   year: 2019
   promotion: 3
@@ -562,7 +543,6 @@
   link_to: /defis/2019/openchronic.html
   class: 2019 datascience
   skills: EIG 3 // Datascience
-  colorback: red
   description: Améliorer la prise en charge des malades chroniques
   year: 2019
   promotion: 3
@@ -617,7 +597,6 @@
   link_to: /defis/2019/openjustice.html
   class: 2019 datascience dev
   skills: EIG 3 // Datascience // Développement
-  colorback: red
   description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
   promotion: 3
@@ -674,7 +653,6 @@
   link_to: /defis/2019/plume.html
   class: 2019 datascience développement design
   skills: EIG 3 // Datascience // Développement // Design
-  colorback: red
   description: Transformer les métiers des juridictions financières
   year: 2019
   promotion: 3
@@ -704,7 +682,6 @@
   link_to: /defis/2019/polygraphe.html
   class: 2019 datascience dev
   skills: EIG 3 // Datascience // Développement
-  colorback: red
   year: 2019
   promotion: 3
   duration_months: 10
@@ -742,7 +719,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 8
-  colorback: blue
   eigs:
     - "Marc Bouteiller"
   mentors:
@@ -761,7 +737,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Charlotte Bourcier"
     - "Sarah Lepreux"
@@ -782,7 +757,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Julien Dubedout"
   mentors:
@@ -801,7 +775,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Maxime Beaugrand"
   mentors:
@@ -820,7 +793,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Jérémie Baboukhian"
     - "Élise Sanceaume"
@@ -840,7 +812,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Jean-Edouard Sastre"
   mentors:
@@ -859,7 +830,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Rosine Bernez"
   mentors:
@@ -878,7 +848,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Cécile Canel"
   mentors:
@@ -897,7 +866,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 7
-  colorback: blue
   eigs:
     - "Nicolas Patriarca"
   mentors:
@@ -927,7 +895,6 @@
   link_to: /defis/2019/plateforme-handicap.html
   class: 2019 dig design
   skills: DIG // Design
-  colorback: blue
   description: "Simplifier le parcours des familles dont les enfants sont en situation de handicap"
   administration: "Académie de Clermont-Ferrand, Ministère de l’Éducation Nationale"
   duration_months: 6
@@ -954,7 +921,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Laurent Darellis"
   mentors:
@@ -973,7 +939,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 9
-  colorback: blue
   eigs:
     - "Iris Naudin"
     - "Nicolas Grandjean"
@@ -994,7 +959,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Alexis Deny"
   mentors:
@@ -1044,7 +1008,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Laure Dubuc"
   mentors:
@@ -1088,7 +1051,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Marie Ramon-Daré"
     - "Charlotte Marmet"
@@ -1129,7 +1091,6 @@
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Flavien Colsenet"
   mentors:
@@ -1143,7 +1104,6 @@
   link_to: /defis/2018/archifiltre.html
   class: 2018 datascience dev
   skills: EIG 2 // Datascience // Développement
-  colorback: blue
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
   administration_website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
@@ -1178,7 +1138,6 @@
   link_to: /defis/2018/balisenav.html
   class: 2018 dev
   skills: EIG 2 // Développement
-  colorback: blue
   description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
   year: 2018
   duration_months: 10
@@ -1212,7 +1171,6 @@
   link_to: /defis/2018/brigadenumerique.html
   class: 2018 dev design
   skills: EIG 2 // Développement // Design
-  colorback: blue
   description: "Moderniser la fonction d’accueil en brigade"
   year: 2018
   duration_months: 10
@@ -1248,7 +1206,6 @@
   link_to: /defis/2018/coacheleves.html
   class: 2018 datascience
   skills: EIG 2 // Datascience
-  colorback: blue
   description: "Améliorer la réussite scolaire avec les données d’apprentissage"
   year: 2018
   duration_months: 10
@@ -1281,7 +1238,6 @@
   link_to: /defis/2018/dataesr.html
   class: 2018 datascience dev
   skills: EIG 2 // Datascience // Développement
-  colorback: blue
   description: Révéler tout le potentiel des données de la recherche
   administration: "Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation, Département des outils d’aide à la décision"
   administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
@@ -1317,7 +1273,6 @@
   link_to: /defis/2018/eiglink.html
   class: 2018 dev
   skills: EIG 2 // Développement
-  colorback: blue
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
@@ -1367,7 +1322,6 @@
   link_to: /defis/2018/gobelins.html
   class: 2018 dev design
   skills: EIG 2 // Développement // Design
-  colorback: blue
   description: Révéler les richesses du Mobilier National
   year: 2018
   duration_months: 10
@@ -1420,7 +1374,6 @@
   link_to: /defis/2018/hopkins.html
   class: 2018 datascience
   skills: EIG 2 // Datascience
-  colorback: blue
   description: "Lutter contre la fraude financière et enrayer l’économie souterraine"
   year: 2018
   duration_months: 10
@@ -1456,7 +1409,6 @@
   link_to: /defis/2018/labsante.html
   class: 2018 datascience
   skills: EIG 2 // Datascience
-  colorback: blue
   description: Valoriser les données du système de santé
   year: 2018
   duration_months: 10
@@ -1492,7 +1444,6 @@
   link_to: /defis/2018/donneesauvetagemaritime.html
   class: 2018 datascience dev
   skills: EIG 2 // Datascience // Développement
-  colorback: blue
   description: Sauver des vies en mer en prévenant les accidents maritimes
   year: 2018
   duration_months: 10
@@ -1550,7 +1501,6 @@
   link_to: /defis/2018/previsecours.html
   class: 2018 dev data
   skills: EIG 2 // Développement // Datascience
-  colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: "Ministère de l’Intérieur, Mission de coordination et d’appui à la valorisation des données"
   administration_website: https://www.interieur.gouv.fr
@@ -1606,7 +1556,6 @@
   link_to: /defis/2018/signauxfaibles.html
   class: 2018 datascience dev
   skills: EIG 2 // Datascience // Développement
-  colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
   administration: "Ministère de l’Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
   administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
@@ -1641,7 +1590,6 @@
   link_to: /defis/2018/socialconnect.html
   class: 2018 dev design
   skills: EIG 2 // Développement // Design
-  colorback: blue
   description: "Repérer et mettre en réseau l’innovation sociale dans les territoires"
   year: 2018
   duration_months: 10
@@ -1677,7 +1625,6 @@
   link_to: /defis/2017/afd-geodata.html
   class: 2017 dev
   skills: EIG 1 // Développement
-  colorback: red
   description: Mettre les données ouvertes au service de projets de développement
   year: 2017
   duration_months: 10
@@ -1710,7 +1657,6 @@
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
   class: 2017 datascience dev
   skills: EIG 1 // Datascience // Développement
-  colorback: red
   description: Améliorer l’offre de soin en Occitanie
   year: 2017
   duration_months: 10
@@ -1742,7 +1688,6 @@
   link_to: /defis/2017/bnf-catalogage.html
   class: 2017 dev
   skills: EIG 1 // Développement
-  colorback: red
   description: Créer un nouvel outil de catalogage
   administration: Bibliothèque nationale de France
   administration_website: http://www.bnf.fr
@@ -1769,7 +1714,6 @@
   link_to: /defis/2017/cc-api-rapports.html
   class: 2017 dev
   skills: EIG 1 // Développement
-  colorback: red
   description: Mieux informer les citoyens sur l’emploi de l’argent public
   administration: Cour des comptes
   administration_website: https://www.ccomptes.fr
@@ -1801,7 +1745,6 @@
   link_to: /defis/2017/dgfip-fraude-fiscale.html
   class: 2017 datascience
   skills: EIG 1 // Datascience
-  colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
   year: 2017
   duration_months: 10
@@ -1832,7 +1775,6 @@
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
   class: 2017 dev
   skills: EIG 1 // Développement
-  colorback: red
   description: Révéler et valoriser le patrimoine des orgues
   year: 2017
   duration_months: 10
@@ -1867,7 +1809,6 @@
   link_to: /defis/2017/mesri-magical-merge-machine.html
   class: 2017 dev
   skills: EIG 1 // Développement
-  colorback: red
   description: Automatiser le nettoyage de bases de données
   year: 2017
   duration_months: 10
@@ -1901,7 +1842,6 @@
   link_to: /defis/2017/mi-cartav-securite-routiere.html
   class: 2017 dev data
   skills: EIG 1 // Datascience // Développement
-  colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
   duration_months: 10
@@ -1938,7 +1878,6 @@
   link_to: /defis/2017/mi-matchid.html
   class: 2017 dev data
   skills: EIG 1 // Datascience // Développement
-  colorback: red
   description: Fiabiliser les statistiques de sécurité routière
   administration: "Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/

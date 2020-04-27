@@ -39,6 +39,9 @@ section_id: defis
                 </div>
               </li>
             {% endif %}
+            {% if defi.promotion == promo.promotion %}
+              {% break %}
+            {% endif %}
           {% endfor %}
           <li class='defis {{defi.class}} eig-{{defi.promotion}}'>
             <a href='{{defi.link_to}}'>
@@ -46,7 +49,7 @@ section_id: defis
               <h2 class="title">{{ defi.title }}</h2>
               <p class="description">{{ defi.description }}</p>
               <p class="skills">{{ defi.skills }}</p>
-              <div class='overlay defis_overlay-{{ defi.colorback }}'>
+              <div class='overlay defis_overlay-{{ promo.colorback }}'>
                 <div class='thumb-info'>
                   <h3 class="mt-0">{{ defi.title }}</h3>
                   <p class="thumb_description">{{ defi.description }}</p>
