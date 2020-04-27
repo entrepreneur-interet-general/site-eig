@@ -81,6 +81,15 @@ layout: default
 
       {{ content }}
 
+      {% if defi_data.eigs.size == 0 %}
+      <div class="two spacing"></div>
+      <a class="button small" href="/defis.html" title="Liste des défis">
+        <i class="fa fa-backward" title="Retour"></i> Voir les autres défis
+      </a>
+      <a class="button small" href="#">
+        <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Candidater
+      </a>
+      {% endif %}
 
       {% if defi_data.key_figures %}
       <div class="two spacing"></div>
