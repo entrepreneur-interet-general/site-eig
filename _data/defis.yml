@@ -16,6 +16,25 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"DataMed":
+  image: /img/eig4/datamed.png
+  title: DataMed
+  link_to: /defis/2020/datamed.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Accompanger l'ouverture des données sur les médicaments
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Agence nationale de sécurité des médicaments et des produits de santé
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Emilie Fauchier-Magnan"
+    - "Florent Robic"
+    - "Mehdi Benkebil"
+
 "CapQualif":
   image: /img/eig4/capqualif.png
   title: CapQualif
