@@ -1,5 +1,6 @@
 "DIG":
   image: /img/icone-eig-white.png
+  slug: DIG
   title: Les défis DIG
   promotion: dig
   class: 2019 dig
@@ -8,6 +9,7 @@
 
 "EIG 4":
   image: /img/icone-eig-white.png
+  slug: EIG 4
   title: Les défis EIG 4
   promotion: 4
   class: 2020 eig-4
@@ -16,6 +18,7 @@
 
 "EIG 3":
   image: /img/icone-eig-white.png
+  slug: EIG 3
   title: Les défis EIG 3
   promotion: 3
   class: 2019 eig-3
@@ -24,6 +27,7 @@
 
 "EIG 2":
   image: /img/icone-eig-white.png
+  slug: EIG 2
   title: Les défis EIG 2
   promotion: 2
   class: 2018 eig-2
@@ -32,6 +36,7 @@
 
 "EIG 1":
   image: /img/icone-eig-white.png
+  slug: EIG 1
   title: Les défis EIG 1
   promotion: 1
   class: 2017 eig-1

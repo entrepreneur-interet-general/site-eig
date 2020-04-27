@@ -21,8 +21,12 @@ section_id: defis
           <li><a data-cat='eig-3' href='#'>EIG 3</a></li>
           <li><a data-cat='eig-4' href='#'>EIG 4</a></li>
           <li><a data-cat='dig' href='#'>DIG</a></li>
+        </ul>
+        <ul>
           <li><a data-cat='datascience' href='#'>Datascience</a></li>
+          <li><a data-cat='dataengineering' href='#'>Data engineering</a></li>
           <li><a data-cat='dev' href='#'>Développement</a></li>
+          <li><a data-cat='geomatique' href='#'>Géomatique</a></li>
           <li><a data-cat='design' href='#'>Design</a></li>
         </ul>
       </div>
@@ -43,12 +47,24 @@ section_id: defis
               {% break %}
             {% endif %}
           {% endfor %}
-          <li class='defis {{defi.class}} eig-{{defi.promotion}}'>
+          <li class='defis {{ defi.skills | join: " "}} eig-{{defi.promotion}}'>
             <a href='{{defi.link_to}}'>
               <img alt="{{defi.title}}" class="image" src="{{defi.image}}" />
               <h2 class="title">{{ defi.title }}</h2>
               <p class="description">{{ defi.description }}</p>
-              <p class="skills">{{ defi.skills }}</p>
+              <p class="skills">
+                {{ promo.slug }}
+                {% for skill in defi.skills %}
+                //
+                  {% case skill %}
+                  {% when 'dev' %}Développement
+                  {% when 'design' %}Design
+                  {% when 'datascience' %}Datasience
+                  {% when 'geomatique' %}Géomatique
+                  {% when 'dataengineering' %}Data engineering
+                  {% endcase %}
+                {% endfor %}
+              </p>
               <div class='overlay defis_overlay-{{ promo.colorback }}'>
                 <div class='thumb-info'>
                   <h3 class="mt-0">{{ defi.title }}</h3>

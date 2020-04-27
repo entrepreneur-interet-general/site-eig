@@ -22,7 +22,6 @@ class TestDefis(BaseTest):
             "image",
             "title",
             "link_to",
-            "class",
             "skills",
             "description",
             "administration",
