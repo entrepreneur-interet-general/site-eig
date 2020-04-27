@@ -248,6 +248,22 @@
     - "Damien Clément"
     - "Daniel Delalande"
 
+"SSP Datalab":
+  image: /img/eig4/ssp-datalab.png
+  title: SSP Datalab
+  link_to: /defis/2020/ssp-datalab.html
+  skills: ["dev", "design", "dataengineering"]
+  description: Améliorer la statistique publique à l’aide de nouvelles techniques et outils de traitement de données
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Institut national de la statistique et des études économiques
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Frédéric Comte"
+    - "Arnaud Degorre"
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
