@@ -15,6 +15,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"LABEL":
+  image: /img/eig4/label.png
+  title: LABEL
+  link_to: /defis/2020/label.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Accélérer l'ouverture des décisions de justice
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Cour de Cassation
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Estelle Jond-Necand"
+    - "Claire Herbin"
+    - "Jean-Michel Sommer"
+
 "France Transition":
   image: /img/eig4/france-transition.png
   title: France Transition
