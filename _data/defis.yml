@@ -35,6 +35,23 @@
     - "Florent Robic"
     - "Mehdi Benkebil"
 
+"EIG Link 2020":
+  image: /img/eig4/eig-link.png
+  title: EIG Link
+  link_to: /defis/2020/eig-link.html
+  class: 2020 dev design
+  skills: EIG 4 // Développement // Design
+  colorback: red
+  description: Assurer la réussite de la promotion EIG 4
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction interministérielle du numérique
+  administration_website: https://numerique.gouv.fr
+  eigs: []
+  mentors:
+    - "Soizic Pénicaud"
+
 "CapQualif":
   image: /img/eig4/capqualif.png
   title: CapQualif

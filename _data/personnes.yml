@@ -3221,10 +3221,14 @@ Soizic Pénicaud:
   annees:
   - 2017
   - 2018
+  - 2019
+  - 2020
   class:
   - eig-1
   - eig-2
-  defis: ["EIG Link 2019"]
+  - eig-3
+  - eig-4
+  defis: ["EIG Link 2019", "EIG Link 2020"]
   github: soizicpenicaud
   gitlab:
   image_url: /img/communaute/soizic_penicaud.jpg
