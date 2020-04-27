@@ -16,6 +16,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"Consolidex":
+  image: /img/eig4/consolidex.png
+  title: Consolidex
+  link_to: /defis/2020/consolidex.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Faciliter le contrôle environnemental des sites industriels
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Alexandre Leonardi"
+    - "Cédric Bourillet"
+
 "DataMed":
   image: /img/eig4/datamed.png
   title: DataMed
