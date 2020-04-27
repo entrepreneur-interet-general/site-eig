@@ -16,6 +16,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"NexSIS":
+  image: /img/eig4/nexsis.png
+  title: NexSIS
+  link_to: /defis/2020/nexsis.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Mieux informer les autorités et services d'urgence lors d'une crise
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Agence du Numérique de la Sécurité Civile
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "David Vigier"
+    - "Michel Monneret"
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme

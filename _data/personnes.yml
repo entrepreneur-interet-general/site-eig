@@ -1,3 +1,22 @@
+Michel Monneret:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - NexSIS
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/michel-monneret.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Michel Monneret
+  twitter:
+  website:
+
 Franck Jolivaldt:
   annees:
   - 2020
@@ -777,11 +796,14 @@ David Panou:
 David Vigier:
   annees:
   - 2019
+  - 2020
   class:
   - dig
+  - eig4
   - mentor
   defis:
   - App 112
+  - NexSIS
   github:
   gitlab:
   image_url: /img/communaute/sans-photo.png

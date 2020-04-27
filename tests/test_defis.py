@@ -134,7 +134,7 @@ class TestDefis(BaseTest):
             # TODO: don't skip for EIG 1
             if content["promotion"] == 1:
                 continue
-            personnes_defi = content.get("eigs", [])
+            personnes_defi = content["eigs"]
             personnes_defi.extend(content["mentors"])
             self.assertSetEqual(
                 set(personnes_defi),
