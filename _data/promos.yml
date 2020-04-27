@@ -4,6 +4,12 @@
   class: 2019 dig
   defi: "AchaDef"
 
+"EIG 4":
+  image: /img/icone-eig-white.png
+  title: Les défis EIG 4
+  class: 2020 eig-4
+  defi: ADEX
+
 "EIG 3":
   image: /img/icone-eig-white.png
   title: Les défis EIG 3

@@ -1,9 +1,27 @@
+"ADEX":
+  image: /img/eig4/adex.png
+  title: ADEX
+  link_to: /defis/2020/adex.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Prévenir les conflits d'intérêts dans le domaine médical
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Haute Autorité de Santé
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Marie Simon"
+    - "Franck Jolivaldt"
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
   link_to: /defis/2019/acossplateforme.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
+  class: 2019 dev design
+  skills: EIG 3 // Développement // Design
   colorback: red
   description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
@@ -28,8 +46,8 @@
   image: /img/logo-adler.png
   title: ADLER
   link_to: /defis/2019/adler.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 datascience dev
+  skills: EIG 3 // Datascience // Développement
   colorback: red
   description: Lutter contre les comportements financiers illicites
   year: 2019
@@ -53,8 +71,8 @@
   image: /img/logo-cartobio.png
   title: CartoBio
   link_to: /defis/2019/cartobio.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 datascience dev
+  skills: EIG 3 // Datascience // Développement
   colorback: red
   description: "Cartographier les parcelles cultivées en agriculture biologique"
   year: 2019
@@ -79,8 +97,8 @@
   image: /img/logo-cib-nav.png
   title: CibNav
   link_to: /defis/2019/cibnav.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 datascience dev
+  skills: EIG 3 // Datascience // Développement
   colorback: red
   description: Aider au contrôle des navires professionnels
   year: 2019
@@ -131,8 +149,8 @@
   image: /img/logo-themis.png
   title: DataJust
   link_to: /defis/2019/datajust.html
-  class: 2019 data
-  skills: EIG 3 // Data
+  class: 2019 datascience
+  skills: EIG 3 // Datascience
   colorback: red
   description: "Construire un référentiel d’indemnisation des préjudices corporels"
   year: 2019
@@ -168,8 +186,8 @@
   image: /img/logo-datareg.png
   title: DataReg
   link_to: /defis/2019/datareg.html
-  class: 2019 data
-  skills: EIG 3 // Data
+  class: 2019 datascience
+  skills: EIG 3 // Datascience
   colorback: red
   description: "Maximiser l’exploitation des données de l’Arcep"
   year: 2019
@@ -195,8 +213,8 @@
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2019/eiglink.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
+  class: 2019 dev design
+  skills: EIG 3 // Développement // Design
   colorback: red
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier ministre, direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
@@ -248,8 +266,8 @@
   image: /img/logo-explocode.png
   title: ExploCode
   link_to: /defis/2019/explocode.html
-  class: 2019 data
-  skills: EIG 3 // Data
+  class: 2019 datascience
+  skills: EIG 3 // Datascience
   colorback: red
   description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
@@ -283,8 +301,8 @@
   image: /img/logo-ia-flash.png
   title: IA Flash
   link_to: /defis/2019/iaflash.html
-  class: 2019 data
-  skills: EIG 3 // Data
+  class: 2019 datascience
+  skills: EIG 3 // Datascience
   colorback: red
   description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
@@ -334,8 +352,8 @@
   image: /img/logo-karfur.png
   title: "Karfu’R"
   link_to: /defis/2019/karfur.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
+  class: 2019 dev design
+  skills: EIG 3 // Développement // Design
   colorback: red
   description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
@@ -388,8 +406,8 @@
   title: LexImpact
   link_to: /defis/2019/leximpact.html
   source_code: https://github.com/betagouv/leximpact-client
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
+  class: 2019 dev design
+  skills: EIG 3 // Développement // Design
   colorback: red
   description: "Evaluer l’impact des réformes socio-fiscales sur les citoyens"
   year: 2019
@@ -414,8 +432,8 @@
   image: /img/logo-open-chronic.png
   title: Open Chronic
   link_to: /defis/2019/openchronic.html
-  class: 2019 data
-  skills: EIG 3 // Data
+  class: 2019 datascience
+  skills: EIG 3 // Datascience
   colorback: red
   description: Améliorer la prise en charge des malades chroniques
   year: 2019
@@ -469,8 +487,8 @@
   image: /img/logo-open-justice.png
   title: Open Justice
   link_to: /defis/2019/openjustice.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 datascience dev
+  skills: EIG 3 // Datascience // Développement
   colorback: red
   description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
@@ -526,8 +544,8 @@
   image: /img/logo-plume.png
   title: Plume
   link_to: /defis/2019/plume.html
-  class: 2019 data web design
-  skills: EIG 3 // Data // Web // Design
+  class: 2019 datascience développement design
+  skills: EIG 3 // Datascience // Développement // Design
   colorback: red
   description: Transformer les métiers des juridictions financières
   year: 2019
@@ -556,8 +574,8 @@
   image: /img/logo-polygraphe.png
   title: Polygraphe
   link_to: /defis/2019/polygraphe.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
+  class: 2019 datascience dev
+  skills: EIG 3 // Datascience // Développement
   colorback: red
   year: 2019
   promotion: 3
@@ -774,7 +792,7 @@
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
       url: /docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
       call_to_action: "Voir le logigramme"
-      
+
 "Plateforme Handicap":
   image: /img/defis/dig/Plateforme-Handicap.png
   title: "Plateforme Handicap"
@@ -873,7 +891,7 @@
       title: "Prototype web"
       description: "Prototype réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen
-      call_to_action: "Découvrir la version Web"
+      call_to_action: "Découvrir la version web"
     - image: img/realisations/2019/RembourSante_ProtoMobile.png
       title: "Prototype mobile"
       description: "Prototype mobile réalisé pour mener les tests utilisateurs"
@@ -969,7 +987,7 @@
       title: "Cas d’usages"
       description: "À partir de la recherche utilisateur et des besoins identifiés, plusieurs parcours ont été améliorés et maquettés avec les équipes projets."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_cas-d-usages.pdf
-      call_to_action: "Parcourir les cas d'usages"  
+      call_to_action: "Parcourir les cas d'usages"
 
 "Vigicr’UX":
   image: /img/defis/dig/VigicrUX.png
@@ -995,8 +1013,8 @@
   image: /img/defis/9_ARCHEMSE.png
   title: Archifiltre
   link_to: /defis/2018/archifiltre.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
+  class: 2018 datascience dev
+  skills: EIG 2 // Datascience // Développement
   colorback: blue
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
@@ -1030,8 +1048,8 @@
   image: /img/defis/5_balisage.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
-  class: 2018 web
-  skills: EIG 2 // Web
+  class: 2018 dev
+  skills: EIG 2 // Développement
   colorback: blue
   description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
   year: 2018
@@ -1064,8 +1082,8 @@
   image: /img/defis/10_brigadenumerique.png
   title: Brigade Numérique
   link_to: /defis/2018/brigadenumerique.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
+  class: 2018 dev design
+  skills: EIG 2 // Développement // Design
   colorback: blue
   description: "Moderniser la fonction d’accueil en brigade"
   year: 2018
@@ -1100,8 +1118,8 @@
   image: /img/defis/12_CoachElevesAssistProf.png
   title: CoachÉlèves
   link_to: /defis/2018/coacheleves.html
-  class: 2018 data
-  skills: EIG 2 // Data
+  class: 2018 datascience
+  skills: EIG 2 // Datascience
   colorback: blue
   description: "Améliorer la réussite scolaire avec les données d’apprentissage"
   year: 2018
@@ -1133,8 +1151,8 @@
   image: /img/defis/13_dataESR.png
   title: DataESR
   link_to: /defis/2018/dataesr.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
+  class: 2018 datascience dev
+  skills: EIG 2 // Datascience // Développement
   colorback: blue
   description: Révéler tout le potentiel des données de la recherche
   administration: "Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation, Département des outils d’aide à la décision"
@@ -1169,8 +1187,8 @@
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2018/eiglink.html
-  class: 2018 web
-  skills: EIG 2 // Web
+  class: 2018 dev
+  skills: EIG 2 // Développement
   colorback: blue
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
@@ -1219,8 +1237,8 @@
   image: /img/defis/3_ Mobilier national.png
   title: Gobelins
   link_to: /defis/2018/gobelins.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
+  class: 2018 dev design
+  skills: EIG 2 // Développement // Design
   colorback: blue
   description: Révéler les richesses du Mobilier National
   year: 2018
@@ -1272,8 +1290,8 @@
   image: /img/defis/7_MACP.png
   title: Hopkins
   link_to: /defis/2018/hopkins.html
-  class: 2018 data
-  skills: EIG 2 // Data
+  class: 2018 datascience
+  skills: EIG 2 // Datascience
   colorback: blue
   description: "Lutter contre la fraude financière et enrayer l’économie souterraine"
   year: 2018
@@ -1308,8 +1326,8 @@
   image: /img/defis/2_Labsanté.png
   title: Lab Santé
   link_to: /defis/2018/labsante.html
-  class: 2018 data
-  skills: EIG 2 // Data
+  class: 2018 datascience
+  skills: EIG 2 // Datascience
   colorback: blue
   description: Valoriser les données du système de santé
   year: 2018
@@ -1344,8 +1362,8 @@
   image: /img/defis/1_MTES.png
   title: PrédiSauvetage
   link_to: /defis/2018/donneesauvetagemaritime.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
+  class: 2018 datascience dev
+  skills: EIG 2 // Datascience // Développement
   colorback: blue
   description: Sauver des vies en mer en prévenant les accidents maritimes
   year: 2018
@@ -1402,8 +1420,8 @@
   image: /img/defis/4_Previsecours.png
   title: Prévisecours
   link_to: /defis/2018/previsecours.html
-  class: 2018 web data
-  skills: EIG 2 // Web // Data
+  class: 2018 dev data
+  skills: EIG 2 // Développement // Datascience
   colorback: blue
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: "Ministère de l’Intérieur, Mission de coordination et d’appui à la valorisation des données"
@@ -1458,8 +1476,8 @@
   image: /img/defis/6_Signauxfaibles.png
   title: Signaux Faibles
   link_to: /defis/2018/signauxfaibles.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
+  class: 2018 datascience dev
+  skills: EIG 2 // Datascience // Développement
   colorback: blue
   description: Détecter les entreprises en difficulté pour mieux les accompagner
   administration: "Ministère de l’Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
@@ -1493,8 +1511,8 @@
   image: /img/defis/8_CGET.png
   title: "Social Connect"
   link_to: /defis/2018/socialconnect.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
+  class: 2018 dev design
+  skills: EIG 2 // Développement // Design
   colorback: blue
   description: "Repérer et mettre en réseau l’innovation sociale dans les territoires"
   year: 2018
@@ -1529,8 +1547,8 @@
   image: /img/icone-eig.png
   title: AFD - Geodata
   link_to: /defis/2017/afd-geodata.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 dev
+  skills: EIG 1 // Développement
   colorback: red
   description: Mettre les données ouvertes au service de projets de développement
   year: 2017
@@ -1562,8 +1580,8 @@
   image: /img/icone-eig.png
   title: ARS - Parcours de soin
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
-  class: 2017 data web
-  skills: EIG 1 // Data // Web
+  class: 2017 datascience dev
+  skills: EIG 1 // Datascience // Développement
   colorback: red
   description: Améliorer l’offre de soin en Occitanie
   year: 2017
@@ -1594,8 +1612,8 @@
   image: /img/icone-eig.png
   title: BNF - catalogage
   link_to: /defis/2017/bnf-catalogage.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 dev
+  skills: EIG 1 // Développement
   colorback: red
   description: Créer un nouvel outil de catalogage
   administration: Bibliothèque nationale de France
@@ -1621,8 +1639,8 @@
   image: /img/icone-eig.png
   title: CC - API rapports
   link_to: /defis/2017/cc-api-rapports.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 dev
+  skills: EIG 1 // Développement
   colorback: red
   description: Mieux informer les citoyens sur l’emploi de l’argent public
   administration: Cour des comptes
@@ -1653,8 +1671,8 @@
   image: /img/icone-eig.png
   title: DGFiP - fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
-  class: 2017 data
-  skills: EIG 1 // Data
+  class: 2017 datascience
+  skills: EIG 1 // Datascience
   colorback: red
   description: Identifier les résidents fiscaux français ayant omis de déclarer
   year: 2017
@@ -1684,8 +1702,8 @@
   image: /img/icone-eig.png
   title: MCC - Inventaire des orgues
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 dev
+  skills: EIG 1 // Développement
   colorback: red
   description: Révéler et valoriser le patrimoine des orgues
   year: 2017
@@ -1719,8 +1737,8 @@
   image: /img/icone-eig.png
   title: MESRI - La machine à données
   link_to: /defis/2017/mesri-magical-merge-machine.html
-  class: 2017 web
-  skills: EIG 1 // Web
+  class: 2017 dev
+  skills: EIG 1 // Développement
   colorback: red
   description: Automatiser le nettoyage de bases de données
   year: 2017
@@ -1753,8 +1771,8 @@
   image: /img/icone-eig.png
   title: MI - cartAV
   link_to: /defis/2017/mi-cartav-securite-routiere.html
-  class: 2017 web data
-  skills: EIG 1 // Data // Web
+  class: 2017 dev data
+  skills: EIG 1 // Datascience // Développement
   colorback: red
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
@@ -1790,8 +1808,8 @@
   image: /img/icone-eig.png
   title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
-  class: 2017 web data
-  skills: EIG 1 // Data // Web
+  class: 2017 dev data
+  skills: EIG 1 // Datascience // Développement
   colorback: red
   description: Fiabiliser les statistiques de sécurité routière
   administration: "Ministère de l’Intérieur"
