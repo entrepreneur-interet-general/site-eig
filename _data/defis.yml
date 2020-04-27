@@ -15,6 +15,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"MonitorFish":
+  image: /img/eig4/monitorfish.png
+  title: MonitorFish
+  link_to: /defis/2020/monitorfish.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Améliorer le contrôle des activités des navires de pêche
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Centre national de surveillance des pêches
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Céline Guillou"
+    - "Célia d'Hervé"
+    - "Thierry Coquil"
+
 "LABEL":
   image: /img/eig4/label.png
   title: LABEL

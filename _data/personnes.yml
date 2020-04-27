@@ -1,3 +1,60 @@
+Céline Guillou:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - MonitorFish
+  github:
+  gitlab:
+  image_url: /img/communaute/celine-guillou.jpg
+  link_to: /communaute/2020/celine-guillou.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Céline Guillou
+  twitter:
+  website:
+
+"Célia d'Hervé":
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - MonitorFish
+  github:
+  gitlab:
+  image_url: /img/communaute/celia-dherve.png
+  link_to: /communaute/2020/celia-dherve.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: "Célia d'Hervé"
+  twitter:
+  website:
+
+"Thierry Coquil":
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - MonitorFish
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/thierry-coquil.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: "Thierry Coquil"
+  twitter:
+  website:
+
 Estelle Jond-Necand:
   annees:
   - 2020
@@ -16,6 +73,7 @@ Estelle Jond-Necand:
   title: Estelle Jond-Necand
   twitter:
   website:
+
 Claire Herbin:
   annees:
   - 2020
