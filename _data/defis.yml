@@ -214,6 +214,23 @@
     - "Denis Daviau"
     - "Stéphane Tollemer"
 
+"SEDAccord":
+  image: /img/eig4/sedaccord.png
+  title: SEDAccord
+  link_to: /defis/2020/sedaccord.html
+  skills: ["dev", "design"]
+  description: Faciliter la collecte des archives numériques publiques
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Programme interministériel d'archivage numérique
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Méline Cournil"
+    - "Marion Ville"
+    - "Romain Delassus"
+
 "SIANCE":
   image: /img/eig4/siance.png
   title: SIANCE
