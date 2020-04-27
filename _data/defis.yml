@@ -16,6 +16,25 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"SIANCE":
+  image: /img/eig4/siance.png
+  title: SIANCE
+  link_to: /defis/2020/siance.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  colorback: red
+  description: Améliorer le contrôle des activités nucléaires
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Autorité de sûreté nucléaire
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Dominique Boina"
+    - "Damien Clément"
+    - "Daniel Delalande"
+
 "NexSIS":
   image: /img/eig4/nexsis.png
   title: NexSIS
