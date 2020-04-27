@@ -33,6 +33,24 @@
     - "Célia d'Hervé"
     - "Thierry Coquil"
 
+"Open Collectivités":
+  image: /img/eig4/open-collectivites.png
+  title: Open Collectivités
+  link_to: /defis/2020/open-collectivites.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Simplifier l’accès aux informations financières et statistiques des collectivités locales
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction générale des collectivités locales
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Luc Brière"
+    - "Raphaël Bévenot"
+    - "Stéphane Brunot"
+
 "NEOTac":
   image: /img/eig4/neotac.png
   title: NEOTac
