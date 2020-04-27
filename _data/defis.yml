@@ -33,6 +33,24 @@
     - "Célia d'Hervé"
     - "Thierry Coquil"
 
+"NEOTac":
+  image: /img/eig4/neotac.png
+  title: NEOTac
+  link_to: /defis/2020/neotac.html
+  class: 2020 dev design
+  skills: EIG 4 // TODO
+  description: Traiter de manière efficace les situations d'urgence
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  administration: Direction Générale de la Gendarmerie Nationale
+  administration_website: https://www.example.com
+  eigs: []
+  mentors:
+    - "Thierry Hieber"
+    - "Marjory Canonne"
+    - "Vincent Barbey"
+
 "LABEL":
   image: /img/eig4/label.png
   title: LABEL
