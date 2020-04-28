@@ -7,7 +7,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "93200 Saint-Denis"
+  ville: "Saint-Denis (93200)"
   administration: Haute Autorité de Santé
   administration_website: https://www.has-sante.fr
   eigs: []
@@ -24,7 +24,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "92400 La Défense"
+  ville: "La Défense (92400)"
   administration: Direction des affaires maritimes
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   eigs: []
@@ -42,7 +42,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "94307 Vincennes"
+  ville: "Vincennes (94307)"
   administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
   administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
   eigs: []
@@ -59,7 +59,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "93200 Saint-Denis"
+  ville: "Saint-Denis (93200)"
   administration: Agence nationale de sécurité des médicaments et des produits de santé
   administration_website: https://ansm.sante.fr
   eigs: []
@@ -77,7 +77,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75012 Paris"
+  ville: "Paris (75012)"
   administration: Direction du budget
   administration_website: https://www.economie.gouv.fr/direction-du-budget-db
   eigs: []
@@ -94,7 +94,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75007 Paris"
+  ville: "Paris (75007)"
   administration: Direction interministérielle du numérique
   administration_website: https://numerique.gouv.fr
   eigs: []
@@ -110,7 +110,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "92400 La Défense"
+  ville: "La Défense (92400)"
   administration: Commissariat général au développement durable
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   eigs: []
@@ -128,7 +128,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75001 Paris"
+  ville: "Paris (75001)"
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
   eigs: []
@@ -146,7 +146,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "56410 Étel"
+  ville: "Étel (56410)"
   administration: Centre national de surveillance des pêches
   administration_website: http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/surveillance-et-controle-des-peches-r168.html
   eigs: []
@@ -164,7 +164,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "92130 Issy-les-Moulineaux"
+  ville: "Issy-les-Moulineaux (92130)"
   administration: Direction Générale de la Gendarmerie Nationale
   administration_website: https://www.gendarmerie.interieur.gouv.fr
   eigs: []
@@ -182,7 +182,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75013 Paris"
+  ville: "Paris (75013)"
   administration: Agence du Numérique de la Sécurité Civile
   administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   eigs: []
@@ -199,7 +199,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75008 Paris"
+  ville: "Paris (75008)"
   administration: Direction générale des collectivités locales
   administration_website: https://www.collectivites-locales.gouv.fr
   eigs: []
@@ -217,7 +217,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "75017 Paris"
+  ville: "Paris (75017)"
   administration: Brigade de Sapeurs-Pompiers de Paris
   administration_website: https://www.pompiersparis.fr
   eigs: []
@@ -253,7 +253,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "92120 Montrouge"
+  ville: "Montrouge (92120)"
   administration: Autorité de sûreté nucléaire
   administration_website: https://www.asn.fr
   eigs: []
@@ -271,7 +271,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "92120 Montrouge"
+  ville: "Montrouge (92120)"
   administration: Institut national de la statistique et des études économiques
   administration_website: https://www.insee.fr
   eigs: []
