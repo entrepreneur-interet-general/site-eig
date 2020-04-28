@@ -8,7 +8,7 @@
   promotion: 4
   duration_months: 10
   administration: Haute Autorité de Santé
-  administration_website: https://www.example.com
+  administration_website: https://www.has-sante.fr
   eigs: []
   mentors:
     - "Marie Simon"
@@ -24,7 +24,7 @@
   promotion: 4
   duration_months: 10
   administration: Direction des affaires maritimes
-  administration_website: https://www.example.com
+  administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   eigs: []
   mentors:
     - "Nicolas Singellos"
@@ -41,7 +41,7 @@
   promotion: 4
   duration_months: 10
   administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
-  administration_website: https://www.example.com
+  administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
   eigs: []
   mentors:
     - "Alexandre Leonardi"
@@ -57,7 +57,7 @@
   promotion: 4
   duration_months: 10
   administration: Agence nationale de sécurité des médicaments et des produits de santé
-  administration_website: https://www.example.com
+  administration_website: https://ansm.sante.fr
   eigs: []
   mentors:
     - "Emilie Fauchier-Magnan"
@@ -74,7 +74,7 @@
   promotion: 4
   duration_months: 10
   administration: Direction du budget
-  administration_website: https://www.example.com
+  administration_website: https://www.economie.gouv.fr/direction-du-budget-db
   eigs: []
   mentors:
     - "René Carlet"
@@ -105,7 +105,7 @@
   promotion: 4
   duration_months: 10
   administration: Commissariat général au développement durable
-  administration_website: https://www.example.com
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   eigs: []
   mentors:
     - "Clément Bultheel"
@@ -122,7 +122,7 @@
   promotion: 4
   duration_months: 10
   administration: Cour de Cassation
-  administration_website: https://www.example.com
+  administration_website: https://www.courdecassation.fr
   eigs: []
   mentors:
     - "Estelle Jond-Necand"
@@ -139,7 +139,7 @@
   promotion: 4
   duration_months: 10
   administration: Centre national de surveillance des pêches
-  administration_website: https://www.example.com
+  administration_website: http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/surveillance-et-controle-des-peches-r168.html
   eigs: []
   mentors:
     - "Céline Guillou"
@@ -156,7 +156,7 @@
   promotion: 4
   duration_months: 10
   administration: Direction Générale de la Gendarmerie Nationale
-  administration_website: https://www.example.com
+  administration_website: https://www.gendarmerie.interieur.gouv.fr
   eigs: []
   mentors:
     - "Thierry Hieber"
@@ -173,7 +173,7 @@
   promotion: 4
   duration_months: 10
   administration: Agence du Numérique de la Sécurité Civile
-  administration_website: https://www.example.com
+  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   eigs: []
   mentors:
     - "David Vigier"
@@ -189,7 +189,7 @@
   promotion: 4
   duration_months: 10
   administration: Direction générale des collectivités locales
-  administration_website: https://www.example.com
+  administration_website: https://www.collectivites-locales.gouv.fr
   eigs: []
   mentors:
     - "Luc Brière"
@@ -206,7 +206,7 @@
   promotion: 4
   duration_months: 10
   administration: Brigade de Sapeurs-Pompiers de Paris
-  administration_website: https://www.example.com
+  administration_website: https://www.pompiersparis.fr
   eigs: []
   mentors:
     - "Nicolas Mallejac"
@@ -223,7 +223,7 @@
   promotion: 4
   duration_months: 10
   administration: Programme interministériel d'archivage numérique
-  administration_website: https://www.example.com
+  administration_website: https://www.programmevitam.fr
   eigs: []
   mentors:
     - "Méline Cournil"
@@ -240,7 +240,7 @@
   promotion: 4
   duration_months: 10
   administration: Autorité de sûreté nucléaire
-  administration_website: https://www.example.com
+  administration_website: https://www.asn.fr
   eigs: []
   mentors:
     - "Dominique Boina"
@@ -257,7 +257,7 @@
   promotion: 4
   duration_months: 10
   administration: Institut national de la statistique et des études économiques
-  administration_website: https://www.example.com
+  administration_website: https://www.insee.fr
   eigs: []
   mentors:
     - "Frédéric Comte"
