@@ -25,6 +25,9 @@ layout: default
         <i class="fa fa-building" title="Administration de rattachement"></i>
         <span class="sr-only">Administration de rattachement :</span>
         <a href='{{ defi_data.administration_website }}' target='new'>{{ defi_data.administration }}</a>
+        {% if defi_data.ville %}
+        - <i class="fa fa-map-marker" title="Emplacement"></i> {{ defi_data.ville }}
+        {% endif %}
       </div>
       <div class="metadata">
         <i class="fa fa-calendar" title="Année et durée"></i>

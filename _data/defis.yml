@@ -7,6 +7,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "93200 Saint-Denis"
   administration: Haute Autorité de Santé
   administration_website: https://www.has-sante.fr
   eigs: []
@@ -23,6 +24,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "92400 La Défense"
   administration: Direction des affaires maritimes
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
   eigs: []
@@ -40,6 +42,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "94307 Vincennes"
   administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
   administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
   eigs: []
@@ -56,6 +59,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "93200 Saint-Denis"
   administration: Agence nationale de sécurité des médicaments et des produits de santé
   administration_website: https://ansm.sante.fr
   eigs: []
@@ -73,6 +77,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75012 Paris"
   administration: Direction du budget
   administration_website: https://www.economie.gouv.fr/direction-du-budget-db
   eigs: []
@@ -89,6 +94,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75007 Paris"
   administration: Direction interministérielle du numérique
   administration_website: https://numerique.gouv.fr
   eigs: []
@@ -104,6 +110,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "92400 La Défense"
   administration: Commissariat général au développement durable
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   eigs: []
@@ -121,6 +128,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75001 Paris"
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
   eigs: []
@@ -138,6 +146,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "56410 Étel"
   administration: Centre national de surveillance des pêches
   administration_website: http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/surveillance-et-controle-des-peches-r168.html
   eigs: []
@@ -155,6 +164,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "92130 Issy-les-Moulineaux"
   administration: Direction Générale de la Gendarmerie Nationale
   administration_website: https://www.gendarmerie.interieur.gouv.fr
   eigs: []
@@ -172,6 +182,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75013 Paris"
   administration: Agence du Numérique de la Sécurité Civile
   administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   eigs: []
@@ -188,6 +199,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75008 Paris"
   administration: Direction générale des collectivités locales
   administration_website: https://www.collectivites-locales.gouv.fr
   eigs: []
@@ -205,6 +217,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "75017 Paris"
   administration: Brigade de Sapeurs-Pompiers de Paris
   administration_website: https://www.pompiersparis.fr
   eigs: []
@@ -222,6 +235,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "Paris"
   administration: Programme interministériel d'archivage numérique
   administration_website: https://www.programmevitam.fr
   eigs: []
@@ -239,6 +253,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "92120 Montrouge"
   administration: Autorité de sûreté nucléaire
   administration_website: https://www.asn.fr
   eigs: []
@@ -256,6 +271,7 @@
   year: 2020
   promotion: 4
   duration_months: 10
+  ville: "92120 Montrouge"
   administration: Institut national de la statistique et des études économiques
   administration_website: https://www.insee.fr
   eigs: []
