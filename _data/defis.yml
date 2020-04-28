@@ -51,7 +51,7 @@
   image: /img/eig4/datamed.png
   title: DataMed
   link_to: /defis/2020/datamed.html
-  skills: ["dev", "design", "dataengineering"]
+  skills: ["dev", "design", "dataengineering", "datascience"]
   description: Accompanger l'ouverture des données sur les médicaments
   year: 2020
   promotion: 4
@@ -133,7 +133,7 @@
   image: /img/eig4/monitorfish.png
   title: MonitorFish
   link_to: /defis/2020/monitorfish.html
-  skills: ["dev", "design", "datascience"]
+  skills: ["dev", "design", "datascience", "geomatique"]
   description: Améliorer le contrôle des activités des navires de pêche
   year: 2020
   promotion: 4
@@ -150,7 +150,7 @@
   image: /img/eig4/neotac.png
   title: NEOTac
   link_to: /defis/2020/neotac.html
-  skills: ["dev", "design", "datascience"]
+  skills: ["dev", "design", "datascience", "geomatique"]
   description: Traiter de manière efficace les situations d'urgence
   year: 2020
   promotion: 4
