@@ -82,11 +82,16 @@ layout: default
       {{ content }}
 
       {% if defi_data.eigs.size == 0 %}
+      <p>
+        <i>
+          Ces compétences techniques sont l’un des éléments d’appréciation d’une candidature. Les critères de sélection sont détaillés <a href="/candidature-eig.html" title="Page de candidature">sur la page de candidature</a>.
+        </i>
+      </p>
       <div class="two spacing"></div>
       <a class="button small" href="/defis.html" title="Liste des défis">
         <i class="fa fa-backward" title="Retour"></i> Voir les autres défis
       </a>
-      <a class="button small" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a class="button small" href="/candidature-eig.html">
         <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Candidater
       </a>
       {% endif %}
