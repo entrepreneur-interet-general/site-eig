@@ -15,6 +15,24 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
+"Atlas":
+  image: /img/eig4/atlas.png
+  title: Atlas
+  link_to: /defis/2020/atlas.html
+  skills: ["dev", "design"]
+  description: Visualiser les politiques culturelles territoriales
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75001)"
+  administration: Ministère de la Culture
+  administration_website: https://culture.gouv.fr
+  eigs: []
+  mentors:
+    - "Edwige Millery"
+    - "Romain Delassus"
+    - "Loup Wolff"
+
 "CapQualif":
   image: /img/eig4/capqualif.png
   title: CapQualif

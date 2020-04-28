@@ -1,3 +1,41 @@
+Loup Wolff:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - Atlas
+  github:
+  gitlab:
+  image_url: /img/communaute/loup-wolff.jpg
+  link_to: /communaute/2020/loup-wolff.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Loup Wolff
+  twitter:
+  website:
+
+Edwige Millery:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - Atlas
+  github:
+  gitlab:
+  image_url: /img/communaute/edwige-millery.jpg
+  link_to: /communaute/2020/edwige-millery.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Edwige Millery
+  twitter:
+  website:
+
 Frédéric Comte:
   annees:
   - 2020
@@ -82,6 +120,7 @@ Romain Delassus:
   - eig-4
   defis:
   - SEDAccord
+  - Atlas
   github:
   gitlab:
   image_url: /img/communaute/romain-delassus.jpg
