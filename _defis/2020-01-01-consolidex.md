@@ -24,3 +24,20 @@ L’outil permettra de :
 - **catégoriser les articles selon leur champ** en  utilisant des mots-clés pour détecter le champ technique.
 
 A terme, ce nouvel outil pourrait être étendu pour prendre en compte la réglementation nationale. Il a vocation à être intégré au Guichet Unique Numérique, outil métier des inspecteurs de l’ensemble des Directions régionales du ministère de l’environnement. 
+
+## Profils recherchés
+### EIG 1 - Data scientist 
+**Missions :**Transformer les arrêtés au format texte et les analyser, consolider les arrêtés qui s’appliquent à chaque site, classifier les exigences par thème de contrôle.
+
+**Compétences :**  
+- Expérience en NLP indispensable. Une expérience en OCR serait appréciée.
+- Une appétence pour le domaine juridique serait un plus. 
+ 
+### EIG 2 - Développeur/développeuse full stack
+**Missions :**Mettre en place une API ; développer une interface front-end pour explorer cette API, permettant aux inspecteurs de visualiser les prescriptions réglementaires.
+
+**Compétences :** 
+- Développeur/développeuse full stack
+- Des compétences ou une appétence pour le design (notamment design d’interfaces) seraient un atout
+- Une appétence pour les données serait un plus
+- Une appétence pour le domaine juridique serait un plus

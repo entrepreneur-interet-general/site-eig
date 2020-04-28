@@ -29,3 +29,16 @@ D’un point de vue technique la solution devra :
 - s’inscrire dans une démarche de sobriété numérique.
 
 _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Etat [Ecolab](https://beta.gouv.fr/startups/ecolab.html)._
+
+## Profils recherchés
+### EIG 1 - Designer de service
+**Missions :**Définition des cas d’usages à partir des données à mettre à disposition ; conception des outils numériques correspondant à ces usages.
+
+**Compétences :** 
+- Designer de service
+- Expérience en design UX appréciée
+- Bonne expérience d’animation de co-construction, possiblement avec des acteurs publics
+- Appétence pour l’animation de communauté
+
+### EIG 2 - Développeur / développeuse full stack
+**Missions :**Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.

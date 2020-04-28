@@ -25,3 +25,19 @@ L’idée est donc de disposer d’un outil d’instruction complet pour :
 - **dématérialiser le titre délivré** en respectant les exigences de vérification et d’authentification du document par les autorités étrangères ; 
 - **permettre le croisement de données** dans les différents systèmes de l’administration pour établir des priorités de contrôle ;
 - **établir un suivi statistique** de l’emploi maritime. 
+
+## Profils recherchés
+## EIG 1 - Designer UX/UI
+**Missions :**Réaliser les interfaces des outils, animer la démarche UX et acculturer l'administration aux méthodes de design et aux bonnes pratiques UX/UI.
+
+**Compétences :**
+- Designer UX/UI
+- Appétence pour la formation de publics néophytes en design
+
+## EIG 2 - Développeur/développeuse web full stack
+**Missions :**Travailler sur les données en lien avec les besoins de notification des données à la Commission européenne et conformément aux exigences de qualité, proposer des pistes de simplification et d’automatisation pour alimenter les ateliers UX (expérience utilisateur) avec les agents, développer les outils et interfaces avec le profil EIG design. 
+
+**Compétences :**
+- Développeur/développeuse full stack
+- Des compétences en Python sont un plus
+- Appétence pour le traitement des données et l'open source appréciée

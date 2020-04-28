@@ -26,3 +26,19 @@ Dans un second temps, les EIG pourront proposer des outils facilitant l’accès
 
 Au-delà de l’impact en termes de transparence budgétaire de l’organisation des JOP 2024, cet outil a pour vocation de proposer une nouvelle méthodologie de mise à disposition de données de qualité et certifiées.
 
+## Profils recherchés
+### EIG 1 - Designer UX/UI
+**Missions :**Définition des cas d’usages autour des données des JOP2024, animation de la démarche, conception d’interfaces d’outils.
+
+**Compétences :** 
+- Design UX/UI
+- Appétence pour le monde des données fortement appréciée
+- Expérience en datavisualisation/datajournalisme appréciée
+- Intérêt pour le domaine des finances publiques apprécié 
+
+### EIG 2 - Développeur/développeuse full stack / data engineer
+**Missions :**Définition d’un schéma de données ; mise en place d’une base de données et d’une API d’accès à cette base ; prototypage et développement d’un tableau de bord de modélisation et simulation des dépenses publiques. 
+
+**Compétences :**
+- Compétences en data engineering très appréciées
+- Appétence pour la datavisualisation appréciée 

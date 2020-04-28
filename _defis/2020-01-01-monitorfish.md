@@ -19,3 +19,30 @@ Le défi consiste en la création d’un outil cartographique (SIG) qui permettr
 - **assigner des facteurs de risque** évolutifs en fonction des critères d’appartenance à un segment de flotte visé, de leur position, des contrôles antérieurs effectués et des infractions signalées.
 
 D’un point de vue technique, cette interface sera dotée de couches géo-réglementaires, de filtres, d’alarmes, permettra la saisie de compte rendus et l’extraction de statistiques. 
+
+## Profils recherchés
+
+### EIG 1 - Designer de services/UX
+
+**Missions :**Définir des conditions d’usage des outils de ciblage, jusqu’au design des interfaces de visualisation, notamment en prenant en compte la composante organisationnelle du projet.
+
+**Compétences :**
+- Designer de services/UX
+
+### EIG 2 - Développeur/développeuse full-stack 
+
+**Missions :**Construire l’outil de visualisation du ciblage, en lien avec l’écosystème de la Direction des affaires maritimes et l’### EIG datascientist.
+
+**Compétences :** 
+- Compétences web fullstack (front-end/back-end) avec un framework JavaScript moderne pour le front.
+- Une connaissance de Python serait un plus.
+- Connaissance des outils de cartographie web très appréciée.
+
+### EIG 3 - Data scientist
+
+**Missions :**Travailler sur l’ensemble des données de la Direction des affaires maritimes et des pêches pour établir un modèle de ciblage en temps réel et des profils de risque.
+
+**Compétences :** 
+- Compétences en Python pour le machine learning.
+- Compétences en géomatique appréciées.
+- Compétences en développement back-end appréciées mais pas indispensable.
