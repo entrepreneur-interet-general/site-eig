@@ -23,11 +23,9 @@ section_id: defis
           <li><a data-cat='eig-dig' href='#'>DIG</a></li>
         </ul>
         <ul>
-          <li><a data-cat='datascience' href='#'>Data science</a></li>
-          <li><a data-cat='dataengineering' href='#'>Data engineering</a></li>
-          <li><a data-cat='dev' href='#'>Développement</a></li>
-          <li><a data-cat='geomatique' href='#'>Géomatique</a></li>
-          <li><a data-cat='design' href='#'>Design</a></li>
+          {% for skill in site.data.skills %}
+            <li><a data-cat='{{ skill[0] }}' href='#'>{{ skill[1] }}</a></li>
+          {% endfor %}
         </ul>
       </div>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
@@ -56,13 +54,7 @@ section_id: defis
                 {{ promo.slug }}
                 {% for skill in defi.skills %}
                 //
-                  {% case skill %}
-                  {% when 'dev' %}Développement
-                  {% when 'design' %}Design
-                  {% when 'datascience' %}Data science
-                  {% when 'geomatique' %}Géomatique
-                  {% when 'dataengineering' %}Data engineering
-                  {% endcase %}
+                  {{ site.data.skills[skill] }}
                 {% endfor %}
               </p>
               <div class='overlay defis_overlay-{{ promo.colorback }}'>
