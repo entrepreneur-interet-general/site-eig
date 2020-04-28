@@ -31,7 +31,7 @@ L’ambition de ce nouvel outil est de donner un meilleur accès et une meilleur
 
 ## Profils recherchés
 ### EIG 1 - Designer de service
-**Missions :**Définir des cas d’usages à partir des données (statistiques, études qualitatives) à mettre à disposition ; concevoir les outils numériques correspondant à ces usages.
+**Missions :** Définir des cas d’usages à partir des données (statistiques, études qualitatives) à mettre à disposition ; concevoir les outils numériques correspondant à ces usages.
 
 **Compétences :** 
 - Designer de service
@@ -40,7 +40,7 @@ L’ambition de ce nouvel outil est de donner un meilleur accès et une meilleur
 - Appétence pour l’animation de communauté
 
 ### EIG 2 - Développeur / développeuse full stack
-**Missions :**Préparer les données à visualiser et développer les outils numériques de référencement et de visualisation (API, interfaces, moteur de recherche).
+**Missions :** Préparer les données à visualiser et développer les outils numériques de référencement et de visualisation (API, interfaces, moteur de recherche).
 
 **Compétences :**
 - Gestion, stockage et mise à jour de bases de données 

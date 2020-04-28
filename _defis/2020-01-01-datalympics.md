@@ -28,7 +28,7 @@ Au-delà de l’impact en termes de transparence budgétaire de l’organisation
 
 ## Profils recherchés
 ### EIG 1 - Designer UX/UI
-**Missions :**Définition des cas d’usages autour des données des JOP2024, animation de la démarche, conception d’interfaces d’outils.
+**Missions :** Définition des cas d’usages autour des données des JOP2024, animation de la démarche, conception d’interfaces d’outils.
 
 **Compétences :** 
 - Design UX/UI
@@ -37,7 +37,7 @@ Au-delà de l’impact en termes de transparence budgétaire de l’organisation
 - Intérêt pour le domaine des finances publiques apprécié 
 
 ### EIG 2 - Développeur/développeuse full stack / data engineer
-**Missions :**Définition d’un schéma de données ; mise en place d’une base de données et d’une API d’accès à cette base ; prototypage et développement d’un tableau de bord de modélisation et simulation des dépenses publiques. 
+**Missions :** Définition d’un schéma de données ; mise en place d’une base de données et d’une API d’accès à cette base ; prototypage et développement d’un tableau de bord de modélisation et simulation des dépenses publiques. 
 
 **Compétences :**
 - Compétences en data engineering très appréciées

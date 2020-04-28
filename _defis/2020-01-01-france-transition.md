@@ -32,7 +32,7 @@ _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Et
 
 ## Profils recherchés
 ### EIG 1 - Designer de service
-**Missions :**Définition des cas d’usages à partir des données à mettre à disposition ; conception des outils numériques correspondant à ces usages.
+**Missions :** Définition des cas d’usages à partir des données à mettre à disposition ; conception des outils numériques correspondant à ces usages.
 
 **Compétences :** 
 - Designer de service
@@ -41,4 +41,4 @@ _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Et
 - Appétence pour l’animation de communauté
 
 ### EIG 2 - Développeur / développeuse full stack
-**Missions :**Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.
+**Missions :** Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.

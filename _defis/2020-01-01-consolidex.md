@@ -27,14 +27,14 @@ A terme, ce nouvel outil pourrait être étendu pour prendre en compte la régle
 
 ## Profils recherchés
 ### EIG 1 - Data scientist 
-**Missions :**Transformer les arrêtés au format texte et les analyser, consolider les arrêtés qui s’appliquent à chaque site, classifier les exigences par thème de contrôle.
+**Missions :** Transformer les arrêtés au format texte et les analyser, consolider les arrêtés qui s’appliquent à chaque site, classifier les exigences par thème de contrôle.
 
 **Compétences :**  
 - Expérience en NLP indispensable. Une expérience en OCR serait appréciée.
 - Une appétence pour le domaine juridique serait un plus. 
  
 ### EIG 2 - Développeur/développeuse full stack
-**Missions :**Mettre en place une API ; développer une interface front-end pour explorer cette API, permettant aux inspecteurs de visualiser les prescriptions réglementaires.
+**Missions :** Mettre en place une API ; développer une interface front-end pour explorer cette API, permettant aux inspecteurs de visualiser les prescriptions réglementaires.
 
 **Compétences :** 
 - Développeur/développeuse full stack
