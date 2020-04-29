@@ -5,6 +5,10 @@
 - question: "Qui peut participer ?"
   reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire, à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
+  
+- question: "Je suis en CDI, dois-je démissioner de mon poste actuel ?"
+  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le congé sans solde. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
+  ancre: demission-CDI
 
 - question: "En quoi un EIG est-il différent d’un prestataire ?"
   reponse: "<p>À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier des charges précis. Elles et ils sont maîtres de leur défi et peuvent proposer des modifications au projet envisagé initialement par les administrations d’accueil, s’il leur semble qu’il existe des manières plus adéquates de répondre au défi qui leur a été lancé, en terme de technologies ou de livrables. Au cours de leur immersion dans l’administration, les EIG sont amenés à élaborer une feuille de route sur laquelle elles et ils itèrent avec leurs mentors.</p>"
@@ -29,7 +33,11 @@
 - question: "Pourquoi des défis de 10 mois ?"
   reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les entrepreneurs, qui restent concentrés sur la tâche à accomplir. Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
   ancre: pourquoi-dix-mois
-
+  
+- question: "Est-il possible de commencer plus tard que la date de début de la promotion ?"
+  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde.</p>"
+  ancre: commencer-plus-tard
+  
 - question: "Au terme des 10 mois, comment les défis sont-ils pérennisés ?"
   reponse: "<p>Les outils continuent à être maintenus et développés par les équipes de l’administration d’accueil. D’autres sont mêmes déployés dans d’autres services. De plus, l’obligation, sauf dérogation, de verser les développements réalisés en open source rend leur maintien possible par tous. Le programme EIG dispose d’une organisation sur GitHub pour y regrouper les dépôts publiés.</p>"
   ancre: perennisation-des-defis
