@@ -7,18 +7,18 @@ Le Centre National de Surveillance des Pêches (CNSP) est chargé de surveiller 
 ## La problématique : des données provenant de sources variées nuisant au ciblage des navires à risque 
 
 Le Centre National de Surveillance des Pêches (CNSP) est chargé de piloter le contrôle des pêches en mer, comme par exemple la surveillance de la pêche illicite, et de coordonner l’action des moyens nautiques et aériens engagés dans cette mission de surveillance.  
-Pour cibler les navires à contrôler, le CNSP utilise simultanément de nombreux outils et bases informatiques non connectés entre eux. Actuellement, l’opérateur en charge de la mission doit réaliser lui-même les croisements de données pertinentes. De plus ces données ne sont pas toutes consultables depuis un outil cartographique (SIG).
+Pour cibler les navires à contrôler, le CNSP utilise simultanément de nombreux outils et bases informatiques non connectés entre eux. Actuellement, l’opérateur en charge de la mission doit réaliser lui-même les croisements de données pertinentes. De plus, ces données ne sont pas toutes consultables depuis un outil cartographique (SIG).
 
 ## Le défi : renforcer la capacité de ciblage des navires à risque grâce au croisement des données existantes
 MonitorFish propose de développer un outil permettant de croiser les données géolocalisées d’activités des navires et les bases informatiques existantes pour faciliter la prise de décision de l’opérateur. 
 
 L’enjeu principal est de gagner en rapidité et renforcer la capacité de ciblage du CNSP afin de répondre plus finement aux objectifs des plans régionaux de contrôle des pêches. 
 
-Le défi consiste en la création d’un outil cartographique (SIG) qui permettra de visualiser tous les navires suivis, leur facteur de risque, et leurs données. Basé sur l’intelligence artificielle il servira à : 
+Le défi consiste en la création d’un outil cartographique (SIG) qui permettra de visualiser tous les navires suivis, leur facteur de risque, et leurs données. Basé sur l’intelligence artificielle, il servira à : 
 - **détecter les infractions** éventuelles des navires suivis ;
 - **assigner des facteurs de risque** évolutifs en fonction des critères d’appartenance à un segment de flotte visé, de leur position, des contrôles antérieurs effectués et des infractions signalées.
 
-D’un point de vue technique, cette interface sera dotée de couches géo-réglementaires, de filtres, d’alarmes, permettra la saisie de compte rendus et l’extraction de statistiques. 
+D’un point de vue technique, cette interface dotée de couches géo-réglementaires, de filtres et d’alarmes permettra la saisie de comptes rendus et l’extraction de statistiques. 
 
 ## Profils recherchés
 
@@ -34,15 +34,15 @@ D’un point de vue technique, cette interface sera dotée de couches géo-régl
 **Missions :** Construire l’outil de visualisation du ciblage, en lien avec l’écosystème de la Direction des affaires maritimes et l’EIG datascientist.
 
 **Compétences :** 
-- Compétences web fullstack (front-end/back-end) avec un framework JavaScript moderne pour le front.
-- Une connaissance de Python serait un plus.
-- Connaissance des outils de cartographie web très appréciée.
+- Compétences web full stack (front-end/back-end) avec un framework JavaScript moderne pour le front
+- Une connaissance de Python serait un plus
+- Connaissance des outils de cartographie web très appréciée
 
 ### EIG 3 - Data scientist
 
 **Missions :** Travailler sur l’ensemble des données de la Direction des affaires maritimes et des pêches pour établir un modèle de ciblage en temps réel et des profils de risque.
 
 **Compétences :** 
-- Compétences en Python pour le machine learning.
-- Compétences en géomatique appréciées.
-- Compétences en développement back-end appréciées mais pas indispensable.
+- Compétences en Python pour le machine learning
+- Compétences en géomatique appréciées
+- Compétences en développement back-end appréciées mais pas indispensables
