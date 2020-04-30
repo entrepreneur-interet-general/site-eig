@@ -55,8 +55,8 @@
   image: /img/eig4/datalympics.png
   title: Datalympics
   link_to: /defis/2020/datalympics.html
-  skills: ["dev", "design"]
-  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024.
+  skills: ["dev", "design", "dataengineering"]
+  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024
   year: 2020
   promotion: 4
   duration_months: 10
@@ -73,7 +73,7 @@
   title: DataMed
   link_to: /defis/2020/datamed.html
   skills: ["dev", "design", "dataengineering", "datascience"]
-  description: Accompanger l'ouverture des données sur les médicaments
+  description: Accompagner l'ouverture des données sur les médicaments
   year: 2020
   promotion: 4
   duration_months: 10
@@ -82,7 +82,7 @@
   administration_website: https://ansm.sante.fr
   eigs: []
   mentors:
-    - "Emilie Fauchier-Magnan"
+    - "Evelyne Duplessis"
     - "Florent Robic"
     - "Mehdi Benkebil"
 
