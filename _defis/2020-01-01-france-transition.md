@@ -3,9 +3,9 @@ layout: defi
 title: "France Transition"
 ---
 
-Dans le cadre de l’initiative du Gouvernement « France Transition Écologique » qui vise à accélérer le financement de projets liés à la transition écologique et énergétique, le Conseil de défense écologique souhaite développer une plateforme unique recensant les aides publiques à destination des particuliers, entreprises et collectivités.
+Dans le cadre de l’initiative du Gouvernement « France Transition Écologique », qui vise à accélérer le financement de projets liés à la transition écologique et énergétique, le Conseil de défense écologique souhaite développer une plateforme unique recensant les aides publiques à destination des particuliers, entreprises et collectivités.
 
-## La problématique : des aides publiques à la transition écologique et énergétique nombreuses mais méconnues et dispersée sur différentes plateformes
+## La problématique : des aides publiques à la transition écologique et énergétique nombreuses mais méconnues et dispersées sur différentes plateformes
 
 Aujourd’hui, l’offre publique en matière de soutien à la transition écologique et énergétique (TEE) est dense, mais très peu connue du grand public, des entreprises et des collectivités. Par exemple, selon une étude Opinion Way, 64% des Français ne seraient pas en mesure de citer une aide financière permettant de réaliser des travaux de rénovation énergétique. 
 
@@ -17,7 +17,7 @@ Chacune de ces organisations propose une multitude de dispositifs d’aide en fo
 
 Le défi consiste en la création d’une plateforme unique qui recense l’ensemble de l’offre publique française en matière d’aides à la TEE.
 
-L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE.
+L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE
 
 Cette plateforme permettra : 
 - d’**apporter une plus grande visibilité et lisibilité** de l’offre ;
@@ -41,6 +41,4 @@ _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Et
 - Appétence pour l’animation de communauté
 
 ### EIG 2 - Développeur / développeuse full stack
-**Missions :** 
-- Extraction des données, préparation des données et validation, définition d'un schéma de données uniques, etc ;
-- Développement back-end and front-end du MVP (outils numériques de référencement, de visualisation et d'exploration des données).
+**Missions :** Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.
