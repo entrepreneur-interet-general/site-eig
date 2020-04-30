@@ -23,7 +23,7 @@ L’outil permettra de :
 - **consolider les arrêtés successifs en un seul texte** grâce au traitement automatique du langage naturel ;
 - **catégoriser les articles selon leur champ** en  utilisant des mots-clés pour détecter le champ technique.
 
-A terme, ce nouvel outil pourrait être étendu pour prendre en compte la réglementation nationale. Il a vocation à être intégré au Guichet Unique Numérique, outil métier des inspecteurs de l’ensemble des Directions régionales du ministère de l’environnement. 
+A terme, ce nouvel outil pourrait être étendu pour prendre en compte la réglementation nationale. Il a vocation à être intégré au Guichet Unique Numérique, outil métier des inspecteurs de l’ensemble des Directions régionales du Ministère de la Transition écologique et solidaire. 
 
 ## Profils recherchés
 
@@ -33,8 +33,8 @@ A terme, ce nouvel outil pourrait être étendu pour prendre en compte la régle
 
 **Compétences :**
 
-- Expérience en NLP indispensable. Une expérience en OCR serait appréciée.
-- Une appétence pour le domaine juridique serait un plus. 
+- Expérience en NLP indispensable, une expérience en OCR serait appréciée
+- Une appétence pour le domaine juridique serait un plus
  
 
 ### EIG 2 - Développeur/développeuse full stack
