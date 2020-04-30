@@ -7,11 +7,11 @@ Plusieurs ministères réunis afin de disposer d’un système d’archivage él
 
 ## La problématique : un processus d’archivage numérique complexe qui repose sur des outils difficiles à prendre en main 
 
-Des milliards d’objets numériques sont créés et échangés chaque jour par les administrations françaises : documents bureautiques, mails, comptes rendus de réunions, notes, plans … 
+Des milliards d’objets numériques sont créés et échangés chaque jour par les administrations françaises : documents bureautiques, mails, comptes rendus de réunions, notes, plans… 
 
 Lorsqu’ils ne sont plus utiles quotidiennement et que leur importance l’exige, ils sont pris en charge par les services d’archives. Ceux-ci les conservent dans un système d’archivage électronique sous forme de dossiers classés et traités de manière à en faciliter la recherche. L’objectif est de soulager les services administratifs de la conservation de ces données, de limiter les risques (insécurité juridique et financière, perte de temps) et de répondre aux réglementations telles que le RGPD. A terme, certaines de ces données constitueront la mémoire de l'administration française.
 
-A ce jour, la transformation des fichiers produits par les agents ou les applications métiers en dossiers conformes à l’archivage est une opération complexe et longue. Elle nécessite une connaissance technique et archivistique, ainsi que la maîtrise d'outils externes multiples, difficiles à prendre en main pour les services de l’administration."
+A ce jour, la transformation des fichiers produits par les agents ou les applications métiers en dossiers conformes à l’archivage est une opération complexe et longue. Elle nécessite une connaissance technique et archivistique, ainsi que la maîtrise d'outils externes multiples, difficiles à prendre en main pour les services de l’administration.
 
 ## Le défi : concevoir un outil numérique intuitif simplifiant l’archivage des données pour les services de l’administration 
 
@@ -40,10 +40,12 @@ Une sensibilité pour le design d’interface utilisateur et l’open source ser
 **Missions :** Développement et intégration de l’outil.
 
 **Compétences :**
+
 - Développement full stack
 - Compétences en Angular (front-end) et Java (back-end) appréciées
 - Une appétence pour l’open source serait un plus
  
+
 Le défi s’inscrit dans le programme Vitam, dont l’environnement de développement est le suivant : 
 - [Vitam](https://github.com/ProgrammeVitam/vitam) : Back Java 11 ; API REST (json) – RAML ; Consul
 - [Vitam-UI](https://github.com/ProgrammeVitam/vitam-ui) : Front: Angular 8 - Back : SprintBoot 2.1 - Java 11 (en cours); API REST (json) – Swagger

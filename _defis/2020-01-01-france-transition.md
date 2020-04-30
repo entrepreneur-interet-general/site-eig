@@ -17,7 +17,7 @@ Chacune de ces organisations propose une multitude de dispositifs d’aide en fo
 
 Le défi consiste en la création d’une plateforme unique qui recense l’ensemble de l’offre publique française en matière d’aides à la TEE.
 
-L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE
+L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE.
 
 Cette plateforme permettra : 
 - d’**apporter une plus grande visibilité et lisibilité** de l’offre ;
@@ -41,4 +41,6 @@ _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Et
 - Appétence pour l’animation de communauté
 
 ### EIG 2 - Développeur / développeuse full stack
-**Missions :** Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.
+**Missions :** 
+- Extraction des données, préparation des données et validation, définition d'un schéma de données uniques, etc ;
+- Développement back-end and front-end du MVP (outils numériques de référencement, de visualisation et d'exploration des données).
