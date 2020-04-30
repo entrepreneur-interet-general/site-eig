@@ -31,7 +31,7 @@ D’un point de vue technique, cette interface sera dotée de couches géo-régl
 
 ### EIG 2 - Développeur/développeuse full-stack 
 
-**Missions :** Construire l’outil de visualisation du ciblage, en lien avec l’écosystème de la Direction des affaires maritimes et l’### EIG datascientist.
+**Missions :** Construire l’outil de visualisation du ciblage, en lien avec l’écosystème de la Direction des affaires maritimes et l’EIG datascientist.
 
 **Compétences :** 
 - Compétences web fullstack (front-end/back-end) avec un framework JavaScript moderne pour le front.

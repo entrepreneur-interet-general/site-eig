@@ -45,8 +45,8 @@ Une sensibilité pour le design d’interface utilisateur et l’open source ser
 - Une appétence pour l’open source serait un plus
  
 Le défi s’inscrit dans le programme Vitam, dont l’environnement de développement est le suivant : 
-- Vitam : https://github.com/ProgrammeVitam/vitam  Back Java 11 ; API REST (json) – RAML ; Consul
-- Vitam-UI : https://github.com/ProgrammeVitam/vitam-ui  Front: Angular 8 - Back : SprintBoot 2.1 - Java 11 (en cours); API REST (json) – Swagger
+- [Vitam](https://github.com/ProgrammeVitam/vitam) : Back Java 11 ; API REST (json) – RAML ; Consul
+- [Vitam-UI](https://github.com/ProgrammeVitam/vitam-ui) : Front: Angular 8 - Back : SprintBoot 2.1 - Java 11 (en cours); API REST (json) – Swagger
 - Intégration continue : Git / Gitlab / Jenkins / Nexus / Sonarqube
 
 _Le programme VITAM propose une solution logicielle libre d’archivage, qui permet la gestion unitaire et sécurisée de milliards d’objets afin de satisfaire les enjeux d’accès dans le temps à leurs informations numériques. Il mène des réflexions sur la prise en charge des données produites par les services administratifs, notamment dans le cadre du projet interministériel VAS (VITAM accessible en service).  La politique nationale de développement de l’archivage numérique est soutenue par le Service interministériel des archives de France (SIAF) et la Direction interministérielle du numérique (DINUM)._
