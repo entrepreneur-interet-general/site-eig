@@ -15,10 +15,10 @@
     - "Marie Simon"
     - "Franck Jolivaldt"
 
-"Atlas":
-  image: /img/eig4/atlas.png
-  title: Atlas
-  link_to: /defis/2020/atlas.html
+"Atlas Culture":
+  image: /img/eig4/atlas-culture.png
+  title: Atlas Culture
+  link_to: /defis/2020/atlas-culture.html
   skills: ["dev", "design"]
   description: Visualiser les politiques culturelles territoriales
   year: 2020
@@ -51,22 +51,22 @@
     - "Laurence Denis"
     - "Yves Le Nozahic"
 
-"Consolidex":
-  image: /img/eig4/consolidex.png
-  title: Consolidex
-  link_to: /defis/2020/consolidex.html
-  skills: ["dev", "datascience"]
-  description: Faciliter le contrôle environnemental des sites industriels
+"Datalympics":
+  image: /img/eig4/datalympics.png
+  title: Datalympics
+  link_to: /defis/2020/datalympics.html
+  skills: ["dev", "design"]
+  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024.
   year: 2020
   promotion: 4
   duration_months: 10
-  ville: "Vincennes (94307)"
-  administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
-  administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
+  ville: "Paris (75012)"
+  administration: Direction du budget
+  administration_website: https://www.economie.gouv.fr/direction-du-budget-db
   eigs: []
   mentors:
-    - "Alexandre Leonardi"
-    - "Cédric Bourillet"
+    - "René Carlet"
+    - "Xavier Michelet"
 
 "DataMed":
   image: /img/eig4/datamed.png
@@ -86,23 +86,6 @@
     - "Florent Robic"
     - "Mehdi Benkebil"
 
-"Datalympics":
-  image: /img/eig4/datalympics.png
-  title: Datalympics
-  link_to: /defis/2020/datalympics.html
-  skills: ["dev", "design"]
-  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024.
-  year: 2020
-  promotion: 4
-  duration_months: 10
-  ville: "Paris (75012)"
-  administration: Direction du budget
-  administration_website: https://www.economie.gouv.fr/direction-du-budget-db
-  eigs: []
-  mentors:
-    - "René Carlet"
-    - "Xavier Michelet"
-
 "EIG Link 2020":
   image: /img/eig4/eig-link.png
   title: EIG Link
@@ -118,6 +101,40 @@
   eigs: []
   mentors:
     - "Soizic Pénicaud"
+
+"Enki":
+  image: /img/eig4/enki.png
+  title: NexSIS
+  link_to: /defis/2020/enki.html
+  skills: ["dev", "design", "dataengineering"]
+  description: Mieux informer les autorités et services d'urgence lors d'une crise
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75013)"
+  administration: Agence du Numérique de la Sécurité Civile
+  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
+  eigs: []
+  mentors:
+    - "David Vigier"
+    - "Michel Monneret"
+
+"EnviNorma":
+  image: /img/eig4/envinorma.png
+  title: EnviNorma
+  link_to: /defis/2020/envinorma.html
+  skills: ["dev", "datascience"]
+  description: Faciliter le contrôle environnemental des sites industriels
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Vincennes (94307)"
+  administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
+  administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
+  eigs: []
+  mentors:
+    - "Alexandre Leonardi"
+    - "Cédric Bourillet"
 
 "France Transition":
   image: /img/eig4/france-transition.png
@@ -190,23 +207,6 @@
     - "Thierry Hieber"
     - "Marjory Canonne"
     - "Vincent Barbey"
-
-"NexSIS":
-  image: /img/eig4/nexsis.png
-  title: NexSIS
-  link_to: /defis/2020/nexsis.html
-  skills: ["dev", "design", "dataengineering"]
-  description: Mieux informer les autorités et services d'urgence lors d'une crise
-  year: 2020
-  promotion: 4
-  duration_months: 10
-  ville: "Paris (75013)"
-  administration: Agence du Numérique de la Sécurité Civile
-  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
-  eigs: []
-  mentors:
-    - "David Vigier"
-    - "Michel Monneret"
 
 "Open Collectivités":
   image: /img/eig4/open-collectivites.png

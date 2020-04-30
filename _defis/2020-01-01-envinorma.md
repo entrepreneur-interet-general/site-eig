@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: "Consolidex"
+title: "EnviNorma"
 ---
 
 La Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France (DRIEE) souhaite développer une web-app qui permettra de rendre accessible la réglementation en vigueur pour le contrôle des sites industriels.

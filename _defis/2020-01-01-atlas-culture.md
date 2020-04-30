@@ -1,6 +1,6 @@
 ---
 layout: defi
-title: "Atlas"
+title: "Atlas Culture"
 ---
 
 Le Département des études, de la prospective et des statistiques du Ministère de la Culture produit, depuis 2017, l’[Atlas régional de la culture](https://www.culture.gouv.fr/Sites-thematiques/Etudes-et-statistiques/Publications/Collections-d-ouvrages/Atlas-regional-de-la-culture). Ce rapport sur support papier met en lumière des indicateurs relatifs aux  politiques culturelles , disponibles à l'échelle nationale et territoriale. Afin de mieux comprendre les dynamiques culturelles, il souhaite en faire un outil numérique de cartographie dynamique.
