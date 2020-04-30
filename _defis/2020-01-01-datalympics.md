@@ -2,7 +2,7 @@
 layout: defi
 title: "Datalympics"
 ---
-La Direction du budget souhaite développer une base de données ouvertes autour du financement des Jeux olympiques et paralympiques de Paris 2024 afin de répondre aux enjeux de transparence et de bon emploi des fonds publics.
+La Direction du Budget souhaite développer une base de données ouvertes autour du financement des Jeux olympiques et paralympiques de Paris 2024 afin de répondre aux enjeux de transparence et de bon emploi des fonds publics.
 
 ## La problématique : des données budgétaires et financières peu lisibles et inexploitées
 
