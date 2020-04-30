@@ -28,7 +28,7 @@ Au-delà de l’impact en termes de transparence budgétaire de l’organisation
 
 ## Profils recherchés
 ### EIG 1 - Designer UX/UI
-**Missions :** Définition des cas d’usages autour des données des JOP2024, animation de la démarche, conception d’interfaces d’outils.
+**Missions :** Définition des cas d’usages autour des données des JOP 2024, animation de la démarche, conception d’interfaces d’outils.
 
 **Compétences :** 
 - Design UX/UI
