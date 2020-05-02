@@ -9,9 +9,9 @@ L’Insee en tant que coordinateur du service statistique public (SSP) souhaite 
 
 Le service statistique public est composé de 16 services statistiques ministériels et de l’Insee (Institut national de la statistique et des études économiques) qui en assure la coordination.
 
-Dans le contexte informationnel actuel, l’Insee est confronté à de multiples enjeux : comment continuer à exercer la mission d’éclairage du débat public en étant plus précis, plus réactif, sur les thématiques actuelles et émergentes ?  comment être efficace dans la coordination de 16 services de statistique  sans disposer d’infrastructure mutualisée ?
+Dans le contexte informationnel actuel, l’Insee est confronté à de multiples enjeux : Comment continuer à exercer la mission d’éclairage du débat public en étant plus précis, plus réactif, sur les thématiques actuelles et émergentes ? Comment être efficace dans la coordination de 16 services de statistique sans disposer d’infrastructure mutualisée ?
 
-L’enjeu est donc d’innover dans les méthodes de traitement et d’exploitation des données à travers une plateforme mutualisée, ergonomique, sécurisée, et accessible à distance.
+L’enjeu est donc d’innover dans les méthodes de traitement et d’exploitation des données à travers une plateforme mutualisée, ergonomique, sécurisée et accessible à distance.
 
 ## Le défi : créer un cloud spécialisé dans les outils et techniques de traitement de données, à l’état de l’art et accessible à un public varié
 
@@ -24,13 +24,13 @@ La plateforme repose sur l’assemblage de technologies open source et cloud nat
 Le défi se focalisera sur l’amélioration : 
 - du **design de l’offre** pour faciliter l’expérience utilisateur ; 
 - des **services de stockage et de traitement** de données ;
-- de **l’accompagnement** des utilisateurs dans leurs démarches d’appropriation et d’amélioration de la plateforme 
+- de **l’accompagnement** des utilisateurs dans leurs démarches d’appropriation et d’amélioration de la plateforme. 
 
-La création d’une communauté de pratiques est un axe essentiel du défi. L’ambition de cette offre de service est d’améliorer  la qualité des  traitements de données grâce à un partage des bonnes pratiques au sein du service statistique public.
+La création d’une communauté de pratiques est un axe essentiel du défi. L’ambition de cette offre de service est d’améliorer  la qualité des traitements de données grâce à un partage des bonnes pratiques au sein du service statistique public.
 
 ## Profils recherchés
 ### EIG 1 - Designer de services
-**Missions :** Explorer les usages du lab, élaborer une offre de services, concevoir des interfaces et construire et animer une communauté de pratiques.
+**Missions :** Explorer les usages du lab, élaborer une offre de services, concevoir des interfaces, construire et animer une communauté de pratiques.
 
 **Compétences :**
 - Designer de services
@@ -48,6 +48,6 @@ La création d’une communauté de pratiques est un axe essentiel du défi. L�
 
 **Compétences :**
 - Développeur / développeuse full stack
-- Expérience en JavaScript (pour la partie front-end) – l’EIG sera invité(e) à contribuer à la construction de la filière de développement front-end de l’Insee. 
+- Expérience en JavaScript (pour la partie front-end) – l’EIG sera invité(e) à contribuer à la construction de la filière de développement front-end de l’Insee
 - Une expérience en Java serait appréciée, mais pas indispensable
 - Appétence pour les démarches de construction de communauté appréciées (sens de la pédagogie et de l’écoute)
