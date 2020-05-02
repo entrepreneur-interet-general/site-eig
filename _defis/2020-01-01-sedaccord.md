@@ -17,7 +17,7 @@ A ce jour, la transformation des fichiers produits par les agents ou les applica
 
 Ce défi s’inscrit dans la politique nationale de développement de l’archivage numérique, devenue une des conditions essentielles à la réussite de la transformation numérique de l’Etat. Pour en assurer le succès, cette politique fait l’objet d’une démarche interministérielle.
 
-L’enjeu de ce défi est de taille : réaliser un outil numérique ergonomique et open source permettant à tous les agents, mêmes novices, d’archiver leurs données conformément à leurs besoins et aux exigences archivistiques. Sachant que ces données peuvent provenir de sources variables (documents bureautiques, messageries, espaces partagés type sharepoint, etc) et présenter, dans certains cas, de gros volumes.
+L’enjeu de ce défi est de taille : réaliser un outil numérique ergonomique et open source permettant à tous les agents, même novices, d’archiver leurs données conformément à leurs besoins et aux exigences archivistiques. Sachant que ces données peuvent provenir de sources variables (documents bureautiques, messageries, espaces partagés type sharepoint, etc.) et présenter, dans certains cas, de gros volumes.
 
 La solution à créer permettra de : 
 - **simplifier l’archivage pour les services producteurs de données**. L’outil rendra l’opération de versement des archives plus transparente, leur permettra de retrouver l’information plus facilement et allègera le contenu de leurs serveurs ;
@@ -33,8 +33,9 @@ Pour ce faire, l’outil devra répondre à trois objectifs en permettant une en
 **Missions :** Définition des usages, conception générale de l’interface permettant la conversion de dossier bureautique en dossier archivable, animation de la démarche.
 
 **Compétences :**
-Designer de services avec une forte sensibilité expérience utilisateur. 
-Une sensibilité pour le design d’interface utilisateur et l’open source serait un plus. 
+
+- Designer de services avec une forte sensibilité expérience utilisateur 
+- Une sensibilité pour le design d’interface utilisateur et l’open source serait un plus 
  
 ### EIG 2 - Développeur/développeuse full stack
 **Missions :** Développement et intégration de l’outil.
@@ -51,4 +52,5 @@ Le défi s’inscrit dans le programme Vitam, dont l’environnement de dévelop
 - [Vitam-UI](https://github.com/ProgrammeVitam/vitam-ui) : Front: Angular 8 - Back : SprintBoot 2.1 - Java 11 (en cours); API REST (json) – Swagger
 - Intégration continue : Git / Gitlab / Jenkins / Nexus / Sonarqube
 
-_Le programme VITAM propose une solution logicielle libre d’archivage, qui permet la gestion unitaire et sécurisée de milliards d’objets afin de satisfaire les enjeux d’accès dans le temps à leurs informations numériques. Il mène des réflexions sur la prise en charge des données produites par les services administratifs, notamment dans le cadre du projet interministériel VAS (VITAM accessible en service).  La politique nationale de développement de l’archivage numérique est soutenue par le Service interministériel des archives de France (SIAF) et la Direction interministérielle du numérique (DINUM)._
+_Le programme VITAM propose une solution logicielle libre d’archivage, qui permet la gestion unitaire et sécurisée de milliards d’objets afin de satisfaire les enjeux d’accès dans le temps à leurs informations numériques. Il mène des réflexions sur la prise en charge des données produites par les services administratifs, notamment dans le cadre du projet interministériel VAS (VITAM accessible en service). 
+La politique nationale de développement de l’archivage numérique est soutenue par le Service interministériel des archives de France (SIAF) et la Direction interministérielle du numérique (DINUM)._
