@@ -27,7 +27,7 @@ permettre des mises à jour et enrichissements facilement réalisables ;
 - assurer le renouvellement des liens et des infos ;
 - proposer l’adhésion à une newsletter informant des nouvelles mises en ligne. 
 
-L’ambition de ce nouvel outil est de donner un meilleur accès et une meilleure visibilité aux informations publiques concernant les collectivités locales afin que les politiques publiques soient appréhendées de manière plus directe et transparente, y compris par le grand public. 
+L’ambition de ce nouvel outil est de donner un meilleur accès et une meilleure visibilité aux informations publiques concernant les collectivités locales, afin que les politiques publiques soient appréhendées de manière plus directe et transparente, y compris par le grand public. 
 
 ## Profils recherchés
 ### EIG 1 - Designer de service
