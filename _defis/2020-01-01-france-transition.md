@@ -41,4 +41,6 @@ _Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Et
 - Appétence pour l’animation de communauté
 
 ### EIG 2 - Développeur / développeuse full stack
-**Missions :** Extraction des données, préparation des données et validation, définition d’un schéma de données uniques, etc ; développement des outils numériques de référencement et de visualisation des données.
+**Missions :** 
+- Extraction des données, préparation des données et validation, définition d'un schéma de données uniques, etc ; 
+- Développement back-end and front-end du MVP (outils numériques de référencement, de visualisation et d'exploration des données).
