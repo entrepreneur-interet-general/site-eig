@@ -1155,17 +1155,17 @@
     - amount: 5
       description: "ateliers internes et externes"
   projects:
-    - image: img/realisations/2019/ResorptionBidonvilles_Panorama.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Panorama.png
       title: "Panorama de la problématique et des parcours"
       description: "Analyse de la problématique afin d’identifier les points d’amélioration et évolutions de la plateforme. Document réalisé en fin de mission afin de compiler la connaissance sur le projet."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Panorama_ProblematiqueParcours_Nov2019.pdf
       call_to_action: "Parcourir le panorama"
-    - image: img/realisations/2019/ResorptionBidonvilles_Synthese.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Synthese.png
       title: "Synthèse des entretiens utilisateurs"
       description: "Les entretiens utilisateurs menés sur les processus de travail actuels des agents ont permis d’identifier l’évolution et l’intégration de la plateforme dans ces processus."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Syntheses_Aout2019.pdf
       call_to_action: "Parcourir la synthèse"
-    - image: img/realisations/2019/ResorptionBidonvilles_Maquette.jpg
+    - image: img/realisations/2019/ResorptionBidonvilles_Maquette.png
       title: "Exemple de maquettage"
       description: "La fonctionnalité « déclaration d’un dispositif » a été co-conçue avec l’équipe  à partir des besoins identifés et les tests utilisateurs."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Maquette_Oct2019.pdf
@@ -1199,12 +1199,12 @@
     - amount: 4
       description: "ateliers internes et externes"
   projects:
-    - image: img/realisations/2019/Sequoia_résultat-recherche-utilisateur.png
+    - image: img/realisations/2019/Sequoia_RechercheUX.png
       title: "Résultats de la recherche utilisateur"
       description: "Les résultats de la recherche utilisateur mêlent à la fois recherche quantitative et qualitative et ont permis d’identifier 3 axes majeurs à arbitrer."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_résultats-recherche-utilisateur.pdf
       call_to_action: "Parcourir la recherche utilisateur"
-    - image: img/realisations/2019/Sequoia_cas-d-usages.png
+    - image: img/realisations/2019/Sequoia_CasUsages.png
       title: "Cas d’usages"
       description: "À partir de la recherche utilisateur et des besoins identifiés, plusieurs parcours ont été améliorés et maquettés avec les équipes projets."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_cas-d-usages.pdf
