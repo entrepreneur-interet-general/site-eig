@@ -1258,7 +1258,7 @@ Charlotte Marmet:
   - designer
   - dig
   defis:
-  - Sequoia
+  - Sequoia IGN
   github:
   gitlab:
   image_url: /img/communaute/charlotte-marmet.png
@@ -2546,7 +2546,7 @@ Laurent Delgado:
   - dig
   - mentor
   defis:
-  - Sequoia
+  - Sequoia IGN
   github:
   gitlab:
   image_url: /img/communaute/Laurent_Delgado.jpg
@@ -2798,7 +2798,7 @@ Marie Ramon-Daré:
   - designer
   - dig
   defis:
-  - Sequoia
+  - Sequoia CGDD
   github:
   gitlab:
   image_url: /img/communaute/marie-ramon-dare.png
@@ -3245,7 +3245,7 @@ Olivier Garry:
   - dig
   - mentor
   defis:
-  - Sequoia
+  - Sequoia CGDD
   github:
   gitlab:
   image_url: /img/communaute/olivier-garry.png
@@ -3951,7 +3951,8 @@ Thomas Lesueur:
   - eig4
   - mentor
   defis:
-  - Sequoia
+  - Sequoia IGN
+  - Sequoia CGDD
   - France Transition
   github:
   gitlab:
