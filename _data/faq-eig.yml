@@ -1,13 +1,9 @@
-- question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
-  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général s’inspire du programme EIG. Là où le programme EIG vise à recruter des compétences numériques variées pour résoudre des défis liés à la circulation des données et à l’amélioration de l’action publique, Designers d’Intérêt Général s’intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG intègrent les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils rejoignent ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p>"
-  ancre: difference-EIG-DIG
-
 - question: "Qui peut participer ?"
-  reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire, à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
+  reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire (premier et deuxième cycle), à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
   
-- question: "Je suis en CDI, dois-je démissioner de mon poste actuel ?"
-  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le congé sans solde. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
+- question: "Je suis en CDI, dois-je démissionner de mon poste actuel ?"
+  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\"https://www.service-public.fr/particuliers/vosdroits/F10431\">congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
   ancre: demission-CDI
 
 - question: "En quoi un EIG est-il différent d’un prestataire ?"
@@ -35,7 +31,7 @@
   ancre: pourquoi-dix-mois
   
 - question: "Est-il possible de commencer plus tard que la date de début de la promotion ?"
-  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde.</p>"
+  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde. Pour la promotion 4, plus de latitude est envisageable (mais pas garantie) pour les défis autofinancés (ADEX, Opérations 18, Enki, DataMed).</p>"
   ancre: commencer-plus-tard
   
 - question: "Au terme des 10 mois, comment les défis sont-ils pérennisés ?"
@@ -51,8 +47,14 @@
   ancre: defis-eig1-eig2
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
-  reponse: "<p>Oui, c'est tout à fait possible. Merci d'en informer au plus tôt le jury pour qu'il puisse prendre ses dispositions et vous contacter via l'outil de votre choix.</p>"
+  reponse: "<p>Oui, c'est tout à fait possible.</p>"
+  ancre: visio-jury
 
+- question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
+  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général s’inspire du programme EIG. Là où le programme EIG vise à recruter des compétences numériques variées pour résoudre des défis liés à la circulation des données et à l’amélioration de l’action publique, Designers d’Intérêt Général s’intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG intègrent les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils rejoignent ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p>"
+  ancre: difference-EIG-DIG
+  
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
   reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
   ancre: autre
+ 
