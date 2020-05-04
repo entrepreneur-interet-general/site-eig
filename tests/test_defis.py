@@ -22,7 +22,6 @@ class TestDefis(BaseTest):
             "image",
             "title",
             "link_to",
-            "class",
             "skills",
             "description",
             "administration",
@@ -30,7 +29,6 @@ class TestDefis(BaseTest):
             "year",
             "promotion",
             "duration_months",
-            "colorback",
             "eigs",
             "mentors",
         ]
@@ -47,16 +45,8 @@ class TestDefis(BaseTest):
                 if key == "promotion":
                     self.assertIn(
                         content[key],
-                        [1, 2, 3, "dig"],
+                        [1, 2, 3, 4, "dig"],
                         f"Mauvaise valeur de promotion pour {defi}",
-                    )
-
-                # Check colorback
-                if key == "colorback":
-                    self.assertIn(
-                        content[key],
-                        ["blue", "red"],
-                        f"Mauvaise valeur de colorback pour {defi}",
                     )
 
                 # Check people

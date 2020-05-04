@@ -3710,6 +3710,11 @@ blockquote, ul, p {
 }
 
 /* Défis */
+.defi {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .defi .logo {
   width: 150px;
   margin-top: 1em;
@@ -3890,19 +3895,19 @@ blockquote, ul, p {
 }
 
 .label-form {
-  font-size: 1em; 
-  font-weight: 600; 
+  font-size: 1em;
+  font-weight: 600;
   margin-bottom:0.2em;
 }
 
 .responsive-iframe {
-  width: 720px; 
-  height: 400px; 
+  width: 720px;
+  height: 400px;
 }
 
 @media (max-width: 767px) {
     .responsive-iframe {
-      width: 100%; 
+      width: 100%;
     }
 }
 
