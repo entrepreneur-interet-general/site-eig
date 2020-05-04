@@ -1,10 +1,307 @@
+"ADEX":
+  image: /img/eig4/adex.png
+  title: ADEX
+  link_to: /defis/2020/adex.html
+  skills: ["dev", "design", "datascience"]
+  description: Prévenir les conflits d'intérêts dans le domaine médical
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Saint-Denis (93200)"
+  administration: Haute Autorité de Santé
+  administration_website: https://www.has-sante.fr
+  eigs: []
+  mentors:
+    - "Marie Simon"
+    - "Franck Jolivaldt"
+
+"Atlas Culture":
+  image: /img/eig4/atlas-culture.png
+  title: Atlas Culture
+  link_to: /defis/2020/atlas-culture.html
+  skills: ["dev", "design"]
+  description: Visualiser les politiques culturelles territoriales
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75001)"
+  administration: Ministère de la Culture
+  administration_website: https://culture.gouv.fr
+  eigs: []
+  mentors:
+    - "Edwige Millery"
+    - "Romain Delassus"
+    - "Loup Wolff"
+
+"CapQualif":
+  image: /img/eig4/capqualif.png
+  title: CapQualif
+  link_to: /defis/2020/capqualif.html
+  skills: ["dev", "design"]
+  description: Simplifier la remise des titres des marins professionnels
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "La Défense (92400)"
+  administration: Direction des affaires maritimes
+  administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
+  eigs: []
+  mentors:
+    - "Nicolas Singellos"
+    - "Laurence Denis"
+    - "Yves Le Nozahic"
+
+"Datalympics":
+  image: /img/eig4/datalympics.png
+  title: Datalympics
+  link_to: /defis/2020/datalympics.html
+  skills: ["dev", "design", "dataengineering"]
+  description: Contribuer à la transparence des fonds publics engagés pour les JOP 2024
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75012)"
+  administration: Direction du budget
+  administration_website: https://www.economie.gouv.fr/direction-du-budget-db
+  eigs: []
+  mentors:
+    - "René Carlet"
+    - "Xavier Michelet"
+
+"DataMed":
+  image: /img/eig4/datamed.png
+  title: DataMed
+  link_to: /defis/2020/datamed.html
+  skills: ["dev", "design", "dataengineering", "datascience"]
+  description: Accompagner l'ouverture des données sur les médicaments
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Saint-Denis (93200)"
+  administration: Agence nationale de sécurité des médicaments et des produits de santé
+  administration_website: https://ansm.sante.fr
+  eigs: []
+  mentors:
+    - "Evelyne Duplessis"
+    - "Florent Robic"
+    - "Mehdi Benkebil"
+
+"EIG Link 2020":
+  image: /img/eig4/eig-link.png
+  title: EIG Link
+  link_to: /defis/2020/eig-link.html
+  skills: ["dev", "design"]
+  description: Assurer la réussite de la promotion EIG 4
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75007)"
+  administration: Direction interministérielle du numérique
+  administration_website: https://numerique.gouv.fr
+  eigs: []
+  mentors:
+    - "Soizic Pénicaud"
+
+"Enki":
+  image: /img/eig4/enki.png
+  title: Enki
+  link_to: /defis/2020/enki.html
+  skills: ["dev", "design", "dataengineering", "geomatique"]
+  description: Mieux informer les autorités et services d'urgence lors d'une crise
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75013)"
+  administration: Agence du Numérique de la Sécurité Civile
+  administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
+  eigs: []
+  mentors:
+    - "David Vigier"
+    - "Michel Monneret"
+
+"EnviNorma":
+  image: /img/eig4/envinorma.png
+  title: EnviNorma
+  link_to: /defis/2020/envinorma.html
+  skills: ["dev", "datascience"]
+  description: Faciliter le contrôle environnemental des sites industriels
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Vincennes (94307)"
+  administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
+  administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
+  eigs: []
+  mentors:
+    - "Alexandre Leonardi"
+    - "Cédric Bourillet"
+
+"France Transition":
+  image: /img/eig4/france-transition.png
+  title: France Transition
+  link_to: /defis/2020/france-transition.html
+  skills: ["dev", "design"]
+  description: Faciliter l'accès aux aides publiques à la transition écologique et énergétique
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "La Défense (92400)"
+  administration: Commissariat général au développement durable
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  eigs: []
+  mentors:
+    - "Clément Bultheel"
+    - "Hélène Costa"
+    - "Thomas Lesueur"
+
+"LABEL":
+  image: /img/eig4/label.png
+  title: LABEL
+  link_to: /defis/2020/label.html
+  skills: ["dev", "design"]
+  description: Accélérer l'ouverture des décisions de justice
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75001)"
+  administration: Cour de Cassation
+  administration_website: https://www.courdecassation.fr
+  eigs: []
+  mentors:
+    - "Estelle Jond-Necand"
+    - "Claire Herbin"
+    - "Jean-Michel Sommer"
+
+"MonitorFish":
+  image: /img/eig4/monitorfish.png
+  title: MonitorFish
+  link_to: /defis/2020/monitorfish.html
+  skills: ["dev", "design", "datascience", "geomatique"]
+  description: Améliorer le contrôle des activités des navires de pêche
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Étel (56410)"
+  administration: Centre national de surveillance des pêches
+  administration_website: http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/surveillance-et-controle-des-peches-r168.html
+  eigs: []
+  mentors:
+    - "Céline Guillou"
+    - "Célia d'Hervé"
+    - "Thierry Coquil"
+
+"NEOTac":
+  image: /img/eig4/neotac.png
+  title: NEOTac
+  link_to: /defis/2020/neotac.html
+  skills: ["dev", "design", "datascience", "geomatique"]
+  description: Traiter de manière efficace les situations d'urgence
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Issy-les-Moulineaux (92130)"
+  administration: Direction Générale de la Gendarmerie Nationale
+  administration_website: https://www.gendarmerie.interieur.gouv.fr
+  eigs: []
+  mentors:
+    - "Thierry Hieber"
+    - "Marjory Canonne"
+    - "Vincent Barbey"
+
+"Open Collectivités":
+  image: /img/eig4/open-collectivites.png
+  title: Open Collectivités
+  link_to: /defis/2020/open-collectivites.html
+  skills: ["dev", "design"]
+  description: Simplifier l’accès aux informations financières et statistiques des collectivités locales
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75008)"
+  administration: Direction générale des collectivités locales
+  administration_website: https://www.collectivites-locales.gouv.fr
+  eigs: []
+  mentors:
+    - "Luc Brière"
+    - "Raphaël Bévenot"
+    - "Stéphane Brunot"
+
+"Opérations 18":
+  image: /img/eig4/operations-18.png
+  title: Opérations 18
+  link_to: /defis/2020/operations-18.html
+  skills: ["dev", "dataengineering", "datascience"]
+  description: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris (75017)"
+  administration: Brigade de Sapeurs-Pompiers de Paris
+  administration_website: https://www.pompiersparis.fr
+  eigs: []
+  mentors:
+    - "Nicolas Mallejac"
+    - "Denis Daviau"
+    - "Stéphane Tollemer"
+
+"SEDAccord":
+  image: /img/eig4/sedaccord.png
+  title: SEDAccord
+  link_to: /defis/2020/sedaccord.html
+  skills: ["dev", "design"]
+  description: Faciliter la collecte des archives numériques publiques
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Paris"
+  administration: Programme interministériel d'archivage numérique
+  administration_website: https://www.programmevitam.fr
+  eigs: []
+  mentors:
+    - "Méline Cournil"
+    - "Marion Ville"
+    - "Romain Delassus"
+
+"SIANCE":
+  image: /img/eig4/siance.png
+  title: SIANCE
+  link_to: /defis/2020/siance.html
+  skills: ["dev", "datascience"]
+  description: Améliorer le contrôle des activités nucléaires
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Montrouge (92120)"
+  administration: Autorité de sûreté nucléaire
+  administration_website: https://www.asn.fr
+  eigs: []
+  mentors:
+    - "Dominique Boina"
+    - "Damien Clément"
+    - "Daniel Delalande"
+
+"SSP Datalab":
+  image: /img/eig4/ssp-datalab.png
+  title: SSP Datalab
+  link_to: /defis/2020/ssp-datalab.html
+  skills: ["dev", "design", "dataengineering"]
+  description: Améliorer la statistique publique à l’aide de nouvelles techniques et outils de traitement de données
+  year: 2020
+  promotion: 4
+  duration_months: 10
+  ville: "Montrouge (92120)"
+  administration: Institut national de la statistique et des études économiques
+  administration_website: https://www.insee.fr
+  eigs: []
+  mentors:
+    - "Frédéric Comte"
+    - "Arnaud Degorre"
+
 "ACOSS-Plateforme":
   image: /img/logo-acoss-plateforme.png
   title: ACOSS-Plateforme
   link_to: /defis/2019/acossplateforme.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
-  colorback: red
+  skills: ["dev", "design"]
   description: Simplifier les démarches des cotisants à l’aide des données des Urssaf
   year: 2019
   promotion: 3
@@ -28,9 +325,7 @@
   image: /img/logo-adler.png
   title: ADLER
   link_to: /defis/2019/adler.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   description: Lutter contre les comportements financiers illicites
   year: 2019
   promotion: 3
@@ -53,9 +348,7 @@
   image: /img/logo-cartobio.png
   title: CartoBio
   link_to: /defis/2019/cartobio.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   description: "Cartographier les parcelles cultivées en agriculture biologique"
   year: 2019
   promotion: 3
@@ -79,9 +372,7 @@
   image: /img/logo-cib-nav.png
   title: CibNav
   link_to: /defis/2019/cibnav.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   description: Aider au contrôle des navires professionnels
   year: 2019
   promotion: 3
@@ -131,9 +422,7 @@
   image: /img/logo-themis.png
   title: DataJust
   link_to: /defis/2019/datajust.html
-  class: 2019 data
-  skills: EIG 3 // Data
-  colorback: red
+  skills: ["datascience"]
   description: "Construire un référentiel d’indemnisation des préjudices corporels"
   year: 2019
   promotion: 3
@@ -168,9 +457,7 @@
   image: /img/logo-datareg.png
   title: DataReg
   link_to: /defis/2019/datareg.html
-  class: 2019 data
-  skills: EIG 3 // Data
-  colorback: red
+  skills: ["geomatique", "dev"]
   description: "Maximiser l’exploitation des données de l’Arcep"
   year: 2019
   promotion: 3
@@ -195,9 +482,7 @@
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2019/eiglink.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
-  colorback: red
+  skills: ["dev", "design"]
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier ministre, direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
@@ -248,9 +533,7 @@
   image: /img/logo-explocode.png
   title: ExploCode
   link_to: /defis/2019/explocode.html
-  class: 2019 data
-  skills: EIG 3 // Data
-  colorback: red
+  skills: ["datascience"]
   description: Rendre le droit du travail lisible, accessible et compréhensible
   year: 2019
   promotion: 3
@@ -283,9 +566,7 @@
   image: /img/logo-ia-flash.png
   title: IA Flash
   link_to: /defis/2019/iaflash.html
-  class: 2019 data
-  skills: EIG 3 // Data
-  colorback: red
+  skills: ["datascience"]
   description: Fiabiliser la constatation des contraventions à partir de la reconnaissance d’images
   year: 2019
   promotion: 3
@@ -334,9 +615,7 @@
   image: /img/logo-karfur.png
   title: "Karfu’R"
   link_to: /defis/2019/karfur.html
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
-  colorback: red
+  skills: ["dev", "design"]
   description: Aider les réfugiés dans leurs démarches avec une plateforme adaptée
   year: 2019
   promotion: 3
@@ -388,9 +667,7 @@
   title: LexImpact
   link_to: /defis/2019/leximpact.html
   source_code: https://github.com/betagouv/leximpact-client
-  class: 2019 web design
-  skills: EIG 3 // Web // Design
-  colorback: red
+  skills: ["dev", "design"]
   description: "Evaluer l’impact des réformes socio-fiscales sur les citoyens"
   year: 2019
   promotion: 3
@@ -414,9 +691,7 @@
   image: /img/logo-open-chronic.png
   title: Open Chronic
   link_to: /defis/2019/openchronic.html
-  class: 2019 data
-  skills: EIG 3 // Data
-  colorback: red
+  skills: ["datascience"]
   description: Améliorer la prise en charge des malades chroniques
   year: 2019
   promotion: 3
@@ -469,9 +744,7 @@
   image: /img/logo-open-justice.png
   title: Open Justice
   link_to: /defis/2019/openjustice.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   description: Ouvrir la jurisprudence par la pseudonymisation des données
   year: 2019
   promotion: 3
@@ -526,9 +799,7 @@
   image: /img/logo-plume.png
   title: Plume
   link_to: /defis/2019/plume.html
-  class: 2019 data web design
-  skills: EIG 3 // Data // Web // Design
-  colorback: red
+  skills: ["datascience", "dev", "design"]
   description: Transformer les métiers des juridictions financières
   year: 2019
   promotion: 3
@@ -556,9 +827,7 @@
   image: /img/logo-polygraphe.png
   title: Polygraphe
   link_to: /defis/2019/polygraphe.html
-  class: 2019 data web
-  skills: EIG 3 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   year: 2019
   promotion: 3
   duration_months: 10
@@ -588,15 +857,13 @@
   image: /img/defis/dig/AchaDef.png
   title: "AchaDef"
   link_to: /defis/2019/achadef.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Faciliter l’accès aux achats hors armement du ministère des Armées"
   administration: Ministère des Armées
   administration_website: https://www.defense.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 8
-  colorback: blue
   eigs:
     - "Marc Bouteiller"
   mentors:
@@ -607,15 +874,13 @@
   image: /img/defis/dig/Alphabet.png
   title: "Alphabet"
   link_to: /defis/2019/alphabet.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Améliorer la communication et la collaboration des 1,2 million d’agents de l’Education nationale"
   administration: "Ministère de l’Éducation Nationale"
   administration_website: https://www.education.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Charlotte Bourcier"
     - "Sarah Lepreux"
@@ -628,15 +893,13 @@
   image: /img/defis/dig/App-112.png
   title: "App 112"
   link_to: /defis/2019/app-112.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Aider à sauver des vies en situation d’urgence"
   administration: "Agence de la Sécurité Civile, Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Julien Dubedout"
   mentors:
@@ -647,15 +910,13 @@
   image: /img/defis/dig/FranceCo.png
   title: "FranceCo"
   link_to: /defis/2019/franceco.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Contribuer à la réussite de FranceConnect"
   administration: Direction interministérielle du numérique (DINUM),
   administration_website: https://www.numerique.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Maxime Beaugrand"
   mentors:
@@ -666,15 +927,13 @@
   image: /img/defis/dig/ID-numerique.png
   title: "ID numérique"
   link_to: /defis/2019/id-numerique.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Bâtir une identité numérique de l’État simple, ergonomique et sécurisée"
   administration: "Mission Identité Numérique, Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Jérémie Baboukhian"
     - "Élise Sanceaume"
@@ -686,15 +945,13 @@
   image: /img/defis/dig/INPN-Espaces.png
   title: "INPN Espaces"
   link_to: /defis/2019/inpn-espaces.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Informer les citoyens sur les espaces naturels autour de chez eux"
   administration: Muséum Histoire Naturelle
   administration_website: https://inpn.mnhn.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Jean-Edouard Sastre"
   mentors:
@@ -705,15 +962,13 @@
   image: /img/defis/dig/MaFamilleIci.png
   title: "Ma famille ici"
   link_to: /defis/2019/ma-famille-ici.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Faciliter le regroupement familial des étrangers en France"
   administration: "Direction de l’Information Légale et Administrative (DILA)"
   administration_website: https://www.dila.premier-ministre.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Rosine Bernez"
   mentors:
@@ -724,15 +979,13 @@
   image: /img/defis/dig/Maritux.png
   title: "Maritux"
   link_to: /defis/2019/maritux.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Faciliter l’accès à une information marine de qualité"
   administration: Service hydrographique et océanographique de la marine (Shom), Ministère des Armées
   administration_website: https://www.shom.fr/
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Cécile Canel"
   mentors:
@@ -743,15 +996,13 @@
   image: /img/defis/dig/PlaniPref.png
   title: "PlaniPref"
   link_to: /defis/2019/planipref.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Faciliter la prise de rendez-vous en préfecture"
   administration: "Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 7
-  colorback: blue
   eigs:
     - "Nicolas Patriarca"
   mentors:
@@ -774,14 +1025,12 @@
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
       url: /docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
       call_to_action: "Voir le logigramme"
-      
+
 "Plateforme Handicap":
   image: /img/defis/dig/Plateforme-Handicap.png
   title: "Plateforme Handicap"
   link_to: /defis/2019/plateforme-handicap.html
-  class: 2019 dig design
-  skills: DIG // Design
-  colorback: blue
+  skills: ["design"]
   description: "Simplifier le parcours des familles dont les enfants sont en situation de handicap"
   administration: "Académie de Clermont-Ferrand, Ministère de l’Éducation Nationale"
   duration_months: 6
@@ -800,15 +1049,13 @@
   image: /img/defis/dig/ProxiRH.png
   title: "ProxiRH"
   link_to: /defis/2019/proxi-rh.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Accompagner le développement professionnel des agents de l’académie de Lyon"
   administration: "Académie de Lyon, Ministère de l’Éducation Nationale"
   administration_website: http://www.ac-lyon.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Laurent Darellis"
   mentors:
@@ -819,15 +1066,13 @@
   image: /img/defis/dig/Recrues.png
   title: "Recrues"
   link_to: /defis/2019/recrues.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Favoriser le recrutement à la Gendarmerie nationale"
   administration: Direction Générale de la Gendarmerie nationale (DGGN)
   administration_website: https://www.gendarmerie.interieur.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 9
-  colorback: blue
   eigs:
     - "Iris Naudin"
     - "Nicolas Grandjean"
@@ -840,15 +1085,13 @@
   image: /img/defis/dig/RembourSante.png
   title: "RembourSanté"
   link_to: /defis/2019/remboursante.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Améliorer la compréhension des remboursements de l’assurance maladie sur le compte Ameli"
   administration: "Caisse Nationale d’Assurance Maladie"
   administration_website: https://assurance-maladie.ameli.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Alexis Deny"
   mentors:
@@ -873,7 +1116,7 @@
       title: "Prototype web"
       description: "Prototype réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen
-      call_to_action: "Découvrir la version Web"
+      call_to_action: "Découvrir la version web"
     - image: img/realisations/2019/RembourSante_ProtoMobile.png
       title: "Prototype mobile"
       description: "Prototype mobile réalisé pour mener les tests utilisateurs"
@@ -890,15 +1133,13 @@
   image: /img/defis/dig/ResorptionBidonvilles.png
   title: "Résorption bidonvilles"
   link_to: /defis/2019/resorption-bidonvilles.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Connaître, partager et agir pour résorber les bidonvilles"
   administration: "Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Ministère du Logement"
   administration_website: https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Laure Dubuc"
   mentors:
@@ -934,15 +1175,13 @@
   image: /img/defis/dig/Sequoia.png
   title: "Sequoia"
   link_to: /defis/2019/sequoia.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable - Ministère de la Transition Écologique et Solidaire
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
   year: 2019
   promotion: "dig"
   duration_months: 12
-  colorback: blue
   eigs:
     - "Marie Ramon-Daré"
     - "Charlotte Marmet"
@@ -969,21 +1208,19 @@
       title: "Cas d’usages"
       description: "À partir de la recherche utilisateur et des besoins identifiés, plusieurs parcours ont été améliorés et maquettés avec les équipes projets."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_cas-d-usages.pdf
-      call_to_action: "Parcourir les cas d'usages"  
+      call_to_action: "Parcourir les cas d'usages"
 
 "Vigicr’UX":
   image: /img/defis/dig/VigicrUX.png
   title: "Vigicr’UX"
   link_to: /defis/2019/vigicrux.html
-  class: 2019 dig design
-  skills: DIG // Design
+  skills: ["design"]
   description: "Mieux informer les citoyens sur les risques de crues"
   administration: Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI), Ministère de la Transition Ecologique et Solidaire
   administration_website: https://www.vigicrues.gouv.fr/
   year: 2019
   promotion: "dig"
   duration_months: 6
-  colorback: blue
   eigs:
     - "Flavien Colsenet"
   mentors:
@@ -995,9 +1232,7 @@
   image: /img/defis/9_ARCHEMSE.png
   title: Archifiltre
   link_to: /defis/2018/archifiltre.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
-  colorback: blue
+  skills: ["datascience", "dev"]
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
   administration_website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
@@ -1030,9 +1265,7 @@
   image: /img/defis/5_balisage.png
   title: b@liseNAV
   link_to: /defis/2018/balisenav.html
-  class: 2018 web
-  skills: EIG 2 // Web
-  colorback: blue
+  skills: ["dev"]
   description: Rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée
   year: 2018
   duration_months: 10
@@ -1064,9 +1297,7 @@
   image: /img/defis/10_brigadenumerique.png
   title: Brigade Numérique
   link_to: /defis/2018/brigadenumerique.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
-  colorback: blue
+  skills: ["dev", "design"]
   description: "Moderniser la fonction d’accueil en brigade"
   year: 2018
   duration_months: 10
@@ -1100,9 +1331,7 @@
   image: /img/defis/12_CoachElevesAssistProf.png
   title: CoachÉlèves
   link_to: /defis/2018/coacheleves.html
-  class: 2018 data
-  skills: EIG 2 // Data
-  colorback: blue
+  skills: ["datascience"]
   description: "Améliorer la réussite scolaire avec les données d’apprentissage"
   year: 2018
   duration_months: 10
@@ -1133,9 +1362,7 @@
   image: /img/defis/13_dataESR.png
   title: DataESR
   link_to: /defis/2018/dataesr.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
-  colorback: blue
+  skills: ["datascience", "dev"]
   description: Révéler tout le potentiel des données de la recherche
   administration: "Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation, Département des outils d’aide à la décision"
   administration_website: hhttp://www.enseignementsup-recherche.gouv.fr/
@@ -1169,9 +1396,7 @@
   image: /img/defis/11_EIGLink.png
   title: EIG Link
   link_to: /defis/2018/eiglink.html
-  class: 2018 web
-  skills: EIG 2 // Web
-  colorback: blue
+  skills: ["dev"]
   description: "Accompagner un collectif numérique d’intérêt général au sein de l’État"
   administration: "Services du Premier Ministre, Direction interministérielle du numérique et du système d’information et de communication de l’État, Etalab"
   administration_website: https://www.etalab.gouv.fr/qui-sommes-nous
@@ -1219,9 +1444,7 @@
   image: /img/defis/3_ Mobilier national.png
   title: Gobelins
   link_to: /defis/2018/gobelins.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
-  colorback: blue
+  skills: ["dev", "design"]
   description: Révéler les richesses du Mobilier National
   year: 2018
   duration_months: 10
@@ -1272,9 +1495,7 @@
   image: /img/defis/7_MACP.png
   title: Hopkins
   link_to: /defis/2018/hopkins.html
-  class: 2018 data
-  skills: EIG 2 // Data
-  colorback: blue
+  skills: ["datascience"]
   description: "Lutter contre la fraude financière et enrayer l’économie souterraine"
   year: 2018
   duration_months: 10
@@ -1308,9 +1529,7 @@
   image: /img/defis/2_Labsanté.png
   title: Lab Santé
   link_to: /defis/2018/labsante.html
-  class: 2018 data
-  skills: EIG 2 // Data
-  colorback: blue
+  skills: ["datascience"]
   description: Valoriser les données du système de santé
   year: 2018
   duration_months: 10
@@ -1344,9 +1563,7 @@
   image: /img/defis/1_MTES.png
   title: PrédiSauvetage
   link_to: /defis/2018/donneesauvetagemaritime.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
-  colorback: blue
+  skills: ["dataengineering", "dev"]
   description: Sauver des vies en mer en prévenant les accidents maritimes
   year: 2018
   duration_months: 10
@@ -1402,9 +1619,7 @@
   image: /img/defis/4_Previsecours.png
   title: Prévisecours
   link_to: /defis/2018/previsecours.html
-  class: 2018 web data
-  skills: EIG 2 // Web // Data
-  colorback: blue
+  skills: ["dataengineering", "datascience"]
   description: Permettre aux sapeurs-pompiers de prévoir leurs interventions futures
   administration: "Ministère de l’Intérieur, Mission de coordination et d’appui à la valorisation des données"
   administration_website: https://www.interieur.gouv.fr
@@ -1458,9 +1673,7 @@
   image: /img/defis/6_Signauxfaibles.png
   title: Signaux Faibles
   link_to: /defis/2018/signauxfaibles.html
-  class: 2018 data web
-  skills: EIG 2 // Data // Web
-  colorback: blue
+  skills: ["datascience", "dev"]
   description: Détecter les entreprises en difficulté pour mieux les accompagner
   administration: "Ministère de l’Economie, direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté"
   administration_website: http://bourgogne-franche-comte.direccte.gouv.fr/
@@ -1493,9 +1706,7 @@
   image: /img/defis/8_CGET.png
   title: "Social Connect"
   link_to: /defis/2018/socialconnect.html
-  class: 2018 web design
-  skills: EIG 2 // Web // Design
-  colorback: blue
+  skills: ["dev", "design"]
   description: "Repérer et mettre en réseau l’innovation sociale dans les territoires"
   year: 2018
   duration_months: 10
@@ -1529,9 +1740,7 @@
   image: /img/icone-eig.png
   title: AFD - Geodata
   link_to: /defis/2017/afd-geodata.html
-  class: 2017 web
-  skills: EIG 1 // Web
-  colorback: red
+  skills: ["dev"]
   description: Mettre les données ouvertes au service de projets de développement
   year: 2017
   duration_months: 10
@@ -1562,9 +1771,7 @@
   image: /img/icone-eig.png
   title: ARS - Parcours de soin
   link_to: /defis/2017/ars-occitanie-parcours-de-soin.html
-  class: 2017 data web
-  skills: EIG 1 // Data // Web
-  colorback: red
+  skills: ["datascience", "dev"]
   description: Améliorer l’offre de soin en Occitanie
   year: 2017
   duration_months: 10
@@ -1594,9 +1801,7 @@
   image: /img/icone-eig.png
   title: BNF - catalogage
   link_to: /defis/2017/bnf-catalogage.html
-  class: 2017 web
-  skills: EIG 1 // Web
-  colorback: red
+  skills: ["dev"]
   description: Créer un nouvel outil de catalogage
   administration: Bibliothèque nationale de France
   administration_website: http://www.bnf.fr
@@ -1621,9 +1826,7 @@
   image: /img/icone-eig.png
   title: CC - API rapports
   link_to: /defis/2017/cc-api-rapports.html
-  class: 2017 web
-  skills: EIG 1 // Web
-  colorback: red
+  skills: ["dev"]
   description: Mieux informer les citoyens sur l’emploi de l’argent public
   administration: Cour des comptes
   administration_website: https://www.ccomptes.fr
@@ -1653,9 +1856,7 @@
   image: /img/icone-eig.png
   title: DGFiP - fraude fiscale
   link_to: /defis/2017/dgfip-fraude-fiscale.html
-  class: 2017 data
-  skills: EIG 1 // Data
-  colorback: red
+  skills: ["datascience"]
   description: Identifier les résidents fiscaux français ayant omis de déclarer
   year: 2017
   duration_months: 10
@@ -1684,9 +1885,7 @@
   image: /img/icone-eig.png
   title: MCC - Inventaire des orgues
   link_to: /defis/2017/mcc-inventaire-des-orgues.html
-  class: 2017 web
-  skills: EIG 1 // Web
-  colorback: red
+  skills: ["dev"]
   description: Révéler et valoriser le patrimoine des orgues
   year: 2017
   duration_months: 10
@@ -1719,9 +1918,7 @@
   image: /img/icone-eig.png
   title: MESRI - La machine à données
   link_to: /defis/2017/mesri-magical-merge-machine.html
-  class: 2017 web
-  skills: EIG 1 // Web
-  colorback: red
+  skills: ["dev"]
   description: Automatiser le nettoyage de bases de données
   year: 2017
   duration_months: 10
@@ -1753,9 +1950,7 @@
   image: /img/icone-eig.png
   title: MI - cartAV
   link_to: /defis/2017/mi-cartav-securite-routiere.html
-  class: 2017 web data
-  skills: EIG 1 // Data // Web
-  colorback: red
+  skills: ["dev", "datascience"]
   description: Augmenter la sécurité sur les routes en exploitant les données
   year: 2017
   duration_months: 10
@@ -1790,9 +1985,7 @@
   image: /img/icone-eig.png
   title: MI - matchID
   link_to: /defis/2017/mi-matchid.html
-  class: 2017 web data
-  skills: EIG 1 // Data // Web
-  colorback: red
+  skills: ["dev", "datascience"]
   description: Fiabiliser les statistiques de sécurité routière
   administration: "Ministère de l’Intérieur"
   administration_website: https://www.interieur.gouv.fr/
