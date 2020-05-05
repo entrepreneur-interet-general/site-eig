@@ -1043,7 +1043,7 @@
   mentors:
     - "Béatrice Clément"
     - "Emmanuelle Rosnet"
-      key_figures:
+  key_figures:
     - amount: 39
       description: "entretiens qualitatifs"
     - amount: 4
