@@ -956,7 +956,32 @@
     - "Jean-Edouard Sastre"
   mentors:
     - "Mathieu Clair"
-    - "Jean-Denis Vigne"
+    - "Nicolas Boulain"
+  key_figures:
+    - amount: 25000
+      description: "espaces naturels"
+    - amount: 4
+      description: "prototypes interactifs"
+    - amount: 80
+      description: "écrans réalisés"
+    - amount: 12
+      description: "interviews utilisateurs"
+projects:
+    - image: img/realisations/2019/INPN_Synthese.png
+      title: "Synthèse"
+      description: "Présentation du défi et de ses grandes étapes de conception"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019
+      call_to_action: "Consulter la synthèse"
+    - image: img/realisations/2019/INPN_Documentation.png
+      title: "Prototype de l'application"
+      description: "Prototype réalisé pour mener des tests utilisateurs"
+      url: https://www.figma.com/proto/fNRVej9maHtrOEPcMvhp3Z/Proto-v4?node-id=502%3A4463&scaling=scale-down
+      call_to_action: "Découvrir l'application"
+    - image: img/realisations/2019/INPN_Documentation.png
+      title: "Documentation du projet"
+      description: "La documentation principale de ce projet est publiée en ligne et accessible librement."
+      url: https://www.notion.so/inpn/INPN-Espaces-39b59236ecab4ab18c0cbef46108115c
+      call_to_action: "Parcourir la documentation"
 
 "Ma famille ici":
   image: /img/defis/dig/MaFamilleIci.png
