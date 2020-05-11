@@ -1174,7 +1174,7 @@
 "Sequoia CGDD":
   image: /img/defis/dig/Sequoia.png
   title: "Sequoia CGDD"
-  link_to: /defis/2019/sequoia_cgdd.html
+  link_to: /defis/2019/sequoia-cgdd.html
   skills: ["design"]
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable - Ministère de la Transition Écologique et Solidaire
@@ -1191,7 +1191,7 @@
   "Sequoia IGN":
   image: /img/defis/dig/Sequoia.png
   title: "Sequoia IGN"
-  link_to: /defis/2019/sequoia_ign.html
+  link_to: /defis/2019/sequoia-ign.html
   skills: ["design"]
   description: "Améliorer l’information environnementale du citoyen"
   administration: Institut national de l'information géographique et forestière - Ministère de la Transition Écologique et Solidaire
