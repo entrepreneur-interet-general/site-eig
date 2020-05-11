@@ -2175,25 +2175,6 @@ Jean-Baptiste Le Dévéhat:
   twitter: jbledevehat
   website:
 
-Jean-Denis Vigne:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - INPN Espaces
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2019/jean-denis-vigne.html
-  linkedin:
-  profil: Mentor
-  programme: DIG
-  title: Jean-Denis Vigne
-  twitter:
-  website:
-
 Jean-Edouard Sastre:
   annees:
   - 2019
@@ -3120,6 +3101,25 @@ Nicolas Bizet:
   profil: Mentor
   programme: EIG
   title: Nicolas Bizet
+  twitter:
+  website:
+
+  Nicolas Boulain:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - INPN Espaces
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/nicolas-boulain.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Nicolas Boulain
   twitter:
   website:
 
