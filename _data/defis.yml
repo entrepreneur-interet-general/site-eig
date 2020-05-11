@@ -1080,20 +1080,20 @@ projects:
       description: "% d’intéressés par le service"
   projects:
     - image: img/realisations/2019/Verslecolepourtous_Synthese.png
-       title: "Synthèse"
-       description: "Présentation du défi et de ses grandes étapes de conception"
-       url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
-       call_to_action: "Consulter la synthèse"
-     - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
-       title: "Prototype web"
-       description: "Maquette finale livrée à la DSI"
-       url: "https://www.figma.com/proto/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3439&viewport=120%2C134%2C0.06216467544436455&scaling=min-zoom"
-       call_to_action: "Voir le prototype"
-     - image: img/realisations/2019/Verslecolepourtous_Documentation.png
-       title: "Documentation du projet"
-       description: "La documentation principale de ce projet est publiée en ligne et accessible librement"
-       url: https://github.com/entrepreneur-interet-general/verslecolepourtous
-       call_to_action: "Consulter la documentation"
+      title: "Synthèse"
+      description: "Présentation du défi et de ses grandes étapes de conception"
+      url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
+      call_to_action: "Consulter la synthèse"
+    - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
+      title: "Prototype web"
+      description: "Maquette finale livrée à la DSI"
+      url: "https://www.figma.com/proto/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3439&viewport=120%2C134%2C0.06216467544436455&scaling=min-zoom"
+      call_to_action: "Voir le prototype"
+    - image: img/realisations/2019/Verslecolepourtous_Documentation.png
+      title: "Documentation du projet"
+      description: "La documentation principale de ce projet est publiée en ligne et accessible librement"
+      url: https://github.com/entrepreneur-interet-general/verslecolepourtous
+      call_to_action: "Consulter la documentation"
 
 "ProxiRH":
   image: /img/defis/dig/ProxiRH.png
