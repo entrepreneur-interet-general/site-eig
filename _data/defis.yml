@@ -1185,8 +1185,8 @@
   eigs:
     - "Marie Ramon-Daré"
   mentors:
-    - Olivier Garry
-    - Thomas Lesueur
+    - "Olivier Garry"
+    - "Thomas Lesueur"
 
   "Sequoia IGN":
   image: /img/defis/dig/Sequoia.png
@@ -1202,8 +1202,8 @@
   eigs:
     - "Charlotte Marmet"
   mentors:
-    - Laurent Delgado
-    - Thomas Lesueur
+    - "Laurent Delgado"
+    - "Thomas Lesueur"
   key_figures:
     - amount: 13
       description: "entretiens d'utilisateurs finaux"
