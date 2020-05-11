@@ -1023,7 +1023,7 @@
     - image: img/realisations/2019/PlaniPref_Logigramme.png
       title: "Logigramme du logiciel unifié"
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
-      url: /docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
+      url: /docs/DIG_livrables/PlaniPref_191213_Vision_logicielUnifie.png
       call_to_action: "Voir le logigramme"
 
 "Vers l'école pour tous":
@@ -1242,7 +1242,7 @@
     - image: img/realisations/2019/Sequoia_RechercheUX.png
       title: "Résultats de la recherche utilisateur"
       description: "Les résultats de la recherche utilisateur mêlent à la fois recherche quantitative et qualitative et ont permis d’identifier 3 axes majeurs à arbitrer."
-      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_résultats-recherche-utilisateur.pdf
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_RechercheUX.pdf
       call_to_action: "Parcourir la recherche utilisateur"
     - image: img/realisations/2019/Sequoia_CasUsages.png
       title: "Cas d’usages"
