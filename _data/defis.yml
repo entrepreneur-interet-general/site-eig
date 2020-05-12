@@ -956,7 +956,32 @@
     - "Jean-Edouard Sastre"
   mentors:
     - "Mathieu Clair"
-    - "Jean-Denis Vigne"
+    - "Nicolas Boulain"
+  key_figures:
+    - amount: 25000
+      description: "espaces naturels"
+    - amount: 4
+      description: "prototypes interactifs"
+    - amount: 80
+      description: "écrans réalisés"
+    - amount: 12
+      description: "interviews utilisateurs"
+  projects:
+    - image: img/realisations/2019/INPN_Synthese.png
+      title: "Synthèse"
+      description: "Présentation du défi et de ses grandes étapes de conception"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019
+      call_to_action: "Consulter la synthèse"
+    - image: img/realisations/2019/INPN_App.png
+      title: "Prototype de l'application"
+      description: "Prototype réalisé pour mener des tests utilisateurs"
+      url: https://www.figma.com/proto/fNRVej9maHtrOEPcMvhp3Z/Proto-v4?node-id=502%3A4463
+      call_to_action: "Découvrir l'application"
+    - image: img/realisations/2019/INPN_Documentation.png
+      title: "Documentation du projet"
+      description: "La documentation principale de ce projet est publiée en ligne et accessible librement."
+      url: https://www.notion.so/inpn/INPN-Espaces-39b59236ecab4ab18c0cbef46108115c
+      call_to_action: "Parcourir la documentation"
 
 "Ma famille ici":
   image: /img/defis/dig/MaFamilleIci.png
@@ -1053,22 +1078,6 @@
       description: "session de tests utilisateurs"
     - amount: 98
       description: "% d’intéressés par le service"
-  # projects:
-  #   - image: img/realisations/2019/Verslecolepourtous_Synthese.png
-  #     title: "Synthèse"
-  #     description: "Présentation du défi et de ses grandes étapes de conception"
-  #     url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
-  #     call_to_action: "Consulter la synthèse"
-  #   - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
-  #     title: "Prototype web"
-  #     description: "Maquette finale livrée à la DSI"
-  #     url: "https://www.figma.com/proto/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3439&viewport=120%2C134%2C0.06216467544436455&scaling=min-zoom"
-  #     call_to_action: "Voir le prototype"
-  #   - image: img/realisations/2019/Verslecolepourtous_Documentation.png
-  #     title: "Documentation du projet"
-  #     description: "La documentation principale de ce projet est publiée en ligne et accessible librement"
-  #     url: https://github.com/entrepreneur-interet-general/verslecolepourtous
-  #     call_to_action: "Consulter la documentation"
 
 "ProxiRH":
   image: /img/defis/dig/ProxiRH.png

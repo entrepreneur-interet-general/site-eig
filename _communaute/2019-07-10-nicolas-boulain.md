@@ -1,4 +1,4 @@
 ---
 layout: personne
-nom: Jean-Denis Vigne
+nom: Nicolas Boulain
 ---
