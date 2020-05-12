@@ -956,7 +956,32 @@
     - "Jean-Edouard Sastre"
   mentors:
     - "Mathieu Clair"
-    - "Jean-Denis Vigne"
+    - "Nicolas Boulain"
+  key_figures:
+    - amount: 25000
+      description: "espaces naturels"
+    - amount: 4
+      description: "prototypes interactifs"
+    - amount: 80
+      description: "écrans réalisés"
+    - amount: 12
+      description: "interviews utilisateurs"
+  projects:
+    - image: img/realisations/2019/INPN_Synthese.png
+      title: "Synthèse"
+      description: "Présentation du défi et de ses grandes étapes de conception"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019
+      call_to_action: "Consulter la synthèse"
+    - image: img/realisations/2019/INPN_App.png
+      title: "Prototype de l'application"
+      description: "Prototype réalisé pour mener des tests utilisateurs"
+      url: https://www.figma.com/proto/fNRVej9maHtrOEPcMvhp3Z/Proto-v4?node-id=502%3A4463
+      call_to_action: "Découvrir l'application"
+    - image: img/realisations/2019/INPN_Documentation.png
+      title: "Documentation du projet"
+      description: "La documentation principale de ce projet est publiée en ligne et accessible librement."
+      url: https://www.notion.so/inpn/INPN-Espaces-39b59236ecab4ab18c0cbef46108115c
+      call_to_action: "Parcourir la documentation"
 
 "Ma famille ici":
   image: /img/defis/dig/MaFamilleIci.png
@@ -1023,7 +1048,7 @@
     - image: img/realisations/2019/PlaniPref_Logigramme.png
       title: "Logigramme du logiciel unifié"
       description: "Le logiciel unifié et le parcours des usagers présenté sous forme de logigramme traçant les relations et les dépendances."
-      url: /docs/DIG_livrables/PlaniPref_191213_Présentation_vision_logicielUnifie.png
+      url: /docs/DIG_livrables/PlaniPref_191213_Vision_logicielUnifie.png
       call_to_action: "Voir le logigramme"
 
 "Vers l'école pour tous":
@@ -1053,22 +1078,6 @@
       description: "session de tests utilisateurs"
     - amount: 98
       description: "% d’intéressés par le service"
-  # projects:
-  #   - image: img/realisations/2019/Verslecolepourtous_Synthese.png
-  #     title: "Synthèse"
-  #     description: "Présentation du défi et de ses grandes étapes de conception"
-  #     url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
-  #     call_to_action: "Consulter la synthèse"
-  #   - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
-  #     title: "Prototype web"
-  #     description: "Maquette finale livrée à la DSI"
-  #     url: "https://www.figma.com/proto/3A58YNHArkluN5vdh1Ir1e/Iteration-VIII?node-id=480%3A3439&viewport=120%2C134%2C0.06216467544436455&scaling=min-zoom"
-  #     call_to_action: "Voir le prototype"
-  #   - image: img/realisations/2019/Verslecolepourtous_Documentation.png
-  #     title: "Documentation du projet"
-  #     description: "La documentation principale de ce projet est publiée en ligne et accessible librement"
-  #     url: https://github.com/entrepreneur-interet-general/verslecolepourtous
-  #     call_to_action: "Consulter la documentation"
 
 "ProxiRH":
   image: /img/defis/dig/ProxiRH.png
@@ -1196,10 +1205,10 @@
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Maquette_Oct2019.pdf
       call_to_action: "Découvrir les maquettes"
 
-"Sequoia":
+"Sequoia CGDD":
   image: /img/defis/dig/Sequoia.png
-  title: "Sequoia"
-  link_to: /defis/2019/sequoia.html
+  title: "Sequoia CGDD"
+  link_to: /defis/2019/sequoia-cgdd.html
   skills: ["design"]
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable - Ministère de la Transition Écologique et Solidaire
@@ -1209,11 +1218,26 @@
   duration_months: 12
   eigs:
     - "Marie Ramon-Daré"
+  mentors:
+    - "Olivier Garry"
+    - "Thomas Lesueur"
+
+"Sequoia IGN":
+  image: /img/defis/dig/Sequoia.png
+  title: "Sequoia IGN"
+  link_to: /defis/2019/sequoia-ign.html
+  skills: ["design"]
+  description: "Améliorer l’information environnementale du citoyen"
+  administration: Institut national de l'information géographique et forestière - Ministère de la Transition Écologique et Solidaire
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  year: 2019
+  promotion: "dig"
+  duration_months: 6
+  eigs:
     - "Charlotte Marmet"
   mentors:
-    - Olivier Garry
-    - Laurent Delgado
-    - Thomas Lesueur
+    - "Laurent Delgado"
+    - "Thomas Lesueur"
   key_figures:
     - amount: 13
       description: "entretiens d'utilisateurs finaux"
@@ -1227,7 +1251,7 @@
     - image: img/realisations/2019/Sequoia_RechercheUX.png
       title: "Résultats de la recherche utilisateur"
       description: "Les résultats de la recherche utilisateur mêlent à la fois recherche quantitative et qualitative et ont permis d’identifier 3 axes majeurs à arbitrer."
-      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_résultats-recherche-utilisateur.pdf
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_RechercheUX.pdf
       call_to_action: "Parcourir la recherche utilisateur"
     - image: img/realisations/2019/Sequoia_CasUsages.png
       title: "Cas d’usages"

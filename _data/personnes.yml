@@ -1258,14 +1258,14 @@ Charlotte Marmet:
   - designer
   - dig
   defis:
-  - Sequoia
+  - Sequoia IGN
   github:
   gitlab:
   image_url: /img/communaute/charlotte-marmet.png
   link_to: /communaute/2019/charlotte-marmet.html
   linkedin: https://www.linkedin.com/in/charlotte-marmet-a60a3bb2/
   profil: Designer
-  programme: EIG
+  programme: DIG
   title: Charlotte Marmet
   twitter:
   website:
@@ -2175,25 +2175,6 @@ Jean-Baptiste Le Dévéhat:
   twitter: jbledevehat
   website:
 
-Jean-Denis Vigne:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - INPN Espaces
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2019/jean-denis-vigne.html
-  linkedin:
-  profil: Mentor
-  programme: DIG
-  title: Jean-Denis Vigne
-  twitter:
-  website:
-
 Jean-Edouard Sastre:
   annees:
   - 2019
@@ -2546,14 +2527,14 @@ Laurent Delgado:
   - dig
   - mentor
   defis:
-  - Sequoia
+  - Sequoia IGN
   github:
   gitlab:
   image_url: /img/communaute/Laurent_Delgado.jpg
   link_to: /communaute/2019/laurent-delgado.html
   linkedin:
   profil: Mentor
-  programme: EIG
+  programme: DIG
   title: Laurent Delgado
   twitter:
   website:
@@ -2798,14 +2779,14 @@ Marie Ramon-Daré:
   - designer
   - dig
   defis:
-  - Sequoia
+  - Sequoia CGDD
   github:
   gitlab:
   image_url: /img/communaute/marie-ramon-dare.png
   link_to: /communaute/2019/marie-ramon-dare.html
   linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
   profil: Designer
-  programme: EIG
+  programme: DIG
   title: Marie Ramon-Daré
   twitter:
   website:
@@ -3123,6 +3104,25 @@ Nicolas Bizet:
   twitter:
   website:
 
+Nicolas Boulain:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - INPN Espaces
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/nicolas-boulain.html
+  linkedin:
+  profil: Mentor
+  programme: DIG
+  title: Nicolas Boulain
+  twitter:
+  website:
+
 Nicolas Grandjean:
   annees:
   - 2019
@@ -3245,7 +3245,7 @@ Olivier Garry:
   - dig
   - mentor
   defis:
-  - Sequoia
+  - Sequoia CGDD
   github:
   gitlab:
   image_url: /img/communaute/olivier-garry.png
@@ -3951,7 +3951,8 @@ Thomas Lesueur:
   - eig4
   - mentor
   defis:
-  - Sequoia
+  - Sequoia IGN
+  - Sequoia CGDD
   - France Transition
   github:
   gitlab:
