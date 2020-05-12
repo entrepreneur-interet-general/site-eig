@@ -975,7 +975,7 @@ projects:
     - image: img/realisations/2019/INPN_Documentation.png
       title: "Prototype de l'application"
       description: "Prototype réalisé pour mener des tests utilisateurs"
-      url: https://www.figma.com/proto/fNRVej9maHtrOEPcMvhp3Z/Proto-v4?node-id=502%3A4463&scaling=scale-down
+      url: https://www.figma.com/proto/fNRVej9maHtrOEPcMvhp3Z/Proto-v4?node-id=502%3A4463
       call_to_action: "Découvrir l'application"
     - image: img/realisations/2019/INPN_Documentation.png
       title: "Documentation du projet"
