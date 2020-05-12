@@ -28,7 +28,7 @@ D’un point de vue technique la solution devra :
 - simplifier et fluidifier le parcours d’aide grâce à une plateforme pensée utilisateur ; 
 - s’inscrire dans une démarche de sobriété numérique.
 
-_Ce défi sera réalisé en collaboration avec l’équipe de la start-up d’Etat [Ecolab](https://beta.gouv.fr/startups/ecolab.html)._
+_Ce défi sera réalisé en collaboration avec les équipes de l'Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique et solidaire._
 
 ## Profils recherchés
 ### EIG 1 - Designer de service
