@@ -966,7 +966,7 @@
       description: "écrans réalisés"
     - amount: 12
       description: "interviews utilisateurs"
-projects:
+ projects:
     - image: img/realisations/2019/INPN_Synthese.png
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
