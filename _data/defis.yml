@@ -1205,10 +1205,10 @@ projects:
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/ResorptionBidonvilles_Maquette_Oct2019.pdf
       call_to_action: "Découvrir les maquettes"
 
-"Sequoia":
+"Sequoia CGDD":
   image: /img/defis/dig/Sequoia.png
-  title: "Sequoia"
-  link_to: /defis/2019/sequoia.html
+  title: "Sequoia CGDD"
+  link_to: /defis/2019/sequoia-cgdd.html
   skills: ["design"]
   description: "Améliorer l’information environnementale du citoyen"
   administration: Commissariat Général au Développement Durable - Ministère de la Transition Écologique et Solidaire
@@ -1218,11 +1218,26 @@ projects:
   duration_months: 12
   eigs:
     - "Marie Ramon-Daré"
+  mentors:
+    - "Olivier Garry"
+    - "Thomas Lesueur"
+
+"Sequoia IGN":
+  image: /img/defis/dig/Sequoia.png
+  title: "Sequoia IGN"
+  link_to: /defis/2019/sequoia-ign.html
+  skills: ["design"]
+  description: "Améliorer l’information environnementale du citoyen"
+  administration: Institut national de l'information géographique et forestière - Ministère de la Transition Écologique et Solidaire
+  administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  year: 2019
+  promotion: "dig"
+  duration_months: 6
+  eigs:
     - "Charlotte Marmet"
   mentors:
-    - Olivier Garry
-    - Laurent Delgado
-    - Thomas Lesueur
+    - "Laurent Delgado"
+    - "Thomas Lesueur"
   key_figures:
     - amount: 13
       description: "entretiens d'utilisateurs finaux"
