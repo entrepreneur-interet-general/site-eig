@@ -1,0 +1,11 @@
+{% for webinaire in site.data.webinaires_eig4 %}
+  {% if webinaire.defis contains include.defi_slug %}
+  <h2>Wébinaire</h2>
+  <p>
+    Vous pouvez participer au wébinaire de présentation de ce défi et du programme pour poser vos questions aux agents publics qui portent le défi. Ce défi sera présenté lors du wébinaire « {{ webinaire.theme}} » du {{ webinaire.date }}.
+  </p>
+  <p>
+    Vous pouvez <a href="{{ webinaire.inscription_url }}" title="Inscription au wébinaire">vous inscrire en ligne</a>{% if webinaire.rediffusion_url %} ou regarder la <a href="{{ webinaire.rediffusion_url }}" title="Rediffusion du wébinaire">rediffusion de ce wébinaire{% endif%}.
+  </p>
+  {% endif %}
+{% endfor %}

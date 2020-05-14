@@ -1,0 +1,14 @@
+<ul>
+  {% for webinaire in site.data.webinaires_eig4 %}
+  <li>
+    {{ webinaire.date | capitalize }} : {{ webinaire.theme }}
+    {% if webinaire.defis.size > 0 %}
+      {% for defi in webinaire.defis %}
+        <a href="{{ site.data.defis[defi].link_to }}" title="Lien vers le défi">{{ site.data.defis[defi].title }}</a>{% if forloop.last != true %},&nbsp;{% endif %}
+      {% endfor %}
+    {% endif %}
+    (<a href="{{ webinaire.inscription_url }}" title="Inscription au wébinaire">🗓 Inscription</a>{% if webinaire.rediffusion_url %}
+      - <a href="{{ webinaire.rediffusion_url }}" title="Rediffusion du wébinaire">🎥 Rediffusion</a>{% endif %})
+  </li>
+  {% endfor %}
+</ul>
