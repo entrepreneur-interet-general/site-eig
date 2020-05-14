@@ -219,7 +219,7 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #1c419b;
-  border: 0px solid #9D1F1D;
+  border: 0;
 }
 
 .button.tiny {
@@ -231,11 +231,9 @@ ul.shortcode-list i {
 }
 
 .button.red {
-  text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
   background: #b01818;
-  border: 2px solid #b01818;
 }
 
 .button.red:hover {
