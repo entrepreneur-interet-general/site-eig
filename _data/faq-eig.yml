@@ -2,6 +2,18 @@
   reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire (premier et deuxième cycle), à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
   
+- question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
+  reponse: "<p> Le programme repose sur l'immersion dans les administrations d'accueil, et de ce fait ne permet pas de télétravail complet. La possibilité de télétravailler régulièrement varie selon les administrations. La plupart le permettent et l'encadrent, mais il faudra que vous posiez la question aux mentors lors des entretiens.</p>"
+  ancre: teletravail
+  
+- question: "Où travaillent les EIG ?"
+  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
+  ancre: lieu-de-travail
+  
+- question: "Où se situent les administrations d'accueil ?"
+  reponse: "<p>La localisation des administrations d'accueil est indiquée en haut de la page de description des défis. Les défis de la promotion 4 se déroulent à Paris ou en région parisienne, à l'exception de Monitor Fish qui se déroule entre la région parisienne et le Morbihan (56).</p>"
+  ancre: lieu
+  
 - question: "Je suis en CDI, dois-je démissionner de mon poste actuel ?"
   reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\"https://www.service-public.fr/particuliers/vosdroits/F10431\">congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
   ancre: demission-CDI
@@ -13,14 +25,6 @@
 - question: "En quoi un EIG est-elle ou il différent d’un contractuel en CDD de 3 ans dans l’administration ?"
   reponse: "<p>À la différence d’un contractuel classique, les EIG sont mobilisés sur un seul projet, et pendant 10 mois. Cela leur permet de mener un projet de bout en bout, de sa conception à sa réalisation. Les mentors sont garants de ce format, en permettant aux EIG de rentrer en contact avec tous les interlocuteurs nécessaires à la réalisation du projet.</p>"
   ancre: pas-un-contractuel-classique
-
-- question: "Où travaillent les EIG ?"
-  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
-  ancre: lieu-de-travail
-
-- question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
-  reponse: "<p>La possibilité de travailler à distance varie selon les administrations. La plupart le permettent et l'encadrent, mais il faudra que vous posiez la question aux mentors lors des entretiens. Gardez à l'esprit que les défis sont des défis d'équipe et que la proximité entre les EIG est un facteur de réussite important.</p>"
-  ancre: teletravail
 
 - question: "Quelle est la forme du contrat des EIG avec leur administration d’accueil ?"
   reponse: "<p>Les EIG, une fois sélectionnés, rentrent en contact avec l’administration d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10 mois rémunéré 4 000 € net par mois.</p>"
