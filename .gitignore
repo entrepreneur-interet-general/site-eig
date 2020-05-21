@@ -1,7 +1,6 @@
 .sass-cache
 _site
 _old
-Gemfile.lock
 .jekyll-metadata
 venv
 tests/__pycache__/
