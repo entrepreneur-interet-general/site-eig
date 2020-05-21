@@ -1,9 +1,9 @@
 version: 2
 
 jobs:
-  build:
+  test_files:
     docker:
-      - image: circleci/python:3.6
+      - image: circleci/python:3.7
     steps:
       - restore_cache:
           keys:
@@ -36,3 +36,55 @@ jobs:
           command: |
             . venv/bin/activate
             nosetests .
+
+  test_jekyll:
+    docker:
+      - image: circleci/ruby:2.7-node-browsers
+
+    steps:
+      - restore_cache:
+          keys:
+            - source-v1-{{ .Branch }}-{{ .Revision }}
+            - source-v1-{{ .Branch }}-
+            - source-v1-
+
+      - checkout
+
+      - save_cache:
+          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ".git"
+
+      - run:
+          name: Update bundler
+          command: gem install bundler
+
+      - restore_cache:
+          keys:
+            - cache-v1-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Bundle Install
+          command: bundle check || bundle install --path vendor/bundle
+
+      - save_cache:
+          key: cache-v1-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+            - ~/.local
+            - ~/.cache
+
+      - run:
+          name: Check Jekyll configuration
+          command: bundle exec jekyll doctor
+
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
+
+workflows:
+  version: 2
+  tests:
+    jobs:
+      - test_jekyll
+      - test_files
