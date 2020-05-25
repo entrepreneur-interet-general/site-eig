@@ -25,6 +25,9 @@ layout: default
         <i class="fa fa-building" title="Administration de rattachement"></i>
         <span class="sr-only">Administration de rattachement :</span>
         <a href='{{ defi_data.administration_website }}' target='new'>{{ defi_data.administration }}</a>
+        {% if defi_data.ville %}
+        - <i class="fa fa-map-marker" title="Emplacement"></i> {{ defi_data.ville }}
+        {% endif %}
       </div>
       <div class="metadata">
         <i class="fa fa-calendar" title="Année et durée"></i>
@@ -77,10 +80,28 @@ layout: default
         <i class="fa fa-code" title="Lien vers le code source"></i> Code source
       </a>
       {% endif %}
+      {% if defi_data.eigs.size == 0 %}
+      <div class="two spacing"></div>
+      <a class="button" href="/defis.html" title="Liste des défis">
+        <i class="fa fa-backward" title="Retour"></i> Voir les autres défis
+      </a>
+      <a class="button" href="https://www.demarches-simplifiees.fr/commencer/aac-eig4">
+        <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Postuler
+      </a>
+      {% endif %}
       <div class="two spacing"></div>
 
       {{ content }}
 
+      {% if defi_data.eigs.size == 0 %}
+      <p>
+        <i>
+          Ces compétences techniques sont l’un des éléments d’appréciation d’une candidature. Les critères de sélection sont détaillés <a href="/candidature-eig.html" title="Page de candidature">sur la page de candidature</a>.
+        </i>
+      </p>
+      {% endif %}
+
+      {% include defi_webinaire.html defi_slug=page.title %}
 
       {% if defi_data.key_figures %}
       <div class="two spacing"></div>
