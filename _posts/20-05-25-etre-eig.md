@@ -1,14 +1,14 @@
 ---
 author: Sophie Miljkovic, équipe EIG
 description: "Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données : des entrepreneurs d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement, être EIG ?"
-image: /img/photo_jury_twitter_EIG4.png
+image: /img/blog/bootcamp/bootcamp6.jpg
 layout: post
 tags:
-- méthode
-- outil
-- évaluation
+- recrutement
+- temoignage
+- collectif
 title: " Qui sont et que font les « entrepreneurs d’intérêt général » ?"
-twitter: 
+twitter: MiljkovicSophie
 ---
 
 Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ? 
@@ -16,7 +16,7 @@ Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel
 Voici tout ce que vous devez savoir sur le statut des EIG et la posture entrepreneuriale qui leur est demandée. Et pour plus de concret, **découvrez les retours d’expériences d’anciennes et anciens EIG** !
 
 	
-## Un format particulier dans l’Etat
+## Un format particulier dans l’État
 
 ### Faire partie d’une équipe de spécialistes du numérique
 
@@ -30,7 +30,7 @@ Pour mener à bien leurs projets, les EIG travaillent **en immersion dans l’ad
 
 Concrètement, chaque EIG signe **un CDD de 10 mois** avec son administration d’accueil, **rémunéré 4000 euros net par mois**. Les EIG sont donc des contractuels de la fonction publique. 
 
-_Pour plus de détails sur les critères d’éligibilité, consultez le règlement du programme et la foire aux questions._
+_Pour plus de détails sur les critères d’éligibilité, consultez le [règlement du programme](https://entrepreneur-interet-general.etalab.gouv.fr/docs/AACEIG4_Reglement.pdf) et la [foire aux questions](https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html)._
 
 
 ## Une posture entrepreneuriale à assumer
@@ -56,7 +56,7 @@ Les EIG intègrent une administration, mais aussi une promotion et une communaut
 
 Pour assumer cette posture entrepreneuriale, les compétences techniques sont importantes, mais **les qualités humaines sont plus importantes encore** ! Cela demande de la curiosité, de l’empathie et de la bienveillance, des capacités d’adaptation, un sens de la pédagogie et bien sûr le sens de l’intérêt général. 
 
-Le programme a déjà accompagné 3 promotions d’EIG, dont certains ont raconté leur expérience au sein de l’administration et du programme EIG. 
+Le programme a déjà accompagné 3 promotions d’EIG, dont certaines et certains ont raconté leur expérience au sein de l’administration et du programme EIG. 
 
 Nous vous invitons à lire :
 
@@ -69,4 +69,6 @@ Nous vous invitons à lire :
 
 Vous pouvez aussi regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l).
 
-Vous avez des questions pour les membres de la communauté ? 
+Enfin, vous pouvez découvrir [la communauté des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), composée de profils variés et dont certains vous parleront peut-être !
+
+Vous pensez que le programme est fait pour vous ? [Jusqu'au 7 juin 2020 à 23h, répondez à l'appel à candidatures](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html) pour faire partie de la promotion 4. 
