@@ -5,7 +5,7 @@ image: /img/blog/bootcamp/bootcamp6.jpg
 layout: post
 tags:
 - recrutement
-- temoignage
+- témoignage
 - collectif
 title: " Qui sont et que font les « entrepreneurs d’intérêt général » ?"
 twitter: MiljkovicSophie
