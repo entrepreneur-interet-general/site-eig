@@ -54,20 +54,20 @@ Les EIG intègrent une administration, mais aussi une promotion et une communaut
 
 ## Être EIG : retours d’expérience
 
-Pour assumer cette posture entrepreneuriale, les compétences techniques sont importantes, mais **les qualités humaines sont plus importantes encore** ! Cela demande de la curiosité, de l’empathie et de la bienveillance, des capacités d’adaptation, un sens de la pédagogie et bien sûr le sens de l’intérêt général. 
+Pour assumer cette posture entrepreneuriale, les compétences techniques sont importantes, mais **les qualités humaines sont plus importantes encore** ! Cela demande de la curiosité, de l’empathie et de la bienveillance, des capacités d’adaptation, un sens de la pédagogie... Et bien sûr le sens de l’intérêt général. 
 
 Le programme a déjà accompagné 3 promotions d’EIG, dont certaines et certains ont raconté leur expérience au sein de l’administration et du programme EIG. 
 
 Nous vous invitons à lire :
 
 -	[L’article de Coline Lebaratoux, designer de la promotion EIG 3](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/le-design-de-services-dans-une-administration.html)
--	[L’article  d’Antoine Augusti, data scientist / développeur de la promotion EIG 2](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/06/11/travailler-avec-des-donnees-d-exception.html)
+-	[L’article  d’Antoine Augusti, data scientist / développeur de la promotion EIG 2 et EIG 3](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/06/11/travailler-avec-des-donnees-d-exception.html)
 -	[L’article de Tiphaine Phe-Neau, data scientist de la promotion EIG 2](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/29/pourquoi-devenir-EIG.html)
 -	[L’article de Dora Crisan, développeuse de la promotion EIG 2](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/15/retour-experience-defi-brigade-numerique.html)
 -	[L’article de Bastien Guerry, développeur des promotions EIG 1 et EIG 2](https://bzg.fr/ce-que-ca-fait-detre-eig.html/)
 -	[L’article de Frédéric Bardolle, développeur de la promotion EIG 1](https://medium.com/@seiteta/retour-entrepreneur-interet-general-e64e08a6296a )
 
-Vous pouvez aussi regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l).
+Vous pouvez aussi regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l) et [les vidéos bilans de la promotion EIG 1](https://www.dailymotion.com/video/x64z28u?playlist=x54m4i).
 
 Enfin, vous pouvez découvrir [la communauté des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), composée de profils variés et dont certains vous parleront peut-être !
 
