@@ -2586,6 +2586,8 @@ body.screenshot {
   opacity: 0;
   position: absolute;
   top: 0;
+  left: 0;
+  padding: 10px;
   text-align: center;
   width: 100%;
   height: 100%;
@@ -2637,18 +2639,6 @@ body.screenshot {
 .modGallery ul.gallery.seperated li {
   padding: 10px;
 }
-@media only screen and (max-width: 767px) {
-  .modGallery ul.gallery.seperated li {
-    padding: 10px 0;
-  }
-
-  .modGallery ul.gallery.seperated h3 {
-    font-size: 0.8rem;
-    margin-left: -15px;
-    margin-right: -15px;
-  }
-}
-
 .modIconText .icon-text-circle {
   text-align: center;
 }
@@ -4067,5 +4057,36 @@ blockquote, ul, p {
 @media only screen and (min-width: 50em) {
   .pres-push {
     float: right;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .modGallery ul.gallery.seperated li {
+    padding: 10px 0;
+  }
+
+  .modGallery ul.gallery.seperated li.defis {
+    padding: 0;
+  }
+
+  .modGallery ul.gallery.seperated li.defis > a {
+    padding: 10px;
+    display: block;
+  }
+
+  .modGallery ul.gallery.seperated h3 {
+    font-size: 0.8rem;
+  }
+
+  .modGallery ul.gallery li.defis a .title {
+    font-size: 0.8rem;
+  }
+
+  .modGallery ul.gallery li.defis a .description {
+    font-size: 0.8rem;
+  }
+
+  .modGallery ul.gallery li.defis .thumb_description {
+    font-size: 0.8rem;
   }
 }
