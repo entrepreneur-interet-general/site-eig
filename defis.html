@@ -43,7 +43,13 @@ section_id: defis
                 <img alt="{{defi.title}}" class="image" src="{{defi.image}}" />
                 <h2 class="title">{{ defi.title }}</h2>
                 <p class="description">{{ defi.description }}</p>
-                <p class="skills">{{ defi.skills }}</p>
+                <p class="skills">
+                  {{ promo.slug }}
+                  {% for skill in defi.skills %}
+                  //
+                    {{ site.data.skills[skill] }}
+                  {% endfor %}
+                </p>
                 <div class='overlay defis_overlay-{{ promo.colorback }}'>
                   <div class='thumb-info'>
                     <h3 class="mt-0">{{ defi.title }}</h3>
