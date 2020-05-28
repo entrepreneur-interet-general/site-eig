@@ -40,8 +40,11 @@ section_id: defis
                   </div>
                 </li>
               {% endif %}
+              {% if defi.promotion == promo.promotion %}
+                {% break %}
+              {% endif %}
             {% endfor %}
-            <li class='defis {{defi.class}} eig-{{defi.promotion}}'>
+            <li class='defis {{ defi.skills | join: " "}} eig-{{defi.promotion}}'>
               <a href='{{defi.link_to}}'>
                 <img alt="{{defi.title}}" class="image" src="{{defi.image}}" />
                 <h2 class="title">{{ defi.title }}</h2>
