@@ -8,7 +8,8 @@ tags:
 - méthode
 - collectif
 - outil
-title: "Ouvrir les ressources du programme : notre documentation en ligne"
+title: "EN - Ouvrir les ressources du programme : notre documentation en ligne"
+permalink: /en/blog/:year/:month/:day/:title.html
 lang-ref: documentation-programme
 twitter: AntoineAugusti
 ---

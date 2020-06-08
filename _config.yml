@@ -13,15 +13,22 @@ twitter_username: etalab
 github_username:  entrepreneur-interet-general
 list_url: https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio
 
-plugins: [jekyll-paginate]
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate-v2]
+gems: [jekyll-paginate-v2]
 
 include: [_redirects]
 
 # Build settings
 markdown: kramdown
-paginate: 8
-paginate_path: "blog/page:num"
+#paginate: 8
+#paginate_path: "blog/page:num"
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 8
+  permalink: '/page:num/'
+  sort_reverse: true
 
 future: true
 
@@ -31,12 +38,12 @@ defaults:
     scope:
       path: ""
     values:
-      lang: "fr"
+      locale: "fr"
   -
     scope:
       path: "en"
     values:
-      lang: "en"
+      locale: "en"
   #collections
   -
     scope:
