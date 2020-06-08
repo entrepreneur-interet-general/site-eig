@@ -26,6 +26,18 @@ paginate_path: "blog/page:num"
 future: true
 
 defaults:
+  #langs
+  -
+    scope:
+      path: ""
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+  #collections
   -
     scope:
       path: ""

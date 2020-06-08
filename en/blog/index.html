@@ -1,0 +1,18 @@
+---
+layout: blog
+section_id: blog
+---
+
+<h1 class="mt-0">Les actualités du programme</h1>
+
+<ul class="small-block-grid-1 large-block-grid-2 mt-2">
+{% for post in paginator.posts %}
+  <li style="padding: 0 .3em">
+    {% include post_card.html %}
+  </li>
+{% endfor %}
+</ul>
+
+{% include pagination.html root="blog" %}
+
+<div class='four spacing'></div>

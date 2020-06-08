@@ -8,7 +8,8 @@ tags:
 - open
 - accompagnement
 - méthode
-title: 'Promotion EIG 3 : on fait le bilan'
+title: 'EN - Promotion EIG 3 : on fait le bilan'
+permalink: /en/blog/:year/:month/:day/:title.html
 lang-ref: bilan-eig3
 twitter: soizicpenicaud
 ---
