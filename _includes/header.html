@@ -48,7 +48,9 @@
             {% endif %}
             {% for post in posts %}
               {% if post.locale != page.locale %}
-              <li><a href="{{ post.url }}">{{ post.locale }}</a></li>
+                {% unless post.url contains 'page' %}
+                <li><a href="{{ post.url }}">{{ post.locale }}</a></li>
+                {% endunless %}
               {% endif %}
             {% endfor %}
           {% else %}
