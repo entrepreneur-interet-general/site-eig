@@ -443,10 +443,6 @@ ul.shortcode-list i {
   color: #333;
 }
 
-.top-bar-section ul li.lastmenu > a {
-    font-weight: 800;
-}
-
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     color: #333;
     background: #f9f9f9;
@@ -3910,4 +3906,3 @@ blockquote, ul, p {
       width: 100%;
     }
 }
-

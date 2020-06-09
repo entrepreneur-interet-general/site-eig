@@ -21,9 +21,6 @@
           {% else %}
             {% assign active_class = "" %}
           {% endif %}
-	  {% if forloop.last %}
-	    {% assign active_class = "lastmenu" %}
-          {% endif %}
           {% if item.children %}
             <li class="has-dropdown {{active_class}}">
 	      <a style="cursor:default;">{{ item.name }}</a>
@@ -41,6 +38,28 @@
             </li>
           {% endif %}
         {% endfor %}
+        <li class="has-dropdown lastmenu">
+          <a style="cursor:default;">{{ page.locale }}</a>
+          <ul class="dropdown">
+          {% if page.lang-ref %}
+            {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'locale' | reverse %}
+            {% if posts.size == 0 %}
+              {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'locale' | reverse %}
+            {% endif %}
+            {% for post in posts %}
+              {% if post.locale != page.locale %}
+              <li><a href="{{ post.url }}">{{ post.locale }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            {% if page.section_id != 'unavailable' %}
+              <li><a href="/en/unavailable">EN</a></li>
+            {% else %}
+              <li><a href="{{ site.url }}">FR</a></li>
+            {% endif %}
+          {% endif %}
+          </ul>
+        </li>
       </ul>
     </section>
   </nav>
