@@ -1,0 +1,25 @@
+- name: Program
+  section_id: presentation
+  children:
+  - name : Présentation du programme
+    path: presentation.html
+  - name: Offre d'accompagnement
+    path: accompagnement.html
+  - name: Réalisations
+    path: realisations.html
+  - name: F.A.Q. Entrepreneur
+    path: faq-eig.html
+  - name: F.A.Q. Administration
+    path: faq-administrations.html
+
+- name: Défis
+  section_id : defis
+  path: defis.html
+
+- name: Communauté
+  section_id : communaute
+  path: communaute.html
+
+- name: Blog
+  section_id: blog
+  path: en/blog/

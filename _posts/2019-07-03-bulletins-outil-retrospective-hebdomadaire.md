@@ -11,6 +11,7 @@ tags:
 - open
 - accompagnement
 title: 'Bulletins : notre outil open source de rétrospective hebdomadaire'
+lang-ref: bulletins-form
 twitter: AntoineAugusti
 ---
 
@@ -28,7 +29,7 @@ L'équipe du programme EIG est en capacité de suivre l'avancement de chaque dé
 
 ## Alternatives envisagées
 
-Pour répondre à ce besoin de circulation de l'information entre équipes, on organise souvent des réunions de suivi hebdomadaires, aussi appelées « stand-up meetings ». Les stand-up sont des réunions durant lesquels plusieurs personnes se réunissent au même endroit, au même moment, pour dire à tour de rôle ce sur quoi elles travaillent. Ce sont des points d’étapes récurrents, qui servent à faire circuler des informations au sein d’une équipe. 
+Pour répondre à ce besoin de circulation de l'information entre équipes, on organise souvent des réunions de suivi hebdomadaires, aussi appelées « stand-up meetings ». Les stand-up sont des réunions durant lesquels plusieurs personnes se réunissent au même endroit, au même moment, pour dire à tour de rôle ce sur quoi elles travaillent. Ce sont des points d’étapes récurrents, qui servent à faire circuler des informations au sein d’une équipe.
 
 Problème : les stand-up demandent à plusieurs personnes d’interrompre leur travail respectif au même moment pour absorber des informations qui ne leur seront sans doute pas utiles au même moment. Par ailleurs, nos équipes sont dans des lieux de travail différents et n'ont pas un besoin crucial de connaître l’avancement des autres défis pour mener à bien leurs tâches. Enfin, la tenue d'une rétrospective via un outil de communication en ligne (vidéo ou conversation instantanée) ne permet pas de véritablement être asynchrone ni de proposer un archivage efficace.
 
@@ -63,7 +64,7 @@ Les réponses saisies dans le formulaire de l'application ne sont pas publiques.
 
 ## Un outil générique et open source
 
-La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple, efficace de suivi hebdomadaire et qui correspond à notre vision. 
+La problématique de partage d'informations entre équipes ou projets est récurrente. Avec [Bulletins](https://bulletins.eig-forever.org), nous sommes heureux d'avoir à notre disposition un outil simple, efficace de suivi hebdomadaire et qui correspond à notre vision.
 
 Grâce à Bulletins, nous avons réussi à impliquer une trentaine de personnes de manière hebdomadaire. L'équipe de coordination dispose désormais d'un outil précieux pour suivre l'avancement de chacun. Nous l'utilisons en complément d'autres outils, comme la discussion instantanée, où nous commentons régulièrement les rétrospectives.
 

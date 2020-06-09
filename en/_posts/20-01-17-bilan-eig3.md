@@ -1,144 +1,141 @@
 ---
-author: Soizic Pénicaud, équipe EIG
-description: La promotion EIG 3 a pris fin le 15 novembre 2019. Quel est le bilan collectif des 15 défis et 32 EIG de la promotion ? Quelles sont les pistes d'amélioration pour le programme en 2020 ?
+author: Soizic Pénicaud, EIG team
+description: The EIG 3 promotion ended on 15 November 2019. What conclusions can be drawn overall from the promotion's 15 challenges and 32 EIGs? How can the programme be improved in 2020?
 image: https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg
 layout: post
 tags:
-- évaluation
+- assessment
 - open
-- accompagnement
-- méthode
-title: 'EN - Promotion EIG 3 : on fait le bilan'
+- coaching
+- method
+title: 'EIG 3 promotion: conclusions drawn'
 permalink: /en/blog/:year/:month/:day/:title.html
 lang-ref: bilan-eig3
 twitter: soizicpenicaud
 ---
 
-Le 15 novembre 2019, après 10 mois de travail intense et près de 18 mois après le lancement de l’appel à projets pour constituer la troisième promotion des entrepreneurs d’intérêt général, celle-ci s’est officiellement achevée. [C’est avec fierté que nous avons clôturé cette promotion lors d’un événement de restitution publique, le 12 novembre 2019](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general), à l’occasion duquel chaque défi a pu présenter ses résultats.
+On 15 November 2019, after 10 months of intense work and almost 18 months after the launching of the call for projects in order to establish the third public interest entrepreneurs promotion, the latter officially ended. [We were proud to close this promotion at a public debriefing event on 12 November 2019](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general), when the results of each challenge were presented.
 
-**Nous souhaitions également évaluer les résultats collectifs de la promotion au regard des deux objectifs, ambitieux, du programme** : produire des outils utiles, ouverts et pérennes au sein des administrations, et contribuer à la transformation numérique de l’État et à l’internalisation des compétences numériques.
+ **We also wanted to assess the promotion's collective results against the programme's two ambitious objectives** : produce useful, open source and sustainable tools within administrations, and contribute to the State's digital transformation and the insourcing of digital skills.
 
-**Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui gagnerait à être amélioré ou écarté ?**
+ **What worked well? What would benefit from being improved or discarded?**
 
-Les constats de cet article sont issus d'un ensemble de sources : questionnaires anonymes, ateliers, données collectée sur les défis. Ces différents dispositifs (et leurs limites) sont détaillés en fin d'article.
+The findings of this article are drawn from a variety of sources: anonymous questionnaires, workshops and data collected on challenges. These devices (and their limits) are described in detail at the end of the article.
 
-![Des personnes discutent devant des stands de démonstration, dans une grande salle.](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-deambulation-e1578682127167-1024x596.jpg)
-_Les défis présentent leurs réalisations aux visiteurs, le 12 novembre 2019. Pour un résumé de l'événement, voir le [billet de blog sur Etalab](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general)._
+ ![People chatting in front of demonstration stands in a large room](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-deambulation-e1578682127167-1024x596.jpg)
+_Challenges presented their achievements to visitors on 12 November 2019. For a summary of the event, see [blog post on Etalab](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general)._
 
+## 10 months later, what are the main findings in terms of digital transformation and tool production?
 
-## 10 mois après, quels sont les principaux constats en termes de transformation numérique et de production d’outils ?
+### Insourcing of skills & digital acculturation
 
-### Internalisation des compétences & acculturation au numérique
+&#x1F4CD;  **What is important in the programme is the people. Almost all mentors indicate that** recruiting rare profiles was a key factor in applying for the programme (the second factor was co-funding, for half the mentors).
 
-&#x1F4CD; **Dans le programme, ce qui est important, ce sont les gens. Presque tous les mentors indiquent que** recruter des profils rares était un élément déterminant pour postuler au programme (le deuxième facteur est le cofinancement, pour la moitié des mentors).
+ **This year, the promotion was successful in insourcing skills:** 5 EIG teams were fully or partially hired by administrations backing challenges. **⅓ of EIGs continue to work for the administration after the programme, including in other administrations**.
 
-**Cette année, la promotion a réussi le pari de l’internalisation des compétences :** 5 équipes EIG ont été complètement ou partiellement embauchées par les administrations porteuses des défis. **⅓ des EIG continuent à travailler pour l’administration après le programme, y compris dans d’autres administrations**.
+The sustainable recruitment of innovative profiles in administrations is also consolidated by the [EIG programme receiving funding under the Finance Law](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMOBJINDPGM352.htm). This will be used to set establish a fourth EIG promotion in 2020.
 
-C’est d’ailleurs pour renforcer le recrutement pérenne de profils innovants dans l’administration que le [programme EIG reçoit du financement en loi de finances](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMOBJINDPGM352.htm). Il servira à constituer une quatrième promotion EIG en 2020.
+One mentor raised an unexpected effect of the programme for the State's attractiveness as an employer: “EIGs inspire [other] applicants to join the team”.
 
-Un mentor a soulevé un effet inattendu du programme pour l’attractivité de l’Etat employeur : “les EIG inspirent [d’autres] candidats pour rejoindre l’équipe”.
+&#x1F4CD; **Acculturation of host administrations:** more than half the challenges organised training sessions for the professions, in various topics - data science, geomatics, open data, semantic analysis, [accessibility](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html). EIGs also contributed to organizing meetups and facilitating workshops for services.
 
-&#x1F4CD; **Acculturation des administrations d’accueil :** plus de la moitié des défis ont organisé des formations pour les métiers, sur des thèmes variés - data science, géomatique, open data, analyse sémantique, [accessibilité](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html). Les EIG ont également contribué à l’organisation de meetups et à la facilitation d’ateliers pour les services.
+These training sessions provided acculturation in professions and digital skills. A mentor explained this as follows: “the role of UX designers is better understood in administrations and is more sought after by teams”. Another noted the "very important demystification of artificial intelligence and data science”.
 
-Ces formations permettent une acculturation aux métiers et compétences du numérique. Un mentor explique ainsi : “le rôle d’UX designer est mieux compris dans l’administration et est plus recherché par les équipes”. Un autre note la “démystification très importante de l’intelligence artificielle et de la data science”.
+&#x1F4CD;  **Mentors' skills development:** public servants who participated in the programme testified to an increase in skills, in particular outside their core business. For the most part, these were the skills of their EIGs: more than half said that they knew more about data science, one third more about development and one third more about design.
 
-&#x1F4CD; **Montée en compétences des mentors :** les agents publics qui participent au programme attestent d’un gain de compétences, notamment hors de leur coeur de métier. Pour la plupart, il s’agit des compétences qu'ont leurs EIG : plus de la moitié indiquent mieux connaître la data science, un tiers le développement et un tiers le design.
+They also said that it was a rewarding professional experience. A mentor explained this as follows: “it's an opportunity to manage a small, highly productive and competent data team that's hard to do without afterwards".
 
-C’est également une expérience professionnelle enrichissante. Un mentor explique : “c’est une opportunité de management d’une petite équipe data très productive et compétente, difficile de s’en passer après".
+![Two people discussing paper prototypes of an interface displayed on the wall](/img/blog/ux-mvp.jpg)
+_Co-construction of prototypes for the ACOSS Platform challenge_
 
-![Deux personnes discutent autour de prototypes papier d'une interface affichés au mur](/img/blog/ux-mvp.jpg)
-_Co-construction de prototypes pour le défi ACOSS Plateforme_
+### Long-lasting tools and efforts made in terms of openness
 
+Some results have also been achieved in challenges, in particular in terms of openness.
 
-### Des outils pérennisés et des efforts d'ouverture
+&#x1F4CD; **Most of the tools developed will be put on a permanent footing in host administrations**, in various forms. 5 tools have already been integrated into the information systems of administrations, and 9 more will be by March 2020.
 
-On note également quelques résultats du côté des réalisations des défis, notamment sur le plan de l’ouverture.
+&#x1F4CD; **From the open source perspective**, 10 challenges (out of 15) have online code repositories. 2 challenges (ExploCode and Open Chronic) have published reusable libraries (see [here](https://github.com/SocialGouv/autosuggest) and [here](https://pypi.org/project/tsfaker/)). Also of note is [Plume's cooperation with the Editoria open source community](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) for the Court of Auditors' drafting tool.
 
-&#x1F4CD; **La majorité des outils développés seront pérennisés dans les administrations d’accueil**, sous différentes formes. 5 outils sont déjà intégrés dans les systèmes d’informations des administrations, et 9 autres le seront d’ici à mars 2020.
+&#x1F4CD; **In terms of open source data**, 3 challenges (EIG Link, Open Chronic and CibNav) have opened up data sets. The [CartoBio] challenge (http://www.cartobio.org/#/), which makes organic farming land plot data available on demand, is planning an open data release in the near future. These results do not come up to our expectations. A few explanations: some challenges did not lend themselves to the opening up of data sets, while for others the required time and/or resources were not available. Finally, our coaching in this regard would perhaps benefit from being refined.
 
-&#x1F4CD; **Sur le plan de l’open source**, 10 défis (sur 15) ont des dépôts de code en ligne. 2 défis (ExploCode et Open Chronic) ont publié des librairies réutilisables (voir [ici](https://github.com/SocialGouv/autosuggest) et [ici](https://pypi.org/project/tsfaker/)). Notons également la [collaboration de Plume avec la communauté open source Editoria](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) pour l’outil de rédaction de la Cour des comptes.
+_We do not focus here on the effectiveness and usefulness of achievements for each challenge. If you are interested in this topic, data are available [on the individual pages of each challenge.](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)_
 
-&#x1F4CD; **En termes d’open data**, 3 défis (EIG Link, Open Chronic et CibNav) ont ouvert des jeux de données. Le défi [CartoBio](http://www.cartobio.org/#/), qui met à disposition les données parcellaires d’agriculture biologique sur demande, prévoit une mise en open data prochaine. Ces résultats ne sont pas à la hauteur de nos attentes. Quelques pistes d’explication : les problématiques de certains défis ne se prêtaient pas à l’ouverture de jeux de données, d’autres ont manqué de temps et/ou de ressources pour le faire. Enfin, notre accompagnement sur ce volet gagnerait peut-être à être affiné.
-
-_Nous ne nous concentrons pas ici sur l’efficacité et l’utilité des réalisations par défi. Si le sujet vous intéresse, des données sont disponibles [sur les pages individuelles de chaque défi.](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)_
-
-_Vous pouvez également retrouver une description de chaque défi et des prochaines étapes dans le [livret de restitution de la promotion](https://entrepreneur-interet-general.etalab.gouv.fr/docs/20191028_livret_EIG_restitution_v4.pdf)._
+_You can also find a description of each challenge and the next steps in the [promotion feedback booklet](https://entrepreneur-interet-general.etalab.gouv.fr/docs/20191028_livret_EIG_restitution_v4.pdf)._
 
 
-### Quel rôle pour le programme EIG ?
+### What is the role of the EIG programme?
 
-&#x1F4CD; Depuis 3 ans, nous avons formé autour du programme EIG une importante communauté, dont le coeur est [la promotion EIG en cours et les anciens EIG et mentors](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html). Elle est soutenue entre autres par les membres du jury, nos partenaires et les membres de la direction interministérielle du numérique.
+&#x1F4CD; Over the past 3 years we have established a large EIG programme community, the core of which is [the current EIG promotion and former EIGs and mentors](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html). It is supported, among other things, by the members of the panel, our partners and the members of the direction interministérielle du numérique (the State's interministerial directorate of digital technology).
 
-**Cette communauté est vue comme essentielle par la promotion**. Un EIG explique : “je n’aurais pas postulé sans la communauté et je pense que le projet n’aurait probablement pas abouti à autant sans, elle est plus qu’indispensable”.
+**This community is seen to be essential by the promotion**. An EIG explained: “I would not have applied without the community and I think the project probably wouldn't have got this far without it: it's more than essential”.
 
-&#x1F4CD; **Les éléments du programme d’accompagnement les plus plébiscités sont d’ailleurs les formats collectifs** : [bootcamp](https://doc.eig-forever.org/animation.html), [séminaires hors-les-murs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/27/retour-seminaire-mai-2019.html), sessions d’accompagnement collectives.
+&#x1F4CD;  **The most popular parts of the coaching programme are in fact the collective formats** : [bootcamp](https://doc.eig-forever.org/animation.html), [outside seminaries](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/27/retour-seminaire-mai-2019.html), group coaching sessions.
 
-**Cette communauté permet aussi un important apprentissage pair-à-pair :** 25 EIG disent avoir développé des compétences hors de leur coeur de métier. Il s'agit de connaissances juridiques et sur le fonctionnement de l’administration, de compétences tech transmises par d’autres EIG, et de compétences en gestion de projet. Un tiers estiment avoir également progressé techniquement.
+**This community also provides for significant peer-to-peer learning:** 25 EIGs said they had developed skills outside their core business. This included legal and administrative knowledge, technical skills imparted by other EIGs, and project management skills. A third of them believed that they had also improved technically.
 
-&#x1F4CD; On note également **le succès de [l’outil de partage d’informations “Bulletins”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)**, mis en place par le programme, considéré comme très pertinent. Les bulletins hebdomadaires étaient lus au moins une fois par mois par plus de 80% des EIG.
+&#x1F4CD; Also of note is **the success of [the “Bulletins” information-sharing tool](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)**, developed by the programme, which is considered to be very relevant. The weekly bulletins were read at least once a month by more than 80% of EIGs.
 
-L’écosystème des EIG s’étend au-delà de la promotion. **Ainsi, l’immense majorité a été en lien avec des membres de la direction interministérielle du numérique pendant l’année**, et notamment des membres d’Etalab. Ces interactions ont été très appréciées par les EIG.
+The EIG ecosystem extends beyond the promotion.  **The vast majority was thus in contact with members of the direction interministérielle du numérique during the year**, including members of Etalab. These interactions were very much appreciated by EIGs.
 
-&#x1F4CD; **Une de nos grandes fiertés : la satisfaction des EIG et des mentors.** 75% des EIG et la très grande majorité des mentors se déclarent satisfaits ou très satisfaits des résultats de leur projet. 5 mentors sur 12 disent également que le programme a dépassé leurs attentes, ainsi que 10 EIG sur 27.
+&#x1F4CD; **One of our greatest sources of pride: the satisfaction of EIGs and mentors.** 75% of EIGs and the vast majority of mentors said that they were satisfied or very satisfied with the results of their project. 5 out of 12 mentors also said that the programme exceeded their expectations, as did 10 out of 27 EIGs.
 
-![Un groupe de personnes posent pour une photo de groupe](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg)_La promotion EIG 3 (EIG et mentors), lors de l'événement de restitution du 12 novembre._
+![A group of people posing for a group photo](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg)_The EIG 3 promotion (EIGs and mentors), at the feedback event on 12 November._
+
+## Ways to improve the EIG programme
+
+**1.Better support administrations in defining the skills they are looking for.**
+
+Overall, teams found that the projects were fairly well defined, or that any lack of definition allowed EIGs to take back ownership of the project (through suitable policy backing). However, some teams explained that they would have preferred more definition, in particular in terms of EIG profiles sought. We will pursue this avenue for future promotions.  **We also want to create more balanced promotions in terms of skills and subjects,** with data scientists, designers and developers in equal proportions. This year, the including of more designers in the promotion and the success of the "Public interest designers" experiment confirmed the importance of design for public innovation.
+
+**2.Consolidate links with the community of former EIGs.**
+
+EIG 3 participants regretted having had little contact with EIGs of previous promotions. We are thus giving consideration to opportunities for inter-promotion interactions. Such opportunities include the creation by a few EIG alumni of the LEON association (open digital entrepreneurs), intended to bring together former EIGs and mentors.
+
+**3.Continue to adjust the coaching programme to the specificities of each promotion.**
+
+**The collective coaching sessions were popular as a means of bringing the promotion together, but their format did not always live up to the expectations of EIGs and mentors**. Two of the main suggestions expressed were to: implement more structured peer-to-peer learning formats (considered more useful than "top-down" actions) and involve more outside participants.
+
+**In addition, we still have to iterate on the tasks of the EIG Link.** This third promotion saw the introduction of a second EIG Link designer, intended to consolidate the internal technical coaching that can be provided to EIGs. This introduction was appreciated. However, EIG Links have a large number of very different tasks, ranging from technical support to advice on strategy and the coordination of the EIG community, and including the production of tools. The breakdown between these roles will need to be clarified, in order to consolidate coaching effectiveness.
+
+**Finally, at what level should a "challenge” be coached?** This year, we have reinforced the individual follow-up of each challenge through regular calls with teams. However, some EIGs have expressed the need to be able to interact with the coaching team without the presence of other EIGs in their challenge. This option, which would allow earlier detection of possible human issues at team level, has the disadvantage of being very time-consuming for the programme management team.
+
+**4.Better equip EIGs and mentors about the subjects of digital transformation and sustainability.**
+
+EIGs have noticed that a lot of information was sent all in one go, at times not necessarily optimal for the challenges. Mentors have expressed the wish to have more practical information on how to sustain their projects.  **The [documentation] (https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html) website that we structured this year can be further called on in the future to meet these needs by** empowering access to information.
+
+**5.Consolidate the programme's visibility for administrations and EIGs.**
+
+While the programme is now well established in the public innovation landscape, there are still a number of challenges facing us. How can we reach out to administrations unfamiliar with the digital transformation ecosystem and encourage them to apply? For EIGs, we want to consolidate our recruitment channels to reach out to more senior profiles. This year was also an opportunity to consolidate the visibility of the programme in France and internationally, and to establish a partnership with [the Latitudes association](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/12/16/partenariat-eig-latitudes.html).
 
 
-## Des pistes pour améliorer le programme EIG
+## And now?
 
-**1.Mieux accompagner les administrations dans la définition des compétences recherchées.**
+In 2020, the Public Interest Entrepreneurs programme is continuing! It benefits from funding via the 2020 finance law. There are two objectives within this scope: recruit 50 EIGs in 2020 (for 20 to 25 projects), and put some of them on a permanent footing in the administration.
 
-Dans l’ensemble, les équipes ont trouvé que les projets étaient plutôt bien cadrés, ou que cette absence de cadrage permettait aux EIG de se réapproprier le projet (moyennant un portage politique adapté). Cependant, certaines équipes ont expliqué qu’elles auraient préféré plus de cadrage, notamment au niveau des profils des EIG recherchés. Nous poursuivrons cette piste pour les prochaines promotions. **Nous souhaitons également constituer des promotions plus équilibrées en termes de compétences et de sujets,** avec des data scientists, desigenrs et développeuses ou développeurs en proportions égales. Cette année, l’intégration de plus de designers dans la promotion et le succès de l’expérimentation “Designers d’Intérêt Général” nous ont notamment confortés dans l’importance du design pour l’innovation publique.
+From the beginning of 2020, we have been working to establish an ambitious promotion 4, which is to start in September 2020.
 
-**2.Renforcer les liens avec la communauté des anciens EIG.**
+In addition, we will continue to assess the programme about every six months to monitor progress of projects and EIGs.
 
-Les EIG 3 ont regretté d'avoir eu peu de liens avec les EIG des promotions précédentes. Ainsi, nous réfléchissons à des opportunités d’interactions inter-promotions. Parmi elles, on trouve la création par quelques alumni EIG de l’association LEON (les entrepreneurs ouverts du numérique), vouée à rassembler les anciens EIG et mentors.
-
-**3.Continuer d’adapter le programme d’accompagnement aux spécificités de chaque promotion.**
-
-**Les sessions d’accompagnement collectives ont été plébiscitées comme moyen de rassembler la promotion, mais leur format n’a pas tout le temps été à la hauteur des attentes des EIG et des mentors**. Deux des suggestions principales exprimées : mettre en place plus de formats structurés d’apprentissages en pair-à-pair (jugés plus utiles que des interventions “top-down”) et faire participer plus d’intervenants extérieurs.
-
-**Par ailleurs, nous devons encore itérer sur les missions des EIG Link.** Cette troisième promotion a vu l’introduction d’un deuxième EIG Link designer, pour renforcer l’accompagnement technique interne pouvant être proposé aux EIG. Cette introduction a été appréciée. Cependant, les EIG Link cumulent beaucoup de missions très différentes les unes des autres, qui vont du soutien technique aux conseils sur la stratégie et à l’animation de la communauté des EIG, en passant par la production d’outils. L’articulation entre ces rôles nécessitera d’être clarifiée, pour renforcer l’efficacité de l’accompagnement.
-
-**Enfin, à quel niveau accompagner un “défi” ?** Cette année, nous avons renforcé le suivi individuel de chaque défi à travers des appels réguliers avec les équipes. Cependant, certains EIG ont exprimé le besoin de pouvoir interagir avec l’équipe d'accompagnement sans la présence des autres EIG de leur défi. Cette option, qui permettrait de détecter plus rapidement d’éventuels problèmes humains au niveau des équipes, a pour inconvénient d’être très chronophage pour l’équipe de pilotage du programme.
-
-**4.Mieux outiller les EIG et les mentors sur les sujets de transformation numérique et de pérennisation.**
-
-Les EIG ont remarqué que beaucoup d’informations étaient transmises en bloc, à des moments pas forcément optimaux pour les défis. Les mentors ont exprimé le souhait d’avoir plus d’informations pratiques sur comment pérenniser leurs projets. **Le site de [documentation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html) que nous avons structuré cette année pourra être davantage mobilisé à l'avenir pour répondre à ces besoins** en autonomisant l'accès à l'information.
-
-**5.Renforcer la visibilité du programme, pour les administrations et les EIG.**
-
-Le programme est maintenant bien installé dans le paysage de l’innovation publique, mais nous faisons encore face à plusieurs enjeux. Comment toucher des administrations peu familières de l’écosystème de la transformation numérique et les encourager à candidater ? Pour les EIG, nous souhaitons renforcer nos canaux de recrutement pour toucher plus de profils seniors. Cette année a également été l’occasion de renforcer la visibilité du programme en France et à l’international, et de nouer un partenariat avec[l’association Latitudes](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/12/16/partenariat-eig-latitudes.html).
-
-
-## Et maintenant ?
-
-En 2020, le programme Entrepreneurs d’Intérêt Général continue ! Il bénéficie d’un financement _via_ la loi de finances 2020. Deux objectifs dans ce cadre : recruter 50 EIG en 2020 (pour 20 à 25 projets), et en pérenniser une partie dans l’administration.
-
-Dès début 2020, nous nous attelons à la constitution d’une ambitieuse promotion 4, qui commencera en septembre 2020.
-
-Par ailleurs, nous continuerons d’évaluer le programme tous les 6 mois environ, pour suivre le devenir des projets et des EIG.
-
-Nous sommes très intéressés par le partage d’expérience. Si vous aussi, vous pilotez un programme d'innovation, et que vous avez des conseils ou une expérience similaire par rapport aux pistes évoquées ci-dessus, nos dispositifs d’évaluation ou les résultats de la promotion, n’hésitez pas à nous contacter à [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr) !
+We are very interested in sharing experiences. If you too are running an innovation programme, and you have advice or similar experience in relation to the above-mentioned avenues, our assessment systems or the promotion's results, feel free to contact us at [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)!
 
 ---
 
-## 🧐 Focus sur la méthodologie d'évaluation
+## 🧐 Focus on assessment methodology
 
-Pour mesurer les résultats de la promotion EIG3, nous nous sommes appuyés sur quatre dispositifs :
-* **Un tableur rempli par les EIG de chaque défi**, recensant des données factuelles sur les projets : pérennisation des réalisations et des postes, degré d’ouverture des codes sources et des données, formations organisées, etc. ;
-* **Des questionnaires anonymes** distribués aux [EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20EIG%203.pdf) et aux [mentors](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20mentors%20EIG%203%20.pdf), portant sur leurs motivations, leurs apprentissages, leurs difficultés et leurs retours sur le programme. Ces questionnaires s’appuient sur ceux développés pour évaluer les promotions 1 et 2 (voir notre [rapport d’analyse](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) de juin 2019) ;
-* Nous avons distribué ces documents le 7 novembre 2019, une semaine avant la fin officielle de la promotion (même si beaucoup de défis ont continué après le 15 novembre). A partir de juillet 2019, nous avons également organisé **des ateliers informels** de retours sur le programme, organisés pendant les sessions d’accompagnement.
-* Dans le cadre du financement par le [Programme d’investissements d’avenir](https://www.gouvernement.fr/le-programme-d-investissements-d-avenir), les mentors sont également invités à élaborer des **indicateurs spécifiques** à leur projet. Ils remplissent ces indicateurs de manière auto-évaluée en fin de promotion.   
-_Les données issues du tableur et des questionnaires sont en ligne sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/)._
+In order to measure the results of the EIG 3 promotion, we used four devices:
+ * **A spreadsheet filled in by the EIGs of each challenge**, listing factual data on the projects: putting achievements and jobs on a permanent footing, level of openness of source codes and data, training sessions organised, etc. ;
+ * **Anonymous questionnaires** distributed to [EIGs](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20EIG%203.pdf) and [mentors](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/Questionnaire%20-%20mentors%20EIG%203%20.pdf), relating to their motivations, learning, difficulties and lessons learned on the programme. These questionnaires were based on those developed to assess Promotions 1 and 2 (see our [analysis report] (https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) of June 2019) ;
+ * We distributed these documents on 7 November 2019, one week before the promotion's official end (even though many challenges continued after 15 November). From July 2019 onwards, we also organized **informal feedback workshops** on the programme, held during the coaching sessions.
+ * As part of the [Programme d’investissements d’avenir - Future Investment Programme] (https://www.gouvernement.fr/le-programme-d-investissements-d-avenir) funding, mentors are also invited to develop **indicators specific** to their project. They fill in these indicators on a self-assessment basis at the end of their promotion.  
+_Data from the spreadsheet and questionnaires are available online at [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/)._
 
-**Cette méthodologie nous permet d’avoir des retours quantitatifs et qualitatifs sur le programme, de manière relativement efficace. Elle présente certaines limites :**
-* Par manque de temps et de ressources, nous interrogeons uniquement les EIG et les mentors de la promotion, et ne nous rendons pas dans les locaux les administrations d’accueil ou auprès des utilisateurs. Il est difficile de mesurer la transformation numérique d’administrations ou la satisfaction d’usagers que nous n’allons pas voir directement.
-*   Tous les EIG et mentors n’ont pas répondu au questionnaire : 27 EIG (sur 30 visés) y ont répondu, et 12 mentors sur 18. Les chiffres et avis obtenus ne prennent pas en compte les évolutions après le 7 novembre 2019 (date de remplissage des questionnaires).
-*   Elle est menée exclusivement en interne, ce qui pourrait mener à des biais dans l’interprétation et/ou la présentation des résultats. Pour pallier cela, [nous avons également recours à d’autres types d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html).
+**This methodology provides us with relatively efficient quantitative and qualitative feedback on the programme. It has certain limitations:**
+ * Due to a lack of time and resources, we only interview the promotion's EIGs and mentors, and do not visit the premises of the host administrations or users. It is difficult to measure the digital transformation of administrations or the satisfaction of users without seeing them directly.
+ * Not all EIGs and mentors answered the questionnaire: 27 out of the 30 EIGs surveyed answered, as did 12 out of the 18 mentors. The figures and opinions obtained do not reflect developments after 7 November 2019 (date the questionnaires were filled in).
+ * As it was undertaken exclusively in-house, this could cast certain doubts as to the impartiality in the interpretation and/or presentation of results. To address this, [we also use other types of assessment methods](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html).
 
-Enfin, nous avons changé de méthode d’évaluation entre les deux premières promotions et la troisième. De ce fait, il est difficile de faire des comparaisons entre promotions. Pour remédier à cela, nous espérons maintenir cette méthodologie pour la promotion 4. Par ailleurs, les résultats du questionnaire ont permis de corroborer et d’étayer des conclusions déjà développées dans de précédents rapports (voir [le rapport d’analyse](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) des promotions EIG 1 et 2) et billets de blog (voir le billet sur les [facteurs de réussite d’un défi EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html)).
+Finally, we changed our assessment method between the first two promotions and the third promotion. This makes comparisons between promotions difficult. To address this, we hope to maintain this methodology for promotion 4. In addition, the results of the questionnaire corroborated and supported conclusions already drawn in previous reports (see [the analysis report](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/26/rapport-analyse-eig.html) of the EIG 1 and 2 promotions) and blog posts (see the post on [factors for the success of an EIG challenge](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html)).
 
-Malgré leurs limites, ces outils nous permettent de dégager quelques résultats clés pour la promotion et d’identifier des points d’amélioration pour les prochaines.
+Despite their limitations, these tools allow us to identify a number of key results for the current promotion and areas for improvement for the subsequent ones.
 
 ---

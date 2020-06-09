@@ -8,71 +8,64 @@ tags:
 - méthode
 - collectif
 - outil
-title: "EN - Ouvrir les ressources du programme : notre documentation en ligne"
+title: "Opening up the program's resources: our online documentation"
 permalink: /en/blog/:year/:month/:day/:title.html
 lang-ref: documentation-programme
 twitter: AntoineAugusti
 ---
 
-Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.
+The Public Interest Entrepreneurs program aims to bring together people from outside administrations with advanced digital skills and public servants committed to innovation. Public Interest Entrepreneurs are divided into multidisciplinary twosomes or threesomes. They work in the fields of development, design and data science. Together with public officials of their host administrations, they have 10 months to meet the challenge of improving public services using digital technology and data. These challenges follow an open, transparent working approach, in particular through the publication of open source and open data productions.
 
-Le programme comporte actuellement une trentaine d'entrepreneurs par promotion, travaillant au sein de diverses administrations comme le ministère de la Transition écologique et solidaire, la Cour des comptes ou l'agence Bio.
+The program currently has around thirty entrepreneurs per promotion, working in various administrations such as the Ministry of Ecological and Solidarity Transition, the Court of Auditors or the Bio agency.
 
-En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneurs au fil de l'année et faire rayonner et évoluer le programme EIG. **Dans ce cadre, il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques.**
+As the program coordination team, our main duties are to set up promotions, coach entrepreneurs throughout the year and promote and develop the EIG program. **In this context, a knowledge base including our events, processes, explanations and good practices has to be set up.**
 
-Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer.
+In this article, we describe the aims of our documentation, the construction process followed and how we change it.
 
+**Aims of our documentation**
 
-## Objectifs de notre documentation
+Our program has more than 30 people working in administrations in several geographic locations. Each promotion has a short lifespan (ten months), which means that the processes and resources available during the induction phase need to be explained clearly and memories need to be refreshed later.
 
-Notre programme comporte plus de trente personnes qui travaillent dans des administrations dans plusieurs lieux géographiques. Chaque promotion a une courte durée de vie (dix mois), ce qui implique qu'il est nécessaire d'expliquer clairement les processus et les ressources à disposition lors de la phase d'accueil et d'offrir un moyen de pouvoir se rafraîchir la mémoire plus tard.
+The target users of our documentation are Public Interest Entrepreneurs, their mentors and the Etalab coordination team. Entrepreneurs need to understand how the program works and be able to access resources to meet their challenges in their administrations.
 
-Les utilisateurs cibles de notre documentation sont les entrepreneurs d'intérêt général, leurs mentors et l'équipe de coordination au sein d'Etalab. Les entrepreneurs ont besoin de comprendre comment fonctionne le programme et d'accéder à des ressources pour mener à bien leurs défis dans leurs administrations.
+To meet these needs, our documentation has been divided into three main parts. A few examples of the content to be found are given below:
 
-Pour répondre à ces besoins, notre documentation a été scindée en trois grandes parties. Voici quelques exemples de contenu que l'on peut retrouver :
+- **The program flow** : project coaching, planning of promotional events, tools used;
+- **The resources available to EIGs in the promotion context** : the digital ecosystem of administrations, access to a third location, the possibility of obtaining infrastructure;
+- **Good practices, organised by topic** : understanding free licenses, publishing and reusing data, writing strategy notes, and how to practice design in administrations.
 
+**Cooperative, open source work**
 
+Our documentation was not established in a day and will continue to progress. This work was started under the impetus of [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html) at the start of 2018. Bastien then had the [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html) role, the person assisting the program coordination team, responsible for the technical and methodological coaching of the challenges. It is he who wrote the first pages of our documentation based on the needs and resources identified progressively. We did not start from a blank page but were inspired by many available resources, which are also open source: [beta.gouv.fr](https://beta.gouv.fr/), [GDS](https://www.gov.uk/government/organisations/government-digital-service), [Code for Canada](https://medium.com/code-for-canada) blog and many others.
 
-* **Le déroulement du programme** : l'accompagnement des projets, le planning d'événements de la promotion, les outils utilisés ;
-* **Les ressources à disposition des EIG dans le cadre de la promotion** : l'écosystème numérique de l'administration, l'accès à un tiers lieu, la possibilité d'obtenir de l'infrastructure ;
-* **Les bonnes pratiques, organisées en thématiques** : comprendre les licences libres, publier et réutiliser des données, écrire des notes stratégiques, comment pratiquer le design dans l'administration.
+In accordance with the program&#39;s transparency and openness values and aims, this documentation is published under a free license [in a Gitrepository](https://github.com/entrepreneur-interet-general/eig-link). In concrete terms, our documentation comprises several text files written in [Markdown](https://fr.wikipedia.org/wiki/Markdown), a light markup language for writing text documents.
 
-## Un travail collaboratif et ouvert
+Our documentation is cooperative: it is maintained mainly by the program coordination team but entrepreneurs are invited to provide feedback and input. We are thus delighted to note that the documentation already contains more than 1,000 amendments made by 27 contributors.
 
-Notre documentation ne s'est pas construite en un jour et elle continuera d'évoluer. Ce travail a été commencé sous l'impulsion de [Bastien Guerry](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/bastien-guerry.html), début 2018. Bastien avait alors le rôle d'[EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html), la personne assistant l'équipe de coordination du programme, chargée de l’accompagnement technique et méthodologique des défis. C'est lui qui a rédigé les premières pages de notre documentation en fonction des besoins et ressources identifiés au fur et à mesure. Nous ne sommes pas partis d'une page blanche, nous avons été inspirés par de nombreuses ressources disponibles, elles aussi ouvertes : [beta.gouv.fr](https://beta.gouv.fr/), [GDS](https://www.gov.uk/government/organisations/government-digital-service), le blog de [Code for Canada](https://medium.com/code-for-canada) et bien d'autres.
+It was important to start the documentation work from the start of 2018. I then advanced as and when needed according to questions of EIGs or the needs that I anticipated. With a vibrant community where mutual assistance is the norm, it was a real pleasure.
 
-Conformément aux valeurs et objectifs de transparence et d'ouverture du programme, cette documentation est publiée sous licence libre [sur un dépôt Git](https://github.com/entrepreneur-interet-general/eig-link). Concrètement, notre documentation se compose de plusieurs fichiers textes écrits en [Markdown](https://fr.wikipedia.org/wiki/Markdown), un langage de balisage léger permettant d'écrire des documents textes.
+**Bastien Guerry,** [**EIG Link 2018**](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html)
 
-Notre documentation est collaborative : elle est maintenue principalement par l'équipe de coordination du programme mais les entrepreneurs sont invités à faire part de retours et contribuer. Ainsi, nous sommes ravis de constater que la documentation comporte déjà plus de 1000 modifications effectuées par 27 contributeurs.
-
-
-> C'était important de commencer le travail de documentation dès le début de l'année 2018.  Ensuite, j'ai avancé au fil de l'eau en fonction des questions des EIG ou des besoins que j'anticipais. Avec une communauté dynamique où l'entraide est la norme, c'était un vrai plaisir.
-
-**Bastien Guerry, [EIG Link 2018](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html)**
-
-Cette documentation ne sera jamais finalisée car elle se construit de manière itérative. Elle est rédigée au fil de l'eau, des questions reçues, des évolutions de nos processus et de nos ambitions. C'est notre moyen privilégié pour partager des informations et constituer une base de connaissance ouverte.
+This documentation will never be finalized as it is established iteratively. It is written as and when needed, based on the questions we receive, the changes in our processes and our ambitions. It is our preferred means of sharing information and establishing an open knowledge base.
 
 ![Interface web de GitHub montrant plusieurs fichiers.](/img/blog/doc-github.png)
-_Capture d'écran de notre documentation [sur GitHub](https://github.com/entrepreneur-interet-general/eig-link)._
+_Screenshot of our documentation [on GitHub](https://github.com/entrepreneur-interet-general/eig-link)._
 
+**Making documentation pleasant to consult for everyone**
 
-## Rendre la documentation agréable à consulter pour tous
+Our documentation comprises several Markdown files. Easy for cooperation: Contributors can submit changes directly to GitHub and have their changes approved in _pull-requests_. More annoying to browse through documentation: with about 20 Markdown files at the root, it&#39;s not easy to know where to start, even if a README file explains the documentation layout. What was not a problem initially, as the community was primarily technical and used to the GitHub interface, proved to be one over time.
 
-Notre documentation est constituée de plusieurs fichiers Markdown. Facile pour collaborer : les contributeurs peuvent soumettre des changements directement sur GitHub et faire approuver leurs modifications dans des _pull-requests_. Plus embêtant pour naviguer dans une documentation : avec une petite vingtaine de fichiers Markdown à la racine, il n'est pas facile de savoir par où commencer, même si un fichier README explique l'agencement de la documentation. Ce qui n'était pas un problème initialement, la communauté était principalement technique et habituée à l'interface de GitHub, s'est révélé problématique au fil du temps.
-
-C'est la raison pour laquelle nous avons choisi de publier notre documentation sur un site spécifique, en complément des fichiers sources Markdown déjà présents sur GitHub. Nous avons l'habitude d'utiliser des sites statiques, [le site web du programme](https://entrepreneur-interet-general.etalab.gouv.fr/) repose par exemple sur [Jekyll](https://jekyllrb.com). Pour la documentation, nous nous sommes orientés vers [VuePress](https://vuepress.vuejs.org), un générateur de sites statiques idéal pour des besoins de documentation qui requiert une configuration minimale. Nous en avons profité pour créer [un thème VuePress open source](https://vuepress-gouv-fr-demo.eig-forever.org) reprenant les codes graphiques de l'administration française.
-
+For this reason, we chose to publish our documentation on a specific website, in addition to the Markdown source files already available on GitHub. We are used to using static websites: [the program&#39;s website](https://entrepreneur-interet-general.etalab.gouv.fr/) is based on [Jekyll](https://jekyllrb.com/), for example. For documentation, we turned to [VuePress](https://vuepress.vuejs.org/), a static website generator ideal for documentation needs that call for a minimum configuration. We took the opportunity to create [an open source VuePress theme](https://vuepress-gouv-fr-demo.eig-forever.org/) using the French administration&#39;s graphic codes.
 
 ![Site web de la documentation du programme faisant apparaitre une page sur la sécurité et un menu.](/img/blog/doc-site.png)
-_Capture d'écran de la documentation, accessible à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org)_
+_Documentation screenshot, accessible at [doc.eig-forever.org](https://doc.eig-forever.org/)_
 
-Ainsi, nous disposons dorénavant d'une documentation accessible en ligne, agréable à utiliser, sur une interface adaptée aux différents écrans. En faisant ceci, nous n'avons pas introduit inutilement trop de complexité technique en terme de code ou d'infrastructure. Le plus important est que nous avons conservé la possibilité de collaborer rapidement à la documentation : à la fin, notre documentation n'est qu'un ensemble de fichiers textes basiques.
+We thus now have documentation that is accessible online, pleasant to use, and on an interface appropriate for the various screens. In doing so, we have made a point of not introducing too much unnecessary technical complexity in terms of code or infrastructure. Most importantly, we have retained the ability to cooperate quickly on documentation: in the end, our documentation is just a set of basic text files.
 
+**Avenues for development**
 
-## Pistes d'évolution
+We are generally satisfied with our documentation, which has developed well over time. Entrepreneurs or other teams within Etalab have told us how useful Etalab is in fulfilling their assignments. Furthermore, this documentation could be an incubation mechanism for more extensive guides subsequently published by Etalab or DINSIC, in particular around the issues of open source publications, algorithms or data.
 
-Nous sommes globalement satisfaits de notre documentation qui a bien évolué au fil du temps. Les entrepreneurs ou d'autres équipes au sein d'Etalab nous ont fait part de l'utilité de celle-ci pour remplir leurs missions. Par ailleurs, cette documentation a pu être un mécanisme d'incubation pour des guides plus étoffés ensuite publiés par Etalab ou la DINSIC, notamment autour des questions de publications de logiciels libres, d'algorithmes ou de données.
+For the coming months, we want to continue working on the existing content, reorganize our sections and publish content for those who want to replicate a program similar to the Public Interest Entrepreneurs program in another structure or context.
 
-Pour les mois à venir, nous souhaitons continuer à travailler sur le contenu existant, réorganiser nos différentes sections et publier des contenus pour ceux souhaitant répliquer un programme similaire au programme Entrepreneurs d'Intérêt Général dans une autre structure ou un autre contexte.
-
-Nous avons hâte de continuer à étoffer cette documentation. Nous serions heureux qu'elle profite à d'autres. Si vous souhaitez échanger sur cette initiative, nous serions ravis [d'en discuter avec vous](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html).
+We look forward to continuing to develop this documentation. We would be glad to see it be of benefit to others. If you would like to discuss this initiative with us, we would be delighted [to hear from you](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html).

@@ -15,7 +15,11 @@
     </ul>
     <section class='top-bar-section'>
       <ul class="right">
-        {% for item in site.data.nav %}
+        {% assign nav = site.data.nav %}
+        {% if page.locale == 'en' %}
+          {% assign nav = site.data.nav-en %}
+        {% endif %}
+        {% for item in nav %}
           {% if item.section_id == page.section_id %}
             {% assign active_class = "active" %}
           {% else %}

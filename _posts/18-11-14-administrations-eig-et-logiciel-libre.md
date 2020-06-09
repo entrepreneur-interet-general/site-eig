@@ -10,6 +10,7 @@ tags:
 - outil
 - open
 title: Et le logiciel libre dans tout ça ?
+lang-ref: logiciel-libre
 twitter: bzg2
 ---
 
@@ -118,7 +119,7 @@ publiée en mai dernier.
 
 <a
 href="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/"><img
-src="/img/pocos.png" /></a> 
+src="/img/pocos.png" /></a>
 <center><p><em>La politique de contribution de l'état aux logiciels libres,
 publiée en mai 2018 et qui donne le cadre dans lequel les organismes
 publics peuvent contribuer à l'écosystème des logiciels
@@ -161,7 +162,7 @@ d3.js, elasticsearch, emacs, embulk, flask, git, jupyter, laravel,
 leaflet, mongodb, neo4j, postgresql, pyspark, python, r, react.js,
 redash, rstudio, sass, scala, scikit-learn, tensorflow, tornado, vim,
 visual studio code, vue.js, webpack.
-   
+
 Ça fait *beaucoup* !  C'est le reflet d'un état de fait : impossible
 de nos jours de développer un projet logiciel sans recourir à un ou
 plusieurs logiciel libre, que ce soit comme outil de développement ou
