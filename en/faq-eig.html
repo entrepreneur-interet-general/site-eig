@@ -2,6 +2,7 @@
 layout: default
 section_id: questions-frequentes
 lang-ref: faq-eig
+permalink: /en/faq-entrepreneur.html
 ---
 
 <div class='full'>
@@ -10,8 +11,7 @@ lang-ref: faq-eig
 	    <h2>Questions relatives à l'appel à candidatures</h2>
 
 	    <div id="accordion">
-
-		{% for faq in site.data.faq-eig %}
+		{% for faq in site.data.faq-eig-en %}
 		<h3>{{faq.question}}</h3>
 		<div>{{faq.reponse}}</div>
 		{% endfor %}

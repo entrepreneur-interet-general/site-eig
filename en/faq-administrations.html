@@ -2,6 +2,7 @@
 layout: default
 section_id: questions-frequentes
 lang-ref: faq-administrations
+permalink: en/faq-administration.html
 ---
 
 <div class='full'>
@@ -11,7 +12,7 @@ lang-ref: faq-administrations
 
 	    <div id="accordion">
 
-		{% for faq in site.data.faq-administrations %}
+		{% for faq in site.data.faq-administrations-en %}
 		<h3>{{faq.question}}</h3>
 		<div>{{faq.reponse}}</div>
 		{% endfor %}

@@ -1,25 +1,33 @@
 - name: Program
   section_id: presentation
   children:
-  - name : Présentation du programme
-    path: presentation.html
-  - name: Offre d'accompagnement
-    path: accompagnement.html
-  - name: Réalisations
-    path: realisations.html
+  - name : Program presentation
+    path: en/program-presentation.html
+  - name: Coaching provision
+    path: en/coaching-provision.html
+  - name: Achievements
+    path: en/achievements.html
   - name: F.A.Q. Entrepreneur
-    path: faq-eig.html
+    path: en/faq-entrepreneur.html
   - name: F.A.Q. Administration
-    path: faq-administrations.html
+    path: en/faq-administration.html
 
-- name: Défis
+- name: Challenges
   section_id : defis
-  path: defis.html
+  path: en/challenges.html
 
-- name: Communauté
+- name: Community
   section_id : communaute
-  path: communaute.html
+  path: en/community.html
 
 - name: Blog
   section_id: blog
   path: en/blog/
+
+- name: Participate
+  section_id: participer
+  children:
+  - name: I am an applicant
+    path: en/unavailable
+  - name: I am an administration
+    path: en/unavailable

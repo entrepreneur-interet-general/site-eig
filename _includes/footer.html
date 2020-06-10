@@ -8,9 +8,9 @@
         </a>
       </h1>
       <ul>
-	  <li><a href="/feed.xml">Flux RSS du blog</a></li>
-	  <li><a target="new" href="{{ site.list_url }}">Inscription liste de diffusion</a></li>
-	  <li><a href="/cgu.html">Conditions générales d'utilisation</a></li>
+	  <li><a href="/feed.xml">{{ site.data.traductions[page.locale].footer-rss }}</a></li>
+	  <li><a target="new" href="{{ site.list_url }}">{{ site.data.traductions[page.locale].footer-liste }}</a></li>
+	  <li><a href="{{ site.data.traductions[page.locale].footer-cgu.path }}">{{ site.data.traductions[page.locale].footer-cgu.title }}</a></li>
       </ul>
       <div class='spacing'></div>
     </div>
@@ -31,7 +31,7 @@
 	<div class='spacing'></div>
 	<ul class='socials'>
 	    <li>
-		    <a href="/contact.html">Nous contacter</a>
+		    <a href="{{ site.data.traductions[page.locale].footer-contact.path }}">{{ site.data.traductions[page.locale].footer-contact.title }}</a>
 	    </li>
       <li>
         <a href="/accessibilite.html">Accessibilité : partiellement conforme</a>
@@ -42,7 +42,7 @@
       </li>
       </br>
       <li>
-        <a href="/presse.html">Espace presse</a>
+        <a href="{{ site.data.traductions[page.locale].footer-presse.path }}">{{ site.data.traductions[page.locale].footer-presse.title }}</a>
       </li>
 	    <div class='spacing'></div>
             <li>
@@ -60,7 +60,7 @@
         </div>
     <div class='large-3 medium-3 columns'>
 	<div class='two spacing'></div>
-	<p>Financé avec le concours du Programme d'investissements d'avenir</p>
+	<p>{{ site.data.traductions[page.locale].footer-finanement }}</p>
 	<a target="new" href="https://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi">
             <img width="150px" src="/img/logo_investirlavenir.png" />
 	</a>

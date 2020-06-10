@@ -1,0 +1,35 @@
+fr:
+  footer-rss: "Flux RSS du blog"
+  footer-liste: "Inscription liste de diffusion"
+  footer-cgu:
+    title: "Conditions générales d'utilisation"
+    path: /cgu.html
+  footer-contact:
+    title: "Nous contacter"
+    path: /contact.html
+  footer-presse:
+    title: "Espace presse"
+    path: /presse.html
+  footer-finanement: "Financé avec le concours du Programme d'investissements d'avenir"
+  blog-anciens: "Articles plus anciens"
+  blog-recents: "Articles plus récents"
+  blog-plus: "Lire la suite"
+  blog-courriel: "Courriel"
+
+en:
+  footer-rss: "Blog RSS feeds"
+  footer-liste: "Distribution list subscription"
+  footer-cgu:
+    title: "Terms and conditions of use"
+    path: /en/conditions-for-use.html
+  footer-contact:
+    title: "Contact us"
+    path: /en/contact.html
+  footer-presse:
+    title: "Press space"
+    path: /en/press-space.html
+  footer-finanement: "Funded with the assistance of the Future Investments Program"
+  blog-anciens: "Older posts"
+  blog-recents: "Newer posts"
+  blog-plus: "Read more"
+  blog-courriel: "Email"

@@ -8,27 +8,35 @@ layout: blog
     <h1>{{ page.title }}</h1>
     <p class='info'>
       <span>
-	{% assign m = page.date | date: "%-m" %}
-	{{ page.date | date: "%-d" }}
-	{% case m %}
-	{% when '1' %}janvier
-	{% when '2' %}février
-	{% when '3' %}mars
-	{% when '4' %}avril
-	{% when '5' %}mai
-	{% when '6' %}juin
-	{% when '7' %}juillet
-	{% when '8' %}août
-	{% when '9' %}septembre
-	{% when '10' %}octobre
-	{% when '11' %}novembre
-	{% when '12' %}décembre
-	{% endcase %}
-	{{ page.date | date: "%Y" }}
+        {% if page.locale == 'fr' %}
+        	{% assign m = page.date | date: "%-m" %}
+        	{{ page.date | date: "%-d" }}
+        	{% case m %}
+        	{% when '1' %}janvier
+        	{% when '2' %}février
+        	{% when '3' %}mars
+        	{% when '4' %}avril
+        	{% when '5' %}mai
+        	{% when '6' %}juin
+        	{% when '7' %}juillet
+        	{% when '8' %}août
+        	{% when '9' %}septembre
+        	{% when '10' %}octobre
+        	{% when '11' %}novembre
+        	{% when '12' %}décembre
+        	{% endcase %}
+        	{{ page.date | date: "%Y" }}
+        {% else %}
+          {{ page.date | date: "%d %B %Y" }}
+        {% endif %}
       </span>
       /
       <span>
-        de
+        {% if page.locale == 'fr' %}
+          de
+        {% else %}
+          by
+        {% endif %}
 	{% if page.twitter %}
         <a href="https://twitter.com/{{page.twitter}}">{{page.author}} <i class='fa fa-twitter'></i></a>
 	{% else %}

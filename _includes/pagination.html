@@ -4,36 +4,36 @@
     {% if paginator.next_page == 1 %}
       <a href="{{ include.root }}" class="older">
         <i class='fa fa-angle-double-left'></i>
-        Articles plus anciens
+        {{ site.data.traductions[page.locale].blog-anciens }}
       </a>
     {% else %}
       <a href="{{ include.root }}/page{{ paginator.next_page }}" class="older">
         <i class='fa fa-angle-double-left'></i>
-        Articles plus anciens
+        {{ site.data.traductions[page.locale].blog-anciens }}
       </a>
     {% endif %}
   {% else %}
     <span class="older">
       <i class='fa fa-angle-double-left'></i>
-      Articles plus anciens
+      {{ site.data.traductions[page.locale].blog-anciens }}
     </span>
   {% endif %}
 
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
       <a href="{{ include.root }}" class="newer">
-        Articles plus récents
+        {{ site.data.traductions[page.locale].blog-recents }}
         <i class='fa fa-angle-double-right'></i>
       </a>
     {% else %}
       <a href="{{ include.root }}/page{{ paginator.previous_page }}" class="newer">
-        Articles plus récents
+        {{ site.data.traductions[page.locale].blog-recents }}
         <i class='fa fa-angle-double-right'></i>
       </a>
     {% endif %}
   {% else %}
     <span class="newer">
-      Articles plus récents
+      {{ site.data.traductions[page.locale].blog-recents }}
       <i class='fa fa-angle-double-right'></i>
     </span>
   {% endif %}
