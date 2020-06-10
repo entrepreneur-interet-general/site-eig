@@ -58,6 +58,14 @@ répertoire =_communaute=.
 Les images proposées dans =communaute.html= et dans le fichier de chaque
 personne sont de taille =500x500=.
 
+* Fonctionnement des tags
+
+Les pages d'archives de tags se trouvent dans le dossier /tag
+Elles utilisent le layout _layouts/tag-archive.html
+De nouveaux tags peuvent être ajoutés manuellement en ajoutant simplment des fichiers .md dans ce dossier, ou en lançant le script python suivant (Ce script nécessite l'installation [[https://pypi.org/project/awesome-slugify/][awesome-slugify]]) :
+
+: ~$ python tags-generator.py
+
 * Licence
 
 © 2018 Direction interministérielle du numérique et du système

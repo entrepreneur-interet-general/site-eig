@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      <h1 class="mt-0">Tag : {{ page.tag }}</h1>
+
+      <ul class="small-block-grid-1 large-block-grid-2 mt-2">
+      {% for post in site.tags[page.tag] %}
+        <li style="padding: 0 .3em">
+          {% include post_card.html %}
+        </li>
+      {% endfor %}
+      </ul>
+
+      <div class='four spacing'></div>
+    </div>
+  </div>
+</div>

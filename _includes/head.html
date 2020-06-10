@@ -27,7 +27,7 @@
   <script src="{{ "/javascripts/foundation.js" | prepend: site.url }}" type="text/javascript"></script>
   <script>
   jQuery( function() {
-    jQuery( "#accordion" ).accordion({heightStyle: "content"});
+    jQuery( "#accordion" ).accordion({heightStyle: "content", collapsible: true, active: false});
   } );
   </script>
   <script>
@@ -47,13 +47,16 @@
     })(Tc.$);
   </script>
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,700,300" media="screen" rel="stylesheet" type="text/css" />
-  <script src="{{ "/javascripts/masonry.pkgd.js" | prepend: site.url }}" type="text/javascript"></script>
+  <script src="{{ "/javascripts/isotope.pkgd.min.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/imagesloaded.pkgd.min.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/slick.min.js" | prepend: site.url }}" type="text/javascript"></script>
 
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
 </head>
+{% if site.tags != "" %}
+  {% include get_tags.html %}
+{% endif %}
 <!--
  ____  ____  _____  ___  ____    __    __  __  __  __  ____    ____  ____  ___
 (  _ \(  _ \(  _  )/ __)(  _ \  /__\  (  \/  )(  \/  )( ___)  ( ___)(_  _)/ __)

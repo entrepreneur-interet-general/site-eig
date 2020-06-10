@@ -54,7 +54,7 @@ layout: blog
     <div class="post-tags">
       <ul>
         {% for tag in page.tags %}
-        <li class="button outline">#{{ tag }}</li>
+        <li><a href="/tag/{{ tag | slugify: 'latin' }}" class="button outline">#{{ tag }}</a></li>
         {% endfor %}
       </ul>
     </div>
