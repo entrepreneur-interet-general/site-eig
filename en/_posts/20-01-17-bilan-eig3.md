@@ -4,10 +4,10 @@ description: The EIG 3 promotion ended on 15 November 2019. What conclusions can
 image: https://www.etalab.gouv.fr/wp-content/uploads/2020/01/restitution-eig-groupe-1024x519.jpg
 layout: post
 tags:
-- assessment
+- évaluation
 - open
-- coaching
-- method
+- accompagnement
+- méthode
 title: 'EIG 3 promotion: conclusions drawn'
 permalink: /en/blog/:year/:month/:day/:title.html
 lang-ref: bilan-eig3
