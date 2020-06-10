@@ -104,7 +104,7 @@ slides:
           {% endif %}
           <div class='buttons-wrapper {{slide.buttons.animation}}' style=''>
             <div class='row'>
-              <div class='{{slide.buttons.class}} columns'>
+              <div class='columns'>
                 <div class='two spacing'></div>
                 {% for button in slide.buttons.items %}
                   <a target="_blank" class='button {{button.class}}' href='{{button.url}}'>{{button.text}}</a>
@@ -119,23 +119,23 @@ slides:
 </div>
 
 <div class='full' style='background: #f5f5f5'>
-    <div class='row'>
   <div style="text-align:center;"><h2>The three pillars of our program</h2></div>
   <div class='spacing'></div>
-  <div class='large-12 columns'>
+  <div class='row'>
+    <div class='large-12 columns'>
       <div class='mod modBoxedTextSlider'>
-    <div class='boxes'>
-        {% for pilier in page.piliers %}
-        <div class='box' style='background: #f9f9f9;'>
-      <i class='{{pilier.icon_class}}'></i>
-      <img src='{{pilier.img}}' />
-      <h3>{{pilier.title}}</h3>
-      <p>{{pilier.desc}}</p>
+        <div class='boxes'>
+            {% for pilier in page.piliers %}
+            <div class='box' style='background: #f9f9f9;'>
+          <i class='{{pilier.icon_class}}'></i>
+          <img src='{{pilier.img}}' />
+          <h3>{{pilier.title}}</h3>
+          <p>{{pilier.desc}}</p>
+            </div>
+            {% endfor %}
         </div>
-        {% endfor %}
-    </div>
+          </div>
       </div>
-  </div>
     </div>
     <div class='spacing'></div>
 </div>
@@ -147,7 +147,7 @@ slides:
       <div class='medium-7 large-7 columns'>
     <p style="margin-top: .6em;">And how does it work in practice?</p>
       </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
+      <div class='medium-5 large-5 columns modCallToAction__btn'>
     <a class='boxed button' href='program-presentation.html'><strong>Discovering the program</strong></a>
       </div>
   </div>
@@ -156,22 +156,22 @@ slides:
 </div>
 
 <div class='full' style='background: #f5f5f5'>
-    <div class='row'>
   <div style="text-align:center;"><h2>What motivates us</h2></div>
   <div class='spacing'></div>
-  <div class='large-12 columns'>
-      <div class='mod modBoxedTextSlider'>
-    <div class='boxes'>
-        {% for motivation in page.motivations %}
-        <div class='box' style='background: #f9f9f9;'>
-      <i class='{{motivation.icon_class}}'></i>
-      <p>{{motivation.desc}}</p>
+  <div class='row'>
+    <div class='large-12 columns'>
+        <div class='mod modBoxedTextSlider'>
+      <div class='boxes'>
+          {% for motivation in page.motivations %}
+          <div class='box' style='background: #f9f9f9;'>
+        <i class='{{motivation.icon_class}}'></i>
+        <p>{{motivation.desc}}</p>
+          </div>
+          {% endfor %}
+      </div>
         </div>
-        {% endfor %}
     </div>
       </div>
-  </div>
-    </div>
     <div class='spacing'></div>
 </div>
 
@@ -182,7 +182,7 @@ slides:
       <div class='medium-7 large-7 columns'>
     <p>The program creates a public interest digital community</p>
       </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
+      <div class='medium-5 large-5 columns modCallToAction__btn'>
     <a class='boxed button' href='community.html'><strong>Discovering the community</strong></a>
       </div>
         </div>
@@ -190,7 +190,7 @@ slides:
     <div class='one spacing'></div>
 </div>
 
-<div class='full'>
+<div class='full full--o-hidden'>
     <div class='row'>
   <div class='large-12 columns centered-text'>
     <h2>EIGs and mentors talk about their experience</h2>
@@ -202,7 +202,6 @@ slides:
           <div class='item'>
         <p class='quote'>{{t.text}}</p>
         <p class='author'>- {{t.author}}, {{t.position}}</p>
-        <div class='two spacing'></div>
           </div>
           {% endfor %}
       </div>
@@ -221,7 +220,7 @@ slides:
       <div class='medium-7 large-7 columns' style="margin-top: 1em">
         <p>3 years and already 37 challenges!</p>
       </div>
-      <div class='medium-5 large-5 columns' style='text-align: right;'>
+      <div class='medium-5 large-5 columns modCallToAction__btn'>
         <a class='boxed button' href='challenges.html'><strong>Discovering all the challenges</strong></a>
        </div>
     </div>
@@ -255,7 +254,7 @@ slides:
       <div class='medium-7 large-7 columns'>
         <p>The program regularly publishes articles on its method and achievements</p>
       </div>
-      <div class='medium-5 large-5 columns text-right'>
+      <div class='medium-5 large-5 columns modCallToAction__btn'>
         <a class='boxed button' href='blog'><strong>Discovering our blog</strong></a>
        </div>
     </div>
