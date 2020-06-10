@@ -67,7 +67,7 @@ Nous vous invitons à lire :
 -	[L’article de Bastien Guerry, développeur des promotions EIG 1 et EIG 2](https://bzg.fr/ce-que-ca-fait-detre-eig.html/)
 -	[L’article de Frédéric Bardolle, développeur de la promotion EIG 1](https://medium.com/@seiteta/retour-entrepreneur-interet-general-e64e08a6296a )
 
-Vous pouvez aussi regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l) et [les vidéos bilans de la promotion EIG 1](https://www.dailymotion.com/video/x64z28u?playlist=x54m4i).
+Vous pouvez regarder [les vidéos bilans de la promotion EIG 2](https://www.dailymotion.com/playlist/x6bp3l) et [les vidéos bilans de la promotion EIG 1](https://www.dailymotion.com/video/x64z28u?playlist=x54m4i). Vous pouvez aussi regarder [notre webinaire "retours d'expérience d'EIG"](https://www.dailymotion.com/video/x7u6rsq?playlist=x6r7a0).
 
 Enfin, vous pouvez découvrir [la communauté des EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html), composée de profils variés et dont certains vous parleront peut-être !
 
