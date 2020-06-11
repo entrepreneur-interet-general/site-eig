@@ -299,7 +299,7 @@ ul.shortcode-list i {
 .contain-to-grid .top-bar-section ul li {
   background: transparent;
 }
-.contain-to-grid .top-bar-section ul li:nth-child(5) > a {
+.contain-to-grid .top-bar-section > ul > li:nth-child(5) > a {
   font-weight: bold;
 }
 
