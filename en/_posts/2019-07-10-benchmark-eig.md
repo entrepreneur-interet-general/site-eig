@@ -1,10 +1,6 @@
 ---
 author: Guénolé Carré, équipe EIG
-description: 'En France comme ailleurs, de nombreuses administrations font face à
-  une même problématique : le recrutement de compétences numériques. Pour y parvenir,
-  différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci
-  au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre
-  environnement et pour constater nos éventuels points de convergence.'
+description: 'In France, as well as in other countries, administrations face the same problem: how to recruit digital skills? They have launched different initiatives to adress the problem. In this article, we compare these initiatives to our program in order to better understand what is being done and where our similarities lie.'
 image: /img/blog/initiatives.PNG
 layout: post
 tags:

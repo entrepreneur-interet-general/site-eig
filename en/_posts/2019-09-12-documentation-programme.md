@@ -1,6 +1,6 @@
 ---
 author: Antoine Augusti, EIG Link
-description: "En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneurs au fil de l'année, faire rayonner et évoluer le programme EIG. Il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques. Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer."
+description: As the program coordination team, our main duties are to set up cohorts, coach entrepreneurs throughout the year and promote and develop the EIG program. In this context, a knowledge base including our events, processes, explanations and good practices has to be set up. In this article, we describe the aims of our documentation, the construction process followed and how we update it.
 image: /img/blog/doc-site.png
 layout: post
 tags:

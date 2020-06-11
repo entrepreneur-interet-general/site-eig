@@ -1,11 +1,6 @@
 ---
 author: Soizic Pénicaud, équipe EIG
-description: 'Le 15 mai, l''équipe EIG a organisé au Liberté Living Lab une réunion
-  d''information à l''occasion de l''appel à projets EIG 3. L''occasion d''aborder
-  un sujet crucial : les facteurs de succès d''un défi EIG. Qu’est-ce qui permet qu’à
-  la fin d’un défi, les administrations disposent d’outils numériques répondant à
-  leur problématique métier de départ, qui puissent être pérennisés et réutilisés
-  par d’autres services, voire hors de l’administration ?'
+description: On the 15th of May, the EIG team organised an information meeting at the Liberté Living Lab on the occasion of the call for EIG 3 projects. This meeting provided an opportunity to present the success factors of an EIG challenge. What is it that, at the end of a challenge, allows administrations to be provided with digital tools that meet their initial professional problems, and which can be sustained and reused by other departments, or even outside administrations?
 image: /img/blog/facteurs_reussite.jpg
 layout: post
 tags:

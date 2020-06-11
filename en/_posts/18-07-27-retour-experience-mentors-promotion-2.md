@@ -1,8 +1,6 @@
 ---
 author: Soizic Pénicaud, équipe EIG
-description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réunis pour
-  la troisième session collaborative de l'année. Ce fut l'occasion de prendre du recul
-  et de tirer quelques enseignements de ces cinq premiers mois.
+description: On the 12th of July 2018, mentors of the second cohort of the program got together for their third collective session of the year. It was an opportunity to look back on their first five months and draw some lessons.
 image: /img/blog/session-mentors-3.jpg
 layout: post
 tags:

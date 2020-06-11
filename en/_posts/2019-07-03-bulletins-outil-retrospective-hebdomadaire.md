@@ -1,9 +1,6 @@
 ---
 author: Antoine Augusti, EIG Link
-description: Afin de partager et de suivre l'avancement des différents défis relevés
-  par une trentaine de personnes au sein du programme Entrepreneurs d'Intérêt Général,
-  nous avons développé un outil de rétrospective hebdomadaire, Bulletins, que nous
-  présentons dans cet article.
+description: 'In order to share progress in projects lead by thirty people across fifteen different administrations, the Public Interest Entrerpeneurs program has developed its own weekly review tool: Bulletins. Discover how it came to be and what it does.'
 image: /img/blog/bulletins-form.png
 layout: post
 tags:

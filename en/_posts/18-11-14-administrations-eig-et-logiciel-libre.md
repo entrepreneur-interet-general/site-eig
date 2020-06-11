@@ -1,8 +1,6 @@
 ---
 author: Bastien Guerry, EIG Link
-description: Qu'est-ce que le logiciel libre ?  Les EIG en ont-ils utilisé ?  En ont-ils
-  publiés ?  Comment aller plus loin ?  Quelques réflexions à l'issue de cette deuxième
-  année du programme EIG.
+description: What is open source software? Did the Public Interet Entrepreneurs use some? Did they publish some? How can we push open source in the program and in the administration? Looking back on the second year of the program, here are some thoughts on the topic.
 image: https://upload.wikimedia.org/wikipedia/commons/e/ee/GNU%2BLinux.png
 layout: post
 tags:

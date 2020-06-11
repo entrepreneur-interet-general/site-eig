@@ -1,9 +1,6 @@
 ---
 author: La Fondation Internet Nouvelle Génération (auteur invité)
-description: Le 26 septembre 2018, la Fing animait un atelier "Nos Systèmes" sur l'exemplarité
-  et la responsabilité sociale des algorithmes, dans le cadre de son partenariat avec
-  Etalab. Des projets EIG 2018 et d'autres partenaires ont participé. Retours sur
-  la méthode et les prochaines étapes
+description: On the 26th of September, the Fing held its first Our Systemsworkshop, organized within its mission with Etalab, on the subject of the exemplarity and social responsibility of public algorithms. Several Public Interest Entrepreneur program projects have participated such as DataESR, Hopkins, Tell-tell signs, OpenChronic or LabSanté, as well as Fing partners such as Orange, EDF and La Poste. Learn more on what was done and future steps.
 image: /img/blog/atelier-fing-algo-ensemble.jpg
 layout: post
 tags:

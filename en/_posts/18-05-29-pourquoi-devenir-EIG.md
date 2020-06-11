@@ -1,7 +1,6 @@
 ---
 author: Tiphaine Phe-Neau, EIG Prévisecours
-description: Tiphaine revient sur son parcours –de Dailymotion à Entrepreneur·e d’Intérêt
-  Général- et nous raconte ce qui l’a poussée à s’engager dans le programme.
+description: Tiphaine looks back on her journey - from Dailymotion to Public Interest Entrepreneur - and tells us what motivated her to get involved in the program.
 image: /img/blog/tiphaine-guillaume.jpg
 layout: post
 tags:

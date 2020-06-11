@@ -1,8 +1,6 @@
 ---
 author: Soizic Pénicaud, équipe EIG
-description: Alors que le programme EIG fêtera bientôt ses trois ans, il nous paraît
-  important de prendre du recul sur ce qui a été produit, les axes à approfondir et
-  ceux à améliorer.
+description: The Public Interest Entrepreneurs program is soon turning 3. We thought it was a good time look back on what has been done, what we should do more of and what we could do better.
 image: /img/blog/evaluation-ogp.jpg
 layout: post
 tags:

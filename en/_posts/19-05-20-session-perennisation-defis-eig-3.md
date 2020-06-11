@@ -1,10 +1,6 @@
 ---
 author: Soizic Pénicaud, pour l'équipe EIG
-description: Comment s'assurer que les défis EIG perdurent au-delà des 10 mois du
-  programme, tant du point de vue des solutions développées que des
-  communautés formées ? Comment faire perdurer l'élan de
-  transformation numérique impulsé par les EIG ? Et quel est le rôle
-  des mentors dans cette pérennisation ?
+description: How can we ensure that EIG challenges continue beyond the 10 months of the program, both in terms of the solutions developed and the communities created? How can the digital transformation impetus provided by EIGs be put on a permanent footing? And what is the role of the mentors in this sustainability?
 image: /img/blog/session-mentors-perennisation-2019.jpg
 layout: post
 tags:
