@@ -299,6 +299,14 @@ ul.shortcode-list i {
 .contain-to-grid .top-bar-section ul li {
   background: transparent;
 }
+.contain-to-grid .top-bar-section ul li:nth-child(5) > a {
+  font-weight: bold;
+}
+
+.contain-to-grid .top-bar-section ul li img {
+  width: 24px;
+  height: auto;
+}
 
 .contain-to-grid.shadowless {
   -moz-box-shadow: none;

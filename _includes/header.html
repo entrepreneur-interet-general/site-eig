@@ -43,7 +43,7 @@
           {% endif %}
         {% endfor %}
         <li class="has-dropdown lastmenu">
-          <a style="cursor:default;">{{ page.locale }}</a>
+          <a style="cursor:default;"><img alt="{{ page.locale }}" src="{{site.url}}/img/flag-{{ page.locale }}.png" /></a>
           <ul class="dropdown">
           {% if page.lang-ref %}
             {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'locale' | reverse %}
@@ -53,15 +53,15 @@
             {% for post in posts %}
               {% if post.locale != page.locale %}
                 {% unless post.url contains 'page' %}
-                <li><a href="{{ post.url }}">{{ post.locale }}</a></li>
+                <li><a href="{{ post.url }}"><img alt="{{ post.locale }}" src="{{site.url}}/img/flag-{{ post.locale }}.png" /></a></li>
                 {% endunless %}
               {% endif %}
             {% endfor %}
           {% else %}
             {% if page.section_id != 'unavailable' %}
-              <li><a href="/en/unavailable">EN</a></li>
+              <li><a href="/en/unavailable"><img alt="en" src="{{site.url}}/img/flag-en.png" /></a></li>
             {% else %}
-              <li><a href="{{ site.url }}">FR</a></li>
+              <li><a href="{{ site.url }}"><img alt="en" src="{{site.url}}/img/flag-fr.png" /></a></li>
             {% endif %}
           {% endif %}
           </ul>
