@@ -119,7 +119,7 @@ publiée en mai dernier.
 
 <a
 href="https://www.numerique.gouv.fr/publications/politique-logiciel-libre/"><img
-src="/img/pocos.png" /></a>
+src="/img/pocos.png" alt="" /></a>
 <center><p><em>La politique de contribution de l'état aux logiciels libres,
 publiée en mai 2018 et qui donne le cadre dans lequel les organismes
 publics peuvent contribuer à l'écosystème des logiciels
