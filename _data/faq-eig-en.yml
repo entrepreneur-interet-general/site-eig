@@ -10,12 +10,12 @@
   reponse: "<p>EIGs work in teams, each located in the administration setting the challenge. The coaching program provides time for discussions between EIGs and a place where they can meet outside their administration, with the agreement of their mentors.</p>"
   ancre: lieu-de-travail
 
-- question: "Où se situent les administrations d'accueil ?"
-  reponse: "<p>La localisation des administrations d'accueil est indiquée en haut de la page de description des défis. Les défis de la promotion 4 se déroulent à Paris ou en région parisienne, à l'exception de Monitor Fish qui se déroule entre la région parisienne et le Morbihan (56).</p>"
+- question: "Where do the challenges take place ?"
+  reponse: "<p>You will find this information at the top of the description of every challenge. This year, all of the challenges take place in Paris or the Paris region, except Monitor Fish (half-time in the Paris region and half-time in Britanny).</p>"
   ancre: lieu
 
-- question: "Je suis en CDI, dois-je démissionner de mon poste actuel ?"
-  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\"https://www.service-public.fr/particuliers/vosdroits/F10431\">congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
+- question: "I’m under permanent contract, do I have to quit my job to participate in the program?"
+  reponse: "<p>Not necessarily. You have other options, such as unpaid leave. However, you will need your employer’s agreement.</p>"
   ancre: demission-CDI
 
 - question: "How is an EIG different from a service provider?"
@@ -34,8 +34,8 @@
   reponse: "<p>The rules are clear: after 10 months, EIGs leave their host administration. This deadline puts healthy pressure on entrepreneurs to stay focused on the task at hand. This temporality, different from the one usually applicable in administrations, instils new methods and stimulates the project team's creativity and efficiency.</p>"
   ancre: pourquoi-dix-mois
 
-- question: "Est-il possible de commencer plus tard que la date de début de la promotion ?"
-  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde. Pour la promotion 4, plus de latitude est envisageable (mais pas garantie) pour les défis autofinancés (ADEX, Opérations 18, Enki, DataMed).</p>"
+- question: "Can I begin after the first of September? "
+  reponse: "<p>Unfortunately, due to administrative reasons, all Public Interest Entrepreneurs must begin on the first of September. If you have to quit, you can ask for a reduction of the notice period (partial or total). You can also consider other options, such as unpaid leave. Things might be a bit different for challenges that aren’t funded by the program, but there’s no guarantee of it (ADEX, Opérations 18, Enki, DataMed).</p>"
   ancre: commencer-plus-tard
 
 - question: "At the end of 10 months, how are challenges put on a permanent footing?"
