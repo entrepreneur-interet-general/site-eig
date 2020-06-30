@@ -68,15 +68,15 @@ De nouveaux tags peuvent être ajoutés manuellement en ajoutant simplment des f
 
 * Traduction
 
-Traduction des pages: Les pages traduites se situent dans le répertoire `/en`. Afin de traduire une page, il est nécessaire de modifier dans un premier temps sa version française, en y précisant un identifiant unique `lang-ref` en entête (Exemple pour communauté : `lang-ref: communaute`).  Il suffit ensuite de copier cette page dans le dossier `/en`, et de procéder à la traduction de la page. Il est également possible de préciser un permalien différent pour cette langue (Exemple pour communauté : `permalink: /en/community.html`).
+Traduction des pages : Les pages traduites se situent dans le répertoire `/en`. Afin de traduire une page, il est nécessaire de modifier dans un premier temps sa version française, en y précisant un identifiant unique `lang-ref` en entête (Exemple pour communauté : `lang-ref: communaute`).  Il suffit ensuite de copier cette page en version française dans le dossier `/en`, et de procéder à la traduction de la page. Il est également possible de préciser un permalien différent pour cette langue (Exemple pour communauté : `permalink: /en/community.html`).
 
-Traduction des articles: Le procédé est le même que pour les pages, sauf que les articles à traduires se trouvent dans le répertoire `/_posts`, et doivent être copiés dans `/en/_posts`.
+Traduction des articles : Le procédé est le même que pour les pages, sauf que les articles à traduire se trouvent dans le répertoire `/_posts`, et doivent être copiés dans `/en/_posts`.
 
-Traduction des FAQ : 2 nouveaux fichiers ont été créés dans le dossier `/_data`, faq-administrastions-en.yml et faq-eig-en.yml. Ces 2 fichiers permettent de sont de simples copies des fichiers faq-administrastions.yml et faq-eig.yml, et la tradution se fait directement dans ces fichiers, qui seront automatiquement remontés sur les bonnes pages FAQ.
+Traduction des FAQ : 2 nouveaux fichiers ont été créés dans le dossier `/_data`, faq-administrastions-en.yml et faq-eig-en.yml. Ces 2 fichiers sont de simples copies des fichiers faq-administrastions.yml et faq-eig.yml, et la traduction se fait directement dans ces fichiers, qui seront automatiquement remontés sur les bonnes pages FAQ.
 
-Traduction du menu: Un nouveau fichier `/_data/nav-en.yml` a été crée (il s'agit d'une copie de `/_data/nav.yml`), permettant de traduire le menu, et d'y préciser en dur si des éléments du menu anglais ne sont pas traduits, en y précisant comme lien l'url `en/unavailable`.
+Traduction du menu : Un nouveau fichier `/_data/nav-en.yml` a été crée (il s'agit d'une copie de `/_data/nav.yml`), permettant de traduire le menu, et d'y préciser en dur si des éléments du menu anglais ne sont pas traduits, en y précisant comme lien l'url `en/unavailable`.
 
-Traduction des éléments communs (Footer + Textes): Les textes et liens du footer, ainsi que certains textes (comme par exemple les liens "Articles plus récents"), sont administrables dans un nouveau fichier `/_data/traductions.yml`. Ce fichier contient les traductions sour forme de 2 tableaux, permettant d'y préciser les traductions en anglais et français des éléments communs du site.
+Traduction des éléments communs (Footer + Textes) : Les textes et liens du footer, ainsi que certains textes (comme par exemple les liens "Articles plus récents"), sont administrables dans un nouveau fichier `/_data/traductions.yml`. Ce fichier contient les traductions sous forme de 2 tableaux, permettant d'y préciser les traductions en anglais et français des éléments communs du site.
 
 * Licence
 
