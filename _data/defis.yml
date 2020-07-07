@@ -886,8 +886,16 @@
     - "Sarah Lepreux"
   mentors:
     - "Marine Gout"
-    - "Jérôme Letanou"
     - "Laurent Le Prieur"
+  key_figures:
+    - amount: 17000
+      description: "utilisateurs au lancement"
+    - amount: 200
+      description: "contributeurs dans la communauté"
+    - amount: 30
+      description: "académies impliquées"
+    - amount: 33
+      description: "entretiens avec des utilisateurs finaux"  
 
 "App 112":
   image: /img/defis/dig/App-112.png
