@@ -890,7 +890,7 @@
   key_figures:
     - amount: 17000
       description: "utilisateurs au lancement"
-    - amount: 200
+    - amount: 250
       description: "contributeurs dans la communauté"
     - amount: 30
       description: "académies impliquées"
