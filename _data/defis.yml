@@ -901,31 +901,32 @@
       title: "Recherche utilisateurs"
       description: "Synthèse des enseignements de la phase exploratoire"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportExploration_Fev2020.pdf
-      call_to_action:
+      call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_PitchApps.jpg
       title: "Pitch produit"
       description: "Présentation du produit et de ses fonctionnalités"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_PitchApps_Mar2020.pdf
-      call_to_action: 
+      call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_SyntheseTests.jpg
       title: "Tests utilisateurs"
-      description: "synthèse des enseignements du déploiement du produit à l’échelle nationale"
+      description: "Synthèse des enseignements du déploiement du produit à l’échelle nationale"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_SyntheseTests_2020.pdf
-      call_to_action: 
+      call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_RapportFinal.jpg
       title: "Synthèse finale et recommandations"
       description: "Apprentissages et conseils pour mettre en place des projets similaires"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportFinal_RecoOrga_Juil2020.pdf
-      call_to_action: 
+      call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_Vision.jpg
       title: "Vision produit"
       description: "Pistes et recommandations d'évolution de la plateforme"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_Vision_2020.pdf
-      call_to_action: 
+      call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_Plateforme.jpg
       title: "Site d’information projet"
       description: "Point d’accès à la plateforme pour les agents"
       url: https://apps.education.fr/
+      call_to_action: "Accéder au site"
 
 "App 112":
   image: /img/defis/dig/App-112.png
