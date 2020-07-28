@@ -896,7 +896,7 @@
       description: "académies impliquées"
     - amount: 33
       description: "entretiens avec des utilisateurs finaux" 
-projects:
+  projects:
     - image: img/realisations/2019/Aplhabet_RapportExploration.jpg
       title: "Recherche utilisateurs"
       description: "Synthèse des enseignements de la phase exploratoire"
