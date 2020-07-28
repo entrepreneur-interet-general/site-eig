@@ -909,12 +909,12 @@
       call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_SyntheseTests.jpg
       title: "Tests utilisateurs"
-      description: "Synthèse des enseignements du déploiement du produit à l’échelle nationale"
+      description: "Synthèse des enseignements du déploiement national du produit"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_SyntheseTests_2020.pdf
       call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_RapportFinal.jpg
-      title: "Synthèse finale et recommandations"
-      description: "Apprentissages et conseils pour mettre en place des projets similaires"
+      title: "Synthèse finale"
+      description: "Apprentissages et recommandations pour mettre en place des projets similaires"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportFinal_RecoOrga_Juil2020.pdf
       call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_Vision.jpg
@@ -923,8 +923,8 @@
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_Vision_2020.pdf
       call_to_action: "Découvrir"
     - image: img/realisations/2019/Alphabet_Plateforme.jpg
-      title: "Site d’information projet"
-      description: "Point d’accès à la plateforme pour les agents"
+      title: "Plateforme en ligne"
+      description: "Point d'information et d’accès à la plateforme pour les agents"
       url: https://apps.education.fr/
       call_to_action: "Accéder au site"
 
