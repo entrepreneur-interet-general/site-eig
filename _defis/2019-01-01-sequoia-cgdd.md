@@ -3,18 +3,6 @@ layout: defi
 title: "Sequoia CGDD"
 ---
 
-### La problématique
-
-Le commissariat général au développement durable (CGDD) produit de l'information qui a vocation à alimenter le dialogue environnemental entre l'Etat et ses citoyens. Or l'information environnementale peut prendre des formes différentes (études, données chiffrées, données géolocalisées...) et s'adresser à des publics multiples (experts, décideurs publics, grand public). Afin de permettre l'appropriation de cette information par ses différents publics et de favoriser son enrichissement, le CGDD envisage de refondre les dispositifs de diffusion de l'information et de promouvoir une mise à jour des données en mode collaboratif. Pour cela, il compte s’appuyer sur les données de l’Institut national de l’information géographique et forestière (IGN) qui de son côté produit de la donnée cartographique et envisage de permettre à des communautés d’experts métiers de produire de la donnée et la diffuser.
-
-
-### Le défi : Concevoir un nouveau portail de diffusion de l'information environnementale alimenté en mode collaboratif
-
-
-Afin de concevoir et prototyper le nouveau portail, la designer commencera par identifier les besoins des différents utilisateurs. Ce travail permettra de concevoir des parcours utilisateurs matérialisés par des maquettes d'interfaces.
-
-
-
 ### La problématique, rationaliser pour mieux sensibiliser/informer.
 
 Actuellement, 65% des français se déclarent intéressés par une information fiable et « officielle » sur les sujets liés à l’environnement et au développement durable (Etude Nov. 2019 Cocedal - CGDD). Or, La présence en ligne des acteurs publics sur ces sujets est éclatée entre des dizaines de sites, pour la plupart méconnus. 
@@ -23,7 +11,7 @@ Ainsi, la designer a rejoint l’équipe projet du CGDD pour répondre à la pro
 **Comment valoriser la connaissance du CGDD et plus généralement de la sphère publique en matière d’environnement et de développement durable, pour la rendre accessible au plus grand nombre par le biais d’un point d’accès national à l’information (PAN) ?** 
 (cf. Obligation de la convention d’Aarhus pour un accès simplifié à l’information environnementale)
 
-## Le défi, concevoir le portail public de l’information environnementale et de développement durable.
+### Le défi, concevoir le portail public de l’information environnementale et de développement durable.
 Depuis 2018, une dizaine d’ateliers de co-conception ont été menés en interne au CGDD pour qualifier les cibles et leurs besoins. À l’arrivée de la designer UX, une phase de recherche utilisateurs - dont un étude quantitative sur un panel de 2 000 usagers, des entretiens usagers et plusieurs ateliers d’intelligence collective ont été menés. Une dizaine de personae ont été établis définissant les besoins des futurs usagers en terme d’information et de services afin de leur offrir des parcours complets et cohérents. 
 
 La conception, de la direction artistique à la mise en production du portail, fut réalisée en collaboration avec un prestataire, qui a notamment apporté une expertise sur l’accessibilité et l’éco-conception web - valeurs portées par l’équipe projet.
