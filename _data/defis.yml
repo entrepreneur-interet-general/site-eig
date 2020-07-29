@@ -888,7 +888,7 @@
     - "Marine Gout"
     - "Laurent Le Prieur"
   key_figures:
-        - amount: 17000
+    - amount: 17000
       description: "utilisateurs au lancement"
     - amount: 200
       description: "contributeurs dans la communauté"
