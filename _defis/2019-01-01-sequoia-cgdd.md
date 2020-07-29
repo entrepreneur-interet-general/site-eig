@@ -11,16 +11,16 @@ Ainsi, la designer a rejoint l’équipe projet du CGDD pour répondre à la pro
 **Comment valoriser la connaissance du CGDD et plus généralement de la sphère publique en matière d’environnement et de développement durable, pour la rendre accessible au plus grand nombre par le biais d’un point d’accès national à l’information (PAN) ?** 
 (cf. Obligation de la convention d’Aarhus pour un accès simplifié à l’information environnementale)
 
-### Le défi, concevoir le portail public de l’information environnementale et de développement durable.
+## Le défi, concevoir le portail public de l’information environnementale et de développement durable.
 Depuis 2018, une dizaine d’ateliers de co-conception ont été menés en interne au CGDD pour qualifier les cibles et leurs besoins. À l’arrivée de la designer UX, une phase de recherche utilisateurs - dont un étude quantitative sur un panel de 2 000 usagers, des entretiens usagers et plusieurs ateliers d’intelligence collective ont été menés. Une dizaine de personae ont été établis définissant les besoins des futurs usagers en terme d’information et de services afin de leur offrir des parcours complets et cohérents. 
 
 La conception, de la direction artistique à la mise en production du portail, fut réalisée en collaboration avec un prestataire, qui a notamment apporté une expertise sur l’accessibilité et l’éco-conception web - valeurs portées par l’équipe projet.
 
 
-## Ombel.gouv.fr, une inspiration venue de la nature.
+### Ombel.gouv.fr, une inspiration venue de la nature.
 Une ombelle est une inflorescence multiple émanant d’un point central. Le portail Ombel reflète donc une structure qui centralise et diffuse de l'information. Elle facilite l'essaimage de la connaissance par et pour ses usagers. 
 
-## L’offre de services, de l’information capitalisée au service de l’usager.
+### L’offre de services, de l’information capitalisée au service de l’usager.
 Etant complémentaire du site institutionnel du Ministère (MTES) - centré sur l’action publique et gouvernementale - le portail Ombel se veut être la ressource de référence pour comprendre les enjeux environnementaux et de développement durable. Son architecture est constituée de 4 briques principales :
 * **Des fiches thématiques présentant les enjeux environnementaux.** Conçues avec différents niveaux de lecture (du grand public à l’expert), les fiches permettent à chaque usager de comprendre les enjeux.
 * **Une base de plus de 20 000 ressources en ligne.** Les fiches thématiques orientent vers les ressources pertinentes collectées au niveau national et dans les territoires (DREAL) afin de fonder chaque information sur les documents publics gratuits disponibles en ligne. 
