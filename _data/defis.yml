@@ -890,12 +890,43 @@
   key_figures:
     - amount: 17000
       description: "utilisateurs au lancement"
-    - amount: 250
+    - amount: 200
       description: "contributeurs dans la communauté"
     - amount: 30
       description: "académies impliquées"
     - amount: 33
-      description: "entretiens avec des utilisateurs finaux"  
+      description: "entretiens avec des utilisateurs finaux" 
+  projects:
+    - image: img/realisations/2019/Aplhabet_RapportExploration.jpg
+      title: "Recherche utilisateurs"
+      description: "Synthèse des enseignements de la phase exploratoire"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportExploration_Fev2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_PitchApps.jpg
+      title: "Pitch produit"
+      description: "Présentation du produit et de ses fonctionnalités"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_PitchApps_Mar2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_SyntheseTests.jpg
+      title: "Tests utilisateurs"
+      description: "Synthèse des enseignements du déploiement national du produit"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_SyntheseTests_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_RapportFinal.jpg
+      title: "Synthèse finale"
+      description: "Apprentissages et recommandations de conduite de projets similaires"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportFinal_RecoOrga_Juil2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_Vision.jpg
+      title: "Vision produit"
+      description: "Pistes et recommandations d'évolution de la plateforme"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_Vision_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_Plateforme.jpg
+      title: "Plateforme en ligne"
+      description: "Point d'information et d’accès à la plateforme pour les agents"
+      url: https://apps.education.fr/
+      call_to_action: "Accéder au site"
 
 "App 112":
   image: /img/defis/dig/App-112.png
