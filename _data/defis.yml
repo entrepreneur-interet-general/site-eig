@@ -1196,17 +1196,17 @@
     - amount: 88
       description: "entretiens qualitatifs"
   projects:
-    - image: img/realisations/2019/RembourSante_Restit.png
+    - image: img/realisations/2019/RembourSante_Restit.jpg
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019.pdf
       call_to_action: "Consulter la synthèse"
-    - image: img/realisations/2019/RembourSante_ProtoDesktop.png
+    - image: img/realisations/2019/RembourSante_ProtoDesktop.jpg
       title: "Prototype web"
       description: "Prototype réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen
       call_to_action: "Découvrir la version web"
-    - image: img/realisations/2019/RembourSante_ProtoMobile.png
+    - image: img/realisations/2019/RembourSante_ProtoMobile.jpg
       title: "Prototype mobile"
       description: "Prototype mobile réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/34ff7be8-469e-4a9f-78cc-6241beda025a-42ce/?fullscreen
@@ -1288,8 +1288,8 @@
   projects:
     - image: img/realisations/2019/SequoiaCGDD_Documentation_2020.png
       title: "Documentation Ombel"
-      description: "La documentation principale de ce projet est publiée en ligne et accessible librement."
-      url: https://https://github.com/entrepreneur-interet-general/Sequoia-CGDD
+      description: "Documentation principale du projet, publiée en ligne et accessible librement."
+      url: https://github.com/entrepreneur-interet-general/Sequoia-CGDD
       call_to_action: "Parcourir"
     - image: img/realisations/2019/SequoiaCGDD_Synthese_RechercheUtilisateur_2020.png
       title: "Recherche utilisateur"
@@ -1303,17 +1303,17 @@
       call_to_action: "Découvrir"
     - image: img/realisations/2019/SequoiaCGDD_MappingBesoins_2020.png
       title: "Offre de service"
-      description: "Arborescence des besoins usagers."
+      description: "Arborescence des fonctionnalités répondant aux besoins usagers."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/SequoiaCGDD_MappingBesoins_2020.pdf
       call_to_action: "Découvrir"
     - image: img/realisations/2019/Sequoi_Maquettes_2020.png
-      title: "Maquettes graphique"
-      description: "Quelques-unes des maquettes graphiques du site Ombel."
+      title: "Maquettes graphiques"
+      description: "Direction artistique et maquettes graphiques du site Ombel."
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoi_Maquettes_2020.pdf
       call_to_action: "Découvrir"
     - image: img/realisations/2019/SequoiaCGDD_Site_2020.png
       title: "Ombel, le site en ligne"
-      description: "Partez à la découverte des enjeux environnementaux et du développement durable !"
+      description: "Découvrez les enjeux environnementaux et du développement durable !"
       url: 
       call_to_action: "Prochainement en ligne"
 
