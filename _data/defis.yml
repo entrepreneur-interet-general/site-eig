@@ -888,7 +888,7 @@
     - "Marine Gout"
     - "Laurent Le Prieur"
   key_figures:
-    - amount: 17000
+        - amount: 17000
       description: "utilisateurs au lancement"
     - amount: 200
       description: "contributeurs dans la communauté"
@@ -1121,7 +1121,7 @@
     - image: img/realisations/2019/Verslecolepourtous_Synthese.png
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
-      url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
+      url: /docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
       call_to_action: "Consulter la synthèse"
     - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
       title: "Prototype web"
