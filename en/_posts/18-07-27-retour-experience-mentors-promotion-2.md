@@ -6,7 +6,7 @@ layout: post
 tags:
 - accompagnement
 - méthode
-title: What learning processes are required for public servants who are mentors of the EIG program?
+title: What do public servants who are mentors of the EIG program learn?
 lang-ref: experience-mentors
 permalink: /en/blog/:year/:month/:day/:title.html
 twitter: soizicpenicaud
