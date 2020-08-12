@@ -1,0 +1,15 @@
+{% capture temptags %}
+  {% for tag in site.tags %}
+    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+<div class="post-tags post-tags--full-list">
+  <ul>
+  {% for temptag in sortedtemptags %}
+    {% assign tagitems = temptag | split: '#' %}
+    {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+    <li><a href="/tag/{{ tagname | slugify: 'latin' }}" class="button outline tiny">#{{ tagname }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
