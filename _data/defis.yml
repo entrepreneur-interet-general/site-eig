@@ -886,8 +886,47 @@
     - "Sarah Lepreux"
   mentors:
     - "Marine Gout"
-    - "Jérôme Letanou"
     - "Laurent Le Prieur"
+  key_figures:
+    - amount: 17000
+      description: "utilisateurs au lancement"
+    - amount: 200
+      description: "contributeurs dans la communauté"
+    - amount: 30
+      description: "académies impliquées"
+    - amount: 33
+      description: "entretiens avec des utilisateurs finaux" 
+  projects:
+    - image: img/realisations/2019/Aplhabet_RapportExploration.jpg
+      title: "Recherche utilisateurs"
+      description: "Synthèse des enseignements de la phase exploratoire"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportExploration_Fev2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_PitchApps.jpg
+      title: "Pitch produit"
+      description: "Présentation du produit et de ses fonctionnalités"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_PitchApps_Mar2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_SyntheseTests.jpg
+      title: "Tests utilisateurs"
+      description: "Synthèse des enseignements du déploiement national du produit"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_SyntheseTests_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_RapportFinal.jpg
+      title: "Synthèse finale"
+      description: "Apprentissages et recommandations de conduite de projets similaires"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_RapportFinal_RecoOrga_Juil2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_Vision.jpg
+      title: "Vision produit"
+      description: "Pistes et recommandations d'évolution de la plateforme"
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Alphabet_Vision_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Alphabet_Plateforme.jpg
+      title: "Plateforme en ligne"
+      description: "Point d'information et d’accès à la plateforme pour les agents"
+      url: https://apps.education.fr/
+      call_to_action: "Accéder au site"
 
 "App 112":
   image: /img/defis/dig/App-112.png
@@ -1082,7 +1121,7 @@
     - image: img/realisations/2019/Verslecolepourtous_Synthese.png
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
-      url: docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
+      url: /docs/DIG_livrables/Verslecolepourtous_Synthese_042020.pdf
       call_to_action: "Consulter la synthèse"
     - image: img/realisations/2019/Verslecolepourtous_ProtoWeb.png
       title: "Prototype web"
@@ -1157,17 +1196,17 @@
     - amount: 88
       description: "entretiens qualitatifs"
   projects:
-    - image: img/realisations/2019/RembourSante_Restit.png
+    - image: img/realisations/2019/RembourSante_Restit.jpg
       title: "Synthèse"
       description: "Présentation du défi et de ses grandes étapes de conception"
-      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/RembourSante_Restit_Dec2019.pdf
       call_to_action: "Consulter la synthèse"
-    - image: img/realisations/2019/RembourSante_ProtoDesktop.png
+    - image: img/realisations/2019/RembourSante_ProtoDesktop.jpg
       title: "Prototype web"
       description: "Prototype réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/7a3a3220-1b41-436b-6ac7-93f4d30ebc4d-0c0b/?fullscreen
       call_to_action: "Découvrir la version web"
-    - image: img/realisations/2019/RembourSante_ProtoMobile.png
+    - image: img/realisations/2019/RembourSante_ProtoMobile.jpg
       title: "Prototype mobile"
       description: "Prototype mobile réalisé pour mener les tests utilisateurs"
       url: https://xd.adobe.com/view/34ff7be8-469e-4a9f-78cc-6241beda025a-42ce/?fullscreen
@@ -1237,6 +1276,46 @@
   mentors:
     - "Olivier Garry"
     - "Thomas Lesueur"
+  key_figures:
+    - amount: 2000
+      description: "usagers interrogés en étude quantitative"
+    - amount: 30
+      description: "heures d’entretiens menées avec des usagers"
+    - amount: 5
+      description: "ateliers de co-conception internes et externes"
+    - amount: 46
+      description: "fiches thématiques à l’ouverture"
+  projects:
+    - image: img/realisations/2019/SequoiaCGDD_Documentation_2020.png
+      title: "Documentation Ombel"
+      description: "Documentation principale du projet, publiée en ligne et accessible librement."
+      url: https://github.com/entrepreneur-interet-general/Sequoia-CGDD
+      call_to_action: "Parcourir"
+    - image: img/realisations/2019/SequoiaCGDD_Synthese_RechercheUtilisateur_2020.png
+      title: "Recherche utilisateur"
+      description: "Synthèse des besoins et attentes des usagers."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/SequoiaCGDD_Synthese_RechercheUtilisateur_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Sequoia_AtelierCoconception_2020.png
+      title: "Atelier de co-conception"
+      description: "Animation et synthèse de l'atelier de co-conception."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoia_AtelierCoconception_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/SequoiaCGDD_MappingBesoins_2020.png
+      title: "Offre de service"
+      description: "Arborescence des fonctionnalités répondant aux besoins usagers."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/SequoiaCGDD_MappingBesoins_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/Sequoi_Maquettes_2020.png
+      title: "Maquettes graphiques"
+      description: "Direction artistique et maquettes graphiques du site Ombel."
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/DIG_livrables/Sequoi_Maquettes_2020.pdf
+      call_to_action: "Découvrir"
+    - image: img/realisations/2019/SequoiaCGDD_Site_2020.png
+      title: "Ombel, le site en ligne"
+      description: "Découvrez les enjeux environnementaux et du développement durable !"
+      url: 
+      call_to_action: "Prochainement en ligne"
 
 "Sequoia IGN":
   image: /img/defis/dig/Sequoia.png
