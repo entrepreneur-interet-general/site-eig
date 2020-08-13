@@ -1,0 +1,23 @@
+---
+layout: default
+section_id: questions-frequentes
+lang-ref: faq-eig
+permalink: /en/faq-entrepreneur.html
+---
+
+<div class='full'>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <h2>Frequently asked questions about the call for applications</h2>
+
+	    <div id="accordion">
+		{% for faq in site.data.faq-eig-en %}
+		<h3>{{faq.question}}</h3>
+		<div>{{faq.reponse}}</div>
+		{% endfor %}
+
+	    </div>
+	</div>
+    </div>
+    <div class='two spacing'></div>
+</div>

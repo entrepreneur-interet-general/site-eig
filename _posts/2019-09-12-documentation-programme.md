@@ -9,6 +9,7 @@ tags:
 - collectif
 - outil
 title: "Ouvrir les ressources du programme : notre documentation en ligne"
+lang-ref: documentation-programme
 twitter: AntoineAugusti
 ---
 

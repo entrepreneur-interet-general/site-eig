@@ -4,7 +4,7 @@
     <ul class='title-area'>
       <li class='name'>
         <h1>
-          <a href="{{site.url}}/index.html">
+          <a href="{{site.url}}{% if page.locale == 'en' %}/en{% endif %}/index.html">
             <img alt="Logo du programme {{site.title}}" style="width:262px;" src="{{site.url}}/img/logo-marianne-eig-site.png" />
           </a>
         </h1>
@@ -15,14 +15,15 @@
     </ul>
     <section class='top-bar-section'>
       <ul class="right">
-        {% for item in site.data.nav %}
+        {% assign nav = site.data.nav %}
+        {% if page.locale == 'en' %}
+          {% assign nav = site.data.nav-en %}
+        {% endif %}
+        {% for item in nav %}
           {% if item.section_id == page.section_id %}
             {% assign active_class = "active" %}
           {% else %}
             {% assign active_class = "" %}
-          {% endif %}
-	  {% if forloop.last %}
-	    {% assign active_class = "lastmenu" %}
           {% endif %}
           {% if item.children %}
             <li class="has-dropdown {{active_class}}">
@@ -41,6 +42,30 @@
             </li>
           {% endif %}
         {% endfor %}
+        <li class="has-dropdown lastmenu">
+          <a style="cursor:default;"><img alt="{{ page.locale }}" src="{{site.url}}/img/flag-{{ page.locale }}.png" /></a>
+          <ul class="dropdown">
+          {% if page.lang-ref %}
+            {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'locale' | reverse %}
+            {% if posts.size == 0 %}
+              {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'locale' | reverse %}
+            {% endif %}
+            {% for post in posts %}
+              {% if post.locale != page.locale %}
+                {% unless post.url contains 'page' %}
+                <li><a href="{{ post.url }}"><img alt="{{ post.locale }}" src="{{site.url}}/img/flag-{{ post.locale }}.png" /></a></li>
+                {% endunless %}
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            {% if page.section_id != 'unavailable' %}
+              <li><a href="/en/unavailable"><img alt="en" src="{{site.url}}/img/flag-en.png" /></a></li>
+            {% else %}
+              <li><a href="{{ site.url }}"><img alt="en" src="{{site.url}}/img/flag-fr.png" /></a></li>
+            {% endif %}
+          {% endif %}
+          </ul>
+        </li>
       </ul>
     </section>
   </nav>

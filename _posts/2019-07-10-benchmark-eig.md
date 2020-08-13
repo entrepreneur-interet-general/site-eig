@@ -12,6 +12,7 @@ tags:
 - international
 title: 'Mobiliser des compétences numériques dans l''administration : quelles initiatives
   à l''étranger ?'
+lang-ref: benchmark-eig
 twitter: CarreGuenole
 ---
 
@@ -25,7 +26,7 @@ Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois
 
 Afin de poursuivre la [démarche d’évaluation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html) du programme, nous nous sommes intéressés à des initiatives similaires mises en place par des administrations dans d’autres pays. Notre objectif était de mieux comprendre leur fonctionnement, leur source de financement, leur rapport aux administrations de leur pays, ainsi que les types de projets menés et les profils recrutés.
 
-Nous nous sommes intéressés aux initiatives suivantes : 
+Nous nous sommes intéressés aux initiatives suivantes :
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), Etats-Unis
 - [Code for America](https://www.codeforamerica.org/), États-Unis
 - [Digital Transformation Agency](https://www.dta.gov.au/), Australie
@@ -40,7 +41,7 @@ La liste de ces initiatives n’est pas exhaustive, mais elle permet de déceler
 
 ![Icônes des différentes initiatives évoquées dans l'articles](/img/blog/initiatives.PNG)_Logos des différentes initiatives évoquées dans cette étude_
 
-## Quels enseignements retirons-nous de cette analyse ? 
+## Quels enseignements retirons-nous de cette analyse ?
 
 **Plusieurs réponses pour une même problématique : la recherche de compétences spécifiques au numérique**
 

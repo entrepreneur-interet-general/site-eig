@@ -1,0 +1,63 @@
+- question: "Who can participate?"
+  reponse: "<p>The EIG program is open to anyone who has completed their university studies, with the exception of administrative staff and members of the panel (see the program regulations for further information).</p><p>Although we are mainly looking for applicants with a certain amount of experience (about 5 years), less experienced applicants who have already carried out entrepreneurial or associative projects are also welcome.</p>"
+  ancre: qui-peut-participer
+
+- question: "Can I telework on my challenge, either fully or partially?"
+  reponse: "<p>The ability to work remotely varies from one administration to another. Most allow it and supervise it, but you will need to ask mentors during interviews. Keep in mind that challenges are team challenges and that proximity between EIGs is an important success factor.</p>"
+  ancre: teletravail
+
+- question: "Where do EIGs work?"
+  reponse: "<p>EIGs work in teams, each located in the administration setting the challenge. The coaching program provides time for discussions between EIGs and a place where they can meet outside their administration, with the agreement of their mentors.</p>"
+  ancre: lieu-de-travail
+
+- question: "Where do the challenges take place ?"
+  reponse: "<p>You will find this information at the top of the description of every challenge. This year, all of the challenges take place in Paris or the Paris region, except Monitor Fish (half-time in the Paris region and half-time in Britanny).</p>"
+  ancre: lieu
+
+- question: "I’m under permanent contract, do I have to quit my job to participate in the program?"
+  reponse: "<p>Not necessarily. You have other options, such as unpaid leave. However, you will need your employer’s agreement.</p>"
+  ancre: demission-CDI
+
+- question: "How is an EIG different from a service provider?"
+  reponse: "<p>Unlike a service provider, EIGs do not work to precise specifications. They are in charge of their challenge and can propose changes to the project initially considered by the host administrations, if it seems to them that there are more appropriate ways of responding to the challenge they have been given, in terms of technologies or deliverables. During their immersion in administrations, EIGs are led to develop a roadmap on which they and their mentors work.</p>"
+  ancre: pas-un-prestataire
+
+- question: "Is an EIG different from a 3-year fixed-term contract worker in administrations and if so how?"
+  reponse: "<p>Unlike a conventional contract worker, EIGs work on a single project, and for 10 months. This allows them to work on a project from start to finish, from its design to its completion. Mentors are overseers of this format, allowing EIGs to get in touch with all those needed to complete the project.</p>"
+  ancre: pas-un-contractuel-classique
+
+- question: "What type of contract do EIGs have with their host administration?"
+  reponse: "<p>EIGs, once selected, contact the host administration in order to sign a contract. The type is as follows: 10-month fixed-term contract with a salary of Euros 4000 net per month.</p>"
+  ancre: contrat-administration
+
+- question: "Why 10-month challenges?"
+  reponse: "<p>The rules are clear: after 10 months, EIGs leave their host administration. This deadline puts healthy pressure on entrepreneurs to stay focused on the task at hand. This temporality, different from the one usually applicable in administrations, instils new methods and stimulates the project team's creativity and efficiency.</p>"
+  ancre: pourquoi-dix-mois
+
+- question: "Can I begin after the first of September? "
+  reponse: "<p>Unfortunately, due to administrative reasons, all Public Interest Entrepreneurs must begin on the first of September. If you have to quit, you can ask for a reduction of the notice period (partial or total). You can also consider other options, such as unpaid leave. Things might be a bit different for challenges that aren’t funded by the program, but there’s no guarantee of it (ADEX, Opérations 18, Enki, DataMed).</p>"
+  ancre: commencer-plus-tard
+
+- question: "At the end of 10 months, how are challenges put on a permanent footing?"
+  reponse: "<p>Tools continue to be maintained and developed by host administration teams. Others are even deployed in other departments. In addition, the obligation, unless an exception is made, to release developments carried out as open source allows everyone to maintain them. The first promotion created an organization on Github to consolidate published repositories.</p>"
+  ancre: perennisation-des-defis
+
+- question: "How are mentors prepared to greet the arrival of EIGs in their administration?"
+  reponse: "<p>Before the arrival of EIGs, mentors are assisted by the Etalab team to prepare several stages: administration recruitment, work environment and scoping of the challenge (technical needs, methods, agility, etc.). They also participate in the promotion's mentoring sessions, so they can share their successes and difficulties.</p>"
+  ancre: preparation-des-mentors
+
+- question: "What challenges were met by the members of the first and second promotions?"
+  reponse: "<p>You are encouraged to visit the <a href=\"/en/challenges.html\" title=\"Présentation des défis\">page of the achievements</a>  to find out about what challenges are currently being worked on or have been already completed.<p>"
+  ancre: defis-eig1-eig2
+
+- question: "Can the interview be passed remotely, by videoconference?"
+  reponse: "<p>Yes, this is perfectly possible. Please inform the panel as soon as possible to allow them to make their arrangements and contact you via the tool of your choice.</p>"
+  ancre: visio-jury
+
+- question: "What's the difference between Entrepreneurs d'Intérêt Général (EIG -public interest entrepreneurs) and Designers d'Intérêt Général (DIG - public interest designers)?"
+  reponse: "<p>Every year since 2017, the EIG program has recruited a promotion of data scientists, developers and designers. They join administrations in multidisciplinary teams of 2 or 3, for a period of 10 months. Public interest designers are inspired by the EIG program. While the EIG program aims to recruit a variety of digital skills to solve challenges related to data flow and improving public policy, Public interest designers (DIGs) are particularly interested in improving user experience of online public services. Once recruited, DIGs join administrations according to various EIG procedures: they work alone or in twosomes and stay for a period of 6 to 12 months. The coaching of DIGs has been assigned to the EIG program; they thus join the community of the Public interest entrepreneurs program.</p>"
+  ancre: difference-EIG-DIG
+
+- question: "You didn't find an answer to your question?"
+  reponse: "<p>Contact us at the following address:  <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\" title=\"Formulaire de contact\">entrepreneur-interet-general@data.gouv.fr</a></p>"
+  ancre: autre

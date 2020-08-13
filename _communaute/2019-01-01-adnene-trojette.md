@@ -3,8 +3,10 @@ layout: personne
 nom: Adnène Trojette
 ---
 
-Mohammed Adnène Trojette est secrétaire général adjoint de la Cour des
-comptes. Il dirige le centre d’appui métier des juridictions
+Mohammed Adnène Trojette est conseiller Action publique et Numérique
+du Président de la République et conseiller technique numérique du
+Premier ministre. Précédemment secrétaire général adjoint de la Cour des
+comptes, il dirige le centre d’appui métier des juridictions
 financières, qui regroupe la direction des systèmes d’information, la
 direction de la documentation, le pôle données, le pôle méthodes et le
 pôle formation.

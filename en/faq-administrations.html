@@ -1,0 +1,24 @@
+---
+layout: default
+section_id: questions-frequentes
+lang-ref: faq-administrations
+permalink: en/faq-administration.html
+---
+
+<div class='full'>
+    <div class='row'>
+	<div class='large-12 columns'>
+	    <h2>Frequently asked questions about the call for projects</h2>
+
+	    <div id="accordion">
+
+		{% for faq in site.data.faq-administrations-en %}
+		<h3>{{faq.question}}</h3>
+		<div>{{faq.reponse}}</div>
+		{% endfor %}
+
+	    </div>
+	</div>
+    </div>
+    <div class='two spacing'></div>
+</div>

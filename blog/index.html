@@ -1,9 +1,17 @@
 ---
 layout: blog
 section_id: blog
+lang-ref: blog
+locale: fr
+pagination:
+  enabled: true
+  locale: fr
 ---
 
+<!-- Force Jekyll to build the page in english, some awkward bug : {{ page.locale }} -->
 <h1 class="mt-0">Les actualités du programme</h1>
+
+{% include tags.html %}
 
 <ul class="small-block-grid-1 large-block-grid-2 mt-2">
 {% for post in paginator.posts %}
@@ -13,6 +21,6 @@ section_id: blog
 {% endfor %}
 </ul>
 
-{% include pagination.html root="blog" %}
+{% include pagination.html root="/blog" %}
 
 <div class='four spacing'></div>

@@ -1242,7 +1242,7 @@ Charlotte Bourcier:
   - Alphabet
   github:
   gitlab:
-  image_url: /img/communaute/charlotte-bourcier.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2019/charlotte-bourcier.html
   linkedin: https://www.linkedin.com/in/charlottebourcier/
   profil: Designer
@@ -2384,25 +2384,6 @@ Jérôme Blondon:
   programme: DIG
   title: Jérôme Blondon
   twitter: jbl2024
-  website:
-
-Jérôme Letanou:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - Alphabet
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2019/jerome-letanou.html
-  linkedin:
-  profil: Mentor
-  programme: DIG
-  title: Jérôme Letanou
-  twitter:
   website:
 
 Jérôme Poulain:
