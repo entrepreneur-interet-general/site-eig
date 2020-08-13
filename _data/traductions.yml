@@ -11,6 +11,12 @@ fr:
     title: "Espace presse"
     path: /presse.html
   footer-finanement: "Financé avec le concours du Programme d'investissements d'avenir"
+  footer-accessibilite: 
+    title: "Accessibilité : partiellement conforme"
+    path: /accessibilite.html
+  footer-plan:
+    title: "Plan du site"
+    path: /plan-site.html
   blog-anciens: "Articles plus anciens"
   blog-recents: "Articles plus récents"
   blog-plus: "Lire la suite"
@@ -29,6 +35,12 @@ en:
     title: "Press space"
     path: /en/press-space.html
   footer-finanement: "Funded with the assistance of the Future Investments Program"
+  footer-accessibilite: 
+    title: "Accessibility statement"
+    path: /accessibilite.html
+  footer-plan:
+    title: "Site map"
+    path: /plan-site.html
   blog-anciens: "Older posts"
   blog-recents: "Newer posts"
   blog-plus: "Read more"
