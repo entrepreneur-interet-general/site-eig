@@ -299,6 +299,14 @@ ul.shortcode-list i {
 .contain-to-grid .top-bar-section ul li {
   background: transparent;
 }
+.contain-to-grid .top-bar-section > ul > li:nth-child(5) > a {
+  font-weight: bold;
+}
+
+.contain-to-grid .top-bar-section ul li img {
+  width: 24px;
+  height: auto;
+}
 
 .contain-to-grid.shadowless {
   -moz-box-shadow: none;
@@ -453,10 +461,6 @@ ul.shortcode-list i {
 
 .top-bar-section ul li > a {
   color: #333;
-}
-
-.top-bar-section ul li.lastmenu > a {
-    font-weight: 800;
 }
 
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
@@ -4090,3 +4094,4 @@ blockquote, ul, p {
     font-size: 0.8rem;
   }
 }
+/**/

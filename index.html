@@ -1,6 +1,7 @@
 ---
 layout: default
 section_id: accueil
+lang-ref: accueil
 images:
   - /img/eig.png
 boxes:
@@ -234,7 +235,8 @@ slides:
       <div class="two spacing"></div>
 
       <ul class="small-block-grid-1 medium-block-grid-2">
-      {% for post in site.posts limit: 4 %}
+      {% assign articles = site.posts | where:"locale", page.locale %}
+      {% for post in articles limit: 4 %}
       <li style="padding: 0 .2em">
         {% include post_card.html %}
       </li>

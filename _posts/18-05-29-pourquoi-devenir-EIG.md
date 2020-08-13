@@ -8,6 +8,7 @@ tags:
 - témoignage
 - datascience
 title: Pourquoi quitter son travail et devenir Entrepreneur·e d'Intérêt Général (EIG)?
+lang-ref: pourquoi-devenir-eig
 twitter: datatiph
 ---
 
@@ -80,9 +81,9 @@ suis data scientist avec un parcours dans le privé.
 
 **Ensemble, nous cherchons à aider les sapeurs-pompiers de l’Essonne. Leur besoin :
 mieux prévoir leurs opérations pour mieux s'y préparer et rendre un
-meilleur service aux citoyens**. 
+meilleur service aux citoyens**.
 
-**Le travail en équipe est une réalité pour tous les défis EIG** : 
+**Le travail en équipe est une réalité pour tous les défis EIG** :
 - designers, chefs de projet, ingénieurs de tout niveau, genre ou âge
 (je vous laisse naviguer sur le site pour vous en rendre compte)
 travaillent ensemble au sein des défis, mais aussi entre défis,

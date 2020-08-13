@@ -1,0 +1,121 @@
+---
+layout: default
+section_id: realisations
+lang-ref: realisations
+permalink: /en/achievements.html
+realisations:
+-
+  title: "Bulletins"
+  defi: "EIG Link 2019"
+  image: /img/illustration-bulletins.png
+  url: https://bulletins.eig-forever.org
+  cta: "Discover Bulletins"
+  description: "A tool that allows several teams to take stock of their week quickly and in writing and then share it among themselves"
+-
+  title: "SECMAR map"
+  defi: "PrédiSauvetage"
+  image: /img/illustration-carte-secmar.png
+  url: https://carte.snosan.fr/
+  cta: "Discover the SECMAR map"
+  description: "Interactive map of assistance and rescue operations at sea carried out by France since 1985 and updated in real time"
+-
+  title: "Mobilier National's collection"
+  defi: "Gobelins"
+  image: /img/illustration-gobelins.png
+  url: https://collection.mobiliernational.culture.gouv.fr/recherche
+  cta: "Discover the website"
+  description: "Website that allows Mobilier National's collections to be explored by type of object, author, period, etc. or randomly."
+-
+  title: "Graph Explorer"
+  defi: "Hopkins"
+  image: /img/defis/graphexplo-capture.png
+  url: https://github.com/entrepreneur-interet-general/graph-explorer
+  cta: "Discover Graph Explorer"
+  description: "A tool for viewing and exploring a large graph of financial transactions."
+-
+  title: "matchID"
+  defi: "MI - matchID"
+  image: /img/defis/matchid-capture.png
+  url: https://github.com/matchID-project/
+  cta: "Discover matchID"
+  description: "<em>Fuzzy matching</em> tool that matches the same two items in two different databases, even if they contain errors"
+-
+  title: "OpenScraper"
+  defi: "Social Connect"
+  image: /img/defis/openscrapper-capture.png
+  url: https://github.com/entrepreneur-interet-general/OpenScraper
+  cta: "Discover OpenScraper"
+  description: "Tool for retrieving data (<em>scraper</em>) from several websites at the same time and structuring the resulting data"
+-
+  title: "Signaux Faibles"
+  defi: "Signaux Faibles"
+  image: /img/illustration-signaux-faibles.png
+  url: https://github.com/entrepreneur-interet-general/opensignauxfaibles
+  cta: "Discover Signaux Faibles"
+  description: "Tool for the early detection of companies in difficulty"
+-
+  title: "Stalactite"
+  defi: "Archifiltre"
+  image: /img/defis/archifiltre.png
+  url: https://archifiltre.github.io/
+  cta: "Discovering Stalactite"
+  description: "Tool for viewing and organizing a tree structure containing all types of documents: e-mails, images, texts, presentations, etc"
+---
+
+<div class='full'>
+    <div class='row'>
+  <div class='large-12 columns'>
+    <h2>Producing open source tools for administrations</h2>
+    <div class='one spacing'></div>
+
+    <p>In 10 months, the public interest entrepreneurs develop tools that are as close as possible to the needs of their administrations.</p>
+
+    <p><strong>The following is a selection of open source tools developed within the program. It reflects the diversity of the projects carried out and the variety of technical challenges involved.</strong></p>
+
+  </div>
+    </div>
+</div>
+
+<div class='full'>
+    {% for realisation in page.realisations %}
+    <div class='two spacing'></div>
+    <div class='row'>
+      {% assign modulo_value = forloop.index | modulo: 2 %}
+      {% if modulo_value == 1 %}
+      <div class='medium-6 columns'>
+        <img class="fadeinleft" width="500" height="380" alt="Interface de l'outil développé par le défi {{ site.data.defis[realisation.defi].title }}" src="{{ realisation.image }}">
+      </div>
+      <div class='medium-6 columns'>
+        <h2>{{ realisation.title }}</h2>
+        <h4>Tool developed by the challenge <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+        <div class='spacing'></div>
+        <ul class='shortcode-list'>
+          <li>
+            <i class='fa fa-check'></i>{{ realisation.description }}
+          </li>
+          </ul>
+        <div class='spacing'></div>
+        <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+      </div>
+      {% else %}
+      <div class='medium-6 columns'>
+        <h4>Tool developed by the challenge <a href="{{ site.data.defis[realisation.defi].link_to }}">{{ site.data.defis[realisation.defi].title }}</a></h4>
+        <h2>{{ realisation.title }}</h2>
+        <div class='spacing'></div>
+        <ul class='shortcode-list'>
+          <li>
+            <i class='fa fa-check'></i>{{ realisation.description }}
+          </li>
+          </ul>
+        <div class='spacing'></div>
+        <a class='button large' href='{{ realisation.url }}'>{{ realisation.cta }}</a>
+      </div>
+      <div class='medium-6 columns'>
+        <img class="fadeinright" width="500" height="380" alt="" src="{{ realisation.image }}">
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+    <div class='four spacing'></div>
+</div>

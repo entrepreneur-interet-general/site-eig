@@ -1,0 +1,71 @@
+- question: "What's the difference between Entrepreneurs d'Intérêt Général (EIG -public interest entrepreneurs) and Designers d'Intérêt Général (DIG - public interest designers)?"
+  reponse: "<p>Every year since 2017, the EIG program has recruited a promotion of data scientists, developers and designers. They join administrations in multidisciplinary teams of 2 or 3, for a period of 10 months. Public interest designers are inspired by the EIG program. While the EIG program aims to recruit a variety of digital skills to solve challenges related to data flow and improving public policy, Public interest designers (DIGs) are particularly interested in improving user experience of online public services. Once recruited, DIGs join administrations according to various EIG procedures: they work alone or in twosomes and stay for a period of 6 to 12 months. The coaching of DIGs has been assigned to the EIG program; they thus join the community of the Public interest entrepreneurs program.</p>"
+  ancre: difference-EIG-DIG
+
+- question: "How to know whether you would be better recruiting two or three EIGs?"
+  reponse: "<p>It depends on the scope of your challenge and the skills you are looking for. Note: in most cases, promotion 2 and 3 teams included 2 EIGs.<p>"
+  ancre: recruter-2-3-eig
+
+- question: "I lack technical skills: how do I define the EIG profiles I need to complete my challenge?"
+  reponse: "<p>You can first of all contact your DSI.<p><p> In addition, feel free to contact us at the address entrepreneur-interet-general@data.gouv.fr. Wherever possible, we will try to put you in contact with people who can help you in your administration, in particular if it hosts EIGs of promotion 2.</p><p>Finally, don't worry if you are not completely sure of the skills you are looking for: if your challenge is selected, you will be able to respecify the EIG profiles sought before the call for applications is launched.</p>"
+  ancre: definir-les-profils
+
+- question: "What type of contract do EIGs have?"
+  reponse: "<p>EIGs sign a contract with their host administrations (10-month fixed-term contract.</p>"
+  ancre: contrat-type-eig
+
+- question: "Do the contracts of Public Interest Entrepreneurs count in the job ceilings of the administrations?"
+  reponse: "<p>Yes, they do. This is new compared to previous years. Our advice: quickly get in touch with your HR department to identify the obstacles you might encounter and find solutions.You can also get in touch with public agents within your administration that have already taken part in the program : they will tell you who to talk to and share their experience.</p>"
+  ancre: plafonds-emploi
+
+- question: "Under what conditions can I receive PIA co-funding?"
+  reponse: "<p>You can benefit from PIA co-funding if your challenge is administratively backed by a ministry.</p><p> The 30% co-funding by administrations concerns the remuneration of EIGs.</p>"
+  ancre: cofinancement
+
+- question: "Can I self-fund my EIG challenge?"
+  reponse: "<p>You can totally self-fund your EIG challenge!</p>"
+  ancre: autofinancement
+
+- question: "To whom are ancillary expenses related to the presence of EIGs, such as travel expenses, charged?"
+  reponse: "<p>Other expenses related to the presence of EIGs (especially travel expenses) are borne by the host administration.</p>"
+  ancre: frais-annexes
+
+- question: "I am a local authority: how can I fund my EIG challenge?"
+  reponse: "<p>The first solution is of course self-funding.</p><p> In order to be co-funded by the PIA, you have to enter into a partnership with a ministry, which will then be the challenge's administrative backer.</p>"
+  ancre: collectivite
+
+- question: "Who has to carry out the financial simulation to be included in the response file?"
+  reponse: "<p>This simulation can be requested from your HR department.</p>"
+  ancre: simulation-financiere
+
+- question: "I'd like to submit an interdepartmental challenge: who should be indicated as an operational backer?"
+  reponse: "<p>We advise you to select a ministry as an operational backer and indicate any other participating administration(s) as partners, emphasizing the challenge's interdepartmental dimension.<p>"
+  ancre: defi-interministeriel
+
+- question: "Can EIGs be hosted in premises outside Paris?"
+  reponse: "<p> Absolutely, as is the case for two EIG 2 challenges (baliseNAV in Brest and Tell-tell signs in Dijon).</p><p>However, we advise you to anticipate the fact that EIGs will have to go to Paris for promotion coaching sessions, and that travel expenses have to paid by the host administration.</p>"
+  ancre: accueil-hors-de-paris
+
+- question: "What profile do operational mentors generally have? What is their role?"
+  reponse: "<p>Operational mentors responsible for enabling EIGs to rise to their challenge as best as possible, by guiding them in administrations, ensuring that they have all the required resources (especially technical and data), and facilitating any legal and administrative procedures.</p><p>They are also part of the EIG collective, and attend coaching sessions.</p><p>In general, operational mentors have a \"sector\" profile, and may give EIGs the benefit of their experience in the field.</p><p>A mentor is expected above all to be passionate about the EIG challenge they are backing. The weekly time invested in the EIG Challenge will be an important factor in assessing challenges. On average, mentors invest 30-40% of their time on their EIG challenge (and some invest 100% of it!).</p>"
+  ancre: profil-mentors-operationnels
+
+- question: "Do operational mentors attend coaching sessions?"
+  reponse: "<p>Operational mentors attend coaching sessions at a slower pace than EIGs (one session every two months for the scheme set up for promotion 3).</p>"
+  ancre: sessions-accompagnement
+
+- question: "Can the challenge be supervised by two operational mentors?"
+  reponse: "<p>Yes, absolutely! This is the case for several EIG 2 and 3 challenges.</p>"
+  ancre: plusieurs-mentors-operationnels
+
+- question: "How long does it take to put together a call for applications?"
+  reponse: "<p>Although the establishing time is variable, we've deliberately limited the length of the file this year: feel free to be clear and concise</p>"
+  ancre: temps-constitution-dossier
+
+- question: "In the event of selection, how does the admissions panel proceed?"
+  reponse: "<p>The operational mentors of the pre-selected challenges will be invited to submit their challenge before the admissions panel, in particular using the slides attached to the call for projects response file (which may be changed in the meantime).</p><p>Further information will be sent to pre-selected administrations in mid-June.</p>"
+  ancre: jury-admission
+
+- question: "You didn't find an answer to your question?"
+  reponse: "<p>Contact us at the following address: <a href=\"mailto:entrepreneur-interet-general@data.gouv.fr\" title=\"Formulaire de contact\">entrepreneur-interet-general@data.gouv.fr</a></p>"
+  ancre: autre

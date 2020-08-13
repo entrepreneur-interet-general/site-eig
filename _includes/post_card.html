@@ -9,6 +9,7 @@
   <div class="card__content">
     <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
     <p class='info'>
+      {% if page.locale == 'fr' %}
       Le
       {% assign m = post.date | date: "%-m" %}
       {{ post.date | date: "%-d" }}
@@ -28,6 +29,9 @@
       {% endcase %}
       {{ post.date | date: "%Y" }}
         par
+      {% else %}
+        {{ post.date | date: "%d %B %Y" }} by
+      {% endif %}
         <a href="https://twitter.com/{{ post.twitter }}">{{ post.author }}&nbsp;<i class='fa fa-twitter'></i></a>
     </p>
     <p>{{ post.description }}</p>
@@ -45,7 +49,7 @@
       </div>
       <div class="columns small-12 medium-4 card__btn">
         <a class="button small" href="{{ post.url }}">
-          Lire la suite
+          {{ site.data.traductions[page.locale].blog-plus }}
         </a>
       </div>
     </div>
