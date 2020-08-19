@@ -307,7 +307,7 @@
   administration_website: https://www.asn.fr
   eigs:
     - "Aliaume Lopez"
-    - "Pierre-Etienne Devineau"
+    - "Pierre-Étienne Devineau"
   mentors:
     - "Dominique Boina"
     - "Damien Clément"
@@ -931,7 +931,7 @@
     - amount: 30
       description: "académies impliquées"
     - amount: 33
-      description: "entretiens avec des utilisateurs finaux" 
+      description: "entretiens avec des utilisateurs finaux"
   projects:
     - image: img/realisations/2019/Aplhabet_RapportExploration.jpg
       title: "Recherche utilisateurs"
@@ -1350,7 +1350,7 @@
     - image: img/realisations/2019/SequoiaCGDD_Site_2020.png
       title: "Ombel, le site en ligne"
       description: "Découvrez les enjeux environnementaux et du développement durable !"
-      url: 
+      url:
       call_to_action: "Prochainement en ligne"
 
 "Sequoia IGN":
