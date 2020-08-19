@@ -9,7 +9,7 @@ Adeline Celier:
   - MonitorFish
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/adeline-celier.jpg
   link_to: /communaute/2020/adeline-celier.html
   linkedin: https://www.linkedin.com/in/adeline-celier-a84436168/
   profil: Designer
@@ -90,7 +90,7 @@ Alexandra Leschi:
   - Datalympics
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/alexandra-leschi.png
   link_to: /communaute/2020/alexandra-leschi.html
   linkedin: https://www.linkedin.com/in/alexandra-leschi-241354a7/
   profil: Développeuse
@@ -148,7 +148,7 @@ Aliaume Lopez:
   - SIANCE
   github: AliaumeL
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/aliaume-lopez.png
   link_to: /communaute/2020/aliaume-lopez.html
   linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
   profil: Développeur
@@ -228,7 +228,7 @@ Anne Catel:
   - ADEX
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/anne-catel.jpg
   link_to: /communaute/2020/anne-catel.html
   linkedin: https://www.linkedin.com/in/annecatel/
   profil: Designer
@@ -329,7 +329,7 @@ Antoine Biard:
   - ADEX
   github: antoan2
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/antoine-biard.jpg
   link_to: /communaute/2020/antoine-biard.html
   linkedin: https://www.linkedin.com/in/antoine-biard-02906355/
   profil: Data scientist
@@ -604,7 +604,7 @@ Benoît Serrano:
   - webdev
   defis:
   - LABEL
-  github: BenoitSerrano
+  github: https://github.com/BenoitSerrano
   gitlab: 
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/benoit-serrano.html
@@ -626,7 +626,7 @@ Camille Canaple:
   - Atlas Culture
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/camille-canaple.jpg
   link_to: /communaute/2020/camille-canaple.html
   linkedin: https://www.linkedin.com/in/camille-canaple/
   profil: Designer
@@ -953,10 +953,10 @@ Coline Malivel:
   - eig
   - dig
   defis:
-  - EIG Link 2020
+  - EIG Link
   github: coline
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/coline-malivel.jpg
   link_to: /communaute/2020/coline-malivel.html
   linkedin: https://www.linkedin.com/in/colinemalivel/
   profil: Designer
@@ -1936,9 +1936,9 @@ Hélène Jonin:
   - eig
   defis:
   - SEDAccord
-  github: hjonin
+  github: https://github.com/hjonin
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/helene-jonin.jpg
   link_to: /communaute/2020/helene-jonin.html
   linkedin: https://www.linkedin.com/in/helenejoninliprofile/
   profil: Développeuse
@@ -2135,7 +2135,7 @@ Joseph Garrone:
   - SSP Datalab
   github: garronej
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/joseph-garrone.jpg
   link_to: /communaute/2020/joseph-garrone.html
   linkedin: https://www.linkedin.com/in/joseph-garrone-0b583490/
   profil: Développeur
@@ -2155,7 +2155,7 @@ Julie Dugardin:
   - NEOTac
   github:
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/julie-dugardin.jpg
   link_to: /communaute/2020/julie-dugardin.html
   linkedin: https://www.linkedin.com/in/juliedugardin/
   profil: Designer
@@ -2716,7 +2716,7 @@ Loup Theron:
   - MonitorFish
   github: louptheron
   gitlab: louptheron
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/loup-theron.png
   link_to: /communaute/2020/loup-theron.html
   linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
   profil: Développeur
@@ -2852,7 +2852,7 @@ Marc Hufschmitt:
   - SSP Datalab
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/marc-hufschmitt.jpg
   link_to: /communaute/2020/marc-hufschmitt.html
   linkedin: www.linkedin.com/in/marc-hufschmitt
   profil: Designer
@@ -3181,9 +3181,9 @@ Matthieu Tirelli:
   - eig
   defis:
   - NEOTac
-  github: matthieutirelli
-  gitlab: matthieutirelli
-  image_url: /img/communaute/sans-photo.png
+  github: https://github.com/matthieutirelli
+  gitlab: https://gitlab.com/matthieutirelli
+  image_url: /img/communaute/matthieu-tirelli.jpg
   link_to: /communaute/2020/matthieu-tirelli.html
   linkedin: https://www.linkedin.com/in/delaisement/
   profil: Développeur
@@ -3336,7 +3336,7 @@ Nadim Bel Lallahom:
   - France Transition
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/nadim-bel-lallalom.jpg
   link_to: /communaute/2020/nadim-bel-lallahom.html
   linkedin: https://www.linkedin.com/in/nadim-bel-lallahom/
   profil: Designer
@@ -3356,7 +3356,7 @@ Nathan Delavictoire:
   - CapQualif
   github:
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/nathan-delavictoire.jpeg
   link_to: /communaute/2020/nathan-delavictoire.html
   linkedin: https://it.linkedin.com/in/nathan-delavictoire-23123686
   profil: Designer
@@ -3396,7 +3396,7 @@ Nicolas Assouad:
   - LABEL
   github: fondation451
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/nicolas-assouad.png
   link_to: /communaute/2020/nicolas-assouad.html
   linkedin: https://www.linkedin.com/in/nicolas-assouad-02548412a/
   profil: Développeur
@@ -3720,7 +3720,7 @@ Pengfei Liu:
   - eig
   defis:
   - SSP Datalab
-  github: pengfei99
+  github: https://github.com/pengfei99
   gitlab: 
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/pengfei-liu.html
@@ -3862,7 +3862,7 @@ Pierre-Étienne Devineau:
   - SIANCE
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/pierre-etienne-devineau.jpg
   link_to: /communaute/2020/pierre-etienne-devineau.html
   linkedin: 
   profil: Data scientist
@@ -3921,7 +3921,7 @@ Raphaël Courivaud:
   - Enki
   github: rcourivaud
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/raphael-courivaud.png
   link_to: /communaute/2020/raphael-courivaud.html
   linkedin: https://www.linkedin.com/in/rapha%C3%ABl-courivaud/
   profil: Data scientist
@@ -3939,7 +3939,7 @@ Raphaëlle Bertrand-Lalo:
   - datascientist
   defis:
   - Opérations 18
-  github: bertrandlalo
+  github: https://github.com/bertrandlalo
   gitlab: 
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/raphaelle-bertrand-lalo.html
@@ -4018,7 +4018,7 @@ Rémi Delbouys:
   - EnviNorma
   github: remidbs
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/remi-delbouys.jpg
   link_to: /communaute/2020/remi-delbouys.html
   linkedin: https://www.linkedin.com/in/remidelbouys/
   profil: Data scientist
@@ -4098,7 +4098,7 @@ Salim Atmani:
   - SEDAccord
   github:
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/salim-atmani.jpg
   link_to: /communaute/2020/salim-atmani.html
   linkedin: https://www.linkedin.com/in/salim-atmani/
   profil: Designer
@@ -4487,7 +4487,7 @@ Stéphanie Huynh:
   - Enki
   github:
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/stephanie-huynh.jpg
   link_to: /communaute/2020/stephanie-huynh.html
   linkedin: https://www.linkedin.com/in/huynhs1/
   profil: Designer
@@ -4566,7 +4566,7 @@ Sylvain Boissel:
   - Open Collectivités
   github: ash_crow
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/sylvain-boissel.jpeg
   link_to: /communaute/2020/sylvain-boissel.html
   linkedin: https://www.linkedin.com/in/sboissel/
   profil: Développeur
