@@ -1,4 +1,24 @@
-Adnène Trojette:
+Adeline Celier:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - MonitorFish
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/adeline-celier.html
+  linkedin: https://www.linkedin.com/in/adeline-celier-a84436168/
+  profil: Designer
+  programme: EIG
+  title: Adeline Celier
+  twitter: 
+  website: 
+  
+  Adnène Trojette:
   annees:
   - 2017
   - 2019
@@ -59,6 +79,26 @@ Alain Régnier:
   twitter:
   website:
 
+Alexandra Leschi:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Datalympics
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/alexandra-leschi.html
+  linkedin: https://www.linkedin.com/in/alexandra-leschi-241354a7/
+  profil: Développeuse
+  programme: EIG
+  title: Alexandra Leschi
+  twitter:
+  website:
+  
 Alexandre Leonardi:
   annees:
   - 2020
@@ -97,6 +137,26 @@ Alexis Deny:
   twitter:
   website:
 
+Aliaume Lopez:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - SIANCE
+  github: AliaumeL
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/aliaume-lopez.html
+  linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
+  profil: Développeur
+  programme: EIG
+  title: Aliaume Lopez
+  twitter:
+  website: 
+  
 Amaury Fouret:
   annees:
   - 2019
@@ -157,6 +217,26 @@ Amélie Medem:
   twitter:
   website:
 
+Anne Catel:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - ADEX
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/anne-catel.html
+  linkedin: https://www.linkedin.com/in/annecatel/
+  profil: Designer
+  programme: EIG
+  title: Anne Catel
+  twitter: AnneCatel
+  website: https://annecatel.com/
+  
 Anne Lambert:
   annees:
   - 2018
@@ -238,6 +318,26 @@ Antoine Augusti:
   twitter: AntoineAugusti
   website: https://www.antoine-augusti.fr
 
+Antoine Biard:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - datascientist
+  defis:
+  - ADEX
+  github: https://github.com/antoan2
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/antoine-biard.html
+  linkedin: https://www.linkedin.com/in/antoine-biard-02906355/
+  profil: Data scientist
+  programme: EIG
+  title: Antoine Biard
+  twitter: 
+  website: 
+  
 Armand Giraud:
   annees:
   - 2019
@@ -398,26 +498,6 @@ Bastien Guerry:
   twitter: bzg2
   website: https://bzg.fr
 
-Benoît Guigal:
-  annees:
-  - 2018
-  class:
-  - eig-2
-  - eig
-  - webdev
-  defis:
-  - Hopkins
-  github: benoitguigal
-  gitlab:
-  image_url: /img/communaute/Benoit-Guigal.png
-  link_to: /communaute/2018/benoit-guigal.html
-  linkedin:
-  profil: Développeur
-  programme: EIG
-  title: Benoît Guigal
-  twitter: BGuigal
-  website:
-
 Béatrice Clément:
   annees:
   - 2019
@@ -475,6 +555,86 @@ Bénédicte Pachod:
   twitter: BenedictePachod
   website:
 
+Benjamin Perney:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Enki
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/benjamin-perney.html
+  linkedin: https://www.linkedin.com/in/benjamin-perney-6324b74a/
+  profil: Développeur
+  programme: EIG
+  title: Benjamin Perney
+  twitter:
+  website:
+
+Benoît Guigal:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - eig
+  - webdev
+  defis:
+  - Hopkins
+  github: benoitguigal
+  gitlab:
+  image_url: /img/communaute/Benoit-Guigal.png
+  link_to: /communaute/2018/benoit-guigal.html
+  linkedin:
+  profil: Développeur
+  programme: EIG
+  title: Benoît Guigal
+  twitter: BGuigal
+  website:
+
+Benoît Serrano:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - webdev
+  defis:
+  - LABEL
+  github: https://github.com/BenoitSerrano
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/benoit-serrano.html
+  linkedin: https://www.linkedin.com/in/benoit-serrano-9a2900ab/
+  profil: Développeur
+  programme: EIG
+  title: Benoît Serrano
+  twitter: BenoitSerrano
+  website: 
+
+Camille Canaple:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - Atlas Culture
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/camille-canaple.html
+  linkedin: https://www.linkedin.com/in/camille-canaple/
+  profil: Designer
+  programme: EIG
+  title: Camille Canaple
+  twitter: dabluebag
+  website: 
+  
 Carine Stolz:
   annees:
   - 2019
@@ -783,6 +943,28 @@ Coline Lebaratoux:
   twitter: colinelbx
   website:
 
+Coline Malivel:
+  annees:
+  - 2019
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  - dig
+  defis:
+  - EIG Link
+  github: coline
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/coline-malivel.html
+  linkedin: https://www.linkedin.com/in/colinemalivel/
+  profil: Designer
+  programme: EIG
+  title: Coline Malivel
+  twitter: colinemalivel
+  website: 
+  
 Constance de Quatrebarbes:
   annees:
   - 2017
@@ -1085,6 +1267,26 @@ Edwige Millery:
   title: Edwige Millery
   twitter:
   website:
+
+Élisabeth Fainstein:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - CapQualif
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/elisabeth-fainstein.html
+  linkedin: https://www.linkedin.com/mwlite/in/elisabeth-fainstein
+  profil: Développeuse
+  programme: EIG
+  title: Élisabeth Fainstein
+  twitter: 
+  website: 
   
 Élise Lalique:
   annees:
@@ -1123,6 +1325,26 @@ Edwige Millery:
   programme: DIG
   title: Élise Sanceaume
   twitter:
+  website:
+
+Élodie Delaisement:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - Open Collectivités
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/elodie-delaisement.html
+  linkedin: https://www.linkedin.com/in/delaisement/
+  profil: Designer
+  programme: EIG
+  title: Élodie Delaisement
+  twitter: hellomellowfr
   website:
   
 Éloi Buat-Ménard:
@@ -1533,6 +1755,26 @@ Gilles Martinoty:
   twitter:
   website:
 
+Guillaume Barreau:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - NEOTac
+  github: guibar
+  gitlab: guibar
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/guillaume-barreau.html
+  linkedin: https://www.linkedin.com/in/guillaume-barreau-91958b2/
+  profil: Data scientist
+  programme: EIG
+  title: Guillaume Barreau
+  twitter: guibargui
+  website: 
+  
 Guillaume Lancrenon:
   annees:
   - 2018
@@ -1684,6 +1926,26 @@ Hélène Costa:
   title: Hélène Costa
   twitter:
   website:
+
+Hélène Jonin:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - SEDAccord
+  github: https://github.com/hjonin
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/helene-jonin.html
+  linkedin: https://www.linkedin.com/in/helenejoninliprofile/
+  profil: Développeuse
+  programme: EIG
+  title: Hélène Jonin
+  twitter:
+  website: 
   
 Iana Ivanov:
   annees:
@@ -1842,6 +2104,66 @@ Jean-René Duscher:
   twitter:
   website:
 
+Joëlle Chong:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - DataMed
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/joelle-chong.html
+  linkedin: https://www.linkedin.com/in/joelle-chong/
+  profil: Designer
+  programme: EIG
+  title: Joëlle Chong
+  twitter:
+  website: 
+
+Joseph Garrone:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - SSP Datalab
+  github: garronej
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/joseph-garrone.html
+  linkedin: https://www.linkedin.com/in/joseph-garrone-0b583490/
+  profil: Développeur
+  programme: EIG
+  title: Joseph Garrone
+  twitter: 
+  website: 
+  
+Julie Dugardin:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - NEOTac
+  github:
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/julie-dugardin.html
+  linkedin: https://www.linkedin.com/in/juliedugardin/
+  profil: Designer
+  programme: EIG
+  title: Julie Dugardin
+  twitter: 
+  website: 
+  
 Julien Bouquillon:
   annees:
   - 2019
@@ -1996,6 +2318,26 @@ Jérôme Blondon:
   twitter: jbl2024
   website:
 
+Jérôme Burkard:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Opérations 18
+  github: JeromeBu
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/jerome-burkard.html
+  linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-burkard-53869747/
+  profil: Développeur
+  programme: EIG
+  title: Jérôme Burkard
+  twitter: 
+  website: 
+  
 Jérôme Poulain:
   annees:
   - 2018
@@ -2264,6 +2606,66 @@ Léo Bouloc:
   twitter:
   website:
 
+Line Rahal:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - DataMed
+  github: lrahal
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/line-rahal.html
+  linkedin: http://linkedin.com/in/line-rahal-0608a177
+  profil: Data scientist
+  programme: EIG
+  title: Line Rahal
+  twitter: RahalLine
+  website:
+  
+Lisa Durand:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - EnviNorma
+  github: lisa-durand
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/lisa-durand.html
+  linkedin: https://www.linkedin.com/in/lisa-durand-46333722/
+  profil: Développeuse
+  programme: EIG
+  title: Lisa Durand
+  twitter:
+  website: http://www.lisadurand.fr/
+
+Lívia Ribeiro:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Atlas Culture
+  github:
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/livia-ribeiro.html
+  linkedin: https://www.linkedin.com/in/l%C3%ADvia-pimentel-ribeiro-79877426/
+  profil: Développeuse
+  programme: EIG
+  title: Lívia Ribeiro
+  twitter: 
+  website: 
+  
 Loïc Duflot:
   annees:
   - 2019
@@ -2282,6 +2684,46 @@ Loïc Duflot:
   title: Pierre Dubreuil
   twitter:
   website:
+
+Lou Vettier:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - Datalympics
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/lou-vettier.html
+  linkedin: https://www.linkedin.com/in/lou-vettier/
+  profil: Designer
+  programme: EIG
+  title: Lou Vettier
+  twitter: LouVettier
+  website: 
+  
+Loup Theron:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - MonitorFish
+  github: louptheron
+  gitlab: louptheron
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/loup-theron.html
+  linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
+  profil: Développeur
+  programme: EIG
+  title: Loup Theron
+  twitter:
+  website: 
   
 Loup Wolff:
   annees:
@@ -2399,6 +2841,26 @@ Marc Bouteiller:
   twitter: mbout92
   website:
 
+Marc Hufschmitt:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - SSP Datalab
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/marc-hufschmitt.html
+  linkedin: www.linkedin.com/in/marc-hufschmitt
+  profil: Designer
+  programme: EIG
+  title: Marc Hufschmitt
+  twitter: 
+  website: www.marchufschmitt.fr
+  
 Marc Loutrel:
   annees:
   - 2019
@@ -2456,25 +2918,6 @@ Marie Juille:
   twitter:
   website:
 
-Marie Ramon-Daré:
-  annees:
-  - 2019
-  class:
-  - designer
-  - dig
-  defis:
-  - Sequoia CGDD
-  github:
-  gitlab:
-  image_url: /img/communaute/marie-ramon-dare.png
-  link_to: /communaute/2019/marie-ramon-dare.html
-  linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
-  profil: Designer
-  programme: DIG
-  title: Marie Ramon-Daré
-  twitter:
-  website:
-
 Marielle Chrisment:
   annees:
   - 2018
@@ -2491,6 +2934,25 @@ Marielle Chrisment:
   profil: Mentor
   programme: EIG
   title: Marielle Chrisment
+  twitter:
+  website:
+  
+Marie Ramon-Daré:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - Sequoia CGDD
+  github:
+  gitlab:
+  image_url: /img/communaute/marie-ramon-dare.png
+  link_to: /communaute/2019/marie-ramon-dare.html
+  linkedin: https://www.linkedin.com/in/marie-ramon-dar%C3%A9/
+  profil: Designer
+  programme: DIG
+  title: Marie Ramon-Daré
   twitter:
   website:
 
@@ -2710,6 +3172,26 @@ Mathilde Bras:
   twitter: Mathilde_Bras
   website:
 
+Matthieu Tirelli:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - NEOTac
+  github: https://github.com/matthieutirelli
+  gitlab: https://gitlab.com/matthieutirelli
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/matthieu-tirelli.html
+  linkedin: https://www.linkedin.com/in/delaisement/
+  profil: Développeur
+  programme: EIG
+  title: Matthieu Tirelli
+  twitter: fr_matthieu
+  website: https://medium.com/@matthieutirelli
+  
 Mauko Quiroga:
   annees:
   - 2019
@@ -2842,6 +3324,46 @@ Michel Monneret:
   title: Michel Monneret
   twitter:
   website:
+
+Nadim Bel Lallahom:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - France Transition
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/nadim-bel-lallahom.html
+  linkedin: https://www.linkedin.com/in/nadim-bel-lallahom/
+  profil: Designer
+  programme: EIG
+  title: Nadim Bel Lallahom
+  twitter: nadimbhm
+  website: 
+  
+Nathan Delavictoire:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - CapQualif
+  github:
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/nathan-delavictoire.html
+  linkedin: https://it.linkedin.com/in/nathan-delavictoire-23123686
+  profil: Designer
+  programme: EIG
+  title: Nathan Delavictoire
+  twitter: 
+  website: 
   
 Ned Baldessin:
   annees:
@@ -2863,6 +3385,26 @@ Ned Baldessin:
   twitter: ned
   website:
 
+Nicolas Assouad:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - LABEL
+  github: fondation451
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/nicolas-assouad.html
+  linkedin: https://www.linkedin.com/in/nicolas-assouad-02548412a/
+  profil: Développeur
+  programme: EIG
+  title: Nicolas Assouad
+  twitter:
+  website: 
+  
 Nicolas Berkouk:
   annees:
   - 2019
@@ -3169,6 +3711,26 @@ Paul Schmite:
   twitter: schmitologie
   website:
 
+Pengfei Liu:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - SSP Datalab
+  github: https://github.com/pengfei99
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/pengfei-liu.html
+  linkedin: https://www.linkedin.com/in/pengfei-liu-22a89416/
+  profil: Data engineer
+  programme: EIG
+  title: Pengfei Liu
+  twitter: Pengfei Liu
+  website: 
+  
 Philéas Condemine:
   annees:
   - 2018
@@ -3288,6 +3850,26 @@ Pierre Dubreuil:
   title: Pierre Dubreuil
   twitter:
   website:
+
+Pierre-Étienne Devineau:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - SIANCE
+  github: 
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/pierre-etienne-devineau.html
+  linkedin: 
+  profil: Data scientist
+  programme: EIG
+  title: Pierre-Étienne Devineau
+  twitter: 
+  website: 
   
 Quentin Loridant:
   annees:
@@ -3327,6 +3909,46 @@ Raphaël Bévenot:
   title: Raphaël Bévenot
   twitter:
   website:
+
+Raphaël Courivaud:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - Enki
+  github: rcourivaud
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/raphael-courivaud.html
+  linkedin: https://www.linkedin.com/in/rapha%C3%ABl-courivaud/
+  profil: Data scientist
+  programme: EIG
+  title: Raphaël Courivaud
+  twitter:
+  website: 
+  
+Raphaëlle Bertrand-Lalo:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - datascientist
+  defis:
+  - Opérations 18
+  github: https://github.com/bertrandlalo
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/raphaelle-bertrand-lalo.html
+  linkedin: https://www.linkedin.com/in/rapha%C3%ABlle-bertrand-lalo-185679b9/
+  profil: Data scientist
+  programme: EIG
+  title: Raphaëlle Bertrand-Lalo
+  twitter: r_bertrandlalo
+  website: 
   
 Renaud Périn:
   annees:
@@ -3385,24 +4007,25 @@ Régis Perol:
   twitter:
   website:
 
-René Carlet:
+Rémi Delbouys:
   annees:
   - 2020
   class:
-  - mentor
+  - datascientist
   - eig-4
+  - eig
   defis:
-  - Datalympics
-  github:
-  gitlab:
+  - EnviNorma
+  github: remidbs
+  gitlab: 
   image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/rene-carlet.html
-  linkedin:
-  profil: Mentor
+  link_to: /communaute/2020/remi-delbouys.html
+  linkedin: https://www.linkedin.com/in/remidelbouys/
+  profil: Data scientist
   programme: EIG
-  title: René Carlet
-  twitter:
-  website:
+  title: Rémi Delbouys
+  twitter: 
+  website: 
   
 Rémy Nollet:
   title: Rémy Nollet
@@ -3425,6 +4048,25 @@ Rémy Nollet:
   twitter:
   website:
 
+René Carlet:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - Datalympics
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/rene-carlet.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: René Carlet
+  twitter:
+  website:
+  
 Romain Delassus:
   annees:
   - 2020
@@ -3444,6 +4086,26 @@ Romain Delassus:
   title: Romain Delassus
   twitter:
   website:
+
+Salim Atmani:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - SEDAccord
+  github:
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/salim-atmani.html
+  linkedin: https://www.linkedin.com/in/salim-atmani/
+  profil: Designer
+  programme: EIG
+  title: Salim Atmani
+  twitter: salimatmani
+  website: 
   
 Samah Ghalloussi:
   annees:
@@ -3814,6 +4476,26 @@ Stéphanie Devigne:
   twitter:
   website:
 
+Stéphanie Huynh:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  - eig
+  defis:
+  - Enki
+  github:
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/stephanie-huynh.html
+  linkedin: https://www.linkedin.com/in/huynhs1/
+  profil: Designer
+  programme: EIG
+  title: Stéphanie Huynh
+  twitter: 
+  website: 
+  
 Stéphanie Schaer:
   annees:
   - 2018
@@ -3873,6 +4555,26 @@ Sébastien Touzé:
   twitter: sebtouze
   website:
 
+Sylvain Boissel:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Open Collectivités
+  github: ash_crow
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/sylvain-boissel.html
+  linkedin: https://www.linkedin.com/in/sboissel/
+  profil: Développeur
+  programme: EIG
+  title: Sylvain Boissel
+  twitter: ash_crow
+  website: https://framagit.org/Ash_Crow
+  
 "Thierry Coquil":
   annees:
   - 2020
@@ -3931,6 +4633,26 @@ Thierry Razanajao:
   twitter:
   website:
 
+Thomas Brosset:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - ADEX
+  github: thoomasbro
+  gitlab: 
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/thomas-brosset.html
+  linkedin: https://www.linkedin.com/in/thomasbrosset/
+  profil: Développeur
+  programme: EIG
+  title: Thomas Brosset
+  twitter: thoomasbro
+  website: 
+  
 Thomas Lesueur:
   annees:
   - 2019
