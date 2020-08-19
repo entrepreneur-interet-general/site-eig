@@ -30,7 +30,7 @@
   ville: "Paris (75001)"
   administration: Ministère de la Culture
   administration_website: https://culture.gouv.fr
-   eigs:
+  eigs:
     - "Camille Canaple"
     - "Lívia Ribeiro"
   mentors:
