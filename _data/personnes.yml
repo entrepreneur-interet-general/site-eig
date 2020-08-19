@@ -566,7 +566,7 @@ Benjamin Perney:
   - Enki
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/benjamin-perney.png
   link_to: /communaute/2020/benjamin-perney.html
   linkedin: https://www.linkedin.com/in/benjamin-perney-6324b74a/
   profil: Développeur
@@ -606,7 +606,7 @@ Benoît Serrano:
   - LABEL
   github: https://github.com/BenoitSerrano
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/benoit-serrano.png
   link_to: /communaute/2020/benoit-serrano.html
   linkedin: https://www.linkedin.com/in/benoit-serrano-9a2900ab/
   profil: Développeur
@@ -1279,7 +1279,7 @@ Edwige Millery:
   - CapQualif
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/elisabeth-fainstein.png
   link_to: /communaute/2020/elisabeth-fainstein.html
   linkedin: https://www.linkedin.com/mwlite/in/elisabeth-fainstein
   profil: Développeuse
@@ -1338,7 +1338,7 @@ Edwige Millery:
   - Open Collectivités
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/elodie-delaisement.png
   link_to: /communaute/2020/elodie-delaisement.html
   linkedin: https://www.linkedin.com/in/delaisement/
   profil: Designer
@@ -1766,7 +1766,7 @@ Guillaume Barreau:
   - NEOTac
   github: guibar
   gitlab: guibar
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/guillaume-barreau.png
   link_to: /communaute/2020/guillaume-barreau.html
   linkedin: https://www.linkedin.com/in/guillaume-barreau-91958b2/
   profil: Data scientist
@@ -2104,6 +2104,102 @@ Jean-René Duscher:
   twitter:
   website:
 
+Jérémie Baboukhian:
+  annees:
+  - 2019
+  class:
+  - designer
+  - dig
+  defis:
+  - ID numérique
+  github: marzchew
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2019/jeremie-baboukhian.html
+  linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
+  profil: Designer
+  programme: EIG
+  title: Jérémie Baboukhian
+  twitter: baboukhian
+  website:
+
+Jérémy Bakkalian:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - AchaDef
+  github:
+  gitlab:
+  image_url: /img/communaute/jeremy-bakkalian.png
+  link_to: /communaute/2019/jeremy-bakkalian.html
+  linkedin: https://www.linkedin.com/in/jbakkalian
+  profil: Mentor
+  programme: DIG
+  title: Jérémy Bakkalian
+  twitter: J_Bakka
+  website:
+
+Jérôme Blondon:
+  annees:
+  - 2019
+  class:
+  - dig
+  - mentor
+  defis:
+  - ProxiRH
+  github:
+  gitlab:
+  image_url: /img/communaute/jerome-blondon.png
+  link_to: /communaute/2019/jerome-blondon.html
+  linkedin: https://www.linkedin.com/in/jeromeblondon/
+  profil: Mentor
+  programme: DIG
+  title: Jérôme Blondon
+  twitter: jbl2024
+  website:
+
+Jérôme Burkard:
+  annees:
+  - 2020
+  class:
+  - webdev
+  - eig-4
+  - eig
+  defis:
+  - Opérations 18
+  github: JeromeBu
+  gitlab: 
+  image_url: /img/communaute/jerome-burkard.png
+  link_to: /communaute/2020/jerome-burkard.html
+  linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-burkard-53869747/
+  profil: Développeur
+  programme: EIG
+  title: Jérôme Burkard
+  twitter: 
+  website: 
+  
+Jérôme Poulain:
+  annees:
+  - 2018
+  class:
+  - eig-2
+  - mentor
+  defis:
+  - Gobelins
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2018/jerome-poulain.html
+  linkedin: https://www.linkedin.com/in/jerome-poulain-b23a6064/
+  profil: Mentor
+  programme: EIG
+  title: Jérôme Poulain
+  twitter:
+  website:
+  
 Joëlle Chong:
   annees:
   - 2020
@@ -2115,7 +2211,7 @@ Joëlle Chong:
   - DataMed
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/joelle-chong.png
   link_to: /communaute/2020/joelle-chong.html
   linkedin: https://www.linkedin.com/in/joelle-chong/
   profil: Designer
@@ -2260,102 +2356,6 @@ Julien Paris:
   title: Julien Paris
   twitter: jparis_py
   website: http://www.jpylab.com
-
-Jérémie Baboukhian:
-  annees:
-  - 2019
-  class:
-  - designer
-  - dig
-  defis:
-  - ID numérique
-  github: marzchew
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2019/jeremie-baboukhian.html
-  linkedin: https://www.linkedin.com/in/jeremiebaboukhian/
-  profil: Designer
-  programme: EIG
-  title: Jérémie Baboukhian
-  twitter: baboukhian
-  website:
-
-Jérémy Bakkalian:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - AchaDef
-  github:
-  gitlab:
-  image_url: /img/communaute/jeremy-bakkalian.png
-  link_to: /communaute/2019/jeremy-bakkalian.html
-  linkedin: https://www.linkedin.com/in/jbakkalian
-  profil: Mentor
-  programme: DIG
-  title: Jérémy Bakkalian
-  twitter: J_Bakka
-  website:
-
-Jérôme Blondon:
-  annees:
-  - 2019
-  class:
-  - dig
-  - mentor
-  defis:
-  - ProxiRH
-  github:
-  gitlab:
-  image_url: /img/communaute/jerome-blondon.png
-  link_to: /communaute/2019/jerome-blondon.html
-  linkedin: https://www.linkedin.com/in/jeromeblondon/
-  profil: Mentor
-  programme: DIG
-  title: Jérôme Blondon
-  twitter: jbl2024
-  website:
-
-Jérôme Burkard:
-  annees:
-  - 2020
-  class:
-  - webdev
-  - eig-4
-  - eig
-  defis:
-  - Opérations 18
-  github: JeromeBu
-  gitlab: 
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/jerome-burkard.html
-  linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-burkard-53869747/
-  profil: Développeur
-  programme: EIG
-  title: Jérôme Burkard
-  twitter: 
-  website: 
-  
-Jérôme Poulain:
-  annees:
-  - 2018
-  class:
-  - eig-2
-  - mentor
-  defis:
-  - Gobelins
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2018/jerome-poulain.html
-  linkedin: https://www.linkedin.com/in/jerome-poulain-b23a6064/
-  profil: Mentor
-  programme: EIG
-  title: Jérôme Poulain
-  twitter:
-  website:
 
 Kim Montalibet:
   annees:
@@ -2617,7 +2617,7 @@ Line Rahal:
   - DataMed
   github: lrahal
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/line-rahal.png
   link_to: /communaute/2020/line-rahal.html
   linkedin: http://linkedin.com/in/line-rahal-0608a177
   profil: Data scientist
@@ -2637,7 +2637,7 @@ Lisa Durand:
   - EnviNorma
   github: lisa-durand
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/lisa-durand.png
   link_to: /communaute/2020/lisa-durand.html
   linkedin: https://www.linkedin.com/in/lisa-durand-46333722/
   profil: Développeuse
@@ -2657,7 +2657,7 @@ Lívia Ribeiro:
   - Atlas Culture
   github:
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/livia-ribeiro.png
   link_to: /communaute/2020/livia-ribeiro.html
   linkedin: https://www.linkedin.com/in/l%C3%ADvia-pimentel-ribeiro-79877426/
   profil: Développeuse
@@ -2696,7 +2696,7 @@ Lou Vettier:
   - Datalympics
   github: 
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/lou-vettier.png
   link_to: /communaute/2020/lou-vettier.html
   linkedin: https://www.linkedin.com/in/lou-vettier/
   profil: Designer
@@ -3722,7 +3722,7 @@ Pengfei Liu:
   - SSP Datalab
   github: https://github.com/pengfei99
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/penfei-liu.png
   link_to: /communaute/2020/pengfei-liu.html
   linkedin: https://www.linkedin.com/in/pengfei-liu-22a89416/
   profil: Data engineer
@@ -3941,7 +3941,7 @@ Raphaëlle Bertrand-Lalo:
   - Opérations 18
   github: https://github.com/bertrandlalo
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/raphaelle-bertrand-lalo.png
   link_to: /communaute/2020/raphaelle-bertrand-lalo.html
   linkedin: https://www.linkedin.com/in/rapha%C3%ABlle-bertrand-lalo-185679b9/
   profil: Data scientist
@@ -4644,7 +4644,7 @@ Thomas Brosset:
   - ADEX
   github: thoomasbro
   gitlab: 
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/thomas-brosset.png
   link_to: /communaute/2020/thomas-brosset.html
   linkedin: https://www.linkedin.com/in/thomasbrosset/
   profil: Développeur
