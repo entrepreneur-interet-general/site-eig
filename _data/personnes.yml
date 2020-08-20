@@ -731,6 +731,26 @@ Cédric Malherbe:
   title: Cédric Malherbe
   twitter:
   website:
+  
+Cédric Merouani:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - webdev
+  defis:
+  - France Transition
+  github: Linkinou
+  gitlab:
+  image_url: /img/communaute/cedric-merouani.jpg
+  link_to: /communaute/2020/cedric-merouani.html
+  linkedin: https://www.linkedin.com/in/c%C3%A9dric-merouani-symfony-react/
+  profil: Développeur
+  programme: EIG
+  title: Cédric Merouani
+  twitter: CedricMerouani
+  website: https://cedric.merouani.net 
 
 "Célia d'Hervé":
   annees:
