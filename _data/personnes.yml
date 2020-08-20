@@ -4872,6 +4872,26 @@ Vincent Bataille:
   title: Vincent Bataille
   twitter:
   website:
+  
+Vincent Chéry:
+  annees:
+  - 2020
+  class:
+  - datascientist
+  - eig-4
+  - eig
+  defis:
+  - MonitorFish
+  github:
+  gitlab:
+  image_url: /img/communaute/vincent-chery.png
+  link_to: /communaute/2020/vincent-chery.html
+  linkedin: https://www.linkedin.com/in/vincentchery/
+  profil: Data scientist
+  programme: EIG
+  title: Vincent Chéry
+  twitter:
+  website:
 
 Wojtek Sitarz:
   annees:
