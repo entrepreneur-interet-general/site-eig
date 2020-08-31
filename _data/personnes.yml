@@ -731,7 +731,7 @@ Cédric Malherbe:
   title: Cédric Malherbe
   twitter:
   website:
-  
+
 Cédric Merouani:
   annees:
   - 2020
@@ -750,7 +750,7 @@ Cédric Merouani:
   programme: EIG
   title: Cédric Merouani
   twitter: CedricMerouani
-  website: https://cedric.merouani.net 
+  website: https://cedric.merouani.net
 
 "Célia d'Hervé":
   annees:
@@ -4105,6 +4105,26 @@ Romain Delassus:
   programme: EIG
   title: Romain Delassus
   twitter:
+  website:
+
+
+Romain Glé:
+  annees:
+  - 2020
+  class:
+  - designer
+  - eig-4
+  defis:
+  - LABEL
+  github:
+  gitlab:
+  image_url: /img/communaute/romain-gle.jpg
+  link_to: /communaute/2020/romain-gle.html
+  linkedin:
+  profil: Designer
+  programme: EIG
+  title: Romain Glé
+  twitter: 16ar
   website:
 
 Salim Atmani:
