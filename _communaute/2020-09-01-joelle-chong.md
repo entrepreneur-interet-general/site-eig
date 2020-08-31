@@ -1,0 +1,6 @@
+---
+layout: personne 
+nom: Joëlle Chong 
+---
+
+« Après des études en Design à l’Ecole Supérieure des Arts Appliqués de Bourgogne et l’Université Paris I Panthéon-Sorbonne, je suis devenue UX/UI Designer puis Designer de Services - d’abord au sein de l’agence Axance, ensuite en freelance. J’ai pu accompagner des grands groupes dans leur transformation numérique, avec de la recherche utilisateur jusqu’à la réalisation de produits et services, en passant par du conseil et de l’initiation au Design. Les valeurs de la bienveillance, l’entraide et le partage me sont chères, c’est pourquoi j’ai choisi de m’engager à La Croix Rouge en tant que bénévole à l’épicerie solidaire et être facilitatrice pour le 2e Coopérathon en France (compétition d’innovation sociale). J’ai pu découvrir de nombreux projets à impact social, qui m’ont confortée dans l’idée de m’investir davantage dans ce milieu. En septembre 2020, j’ai le plaisir de travailler pour l’ANSM en rejoignant le défi Datamed et hacker la problématique d’ouverture de données complexes et sensibles autour du médicament. Je pourrais ainsi offrir mon expertise dans trois domaines qui me passionnent : le bien collectif, l’inclusion numérique et le médical. »

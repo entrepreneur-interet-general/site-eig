@@ -10,7 +10,10 @@
   ville: "Saint-Denis (93200)"
   administration: Haute Autorité de Santé
   administration_website: https://www.has-sante.fr
-  eigs: []
+  eigs:
+    - "Anne Catel"
+    - "Antoine Biard"
+    - "Thomas Brosset"
   mentors:
     - "Marie Simon"
     - "Franck Jolivaldt"
@@ -27,7 +30,9 @@
   ville: "Paris (75001)"
   administration: Ministère de la Culture
   administration_website: https://culture.gouv.fr
-  eigs: []
+  eigs:
+    - "Camille Canaple"
+    - "Lívia Ribeiro"
   mentors:
     - "Edwige Millery"
     - "Romain Delassus"
@@ -45,7 +50,9 @@
   ville: "La Défense (92400)"
   administration: Direction des affaires maritimes
   administration_website: https://www.ecologique-solidaire.gouv.fr/direction-generale-des-infrastructures-des-transports-et-mer-dgitm
-  eigs: []
+  eigs:
+    - "Élisabeth Fainstein"
+    - "Nathan Delavictoire"
   mentors:
     - "Nicolas Singellos"
     - "Laurence Denis"
@@ -63,7 +70,9 @@
   ville: "Paris (75012)"
   administration: Direction du budget
   administration_website: https://www.economie.gouv.fr/direction-du-budget-db
-  eigs: []
+  eigs:
+    - "Alexandra Leschi"
+    - "Lou Vettier"
   mentors:
     - "René Carlet"
     - "Xavier Michelet"
@@ -80,7 +89,9 @@
   ville: "Saint-Denis (93200)"
   administration: Agence nationale de sécurité des médicaments et des produits de santé
   administration_website: https://ansm.sante.fr
-  eigs: []
+  eigs:
+    - "Joëlle Chong"
+    - "Line Rahal"
   mentors:
     - "Evelyne Duplessis"
     - "Florent Robic"
@@ -98,7 +109,9 @@
   ville: "Paris (75007)"
   administration: Direction interministérielle du numérique
   administration_website: https://numerique.gouv.fr
-  eigs: []
+  eigs:
+    - "Coline Malivel"
+    - "Raphaëlle Roffo"
   mentors:
     - "Soizic Pénicaud"
 
@@ -114,7 +127,10 @@
   ville: "Paris (75013)"
   administration: Agence du Numérique de la Sécurité Civile
   administration_website: https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Securite-civile
-  eigs: []
+  eigs:
+    - "Benjamin Perney"
+    - "Raphaël Courivaud"
+    - "Stéphanie Huynh"
   mentors:
     - "David Vigier"
     - "Michel Monneret"
@@ -131,7 +147,9 @@
   ville: "Vincennes (94307)"
   administration: Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France
   administration_website: http://www.driee.ile-de-france.developpement-durable.gouv.fr
-  eigs: []
+  eigs:
+    - "Lisa Durand"
+    - "Rémi Delbouys"
   mentors:
     - "Alexandre Leonardi"
     - "Cédric Bourillet"
@@ -148,7 +166,9 @@
   ville: "La Défense (92400)"
   administration: Commissariat général au développement durable
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
-  eigs: []
+  eigs:
+    - "Cédric Merouani"
+    - "Nadim Bel Lallahom"
   mentors:
     - "Clément Bultheel"
     - "Hélène Costa"
@@ -166,7 +186,10 @@
   ville: "Paris (75001)"
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
-  eigs: []
+  eigs:
+    - "Benoît Serrano"
+    - "Nicolas Assouad"
+    - "Romain Glé"
   mentors:
     - "Estelle Jond-Necand"
     - "Claire Herbin"
@@ -184,7 +207,9 @@
   ville: "Étel (56410)"
   administration: Centre national de surveillance des pêches
   administration_website: http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/surveillance-et-controle-des-peches-r168.html
-  eigs: []
+  eigs:
+    - "Adeline Celier"
+    - "Loup Theron"
   mentors:
     - "Céline Guillou"
     - "Célia d'Hervé"
@@ -202,7 +227,10 @@
   ville: "Issy-les-Moulineaux (92130)"
   administration: Direction Générale de la Gendarmerie Nationale
   administration_website: https://www.gendarmerie.interieur.gouv.fr
-  eigs: []
+  eigs:
+    - "Guillaume Barreau"
+    - "Julie Dugardin"
+    - "Matthieu Tirelli"
   mentors:
     - "Thierry Hieber"
     - "Marjory Canonne"
@@ -220,7 +248,9 @@
   ville: "Paris (75008)"
   administration: Direction générale des collectivités locales
   administration_website: https://www.collectivites-locales.gouv.fr
-  eigs: []
+  eigs:
+    - "Élodie Delaisement"
+    - "Sylvain Boissel"
   mentors:
     - "Luc Brière"
     - "Raphaël Bévenot"
@@ -238,7 +268,9 @@
   ville: "Paris (75017)"
   administration: Brigade de Sapeurs-Pompiers de Paris
   administration_website: https://www.pompiersparis.fr
-  eigs: []
+  eigs:
+    - "Jérôme Burkard"
+    - "Raphaëlle Bertrand-Lalo"
   mentors:
     - "Nicolas Mallejac"
     - "Denis Daviau"
@@ -256,7 +288,9 @@
   ville: "Paris"
   administration: Programme interministériel d'archivage numérique
   administration_website: https://www.programmevitam.fr
-  eigs: []
+  eigs:
+    - "Hélène Jonin"
+    - "Salim Atmani"
   mentors:
     - "Méline Cournil"
     - "Marion Ville"
@@ -274,7 +308,9 @@
   ville: "Montrouge (92120)"
   administration: Autorité de sûreté nucléaire
   administration_website: https://www.asn.fr
-  eigs: []
+  eigs:
+    - "Aliaume Lopez"
+    - "Pierre-Étienne Devineau"
   mentors:
     - "Dominique Boina"
     - "Damien Clément"
@@ -292,7 +328,10 @@
   ville: "Montrouge (92120)"
   administration: Institut national de la statistique et des études économiques
   administration_website: https://www.insee.fr
-  eigs: []
+  eigs:
+    - "Joseph Garrone"
+    - "Marc Hufschmitt"
+    - "Pengfei Liu"
   mentors:
     - "Frédéric Comte"
     - "Arnaud Degorre"
@@ -895,7 +934,7 @@
     - amount: 30
       description: "académies impliquées"
     - amount: 33
-      description: "entretiens avec des utilisateurs finaux" 
+      description: "entretiens avec des utilisateurs finaux"
   projects:
     - image: img/realisations/2019/Aplhabet_RapportExploration.jpg
       title: "Recherche utilisateurs"
@@ -1314,7 +1353,7 @@
     - image: img/realisations/2019/SequoiaCGDD_Site_2020.png
       title: "Ombel, le site en ligne"
       description: "Découvrez les enjeux environnementaux et du développement durable !"
-      url: 
+      url:
       call_to_action: "Prochainement en ligne"
 
 "Sequoia IGN":
