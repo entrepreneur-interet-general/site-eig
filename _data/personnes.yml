@@ -3970,6 +3970,27 @@ Raphaëlle Bertrand-Lalo:
   twitter: r_bertrandlalo
   website:
 
+Raphaëlle Roffo:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - datascientist
+  - geomatique
+  defis:
+  - EIG Link 2020
+  github: raphaelleroffo
+  gitlab:
+  image_url: /img/communaute/raphaelle-roffo.jpg
+  link_to: /communaute/2020/raphaelle-roffo.html
+  linkedin: https://www.linkedin.com/in/raphaelle-roffo/
+  profil: Data scientist
+  programme: EIG
+  title: Raphaëlle Roffo
+  twitter: feili_rf
+  website:
+
 Renaud Périn:
   annees:
   - 2018
@@ -4112,8 +4133,9 @@ Romain Glé:
   annees:
   - 2020
   class:
-  - designer
+  - eig
   - eig-4
+  - designer
   defis:
   - LABEL
   github:
