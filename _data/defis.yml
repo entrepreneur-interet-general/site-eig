@@ -201,6 +201,7 @@
   link_to: /defis/2020/monitorfish.html
   skills: ["dev", "design", "datascience", "geomatique"]
   description: Améliorer le contrôle des activités des navires de pêche
+  source_code: https://github.com/MTES-MCT/monitorfish
   year: 2020
   promotion: 4
   duration_months: 10
@@ -210,6 +211,7 @@
   eigs:
     - "Adeline Celier"
     - "Loup Theron"
+    - "Vincent Chéry"
   mentors:
     - "Céline Guillou"
     - "Célia d'Hervé"
