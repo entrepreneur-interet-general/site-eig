@@ -150,7 +150,7 @@ Aliaume Lopez:
   gitlab:
   image_url: /img/communaute/aliaume-lopez.png
   link_to: /communaute/2020/aliaume-lopez.html
-  linkedin: https://www.linkedin.com/in/loup-theron-b1785397/
+  linkedin: https://www.linkedin.com/in/aliaume-lopez-b27810106/
   profil: Développeur
   programme: EIG
   title: Aliaume Lopez
@@ -4385,6 +4385,26 @@ Sophie Jacquemont:
   twitter:
   website:
 
+Sophie Jobez:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - webdev
+  defis:
+  - DataMed
+  github:
+  gitlab:
+  image_url: /img/communaute/sophie-jobez.png
+  link_to: /communaute/2020/sophie-jobez.html
+  linkedin:
+  profil: Développeuse
+  programme: EIG
+  title: Sophie Jobez
+  twitter:
+  website:
+
 Sophie Miljkovic:
   annees:
   - 2018 2019
@@ -4912,6 +4932,26 @@ Vincent Bataille:
   profil: Mentor
   programme: DIG
   title: Vincent Bataille
+  twitter:
+  website:
+
+Vincent Chéry:
+  annees:
+  - 2020
+  class:
+  - eig
+  - eig-4
+  - datascientist
+  defis:
+  - MonitorFish
+  github:
+  gitlab:
+  image_url: /img/communaute/vincent-chery.png
+  link_to: /communaute/2020/vincent-chery.html
+  linkedin:
+  profil: Data scientist
+  programme: EIG
+  title: Vincent Chéry
   twitter:
   website:
 
