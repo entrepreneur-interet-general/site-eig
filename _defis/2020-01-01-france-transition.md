@@ -22,25 +22,10 @@ L’enjeu est de faire connaître les dispositifs de financement, de faciliter l
 Cette plateforme permettra : 
 - d’**apporter une plus grande visibilité et lisibilité** de l’offre ;
 - de **mobiliser plus facilement les aides** grâce à la possibilité de déposer des demandes ;
-- d’avoir un **accompagnement personnalisé** pour les porteurs de projet grâce à un outil de gestion intégré des dossiers. 
+- d’avoir un **accompagnement personnalisé** pour les porteurs de projet grâce à un outil de gestion intégré des dossiers.
 
 D’un point de vue technique la solution devra : 
 - simplifier et fluidifier le parcours d’aide grâce à une plateforme pensée utilisateur ; 
 - s’inscrire dans une démarche de sobriété numérique.
 
 _Ce défi sera réalisé en collaboration avec les équipes de l'Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique et solidaire._
-
-## Profils recherchés
-### EIG 1 - Designer de service
-**Missions :** Définition des cas d’usages à partir des données à mettre à disposition ; conception des outils numériques correspondant à ces usages.
-
-**Compétences :** 
-- Designer de service
-- Expérience en design UX appréciée
-- Bonne expérience d’animation de co-construction, possiblement avec des acteurs publics
-- Appétence pour l’animation de communauté
-
-### EIG 2 - Développeur / développeuse full stack
-**Missions :** 
-- Extraction des données, préparation des données et validation, définition d'un schéma de données uniques, etc ; 
-- Développement back-end and front-end du MVP (outils numériques de référencement, de visualisation et d'exploration des données).

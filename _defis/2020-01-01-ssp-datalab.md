@@ -27,27 +27,3 @@ Le défi se focalisera sur l’amélioration :
 - de **l’accompagnement** des utilisateurs dans leurs démarches d’appropriation et d’amélioration de la plateforme. 
 
 La création d’une communauté de pratiques est un axe essentiel du défi. L’ambition de cette offre de service est d’améliorer  la qualité des traitements de données grâce à un partage des bonnes pratiques au sein du service statistique public.
-
-## Profils recherchés
-### EIG 1 - Designer de services
-**Missions :** Explorer les usages du lab, élaborer une offre de services, concevoir des interfaces, construire et animer une communauté de pratiques.
-
-**Compétences :**
-- Designer de services
-- Expérience dans les démarches d’innovation et de type “lab” appréciée
-
-### EIG 2 - Data engineer
-**Missions :** Développer l’offre de stockage et de traitement des données (valorisation et structuration des données).
-
-**Compétences :**
-- Forte expérience dans l’intégration de logiciels de traitement de données et leur utilisation (par exemple, Spark)
-- Une expérience des environnements container serait un plus
-
-### EIG 3 - Développeur / développeuse full stack
-**Missions :** Réaliser les interfaces et tester l’offre de services (en lien avec l’EIG designer).
-
-**Compétences :**
-- Développeur / développeuse full stack
-- Expérience en JavaScript (pour la partie front-end) – l’EIG sera invité(e) à contribuer à la construction de la filière de développement front-end de l’Insee
-- Une expérience en Java serait appréciée, mais pas indispensable
-- Appétence pour les démarches de construction de communauté appréciées (sens de la pédagogie et de l’écoute)
