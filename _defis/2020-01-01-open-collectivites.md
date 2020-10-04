@@ -28,21 +28,3 @@ permettre des mises à jour et enrichissements facilement réalisables ;
 - proposer l’adhésion à une newsletter informant des nouvelles mises en ligne. 
 
 L’ambition de ce nouvel outil est de donner un meilleur accès et une meilleure visibilité aux informations publiques concernant les collectivités locales, afin que les politiques publiques soient appréhendées de manière plus directe et transparente, y compris par le grand public. 
-
-## Profils recherchés
-### EIG 1 - Designer de service
-**Missions :** Définir des cas d’usages à partir des données (statistiques, études qualitatives) à mettre à disposition ; concevoir les outils numériques correspondant à ces usages.
-
-**Compétences :** 
-- Designer de service
-- Expérience en design UX appréciée
-- Bonne expérience d’animation de co-construction, possiblement avec des acteurs publics
-- Appétence pour l’animation de communauté
-
-### EIG 2 - Développeur / développeuse full stack
-**Missions :** Préparer les données à visualiser et développer les outils numériques de référencement et de visualisation (API, interfaces, moteur de recherche).
-
-**Compétences :**
-- Gestion, stockage et mise à jour de bases de données 
-- Appétence pour la data visualisation 
-- Notions en indexation & recherche de documents appréciées
