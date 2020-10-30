@@ -1,119 +1,73 @@
 ---
-author: Soizic Pénicaud, équipe EIG
-description: 'Du 5 au 9 février derniers, l''équipe du programme Entrepreneur·e d''Intérêt
-  Général a réuni les 28 membres de la promotion 2 lors d''un bootcamp d''intégration.
-  L’objectif : leur donner l’élan et les outils nécessaires pour réussir en 10 mois
-  les 13 défis ambitieux qu’ils ont choisis. Retour sur la conception de cette semaine
-  et ce qui en est ressorti.'
-image: /img/blog/bootcamp/promotion2.jpg
+author: Thanh Ha Le, équipe EIG
+description: 'Du 21 au 25 septembre derniers, les entrepreneures et entrepreneurs de la quatrième promotion se sont retrouvés pour la première fois, à l'occasion d'un bootcamp d'embarquement. Parmi les objectifs : créer un esprit de promotion et favoriser la collaboration. Alors que l'accent a souvent été mis sur la collaboration inter-défis, la question d'une coopération efficace au sein des équipes EIG interdisciplinaires est souvent moins abordée. Or, elle constitue parfois un défi. Comment résoudre les problématiques qu'elle pose ? Vous trouverez ici des bonnes pratiques pour tirer le meilleur parti de l'interdisciplinarité'
+image: /img/blog/bootcamp/blogposteig4-promotion.jpg
 layout: post
 tags:
 - accompagnement
 - méthode
-- collectif
-title: Comment souder un collectif de talents et assurer sa réussite - Retour sur
-  le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
-twitter: soizicpenicaud
+- interdisciplinarité
+title: Comment collaborer efficacement au sein d'une équipe interdisciplinaire - Retour sur le bootcamp d'embarquement de la promotion 4 des entrepreneurs d'intérêt général
 ---
 
-### Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
+Après quatre ans d’existence et d’évolution permanente, le programme Entrepreneurs d’Intérêt Général passe à l’échelle : cette année, ce sont 41 EIG, parmi lesquels 18 femmes et 23 hommes, qui ont décidé de joindre leurs expertises pour relever 17 défis d’amélioration du service public par le numérique. Cette nouvelle promotion fait la part belle au design, à la suite de l’expérience réussie des Designers d’Intérêt Général, qui a désormais fusionné avec le programme EIG. La **taille de la promotion** et le **rôle renforcé que le design y joue** laissent présager de nouvelles dynamiques, que nous avons commencé à observer pendant le bootcamp d’embarquement qui a eu lieu du 21 au 25 septembre 2020.
 
-![Les EIG de la promotion 2 posent tous ensemble, souriants, devant un mur-ardoise recouvert de mots et de dessins. Un homme grand et brun, est assis au centre et tient un ordinateur qui affiche les mots EIG2.](/img/blog/bootcamp/promotion2.jpg)
-_La promotion 2 des EIG au [Liberté Living Lab](https://www.liberte.paris/), qui accompagne la promotion aux côtés d’Etalab et accueille les EIG en tant que résidents-nomades. (© Liberté Living Lab)_
+![Les quarante et un EIG de la promotion 4 posent ensemble, masqués, à l'entrée de la Zalthabar. Tous se tiennent à un mètre les uns des autres et portent leur regard vers le haut.](/img/blog/bootcamp/blogposteig4-promotion.jpg)
+_La quatrième promotion du programme Entrepreneurs d'Intérêt Général réunie à l'occasion du bootcamp d'embarquement_
 
-Lundi 5 février 2018, 9h : début de la semaine de bootcamp, pendant laquelle les entrepreneurs s’absentent des administrations d’accueil qu’ils ont intégrées le 15 janvier, pour se retrouver en promotion pour la première fois. **Au programme : une semaine entière en collectif, orchestrée par l’équipe Etalab en charge de coordonner le programme.**
+Pendant cette semaine, devenue un [véritable rituel de rentrée](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents.html), les entrepreneures et entrepreneurs d’intérêt général se sont éclipsés de leurs administrations pour se retrouver pour la première fois collectivement, trois semaines après le début du programme. Au menu de cette semaine en présentiel et à distance, conditions sanitaires obligent : apprendre à se connaître et découvrir le programme ainsi que [l’écosystème du numérique public](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/03/12/bootcamp-eig3.html) sur lesquels elles et ils pourront s’appuyer à l’avenir. L’équipe de coordination du programme souhaitait, d’entrée de jeu, insuffler un sentiment de **communauté**, encourager la **collaboration**, transmettre les **valeurs du programme** ([open data](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/04/12/accompagnement-open-data-open-source.html), [open source](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/11/14/administrations-eig-et-logiciel-libre.html), [accessibilité](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html)) et fournir aux EIG tous les outils indispensables à leur réussite. Au fil des échanges et des ateliers, un aspect clef de cette nouvelle promotion s’est révélé à nos yeux : **l’interdisciplinarité**.
 
-Les EIG disposent de 10 mois pour réussir les [**défis de transformation numérique**](https://entrepreneur-interet-general.etalab.gouv.fr/) qui leur ont été lancés. Ainsi, il nous semblait important de mettre en place, dès le départ, les conditions indispensables à leur succès, à travers une semaine d’embarquement accélérée.
+![Cinq personnes discutent, assises dans l'herbe. Elles sont souriantes.](/img/blog/bootcamp/blogposteig4-echanges-eig.jpg)
+_Un groupe d'EIG qui discute_
 
-L'objectif de cette semaine était donc double :
+Dans l’interdisciplinarité, _"les disciplines créent des liens entre leurs champs de compétences et s’allient pour produire un résultat partagé issu des apports de chacun"_ (Huutoniemi et al., 2010 dans Dechamp et Delaunay, 2016). Si l’interdisciplinarité a toujours été au cœur du programme EIG, elle a été **renforcée cette année avec l’arrivée de 14 designers**, contre 5 l’année précédente. La **complémentarité** des équipes s’en retrouve accrue, l’**union des compétences** devient encore plus fertile, ce qui permet d’aboutir à des produits qui prennent encore plus en compte les besoins des utilisateurs. Dans de telles équipes, chacune et chacun est alors **garant d’un aspect du défi** : la ou le designer s’érige en "porte-parole de l’utilisateur", la développeuse ou le développeur s’occupe de la construction, du maintien et du déploiement des interfaces et la ou le data scientist porte la casquette "valorisation des données". Cette richesse offre également beaucoup d’opportunités pour les EIG de **se former entre eux**, selon leurs appétences respectives, et l’occasion à chacune et chacun de **nourrir ses propres approches** au fil des interactions.
 
-## Donner aux EIG les clés pour s’intégrer à leur administration
+Bien qu’une **force**, cette interdisciplinarité constitue également un **défi**. En effet, l’arrivée de designers dans les équipes EIG **bouleverse le rythme projet** auquel sont habitués nombre d’entre eux. Ainsi, la ou le designer propose souvent, en début de défi, de faire un pas de côté pour poser la question du "pourquoi" au moyen d’une recherche utilisateurs. Celle-ci permet d’identifier la réelle problématique d’usage et de sécuriser le projet mais représente un investissement en temps important. Cela entraine notamment un report de l’étape "production" à proprement parler que développeuses, développeurs et data scientists sont impatients d’attaquer. A cela s’ajoute parfois un **manque de compréhension du métier de l’autre** qui voile la vision de chacune et de chacun et peut compliquer l’organisation de l’équipe ou la prise de décision. En effet, si l’accent a souvent été mis sur **l’acculturation des mentors et des agents des administrations d’accueil** par la sensibilisation ou la formation, celle **nécessaire au sein des équipes EIG** est toujours apparue moins distinctement.  
 
-_“On a passé une semaine à savoir où on était dans l’organigramme de notre ministère”_, confient deux EIG le premier jour du bootcamp.
+## **Les bonnes pratiques pour tirer le meilleur parti de l’interdisciplinarité**
 
-Construire un projet de transformation numérique de l’État implique de comprendre les codes parfois complexes de l’administration. Il est facile de se perdre dans le labyrinthe des services, des parties prenantes et des acronymes.
-**Afin que les EIG développent des outils pérennes et adaptés, nous souhaitions les aider à s’orienter le plus rapidement possible dans leur administration d’accueil, à comprendre les cycles de décision, et à apprendre de l’écosystème “numérique et État” déjà en place.**
+Comment résoudre ces problématiques ? La **question de l’interdisciplinarité** a animé l’ensemble du bootcamp. De **premières pistes** ont été formulées et certaines ont même déjà été mises en œuvre par les EIG. Nous vous proposons de vous les présenter dans cet article.
 
-Il était également important de les sensibiliser aux valeurs d’intérêt général portées par le service public : redevabilité, transparence, continuité, etc.
+Pendant le bootcamp d’embarquement, l’équipe de coordination du programme a dédié une demi-journée à des ateliers de partage de pratiques auto-organisés, afin de s’appuyer sur les envies, les compétences et les contributions de la promotion. Les EIG y ont vu un moment privilégié pour se saisir des enjeux posés par l’interdisciplinarité. Durant leur session de travail, beaucoup ont partagé leurs inquiétudes. "Comment mieux comprendre le métier de l’autre ? Comment collaborer efficacement ? Comment comprendre les choix des autres métiers ? De quels rituels avons-nous besoin ?"" sont autant de questions qu’elles et ils se sont posées. Toutes et tous s’accordent sur les **bonnes pratiques** suivantes :
+- **Initier l’autre à son métier**. Plusieurs formats ont été suggérés : des ateliers d’initiation et de présentation de concepts clés, des exercices "vis ma vie" ou encore des témoignages d’un métier sur sa vision et son rapport avec l’autre métier. Le but : dissiper les préjugés et créer un socle de connaissances commun pour communiquer plus facilement ; 
+Pour approfondir : l’article _["Comment faire du design de services dans l'administration ?"_](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/le-design-de-services-dans-une-administration.html) écrit par Coline Lebaratoux, designer au sein du défi EIG 3 ACOSS Plateforme.
+-	**Clarifier l’organisation de l’équipe projet** : s’accorder sur les rôles respectifs et le format de prise de décision, définir les besoins de chacune et chacun et bien évaluer le temps requis pour ainsi que la priorité de chaque tâche ;
+-	**Mettre en place des rituels** : réunions rapides quotidiennes avec tour d’inclusion, rétrospective, revues de design/code/data, … ;
+-	**Augmenter la transparence concernant ses choix** en partageant régulièrement ses travaux avec le reste de l’équipe projet
+-	**Exploiter des outils collaboratifs, de préférence open source** : CodiMD, [OpenProject](https://www.openproject.org/fr/), [Wekan](https://wekan.github.io/), [Agorakit](https://agorakit.org/fr/), …
 
-![Trois personnes sont debout devant un tableau. L'une d'entre elles, une femme, pointe une phrase sur le tableau pendant que les deux autres regardent, concentrés.](/img/blog/bootcamp/bootcamp1.jpg)
-_Mathilde Bras, cheffe de projet EIG, anime un atelier  “cartographie des parties prenantes et définition de projet” avec Antoine Augusti et Elsa Lunéville, EIG du défi Prédisauvetage à la Direction des affaires maritimes._
+![Huit personnes sont assises autour d'une table. Une personne présente. Les huit personnes font face à deux tableaux blancs, sur lesquels ont été collés des post-its.](/img/blog/bootcamp/blogposteig4-atelier-equipe-interdisciplinaire.jpg)
+_L'atelier de partage de pratiques portant sur l'équipe interdisciplinaire_
 
-## Construire un collectif, permettre le partage d’expériences et l’échange de compétences
+Cette prise de recul sur les premières semaines d’immersion est arrivée à point nommé, puisque les EIG ont par la suite eu l’opportunité de travailler avec leurs mentors. Réunis, ils ont pu revenir sur **l’organisation de l’équipe**, clarifier la **vision de leurs défis** et aplanir leurs divergences. Problématique, bénéfices, solution, freins ou opportunités sont autant d’aspects qu’ils ont pu préciser.
 
-L’interdisciplinarité de la promotion 2 est une force, mais aussi un défi. **La casquette “numérique” des EIG ne les empêche pas d’avoir des parcours et des compétences très différents**. Un data scientist ne fait pas le même métier qu’un développeur ou qu’un designer UX.
+![Quatre personnes sont réunies autour d'une table. Une personne écrit sur un post-it. Trois personnes sont engagés dans une discussion](/img/blog/bootcamp/blogposteig4-ateliervision.jpg)
+_Atelier de réflexion sur la vision des défis, qui a réuni mentors et EIG_
 
-L’interdisciplinarité offre donc l’opportunité d’échanger des compétences, mais implique de **s’assurer que tous les membres de la promotion disposent d’un socle d’outils et de connaissances communes pour communiquer et collaborer**. Par exemple, de nombreux outils sont centralisés sur [**Github**](https://github.com/entrepreneur-interet-general) : faire une pull request n’est pas évident pour des personnes n’ayant jamais travaillé dans le milieu du développement !
+La synthèse de ces réflexions s’est matérialisée par des posters, qui ont été présentés au cours d’un **"forum des défis"**. Pendant ce temps d’échange informel entre défis, chacune et chacun a pu découvrir les autres projets, confronter son défi à des **regards extérieurs**, identifier des **collaborations possibles** et **proposer son aide**. Ce moment a été particulièrement apprécié. Il aura permis de consolider **l’esprit de promotion** et de favoriser les **collaborations inter-administrations**.
 
-![De nombreuses personnes s'activent autour d'un tableau blanc recouvert de mots et de dessins.](/img/blog/bootcamp/bootcamp2.jpg)
-_Atelier collaboratif inspiré de l'outil [**la bulloterie**](https://twitter.com/la_bulloterie). Les EIG écrivent, sous forme de bulles, les compétences qu’ils veulent acquérir et partager tout au long de l’année. La bulloterie est un projet en CC-by-nc-sa créé par [**Sébastien Kurt**](https://twitter.com/Anachitect), à destination de collectifs et d'association. La documentation complète est disponible [**sur le wiki du projet**](http://wiki.mainstenant.org/wiki/la-bulloterie-presentation)._
+![Une vingtaine de personnes sont réunies dans une salle où sont exposés des posters. Les personnes consultent les posters et échangent](/img/blog/bootcamp/blogposteig4-forum-des-defis.jpg)
+_Des mentors et des EIG qui présentent et échangent sur leurs défis au cours du "forum des défis"_
 
-Forte de ces deux problématiques, l’équipe Etalab a conçu un bootcamp de 5 jours autour de trois mots d’ordre.
+Tout ce travail a été complété par les conseils avisés de plusieurs EIG de la promotion précédente qui sont venus à la rencontre des nouvelles et nouveaux arrivants pour partager leurs expériences. _"C’est du travail en équipe, il faut aussi s’apprivoiser"_, se rappelle Dorine Lambinet, ex-EIG du [défi LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html). Elle souligne notamment le rôle important des designers au sein des équipes pluridisciplinaires, alors que _"quand on arrive dans un défi, les mentors ont déjà une idée du produit"_.
 
-## Créer des liens au sein de l’écosystème “numérique d’intérêt général”
+![Une vingtaine de personnes sont assises dans l'herbe, en cercle. Elles échangent](/img/blog/bootcamp/blogposteig4-anciens-nouveaux-eig.jpg)
+_Echanges entre d'anciens EIG et les nouvelles et nouveaux arrivants_
 
-Pendant une semaine, les EIG sont allés à la rencontre de multiples acteurs impliqués à plusieurs niveaux dans le numérique et l’État : l’ANSSI (Agence nationale de la sécurité des services d’information), la CNIL (Commission nationale de l’informatique et des libertés), la Cour des comptes, Etalab, des membres de la société civile comme Paul Duan (fondateur de Bayes Impact et de Bob Emploi)... Plusieurs EIG de la première promotion sont également intervenus pour faire part à leurs successeurs de leur expérience dans les administrations et de leurs conseils.
+Enfin, le bootcamp d’embarquement nous a permis de lancer une **cartographie des compétences** de la promotion nouvellement constituée, ou **[bulloterie](https://movilab.org/wiki/La_Bulloterie)**. Chacune et chacun a pu indiquer ses domaines d’expertise et exprimer ses désirs d’apprentissage, que l’on associera à l’avenir. Celle-ci sera enrichie, constituera un bon support pour l’échange de compétences et permettra de tirer le plus grand bénéfice de l’interdisciplinarité.  
 
-A la fin de la semaine, les EIG ont également bénéficié des conseils et encouragements de Mounir Mahjoubi, Secrétaire d’État au numérique, et d’Henri Verdier, directeur de la DINSIC (Direction interministérielle du système de communication et d’information de l’Etat).
+![Un mur blanc est couvert de post-its de quatre couleurs différentes. Trois personnes lui font face. Une personne écrit sur un post-it rose](/img/blog/bootcamp/blogposteig4-bulloterie.jpg)
+_Bulloterie en cours de construction_
 
-![Un homme parle dans un micro pendant que d'autres personnes l'écoutent.](/img/blog/bootcamp/bootcamp3.jpg)
-_Adnène Trojette, Secrétaire général adjoint de la Cour des comptes, échange avec les EIG autour de l’histoire de la Cour, ses actions et son rôle de contrôle._
+## **Et la suite** ?
 
-**Ces rencontres ont permis aux EIG de créer des premiers liens entre leurs défis et des initiatives existantes**. Ils ont pu mieux identifier les interlocuteurs et ressources avec lesquels ils seront amenés à interagir.
+Des graines ont été plantées et germeront dans les prochains mois. Le sujet a été particulièrement plébiscité par les EIG pendant le bootcamp, qui souhaitent désormais formaliser leurs réflexions avec la **création d’une boîte à outils**. Depuis leur retour dans leurs administrations, les designers ont déjà initié développeuses et développeurs à Figma, qui à leur tour leur ont fait découvrir GitHub. En complément, et à l’instar des années précédentes, les EIG ont aussi commencé à **se retrouver entre métiers** pour s’entraider, partager leurs bonnes pratiques, mutualiser leurs travaux et se former entre eux. A ce titre, les data scientists ont mis en place un point d’échanges hebdomadaire.
 
-![Deux hommes présentent devant un écran blanc où est projetée une présentation qui affiche "Atelier CNIL - EIG. Données personnelles, les enjeux du RGPD."](/img/blog/bootcamp/bootcamp4.jpg)
-_Régis Chatellier et Olivier Desbey du [LINC](https://linc.cnil.fr/), le laboratoire d’innovation numérique de la CNIL, présentent aux EIG les enjeux du Règlement général sur la protection des données._
+Quant à l’équipe de coordination du programme, elle garde à l’esprit cette caractéristique accentuée de la promotion 4 pour **penser et adapter l’accompagnement**. Ainsi, la session d’accompagnement collective qui a suivi le bootcamp, organisée le 15 octobre, a porté sur le prototypage et la revue de projets. Mis en place régulièrement, ces deux processus permettent de valider les orientations du projet et de conserver l’alignement des parties prenantes. Un accompagnement sur l’organisation d’équipe et la feuille de route est également prévu.
 
-![Un homme présente dans une salle de réunion organisée en U, devant une présentation où l'on peut lire "data.gouv.fr"](/img/blog/bootcamp/bootcamp5.jpg)
-_Alexandre Bulté, développeur au sein d’Etalab, présente la plateforme [data.gouv.fr](http://data.gouv.fr/)._
+Nous sommes persuadés que cette interdisciplinarité permettra un enrichissement mutuel pour les designers, les développeuses et les développeurs, les data scientists et les agents publics ! Mais cette année, d’autres enjeux nous attendent. Comment dimensionner l’accompagnement à la **taille de la promotion** ? Comment adapter l’animation de la communauté, qui devra se faire principalement **à distance** étant donné la situation sanitaire ? L’équipe de pilotage s’attelle d’ores et déjà à ces questions.
 
-## Co-construire et produire
+_Nous souhaitons remercier tous les intervenants qui ont contribué au succès de cette semaine: Amélie de Montchalin, Ministre de la Transformation et de la Fonction publiques, Nadi Bou Hanna, Directeur interministériel du numérique, Clément Mabi, chercheur en sciences de l’information et de la communication à l'UTC Compiègne, Régis Chatellier, chargé d’études prospectives au laboratoire d’innovation numérique de la CNIL, les membres d’Etalab et de la DINUM (Xavier Jouppe, Raphaël Dubigny, Stanislas Bernard, Amandine Audras, Alexandre Bulté, Jérôme Desboeufs, Maxime Beaugrand, Faustine Demiselle, Anne-Sophie Tranchet, Paul-Antoine Chevalier, Béatrice Mercier, Mathilde Hoang, Bastien Guerry, Kim Montalibet, Richard Hanna, Benoît Dequic, Jean-Charles Hourdeaux), les anciennes et anciens EIG (Hugo Stéphan, Sébastien Touzé, Dorine Lambinet, Pierre-Alain Jachiet) ainsi que le Lieu de la Transformation Publique et la Zalthabar qui nous ont accueillis pour les moments en présentiel._
 
-À l’image de ce que les EIG auront à réaliser dans leurs administrations d’accueil, nous avons volontairement **laissé de l’espace aux EIG pendant la semaine pour qu’ils puissent contribuer au programme du bootcamp** : formats d’atelier “apprentissage en pair-à-pair", sessions ouvertes, etc. Le but : éviter les formats descendants et s’appuyer sur les compétences et les envies de la promotion.
-
-![Une femme et un homme travaillent et discutent côte à côte, devant un mur couvert de dessins et de mots.](/img/blog/bootcamp/bootcamp6.jpg)
-_Laurie Chapotte et Ned Baldessin, EIG du défi “Gobelins” au Ministère de la Culture, pendant une session de travail auto-organisée._
-
-![Photo représentant une dizaine de personnes, qui font des activités en petits groupes : discuter, écrire sur des posts-its, écrire sur un tableau.](/img/blog/accueil-site-EIG.jpg)
-_Atelier de co-construction du programme d’accompagnement bimensuel, avec le Liberté Living Lab. Beaucoup de concentration et de post-its ! (© [Tiphaine Phe-Neau](https://twitter.com/datatiph))_
-
-## Apprendre à se connaître
-
-L’une des forces du programme EIG est de réunir des talents divers, travaillant sur des défis variés dans des ministères différents.
-
-**Afin de créer un collectif soudé et d’encourager la collaboration “interministérielle”, nous avons pris soin d’organiser des temps formels et informels pour apprendre à se connaître et à travailler ensemble, identifier des passions communes, et favoriser le partage de compétences**. Cela était d’autant plus important que deux des défis se déroulent hors de Paris, rendant les temps de rencontre plus difficiles à organiser.
-
-D’après les retours que nous avons reçus des EIG, apprendre à connaître les autres membres de la promotion et découvrir les défis des uns et des autres leur ont beaucoup apporté. Cela leur a notamment permis d’identifier des problématiques communes entre défis.
-
-![Quatre personnes sont assises et discutent, penchées autour d'un écran d'ordinateur](/img/blog/bootcamp/bootcamp8.jpg)
-_Elise Lalique (Social Connect) et Laurie Chapotte (Gobelins), toutes deux designers, conseillent Victor Schmidt (Hopkins) sur le design UX (“expérience utilisateur”) d’un de ses projets de développement._
-
-## Résultats et enseignements
-
-Que ressort-il de cette semaine ? Aux dires des EIG, beaucoup d’entraide, de curiosité, de bienveillance, et une grande envie d’apprendre et de participer à la transformation de l’administration publique.
-
-Comme le résume un EIG : _“J'ai terminé la semaine vraiment porté par un élan, avec le sentiment que nous allons bâtir des choses utiles, réelles, durables, pour l'intérêt général, et que nous sommes soutenus par tout un écosystème de personnes et d'institutions qui veulent faire avancer les choses.”_
-
-
-![Gros plan sur trois personnes qui discutent et rient.](/img/blog/bootcamp/bootcamp9.jpg)
-_© Liberté Living Lab_
-
-
-Les EIG ont beaucoup apprécié les formats interactifs des ateliers. Nous avons également pu confirmer qu’il était important de créer des opportunités d’interaction et de collaboration entre les 28 EIG et avec leurs mentors, qui sont amenés à travailler dans des administrations différentes au quotidien.
-
-
-![Plan d'ensemble d'une quarantaine de personnes autour d'une table, dans une salle de réunion agrémentée de dorures.](/img/blog/bootcamp/bootcamp10.jpg)
-_Vendredi matin : les mentors retrouvent leurs EIG au siège du Secrétariat général pour l’investissement pour restituer leurs expériences de la semaine et discuter des attentes et besoins de chacun._
-
-Un point à renforcer pour un prochain bootcamp : davantage impliquer les mentors des administrations d’accueil, qui n’étaient présents que lors d’une demi-journée. Afin qu’eux aussi puissent échanger leurs expériences et compétences, nous avons organisé le 22 février un “mini-bootcamp spécial mentors” d’une demi-journée.
-
-Nous intégrerons également tous ces enseignements aux sessions bimensuelles d’accompagnement organisées par Etalab et l’équipe du Liberté Living Lab. Dans tous les cas, ces cinq jours augurent de 10 mois très enrichissants, pour les EIG comme pour les administrations !
-
-![Une trentaine de personnes posent, debout sur les marches d'un escalier.](/img/blog/bootcamp/bootcamp11.jpg)
-_Mounir Mahjoubi, Secrétaire d’État au numérique, et Henri Verdier, directeur de la DINSIC, entourés de la promotion EIG 2._
-
-_Nous souhaitons remercier tous les intervenants qui ont contribué au succès de cette semaine, et les lieux qui nous ont accueillis : le [Liberté Living Lab](https://www.liberte.paris/), [Paul Duan](https://twitter.com/pyduan?lang=fr), David Tortel de l’ANSSI, les membres du laboratoire LINC de la CNIL, les membres de la promotion EIG1, Maud Choquet (juriste à Etalab), Alexandre Bulté  (développeur [data.gouv](https://www.data.gouv.fr/) à Etalab), Alexandre de Pablo (développeur [API entreprise](https://entreprise.api.gouv.fr/website) à Etalab), Mauko Quiroga (product owner d’[Open Fisca](https://www.openfisca.fr/) à Etalab), le Bercy Lab, le Secrétariat d’Etat en charge du numérique, le Secrétariat général pour l’investissement, et la Cour des comptes._
-
-_Nous publierons régulièrement des nouvelles sur les EIG sur le [blog d’Etalab](http://etalab.gouv.fr/) et sur celui des EIG : leurs réalisations techniques, les temps forts de la promotion, l’avancée des défis… Pour rester informé, n’hésitez pas à vous abonner au [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) du blog EIG._
-
-_Le programme EIG s’engage à mettre autant que possible en open source les outils développés dans le cadre du programme. Le code est disponible sur le [github](https://github.com/entrepreneur-interet-general/) du programme._
+**Références**
+Dechamp, G., & Delaunay, C. (2016). Favoriser et gérer l’interdisciplinarité dans l’entreprise : la notion de territoires partagés. Management & Avenir, 88(6), 37-58. https://www.cairn.info/revue-management-et-avenir-2016-6-page-37.htm
