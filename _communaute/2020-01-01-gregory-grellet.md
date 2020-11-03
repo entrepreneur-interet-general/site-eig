@@ -1,4 +1,4 @@
 ---
 layout: personne
-nom: "Corine Waroquiers"
+nom: "Grégory Grellet"
 ---
