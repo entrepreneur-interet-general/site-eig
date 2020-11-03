@@ -36,6 +36,8 @@ class TestPosts(BaseTest):
         "témoignage",
         "écosystème",
         "évaluation",
+        "méthode",
+        "interdisciplinarité"
     }
 
     def test_posts(self):
