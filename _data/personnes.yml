@@ -4430,7 +4430,6 @@ Soizic Pénicaud:
   - eig-2
   - eig-3
   - eig-4
-  - mentor
   defis: ["EIG Link 2019", "EIG Link 2020"]
   github: soizicpenicaud
   gitlab:
@@ -4747,7 +4746,7 @@ Thibaud Weinachter:
   image_url:
   link_to: /communaute/2020/thibaud-weinachter.html
   linkedin:
-  profil:
+  profil: Mentor
   programme: EIG
   title: Thibaud Weinachter
   twitter:
