@@ -305,7 +305,7 @@ Anthony Blondel:
   - Opérations 18
   github:
   gitlab:
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/anthony-blondel.html
   linkedin:
   profil: Mentor
@@ -771,7 +771,7 @@ Cédric Merouani:
   twitter: CedricMerouani
   website: https://cedric.merouani.net
 
-"Célia d'Hervé":
+Célia d'Hervé:
   annees:
   - 2020
   class:
@@ -1034,7 +1034,7 @@ Corine Waroquiers:
   - EIG Link 2020
   github:
   gitlab:
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/corine-waroquiers.html
   linkedin:
   profil: Mentor
@@ -1842,7 +1842,7 @@ Grégory Grellet:
   - France Transition
   github:
   gitlab:
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/gregory-grellet.html
   linkedin:
   profil: Mentor
@@ -3760,7 +3760,7 @@ Patrick Maison:
   - DataMed
   github:
   gitlab:
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/patrick-maison.html
   linkedin:
   profil: Mentor
@@ -4743,7 +4743,7 @@ Thibaud Weinachter:
   - Opérations 18
   github:
   gitlab:
-  image_url:
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/thibaud-weinachter.html
   linkedin:
   profil: Mentor
@@ -4752,7 +4752,7 @@ Thibaud Weinachter:
   twitter:
   website:
 
-"Thierry Coquil":
+Thierry Coquil:
   annees:
   - 2020
   class:
