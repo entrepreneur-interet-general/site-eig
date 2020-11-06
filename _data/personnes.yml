@@ -1,4 +1,4 @@
-"Adeline Celier":
+Adeline Celier:
   annees:
   - 2020
   class:
@@ -293,6 +293,25 @@ Anoureth Pongrattana:
   programme: EIG
   title: Anoureth Pongrattana
   twitter: barbenoash
+  website:
+
+Anthony Blondel:
+  annees:
+  - 2020
+  class:
+  - eig-4
+  - mentor
+  defis:
+  - Opérations 18
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/anthony-blondel.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Anthony Blondel
+  twitter:
   website:
 
 Antoine Augusti:
@@ -752,7 +771,7 @@ Cédric Merouani:
   twitter: CedricMerouani
   website: https://cedric.merouani.net
 
-"Célia d'Hervé":
+Célia d'Hervé:
   annees:
   - 2020
   class:
@@ -1005,6 +1024,25 @@ Constance de Quatrebarbes:
   twitter: c4barbes
   website:
 
+Corine Waroquiers:
+  annees:
+  - 2020
+  class:
+  - eig-4
+  - mentor
+  defis:
+  - EIG Link 2020
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/corine-waroquiers.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Corine Waroquiers
+  twitter:
+  website:
+
 Cristian Perez Brokate:
   annees:
   - 2019
@@ -1115,7 +1153,7 @@ David Vigier:
   - 2020
   class:
   - dig
-  - eig4
+  - eig-4
   - mentor
   defis:
   - App 112
@@ -1791,6 +1829,25 @@ Gilles Martinoty:
   profil: Mentor
   programme: DIG
   title: Gilles Martinoty
+  twitter:
+  website:
+
+Grégory Grellet:
+  annees:
+  - 2020
+  class:
+  - eig-4
+  - mentor
+  defis:
+  - France Transition
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/gregory-grellet.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Grégory Grellet
   twitter:
   website:
 
@@ -3521,25 +3578,6 @@ Nicolas Grandjean:
   twitter:
   website:
 
-Nicolas Mallejac:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - Opérations 18
-  github:
-  gitlab:
-  image_url: /img/communaute/nicolas-mallejac.jpg
-  link_to: /communaute/2020/nicolas-mallejac.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Nicolas Mallejac
-  twitter:
-  website:
-
 Nicolas Mathieu:
   annees:
   - 2019
@@ -3709,6 +3747,25 @@ Patricia Poulet-Mathis:
   profil: Mentor
   programme: EIG
   title: Patricia Poulet-Mathis
+  twitter:
+  website:
+
+Patrick Maison:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - DataMed
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/patrick-maison.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Patrick Maison
   twitter:
   website:
 
@@ -4676,7 +4733,26 @@ Sylvain Boissel:
   twitter: ash_crow
   website: https://framagit.org/Ash_Crow
 
-"Thierry Coquil":
+Thibaud Weinachter:
+  annees:
+  - 2020
+  class:
+  - eig-4
+  - mentor
+  defis:
+  - Opérations 18
+  github:
+  gitlab:
+  image_url: /img/communaute/sans-photo.png
+  link_to: /communaute/2020/thibaud-weinachter.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Thibaud Weinachter
+  twitter:
+  website:
+
+Thierry Coquil:
   annees:
   - 2020
   class:
