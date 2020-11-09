@@ -62,6 +62,9 @@ _Bulloterie en cours de construction_
 
 Le bootcamp d'embarquement a été clôturé par un mot d'accueil d'Amélie de Montchalin, Ministre de la Transformation et de la Fonction publiques, aux EIG. Elle a notamment exprimé sa fierté après la présentation de plusieurs défis et résumé en partie l'essence de cet article en ces mots : _"La transformation, c'est possible quand on met les bonnes personnes au bon endroit"_. Nous la remercions pour ses éclairages, qui guideront les EIG dans les prochains mois.
 
+![Une femme portant un masque et tenant un micro prononce un discours devant une assemblée attentive. Elle se tient à côté d'un écran à l'affichage rouge et face à l'assemblée](/img/blog/bootcamp/blogposteig4-discoursministre.jpg)
+_Mot d'accueil d'Amélie de Montchalin, Ministre de la Transformation et de la Fonction publiques, en clôture du bootcamp d'embarquement_
+
 ## **Et la suite** ?
 
 Des graines ont été plantées et germeront dans les prochains mois. Le sujet de l'interdisciplinarité a été particulièrement plébiscité par les EIG pendant le bootcamp, qui souhaitent désormais incarner leurs échanges avec la création d’une boîte à outils. Depuis leur retour dans leurs administrations, des designers ont initié développeuses et développeurs à Figma, un outil de conception, qui à leur tour leur ont fait découvrir GitHub, plateforme d’hébergement de codes sources et de collaboration. En complément, et à l’instar des années précédentes, les EIG ont aussi commencé à **se retrouver entre métiers** pour s’entraider, partager leurs bonnes pratiques, mutualiser leurs travaux et se former entre eux. Chaque discipline a mis en place un point d’échanges hebdomadaire.
