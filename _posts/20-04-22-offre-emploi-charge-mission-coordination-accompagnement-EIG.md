@@ -6,12 +6,14 @@ layout: post
 tags:
 - accompagnement
 - recrutement
-title: "Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H) »"
+title: "[OFFRE POURVUE] Rejoignez l'équipe Entrepreneurs d'Intérêt Général à Etalab : offre d'emploi « Chargé de mission coordination et accompagnement du programme EIG (F/H) »"
 twitter: soizicpenicaud
 ---
 
 ### Offre d’emploi “Chargé de mission coordination et accompagnement du programme Entrepreneurs d’Intérêt Général (F/H)”
  
+_Cette offre a été pourvue._
+
 **Le principe du [programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)** : intégrer pour 10 mois des professionnel·les du numérique (data science, développement, design) dans l’administration, pour travailler en équipe et avec des agents des administrations d’accueil sur des projets en lien avec le numérique et les données. [Les projets de la 4e promotion, qui commencera en septembre 2020](https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion), touchent à des domaines variés : la transition écologique, la gestion de crise, la santé, la culture, etc. Au total, elle rassemblera près de 40 EIG et 20 agents publics. 
 
 **Le but est également de contribuer à l’internalisation des compétences numériques dans l’administration.** Ainsi, plus d’un tiers des EIG de la troisième promotion ont continué à travailler au sein de l’administration. 
