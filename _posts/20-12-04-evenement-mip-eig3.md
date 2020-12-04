@@ -4,7 +4,7 @@ description: "Le 9 novembre dernier, l’équipe du programme Entrepreneurs d’
 image: /img/blog/evenement-mip-2020-eig3.png
 layout: post
 tags:
-- évenement
+- témoignage
 - pérennisation
 title: "Comment s’appuyer sur un dispositif d’immersion de profils design et tech pour transformer son administration de façon pérenne ? La parole aux mentors de la promotion EIG 3"
 twitter: thanhanana
