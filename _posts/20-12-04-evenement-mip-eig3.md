@@ -6,7 +6,7 @@ layout: post
 tags:
 - témoignage
 - pérennisation
-title: "Comment s’appuyer sur un dispositif d’immersion de profils design et tech pour transformer son administration de façon pérenne ? La parole aux mentors de la promotion EIG 3"
+title: "Comment s’appuyer sur un dispositif d’immersion de profils numériques pour transformer son administration de façon pérenne ? La parole aux mentors de la promotion EIG 3"
 twitter: thanhanana
 ---
 
