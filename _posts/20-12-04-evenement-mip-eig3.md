@@ -1,5 +1,5 @@
 ---
-author: Thanh Ha Le, équipe EIG
+author: L'équipe EIG (Soizic Pénicaud et Thanh Ha Le)
 description: "Le 9 novembre 2020, l’équipe du programme EIG a organisé une table-ronde pendant laquelle plusieurs agents publics mentors de défis EIG 3 ont été invités à raconter leur expérience, un an après la fin de la promotion en novembre 2019. Quels sont les enjeux de l’immersion de profils design et tech dans les administrations ? Quels en sont les bénéfices durables ? Qu’en est-il de la pérennisation des projets développés dans ce cadre ? Les réponses dans cet article, qui contient aussi une rediffusion vidéo du webinaire."
 image: /img/blog/evenement-mip-2020-eig3bis.png
 layout: post
@@ -7,14 +7,14 @@ tags:
 - témoignage
 - pérennisation
 title: "[Table-ronde en ligne] Pérenniser la transformation numérique : un an après le programme EIG, des mentors EIG 3 parlent de leur expérience"
-twitter: thanhanana
+twitter: eigforever
 ---
 
 « _Je ne peux que conseiller [aux agents publics] de se lancer dans cette aventure_ », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique.
 
 C’est bien l’aventure du programme Entrepreneurs d’Intérêt Général que l'équipe du programme a invité des agents publics mentors de la promotion EIG 3 à raconter, un an après la fin de la promotion en novembre 2019 :
 * [Dorian Fléchet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/dorian-flechet.html) et [Lucas Bchini](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/lucas-bchini.html) pour **[CartoBio](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html)**, défi de l'Agence Bio visant à cartographier les parcelles cultivées en agriculture biologique ;  
-* [Estelle Jond-Necand](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2020/estelle-jond-necand.html) pour **[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html)**, défi de la Cour de Cassation pour améliorer la pseudonymisation des décisions de justice pour les ouvrir et les diffuser ;
+* [Estelle Jond-Necand](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2020/estelle-jond-necand.html) pour **[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html)**, défi de la Cour de Cassation pour améliorer la pseudonymisation des décisions de justice et ainsi les ouvrir et les diffuser ;
 * Nour Allazkani et [Simon Karleskind](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/simon-karleskind.html) pour **[Réfugiés.info](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html)**, défi de la Délégation interministérielle à l'accueil et l'intégration des réfugiés (DIAIR) pour aider les personnes réfugiées dans leurs démarches administratives et leur intégration.
 
 L’an dernier, ces agents publics ont porté un défi EIG au sein de leur administration, y ont apporté leur expertise métier et ont facilité l’intégration de leurs entrepreneures et entrepreneurs d’intérêt général. Depuis, ces trois projets ont continué, sous des formes différentes : CartoBio est devenu une Startup d'Etat de [beta.gouv.fr](https://beta.gouv.fr/). À la Cour de Cassation, deux postes de data scientists et un poste de développeur ont été créés et la Cour de Cassation a lancé un nouveau projet EIG pour la promotion 4. Quant à [Réfugiés.info](https://www.refugies.info/), il a été pérennisé à travers un marché public.
@@ -49,7 +49,7 @@ Ainsi, le programme EIG est l'occasion pour les mentors de monter en compétence
 Au terme des dix mois du programme, les défis EIG se trouvent souvent à des stades différents, du fait des spécificités des administrations d’accueil et de la variété des outils développés. Ainsi, en novembre 2019, l’outil de pseudonymisation mis au point à la Cour de Cassation était prêt pour la mise en production, tandis que le défi Réfugiés.info avait atterri sur une version beta de sa solution. Quant au défi CartoBio, il avait abouti à une version fonctionnelle pilote de l'outil. [Les stratégies de pérennisation](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html) sont également multiples, selon le contexte et les contraintes à prendre en compte.   
 
 Malgré la diversité des scénarios, les mentors ont fait état de difficultés communes :
-* Le recrutement des EIG suite au programme peut s'avérer compliqué, à la fois du fait des difficultés à créer de nouveaux postes ou en raison de contraintes budgétaires (rémunération moins attractive pour les EIG que pendant le programme) ;
+* Le recrutement des EIG suite au programme peut s'avérer compliqué, à la fois du fait des difficultés à créer de nouveaux postes ou en raison de contraintes budgétaires (rémunération moins attractive pour les EIG qui restent que pendant le programme) ;
 * La [pérennité des développements techniques](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/24/atelier-construction-plan-actions-avec-les-dsi.html) doit elle aussi être anticipée. Simon Karleskind raconte que la première version du site a été développé de manière extrêmement rapide. « _À l’arrivée de notre nouvelle développeuse, un travail important de refonte du code a été fait, notamment pour nous permettre de passer à l’échelle_ », raconte-t-il.
 * Le rythme du programme implique que les mentors doivent souvent convaincre leur hiérarchie de poursuivre le projet alors qu'il a à peine commencé. Pour ce faire, les mentors insistent une nouvelle fois sur l'implication de toutes les parties prenantes dès le début du projet, pour obtenir des résultats tangibles le plus vite possible.
 * Les mentors ont enfin soulevé la question de la composition et de la taille des équipes, qui tendent à évoluer après la première année. On note notamment l'intégration dans les équipes de CartoBio et de Réfugiés.info de personnes chargées de déploiement, responsables de faire connaître l'outil.   
