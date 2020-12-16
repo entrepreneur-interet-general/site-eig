@@ -58,4 +58,4 @@ Là encore, les mentors (soutenus par l'équipe du programme à travers les sess
 
 ## Pour revoir la table-ronde :
 
-<iframe frameborder="0" width="640" height="480" src="https://www.dailymotion.com/embed/video/x7xtj58" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="700" height="480" src="https://www.dailymotion.com/embed/video/x7xtj58" allowfullscreen allow="autoplay"></iframe>
