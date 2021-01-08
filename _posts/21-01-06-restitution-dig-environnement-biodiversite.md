@@ -11,12 +11,8 @@ title: "[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Gé
 twitter: colinemalivel
 ---
 
-Quelques mois après la fin de leurs défis, 4 designers du programme Designers d'intérêt général nous livrent un retour d'expérience riche en apprentissages. La restitution s'est faite à l'occasion du Meetup Design Public #5, qui s'est tenu le 26 novembre 2020 pendant le mois de l’innovation publique.  
-
-**[Voir l‘enregistrement](https://www.dailymotion.com/video/x7xtjdr)**
-
-![Capture d'écran de la restitution du défi Ombel](/img/blog/dig-meetup5.png)
-_Marie Ramon-Daré présente les différents formats d'acculturation au design autour de son défi Ombel, mené au CGDD (Commissariat Général au Développement Durable)_
+Quelques mois après la fin de leurs défis, 4 designers du programme Designers d'intérêt général nous livrent un retour d'expérience riche en apprentissages des défis menés autour de la thématique « Environnement et Biodiversité ».
+La restitution s'est faite à l'occasion du Meetup Design Public #5, qui s'est tenu le 26 novembre 2020 pendant le mois de l’innovation publique.  
 
 Les quatres défis présentés sont :
 
@@ -24,3 +20,5 @@ Les quatres défis présentés sont :
 * **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité - [Cécile Canel ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
 * **[Ombel](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-cgdd.html)** : Améliorer l’information environnementale du citoyen - [Marie Ramon-Daré ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marie-ramon-dare.html)
 * **[Sequoia IGN](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/sequoia-ign.html)** : Produire des données collaboratives géolocalisées - [Charlotte Marmet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-marmet.html)
+
+<iframe frameborder="0" width="760" height="480" src="https://www.dailymotion.com/video/x7xtjdr" allowfullscreen allow="autoplay"></iframe>
