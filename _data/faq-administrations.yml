@@ -1,3 +1,11 @@
+- question: "Comment fonctionne le programme EIG ?"
+  reponse: "<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes.<p>
+    <ol>
+      <li>Vous candidatez : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;</li>
+      <li>Nous réunissons une équipe : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;</li>
+      <li>Vous expérimentez : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).</li>"
+  ancre: programme-eig
+
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ? (profils du numérique)"
   reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes des promotions 2 et 3 étaient constituées de 2 EIG.<p>"
   ancre: recruter-2-3-eig
