@@ -1,6 +1,11 @@
-- question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
-  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général a été lancé en 2019 en s'ispirant du programme EIG. Il s'intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG ont intégré les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils ont rejoint ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p><p>La promotion EIG 4, en cours de constitution, regroupe les initiatives Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG). Si vous avez des défis design à proposer, c’est le moment de postuler !"
-  ancre: difference-EIG-DIG
+- question: "Comment fonctionne le programme EIG ?"
+  reponse: "<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes.<p>
+    <ol>
+      <li>Vous candidatez : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;</li>
+      <li>Nous réunissons une équipe : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;</li>
+      <li>Vous expérimentez : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).</li>
+    <ol>"
+  ancre: programme-eig
 
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
   reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes des promotions 2 et 3 étaient constituées de 2 EIG.<p>"
@@ -69,3 +74,7 @@
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
   reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
   ancre: autre
+
+- question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
+  reponse: "<p>Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020.</p>"
+  ancre: difference-EIG-DIG
