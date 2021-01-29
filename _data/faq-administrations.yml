@@ -1,5 +1,5 @@
 - question: "Comment fonctionne le programme EIG ?"
-  reponse: "<p>Le programme Entrepreneur d’intérêt général fonctionne par appels à projets, en 3 étapes.<p>
+  reponse: "<p>Le programme Entrepreneur d’Intérêt Général fonctionne par appels à projets, en 3 étapes.</p>
     <ol>
       <li>Vous candidatez : nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;</li>
       <li>Nous réunissons une équipe : ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;</li>
@@ -7,20 +7,63 @@
     <ol>"
   ancre: programme-eig
 
-- question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ?"
+- question: "Quel soutien reçoivent les administrations ?"
+  reponse: "<p>Rejoindre le programme Entrepreneur d’Intérêt Général, c’est recevoir un soutien pluriel :</p>
+    <ul>
+      <li><strong>Pour votre recrutement </strong>: nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares : développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers et des juristes du numérique.</li>
+      <li><strong>Pour votre financement </strong>: vos profils sont rémunérés 3500 ou 4000 euros nets par mois, avec une possibilité de co-financement à hauteur de 30% par le programme (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li>
+      <li><strong>Pour conduire l’innovation </strong>: vous recevez un appui technique et méthodologique du programme tout au long des dix mois, avec la participation des experts d’Etalab et de la DINUM.</li>
+    <ul>
+  <p>Au-delà de ce soutien, <strong>vous entrez dans une communauté de pratiques</strong> qui compte aujourd’hui 95 agents publics et 133 profils du numérique, qui ont mis en œuvre 71 projets. Cette communauté s’insère dans l’écosystème du numérique public d’Etalab (data.gouv, le Lab IA, open data, open source), de la DINUM (design.gouv, beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.</p>"
+  ancre: programme-eig
+
+- question: "Quels sont les critères d’éligibilité au programme ?"
+  reponse: "<p>Les conditions d’éligibilité sont les suivantes :</p><p>Bénéficiaire : toute administration</p><p>Dimensionnement :</p>
+    <ul>
+      <li>Un projet réalisable sur une période de 10 mois</li>
+      <li>Par une équipe de 2 ou 3 profils du numérique</li>
+    <ul>
+  <p>Equipe :</p>
+    <ul>
+      <li>Un ou deux porteurs de projet (agents publics)</li>
+      <li>Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet</li>
+      <li>Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)</li>
+    <ul>"
+  ancre: eligibilite-eig
+
+- question: "Quels sont les critères d’éligibilité au financement ?"
+  reponse:
+    "<ul>
+      <li>Seules les administrations disposant d’un programme budgétaire sont éligibles au co-financement direct (en général, les administrations centrales)</li>
+      <li>Si vous n’êtes pas éligible au co-financement direct, vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif</li>
+    "<ul>
+  <p>Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.</p><p>Le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.</p><p>L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.</p><p>Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.</p><p>Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez prendre contact avec nous : eig@data.gouv.fr.</p>"
+  ancre: programme-eig
+
+- question: "Quels sont les critères de sélection des projets ?"
+  reponse: "<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur <strong>le projet à réaliser en 10 mois que sur l’équipe qui le porte :</strong></p>
+    <ul>
+      <li><strong>Pertinence du besoin </strong>: un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ;</li>
+      <li><strong>Définition </strong>: une problématique bien circonscrite, des profils du numérique cohérents ;</li>
+      <li><strong>Engagement </strong>: motivation pour participer au programme, ouvrir le terrain d’expérimentation aux profils du numérique, et leur offrir de l’autonomie ;</li>
+      <li><strong>Transformation </strong>: une forte volonté de transformation numérique de la part de l’administration ;</li>
+      <li><strong>Ouverture </strong>: des opportunités d’ouverture, de mutualisation et de réplication des outils produits et des données.</li>
+    <ul>"
+
+- question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ? (profils du numérique)"
   reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes des promotions 2 et 3 étaient constituées de 2 EIG.<p>"
   ancre: recruter-2-3-eig
 
-- question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon défi ?"
-  reponse: "<p>Vous pouvez en premier lieu prendre contact avec votre direction des systèmes d'information.</p><p>Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans <a href=\"/defis.html\">les défis passés</a>. N'hésitez pas à les contacter pour un retour d'expérience.</p><p>Par ailleurs, vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous avant le lancement de l’appel à candidatures.</p>"
+- question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon projet ?"
+  reponse: "<p>Vous pouvez en premier lieu prendre contact avec les expertises numériques de votre administration, au sein de votre direction des systèmes d'information ou votre direction du numérique.</p><p>Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans <a href=\"/defis.html\">les projets passés</a>. N'hésitez pas à les contacter pour un retour d'expérience.</p><p>Par ailleurs, vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous avant le lancement de l’appel à candidatures.</p>"
   ancre: definir-les-profils
 
 - question: "Quel est le type de contrat des EIG ?"
-  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil : un CDD de 10 mois avec une rémunération de 4 000 € nets par mois pour tous les EIG.</p>"
+  reponse: "<p>Les EIG signent un contrat avec leurs administrations d’accueil : un CDD de 10 mois avec une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.</p>"
   ancre: contrat-type-eig
 
 - question: "Les postes des EIG rentrent-ils dans le cadre des plafonds d'emploi ?"
-  reponse: "<p>Oui, il faut des supports de poste qui rentrent dans les plafonds d'emploi pour les EIG. C'est une nouveauté par rapport aux promotions précédentes. Notre conseil : profitez-en pour impliquer rapidement vos services RH et identifier des solutions aux éventuels obstacles.</p><p>Vous pouvez également contacter <a href=\"/communaute.html\">les agents publics de votre administration qui ont déjà participé au programme</a> : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.</p>"
+  reponse: "<p>Oui, il faut des supports de poste qui rentrent dans les plafonds d'emploi pour les EIG. Notre conseil : profitez-en pour impliquer rapidement vos services RH et identifier des solutions aux éventuels obstacles.</p><p>Vous pouvez également contacter <a href=\"/communaute.html\">les agents publics de votre administration qui ont déjà participé au programme</a> : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.</p>"
   ancre: plafonds-emploi
 
 - question: "À quelles conditions puis-je bénéficier du cofinancement ?"
@@ -43,24 +86,24 @@
   reponse: "<p>Cette simulation est à demander à vos services RH.</p>"
   ancre: simulation-financiere
 
-- question: "Je voudrais présenter un défi interministériel : qui indiquer en porteur opérationnel ?"
-  reponse: "<p>Nous vous conseillons de choisir un ministère qui sera porteur opérationnel, et d’indiquer le(s) autre(s) administration(s) participante(s) en tant que partenaires, en insistant sur la dimension interministérielle du défi.</p>"
+- question: "Je voudrais présenter un défi interministériel : qui indiquer en porteur opérationnel de projet ?"
+  reponse: "<p>Nous vous conseillons de choisir comme porteur opérationnel du projet le ministère chez qui les EIG seront en immersion, et d’indiquer le(s) autre(s) administration(s) participante(s) en tant que partenaires, en insistant sur la dimension interministérielle du projet.</p>"
   ancre: defi-interministeriel
 
-- question: "Les EIG peuvent-ils être accueillis dans des locaux hors de Paris ?"
-  reponse: "<p>Tout à fait, c’était d’ailleurs le cas pour deux défis EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon).</p><p>En revanche, nous vous conseillons d’anticiper le fait que les EIG seront amenés à se rendre à Paris pour les sessions d’accompagnement de la promotion, et que les frais de déplacement sont à la charge de l’administration d’accueil.</p>"
+- question: "Les EIG peuvent-ils être accueillis dans des locaux hors de la région parisienne ?"
+  reponse: "<p>Tout à fait, c’était d’ailleurs le cas pour deux projets EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon) et un projet EIG 4 (MonitorFish à Etel).</p><p>Nous encourageons d'ailleurs particulièrement les défis qui se situent hors de la région parisienne.</p>"
   ancre: accueil-hors-de-paris
 
-- question: "Quel est généralement le profil des mentors opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les mentors opérationnels sont en charge de permettre aux EIG de mener au mieux leur défi, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les mentors opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain.</p><p>On attend surtout d’un mentor qu’il soit passionné par le défi EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des défis. En moyenne, les mentors investissent 30 à 40% de leur temps dans leur défi EIG (et certains en investissent 100% !).</p>"
+- question: "Quel est généralement le profil des porteurs de projet opérationnels ? Quel est leur rôle ?"
+  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil "technique"</p><p>On attend surtout du porteur de projet qu’il soit passionné par le défi EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
-- question: "Les mentors opérationnels assistent-ils aux sessions d’accompagnement ?"
-  reponse: "<p>Les mentors opérationnels assistent aux sessions d’accompagnement, à un rythme moins soutenu que les EIG (une session tous les deux mois pour le dispositif mis en place lors de la promotion 3).</p>"
+- question: "Les porteurs de projet assistent-ils aux sessions d’accompagnement ?"
+  reponse: "<p>Les porteurs de projet assistent aux sessions d’accompagnement, à un rythme moins soutenu que les EIG (une session tous les deux mois pour le dispositif mis en place lors de la promotion 4).</p>"
   ancre: sessions-accompagnement
 
-- question: "Le défi peut-il être encadré par 2 mentors opérationnels ?"
-  reponse: "<p>Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2 et 3.</p>"
+- question: "Le projet peut-il être encadré par 2 porteurs de projet opérationnels ?"
+  reponse: "<p>Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2, 3 et 4.</p>"
   ancre: plusieurs-mentors-operationnels
 
 - question: "Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidature ?"
@@ -68,13 +111,13 @@
   ancre: temps-constitution-dossier
 
 - question: "En cas de sélection, comment se passe le jury d’admission ?"
-  reponse: "<p>Les mentors opérationnels des défis présélectionnés seront conviés à pitcher leur défi devant le jury d’admission, notamment en utilisant les slides jointes au dossier de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).</p><p>Plus d’informations seront envoyées aux administrations présélectionnées.</p>"
+  reponse: "<p>Les porteurs des projets présélectionnés seront conviés à pitcher devant le jury d’admission, notamment en utilisant les slides que vous aurez jointes au dossier de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).</p><p>Plus d’informations seront envoyées aux administrations présélectionnées.</p>"
   ancre: jury-admission
-
-- question: "Vous n’avez pas trouvé de réponse à votre question ?"
-  reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
-  ancre: autre
 
 - question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
   reponse: "<p>Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020.</p>"
   ancre: difference-EIG-DIG
+
+- question: "Vous n’avez pas trouvé de réponse à votre question ?"
+  reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
+  ancre: autre
