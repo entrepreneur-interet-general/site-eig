@@ -1,10 +1,10 @@
 - question: "Comment fonctionne le programme EIG ?"
   reponse: "<p>Le programme Entrepreneurs d’Intérêt Général fonctionne par appels à projets, en 3 étapes.</p>
-    <ol>
+    <ul>
       <li><strong>Vous candidatez </strong>: nous sélectionnons une vingtaine de projets numériques proposés par les administrations publiques (du 1er février au 7 avril) ;</li>
       <li><strong>Nous réunissons une équipe </strong>: ensemble, nous sélectionnons 2 ou 3 profils tech, design et en droit du numérique pour votre projet (en mai et juin) ;</li>
       <li><strong>Vous expérimentez </strong>: créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 13 septembre, pour 10 mois).</li>
-    </ol>"
+    </ul>"
   ancre: programme-eig
 
 - question: "Quel soutien reçoivent les administrations ?"
@@ -87,7 +87,7 @@
   ancre: accueil-hors-de-region-parisienne
 
 - question: "Quel est généralement le profil des porteurs de projet opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil “technique”.</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
+  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil \"technique\".</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
 - question: "Les porteurs de projet assistent-ils aux sessions d’accompagnement ?"
