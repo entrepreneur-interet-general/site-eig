@@ -18,12 +18,12 @@
   ancre: soutien-eig
 
 - question: "Quels sont les critères d’éligibilité au programme ?"
-  reponse: "<p>Les conditions d’éligibilité sont les suivantes :</p><p>Bénéficiaire : toute administration</p><p>Dimensionnement</p>
+  reponse: "<p>Les conditions d’éligibilité sont les suivantes :</p><p><strong>Bénéficiaire</strong> : toute administration</p><p><strong>Dimensionnement</strong></p>
     <ul>
       <li>Un projet réalisable sur une période de 10 mois</li>
       <li>Par une équipe de 2 ou 3 profils du numérique</li>
     </ul>
-  <p>Equipe</p>
+  <p><strong>Equipe</strong></p>
     <ul>
       <li>Un ou deux porteurs de projet (agents publics)</li>
       <li>Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet</li>
@@ -32,21 +32,11 @@
   ancre: eligibilite-eig
 
 - question: "Quels sont les critères d’éligibilité au financement ?"
-  reponse: "<p>Seules les administrations disposant d’un programme budgétaire sont éligibles au co-financement direct (en général, les administrations centrales)</p><p>Si vous n’êtes pas éligible au co-financement direct, vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif</p><p>Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.</p><p>Le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.</p><p>L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.</p><p>Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.</p><p>Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez <a href=\"mailto:eig@data.gouv.fr\">prendre contact avec nous : eig@data.gouv.fr</a>.</p>
-    <ul>
-      <li>Un projet réalisable sur une période de 10 mois</li>
-      <li>Par une équipe de 2 ou 3 profils du numérique</li>
-    </ul>
-  <p>Equipe</p>
-    <ul>
-      <li>Un ou deux porteurs de projet (agents publics)</li>
-      <li>Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet</li>
-      <li>Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)</li>
-    </ul>"
+  reponse: "<p>Seules les administrations disposant d’un programme budgétaire sont éligibles au co-financement direct (en général, les administrations centrales).</p><p>Si vous n’êtes pas éligible au co-financement direct, vous pouvez établir une convention avec une administration éligible ou prévoir un financement alternatif.</p><p>Le programme cofinance la rémunération des entrepreneurs d'intérêt général avec l'administration d'accueil.</p><p>Le programme propose une subvention correspondant au coût total employeur de 3 mois d'une rémunération de 3 500 euros nets par mois pour les EIG jusqu’à 5 ans d’expérience inclus, et 4 000 euros nets par mois pour les profils au-delà de 5 ans d’expérience.</p><p>L’administration s'engage à assurer financièrement la rémunération des EIG pour le reste de la durée du projet.</p><p>Nous cofinançons via des crédits en titre 2. Vous pouvez donc bénéficier du cofinancement si votre administration opère un programme budgétaire avec du titre 2, ou si vous êtes en capacité de faire porter administrativement le projet, c'est-à-dire qu'une autre administration (par exemple dans le cas des opérateurs ou des agences, le ministère de tutelle ou de rattachement) reçoit les crédits de cofinancement sur son programme budgétaire en titre 2 et que vous définissez avec elle ce mode de partenariat.</p><p>Si vous avez besoin d’aide pour trouver un porteur administratif, vous pouvez <a href=\"mailto:eig@data.gouv.fr\">prendre contact avec nous</a>.</p>
   ancre: eligibilite-financement
 
 - question: "Quels sont les critères de sélection des projets ?"
-  reponse: "<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur <strong>le projet à réaliser</strong> en 10 mois que sur <strong>l’équipe qui le porte</strong> :</p>
+  reponse: "<p>Le programme vise à produire des outils numériques mais aussi à encourager une transformation numérique plus profonde dans les administrations. Ainsi, nos critères de sélection portent autant sur <strong>le projet à réaliser en 10 mois</strong> que sur <strong>l’équipe qui le porte</strong> :</p>
     <ul>
       <li><strong>Pertinence du besoin</strong> : un besoin clair, à fort impact, porté à un haut niveau hiérarchique par l’administration d’accueil ;</li>
       <li><strong>Définition</strong> : une problématique bien circonscrite, des profils du numérique cohérents ;</li>
@@ -97,7 +87,7 @@
   ancre: accueil-hors-de-region-parisienne
 
 - question: "Quel est généralement le profil des porteurs de projet opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil \"technique\"</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
+  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil “technique”.</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
 - question: "Les porteurs de projet assistent-ils aux sessions d’accompagnement ?"
@@ -113,7 +103,7 @@
   ancre: temps-constitution-dossier
 
 - question: "En cas de sélection, comment se passe le jury d’admission ?"
-  reponse: "<p>Les porteurs des projets présélectionnés seront conviés à pitcher devant le jury d’admission, notamment en utilisant les slides que vous aurez jointes au dossier de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).</p><p>Plus d’informations seront envoyées aux administrations présélectionnées.</p>"
+  reponse: "<p>Les porteurs des projets présélectionnés seront conviés à pitcher devant le jury d’admission, notamment en utilisant les slides jointes au dossier de réponse à l’appel à projets (qui peuvent être modifiées entre-temps).</p><p>Plus d’informations seront envoyées aux administrations présélectionnées.</p>"
   ancre: jury-admission
 
 - question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
