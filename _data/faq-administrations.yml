@@ -11,7 +11,7 @@
   reponse: "<p>Rejoindre le programme Entrepreneurs d’Intérêt Général, c’est recevoir un soutien pluriel :</p>
     <ul>
       <li><strong>Pour votre recrutement </strong>: nous pilotons une procédure de recrutement accélérée, avec la sélection de profils aux compétences rares : développeurs et développeuses, data scientists, data engineers, géomaticiens et géomaticiennes, designers et des juristes du numérique.</li>
-      <li><strong>Pour votre financement </strong>: vos profils sont rémunérés 3500 ou 4000 euros nets par mois, avec une possibilité de co-financement à hauteur de 30% par le programme (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li>
+      <li><strong>Pour votre financement </strong>: vos profils sont rémunérés 3 500 ou 4 000 euros nets par mois, avec une possibilité de co-financement à hauteur de 30% par le programme (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement).</li>
       <li><strong>Pour conduire l’innovation </strong>: vous recevez un appui technique et méthodologique du programme tout au long des dix mois, avec la participation des experts d’Etalab et de la DINUM.</li>
     </ul>
   <p>Au-delà de ce soutien, <strong>vous entrez dans une communauté de pratiques</strong> qui compte aujourd’hui 95 agents publics et 133 profils du numérique, qui ont mis en œuvre 71 projets. Cette communauté s’insère dans l’écosystème du numérique public d’Etalab (data.gouv, le Lab IA, open data, open source), de la DINUM (design.gouv, beta.gouv.fr), de la Direction interministérielle de la transformation publique ainsi que nos partenaires hors de l’administration.</p>"
@@ -47,11 +47,11 @@
   ancre: selection-eig
 
 - question: "Comment savoir si je ferais mieux de recruter 2 ou 3 EIG ? (profils du numérique)"
-  reponse: "<p>Cela dépend du périmètre de votre défi et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes des promotions 2 et 3 étaient constituées de 2 EIG.</p>"
+  reponse: "<p>Cela dépend du périmètre de votre projet et des compétences que vous recherchez. À noter : dans la plupart des cas, les équipes des promotions 2 et 3 étaient constituées de 2 EIG.</p>"
   ancre: recruter-2-3-eig
 
 - question: "Je manque de compétences techniques : comment définir les profils d’EIG dont j’ai besoin pour réaliser mon projet ?"
-  reponse: "<p>Vous pouvez en premier lieu prendre contact avec les expertises numériques de votre administration, au sein de votre direction des systèmes d'information ou votre direction du numérique.</p><p>Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans <a href=\"/defis.html\">les projets passés</a>. N'hésitez pas à les contacter pour un retour d'expérience.</p><p>Par ailleurs, vous pouvez <a href=\"mailto:eig@data.gouv.fr\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre défi est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous avant le lancement de l’appel à candidatures.</p>"
+  reponse: "<p>Vous pouvez en premier lieu prendre contact avec les expertises numériques de votre administration, au sein de votre direction des systèmes d'information ou votre direction du numérique.</p><p>Vous pouvez également identifier les agents publics qui ont déjà reçu des EIG au sein de votre administration en naviguant dans <a href=\"/defis.html\">les projets passés</a>. N'hésitez pas à les contacter pour un retour d'expérience.</p><p>Par ailleurs, vous pouvez <a href=\"mailto:eig@data.gouv.fr\">prendre contact avec nous</a>. Nous essayerons autant que possible de vous mettre en relation avec des personnes pouvant vous aider dans votre administration.</p><p>Enfin, ne vous inquiétez pas si vous n’êtes pas tout à fait sûr des compétences recherchées : si votre projet est sélectionné, les profils EIG recherchés seront retravaillés et précisés avec vous avant le lancement de l’appel à candidatures.</p>"
   ancre: definir-les-profils
 
 - question: "Quel est le type de contrat des EIG ?"
@@ -62,32 +62,32 @@
   reponse: "<p>Oui, il faut des supports de poste qui rentrent dans les plafonds d'emploi pour les EIG. Notre conseil : profitez-en pour impliquer rapidement vos services RH et identifier des solutions aux éventuels obstacles.</p><p>Vous pouvez également contacter <a href=\"/communaute.html\">les agents publics de votre administration qui ont déjà participé au programme</a> : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.</p>"
   ancre: plafonds-emploi
 
-- question: "Puis-je autofinancer mon défi EIG ?"
-  reponse: "<p>Vous pouvez tout à fait auto-financer votre défi EIG !</p>"
+- question: "Puis-je autofinancer mon projet EIG ?"
+  reponse: "<p>Vous pouvez tout à fait auto-financer votre projet EIG !</p>"
   ancre: autofinancement
 
 - question: "À la charge de qui sont les frais annexes liés à la présence des EIG, de type frais de déplacement ?"
   reponse: "<p>Les autres frais liés à la présence des EIG (notamment les frais de déplacement) sont à la charge de l’administration d’accueil.</p>"
   ancre: frais-annexes
 
-- question: "Je suis une collectivité territoriale : comment puis-je financer mon défi EIG ?"
-  reponse: "<p>La première solution est bien sûr l’autofinancement.</p><p>Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du défi.</p>"
+- question: "Je suis une collectivité territoriale : comment puis-je financer mon projet EIG ?"
+  reponse: "<p>La première solution est bien sûr l’autofinancement.</p><p>Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du projet.</p>"
   ancre: collectivite
 
 - question: "Qui doit effectuer la simulation financière à inclure au dossier de réponse ?"
   reponse: "<p>Cette simulation est à demander à vos services RH.</p>"
   ancre: simulation-financiere
 
-- question: "Je voudrais présenter un défi interministériel : qui indiquer en porteur opérationnel de projet ?"
-  reponse: "<p>Nous vous conseillons de choisir comme porteur opérationnel du projet le ministère chez qui les EIG seront en immersion, et d’indiquer le(s) autre(s) administration(s) participante(s) en tant que partenaires, en insistant sur la dimension interministérielle du projet.</p>"
+- question: "Je voudrais présenter un projet interministériel : qui indiquer en administration d'accueil ?"
+  reponse: "<p>Nous vous conseillons de choisir comme administration d'accueil le ministère chez qui les EIG seront en immersion, et d’indiquer le(s) autre(s) administration(s) participante(s) en tant que partenaires, en insistant sur la dimension interministérielle du projet.</p>"
   ancre: defi-interministeriel
 
 - question: "Les EIG peuvent-ils être accueillis dans des locaux hors de la région parisienne ?"
-  reponse: "<p>Tout à fait, c’était d’ailleurs le cas pour deux projets EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon) et un projet EIG 4 (MonitorFish à Etel).</p><p>Nous encourageons d'ailleurs particulièrement les défis qui se situent hors de la région parisienne.</p>"
+  reponse: "<p>Tout à fait, c’était d’ailleurs le cas pour deux projets EIG 2 (baliseNAV à Brest et Signaux Faibles à Dijon) et un projet EIG 4 (MonitorFish à Etel).</p><p>Nous encourageons d'ailleurs particulièrement les projets qui se situent hors de la région parisienne.</p>"
   ancre: accueil-hors-de-region-parisienne
 
 - question: "Quel est généralement le profil des porteurs de projet opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil \"technique\".</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le défi EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
+  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil \"technique\".</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
 - question: "Les porteurs de projet assistent-ils aux sessions d’accompagnement ?"
@@ -98,7 +98,7 @@
   reponse: "<p>Oui, tout à fait ! C’était le cas pour plusieurs défis EIG 2, 3 et 4.</p>"
   ancre: plusieurs-mentors-operationnels
 
-- question: "Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidature ?"
+- question: "Combien de temps prend la constitution d’un dossier de réponse à l’appel à candidatures ?"
   reponse: "<p>Le temps de constitution est variable, mais nous avons volontairement limité la longueur du dossier cette année : n’hésitez pas à être précis et concis !</p>"
   ancre: temps-constitution-dossier
 
