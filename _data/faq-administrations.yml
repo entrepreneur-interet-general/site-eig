@@ -18,16 +18,20 @@
   ancre: soutien-eig
 
 - question: "Quels sont les critères d’éligibilité au programme ?"
-  reponse: "<p>Les conditions d’éligibilité sont les suivantes :</p><p><strong>Bénéficiaire</strong> : toute administration</p><p><strong>Dimensionnement</strong></p>
+  reponse: "<p>Les conditions d’éligibilité sont les suivantes :</p>
     <ul>
-      <li>Un projet réalisable sur une période de 10 mois</li>
-      <li>Par une équipe de 2 ou 3 profils du numérique</li>
-    </ul>
-  <p><strong>Equipe</strong></p>
-    <ul>
-      <li>Un ou deux porteurs de projet (agents publics)</li>
-      <li>Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet</li>
-      <li>Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)</li>
+      <li><strong>Bénéficiaire</strong> : toute administration</li>
+      <li><strong>Dimensionnement</strong></li>
+        <ul>
+          <li>Un projet réalisable sur une période de 10 mois</li>
+          <li>Par une équipe de 2 ou 3 profils du numérique</li>
+        </ul>
+      <li><strong>Equipe</strong></li>
+        <ul>
+          <li>Un ou deux porteurs de projet (agents publics)</li>
+          <li>Un mentor de haut niveau, issu de la hiérarchie de la structure porteuse du projet</li>
+          <li>Une équipe dédiée au projet, aux profils pluridisciplinaires (métier et technique)</li>
+        </ul>
     </ul>"
   ancre: eligibilite-eig
 
@@ -87,7 +91,7 @@
   ancre: accueil-hors-de-region-parisienne
 
 - question: "Quel est généralement le profil des porteurs de projet opérationnels ? Quel est leur rôle ?"
-  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil \"technique\".</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
+  reponse: "<p>Les porteurs de projet opérationnels sont en charge de permettre aux EIG de mener au mieux leur projet, en les orientant dans l’administration, en s’assurant qu’ils disposent de toutes les ressources nécessaires (notamment techniques et en données), et en facilitant les démarches juridiques et administratives éventuelles.</p><p>Ils font également partie du collectif EIG et assistent aux sessions d’accompagnement.</p><p>En général, les porteurs de projet opérationnels ont un profil « métier », et peuvent faire bénéficier les EIG de leur expérience du terrain. Il est courant qu'ils forment un binôme avec un porteur de projet au profil « technique ».</p><p>On attend surtout du porteur de projet qu’il soit passionné par le projet EIG qu’il porte. Le temps hebdomadaire investi dans le projet EIG sera un élément important d’appréciation des projets. En moyenne, ils investissent 30 à 40% de leur temps dans leur projet EIG (et certains en investissent 100% !).</p>"
   ancre: profil-mentors-operationnels
 
 - question: "Les porteurs de projet assistent-ils aux sessions d’accompagnement ?"
@@ -111,5 +115,5 @@
   ancre: difference-EIG-DIG
 
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
-  reponse: "<p>Vous pouvez <a href=\"mailto:eig@data.gouv.fr\">nous contacter</a> et nous vous répondrons rapidement</p>"
+  reponse: "<p>Vous pouvez <a href=\"mailto:eig@data.gouv.fr\">nous contacter</a> et nous vous répondrons rapidement.</p>"
   ancre: autre
