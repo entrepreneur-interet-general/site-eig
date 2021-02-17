@@ -66,6 +66,10 @@
   reponse: "<p>Oui, il faut des supports de poste qui rentrent dans les plafonds d'emploi pour les EIG. Notre conseil : profitez-en pour impliquer rapidement vos services RH et identifier des solutions aux éventuels obstacles.</p><p>Vous pouvez également contacter <a href=\"/communaute.html\">les agents publics de votre administration qui ont déjà participé au programme</a> : ils et elles pourront vous orienter vers les personnes en interne qui les ont aidés et partager leur expérience avec vous.</p>"
   ancre: plafonds-emploi
 
+- question: "Le programme EIG peut-il se cumuler avec d’autres appels à projets de transformation numérique de l’Etat ?"
+  reponse: "<p>Oui tout à fait ! Néanmoins, seuls des crédits budgétaires correspondant au titre 2 de la nomenclature du budget de l’Etat pourront être mobilisés pour financer la rémunération des EIG. Au contraire, des crédits budgétaires correspondant au titre 3, à l’instar des crédits de prestations de services, ne pourront pas être mobilisés.</p>"
+  ancre: cumul-AAP
+
 - question: "Puis-je autofinancer mon projet EIG ?"
   reponse: "<p>Vous pouvez tout à fait auto-financer votre projet EIG !</p>"
   ancre: autofinancement
@@ -73,6 +77,10 @@
 - question: "À la charge de qui sont les frais annexes liés à la présence des EIG, de type frais de déplacement ?"
   reponse: "<p>Les autres frais liés à la présence des EIG (notamment les frais de déplacement) sont à la charge de l’administration d’accueil.</p>"
   ancre: frais-annexes
+
+- question: "Je suis une administration territoriale de l’Etat (service déconcentré) : comment puis-je financer mon projet EIG ?"
+  reponse: "<p>Les services régionaux et départementaux de l’Etat ne sont pas éligibles au cofinancement direct. Ils peuvent donc soit prendre à leur charge la rémunération des EIG et les dépenses liées à l’exercice de leur fonction (poste de travail, etc.) sur les 10 mois du projet, soit établir une convention avec leur administration centrale pour bénéficier du cofinancement. Celle-ci agira alors comme porteur administratif du projet.</p><p>Bien conscients de l’effort financier important, nous vous encourageons donc à déposer des projets qui seront menés en partenariat avec d’autres administrations, soit des collectivités territoriales, soit en concluant ce partenariat avec votre administration centrale.</p><p>Il est important de noter que la rémunération des EIG ne pourra être affectée qu’au titre 2 de la nomenclature du budget de l’Etat, et que les EIG devront en principe émarger au plafond du service d’accueil.</p>"
+  ancre: service-deconcentre
 
 - question: "Je suis une collectivité territoriale : comment puis-je financer mon projet EIG ?"
   reponse: "<p>La première solution est bien sûr l’autofinancement.</p><p>Afin de bénéficier du cofinancement, vous devez conclure un partenariat avec un ministère, qui sera alors le porteur administratif du projet.</p>"
