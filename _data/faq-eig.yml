@@ -17,7 +17,7 @@
 - question: "Comment rejoindre la 5e promotion d'EIG ?"
   reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
     <ul>
-      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</li>
+      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\'https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\'>site</a> ;</li>
       <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</li>
       <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</li>
     </ul>"
@@ -36,7 +36,7 @@
   ancre: teletravail
 
 - question: "Je suis en CDI, dois-je démissionner de mon poste actuel ?"
-  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\"https://www.service-public.fr/particuliers/vosdroits/F10431\">congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
+  reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\'https://www.service-public.fr/particuliers/vosdroits/F10431\'>congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
   ancre: demission-CDI
 
 - question: "En quoi un EIG est-il différent d’un prestataire ?"
@@ -68,7 +68,7 @@
   ancre: preparation-des-porteurs-de-projet
 
 - question: "Quels projets ont été relevés par les promotions précédentes ?"
-  reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
+  reponse: "<p>Nous vous invitons à consulter la page <a href=\'/defis.html\ title=\'Présentation des défis\'>présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
   ancre: projets-eig1-eig2-eig3-eig4
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
@@ -80,5 +80,5 @@
   ancre: difference-EIG-DIG
 
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
-  reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
+  reponse: "<p>Vous pouvez <a href=\'/contact.html\' title=\'Formulaire de contact\>nous contacter</a> et nous vous répondrons rapidement</p>"
   ancre: autre
