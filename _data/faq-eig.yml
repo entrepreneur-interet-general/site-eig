@@ -14,15 +14,6 @@
     </ul>"
   ancre: quels-profils
 
-- question: "Comment rejoindre la 5e promotion d'EIG ?"
-  reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
-    <ul>
-      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre site;</li>
-      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</li>
-      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</li>
-    </ul>"
-  ancre: processus-de-candidature
-
 - question: "Où travaillent les EIG ?"
   reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le projet. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs porteurs de projet.</p>"
   ancre: lieu-de-travail
@@ -30,6 +21,15 @@
 - question: "Où se situent les administrations d'accueil ?"
   reponse: "<p>La localisation des administrations d'accueil sera indiquée lors de la présentation des projets. A titre d'exemple, les projets de la précédente promotion d'EIG se sont déroulés en majorité en région parisienne, mais certains en région. C'est pourquoi il est important d'indiquer si vous êtes mobiles lors de votre candidature. </p>"
   ancre: lieu
+
+- question: "Comment rejoindre la 5e promotion d'EIG ?"
+  reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
+    <ul>
+      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</li>
+      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</li>
+      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</li>
+    </ul>"
+  ancre: processus-de-candidature
 
 - question: "Puis-je participer à mon projet en télétravail, complètement ou partiellement ?"
   reponse: "<p> Le programme repose sur l'immersion dans les administrations d'accueil, et de ce fait ne permet pas de télétravail complet. La possibilité de télétravailler régulièrement varie selon les administrations et devra être envisagée avec leur accord explicite, ainsi que celui des autres membres de l'équipe. La plupart des administrations le permettent et l'encadrent, mais il faudra que vous posiez la question aux porteurs de projet lors des entretiens.</p>"
