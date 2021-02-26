@@ -3,24 +3,24 @@
   ancre: qui-peut-participer
 
 - question: "Quels profils numériques sont recherchés"
-  reponse: "<p>Le programme EIG recrute les profils suivants :"
+  reponse: "<p>Le programme EIG recrute les profils suivants :</p>
     <ul>
-      <li><strong> Des développeurs et développeuses ;</li>
-      <li><strong> Des data scientists ;</li>
-      <li><strong> Des data engineers ;</li>
-      <li><strong> Des géomaticiens et géomaticiennes ;</li>
-      <li><strong> Des designers ;</li>
-      <li><strong> Des juristes du numérique.</li>
-    </ul></p>"
+      <li><strong> Des développeurs et développeuses ;</strong></li>
+      <li><strong> Des data scientists ;</strong></li>
+      <li><strong> Des data engineers ;</strong></li>
+      <li><strong> Des géomaticiens et géomaticiennes ;</strong></li>
+      <li><strong> Des designers ;</strong></li>
+      <li><strong> Des juristes du numérique.</strong></li>
+    </ul>"
   ancre: quels-profils
 
 - question: "Comment rejoindre la 5e promotion d'EIG ?"
-  reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :
+  reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
     <ul>
-      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</li>
-      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</li>
-      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</li>
-    </ul></p>"
+      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</strong></li>
+      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</strong></li>
+      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</strong></li>
+    </ul>"
   ancre: processus-de-candidature
 
 - question: "Où travaillent les EIG ?"
