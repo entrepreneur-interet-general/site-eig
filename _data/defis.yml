@@ -92,10 +92,12 @@
   eigs:
     - "Joëlle Chong"
     - "Line Rahal"
+    - "Sophie Jobez"
   mentors:
     - "Evelyne Duplessis"
     - "Florent Robic"
     - "Mehdi Benkebil"
+    - "Patrick Maison"
 
 "EIG Link 2020":
   image: /img/eig4/eig-link.png
@@ -113,6 +115,7 @@
     - "Coline Malivel"
     - "Raphaëlle Roffo"
   mentors:
+    - "Corine Waroquiers"
     - "Soizic Pénicaud"
 
 "Enki":
@@ -171,6 +174,7 @@
     - "Nadim Bel Lallahom"
   mentors:
     - "Clément Bultheel"
+    - "Grégory Grellet"
     - "Hélène Costa"
     - "Thomas Lesueur"
 
@@ -234,7 +238,7 @@
     - "Julie Dugardin"
     - "Matthieu Tirelli"
   mentors:
-    - "Thierry Hieber"
+    - "Franck Moinardeau"
     - "Marjory Canonne"
     - "Vincent Barbey"
 
@@ -274,9 +278,10 @@
     - "Jérôme Burkard"
     - "Raphaëlle Bertrand-Lalo"
   mentors:
-    - "Nicolas Mallejac"
+    - "Anthony Blondel"
     - "Denis Daviau"
     - "Stéphane Tollemer"
+    - "Thibaud Weinachter"
 
 "SEDAccord":
   image: /img/eig4/sedaccord.png
