@@ -1,25 +1,46 @@
-- question: "Qui peut participer ?"
+- question: "Qui peut devenir EIG ?"
   reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire (premier et deuxième cycle), à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
-  
-- question: "Puis-je participer à mon défi en télétravail, complètement ou partiellement ?"
-  reponse: "<p> Le programme repose sur l'immersion dans les administrations d'accueil, et de ce fait ne permet pas de télétravail complet. La possibilité de télétravailler régulièrement varie selon les administrations. La plupart le permettent et l'encadrent, mais il faudra que vous posiez la question aux mentors lors des entretiens.</p>"
-  ancre: teletravail
-  
+
+- question: "Quels profils numériques sont recherchés"
+  reponse: "<p>Le programme EIG recrute les profils suivants :</p>
+    <ul>
+      <li><strong> Des développeurs et développeuses ;</strong></li>
+      <li><strong> Des data scientists ;</strong></li>
+      <li><strong> Des data engineers ;</strong></li>
+      <li><strong> Des géomaticiens et géomaticiennes ;</strong></li>
+      <li><strong> Des designers ;</strong></li>
+      <li><strong> Des juristes du numérique.</strong></li>
+    </ul>"
+  ancre: quels-profils
+
+- question: "Comment rejoindre la 5e promotion d'EIG ?"
+  reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
+    <ul>
+      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</strong></li>
+      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</strong></li>
+      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</strong></li>
+    </ul>"
+  ancre: processus-de-candidature
+
 - question: "Où travaillent les EIG ?"
-  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le défi. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs mentors.</p>"
+  reponse: "<p>Les EIG travaillent par équipe, chacune située dans l'administration proposant le projet. Le programme d'accompagnement ménage des temps d'échanges entre EIG et un lieu où ils peuvent se rencontrer en dehors de leur administration, en accord avec leurs porteurs de projet.</p>"
   ancre: lieu-de-travail
-  
+
 - question: "Où se situent les administrations d'accueil ?"
-  reponse: "<p>La localisation des administrations d'accueil est indiquée en haut de la page de description des défis. Les défis de la promotion 4 se déroulent à Paris ou en région parisienne, à l'exception de Monitor Fish qui se déroule entre la région parisienne et le Morbihan (56).</p>"
+  reponse: "<p>La localisation des administrations d'accueil sera indiquée lors de la présentation des projets. A titre d'exemple, les projets de la précédente promotion d'EIG se sont déroulés en majorité en région parisienne, mais certains en région. C'est pourquoi il est important d'indiquer si vous êtes mobiles lors de votre candidature. </p>"
   ancre: lieu
-  
+
+- question: "Puis-je participer à mon projet en télétravail, complètement ou partiellement ?"
+  reponse: "<p> Le programme repose sur l'immersion dans les administrations d'accueil, et de ce fait ne permet pas de télétravail complet. La possibilité de télétravailler régulièrement varie selon les administrations et devra être envisagée avec leur accord explicite, ainsi que celui des autres membres de l'équipe. La plupart des administrations le permettent et l'encadrent, mais il faudra que vous posiez la question aux porteurs de projet lors des entretiens.</p>"
+  ancre: teletravail
+
 - question: "Je suis en CDI, dois-je démissionner de mon poste actuel ?"
   reponse: "<p>Pas nécessairement. D’autres solutions existent, telles que le <a href=\"https://www.service-public.fr/particuliers/vosdroits/F10431\">congé sans solde</a>. Celui-ci nécessite cependant l’accord de votre employeur.</p>"
   ancre: demission-CDI
 
 - question: "En quoi un EIG est-il différent d’un prestataire ?"
-  reponse: "<p>À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier des charges précis. Elles et ils sont maîtres de leur défi et peuvent proposer des modifications au projet envisagé initialement par les administrations d’accueil, s’il leur semble qu’il existe des manières plus adéquates de répondre au défi qui leur a été lancé, en terme de technologies ou de livrables. Au cours de leur immersion dans l’administration, les EIG sont amenés à élaborer une feuille de route sur laquelle elles et ils itèrent avec leurs mentors.</p>"
+  reponse: "<p>À la différence d’un prestataire, les EIG ne travaillent pas sur un cahier des charges précis. Elles et ils sont maîtres de leur projet et peuvent proposer des modifications par rapport aux idées envisagées initialement par les administrations d’accueil, s’il leur semble qu’il existe des manières plus adéquates de répondre au projet qui leur a été lancé, en termes de technologies ou de livrables. Au cours de leur immersion dans l’administration, les EIG sont amenés à élaborer une feuille de route sur laquelle elles et ils itèrent avec leurs porteurs de projet.</p>"
   ancre: pas-un-prestataire
 
 - question: "En quoi un EIG est-elle ou il différent d’un contractuel en CDD de 3 ans dans l’administration ?"
@@ -27,38 +48,37 @@
   ancre: pas-un-contractuel-classique
 
 - question: "Quelle est la forme du contrat des EIG avec leur administration d’accueil ?"
-  reponse: "<p>Les EIG, une fois sélectionnés, rentrent en contact avec l’administration d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10 mois rémunéré 4 000 € net par mois.</p>"
+  reponse: "<p>Les EIG, une fois sélectionnés, rentrent en contact avec l’administration d’accueil afin de signer un contrat. La forme est la suivante : CDD de 10 mois rémunéré 4 000 € net par mois si plus de 5 ans d'expérience ; 3 500 € net par mois si moins.</p>"
   ancre: contrat-administration
 
-- question: "Pourquoi des défis de 10 mois ?"
-  reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les entrepreneurs, qui restent concentrés sur la tâche à accomplir. Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
+- question: "Pourquoi des projets de 10 mois ?"
+  reponse: "<p>Les règles sont claires : après 10 mois, les EIG quittent leur administration d’accueil. La présence de cette date butoir place une pression saine sur les EIG, qui restent concentrés sur la tâche à accomplir. Cette temporalité différente de celle habituellement en vigueur dans l’administration insuffle de nouvelles méthodes et stimule la créativité et l’efficacité de l’équipe projet.</p>"
   ancre: pourquoi-dix-mois
-  
+
 - question: "Est-il possible de commencer plus tard que la date de début de la promotion ?"
-  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde. Pour la promotion 4, plus de latitude est envisageable (mais pas garantie) pour les défis autofinancés (ADEX, Opérations 18, Enki, DataMed).</p>"
+  reponse: "<p>Malheureusement, pour des raisons administratives, nous n'avons pas de marge pour décaler le début de la promotion. Pour réduire votre délai de préavis (si vous démissionnez), vous pouvez demander à votre employeur une dispense partielle ou totale de préavis. Vous pouvez également envisager d’autres solutions, telles que le congé sans solde.</p>"
   ancre: commencer-plus-tard
-  
-- question: "Au terme des 10 mois, comment les défis sont-ils pérennisés ?"
+
+- question: "Au terme des 10 mois, comment les projets sont-ils pérennisés ?"
   reponse: "<p>Les outils continuent à être maintenus et développés par les équipes de l’administration d’accueil. D’autres sont mêmes déployés dans d’autres services. De plus, l’obligation, sauf dérogation, de verser les développements réalisés en open source rend leur maintien possible par tous. Le programme EIG dispose d’une organisation sur GitHub pour y regrouper les dépôts publiés.</p>"
-  ancre: perennisation-des-defis
+  ancre: perennisation-des-projets
 
-- question: "Comment sont préparés les mentors à l’accueil des EIG dans leur administration ?"
-  reponse: "<p>Avant l’arrivée des EIG, les mentors sont accompagnés par l’équipe d’Etalab pour préparer plusieurs étapes : le recrutement administration, l’environnement de travail, le cadrage du défi (besoins technique, méthodes, agilité, etc.). Elles et ils participent également aux sessions de mentoring de la promotion, et peuvent ainsi partager leurs réussites et leurs difficultés.</p>"
-  ancre: preparation-des-mentors
+- question: "Comment sont préparés les porteurs de projet à l’accueil des EIG dans leur administration ?"
+  reponse: "<p>Avant l’arrivée des EIG, les porteurs de projet sont accompagnés par l’équipe d’Etalab pour préparer plusieurs étapes : le recrutement administration, l’environnement de travail, le cadrage du projet (besoins technique, méthodes, agilité, etc.). Elles et ils participent également aux sessions de mentoring de la promotion, et peuvent ainsi partager leurs réussites et leurs difficultés.</p>"
+  ancre: preparation-des-porteurs-de-projet
 
-- question: "Quels défis ont été relevés par les promotions précédentes ?"
-  reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les défis en cours et déjà réalisés.<p>"
-  ancre: defis-eig1-eig2
+- question: "Quels projets ont été relevés par les promotions précédentes ?"
+  reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
+  ancre: projets-eig1-eig2-eig3-eig4
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible.</p>"
   ancre: visio-jury
 
 - question: "Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et Designers d'Intérêt Général (DIG) ?"
-  reponse: "<p>Chaque année depuis 2017, le programme EIG recrute une promotion de data scientists, développeuses, développeurs et designers. Ils intègrent des administrations par équipes pluridisciplinaires de 2 ou 3, pour une période de 10 mois. Designers d'Intérêt Général s’inspire du programme EIG. Là où le programme EIG vise à recruter des compétences numériques variées pour résoudre des défis liés à la circulation des données et à l’amélioration de l’action publique, Designers d’Intérêt Général s’intéresse particulièrement à l’amélioration de l’expérience utilisateurs des services publics en ligne. Une fois recrutés, les DIG intègrent les administrations selon des modalités différentes d'EIG : ils sont seuls ou à deux et restent pendant une période de 6 à 12 mois. L'accompagnement des DIG a été confié au programme EIG ; ils rejoignent ainsi la communauté du programme Entrepreneurs d'Intérêt Général.</p>"
+  reponse: "<p>Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020.</p>"
   ancre: difference-EIG-DIG
-  
+
 - question: "Vous n’avez pas trouvé de réponse à votre question ?"
   reponse: "<p>Vous pouvez <a href=\"/contact.html\" title=\"Formulaire de contact\">nous contacter</a> et nous vous répondrons rapidement</p>"
   ancre: autre
- 
