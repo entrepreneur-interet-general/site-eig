@@ -3,7 +3,7 @@ layout: defi
 title: "Atlas Culture"
 ---
 
-Le Département des études, de la prospective et des statistiques du Ministère de la Culture produit, depuis 2017, l’[Atlas régional de la culture](https://www.culture.gouv.fr/Sites-thematiques/Etudes-et-statistiques/Publications/Collections-d-ouvrages/Atlas-regional-de-la-culture). Ce rapport sur support papier met en lumière des indicateurs relatifs aux  politiques culturelles , disponibles aux échelons national et territorial. Afin de mieux comprendre les dynamiques culturelles, il souhaite en faire un outil numérique de cartographie dynamique.
+Le Département des études, de la prospective et des statistiques du Ministère de la Culture produit, depuis 2017, l’[Atlas régional de la culture](https://www.culture.gouv.fr/Sites-thematiques/Etudes-et-statistiques/Publications/Collections-d-ouvrages/Atlas-regional-de-la-culture). Ce rapport sur support papier met en lumière des indicateurs relatifs aux  politiques culturelles, disponibles aux échelons national et territorial. Afin de mieux comprendre les dynamiques culturelles, il souhaite en faire un outil numérique de cartographie dynamique.
 
 ## La problématique : des données denses et peu maniables relatives aux  politiques culturelles territoriales 
 
@@ -23,3 +23,8 @@ Cette cartographie dynamique permettra de :
 - **visualiser des données variées et enrichies** : contrats culturels qui lient État et collectivités, acteurs culturels même modestes ou saisonniers, types d’équipements, etc.
 - **comparer les données à différentes échelles** : région/région ou région/France entière et d’approcher un échelon plus local (communal et intercommunal) ;
 - **choisir les indicateurs les plus pertinents** lors de la comparaison des données.
+
+## Réalisations 
+
+[Atlas_Culture_restitution_recherche.pdf](https://github.com/entrepreneur-interet-general/site-eig/files/6075007/Atlas_Culture_restitution_recherche.pdf)
+
