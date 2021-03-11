@@ -140,7 +140,7 @@
 
 "EnviNorma":
   image: /img/eig4/envinorma.png
-  title: EnviNorma
+  title: Envinorma
   link_to: /defis/2020/envinorma.html
   skills: ["dev", "datascience"]
   description: Faciliter le contrôle environnemental des sites industriels
