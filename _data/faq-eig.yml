@@ -15,16 +15,8 @@
   ancre: quels-profils
 
 - question: "Quelles sont les compétences/qualités recherchées ?"
-  reponse: "<p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a href="https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf">ici</a></p>
-    <ul>
-      <li>Des développeurs et développeuses ;</li>
-      <li>Des data scientists ;</li>
-      <li>Des data engineers ;</li>
-      <li>Des géomaticiens et géomaticiennes ;</li>
-      <li>Des designers ;</li>
-      <li>Des juristes du numérique.</li>
-    </ul>"
-  ancre: quels-profils
+  reponse: "<p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a target="new" href="/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf">ici</a></p>"
+  ancre: quels-competences
 
 - question: "Comment rejoindre la 5e promotion d'EIG ?"
   reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
