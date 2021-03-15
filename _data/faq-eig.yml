@@ -14,10 +14,6 @@
     </ul>"
   ancre: quels-profils
 
-- question: "Quelles sont les compétences et qualités recherchées ?"
-  reponse: "<p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a href="https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf">ici</a></p>"
-  ancre: quels-competences
-
 - question: "Comment rejoindre la 5e promotion d'EIG ?"
   reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
     <ul>
