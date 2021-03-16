@@ -11,11 +11,8 @@
       <li>Des géomaticiens et géomaticiennes ;</li>
       <li>Des designers ;</li>
       <li>Des juristes du numérique.</li>
-    </ul>"
-  ancre: quels-profils
-
-- question: "Quelles sont les compétences et qualités recherchées ?"
-  reponse: "<p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf\">ici</a>.</p>"
+    </ul>
+    <p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf\">ici</a>.</p>"
   ancre: quels-profils
 
 - question: "Quelles sont les compétences et qualités attendues pour les profils en droit du numérique ?"
@@ -78,6 +75,10 @@
 - question: "Quels projets ont été relevés par les promotions précédentes ?"
   reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
   ancre: projets-eig1-eig2-eig3-eig4
+
+- question: "Dans le formulaire de candidature, je ne peux pas fournir de support illustrant le projet présenté pour des raisons de confidentialité : comment faire ?"
+  reponse: "<p>Il est tout à fait possible que vous soyez dans l'incapacité de joindre un support. Nous comprenons cette contrainte. Veillez alors à bien illustrer votre présentation d'exemples concrets.</p>"
+  ancre: candidature-support
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible.</p>"
