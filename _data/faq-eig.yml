@@ -76,6 +76,10 @@
   reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
   ancre: projets-eig1-eig2-eig3-eig4
 
+- question: "Dans le formulaire de candidature, je ne peux pas fournir de support illustrant le projet présenté pour des raisons de confidentialité : comment faire ?"
+  reponse: "<p>Il est tout à fait possible que vous soyez dans l'incapacité de joindre un support. Nous comprenons cette contrainte. Veillez alors à bien illustrer votre présentation d'exemples concrets.</p>"
+  ancre: candidature-support
+
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible.</p>"
   ancre: visio-jury
