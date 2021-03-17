@@ -123,6 +123,7 @@
   title: Enki
   link_to: /defis/2020/enki.html
   skills: ["dev", "design", "dataengineering", "geomatique"]
+  source_code: https://github.com/entrepreneur-interet-general/enki
   description: Mieux informer les autorités et services d'urgence lors d'une crise
   year: 2020
   promotion: 4
