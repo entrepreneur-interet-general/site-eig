@@ -5,7 +5,7 @@ image: /img/blog/EIG4_BilanIntermediaire_202103.jpg
 layout: post
 tags:
 - réalisation
-title: "Après sept mois, où en sont les projets de la promotion 4 ?"
+title: "Sept mois après, où en sont les projets de la promotion 4 ?"
 twitter: colinemalivel
 ---
 
