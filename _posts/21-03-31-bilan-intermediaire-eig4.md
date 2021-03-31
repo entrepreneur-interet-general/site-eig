@@ -43,5 +43,5 @@ Les EIG s’impliquent également dans des projets annexes et des réflexions st
 ## **Des suites déjà anticipées pour les projets et les EIG**
 
 Les trois prochains mois permettront de renforcer des aspects stratégiques pour les projets, en vue de leur pérennisation que ce soit par l’ouverture des données, la publication de codes sources, la documentation technique, la valorisation des connaissances acquises, la passation de connaissances au sein des administrations ou la formation des agents en interne.
- 
+
 Une majorité des projets va se poursuivre après la fin de la promotion en juin 2021, notamment grâce à une prolongation déjà actée de plus de la moitié des EIG, co-financée par la Direction interministérielle du numérique pour 9 projets. L’équipe d’Etalab continue à travailler avec les défis et à organiser des sessions d’échange entre mentors pour anticiper la continuité des projets ayant fait leurs preuves.
