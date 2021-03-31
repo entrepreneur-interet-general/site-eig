@@ -19,7 +19,7 @@ Aperçu des travaux déjà réalisés par la promotion 4. 
 
 Les équipes agents publics-EIG ont consacré les premiers mois du programme à initier et construire leurs projets pour maintenant s’atteler au déploiement de leurs solutions.  À l’occasion d’un Demo Day public qui s’est tenu le 11 février 2021, les équipes ont pu raconter leurs avancées et montrer leurs prototypes. Les réalisations sont à découvrir dans cette vidéo :
 
-<iframe frameborder="0" width="760" height="480" src="https://www.dailymotion.com/video/x7zgtds" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="760" height="480" src="https://www.dailymotion.com/embed/video/x7zgtds" allowfullscreen allow="autoplay"></iframe>
 
 Désormais, les EIG s’appuient sur ces premières versions pour éprouver et consolider les outils développés, notamment à travers des tests utilisateurs. Les équipes confrontent les hypothèses émises en début de projet auprès des publics utilisateurs qui valident ou permettent d’ajuster les usages et les fonctionnalités proposées.
 
@@ -40,10 +40,8 @@ Tous les binômes ou trinômes d’EIG constatent avoir déjà insufflé de nouv
 
 Les EIG s’impliquent également dans des projets annexes et des réflexions stratégiques, pour lesquels leur regard s’avère précieux. Nous avons recensé 11 projets annexes, parmi lesquels la participation de l’équipe de [DataMed](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/datamed.html) à la création d’un Data Office au sein de l’Agence nationale de sécurité du médicament et des produits de santé (ANSM). Ce dernier contribuera largement à l’ouverture et à la transparence des données de l’Agence.
 
-## **Des suites déjà anticipées pour les projets et les EIG**
+## **Rendez-vous en juin pour la restitution publique des projets**
 
-Les trois prochains mois permettront de renforcer d'œuvrer à la pérennisation des projets, notamment par l’ouverture des données, la publication de codes sources, la documentation technique, la valorisation des connaissances acquises, la passation de connaissances ou la formation des agents en interne.
+Les trois prochains mois permettront d'œuvrer à la pérennisation des projets, notamment par l’ouverture des données, la publication de codes sources, la documentation technique, la valorisation des connaissances acquises, la passation de connaissances ou la formation des agents en interne.
 
-Une majorité des projets va se poursuivre après la fin de la promotion en juin 2021, notamment grâce à une prolongation déjà actée de plus de la moitié des EIG, co-financée par la direction interministérielle du numérique pour 9 projets. L’équipe d’Etalab continue à travailler avec les défis et à organiser des sessions d’échange entre mentors pour anticiper la continuité des projets ayant fait leurs preuves.
-
-Nous vous donnons rendez-vous virtuellement mi-juin pour l'événement de public de restitution de la promotion ! 
+Nous vous donnons rendez-vous virtuellement mi-juin pour l'événement de public de restitution de la promotion !
