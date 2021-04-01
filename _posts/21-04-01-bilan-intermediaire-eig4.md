@@ -20,7 +20,7 @@ Aperçu des travaux déjà réalisés par la promotion 4. 
 Les équipes agents publics-EIG ont consacré les premiers mois du programme à initier et construire leurs projets pour maintenant s’atteler au déploiement de leurs solutions.  À l’occasion d’un Demo Day public qui s’est tenu le 11 février 2021, les équipes ont pu raconter leurs avancées et montrer leurs prototypes. Les réalisations sont à découvrir dans cette vidéo :
 
 <iframe frameborder="0" width="760" height="480" src="https://www.dailymotion.com/embed/video/x7zgtds" allowfullscreen allow="autoplay"></iframe>
-_L'horodatage de chaque projet est indiqué en description sur la page dailymotion._
+_L'horodatage de chaque projet est indiqué en description sur la page Dailymotion._
 
 Désormais, les EIG s’appuient sur ces premières versions pour éprouver et consolider les outils développés, notamment à travers des tests utilisateurs. Les équipes confrontent les hypothèses émises en début de projet auprès des publics utilisateurs qui valident ou permettent d’ajuster les usages et les fonctionnalités proposées.
 
@@ -45,4 +45,4 @@ Les EIG s’impliquent également dans des projets annexes et des réflexions st
 
 Les trois prochains mois permettront d'œuvrer à la pérennisation des projets, notamment par l’ouverture des données, la publication de codes sources, la documentation technique, la valorisation des connaissances acquises, la passation de connaissances ou la formation des agents en interne.
 
-Nous vous donnons rendez-vous virtuellement mi-juin pour l'événement de public de restitution de la promotion !
+Nous vous donnons rendez-vous virtuellement mi-juin pour l'événement public de restitution de la promotion !
