@@ -49,4 +49,6 @@ Concernant le portage, plusieurs cas de figure se détachent :
 Des EIG ont été recrutés suite au programme, grâce au travail stratégique effectué par les mentors tout au long de l’année. L’implication au-delà des 10 mois peut également se faire de manière ponctuelle : pour [Explocode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html), un EIG travaille en prestation sur le projet à raison d’un jour par semaine.
 
 Cette évaluation révèle que les projets de 10 mois accompagnés par le programme se déploient sur un temps long. Cette implication des EIG et des agents publics dans la durée constitue un premier pas vers la réussite des projets de transformation numérique de l’Etat portés par le programme.
-Le suivi des projets passés par le programme nous tient à cœur et nous continuerons ainsi à conduire cette évaluation chaque année. 
+Le suivi des projets passés par le programme nous tient à cœur et nous continuerons ainsi à conduire cette évaluation chaque année.
+
+_Les données de cette évaluation sont disponibles en open data_
