@@ -94,7 +94,7 @@
     - "Line Rahal"
     - "Sophie Jobez"
   mentors:
-    - "Evelyne Duplessis"
+    - "Christelle Ratignier-Carbonneil"
     - "Florent Robic"
     - "Mehdi Benkebil"
     - "Patrick Maison"
@@ -657,7 +657,6 @@
       description: "Découvrez l’outil IA Flash"
       show: true
 
-
 "Karfu’R":
   image: /img/logo-karfur.png
   title: "Karfu’R"
@@ -667,7 +666,7 @@
   year: 2019
   promotion: 3
   duration_months: 10
-  administration : "Délégation Interministérielle pour l’Accueil et l’Intégration des Réfugiés (DiAir)"
+  administration: "Délégation Interministérielle pour l’Accueil et l’Intégration des Réfugiés (DiAir)"
   administration_website: https://accueil-integration-refugies.fr
   source_code: https://github.com/Tony4469/karfur
   website: https://www.refugies.info
@@ -1264,7 +1263,6 @@
       url: https://github.com/entrepreneur-interet-general/RembourSante
       call_to_action: "Parcourir la documentation"
 
-
 "Résorption bidonvilles":
   image: /img/defis/dig/ResorptionBidonvilles.png
   title: "Résorption bidonvilles"
@@ -1426,7 +1424,7 @@
   skills: ["datascience", "dev"]
   description: Améliorer la mémoire des politiques sociales
   administration: Secrétariat général des ministères sociaux
-  administration_website : https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
+  administration_website: https://solidarites-sante.gouv.fr/ministere/organisation/directions/article/sgmas-secretariat-general-des-ministeres-charges-des-affaires-sociales
   website: https://archifiltre.github.io
   source_code: https://github.com/jeanbaptisteassouad/cheapExp
   year: 2018
@@ -1748,7 +1746,6 @@
       platform: dailymotion
       description: "10 mois après : présentation du défi Lab Santé"
       show: true
-
 
 "PrédiSauvetage":
   image: /img/defis/1_MTES.png
