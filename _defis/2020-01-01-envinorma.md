@@ -48,3 +48,19 @@ L'application sera maintenue par une entité proche du Ministère.
 - Diminution du risque d'erreurs du à la complexité des arrêtés ministériels
 - Une première brique qui rend possible la mise en œuvre d'autres projets
 - Accès à la réglementation facilité aussi pour les exploitants et le grand public (grâce à l'utilisation exclusive de données ouvertes)
+
+<hr>
+
+<div class="row" >
+    <div class="small-4 columns">
+        <i class='fa fa-quote-left' style='opacity: 0.4'> </i><br/> La page de récapitulation de la réglementation applicable est très pratique. Avoir tous les AP réunis et pouvoir chercher dedans, c’est aussi très utile.<br/> <i class='fa fa-quote-right right' style='opacity: 0.4'> </i> 
+    </div>
+    <div class="small-4 columns">
+        <i class='fa fa-quote-left' style='opacity: 0.4'> </i> <br/>L’outil est super utile pour préparer les inspections d’autant plus lorsque l’on débute. Il permet un gain de temps important notamment par rapport à la prise en compte de la date de mise en service pour l’applicabilité des textes.<br/> <i class='fa fa-quote-right right' style='opacity: 0.4'> </i> 
+    </div>
+    <div class="small-4 columns">
+        <i class='fa fa-quote-left' style='opacity: 0.4'> </i> <br/>Après un mois d'utilisation, on constate qu'on gagne tous beaucoup de temps.<br/> <i class='fa fa-quote-right right' style='opacity: 0.4'> </i> 
+    </div>
+</div>
+<hr>
+### Chiffres clés
