@@ -2,24 +2,29 @@
   reponse: "<p>Le programme EIG est ouvert à toute personne ayant terminé son cursus universitaire (premier et deuxième cycle), à l’exception des agents en fonction dans l’administration et des membres du jury (voir le règlement du programme pour plus d’informations).</p><p>Nous recherchons principalement des candidats disposant d’une certaine expérience (environ 5 ans), mais des profils moins expérimentés ayant déjà mené des projets d’entreprenariat ou associatifs sont également les bienvenus.</p>"
   ancre: qui-peut-participer
 
-- question: "Quels profils numériques sont recherchés"
+- question: "Quels sont les profils recherchés ?"
   reponse: "<p>Le programme EIG recrute les profils suivants :</p>
     <ul>
-      <li><strong> Des développeurs et développeuses ;</strong></li>
-      <li><strong> Des data scientists ;</strong></li>
-      <li><strong> Des data engineers ;</strong></li>
-      <li><strong> Des géomaticiens et géomaticiennes ;</strong></li>
-      <li><strong> Des designers ;</strong></li>
-      <li><strong> Des juristes du numérique.</strong></li>
-    </ul>"
+      <li>Des développeurs et développeuses ;</li>
+      <li>Des data scientists ;</li>
+      <li>Des data engineers ;</li>
+      <li>Des géomaticiens et géomaticiennes ;</li>
+      <li>Des designers ;</li>
+      <li>Des juristes du numérique.</li>
+    </ul>
+    <p>Les compétences et qualités recherchées pour chaque type de profil sont précisées <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metiers_Profils-du-numerique.pdf\">ici</a>.</p>"
+  ancre: quels-profils
+
+- question: "Quelles sont les compétences et qualités attendues pour les profils en droit du numérique ?"
+  reponse: "<p>Les compétences et qualités recherchées pour les juristes du numérique sont précisées <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG5_Fiche-metier_Droit-du-numerique.pdf\">dans cette fiche</a>.</p>"
   ancre: quels-profils
 
 - question: "Comment rejoindre la 5e promotion d'EIG ?"
   reponse: "<p>Le processus de candidature se fera cette année en 3 étapes :</p>
     <ul>
-      <li><strong> Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</strong></li>
-      <li><strong> Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</strong></li>
-      <li><strong> Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</strong></li>
+      <li>Etape 1 : vous avez jusqu'au 2 mai 2021 pour déposer votre candidature sur notre <a href=\"https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html\">site</a> ;</li>
+      <li>Etape 2 : Si votre candidature est pré-sélectionnée, vous serez invité.es fin mai à découvrir les projets proposés par les administrations, et à nous indiquer vos 3 projets préférés ;</li>
+      <li>Etape 3 : Du 7 au 15 juin, vous serez invité.es à passer un entretien de sélection composé d’agents publics, de membres de la DINUM et d’experts et expertes ;</li>
     </ul>"
   ancre: processus-de-candidature
 
@@ -70,6 +75,10 @@
 - question: "Quels projets ont été relevés par les promotions précédentes ?"
   reponse: "<p>Nous vous invitons à consulter la page <a href=\"/defis.html\" title=\"Présentation des défis\">présentant les défis</a> pour découvrir les projets en cours et déjà réalisés.<p>"
   ancre: projets-eig1-eig2-eig3-eig4
+
+- question: "Dans le formulaire de candidature, je ne peux pas fournir de support illustrant le projet présenté pour des raisons de confidentialité : comment faire ?"
+  reponse: "<p>Il est tout à fait possible que vous soyez dans l'incapacité de joindre un support. Nous comprenons cette contrainte. Veillez alors à bien illustrer votre présentation d'exemples concrets.</p>"
+  ancre: candidature-support
 
 - question: "Est-il possible de passer l'entretien à distance, par visioconférence ?"
   reponse: "<p>Oui, c'est tout à fait possible.</p>"
