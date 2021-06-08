@@ -3,16 +3,6 @@ layout: defi
 title: "EnviNorma"
 ---
 
----
-
-_L'application est en cours de réalisation, elle est disponible sur [https://envinorma.herokuapp.com](https://envinorma.herokuapp.com)._
-
-_Le code est ouvert et accessible ici [https://github.com/Envinorma](https://github.com/Envinorma)._
-
----
-
-La Direction Régionale et Interdépartementale de l’Environnement et de l’Énergie d’Île-de-France (DRIEE) souhaite développer une web-app qui permettra de rendre accessible la réglementation en vigueur pour le contrôle des sites industriels.
-
 ## La problématique : une réglementation des sites industriels multiple et disséminée
 
 En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 400 inspections ont été réalisées en Ile-de-France en 2019.
@@ -21,16 +11,40 @@ Actuellement, chaque inspection commence par une phase de préparation manuelle,
 
 L’enjeu est donc de regrouper, organiser et consolider les réglementations applicables à un site industriel qui doit être inspecté.
 
-## Le défi : créer un outil permettant de récapituler les éléments à inspecter et de les trier par grands thèmes
+## Le défi : faciliter le contrôle environnemental des sites industriels
 
-Le défi consiste donc à développer un outil qui pourrait prendre la forme d’une web-app. A partir des versions scannées des arrêtés préfectoraux, il permettrait de récapituler les éléments à inspecter pour une installation – ou prescriptions - triés par grands thèmes.
+### 1. Rassembler la réglementation sur une seule interface
 
-L’enjeu du défi est de diviser par deux le temps de préparation d’une inspection pour augmenter le nombre d’inspections réalisées et améliorer ainsi le contrôle environnemental des sites industriels.
+En se basant sur les données publiques décrivant les caractéristiques d'une installation et sur les sources de réglementation nationales et locales, l'application réunit de manière exhaustive les arrêtés applicables.
 
-L’outil permettra de :
+### 2. Mutualiser le travail d’interprétation de la réglementation
 
-- **transformer les arrêtés préfectoraux en listes d’articles**, grâce à la reconnaissance de caractères et à l’analyse de la structure ;
-- **consolider les arrêtés successifs en un seul texte** grâce au traitement automatique du langage naturel ;
-- **catégoriser les articles selon leur champ** en utilisant des mots-clés pour détecter le champ technique.
+Toutes les prescriptions d’un arrêté ministériel ne s’appliquent pas à une installation donnée. Ceci oblige chaque inspecteur à filtrer les textes pour ne garder que ce qui s’applique.
+Nous avons enrichi le format des arrêtés de façon à recueillir et conserver l’expertise des inspecteurs. Ce travail de transformation de la réglementation est désormais fait une seule fois.
 
-A terme, ce nouvel outil pourrait être étendu pour prendre en compte la réglementation nationale. Il a vocation à être intégré au Guichet Unique Numérique, outil métier des inspecteurs de l’ensemble des Directions régionales du Ministère de la Transition écologique et solidaire.
+### 3. Faciliter la génération de fiche d’inspections
+
+Une fois les textes reglementaires filtrés et regroupés, l’inspecteur n’a plus qu’à sélectionner les prescriptions qui l’intéressent et générer la fiche d'inspection ainsi créée.
+
+## Les étapes clés
+
+1. **Phase d’observation et de recherche** : Mise en contexte, rencontre des utilisateurs, visite sur le terrain, questionnement de la problématique et phase d’idéation
+2. **Prototypage** : Constitution d'un prototype restreint à la réglementation nationale (avec une seule installation et quelques textes nationaux) pour tester le concept et valider la solution
+3. **Développement du MVP** : Interface restreinte à la réglementation nationale et aux installations d'Île-de-France, transformation de l'intégralité des arrêtés
+4. **Déploiement national** : Extension aux 50 000 ICPE françaises à autorisation et à enregistrement
+5. **Intégration des arrêtés préfectoraux** : Transformation des 70 000 arrêtés préfectoraux par un algorithme d'OCR et intégration dans l'application web
+6. **Pérennisation** : Automatisation des tâches de transformation de la donnée et des tests
+7. **Amélioration continue** : Intégration des retours utilisateurs et amélioration du moteur de compilation de la réglementation
+
+## Suite du défi
+
+L'application a vocation à s'interfacer avec le Guichet Unique Numérique (actuellement en cours de développement), outil métier des inspecteurs de l’ensemble des Directions régionales du Ministère de la Transition écologique et solidaire.
+
+L'application sera maintenue par une entité proche du Ministère.
+
+## Impacts et chiffres clés
+
+- Accélération significative du temps de préparation des inspections
+- Diminution du risque d'erreurs du à la complexité des arrêtés ministériels
+- Une première brique qui rend possible la mise en œuvre d'autres projets
+- Accès à la réglementation facilité aussi pour les exploitants et le grand public (grâce à l'utilisation exclusive de données ouvertes)
