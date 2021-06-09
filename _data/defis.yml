@@ -167,7 +167,7 @@
   projects:
     - image: img/realisations/2020/Envinorma_AppWeb_2020.png
       title: "Application web"
-      description: "Nous avons créé une application à destination des 1500 inspecteurs de l'environnement qui automatise la compilation de la réglementation locale et nationale applicable et qui permet de préparer des fiches d'inspection en quelques clics."
+      description: "Nous avons créé une application à destination des 1500 inspecteurs de l'environnement. Elle automatise la compilation de la réglementation locale et nationale et permet de préparer des fiches d'inspection en quelques clics."
       url: https://envinorma.herokuapp.com
       call_to_action: "Découvrir l'application"
     - image: img/realisations/2020/Envinorma_BackOffice_2020.png
