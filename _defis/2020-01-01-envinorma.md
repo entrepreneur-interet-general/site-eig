@@ -28,13 +28,13 @@ Une fois les textes réglementaires filtrés et regroupés, l’inspecteur n’a
 
 ## Les étapes clés
 
-**Phase d’observation et de recherche** : mise en contexte, rencontre des utilisateurs, visite sur le terrain, questionnement de la problématique et phase d’idéation
-**Prototypage** : constitution d'un prototype restreint à la réglementation nationale, avec une seule installation et quelques textes nationaux, pour tester le concept et valider la solution
-**Développement du produit minimum viable** : interface restreinte à la réglementation nationale et aux installations d'Île-de-France, transformation de l'intégralité des arrêtés
-**Déploiement national** : extension aux 50 000 ICPE françaises à autorisation et à enregistrement
-**Intégration des arrêtés préfectoraux** : transformation des 70 000 arrêtés préfectoraux par un algorithme d'OCR et intégration dans l'application web
-**Pérennisation** : automatisation des tâches de transformation de la donnée et des tests
-**Amélioration continue** : intégration des retours utilisateurs et amélioration du moteur de compilation de la réglementation
+- **Phase d’observation et de recherche** : mise en contexte, rencontre des utilisateurs, visite sur le terrain, questionnement de la problématique et phase d’idéation
+- **Prototypage** : constitution d'un prototype restreint à la réglementation nationale, avec une seule installation et quelques textes nationaux, pour tester le concept et valider la solution
+- **Développement du produit minimum viable** : interface restreinte à la réglementation nationale et aux installations d'Île-de-France, transformation de l'intégralité des arrêtés
+- **Déploiement national** : extension aux 50 000 ICPE françaises à autorisation et à enregistrement
+- **Intégration des arrêtés préfectoraux** : transformation des 70 000 arrêtés préfectoraux par un algorithme d'OCR et intégration dans l'application web
+- **Pérennisation** : automatisation des tâches de transformation de la donnée et des tests
+- **Amélioration continue** : intégration des retours utilisateurs et amélioration du moteur de compilation de la réglementation
 
 ## Suite du défi
 
