@@ -5,7 +5,7 @@ title: "EnviNorma"
 
 ## La problématique : une réglementation des sites industriels multiple et disséminée
 
-En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 400 inspections ont été réalisées en Ile-de-France en 2019.
+En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Ile-de-France en 2020.
 
 Actuellement, chaque inspection commence par une phase de préparation manuelle, qui prend environ une demi-journée. Une partie de ce temps est consacrée à la compilation des différentes réglementations en vigueur : plusieurs arrêtés préfectoraux (le plus souvent au format pdf) auxquels s’ajoutent des réglementations nationales. Les supports à disposition sont multiples et rendent la tâche chronophage et complexe pour les inspecteurs.
 
