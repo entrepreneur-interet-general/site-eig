@@ -5,7 +5,7 @@ title: "EnviNorma"
 
 ## La problématique : une réglementation des sites industriels multiple et disséminée
 
-En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Ile-de-France en 2020.
+En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Île-de-France en 2020.
 
 Actuellement, chaque inspection commence par une phase de préparation manuelle, qui prend environ une demi-journée. Une partie de ce temps est consacrée à la compilation des différentes réglementations en vigueur : plusieurs arrêtés préfectoraux, le plus souvent au format pdf, auxquels s’ajoutent des réglementations nationales. Les supports à disposition sont multiples et rendent la tâche chronophage et complexe pour les inspecteurs.
 
@@ -28,17 +28,17 @@ Une fois les textes réglementaires filtrés et regroupés, l’inspecteur n’a
 
 ## Les étapes clés
 
-1. **Phase d’observation et de recherche** : mise en contexte, rencontre des utilisateurs, visite sur le terrain, questionnement de la problématique et phase d’idéation
-2. **Prototypage** : constitution d'un prototype restreint à la réglementation nationale, avec une seule installation et quelques textes nationaux, pour tester le concept et valider la solution
-3. **Développement du produit minimum viable** : interface restreinte à la réglementation nationale et aux installations d'Île-de-France, transformation de l'intégralité des arrêtés
-4. **Déploiement national** : extension aux 50 000 ICPE françaises à autorisation et à enregistrement
-5. **Intégration des arrêtés préfectoraux** : transformation des 70 000 arrêtés préfectoraux par un algorithme d'OCR et intégration dans l'application web
-6. **Pérennisation** : automatisation des tâches de transformation de la donnée et des tests
-7. **Amélioration continue** : intégration des retours utilisateurs et amélioration du moteur de compilation de la réglementation
+**Phase d’observation et de recherche** : mise en contexte, rencontre des utilisateurs, visite sur le terrain, questionnement de la problématique et phase d’idéation
+**Prototypage** : constitution d'un prototype restreint à la réglementation nationale, avec une seule installation et quelques textes nationaux, pour tester le concept et valider la solution
+**Développement du produit minimum viable** : interface restreinte à la réglementation nationale et aux installations d'Île-de-France, transformation de l'intégralité des arrêtés
+**Déploiement national** : extension aux 50 000 ICPE françaises à autorisation et à enregistrement
+**Intégration des arrêtés préfectoraux** : transformation des 70 000 arrêtés préfectoraux par un algorithme d'OCR et intégration dans l'application web
+**Pérennisation** : automatisation des tâches de transformation de la donnée et des tests
+**Amélioration continue** : intégration des retours utilisateurs et amélioration du moteur de compilation de la réglementation
 
 ## Suite du défi
 
-L'application a vocation à s'interfacer avec le Guichet Unique Numérique (actuellement en cours de développement), outil métier des inspecteurs de l’ensemble des Directions régionales du Ministère de la Transition écologique et solidaire.
+L'application a vocation à s'interfacer avec le Guichet Unique Numérique, actuellement en cours de développement. Il s'agit de l'outil métier des inspecteurs de l’ensemble des Directions régionales du Ministère de la Transition écologique et solidaire.
 
 L'application sera maintenue par une entité proche du Ministère.
 
