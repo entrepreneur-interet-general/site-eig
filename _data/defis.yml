@@ -177,7 +177,7 @@
       call_to_action: "Découvrir la réglementation"
     - image: img/realisations/2020/Envinorma_OpenSource_2020.png
       title: "Contributions open source et open data"
-      description: "Nous avons pris soin d'isoler les différents composants du code source et de publier la donnée produite. En plus des interfaces, il y a une interface de visualistation des résultats de l'OCR, une surcouche de l'API Légifrance et la liste des arrêtés ministériels enrichis."
+      description: "Nous avons pris soin d'isoler les différents composants du code source et de publier la donnée produite. Par exemple, une interface de visualistation des résultats de l'OCR, une surcouche de l'API Légifrance et la liste des arrêtés ministériels enrichis."
       url: https://github.com/envinorma
       call_to_action: Découvrir l'organisation github
   intro_videos:
