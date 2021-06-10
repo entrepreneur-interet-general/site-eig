@@ -46,8 +46,8 @@ L'application sera maintenue par une entité proche du Ministère.
 
 - Accélération significative du temps de préparation des inspections
 - Diminution du risque d'erreurs dû à la complexité des arrêtés ministériels
-- Possibilité de mise en œuvre d'autres projets à partir de cette première brique
 - Accès à la réglementation facilité aussi pour les exploitants et le grand public grâce à l'utilisation exclusive de données ouvertes
+- Possibilité de développement de nouveaux projets à partir de la première brique posée par le défi : mise en place d'un format simplifié pour les arrêtés préfectoraux, implémentation d'un outil d'aide à la rédaction de ces derniers, surveillance des prescriptions inspectées.
 
 <hr>
 
