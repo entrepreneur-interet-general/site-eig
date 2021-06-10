@@ -20,7 +20,7 @@ Une application réunit désormais tous les arrêtés, ministériels et préfect
 ### Mutualiser le travail d’interprétation de la réglementation
 
 Toutes les prescriptions d’un arrêté ministériel ne s’appliquent pas à une installation donnée. Ceci oblige chaque inspecteur à filtrer les textes pour ne garder que ce qui s’applique.
-Nous avons enrichi le format des arrêtés de façon à recueillir et conserver l’expertise des inspecteurs. Ce travail de transformation de la réglementation est désormais fait une seule fois.
+Nous avons transformé le format des arrêtés ministériels afin de recueillir et conserver l'expertise des inspecteurs sur les conditions d'applicabilité de chaque article. Ce travail d'enrichissement de la réglementation permet de constituer instantanément un recueil de prescriptions applicables pour une installation donnée.
 
 ### Faciliter la génération de fiche d’inspections
 
