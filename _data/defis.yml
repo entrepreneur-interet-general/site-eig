@@ -20,6 +20,13 @@
   key_figures:
     - amount: 1288
       description: "Déclarations d'Intérêts analysées en 2020"
+    - amount: 5
+      description: "Fois moins de temps pour extraire les informations nécessaire à une analyse des liens"
+    - amount: 20000000
+      description: "Lignes de Transparence Santé traitées quotidiennement"
+  # projects:
+  #   - title: "ADEX"
+  #     description: "L'outil ADEX se présente sous la forme d'une application web, permettant de retrouver au sein des données de Transparence Santé les informations relatives à un bénéficiaire grâce à une recherche assistée. Les résultats peuvent être exportés sous forme d'un tableur, facilitant ainsi le partage et l'enrichissement de l'analyse."
 
 "Atlas Culture":
   image: /img/eig4/atlas-culture.png
