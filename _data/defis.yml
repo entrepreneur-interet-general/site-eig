@@ -17,6 +17,9 @@
   mentors:
     - "Marie Simon"
     - "Franck Jolivaldt"
+  key_figures:
+    - amount: 1288
+      description: "Déclarations d'Intérêts analysées en 2020"
 
 "Atlas Culture":
   image: /img/eig4/atlas-culture.png
