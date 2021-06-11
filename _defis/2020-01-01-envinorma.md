@@ -15,7 +15,7 @@ L’enjeu est donc de regrouper, organiser et consolider les réglementations ap
 
 ### Rassembler la réglementation sur une seule interface
 
-Une application réunit désormais tous les arrêtés, ministériels et préfectoraux, applicables aux ICPE. Elle se base sur les données publiques décrivant les caractéristiques d'une installation et sur les sources de réglementation nationales et locales.
+Nous avons rassemblé sur un seul outil l’ensemble de la règlementation qui s’applique à un site industriel. Nous calculons automatiquement le lien entre les caractéristiques de l’installation et les textes règlementaires qui les encadrent. Le site est en accès libre car basé sur des données publiques ce qui permet de l'utiliser sans avoir besoin de se connecter et donc facilite l’accès à cette donnée.
 
 ### Mutualiser le travail d’interprétation de la réglementation
 

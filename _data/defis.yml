@@ -166,18 +166,18 @@
   website: https://envinorma.herokuapp.com
   projects:
     - image: img/realisations/2020/Envinorma_AppWeb_2020.png
-      title: "Application web"
-      description: "Nous avons créé une application à destination des 1500 inspecteurs de l'environnement. Elle automatise la compilation de la réglementation locale et nationale et permet de préparer des fiches d'inspection en quelques clics."
+      title: "Envinorma"
+      description: "Une application web qui automatise la compilation de la réglementation locale et nationale des sites industriels et permet de préparer des fiches d'inspection en quelques clics."
       url: https://envinorma.herokuapp.com
       call_to_action: "Découvrir l'application"
     - image: img/realisations/2020/Envinorma_BackOffice_2020.png
-      title: "Back office"
-      description: "Nous avons créé une interface de travail interne permettant de manipuler et enrichir la réglementation applicable au fur et à mesure de ses évolutions."
+      title: "Envinorma - Back office"
+      description: "Un interface de travail interne permettant de manipuler et enrichir la réglementation applicable pour être ensuite utilisée par l'application Envinorma."
       url: https://envinorma-back-office.herokuapp.com
       call_to_action: "Découvrir la réglementation"
     - image: img/realisations/2020/Envinorma_OpenSource_2020.png
       title: "Contributions open source et open data"
-      description: "Nous avons pris soin d'isoler les différents composants du code source et de publier la donnée produite. Par exemple, une interface de visualistation des résultats de l'OCR, une surcouche de l'API Légifrance et la liste des arrêtés ministériels enrichis."
+      description: "Publications des différents composants du code source et de la donnée produite : une interface de visualisation des résultats de l'OCR, une surcouche de l'API Légifrance et la liste des arrêtés ministériels enrichis."
       url: https://github.com/envinorma
       call_to_action: Découvrir l'organisation github
   intro_videos:
