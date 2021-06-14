@@ -23,7 +23,7 @@ La solution à créer permettra de :
 - **simplifier l’archivage pour les services producteurs de données**. L’outil rendra l’opération de versement des archives plus transparente, leur permettra de retrouver l’information plus facilement et allègera le contenu de leurs serveurs ;
 - **faciliter le travail des services d’archives**. L’outil leur permettra de mieux accompagner les services producteurs et de collecter des données non-structurées mais documentées à partir des informations transmises par les services administratifs sur leur activité et leurs documents.
 
-Pour ce faire, l’outil devra répondre à trois objectifs en permettant une entrée des données dans la solution logicielle [VITAM](www.programmevitam.fr/pages/presentation/) : 
+Pour ce faire, l’outil devra répondre à trois objectifs en permettant une entrée des données dans la solution logicielle [VITAM](https://www.programmevitam.fr/pages/presentation/) : 
 - s'intégrer dans la chaîne de production des archives ;
 - permettre la prise en charge de données non structurées mais documentées ;
 - et in fine permettre la conservation, la recherche, la communication et la réutilisation de ces données.
