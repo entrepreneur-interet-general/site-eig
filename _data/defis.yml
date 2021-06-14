@@ -376,6 +376,26 @@
     - "Dominique Boina"
     - "Damien Clément"
     - "Daniel Delalande"
+  key_figures:
+    - amount: 200000
+      before: "+"
+      description: "Écarts extraits et analysés"
+    - amount: 4000
+      description: "Lettres de suite annotées par des experts"
+    - amount: 30
+      after: "%"
+      description: "Des 320 inspecteurs ont utilisé l'outil"
+  projects:
+    - image: img/realisations/2021/SIANCE_recherche.png
+      title: "Portail SIANCE"
+      description: "Nous avons développé un portail interne dédié à la préparation et la conduite des inspections de l'ASN."
+      url: https://siance.asn.i2
+      call_to_action: "Visiter le portail"
+    - image: img/realisations/2021/SIANCE_swagger.png
+      title: "API SIANCE"
+      description: "Nous avons développé une API dédiée au partage de données avec l'institut expert collaborant avec l'ASN."
+      url: https://siance.asn.i2/api/docs
+      call_to_action: "Consulter la documentation"
 
 "SSP Datalab":
   image: /img/eig4/ssp-datalab.png
