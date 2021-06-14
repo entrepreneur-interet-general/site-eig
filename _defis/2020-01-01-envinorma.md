@@ -7,7 +7,7 @@ title: "EnviNorma"
 
 En raison des nuisances, des risques de pollutions ou encore des risques d’accidents, les sites industriels sont des installations classées pour la protection de l’environnement, ou ICPE. Ils sont donc soumis à une réglementation spécifique et sont contrôlés par des inspecteurs habilités. Au total, 1 619 inspections ont été réalisées en Île-de-France en 2020.
 
-Actuellement, chaque inspection commence par une phase de préparation manuelle, qui prend environ une demi-journée. Une partie de ce temps est consacrée à la compilation des différentes réglementations en vigueur : plusieurs arrêtés préfectoraux, le plus souvent au format pdf, auxquels s’ajoutent des réglementations nationales. Les supports à disposition sont multiples et rendent la tâche chronophage et complexe pour les inspecteurs.
+Actuellement, chaque inspection commence par une phase de préparation manuelle, qui prend environ une demi-journée. Une partie de ce temps est consacrée à la compilation des différentes réglementations en vigueur : plusieurs arrêtés préfectoraux, le plus souvent au format pdf, auxquels s’ajoutent les réglementations nationales, sous forme d'arrêtés ministériels. Les supports à disposition sont multiples et rendent la tâche chronophage et complexe pour les inspecteurs.
 
 L’enjeu est donc de regrouper, organiser et consolider les réglementations applicables à un site industriel qui doit être inspecté.
 
@@ -15,11 +15,14 @@ L’enjeu est donc de regrouper, organiser et consolider les réglementations ap
 
 ### Rassembler la réglementation sur une seule interface
 
-Nous avons rassemblé sur un seul outil l’ensemble de la règlementation qui s’applique à un site industriel. Nous calculons automatiquement le lien entre les caractéristiques de l’installation et les textes règlementaires qui les encadrent. Le site est en accès libre car basé sur des données publiques ce qui permet de l'utiliser sans avoir besoin de se connecter et donc facilite l’accès à cette donnée.
+Nous avons rassemblé sur un seul outil l’ensemble de la réglementation qui s’applique aux sites industriels. Cet outil calcule automatiquement le lien entre les caractéristiques d'une installation à inspecter et les textes réglementaires qui les encadrent. 
+
+Le site est en accès libre car basé sur des données publiques. Cela permet de l'utiliser sans avoir besoin de se connecter et facilite l’accès à cette donnée.
 
 ### Mutualiser le travail d’interprétation de la réglementation
 
 Toutes les prescriptions d’un arrêté ministériel ne s’appliquent pas à une installation donnée. Ceci oblige chaque inspecteur à filtrer les textes pour ne garder que ce qui s’applique.
+
 Nous avons transformé le format des arrêtés ministériels afin de recueillir et conserver l'expertise des inspecteurs sur les conditions d'applicabilité de chaque article. Ce travail d'enrichissement de la réglementation permet de constituer instantanément un recueil de prescriptions applicables pour une installation donnée.
 
 ### Faciliter la génération de fiche d’inspections
