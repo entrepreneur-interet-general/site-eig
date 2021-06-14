@@ -172,7 +172,7 @@
       call_to_action: "Découvrir l'application"
     - image: img/realisations/2020/Envinorma_BackOffice_2020.png
       title: "Envinorma - Back office"
-      description: "Un interface de travail interne permettant de manipuler et enrichir la réglementation applicable pour être ensuite utilisée par l'application Envinorma."
+      description: "Une interface de travail interne permettant de manipuler et enrichir la réglementation applicable pour être ensuite utilisée par l'application Envinorma."
       url: https://envinorma-back-office.herokuapp.com
       call_to_action: "Découvrir la réglementation"
     - image: img/realisations/2020/Envinorma_OpenSource_2020.png
