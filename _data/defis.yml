@@ -27,6 +27,7 @@
       description: "Déclarations sur Transparence Santé"
   projects:
     - title: "ADEX"
+      image: img/realisations/2020/adex_landing_page.png
       url: https://www.dailymotion.com/video/x81y9dm
       description: "L'outil ADEX se présente sous la forme d'une application web, permettant de retrouver au sein des données de Transparence Santé les informations relatives à un bénéficiaire grâce à une recherche assistée. Les résultats peuvent être exportés sous forme d'un tableur, facilitant ainsi le partage et l'enrichissement de l'analyse."
       call_to_action: "Voir la démo"
