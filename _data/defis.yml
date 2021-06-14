@@ -248,13 +248,15 @@
   title: Open Collectivités
   link_to: /defis/2020/open-collectivites.html
   skills: ["dev", "design"]
-  description: Simplifier l’accès aux informations financières et statistiques des collectivités locales
+  description: Simplifier l’accès aux informations et statistiques sur les collectivités locales
   year: 2020
   promotion: 4
   duration_months: 10
   ville: "Paris (75008)"
   administration: Direction générale des collectivités locales
   administration_website: https://www.collectivites-locales.gouv.fr
+  source_code: https://github.com/entrepreneur-interet-general/opencollectivites
+  website: https://www.open-collectivites.fr/
   eigs:
     - "Élodie Delaisement"
     - "Sylvain Boissel"
@@ -262,6 +264,34 @@
     - "Luc Brière"
     - "Raphaël Bévenot"
     - "Stéphane Brunot"
+  key_figures:
+    - amount: 32
+      description: "sources de statistiques locales rassemblées"
+    - amount: 798
+      description: "publications statistiques sélectionnées"
+    - amount: 36341
+      description: "fiches synthétiques sur les collectivités territoriales"
+  projects:
+    - image: img/realisations/2021/OpenCollectivites_Accueil_2021.jpg
+      title: "Fiches synthétiques téléchargeables"
+      description: "Trouver les chiffres-clés sur une collectivité donnée, la comparer à d’autres et télécharger les données au format csv."
+      url: https://www.open-collectivites.fr/
+      call_to_action: "Trouver une collectivité"
+    - image: img/realisations/2021/OpenCollectivites_Publications_2021.jpg
+      title: "Bibliothèque des publications statistiques locales"
+      description: "Nous avons rassemblé et sélectionné les publications statistiques portant sur les collectivités locales. Culture, développement durable, finances, santé et social... Certains jeux de données et outils particulièrement utiles ont également été mis en avant par l'équipe."
+      url: https://www.open-collectivites.fr/publications
+      call_to_action: "Trouver une publication"
+    - image: img/realisations/2021/OpenCollectivites_RechercheUsagers_2021.jpg
+      title: "Recherche usagers"
+      description: "Nous avons mené une recherche auprès des agents des collectivités locales afin de valider les besoins auxquels Open Collectivités répond. Les directrices et directeurs financiers des départements nous ont répondu."
+      url: /docs/EIG4_livrables/OpenCollectivites_RechercheUsagers_022021.pdf
+      call_to_action: "Voir le compte-rendu de recherche"
+    - image: img/realisations/2021/OpenCollectivites_Github_2021.jpg
+      title: "Code source ouvert"
+      description: "Afin de faciliter la maintenance et la réutilisation du code, il est intégralement publié en open source."
+      url: https://github.com/entrepreneur-interet-general/opencollectivites
+      call_to_action: "Explorer le code"
 
 "Opérations 18":
   image: /img/eig4/operations-18.png
