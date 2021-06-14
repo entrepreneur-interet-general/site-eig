@@ -89,7 +89,21 @@ layout: default
         <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Postuler
       </a>
       {% endif %}
+      
+      {% if defi_data.intro_videos %}
+        <h2>Vidéo de présentation</h2>
+        {% for video in defi_data.intro_videos %}
+        {% if video.platform == 'dailymotion' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe class="responsive-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% else video.platform == 'loom' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe width="640" height="360" src="https://www.loom.com/embed/{{ video.id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        {% endif %}
+        {% endfor %}
+      {% else %}
       <div class="two spacing"></div>
+      {% endif %}
 
       {{ content }}
 
@@ -162,6 +176,9 @@ layout: default
         {% if video.platform == 'dailymotion' and video.show %}
         <p>{{ video.description }}</p>
         <iframe class="responsive-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% else video.platform == 'loom' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe width="640" height="360" src="https://www.loom.com/embed/{{ video.id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         {% endif %}
       {% endfor %}
     </div>
