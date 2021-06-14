@@ -249,31 +249,6 @@
     - "Céline Guillou"
     - "Célia d'Hervé"
     - "Thierry Coquil"
-  key_figures:
-    - amount: 965
-      description: "Zones réglementées cartographiées et mises en open data"
-    - amount: 7
-      description: "Sources de données intégrées en un seul outil"
-    - amount: 176535
-      description: "Jours de mer supervisés chaque année"
-    - amount: 4
-      description: "Mois d'utilisation en production après 6 mois de développement"
-  projects:
-    - image: img/realisations/2020/Monitorfish_map.jpg
-      title: "Outil de coordination du contrôle des pêches"
-      description: "Pour faciliter la coordination des contrôles des pêches, nous avons développé un outil qui intègre toutes les données pertinentes (positions de navires, réglementation, déclarations d'activité...) et qui apporte aux agents une aide à la décision."
-      url: https://github.com/MTES-MCT/monitorfish
-      call_to_action: "Explorer le code"
-    - image: img/realisations/2020/Monitorfish_geocoded_ports.jpg
-      title: "Liste des ports du monde avec position (géocodée)"
-      description: "Nous avons géocodé une liste publique de ports pour l'enrichir avec des données de position. Ce référentiel est utilisé pour plusieurs traitements de données."
-      url: https://www.data.gouv.fr/fr/datasets/liste-des-ports-du-systeme-ers-avec-donnees-de-position/
-      call_to_action: "Explorer les données"
-    - image: img/realisations/2020/Monitorfish_regulated_areas.jpg
-      title: "Réglementation des pêches cartographiée"
-      description: "Nous avons tracé les 965 zones de pêche réglementées pour faciliter l'interprétation et la mise en application opérationnelle de la réglementation."
-      url: https://www.data.gouv.fr/fr/datasets/reglementation-des-peches-cartographiee/
-      call_to_action: "Explorer les données"
 
 "NEOTac":
   image: /img/eig4/neotac.png
