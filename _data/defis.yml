@@ -170,6 +170,8 @@
   ville: "La Défense (92400)"
   administration: Commissariat général au développement durable
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  source_code: https://github.com/ecolabdata/france-transition
+  website: https://mission-transition.beta.gouv.fr
   eigs:
     - "Cédric Merouani"
     - "Nadim Bel Lallahom"
@@ -178,6 +180,46 @@
     - "Grégory Grellet"
     - "Hélène Costa"
     - "Thomas Lesueur"
+  key_figures:
+    - amount: 60
+      description: "heures de recherche"
+    - amount: 18
+      description: "tests usagers réalisés"
+    - amount: 365
+      description: "aides recensées"
+    - amount: 80
+      description: "ressources premier pas"
+  projects:
+    - image: img/realisations/2020/france-transition_aides-territoires.JPG
+      title: "Preuve de concept"
+      description: "Avec l'aide de la startup d'Etat Aides-Territoires, nous avons mis en place une preuve de concept (POC) pour tester notre promesse de valeur sous forme de guichet unique."
+      url: https://france-transition-ecologique.aides-territoires.beta.gouv.fr/
+      call_to_action: "Explorer le POC"
+    - image: img/realisations/2020/france-transition_v1.JPG
+      title: "Première version"
+      description: "Suite à notre phase de recherche, nous avons mis en production une première version de la plateforme Mission Transition."
+      url: https://mission-transition.beta.gouv.fr
+      call_to_action: "Voir le site"
+    - image: img/realisations/2020/france-transition_source_code.png
+      title: "Code source"
+      description: "Le code Source de Mission Transition est disponible publiquement sur Github"
+      url: https://github.com/ecolabdata/france-transition
+      call_to_action: "Explorer le code source"
+    - image: img/realisations/2020/france-transition_kantar.png
+      title: "Rapport d'étude : Kantar"
+      description: "Dans le cadre de notre recherche utilisateur, nous avons demandé à l'entreprise Kantar de réalisé une étude sur les PME/ETI et leurs rapports aux aides publiques"
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/france-transition-kantar-2020.pdf
+      call_to_action: "Découvrir le rapport Kantar"
+    - image: img/realisations/2020/france-transition_presentation_investigation.png
+      title: "Présentation d'investigation utilisateur"
+      description: "Vous retrouverez dans ce document un compte rendu des points compréhension retenus lors de notre premiere phase de recherche utilisateur."
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/fte-eig-presentation-investigation.pptx
+      call_to_action: "Lire le compte rendu"
+    - image: img/realisations/2020/france-transition_user-tests-v1.png
+      title: "Tests utilisateurs de Mission Transition v1"
+      description: "Le déploiement de la première version de la plateforme nous a permis de la tester auprès de quelques entreprises lors d'entretiens qualitatifs de 45 minutes."
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/user-tests-v1-2021.pdf
+      call_to_action: "Accéder au rapport anonymisé"
 
 "LABEL":
   image: /img/eig4/label.png
