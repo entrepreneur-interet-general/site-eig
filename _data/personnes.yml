@@ -1620,6 +1620,25 @@ Evelyne Vezinet:
   twitter:
   website:
 
+Fabrice Blanc:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - NEOTac
+  github:
+  gitlab:
+  image_url: /img/communaute/fabrice-blanc.png
+  link_to: /communaute/2020/fabrice-blanc.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Fabrice Blanc
+  twitter:
+  website:
+
 Flavien Colsenet:
   annees:
   - 2019
@@ -1732,25 +1751,6 @@ Franck Jolivaldt:
   profil: Mentor
   programme: EIG
   title: Franck Jolivaldt
-  twitter:
-  website:
-
-Franck Moinardeau:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - NEOTac
-  github:
-  gitlab:
-  image_url: /img/communaute/franck-moinardeau.png
-  link_to: /communaute/2020/franck-moinardeau.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Franck Moinardeau
   twitter:
   website:
 
@@ -4970,25 +4970,6 @@ Viktor Jarry:
   profil: Data scientist
   programme: EIG
   title: Viktor Jarry
-  twitter:
-  website:
-
-Vincent Barbey:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - NEOTac
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/vincent-barbey.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Vincent Barbey
   twitter:
   website:
 
