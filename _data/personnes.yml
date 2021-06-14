@@ -3929,7 +3929,9 @@ Pierre-Alain Jachiet:
   website:
 
 # Pierre-Alain Jachiet comme mentor
-Pierre-Alain Jachiet (mentor):
+# On a remplacé le tiret court par un tiret moyen
+# – vs -
+Pierre–Alain Jachiet:
   annees:
   - 2020
   class:
