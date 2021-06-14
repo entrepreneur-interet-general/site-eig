@@ -3928,6 +3928,27 @@ Pierre-Alain Jachiet:
   twitter: pa_jachiet
   website:
 
+# Pierre-Alain Jachiet comme mentor
+Pierre-Alain Jachiet (mentor):
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - ADEX
+  github: pajachiet
+  gitlab:
+  image_url: /img/communaute/pierre-alain-jachiet.png
+  link_to: /communaute/2019/pierre-alain-jachiet.html
+  linkedin: https://www.linkedin.com/in/pierrealainjachiet/
+  profil: Mentor
+  programme: EIG
+  title: Pierre-Alain Jachiet
+  twitter: pa_jachiet
+  website:
+
+
 Pierre Dubreuil:
   annees:
   - 2019
