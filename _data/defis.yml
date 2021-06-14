@@ -157,6 +157,34 @@
   mentors:
     - "Alexandre Leonardi"
     - "Cédric Bourillet"
+  key_figures:
+    - amount: 207
+      description: "Arrêtés ministériels ICPE enrichis des conditions d'application"
+    - amount: 70000
+      description: "Arrêtés préfectoraux transformés par OCR et associées aux 50 000 ICPE disponibles"
+  source_code: https://github.com/envinorma
+  website: https://envinorma.herokuapp.com
+  projects:
+    - image: img/realisations/2020/Envinorma_AppWeb_2020.png
+      title: "Envinorma"
+      description: "Une application web qui automatise la compilation de la réglementation locale et nationale des sites industriels et permet de préparer des fiches d'inspection en quelques clics."
+      url: https://envinorma.herokuapp.com
+      call_to_action: "Découvrir l'application"
+    - image: img/realisations/2020/Envinorma_BackOffice_2020.png
+      title: "Envinorma - Back office"
+      description: "Une interface de travail interne permettant de manipuler et enrichir la réglementation applicable pour être ensuite utilisée par l'application Envinorma."
+      url: https://envinorma-back-office.herokuapp.com
+      call_to_action: "Découvrir la réglementation"
+    - image: img/realisations/2020/Envinorma_OpenSource_2020.png
+      title: "Contributions open source et open data"
+      description: "Publications des différents composants du code source et de la donnée produite : une interface de visualisation des résultats de l'OCR, une surcouche de l'API Légifrance et la liste des arrêtés ministériels enrichis."
+      url: https://github.com/envinorma
+      call_to_action: Découvrir l'organisation github
+  intro_videos:
+    - id: 41d0e1bc23bb489495a58b323fae0348
+      platform: loom
+      description: "Contexte et présentation de l'outil"
+      show: true
 
 "France Transition":
   image: /img/eig4/france-transition.png
@@ -233,6 +261,31 @@
     - "Céline Guillou"
     - "Célia d'Hervé"
     - "Thierry Coquil"
+  key_figures:
+    - amount: 965
+      description: "Zones réglementées cartographiées et mises en open data"
+    - amount: 7
+      description: "Sources de données intégrées en un seul outil"
+    - amount: 176535
+      description: "Jours de mer supervisés chaque année"
+    - amount: 4
+      description: "Mois d'utilisation en production après 6 mois de développement"
+  projects:
+    - image: img/realisations/2020/Monitorfish_map.jpg
+      title: "Outil de coordination du contrôle des pêches"
+      description: "Pour faciliter la coordination des contrôles des pêches, nous avons développé un outil qui intègre toutes les données pertinentes (positions de navires, réglementation, déclarations d'activité...) et qui apporte aux agents une aide à la décision."
+      url: https://github.com/MTES-MCT/monitorfish
+      call_to_action: "Explorer le code"
+    - image: img/realisations/2020/Monitorfish_geocoded_ports.jpg
+      title: "Liste des ports du monde avec position (géocodée)"
+      description: "Nous avons géocodé une liste publique de ports pour l'enrichir avec des données de position. Ce référentiel est utilisé pour plusieurs traitements de données."
+      url: https://www.data.gouv.fr/fr/datasets/liste-des-ports-du-systeme-ers-avec-donnees-de-position/
+      call_to_action: "Explorer les données"
+    - image: img/realisations/2020/Monitorfish_regulated_areas.jpg
+      title: "Réglementation des pêches cartographiée"
+      description: "Nous avons tracé les 965 zones de pêche réglementées pour faciliter l'interprétation et la mise en application opérationnelle de la réglementation."
+      url: https://www.data.gouv.fr/fr/datasets/reglementation-des-peches-cartographiee/
+      call_to_action: "Explorer les données"
 
 "NEOTac":
   image: /img/eig4/neotac.png
