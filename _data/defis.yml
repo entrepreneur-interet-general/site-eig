@@ -274,6 +274,11 @@
       description: "Nous avons tracé les 965 zones de pêche réglementées pour faciliter l'interprétation et la mise en application opérationnelle de la réglementation."
       url: https://www.data.gouv.fr/fr/datasets/reglementation-des-peches-cartographiee/
       call_to_action: "Explorer les données"
+    - image: img/realisations/2020/Monitorfish_carnet_immersion.png
+      title: "Diagnostic initial"
+      description: "À notre arrivée au CNSP, nous avons mené une série d'interviews et d'observations de terrain afin de comprendre les rôles et missions de chacun, identifier les difficultés rencontrées, et cerner les premiers points d'améliorations possibles. Nous avons synthétisé ce diagnostic dans un carnet d'immersion, qui nous a servi de base pour définir et prioriser les fonctionnalités-clés de MonitorFish."
+      url: https://github.com/entrepreneur-interet-general/site-eig/files/6075007/MonitorFish_Carnet_immersion_extraits.pdf
+      call_to_action: "Lire le carnet d'immersion"
 
 "NEOTac":
   image: /img/eig4/neotac.png
