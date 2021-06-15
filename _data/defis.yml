@@ -432,6 +432,7 @@
   image: /img/eig4/operations-18.png
   title: Opérations 18
   link_to: /defis/2020/operations-18.html
+  source_code: https://gitlab.com/op18-enki/cosmic-sapeurs
   skills: ["dev", "dataengineering", "datascience"]
   description: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers
   year: 2020
@@ -448,6 +449,13 @@
     - "Denis Daviau"
     - "Stéphane Tollemer"
     - "Thibaud Weinachter"
+  key_figures:
+    - amount: 500000
+      description: "Interventions par an sur le terrain"
+    - amount: 30
+      description: "Évenements gérés par minute"
+    - amount: 250
+      description: "Tests automatisés de l'application"
 
 "SEDAccord":
   image: /img/eig4/sedaccord.png
