@@ -1,6 +1,7 @@
 "ADEX":
   image: /img/eig4/adex.png
   title: ADEX
+  source_code: https://gitlab.com/has-sante/adex
   link_to: /defis/2020/adex.html
   skills: ["dev", "design", "datascience"]
   description: Prévenir les conflits d'intérêts dans le domaine médical
