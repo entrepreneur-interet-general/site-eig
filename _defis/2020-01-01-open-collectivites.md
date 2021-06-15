@@ -23,11 +23,11 @@ Open Collectivité s’adresse à deux publics :
 
 ### La solution retenue repose sur deux briques :
 
-* Brique 1 : des fiches synthétiques présentant les données-clés pour chaque collectivité (ville, EPCI, département, région)
+- **Brique 1 : des fiches synthétiques présentant les données-clés pour chaque collectivité (ville, EPCI, département, région)**
 Open Collectivités récupère des données socio-économiques et de dotations sur les collectivités depuis la [base ASPIC](https://www.data.gouv.fr/fr/datasets/les-donnees-contextuelles-des-intercommunalites-et-autres-structures-territoriales/) (partiellement exposée sur le site BANATIC). Ces données sont présentées sous forme de « fiches » pour chaque commune et EPCI. Les départements et régions auront bientôt leurs fiches également.
 Les usagers peuvent également comparer jusqu'à 4 collectivités entre elles et exporter la sélection en CSV.
 
-* Brique 2 : une bibliothèque des publications statistiques, jeux de données et outils sur les collectivités territoriales
+- **Brique 2 : une bibliothèque des publications statistiques, jeux de données et outils sur les collectivités territoriales**
 Open Collectivités rassemble les publications des services statistiques ministériels via les flux RSS des services statistiques qui en disposent. Les usagers peuvent utiliser divers filtres croisés (thématique, type de collectivité, type de ressource, auteur, date de publication) pour trouver précisément les publications qui les intéressent.
 
 ### Publications ou open data ?
