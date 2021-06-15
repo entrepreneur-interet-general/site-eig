@@ -202,17 +202,17 @@
       call_to_action: "Voir le site"
     - image: img/realisations/2020/france-transition_source_code.png
       title: "Code source"
-      description: "Le code Source de Mission Transition est disponible publiquement sur Github"
+      description: "Le code source de Mission Transition est disponible publiquement sur Github."
       url: https://github.com/ecolabdata/france-transition
       call_to_action: "Explorer le code source"
     - image: img/realisations/2020/france-transition_kantar.png
       title: "Rapport d'étude : Kantar"
-      description: "Dans le cadre de notre recherche utilisateur, nous avons demandé à l'entreprise Kantar de réalisé une étude sur les PME/ETI et leurs rapports aux aides publiques"
+      description: "Dans le cadre de notre recherche utilisateur, nous avons demandé à l'entreprise Kantar de réaliser une étude sur les PME/ETI et leurs rapports aux aides publiques."
       url: https://github.com/ecolabdata/france-transition/raw/master/documentation/france-transition-kantar-2020.pdf
       call_to_action: "Découvrir le rapport Kantar"
     - image: img/realisations/2020/france-transition_presentation_investigation.png
       title: "Présentation d'investigation utilisateur"
-      description: "Vous retrouverez dans ce document un compte rendu des points compréhension retenus lors de notre premiere phase de recherche utilisateur."
+      description: "Ce document rend compte des points de compréhension retenus lors de notre première phase de recherche utilisateur."
       url: https://github.com/ecolabdata/france-transition/raw/master/documentation/fte-eig-presentation-investigation.pptx
       call_to_action: "Lire le compte rendu"
     - image: img/realisations/2020/france-transition_user-tests-v1.png
