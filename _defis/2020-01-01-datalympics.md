@@ -14,7 +14,7 @@ Il s’agit dès lors de répondre à un enjeu fort de mise à disposition des d
 
 Le défi consiste en la création d’une base de données qui permettra le contrôle de l’emploi des fonds publics et le suivi de l’évolution de la commande publique pour les JOP 2024. Elle servira notamment à la direction du Budget, au Parlement, à la Cour des comptes et aux institutions organisatrices des Jeux. 
 
-Le défi comporte plusieurs enjeux techniques : 
+Le défi comporte plusieurs enjeux : 
 - la documentation d’un schéma de données ;
 - la prise en compte de données de différents types et natures, produites en masse par diverses administrations ;
 - la constitution d’un jeu de données requêtable ;
