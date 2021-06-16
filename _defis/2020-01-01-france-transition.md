@@ -3,29 +3,24 @@ layout: defi
 title: "France Transition"
 ---
 
-Dans le cadre de l’initiative du Gouvernement « France Transition Écologique », qui vise à accélérer le financement de projets liés à la transition écologique et énergétique, le Conseil de défense écologique souhaite développer une plateforme unique recensant les aides publiques à destination des particuliers, entreprises et collectivités.
+## La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d'accès.
 
-## La problématique : des aides publiques à la transition écologique et énergétique nombreuses mais méconnues et dispersées sur différentes plateformes
+Selon l’étude « Les Dirigeants de PME-ETI face à l’urgence climatique » de Bpifrance, 80% des dirigeants de PME et ETI ont conscience de l’urgence climatique mais seulement 13% déclarent pouvoir réduire « de manière importante » leurs émissions carbone dans les 5 prochaines années.
 
-Aujourd’hui, l’offre publique en matière de soutien à la transition écologique et énergétique (TEE) est dense, mais très peu connue du grand public, des entreprises et des collectivités. Par exemple, selon une étude Opinion Way, 64% des Français ne seraient pas en mesure de citer une aide financière permettant de réaliser des travaux de rénovation énergétique.
+Notre investigation a permis de distinguer deux catégories de dirigeants qui rencontrent, chacune, des freins propres :
 
-Ces aides sont portées par différentes organisations publiques : ministères, opérateurs, agences nationales et régionales, banques publiques, chambres de commerce et d’industrie (CCI). Les informations se retrouvent alors dispersées sur les plateformes de ces organisations : la base de données du Gouvernement sur les aides publiques aux entreprises, le site d’information des CCI sur les aides aux entreprises, le site de la Banque des Territoires, le site de l’agence de l’environnement et de maîtrise de l’énergie (ADEME), le site de Bpifrance, ou encore le site du ministère de la Transition écologique (MTE).
+1. Les dirigeants qui ne savent pas quelles actions engager : pour ces premiers, le principal frein à l’action est le manque d’informations et de temps à y consacrer. Contrairement aux grandes entreprises, les PME-ETI n’ont pas encore d’obligations légales et de personnes dédiées à ces sujets. La transition écologique et énergétique (TEE) est parfois percue par certains dirigeants comme nécessaire à long-terme mais coûteuse et ainsi non prioritaire à court-terme. A défaut d’une vision claire des opportunités et des risques, ils ne savent pas quelles actions engager.
+2. Les dirigeants qui ne parviennent pas à mettre en œuvre leurs projets : pour ces seconds, minoritaires, la difficulté n’est pas d’identifier des actions et des projets mais de les mettre en œuvre et de les financer.
 
-Chacune de ces organisations propose une multitude de dispositifs d’aide en fonction des situations de chacun, mais aucun acteur n’est en mesure de voir l’ensemble des dispositifs disponibles adaptés à ses besoins.
+## Notre solution : la plateforme "Mission Transition"
 
-## Le défi : développer une plateforme unique pour faciliter l’accès aux aides publiques à la transition écologique et énergétique
+L’objectif de la plateforme Mission Transition est de motiver les entreprises à initier leur transition et de leur faciliter l’accès aux aides. En améliorant l’efficience des aides, Mission Transition a pour ambition d’améliorer l’efficacité et l’impact des futures politiques publiques de soutien à la TEE.
 
-Le défi consiste en la création d’une plateforme unique qui recense l’ensemble de l’offre publique française en matière d’aides à la TEE.
+1. Faciliter la visibilité et l’accès au financement public pour la transition écologique :
+    - **un moteur de recherche qui recense l’ensemble des aides publiques à la transition écologique**, triées par besoin entreprise plutôt que par expertise métier ;
+    - **des packs thématiques** pour offrir un accès facilité aux financements, par degré d’avancement dans la transition écologique de son entreprise ou par thématique adressée.
+2. Accompagner les entreprises dans la définition de leur projet écologique :
+    - **une page de sensibilisation** aux thématiques de la transition écologique ;
+    - une mise en avant **des outils et informations pratiques** des partenaires sur la transition écologique (fiches d’information ADEME, outils BPI, outils gratuits d’autres organisations).
 
-L’enjeu est de faire connaître les dispositifs de financement, de faciliter l’accompagnement des particuliers, entreprises et collectivités locales dans leurs projets en faveur de la transition énergétique et écologique et d’augmenter les flux d’investissements dans la TEE
-
-Cette plateforme permettra :
-- d’**apporter une plus grande visibilité et lisibilité** de l’offre ;
-- de **mobiliser plus facilement les aides** grâce à la possibilité de déposer des demandes ;
-- d’avoir un **accompagnement personnalisé** pour les porteurs de projet grâce à un outil de gestion intégré des dossiers.
-
-D’un point de vue technique la solution devra :
-- simplifier et fluidifier le parcours d’aide grâce à une plateforme pensée utilisateur ;
-- s’inscrire dans une démarche de sobriété numérique.
-
-_Ce défi sera réalisé en collaboration avec les équipes de l'Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique._
+_Ce défi est réalisé en collaboration avec les équipes de l'Ecolab du Commissariat général au développement durable et de la [Fabrique Numérique](https://beta.gouv.fr/incubateurs/mtes.html) du Ministère de la Transition écologique._
