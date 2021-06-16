@@ -390,12 +390,12 @@
       title: "Portail SIANCE"
       description: "Nous avons développé un portail interne dédié à la préparation et la conduite des inspections de l'ASN."
       url: https://siance.asn.i2
-      call_to_action: "Visiter le portail"
+      call_to_action: "Lien disponible prochainement"
     - image: img/realisations/2020/SIANCE_swagger_2020.png
       title: "API SIANCE"
       description: "Nous avons développé une API dédiée au partage de données avec l'institut expert collaborant avec l'ASN."
       url: https://siance.asn.i2/api/docs
-      call_to_action: "Consulter la documentation"
+      call_to_action: "Lien disponible prochainement"
 
 "SSP Datalab":
   image: /img/eig4/ssp-datalab.png
