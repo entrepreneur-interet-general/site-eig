@@ -200,15 +200,13 @@
     - "Claire Herbin"
     - "Jean-Michel Sommer"
   key_figures:
-    - amount: 60
-      description: "Décisions de justice anonymisées par jour et par personne en moyenne"
-    - amount: 5
-      description: "Minutes de traitement pour une décision en moyenne"
-    - amount: 4
-      description: "/5 en moyenne de satisfaction sur l'outil LABEL, contre 2.5 sur le précédent outil"
+    - amount: 30
+      description: "% de gain de temps en moyenne sur le traitement d'une décision"
+    - amount: 21600
+      description: "décisions traitées par les agents en 2 mois d'utilisation"
   source_code: https://github.com/Cour-de-cassation/label
   projects:
-    - image: img/realisations/2021/Découpage_code_label.png
+    - image: img/realisations/2020/Découpage_code_label.png
       title: "Conception orientée réutilisation"
       description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus générique."
 
