@@ -1,6 +1,7 @@
 "ADEX":
   image: /img/eig4/adex.png
   title: ADEX
+  source_code: https://gitlab.com/has-sante/adex
   link_to: /defis/2020/adex.html
   skills: ["dev", "design", "datascience"]
   description: Prévenir les conflits d'intérêts dans le domaine médical
@@ -17,6 +18,20 @@
   mentors:
     - "Marie Simon"
     - "Franck Jolivaldt"
+    - "Pierre–Alain Jachiet"
+  key_figures:
+    - amount: 1288
+      description: "Déclarations d'intérêts analysées en 2020"
+    - amount: 30
+      description: "Minutes gagnées par expert analysé"
+    - amount: 20000000
+      description: "Déclarations de Transparence Santé analysées quotidiennement"
+  projects:
+    - title: "ADEX"
+      image: img/realisations/2020/adex_landing_page.png
+      url: https://www.dailymotion.com/video/x81y9dm
+      description: "L'outil ADEX se présente sous la forme d'une application web, permettant de retrouver au sein des données de Transparence Santé les informations relatives à un bénéficiaire grâce à une recherche assistée. Les résultats peuvent être exportés sous forme d'un tableur, facilitant ainsi le partage et l'enrichissement de l'analyse."
+      call_to_action: "Voir la démo"
 
 "Atlas Culture":
   image: /img/eig4/atlas-culture.png
