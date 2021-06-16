@@ -79,7 +79,20 @@
     - "Nicolas Singellos"
     - "Laurence Denis"
     - "Yves Le Nozahic"
-
+  key_figures:
+    - amount: 20
+      description: "Agents instructeurs mobilisés dans la démarche de conception"
+    - amount: 4
+      description: "Sources de données utilisées pour l'automatisation"
+    - amount: 2
+      description: "Titres simples inclus dans la première version du produit"
+  projects:
+    - image: img/realisations/2020/CapQualif_Screenshots_2020.png
+      title: "Capqualif"
+      description: "Une application web pour simplifier la délivrance de titres de formation aux marins professionnels."
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ3x2tl2AfJkpR7vsf74Wf_DF3fhyfXUgFHviKxOlUfzo8sdM_m83Ay3dmTJJxdkjJia2n7s6w7MKkj/pub?start=false&loop=false&delayms=3000
+      call_to_action: "Découvrir l'application"
+      
 "Datalympics":
   image: /img/eig4/datalympics.png
   title: Datalympics
