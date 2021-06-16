@@ -380,8 +380,8 @@
     - amount: 200000
       before: "+"
       description: "Écarts extraits et analysés"
-    - amount: 4000
-      description: "Lettres de suite annotées par des experts"
+    - amount: 3
+      description: "Référentiels métiers consolidés sur 20ans de données"
     - amount: 30
       after: "%"
       description: "Des 320 inspecteurs ont utilisé l'outil"
