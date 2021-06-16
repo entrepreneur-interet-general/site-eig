@@ -104,9 +104,9 @@
     - amount: 64
       description: "Intervenants sollicités dont des agents, patients et médecins"
     - amount: 15393
-      description: "Spécialités de médicaments enregistrés sur la plateforme"
+      description: "Spécialités de médicaments enregistrées sur la plateforme"
     - amount: 6
-      description: "Bases de données aggrégées en un seul endroit"
+      description: "Bases de données agrégées en un seul endroit"
 
 "EIG Link 2020":
   image: /img/eig4/eig-link.png
