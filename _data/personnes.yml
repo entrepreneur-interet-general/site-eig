@@ -1601,24 +1601,6 @@ Estelle Jond-Necand:
   twitter: EtienneDavid
   website:
 
-Evelyne Duplessis:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - DataMed
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/evelyne-duplessis.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Evelyne Duplessis
-  twitter:
-  website:
 
 Evelyne Vezinet:
   annees:
@@ -3374,7 +3356,7 @@ Mehdi Benkebil:
   - DataMed
   github:
   gitlab:
-  image_url: /img/communaute/mehdi-benkebil.png
+  image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/mehdi-benkebil.html
   linkedin: https://www.linkedin.com/in/mbenkebil/
   profil: Mentor
