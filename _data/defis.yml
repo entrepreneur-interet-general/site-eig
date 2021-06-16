@@ -38,7 +38,7 @@
   title: Atlas Culture
   link_to: /defis/2020/atlas-culture.html
   skills: ["dev", "design"]
-  description: Visualiser les politiques culturelles territoriales
+  description: Comprendre les dynamiques culturelles territoriales
   year: 2020
   promotion: 4
   duration_months: 10
@@ -54,11 +54,11 @@
     - "Loup Wolff"
   key_figures:
     - amount: 100
-      description: "variables soit plus de 100.000 données issues de 15 sources différentes pour la version beta"
+      description: "variables soit plus de 100.000 données pour la version beta"
     - amount: 40
       description: "futurs usagers impliqués dans le cadre d’entretiens ou de tests du prototype"
     - amount: 10
-      description: "ateliers de co-conception avec les chargés d’étude du service statistique ministériel"
+      description: "ateliers de co-conception avec les chargés d’étude du ministère"
 
 "CapQualif":
   image: /img/eig4/capqualif.png
@@ -79,7 +79,20 @@
     - "Nicolas Singellos"
     - "Laurence Denis"
     - "Yves Le Nozahic"
-
+  key_figures:
+    - amount: 20
+      description: "Agents instructeurs mobilisés dans la démarche de conception"
+    - amount: 4
+      description: "Sources de données utilisées pour l'automatisation"
+    - amount: 2
+      description: "Titres simples inclus dans la première version du produit"
+  projects:
+    - image: img/realisations/2020/CapQualif_Screenshots_2020.png
+      title: "Capqualif"
+      description: "Une application web pour simplifier la délivrance de titres de formation aux marins professionnels."
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ3x2tl2AfJkpR7vsf74Wf_DF3fhyfXUgFHviKxOlUfzo8sdM_m83Ay3dmTJJxdkjJia2n7s6w7MKkj/pub?start=false&loop=false&delayms=3000
+      call_to_action: "Découvrir l'application"
+      
 "Datalympics":
   image: /img/eig4/datalympics.png
   title: Datalympics
