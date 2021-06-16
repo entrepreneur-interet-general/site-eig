@@ -3,7 +3,7 @@ layout: defi
 title: "Atlas Culture"
 ---
 
-# La problématique : des données denses et peu maniables relatives aux dynamiques culturelles territoriales
+## La problématique : des données denses et peu maniables relatives aux dynamiques culturelles territoriales
 
 L’Atlas Culture, c’est depuis 2017 une **publication de 250 pages** réalisée par le Département des études, de la prospective et des statistiques (Deps) du ministère de la Culture afin d’offrir une vision globale des dynamiques culturelles à l’échelle régionale.
 
@@ -12,7 +12,7 @@ L’initiative de développer **un outil numérique** répond à plusieurs besoi
 - améliorer la lisibilité des données grâce à la visualisation (carte, graphiques, tableaux) et aux éléments de définition et d’analyse ;
 - permettre le croisement et l'articulation d'un plus grand nombre de données pour enrichir l'analyse des dynamiques territoriales.
 
-# La solution proposée : un atlas numérique interactif
+## La solution proposée : un atlas numérique interactif
 
 _L’Atlas Culture des territoires_ a vocation à **partager la connaissance de la vie culturelle** en France : lieux et offre, dépenses publiques, politiques publiques, entreprises et emploi.
 
@@ -36,7 +36,7 @@ Librement accessible en ligne, cet atlas s’inscrit dans une démarche de **tra
 
 Notre équipe pluridisciplinaire EIG-Deps est en lien constant avec une communauté de futurs usagers et travaille en amélioration continue dans la perspective de proposer une solution qui aura la plus grande utilité et la meilleure expérience possible. Cela en parallèle d’une vision de long terme « fil rouge » de l’atlas : une ressource de référence pour les données publiques relatives à la culture.
 
-# La suite du défi
+## Suite du défi
 
 La mission des EIG est prolongée de juillet à décembre 2021 avec au programme :
 - la mise en ligne de la version beta pendant l'été et un tour de France de présentation à la rentrée ;
