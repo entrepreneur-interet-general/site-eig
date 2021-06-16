@@ -89,6 +89,8 @@
   ville: "Saint-Denis (93200)"
   administration: Agence nationale de sécurité des médicaments et des produits de santé
   administration_website: https://ansm.sante.fr
+  source_code: https://github.com/entrepreneur-interet-general/datamed
+
   eigs:
     - "Joëlle Chong"
     - "Line Rahal"
