@@ -294,8 +294,9 @@
   promotion: 4
   duration_months: 10
   ville: "Paris"
-  administration: Programme interministériel d'archivage numérique
+  administration: Programme VITAM - Programme interministériel d'archivage numérique
   administration_website: https://www.programmevitam.fr
+  source_code: https://github.com/hjonin/sedaccord-app
   eigs:
     - "Hélène Jonin"
     - "Salim Atmani"
@@ -307,18 +308,28 @@
     - amount: 120
       description: "Participants et utilisateurs enthousiastes lors de la présentation finale"
     - amount: 99000
-      description: "€ de financement pour l’industrialisation du prototype (plan de relance)"
+      description: "euros de financement pour l’industrialisation du prototype (plan de relance)"
   projects:
-    - image: img/realisations/2021/sedaccord_timeline_2021.jpg
+    - image: img/realisations/2020/sedaccord_workflow_2020.jpg
       title: "Parcours des données avant/après"
-      description: ""
-      url: /docs/EIG4_livrables/sedaccord_timeline_2021.jpg
+      description: "Comparaison de la situation actuelle avec la situation envisagée grâce à SEDAccord."
+      url: /docs/EIG4_livrables/sedaccord_workflow_2020.pdf
       call_to_action: "Explorer le parcours"
-    - image: img/realisations/2021/sedaccord_prototype_2021.png
+    - image: img/realisations/2020/sedaccord_prototype_2020.png
       title: "Prototype"
       description: "Code source du prototype qui a permis de valider le flux de travail des utilisateurs et sera intégré à celui de VitamUI lors de l'industrialisation."
       url: https://github.com/hjonin/sedaccord-app
       call_to_action: "Explorer le code"
+    - image: img/realisations/2020/sedaccord_webinaire_2020.jpg
+      title: "Démonstration"
+      description: "Webinaire de présentation organisé par le programme Vitam dans le cadre de la journée internationale des archives ."
+      url: https://youtu.be/_3FwtarvxIU
+      call_to_action: "Visionner le webinaire"
+  intro_videos:
+    - id: x7zgtds?start=2835
+      platform: dailymotion
+      description: "SEDAccord en 3 minutes"
+      show: true
 
 "SIANCE":
   image: /img/eig4/siance.png
