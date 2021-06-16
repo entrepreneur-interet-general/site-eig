@@ -238,7 +238,7 @@
   projects:
     - image: img/realisations/2021/Découpage_code_label.png
       title: "Conception orientée réutilisation"
-      description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus générique."
+      description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
 
 "MonitorFish":
   image: /img/eig4/monitorfish.png
