@@ -22,7 +22,7 @@ Un facteur de risque par navire est en cours de définition, sur la base de diff
 ### Fluidifier le partage d’informations entre le CNSP et les agents de terrain
 Enfin, un pan important du projet est de faciliter le partage des informations cruciales pour une bonne coordination entre les différents acteurs du contrôle : plannings, annuaires, ciblages, éléments d’ambiance de terrain, suivi des verbalisations, etc. 
 
-## Impact du défi
+## Impacts du défi
 
 * Augmenter la précision et la justesse des ciblages, et donc optimiser l'effort de contrôle
 * Diminuer le temps passé à préparer les missions de contrôle pour le terrain
@@ -32,10 +32,9 @@ Enfin, un pan important du projet est de faciliter le partage des informations c
 
 ## Suite du défi
 
-MonitorFish est aujourd'hui utilisé au quotidien par les équipes du CNSP.
-Il a vocation à devenir leur principal outil de travail.
+MonitorFish est aujourd'hui utilisé au quotidien par les équipes du CNSP et a vocation à devenir leur principal outil de travail.
 Les futurs développement porteront essentiellement sur ces points :
-* Affiner le facteur de risque
-* Mettre au point des outils de communication avec les unités sur le terrain
-* Définir des alertes automatiques de détection d'infraction, et permettre leur paramétrage par les agents
-* Poursuivre et approfondir la réflexion globale sur les procédures de travail et l'organisation du centre
+* affiner le facteur de risque ;
+* mettre au point des outils de communication avec les unités sur le terrain ;
+* définir des alertes automatiques de détection d'infraction, et permettre leur paramétrage par les agents ;
+* poursuivre et approfondir la réflexion globale sur les procédures de travail et l'organisation du centre.
