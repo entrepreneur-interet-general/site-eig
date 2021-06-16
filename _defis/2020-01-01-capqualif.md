@@ -12,15 +12,15 @@ Ainsi, chaque année, la direction des affaires maritimes délivre ou revalide e
 
 Actuellement, le processus de demande des titres est long et la délivrance de ceux-ci se fait de manière manuelle par différents services.
 
-## Le défi : Simplifier la procédure administrative qui permet aux marins d'effectuer leurs demandes de titres.
+## Le défi : simplifier la procédure administrative qui permet aux marins d'effectuer leurs demandes de titres
 
 Les enjeux sont les suivants : 
-- Permettre aux marins d'effectuer simplement une demande depuis leurs mobiles ou ordinateurs. Faire en sorte que la procèdure soit plus transparente pour eux.
-- Automatiser l'instruction pour les titres simples dans un premier temps.
-- Permettre le traitement par les agents des titres plus complexes.
-- Permettre à l'administration de configurer les titres qui vont être délivrés automatiquement.
+- permettre aux marins d'effectuer simplement une demande depuis leurs mobiles ou ordinateurs. L'objectif est également de rendre la procèdure plus transparente pour eux ;
+- automatiser l'instruction pour les titres simples dans un premier temps ;
+- permettre le traitement par les agents des titres plus complexes ;
+- permettre à l'administration de configurer les titres qui vont être délivrés automatiquement.
 
 Face à cette problématique, nous avons travaillé sur les solutions suivantes : 
-- **Une interface de demande de titre pour le marin**, 
-- **L'automatisation de l'instruction pour deux titres simples** en piochant dans les données disponibles parmi les systèmes existants
-- **Une interface qui permet de configurer les règles d'instruction** nécéssaires à l'automatisation.
+- **une interface de demande de titre pour le marin** ;
+- **l'automatisation de l'instruction pour deux titres simples** en piochant dans les données disponibles parmi les systèmes existants ;
+- **une interface qui permet de configurer les règles d'instruction** nécéssaires à l'automatisation.
