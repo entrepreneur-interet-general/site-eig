@@ -318,7 +318,7 @@
       title: "Conception orientée réutilisation"
       description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
       url: https://github.com/Cour-de-cassation/label
-      call_to_action: "Ouvrir la documentation"
+      call_to_action: "Explorer le code"
 
 "MonitorFish":
   image: /img/eig4/monitorfish.png
