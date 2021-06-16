@@ -52,6 +52,13 @@
     - "Edwige Millery"
     - "Romain Delassus"
     - "Loup Wolff"
+  key_figures:
+    - amount: 100
+      description: "variables soit plus de 100.000 données issues de 15 sources différentes pour la version beta"
+    - amount: 40
+      description: "futurs usagers impliqués dans le cadre d’entretiens ou de tests du prototype"
+    - amount: 10
+      description: "ateliers de co-conception avec les chargés d’étude du service statistique ministériel"
 
 "CapQualif":
   image: /img/eig4/capqualif.png
