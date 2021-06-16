@@ -269,8 +269,8 @@
       description: "Zones réglementées cartographiées et mises en open data"
     - amount: 7
       description: "Sources de données intégrées en un seul outil"
-    - amount: 176535
-      description: "Jours de mer supervisés chaque année"
+    - amount: 25
+      description: "agents interviewés, dans 8 services différents"
     - amount: 4
       description: "Mois d'utilisation en production après 6 mois de développement"
   projects:
@@ -307,7 +307,7 @@
     - "Julie Dugardin"
     - "Matthieu Tirelli"
   mentors:
-    - "Franck Moinardeau"
+    - "Fabrice Blanc"
     - "Marjory Canonne"
     - "Vincent Barbey"
 
