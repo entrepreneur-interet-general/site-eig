@@ -346,10 +346,10 @@
       url: https://github.com/entrepreneur-interet-general/opencollectivites
       call_to_action: "Explorer le code"
     - image: img/realisations/2020/OpenCollectivites_Pitch_2020.jpg
-      title: “Pitch projet en pdf”
-      description: “Cette présentation résume de manière simple le besoin auquel répond le portail Open Collectivités, et comment il fonctionne. Nous l’avons élaborée pour le CNIS, afin de tenir au courant le COnseil de l’évolution du projet qu’il a initié en 2019.”
+      title: "Pitch projet en pdf"
+      description: "Cette présentation résume de manière simple le besoin auquel répond le portail Open Collectivités, et comment il fonctionne. Nous l’avons élaborée pour le CNIS, afin de tenir au courant le conseil de l’évolution du projet qu’il a initié en 2019."
       url: /docs/EIG4_livrables/OpenCollectivites_Pitch_052021.pdf
-      call_to_action: “Télécharger la présentation”
+      call_to_action: "Télécharger la présentation"
 
 "Opérations 18":
   image: /img/eig4/operations-18.png
