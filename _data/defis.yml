@@ -298,6 +298,9 @@
       description: "décisions traitées par les agents en 2 mois d'utilisation"
   source_code: https://github.com/Cour-de-cassation/label
   projects:
+    - image: img/realisations/2020/LABEL_screenshot.png
+      title: "Capture d'écran de l'application"
+      description: "Interface d'annotation en vue anonymisée"
     - image: img/realisations/2020/Découpage_code_label.png
       title: "Conception orientée réutilisation"
       description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
