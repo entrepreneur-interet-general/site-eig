@@ -1,6 +1,7 @@
 "ADEX":
   image: /img/eig4/adex.png
   title: ADEX
+  source_code: https://gitlab.com/has-sante/public/adex
   link_to: /defis/2020/adex.html
   skills: ["dev", "design", "datascience"]
   description: Prévenir les conflits d'intérêts dans le domaine médical
@@ -17,13 +18,27 @@
   mentors:
     - "Marie Simon"
     - "Franck Jolivaldt"
+    - "Pierre–Alain Jachiet"
+  key_figures:
+    - amount: 1288
+      description: "Déclarations d'intérêts analysées en 2020"
+    - amount: 30
+      description: "Minutes gagnées par expert analysé"
+    - amount: 20000000
+      description: "Déclarations de Transparence Santé analysées quotidiennement"
+  projects:
+    - title: "ADEX"
+      image: img/realisations/2020/adex_landing_page.png
+      url: https://www.dailymotion.com/video/x81y9dm
+      description: "L'outil ADEX se présente sous la forme d'une application web, permettant de retrouver au sein des données de Transparence Santé les informations relatives à un bénéficiaire grâce à une recherche assistée. Les résultats peuvent être exportés sous forme d'un tableur, facilitant ainsi le partage et l'enrichissement de l'analyse."
+      call_to_action: "Voir la démo"
 
 "Atlas Culture":
   image: /img/eig4/atlas-culture.png
   title: Atlas Culture
   link_to: /defis/2020/atlas-culture.html
   skills: ["dev", "design"]
-  description: Visualiser les politiques culturelles territoriales
+  description: Comprendre les dynamiques culturelles territoriales
   year: 2020
   promotion: 4
   duration_months: 10
@@ -37,6 +52,13 @@
     - "Edwige Millery"
     - "Romain Delassus"
     - "Loup Wolff"
+  key_figures:
+    - amount: 100
+      description: "variables soit plus de 100.000 données pour la version beta"
+    - amount: 40
+      description: "futurs usagers impliqués dans le cadre d’entretiens ou de tests du prototype"
+    - amount: 10
+      description: "ateliers de co-conception avec les chargés d’étude du ministère"
 
 "CapQualif":
   image: /img/eig4/capqualif.png
@@ -57,7 +79,20 @@
     - "Nicolas Singellos"
     - "Laurence Denis"
     - "Yves Le Nozahic"
-
+  key_figures:
+    - amount: 20
+      description: "Agents instructeurs mobilisés dans la démarche de conception"
+    - amount: 4
+      description: "Sources de données utilisées pour l'automatisation"
+    - amount: 2
+      description: "Titres simples inclus dans la première version du produit"
+  projects:
+    - image: img/realisations/2020/CapQualif_Screenshots_2020.png
+      title: "Capqualif"
+      description: "Une application web pour simplifier la délivrance de titres de formation aux marins professionnels."
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ3x2tl2AfJkpR7vsf74Wf_DF3fhyfXUgFHviKxOlUfzo8sdM_m83Ay3dmTJJxdkjJia2n7s6w7MKkj/pub?start=false&loop=false&delayms=3000
+      call_to_action: "Découvrir l'application"
+      
 "Datalympics":
   image: /img/eig4/datalympics.png
   title: Datalympics
@@ -198,6 +233,8 @@
   ville: "La Défense (92400)"
   administration: Commissariat général au développement durable
   administration_website: https://www.ecologique-solidaire.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  source_code: https://github.com/ecolabdata/france-transition
+  website: https://mission-transition.beta.gouv.fr
   eigs:
     - "Cédric Merouani"
     - "Nadim Bel Lallahom"
@@ -206,6 +243,46 @@
     - "Grégory Grellet"
     - "Hélène Costa"
     - "Thomas Lesueur"
+  key_figures:
+    - amount: 60
+      description: "heures de recherche"
+    - amount: 18
+      description: "tests usagers réalisés"
+    - amount: 365
+      description: "aides recensées"
+    - amount: 80
+      description: "ressources premier pas"
+  projects:
+    - image: img/realisations/2020/france-transition_aides-territoires.JPG
+      title: "Preuve de concept"
+      description: "Avec l'aide de la startup d'Etat Aides-Territoires, nous avons mis en place une preuve de concept (POC) pour tester notre promesse de valeur sous forme de guichet unique."
+      url: https://france-transition-ecologique.aides-territoires.beta.gouv.fr/
+      call_to_action: "Explorer le POC"
+    - image: img/realisations/2020/france-transition_v1.JPG
+      title: "Première version"
+      description: "Suite à notre phase de recherche, nous avons mis en production une première version de la plateforme Mission Transition."
+      url: https://mission-transition.beta.gouv.fr
+      call_to_action: "Voir le site"
+    - image: img/realisations/2020/france-transition_source_code.png
+      title: "Code source"
+      description: "Le code source de Mission Transition est disponible publiquement sur Github."
+      url: https://github.com/ecolabdata/france-transition
+      call_to_action: "Explorer le code source"
+    - image: img/realisations/2020/france-transition_kantar.png
+      title: "Rapport d'étude : Kantar"
+      description: "Dans le cadre de notre recherche utilisateur, nous avons demandé à l'entreprise Kantar de réaliser une étude sur les PME/ETI et leurs rapports aux aides publiques."
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/france-transition-kantar-2020.pdf
+      call_to_action: "Découvrir le rapport Kantar"
+    - image: img/realisations/2020/france-transition_presentation_investigation.png
+      title: "Présentation d'investigation utilisateur"
+      description: "Ce document rend compte des points de compréhension retenus lors de notre première phase de recherche utilisateur."
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/fte-eig-presentation-investigation.pptx
+      call_to_action: "Lire le compte rendu"
+    - image: img/realisations/2020/france-transition_user-tests-v1.png
+      title: "Tests utilisateurs de Mission Transition v1"
+      description: "Le déploiement de la première version de la plateforme nous a permis de la tester auprès de quelques entreprises lors d'entretiens qualitatifs de 45 minutes."
+      url: https://github.com/ecolabdata/france-transition/raw/master/documentation/user-tests-v1-2021.pdf
+      call_to_action: "Accéder au rapport anonymisé"
 
 "LABEL":
   image: /img/eig4/label.png
@@ -220,13 +297,28 @@
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
   eigs:
-    - "Benoît Serrano"
+    - "Benoit Serrano"
     - "Nicolas Assouad"
     - "Romain Glé"
   mentors:
     - "Estelle Jond-Necand"
     - "Claire Herbin"
     - "Jean-Michel Sommer"
+  key_figures:
+    - amount: 30
+      description: "% de gain de temps en moyenne sur le traitement d'une décision"
+    - amount: 21600
+      description: "décisions traitées par les agents en 2 mois d'utilisation"
+  source_code: https://github.com/Cour-de-cassation/label
+  projects:
+    - image: img/realisations/2020/LABEL_screenshot.png
+      title: "Capture d'écran de l'application"
+      description: "Interface d'annotation en vue anonymisée"
+    - image: img/realisations/2020/Découpage_code_label.png
+      title: "Conception orientée réutilisation"
+      description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
+      url: https://github.com/Cour-de-cassation/label
+      call_to_action: "Explorer le code"
 
 "MonitorFish":
   image: /img/eig4/monitorfish.png
@@ -274,6 +366,16 @@
       description: "Nous avons tracé les 965 zones de pêche réglementées pour faciliter l'interprétation et la mise en application opérationnelle de la réglementation."
       url: https://www.data.gouv.fr/fr/datasets/reglementation-des-peches-cartographiee/
       call_to_action: "Explorer les données"
+    - image: img/realisations/2020/Monitorfish_carnet_immersion.png
+      title: "Diagnostic initial"
+      description: "À notre arrivée au CNSP, nous avons mené une série d'interviews et d'observations de terrain afin de comprendre les rôles et missions de chacun, identifier les difficultés rencontrées, et cerner les premiers points d'améliorations possibles. Nous avons synthétisé ce diagnostic dans un carnet d'immersion, qui nous a servi de base pour définir et prioriser les fonctionnalités-clés de MonitorFish."
+      url: /docs/EIG4_livrables/MonitorFish_Carnet_immersion_extraits.pdf
+      call_to_action: "Lire le carnet d'immersion"
+  intro_videos:
+    - id: 563710999
+      platform: vimeo
+      description: "Présentation de l'outil (juin 2021)"
+      show: true
 
 "NEOTac":
   image: /img/eig4/neotac.png
@@ -301,13 +403,15 @@
   title: Open Collectivités
   link_to: /defis/2020/open-collectivites.html
   skills: ["dev", "design"]
-  description: Simplifier l’accès aux informations financières et statistiques des collectivités locales
+  description: Simplifier l’accès aux informations et statistiques sur les collectivités locales
   year: 2020
   promotion: 4
   duration_months: 10
   ville: "Paris (75008)"
   administration: Direction générale des collectivités locales
   administration_website: https://www.collectivites-locales.gouv.fr
+  source_code: https://github.com/entrepreneur-interet-general/opencollectivites
+  website: https://www.open-collectivites.fr/
   eigs:
     - "Élodie Delaisement"
     - "Sylvain Boissel"
@@ -315,11 +419,45 @@
     - "Luc Brière"
     - "Raphaël Bévenot"
     - "Stéphane Brunot"
+  key_figures:
+    - amount: 32
+      description: "sources de statistiques locales rassemblées"
+    - amount: 798
+      description: "publications statistiques sélectionnées"
+    - amount: 36341
+      description: "fiches synthétiques sur les collectivités territoriales"
+  projects:
+    - image: img/realisations/2020/OpenCollectivites_Accueil_2020.jpg
+      title: "Fiches synthétiques téléchargeables"
+      description: "Trouver les chiffres-clés sur une collectivité donnée, la comparer à d’autres et télécharger les données au format csv."
+      url: https://www.open-collectivites.fr/
+      call_to_action: "Trouver une collectivité"
+    - image: img/realisations/2020/OpenCollectivites_Publications_2020.jpg
+      title: "Bibliothèque des publications statistiques locales"
+      description: "Nous avons rassemblé et sélectionné les publications statistiques portant sur les collectivités locales. Culture, développement durable, finances, santé et social... Certains jeux de données et outils particulièrement utiles ont également été mis en avant par l'équipe."
+      url: https://www.open-collectivites.fr/publications
+      call_to_action: "Trouver une publication"
+    - image: img/realisations/2020/OpenCollectivites_RechercheUsagers_2020.jpg
+      title: "Recherche usagers"
+      description: "Nous avons mené une recherche auprès des agents des collectivités locales afin de valider les besoins auxquels Open Collectivités répond. Les directrices et directeurs financiers des départements nous ont répondu."
+      url: /docs/EIG4_livrables/OpenCollectivites_RechercheUsagers_022021.pdf
+      call_to_action: "Voir le compte-rendu de recherche"
+    - image: img/realisations/2020/OpenCollectivites_Github_2020.jpg
+      title: "Code source ouvert"
+      description: "Afin de faciliter la maintenance et la réutilisation du code, il est intégralement publié en open source."
+      url: https://github.com/entrepreneur-interet-general/opencollectivites
+      call_to_action: "Explorer le code"
+    - image: img/realisations/2020/OpenCollectivites_Pitch_2020.jpg
+      title: "Pitch projet en pdf"
+      description: "Cette présentation résume de manière simple le besoin auquel répond le portail Open Collectivités, et comment il fonctionne. Nous l’avons élaborée pour le CNIS, afin de tenir au courant le conseil de l’évolution du projet qu’il a initié en 2019."
+      url: /docs/EIG4_livrables/OpenCollectivites_Pitch_052021.pdf
+      call_to_action: "Télécharger la présentation"
 
 "Opérations 18":
   image: /img/eig4/operations-18.png
   title: Opérations 18
   link_to: /defis/2020/operations-18.html
+  source_code: https://gitlab.com/op18-enki/cosmic-sapeurs
   skills: ["dev", "dataengineering", "datascience"]
   description: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers
   year: 2020
@@ -336,6 +474,13 @@
     - "Denis Daviau"
     - "Stéphane Tollemer"
     - "Thibaud Weinachter"
+  key_figures:
+    - amount: 500000
+      description: "Interventions par an sur le terrain"
+    - amount: 30
+      description: "Évenements gérés par minute"
+    - amount: 250
+      description: "Tests automatisés de l'application"
 
 "SEDAccord":
   image: /img/eig4/sedaccord.png
@@ -376,6 +521,26 @@
     - "Dominique Boina"
     - "Damien Clément"
     - "Daniel Delalande"
+  key_figures:
+    - amount: 200000
+      before: "+"
+      description: "Écarts extraits et analysés"
+    - amount: 3
+      description: "Référentiels métiers consolidés sur 20ans de données"
+    - amount: 30
+      after: "%"
+      description: "Des 320 inspecteurs ont utilisé l'outil"
+  projects:
+    - image: img/realisations/2020/SIANCE_recherche_2020.png
+      title: "Portail SIANCE"
+      description: "Nous avons développé un portail interne dédié à la préparation et la conduite des inspections de l'ASN."
+      url: 
+      call_to_action: "Lien disponible prochainement"
+    - image: img/realisations/2020/SIANCE_swagger_2020.png
+      title: "API SIANCE"
+      description: "Nous avons développé une API dédiée au partage de données avec l'institut expert collaborant avec l'ASN."
+      url: 
+      call_to_action: "Lien disponible prochainement"
 
 "SSP Datalab":
   image: /img/eig4/ssp-datalab.png
