@@ -83,9 +83,9 @@ class TestDefis(BaseTest):
                     )
 
                     for figure in content[key]:
-                        self.assertEquals(
-                            figure.keys(),
+                        self.assertLessEqual(
                             set(["amount", "description"]),
+                            figure.keys(),
                             f"Clés manquantes pour chiffres clés du défi {defi}",
                         )
                         self.assertIsInstance(
