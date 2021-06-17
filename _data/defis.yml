@@ -60,12 +60,12 @@
     - amount: 10
       description: "ateliers de co-conception avec les chargés d’étude du ministère"
   projects:
-    - image: img/realisations/2021/AtlasCulture_Restitution_062021
+    - image: img/realisations/2020/AtlasCulture_Restitution_062021
       title: "Restitution défi Atlas Culture"
       description: "Présentation des étapes clés des 10 mois du défi et de la solution proposée"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG4_livrables/AtlasCulture_Restitution_062021
       call_to_action: "Lire la présentation"
-    - image: img/realisations/2021/AtlasCulture_Github_062021
+    - image: img/realisations/2020/AtlasCulture_Github_062021
       title: "Code source Atlas Culture"
       description: "Le code source est disponible publiquement sur Github"
       url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG4_livrables/AtlasCulture_Github_062021
