@@ -319,7 +319,7 @@
     - image: img/realisations/2020/Monitorfish_carnet_immersion.png
       title: "Diagnostic initial"
       description: "À notre arrivée au CNSP, nous avons mené une série d'interviews et d'observations de terrain afin de comprendre les rôles et missions de chacun, identifier les difficultés rencontrées, et cerner les premiers points d'améliorations possibles. Nous avons synthétisé ce diagnostic dans un carnet d'immersion, qui nous a servi de base pour définir et prioriser les fonctionnalités-clés de MonitorFish."
-      url: https://github.com/entrepreneur-interet-general/site-eig/files/6075007/MonitorFish_Carnet_immersion_extraits.pdf
+      url: /docs/EIG4_livrables/MonitorFish_Carnet_immersion_extraits.pdf
       call_to_action: "Lire le carnet d'immersion"
 
 "NEOTac":
