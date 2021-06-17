@@ -866,6 +866,25 @@ Chloé Moser:
   twitter: archivist_chloe
   website:
 
+Christelle Ratignier-Carbonneil:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - DataMed
+  github:
+  gitlab:
+  image_url: /img/communaute/christelle_ratignier-carbonneil.png
+  link_to: /communaute/2020/christelle-ratignier-carbonneil.html
+  linkedin: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
+  profil: Mentor
+  programme: EIG
+  title: Christelle Ratignier-Carbonneil
+  twitter:
+  website:
+
 Christophe Astier:
   annees:
   - 2019
@@ -1582,24 +1601,6 @@ Estelle Jond-Necand:
   twitter: EtienneDavid
   website:
 
-Evelyne Duplessis:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - DataMed
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/evelyne-duplessis.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Evelyne Duplessis
-  twitter:
-  website:
 
 Evelyne Vezinet:
   annees:
@@ -1689,7 +1690,7 @@ Florent Robic:
   gitlab:
   image_url: /img/communaute/florent-robic.png
   link_to: /communaute/2020/florent-robic.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/florentrobic/
   profil: Mentor
   programme: EIG
   title: Florent Robic
@@ -3357,7 +3358,7 @@ Mehdi Benkebil:
   gitlab:
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/mehdi-benkebil.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/mbenkebil/
   profil: Mentor
   programme: EIG
   title: Mehdi Benkebil
@@ -3760,9 +3761,9 @@ Patrick Maison:
   - DataMed
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/patrick-maison.jpg
   link_to: /communaute/2020/patrick-maison.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/patrick-maison-38991853/
   profil: Mentor
   programme: EIG
   title: Patrick Maison
