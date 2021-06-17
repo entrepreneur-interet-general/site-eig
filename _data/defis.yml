@@ -1,6 +1,7 @@
 "ADEX":
   image: /img/eig4/adex.png
   title: ADEX
+  source_code: https://gitlab.com/has-sante/public/adex
   link_to: /defis/2020/adex.html
   skills: ["dev", "design", "datascience"]
   description: Prévenir les conflits d'intérêts dans le domaine médical
@@ -17,13 +18,27 @@
   mentors:
     - "Marie Simon"
     - "Franck Jolivaldt"
+    - "Pierre–Alain Jachiet"
+  key_figures:
+    - amount: 1288
+      description: "Déclarations d'intérêts analysées en 2020"
+    - amount: 30
+      description: "Minutes gagnées par expert analysé"
+    - amount: 20000000
+      description: "Déclarations de Transparence Santé analysées quotidiennement"
+  projects:
+    - title: "ADEX"
+      image: img/realisations/2020/adex_landing_page.png
+      url: https://www.dailymotion.com/video/x81y9dm
+      description: "L'outil ADEX se présente sous la forme d'une application web, permettant de retrouver au sein des données de Transparence Santé les informations relatives à un bénéficiaire grâce à une recherche assistée. Les résultats peuvent être exportés sous forme d'un tableur, facilitant ainsi le partage et l'enrichissement de l'analyse."
+      call_to_action: "Voir la démo"
 
 "Atlas Culture":
   image: /img/eig4/atlas-culture.png
   title: Atlas Culture
   link_to: /defis/2020/atlas-culture.html
   skills: ["dev", "design"]
-  description: Visualiser les politiques culturelles territoriales
+  description: Comprendre les dynamiques culturelles territoriales
   year: 2020
   promotion: 4
   duration_months: 10
@@ -37,6 +52,13 @@
     - "Edwige Millery"
     - "Romain Delassus"
     - "Loup Wolff"
+  key_figures:
+    - amount: 100
+      description: "variables soit plus de 100.000 données pour la version beta"
+    - amount: 40
+      description: "futurs usagers impliqués dans le cadre d’entretiens ou de tests du prototype"
+    - amount: 10
+      description: "ateliers de co-conception avec les chargés d’étude du ministère"
 
 "CapQualif":
   image: /img/eig4/capqualif.png
@@ -57,7 +79,20 @@
     - "Nicolas Singellos"
     - "Laurence Denis"
     - "Yves Le Nozahic"
-
+  key_figures:
+    - amount: 20
+      description: "Agents instructeurs mobilisés dans la démarche de conception"
+    - amount: 4
+      description: "Sources de données utilisées pour l'automatisation"
+    - amount: 2
+      description: "Titres simples inclus dans la première version du produit"
+  projects:
+    - image: img/realisations/2020/CapQualif_Screenshots_2020.png
+      title: "Capqualif"
+      description: "Une application web pour simplifier la délivrance de titres de formation aux marins professionnels."
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ3x2tl2AfJkpR7vsf74Wf_DF3fhyfXUgFHviKxOlUfzo8sdM_m83Ay3dmTJJxdkjJia2n7s6w7MKkj/pub?start=false&loop=false&delayms=3000
+      call_to_action: "Découvrir l'application"
+      
 "Datalympics":
   image: /img/eig4/datalympics.png
   title: Datalympics
@@ -262,13 +297,28 @@
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
   eigs:
-    - "Benoît Serrano"
+    - "Benoit Serrano"
     - "Nicolas Assouad"
     - "Romain Glé"
   mentors:
     - "Estelle Jond-Necand"
     - "Claire Herbin"
     - "Jean-Michel Sommer"
+  key_figures:
+    - amount: 30
+      description: "% de gain de temps en moyenne sur le traitement d'une décision"
+    - amount: 21600
+      description: "décisions traitées par les agents en 2 mois d'utilisation"
+  source_code: https://github.com/Cour-de-cassation/label
+  projects:
+    - image: img/realisations/2020/LABEL_screenshot.png
+      title: "Capture d'écran de l'application"
+      description: "Interface d'annotation en vue anonymisée"
+    - image: img/realisations/2020/Découpage_code_label.png
+      title: "Conception orientée réutilisation"
+      description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
+      url: https://github.com/Cour-de-cassation/label
+      call_to_action: "Explorer le code"
 
 "MonitorFish":
   image: /img/eig4/monitorfish.png
@@ -402,6 +452,7 @@
   image: /img/eig4/operations-18.png
   title: Opérations 18
   link_to: /defis/2020/operations-18.html
+  source_code: https://gitlab.com/op18-enki/cosmic-sapeurs
   skills: ["dev", "dataengineering", "datascience"]
   description: Optimiser l’utilisation des capacités opérationnelles des sapeurs-pompiers
   year: 2020
@@ -418,6 +469,13 @@
     - "Denis Daviau"
     - "Stéphane Tollemer"
     - "Thibaud Weinachter"
+  key_figures:
+    - amount: 500000
+      description: "Interventions par an sur le terrain"
+    - amount: 30
+      description: "Évenements gérés par minute"
+    - amount: 250
+      description: "Tests automatisés de l'application"
 
 "SEDAccord":
   image: /img/eig4/sedaccord.png
@@ -458,6 +516,26 @@
     - "Dominique Boina"
     - "Damien Clément"
     - "Daniel Delalande"
+  key_figures:
+    - amount: 200000
+      before: "+"
+      description: "Écarts extraits et analysés"
+    - amount: 3
+      description: "Référentiels métiers consolidés sur 20ans de données"
+    - amount: 30
+      after: "%"
+      description: "Des 320 inspecteurs ont utilisé l'outil"
+  projects:
+    - image: img/realisations/2020/SIANCE_recherche_2020.png
+      title: "Portail SIANCE"
+      description: "Nous avons développé un portail interne dédié à la préparation et la conduite des inspections de l'ASN."
+      url: 
+      call_to_action: "Lien disponible prochainement"
+    - image: img/realisations/2020/SIANCE_swagger_2020.png
+      title: "API SIANCE"
+      description: "Nous avons développé une API dédiée au partage de données avec l'institut expert collaborant avec l'ASN."
+      url: 
+      call_to_action: "Lien disponible prochainement"
 
 "SSP Datalab":
   image: /img/eig4/ssp-datalab.png
