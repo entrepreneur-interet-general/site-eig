@@ -59,6 +59,17 @@
       description: "futurs usagers impliqués dans le cadre d’entretiens ou de tests du prototype"
     - amount: 10
       description: "ateliers de co-conception avec les chargés d’étude du ministère"
+    projects:
+    - title: "Restitution défi Atlas Culture"
+      image: img/realisations/2020/AtlasCulture_Restitution_062021.png
+      url: https://entrepreneur-interet-general.etalab.gouv.fr/docs/EIG4_livrables/AtlasCulture_Restitution_062021
+      description: "Présentation des étapes clés des 10 mois du défi et de la solution proposée"
+      call_to_action: "Lire la restitution"
+    - title: "Code source Atlas Culture"
+      image: img/realisations/2020/AtlasCulture_Github_062021.png
+      url: https://github.com/liviaribeiro/atlasculture
+      description: "Le code source est disponible publiquement"
+      call_to_action: "Voir le projet Github"
 
 "CapQualif":
   image: /img/eig4/capqualif.png
