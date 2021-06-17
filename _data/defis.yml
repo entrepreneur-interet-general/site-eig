@@ -297,13 +297,28 @@
   administration: Cour de Cassation
   administration_website: https://www.courdecassation.fr
   eigs:
-    - "Benoît Serrano"
+    - "Benoit Serrano"
     - "Nicolas Assouad"
     - "Romain Glé"
   mentors:
     - "Estelle Jond-Necand"
     - "Claire Herbin"
     - "Jean-Michel Sommer"
+  key_figures:
+    - amount: 30
+      description: "% de gain de temps en moyenne sur le traitement d'une décision"
+    - amount: 21600
+      description: "décisions traitées par les agents en 2 mois d'utilisation"
+  source_code: https://github.com/Cour-de-cassation/label
+  projects:
+    - image: img/realisations/2020/LABEL_screenshot.png
+      title: "Capture d'écran de l'application"
+      description: "Interface d'annotation en vue anonymisée"
+    - image: img/realisations/2020/Découpage_code_label.png
+      title: "Conception orientée réutilisation"
+      description: "Nous avons conçu notre application pour qu'elle puisse convenir à des besoins d'annotation et d'anonymisation plus génériques."
+      url: https://github.com/Cour-de-cassation/label
+      call_to_action: "Explorer le code"
 
 "MonitorFish":
   image: /img/eig4/monitorfish.png
