@@ -305,7 +305,7 @@ Anthony Blondel:
   - Opérations 18
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/anthony-blondel.jpeg
   link_to: /communaute/2020/anthony-blondel.html
   linkedin:
   profil: Mentor
@@ -614,7 +614,7 @@ Benoît Guigal:
   twitter: BGuigal
   website:
 
-Benoît Serrano:
+Benoit Serrano:
   annees:
   - 2020
   class:
@@ -630,7 +630,7 @@ Benoît Serrano:
   linkedin: https://www.linkedin.com/in/benoit-serrano-9a2900ab/
   profil: Développeur
   programme: EIG
-  title: Benoît Serrano
+  title: Benoit Serrano
   twitter: BenoitSerrano
   website:
 
@@ -864,6 +864,25 @@ Chloé Moser:
   programme: EIG
   title: Chloé Moser
   twitter: archivist_chloe
+  website:
+
+Christelle Ratignier-Carbonneil:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - DataMed
+  github:
+  gitlab:
+  image_url: /img/communaute/christelle_ratignier-carbonneil.png
+  link_to: /communaute/2020/christelle-ratignier-carbonneil.html
+  linkedin: https://www.linkedin.com/in/christelle-ratignier-carbonneil-8279a913b/
+  profil: Mentor
+  programme: EIG
+  title: Christelle Ratignier-Carbonneil
+  twitter:
   website:
 
 Christophe Astier:
@@ -1582,24 +1601,6 @@ Estelle Jond-Necand:
   twitter: EtienneDavid
   website:
 
-Evelyne Duplessis:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - DataMed
-  github:
-  gitlab:
-  image_url: /img/communaute/sans-photo.png
-  link_to: /communaute/2020/evelyne-duplessis.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Evelyne Duplessis
-  twitter:
-  website:
 
 Evelyne Vezinet:
   annees:
@@ -1617,6 +1618,25 @@ Evelyne Vezinet:
   profil: Mentor
   programme: DIG
   title: Evelyne Vezinet
+  twitter:
+  website:
+
+Fabrice Blanc:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - NEOTac
+  github:
+  gitlab:
+  image_url: /img/communaute/fabrice-blanc.jpg
+  link_to: /communaute/2020/fabrice-blanc.html
+  linkedin:
+  profil: Mentor
+  programme: EIG
+  title: Fabrice Blanc
   twitter:
   website:
 
@@ -1670,7 +1690,7 @@ Florent Robic:
   gitlab:
   image_url: /img/communaute/florent-robic.png
   link_to: /communaute/2020/florent-robic.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/florentrobic/
   profil: Mentor
   programme: EIG
   title: Florent Robic
@@ -1732,25 +1752,6 @@ Franck Jolivaldt:
   profil: Mentor
   programme: EIG
   title: Franck Jolivaldt
-  twitter:
-  website:
-
-Franck Moinardeau:
-  annees:
-  - 2020
-  class:
-  - mentor
-  - eig-4
-  defis:
-  - NEOTac
-  github:
-  gitlab:
-  image_url: /img/communaute/franck-moinardeau.png
-  link_to: /communaute/2020/franck-moinardeau.html
-  linkedin:
-  profil: Mentor
-  programme: EIG
-  title: Franck Moinardeau
   twitter:
   website:
 
@@ -3357,7 +3358,7 @@ Mehdi Benkebil:
   gitlab:
   image_url: /img/communaute/sans-photo.png
   link_to: /communaute/2020/mehdi-benkebil.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/mbenkebil/
   profil: Mentor
   programme: EIG
   title: Mehdi Benkebil
@@ -3760,9 +3761,9 @@ Patrick Maison:
   - DataMed
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/patrick-maison.jpg
   link_to: /communaute/2020/patrick-maison.html
-  linkedin:
+  linkedin: https://www.linkedin.com/in/patrick-maison-38991853/
   profil: Mentor
   programme: EIG
   title: Patrick Maison
@@ -3927,6 +3928,29 @@ Pierre-Alain Jachiet:
   title: Pierre-Alain Jachiet
   twitter: pa_jachiet
   website:
+
+# Pierre-Alain Jachiet comme mentor
+# On a remplacé le tiret court par un tiret moyen
+# – vs -
+Pierre–Alain Jachiet:
+  annees:
+  - 2020
+  class:
+  - mentor
+  - eig-4
+  defis:
+  - ADEX
+  github: pajachiet
+  gitlab:
+  image_url: /img/communaute/pierre-alain-jachiet.png
+  link_to: /communaute/2019/pierre-alain-jachiet.html
+  linkedin: https://www.linkedin.com/in/pierrealainjachiet/
+  profil: Mentor
+  programme: EIG
+  title: Pierre-Alain Jachiet
+  twitter: pa_jachiet
+  website:
+
 
 Pierre Dubreuil:
   annees:
@@ -4743,7 +4767,7 @@ Thibaud Weinachter:
   - Opérations 18
   github:
   gitlab:
-  image_url: /img/communaute/sans-photo.png
+  image_url: /img/communaute/thibaud-weinachter.jpeg
   link_to: /communaute/2020/thibaud-weinachter.html
   linkedin:
   profil: Mentor
@@ -4991,7 +5015,7 @@ Vincent Barbey:
   title: Vincent Barbey
   twitter:
   website:
-
+  
 Vincent Bataille:
   annees:
   - 2019

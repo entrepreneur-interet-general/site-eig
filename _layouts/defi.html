@@ -89,7 +89,24 @@ layout: default
         <i class="fa fa-external-link" title="Lien vers une démonstration du défi"></i> Postuler
       </a>
       {% endif %}
+      
+      {% if defi_data.intro_videos %}
+        <h2>Vidéo de présentation</h2>
+        {% for video in defi_data.intro_videos %}
+        {% if video.platform == 'dailymotion' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe class="responsive-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% elsif video.platform == 'loom' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe width="640" height="360" src="https://www.loom.com/embed/{{ video.id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        {% elsif video.platform == 'vimeo' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe title="vimeo-player" src="https://player.vimeo.com/video/{{ video.id }}" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+        {% endfor %}
+      {% else %}
       <div class="two spacing"></div>
+      {% endif %}
 
       {{ content }}
 
@@ -108,10 +125,18 @@ layout: default
       <div class="row">
         {% for key_figure in defi_data.key_figures %}
         <div class="small-6 columns text-center large-3">
-          <div class="mod modMilestone no-icon">
-            <strong data-from="0" data-to="{{ key_figure.amount }}">{{ key_figure.amount }}</strong>
-            <span>{{ key_figure.description }}</span>
-            <div class="spacing"></div>
+            <div class="mod modMilestone no-icon">
+                {% if key_figure.before %}
+                <span class="before">{{ key_figure.before }}</span>
+                {% endif %}
+                <strong data-from="0" data-to="{{ key_figure.amount}}">
+                    {{ key_figure.amount }}
+                </strong>
+                {% if key_figure.after %}
+                <span class="after">{{ key_figure.after }}</span>
+                {% endif %}
+                <span>{{ key_figure.description }}</span>
+                <div class="spacing"></div>
           </div>
         </div>
         {% endfor %}
@@ -154,6 +179,12 @@ layout: default
         {% if video.platform == 'dailymotion' and video.show %}
         <p>{{ video.description }}</p>
         <iframe class="responsive-iframe" frameborder="0" src="https://www.dailymotion.com/embed/video/{{ video.id }}" allowfullscreen allow="autoplay"></iframe>
+        {% elsif video.platform == 'loom' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe width="640" height="360" src="https://www.loom.com/embed/{{ video.id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        {% elsif video.platform == 'vimeo' and video.show %}
+        <p>{{ video.description }}</p>
+        <iframe title="vimeo-player" src="https://player.vimeo.com/video/{{ video.id }}" width="640" height="360" frameborder="0" allowfullscreen></iframe>
         {% endif %}
       {% endfor %}
     </div>
