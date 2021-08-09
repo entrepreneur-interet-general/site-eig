@@ -142,18 +142,18 @@
       url: https://documentation-snds.health-data-hub.fr/evenements/meetup.html#_2021-06-24-meetup-snds10
       call_to_action: "Voir le replay"
     - image: img/realisations/2020/Datamed_video_joelle.png
-      title: "Portrait d'EIG : Joëlle Chong, Designeur de service"
-      description: "C'est quoi être Designeur de service dans le cadre de la mission EIG."
+      title: "Portrait d'EIG : Joëlle Chong, Designeur de Services"
+      description: "C'est quoi être Designeur de Services dans le cadre de la mission EIG, à l'ANSM."
       url: https://www.dailymotion.com/video/x7zylbr
       call_to_action: "Voir la vidéo"
     - image: img/realisations/2020/Datamed_video_line.png
       title: "Portrait d'EIG : Line Rahal, Data Scientist"
-      description: "C'est quoi être Data Scientist dans le cadre de la mission EIG."
+      description: "C'est quoi être Data Scientist dans le cadre de la mission EIG, à l'ANSM."
       url: https://www.dailymotion.com/video/x7zymgd
       call_to_action: "Voir la vidéo"
     - image: img/realisations/2020/Datamed_experience_map.png
       title: "Experience Map"
-      description: "Cartographie de l'expérience du patient chronique"
+      description: "Cartographie de l'expérience du patient chronique, réalisée en partenariat avec l’UFPP."
       url: https://github.com/entrepreneur-interet-general/datamed/blob/main/documentation/Atelier_Patients_Partenaires_Cartographie_Experience_Patient_Chronique.pdf
       call_to_action: "Découvrir la map"
   end_of_project_videos:
