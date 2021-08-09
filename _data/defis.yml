@@ -25,7 +25,7 @@
     - amount: 30
       description: "Minutes gagnées par expert analysé"
     - amount: 20000000
-      description: "Déclarations de Transparence Santé analysées quotidiennement"
+      description: "Déclarations de Transparence Santé traitées quotidiennement"
   projects:
     - title: "ADEX"
       image: img/realisations/2020/adex_landing_page.png
