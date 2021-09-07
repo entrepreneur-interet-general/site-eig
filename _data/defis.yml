@@ -563,6 +563,11 @@
       platform: dailymotion
       description: "SEDAccord en 3 minutes"
       show: true
+  end_of_project_videos:
+    - id: x82dzay
+      platform: dailymotion
+      description: "Faciliter l’archivage des données pour les services de l’administration, l’exemple du défi SEDAccord"
+      show: true      
 
 "SIANCE":
   image: /img/eig4/siance.png
