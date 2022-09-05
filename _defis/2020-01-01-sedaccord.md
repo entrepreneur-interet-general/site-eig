@@ -37,7 +37,7 @@ Durant les 10 mois de notre défi, nous avons pu **produire un prototype qui a �
 
 ![Chronologie du défi](/img/realisations/2020/sedaccord_timeline_2020.png)
 
-A partir de l’été 2021, grâce à un financement de 99 000 euros du Plan de relance, nous allons **poursuivre les développements** à partir de la base de code existante avec pour objectif de **l’intégrer à l’interface [Vitam UI](https://www.programmevitam.fr/pages/logiciel/logiciel_frontoffice/)** et de le rendre utilisable en production.
+À partir de l’été 2021, grâce à un financement de 99 000 euros du Plan de relance, nous allons **poursuivre les développements** à partir de la base de code existante avec pour objectif de **l’intégrer à l’interface [Vitam UI](https://www.programmevitam.fr/pages/logiciel/logiciel_frontoffice/)** et de le rendre utilisable en production.
 
 Une suite est également prévue pour **harmoniser le design system** et afin de **poursuivre les travaux sur de nouvelles fonctionnalités** nécessaires aux utilisateurs : automatisation de traitements techniques chronophages, gestion de grosse volumétrie, interopérabilité avec d’autres outils, etc.
 
