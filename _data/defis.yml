@@ -791,11 +791,11 @@
   link_to: /defis/2019/datareg.html
   skills: ["geomatique", "dev"]
   description: "Maximiser l’exploitation des données de l’Arcep"
+  administration: Autorité de régulation des communications électroniques et des Postes
+  administration_website: https://www.arcep.fr
   year: 2019
   promotion: 3
   duration_months: 10
-  administration: Autorité de régulation des communications électroniques et des Postes
-  administration_website: https://www.arcep.fr
   poster: "https://fichiers.eig-forever.org/posters/eig3/datareg.pdf"
   eigs:
     - "Carine Stolz"
@@ -804,11 +804,24 @@
     - "Laurent Toustou"
     - "Pierre Dubreuil"
     - "Loïc Duflot"
+  key_figures:
+    - amount: 100
+      description: "fichiers désormais intégrés automatiquement dans la base de données mobile"
+    - amount: 1
+      description: "API prototype développée pour connaître la couverture mobile et internet fixe à une adresse donnée"
+    - amount: 2
+      description: "ateliers de vulgarisation sur le numérique organisés à l'Arcep : géomatique et open data"
   end_of_project_videos:
     - id: x7o1566
       platform: dailymotion
       description: "Faire des données un outil de régulation, l’exemple du défi DataReg"
       show: true
+  projects:
+    - image: img/realisations/2019/blank.jpg
+      title: "Projet EIG DataReg à l'Arcep"
+      description: "A partir des données de couverture mobile fournies par les opérateurs, nous avons développé un système entièrement automatisé qui permet d'intégrer les données dans une base de données mobile dédiée. Depuis cette base, nous calculons automatiquement les taux de couverture des opérateurs, qui servent aux différentes unités de l'ARCEP dans leurs missions de suivi."
+      url: 
+      call_to_action: "Sortir les fichiers en Open data"
 
 "EIG Link 2019":
   image: /img/defis/11_EIGLink.png
