@@ -647,6 +647,30 @@
   mentors:
     - "Nicolas Bizet"
     - "Patricia Poulet-Mathis"
+  key_figures:
+    - amount: 3
+      description: "services de l’État contributeurs: l'ACOSS, le Pôle emploi et la Direction générale du travail"
+    - amount: 70
+      description: "jusqu'a 70 données en moins à compléter par l’utilisateur sur l’Attestation Employeur grâce à l’API"
+    - amount: 9
+      description: "calculs d’indemnités simulés pour les utilisateurs."
+  projects:
+    - image: img/realisations/2019/blank.jpg
+      title: "Diagnostic de l’expérience utilisateur"
+      description: "Identification des opportunités d’amélioration du service via une recherche utilisateur"
+      url: 
+      call_to_action: 
+    - image: img/realisations/2019/blank.jpg
+      title: "Co-construction des écrans"
+      description: "Co-construction des écrans du site avec les équipes du centre Pajemploi, sous la forme de prototypes papiers."
+      url: 
+      call_to_action: 
+    - image: img/realisations/2019/blank.jpg
+      title: "Conception d’un nouveau service Pajemploi, \"Mes démarches de fin de contrat\""
+      description: "Il comporte deux fonctionnalités : un simulateur d'indemnités de fin de contrat et une aide administrative pour réaliser en quelques clics les documents de fin de contrat.
+      Ce site nommé \"Mes démarches de fin de contrat\" sera en ligne fin en mars 2020."
+      url: 
+      call_to_action:
   end_of_project_videos:
     - id: x7o1567
       platform: dailymotion
