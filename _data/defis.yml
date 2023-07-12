@@ -1137,6 +1137,7 @@
   duration_months: 10
   administration: Cour des comptes
   administration_website: https://www.ccomptes.fr/
+  source_code: 
   poster: "https://fichiers.eig-forever.org/posters/eig3/plume.pdf"
   eigs:
     - "Amélie Medem"
@@ -1148,11 +1149,41 @@
     - "Adnène Trojette"
     - "Mathieu Andro"
     - "Florent Laboy"
+  key_figures:
+    - amount: 1
+      description: "clic suffit pour changer de feuille de style contre 1 journée avant"
+    - amount: 100000
+      description: " documents consultables par les magistrats"
+    - amount: 20
+      description: "corpus documentaires"
+    - amount: 1
+      description: "lac de données expérimental"
   end_of_project_videos:
     - id: x7o1569
       platform: dailymotion
       description: "Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi Plume"
       show: true
+  projects:
+    - image: img/realisations/2019/coko.png
+      title: "Collaboration avec la Collaborative Knowledge Foundation"
+      description: "Plume Rédaction a uni ses forces à celles de la communauté internationnale Coko dont le produit open-source Editoria répond à des enjeux similaires. L'équipe collabore avec les développeurs d'Editoria."
+      url: https://editoria.pub
+      call_to_action: "Rejoignez la communauté"
+    - image: img/realisations/2019/editeur_plume.png
+      title: "Un éditeur épuré et spécialisé"
+      description: "Plume rédaction propose une plateforme de publication intégrant un éditeur collaboratif en ligne. L'outil gère la mise en page et à tout moment, un simple clic permet d'obtenir un PDF normalisé, contenant page de garde et sommaire ainsi que des sections générées dynamiquement selon le contenu rédigé."
+      url: https://eig-plume.gitlab.io
+      call_to_action: "Découvrez l'outil de rédaction collaborative"
+    - image: img/realisations/2019/poster_plume_explo_v2.jpg
+      title: "Un outil d'exploration des documents de la Cour"
+      description: "Plume Exploration est un portail d’accès aux rapports de la Cour, unique, fluide et efficace. Le magistrat peut chercher dans le texte intégral des documents (rapports, arrêts, etc.) et consulter les informations associées (auteur, organisme de contrôle, etc.). Ainsi, il peut prendre connaissance des positions déjà prises par la Cour sur un sujet."
+      url: http://explorationjf.ccomptes.fr
+      call_to_action: "Testez l'outil d'exploration"
+    - image: img/realisations/2019/archi_datalake_plume_explo_v2.png
+      title: "Lac de données expérimentale"
+      description: "L’architecture choisie rend accessible à un seul endroit des donnéesde sources hétérogènes."
+      url: http://explorationjf.ccomptes.fr
+      call_to_action: "Explorez nos architectures"
 
 "Polygraphe":
   image: /img/logo-polygraphe.png
